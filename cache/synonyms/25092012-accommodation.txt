@@ -1,1 +1,0 @@
-a:1:{s:4:"noun";a:1:{s:3:"syn";a:15:{i:0;s:10:"adjustment";i:1;s:7:"fitting";i:2;s:7:"advance";i:3;s:3:"aid";i:4;s:10:"alteration";i:5;s:6:"assist";i:6;s:10:"assistance";i:7;s:10:"betterment";i:8;s:22:"developmental learning";i:9;s:4:"help";i:10;s:11:"improvement";i:11;s:15:"living quarters";i:12;s:12:"modification";i:13;s:8:"quarters";i:14;s:10:"settlement";}}}

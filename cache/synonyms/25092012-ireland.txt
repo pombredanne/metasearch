@@ -1,1 +1,0 @@
-a:1:{s:4:"noun";a:1:{s:3:"syn";a:8:{i:0;s:7:"Ireland";i:1;s:4:"Eire";i:2;s:8:"Hibernia";i:3;s:12:"Emerald Isle";i:4;s:16:"European country";i:5;s:15:"European nation";i:6;s:16:"Irish Free State";i:7;s:6:"island";}}}
