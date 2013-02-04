@@ -1,0 +1,282 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "nextPage": [
+   {
+    "title": "Google Custom Search - gmat prep classes",
+    "totalResults": "569000",
+    "searchTerms": "gmat prep classes",
+    "count": 10,
+    "startIndex": 81,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "017401104989814545383:mf4lavmtuva"
+   }
+  ],
+  "request": [
+   {
+    "title": "Google Custom Search - gmat prep classes",
+    "totalResults": "569000",
+    "searchTerms": "gmat prep classes",
+    "count": 10,
+    "startIndex": 71,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "017401104989814545383:mf4lavmtuva"
+   }
+  ],
+  "previousPage": [
+   {
+    "title": "Google Custom Search - gmat prep classes",
+    "totalResults": "569000",
+    "searchTerms": "gmat prep classes",
+    "count": 10,
+    "startIndex": 61,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "017401104989814545383:mf4lavmtuva"
+   }
+  ]
+ },
+ "context": {
+  "title": "College MetaSearch Comparison"
+ },
+ "searchInformation": {
+  "searchTime": 0.178591,
+  "formattedSearchTime": "0.18",
+  "totalResults": "569000",
+  "formattedTotalResults": "569,000"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "GMAT Prep Courses in Raleigh-Durham | GMAT Raleigh-Durham ...",
+   "htmlTitle": "\u003cb\u003eGMAT Prep Courses\u003c/b\u003e in Raleigh-Durham | GMAT Raleigh-Durham \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://www.manhattangmat.com/gmat-prep-course-raleigh-durham.cfm",
+   "displayLink": "www.manhattangmat.com",
+   "snippet": "Experience the New Standard in Test Preparation. Manhattan GMAT Complete   Courses, led by experienced instructors with 99th percentile overall scores on ...",
+   "htmlSnippet": "Experience the New Standard in Test \u003cb\u003ePreparation\u003c/b\u003e. Manhattan \u003cb\u003eGMAT\u003c/b\u003e Complete \u003cbr\u003e  \u003cb\u003eCourses\u003c/b\u003e, led by experienced instructors with 99th percentile overall scores on \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "KgHvyORwoPIJ",
+   "formattedUrl": "www.manhattangmat.com/gmat-prep-course-raleigh-durham.cfm",
+   "htmlFormattedUrl": "www.manhattan\u003cb\u003egmat\u003c/b\u003e.com/\u003cb\u003egmat\u003c/b\u003e-\u003cb\u003eprep\u003c/b\u003e-course-raleigh-durham.cfm",
+   "pagemap": {
+    "metatags": [
+     {
+      "viewport": "width=device-width, initial-scale=1.0",
+      "y_key": "b77edc7f12089ef9"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "GMAT St. Louis Prep | GMAT Prep Courses, Tutoring, GMAT ...",
+   "htmlTitle": "GMAT St. Louis Prep | \u003cb\u003eGMAT Prep Courses\u003c/b\u003e, Tutoring, GMAT \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://www.manhattangmat.com/gmat-prep-st-louis-home.cfm",
+   "displayLink": "www.manhattangmat.com",
+   "snippet": "A specialized focus, a content-based curriculum, and teaching excellence give   students enrolled in our GMAT prep courses an edge other test prep companies ...",
+   "htmlSnippet": "A specialized focus, a content-based curriculum, and teaching excellence give \u003cbr\u003e  students enrolled in our \u003cb\u003eGMAT prep courses\u003c/b\u003e an edge other test prep companies \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "mOfkoV99UUUJ",
+   "formattedUrl": "www.manhattangmat.com/gmat-prep-st-louis-home.cfm",
+   "htmlFormattedUrl": "www.manhattan\u003cb\u003egmat\u003c/b\u003e.com/\u003cb\u003egmat\u003c/b\u003e-\u003cb\u003eprep\u003c/b\u003e-st-louis-home.cfm",
+   "pagemap": {
+    "metatags": [
+     {
+      "viewport": "width=device-width, initial-scale=1.0",
+      "y_key": "b77edc7f12089ef9",
+      "fb:page_id": "39761815456"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "GMAT Prep Courses in Ann Arbor | GMAT Ann Arbor Prep Classes ...",
+   "htmlTitle": "\u003cb\u003eGMAT Prep Courses\u003c/b\u003e in Ann Arbor | GMAT Ann Arbor Prep Classes \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://www.manhattangmat.com/ann-arbor-classes.cfm",
+   "displayLink": "www.manhattangmat.com",
+   "snippet": "Experience the New Standard in Test Preparation. Manhattan GMAT Complete   Courses, led by experienced instructors with 99th percentile overall scores on ...",
+   "htmlSnippet": "Experience the New Standard in Test \u003cb\u003ePreparation\u003c/b\u003e. Manhattan \u003cb\u003eGMAT\u003c/b\u003e Complete \u003cbr\u003e  \u003cb\u003eCourses\u003c/b\u003e, led by experienced instructors with 99th percentile overall scores on \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "pJHpT0xk35oJ",
+   "formattedUrl": "www.manhattangmat.com/ann-arbor-classes.cfm",
+   "htmlFormattedUrl": "www.manhattan\u003cb\u003egmat\u003c/b\u003e.com/ann-arbor-\u003cb\u003eclasses\u003c/b\u003e.cfm",
+   "pagemap": {
+    "metatags": [
+     {
+      "viewport": "width=device-width, initial-scale=1.0",
+      "y_key": "b77edc7f12089ef9"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "BYU - Marriott School - GMAT Preparation",
+   "htmlTitle": "BYU - Marriott School - \u003cb\u003eGMAT Preparation\u003c/b\u003e",
+   "link": "http://marriottschool.byu.edu/emba/index/gmatpreparation",
+   "displayLink": "marriottschool.byu.edu",
+   "snippet": "Success on the GMAT can depend on many factors, including academic   preparation and ability, commitment to GMAT preparation, English skills, and   general ...",
+   "htmlSnippet": "Success on the GMAT can depend on many factors, including academic \u003cbr\u003e  preparation and ability, commitment to \u003cb\u003eGMAT preparation\u003c/b\u003e, English skills, and \u003cbr\u003e  general \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "R71Kp6-Zx98J",
+   "formattedUrl": "marriottschool.byu.edu/emba/index/gmatpreparation",
+   "htmlFormattedUrl": "marriottschool.byu.edu/emba/index/\u003cb\u003egmatpreparation\u003c/b\u003e",
+   "pagemap": {
+    "metatags": [
+     {
+      "content-type": "text/html; charset=utf-8"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Test Preparation Courses",
+   "htmlTitle": "Test \u003cb\u003ePreparation Courses\u003c/b\u003e",
+   "link": "http://learningforlife.fsu.edu/cpd/programschedule.cfm?cid=4&pid=18",
+   "displayLink": "learningforlife.fsu.edu",
+   "snippet": "The FSU GMAT Prep class is ideal for anyone looking to pursue a Master of   Business Administration (MBA) or other business-related advanced degree   within ...",
+   "htmlSnippet": "The FSU \u003cb\u003eGMAT Prep class\u003c/b\u003e is ideal for anyone looking to pursue a Master of \u003cbr\u003e  Business Administration (MBA) or other business-related advanced degree \u003cbr\u003e  within \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "BODgvMp_Ep4J",
+   "formattedUrl": "learningforlife.fsu.edu/cpd/programschedule.cfm?cid=4&pid=18",
+   "htmlFormattedUrl": "learningforlife.fsu.edu/cpd/programschedule.cfm?cid=4&amp;pid=18",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://learningforlife.fsu.edu/cpd/img/planner.jpg",
+      "type": "1",
+      "width": "149",
+      "height": "116"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "GMAT Prep Courses in Houston | GMAT Houston Prep Classes | In ...",
+   "htmlTitle": "\u003cb\u003eGMAT Prep Courses\u003c/b\u003e in Houston | GMAT Houston Prep Classes | In \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://www.manhattangmat.com/houston-classes.cfm",
+   "displayLink": "www.manhattangmat.com",
+   "snippet": "View All GMAT Events. Experience the New Standard in Test Preparation.   Manhattan GMAT Complete Courses, led by experienced instructors with 99th ...",
+   "htmlSnippet": "View All \u003cb\u003eGMAT\u003c/b\u003e Events. Experience the New Standard in Test \u003cb\u003ePreparation\u003c/b\u003e. \u003cbr\u003e  Manhattan \u003cb\u003eGMAT\u003c/b\u003e Complete \u003cb\u003eCourses\u003c/b\u003e, led by experienced instructors with 99th \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "tSYCsfauJKYJ",
+   "formattedUrl": "www.manhattangmat.com/houston-classes.cfm",
+   "htmlFormattedUrl": "www.manhattan\u003cb\u003egmat\u003c/b\u003e.com/houston-\u003cb\u003eclasses\u003c/b\u003e.cfm",
+   "pagemap": {
+    "metatags": [
+     {
+      "viewport": "width=device-width, initial-scale=1.0",
+      "y_key": "b77edc7f12089ef9"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "GMAT Prep Courses Start Around the World Next Week! | Veritas ...",
+   "htmlTitle": "\u003cb\u003eGMAT Prep Courses\u003c/b\u003e Start Around the World Next Week! | Veritas \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://www.veritasprep.com/blog/2012/07/gmat-prep-courses-start-around-the-world-next-week/",
+   "displayLink": "www.veritasprep.com",
+   "snippet": "Jul 5, 2012 ... So here you are... It's summer, you want to apply to business school this coming   fall, and you still don't have a great GMAT score under your ...",
+   "htmlSnippet": "Jul 5, 2012 \u003cb\u003e...\u003c/b\u003e So here you are... It&#39;s summer, you want to apply to business school this coming \u003cbr\u003e  fall, and you still don&#39;t have a great \u003cb\u003eGMAT\u003c/b\u003e score under your \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "IS2T5c0F6wUJ",
+   "formattedUrl": "www.veritasprep.com/.../gmat-prep-courses-start-around-the-world-next- week/",
+   "htmlFormattedUrl": "www.veritas\u003cb\u003eprep\u003c/b\u003e.com/.../\u003cb\u003egmat\u003c/b\u003e-\u003cb\u003eprep\u003c/b\u003e-\u003cb\u003ecourses\u003c/b\u003e-start-around-the-world-next- week/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.veritasprep.com/blog/wp-content/uploads/2010/07/gmat_prep-150x150.jpg",
+      "type": "1",
+      "width": "120",
+      "height": "120"
+     }
+    ],
+    "metatags": [
+     {
+      "og:title": "GMAT Prep Courses Start Around the World Next Week!",
+      "og:type": "blog",
+      "og:url": "http://www.veritasprep.com/blog/2012/07/gmat-prep-courses-start-around-the-world-next-week/",
+      "og:site_name": "Veritas Prep Blog",
+      "fb:admins": "3404131"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "GMAT Test Prep Class | Rollins College | Winter Park, FL | Rollins ...",
+   "htmlTitle": "\u003cb\u003eGMAT\u003c/b\u003e Test \u003cb\u003ePrep Class\u003c/b\u003e | Rollins College | Winter Park, FL | Rollins \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://www.rollins.edu/execed/gmat-review/index.html",
+   "displayLink": "www.rollins.edu",
+   "snippet": "Rollins College Management & Executive Education Center offers a GMAT   preparation course.",
+   "htmlSnippet": "Rollins College Management &amp; Executive Education Center offers a \u003cb\u003eGMAT\u003c/b\u003e \u003cbr\u003e  \u003cb\u003epreparation\u003c/b\u003e course.",
+   "cacheId": "5Gky9P9gLbgJ",
+   "formattedUrl": "www.rollins.edu/execed/gmat-review/index.html",
+   "htmlFormattedUrl": "www.rollins.edu/execed/\u003cb\u003egmat\u003c/b\u003e-review/index.html",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.rollins.edu/execed/MEE%20Calendar.jpg",
+      "type": "1",
+      "width": "209",
+      "height": "241"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "GMAT Prep Course? | San Francisco | Yelp",
+   "htmlTitle": "\u003cb\u003eGMAT Prep\u003c/b\u003e Course? | San Francisco | Yelp",
+   "link": "http://www.yelp.com/topic/san-francisco-gmat-prep-course",
+   "displayLink": "www.yelp.com",
+   "snippet": "Sep 6, 2006 ... Any recommendations between Princeton Review, Kaplan and Veritas for GMAT   Prep Classes? Would love all recs - good and bad - and found ...",
+   "htmlSnippet": "Sep 6, 2006 \u003cb\u003e...\u003c/b\u003e Any recommendations between Princeton Review, Kaplan and Veritas for \u003cb\u003eGMAT\u003c/b\u003e \u003cbr\u003e  \u003cb\u003ePrep Classes\u003c/b\u003e? Would love all recs - good and bad - and found \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "nOuWzRynENUJ",
+   "formattedUrl": "www.yelp.com/topic/san-francisco-gmat-prep-course",
+   "htmlFormattedUrl": "www.yelp.com/topic/san-francisco-\u003cb\u003egmat\u003c/b\u003e-\u003cb\u003eprep\u003c/b\u003e-course",
+   "pagemap": {
+    "metatags": [
+     {
+      "relativepagescore": "400000"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "BEST GMAT PREP COURSES, MLIC GMAT TURBOPREP COURSES",
+   "htmlTitle": "BEST \u003cb\u003eGMAT PREP COURSES\u003c/b\u003e, MLIC \u003cb\u003eGMAT TURBOPREP COURSES\u003c/b\u003e",
+   "link": "http://www.turboprep.com/",
+   "displayLink": "www.turboprep.com",
+   "snippet": "MLIC is the home of best GMAT Prep courses in New York City, Chicago, ...   GMAT prep courses and GMAT test prep classes worldwide offering unique 600   Plus ...",
+   "htmlSnippet": "MLIC is the home of best \u003cb\u003eGMAT Prep courses\u003c/b\u003e in New York City, Chicago, \u003cb\u003e...\u003c/b\u003e \u003cbr\u003e  \u003cb\u003eGMAT prep courses\u003c/b\u003e and GMAT test prep classes worldwide offering unique 600 \u003cbr\u003e  Plus \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "zQyWboFSQ5AJ",
+   "formattedUrl": "www.turboprep.com/",
+   "htmlFormattedUrl": "www.turbo\u003cb\u003eprep\u003c/b\u003e.com/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.turboprep.com/images/templatemo_image_01.jpg",
+      "type": "1",
+      "width": "160",
+      "height": "184"
+     }
+    ],
+    "metatags": [
+     {
+      "city": "New York, London, Munich (München), Dallas, Atlanta, Washington DC, Chicago,Frankfurt, Singapore, Sydney, Mumbai, Delhi,Paris,Berlin, Philadelphia, Tokyo, Paris, Amsterdam, Barcelona, Rome, Milan, Madrid, Manchester, San Francisco, Los Angeles, Mexico City, Guadelahara, Monterrey, Toronto, Montreal, Calgary, Vancouver, Seattle",
+      "product_category": "GMAT",
+      "community": "Business"
+     }
+    ]
+   }
+  }
+ ]
+}

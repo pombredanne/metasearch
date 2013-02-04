@@ -1,0 +1,289 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "nextPage": [
+   {
+    "title": "Google Custom Search - map of the united states",
+    "totalResults": "272000000",
+    "searchTerms": "map of the united states",
+    "count": 10,
+    "startIndex": 91,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "017401104989814545383:mf4lavmtuva"
+   }
+  ],
+  "request": [
+   {
+    "title": "Google Custom Search - map of the united states",
+    "totalResults": "272000000",
+    "searchTerms": "map of the united states",
+    "count": 10,
+    "startIndex": 81,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "017401104989814545383:mf4lavmtuva"
+   }
+  ],
+  "previousPage": [
+   {
+    "title": "Google Custom Search - map of the united states",
+    "totalResults": "272000000",
+    "searchTerms": "map of the united states",
+    "count": 10,
+    "startIndex": 71,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "017401104989814545383:mf4lavmtuva"
+   }
+  ]
+ },
+ "context": {
+  "title": "College MetaSearch Comparison"
+ },
+ "searchInformation": {
+  "searchTime": 0.199565,
+  "formattedSearchTime": "0.20",
+  "totalResults": "272000000",
+  "formattedTotalResults": "272,000,000"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "Blank US Map",
+   "htmlTitle": "Blank \u003cb\u003eUS Map\u003c/b\u003e",
+   "link": "http://www.50states.com/maps/usamap.htm/",
+   "displayLink": "www.50states.com",
+   "snippet": "Maps · United States Map · US Capital Cities Map · Blank State Outline Maps ·   Colleges · Colleges & Universities · Business Schools · Nursing Schools ...",
+   "htmlSnippet": "\u003cb\u003eMaps\u003c/b\u003e &middot; \u003cb\u003eUnited States Map\u003c/b\u003e &middot; \u003cb\u003eUS\u003c/b\u003e Capital Cities \u003cb\u003eMap\u003c/b\u003e &middot; Blank State Outline \u003cb\u003eMaps\u003c/b\u003e &middot; \u003cbr\u003e  Colleges &middot; Colleges &amp; Universities &middot; Business Schools &middot; Nursing Schools \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "2xBRRqADnbwJ",
+   "formattedUrl": "www.50states.com/maps/usamap.htm/",
+   "htmlFormattedUrl": "www.50\u003cb\u003estates\u003c/b\u003e.com/\u003cb\u003emaps\u003c/b\u003e/usa\u003cb\u003emap\u003c/b\u003e.htm/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.50states.com/maps/usamap.gif",
+      "type": "1",
+      "width": "207",
+      "height": "244"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "U.S. Severe Weather Map | Weather Underground",
+   "htmlTitle": "\u003cb\u003eU.S.\u003c/b\u003e Severe Weather \u003cb\u003eMap\u003c/b\u003e | Weather Underground",
+   "link": "http://www.wunderground.com/severe.asp",
+   "displayLink": "www.wunderground.com",
+   "snippet": "U.S. Severe Alerts Map. Mobile & Email Alerts ... Alaska Hawaii Puerto Rico.   Click on a colored region of the map for details. U.S. Weather Warning Legend ...",
+   "htmlSnippet": "\u003cb\u003eU.S.\u003c/b\u003e Severe Alerts \u003cb\u003eMap\u003c/b\u003e. Mobile &amp; Email Alerts \u003cb\u003e...\u003c/b\u003e Alaska Hawaii Puerto Rico. \u003cbr\u003e  Click on a colored region of the \u003cb\u003emap\u003c/b\u003e for details. \u003cb\u003eU.S.\u003c/b\u003e Weather Warning Legend \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "T-yOQR2pM_sJ",
+   "formattedUrl": "www.wunderground.com/severe.asp",
+   "htmlFormattedUrl": "www.wunderground.com/severe.asp",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://icons-ak.wxug.com/data/640x480/2xus_severe.gif",
+      "type": "1",
+      "width": "277",
+      "height": "182"
+     }
+    ],
+    "metatags": [
+     {
+      "viewport": "width=1008px",
+      "msapplication-task": "name=Local Weather;action-uri=http://www.wunderground.com/;icon-uri=",
+      "application-name": "Weather Underground"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Visited States Map: Map United States visited, US State Map ...",
+   "htmlTitle": "Visited States Map: \u003cb\u003eMap United States\u003c/b\u003e visited, US State Map \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://www.visitedstatesmap.com/",
+   "displayLink": "www.visitedstatesmap.com",
+   "snippet": "Visited States Map: State Map, Map with colored states, Recreational Vehicle   color United States map.",
+   "htmlSnippet": "Visited States \u003cb\u003eMap\u003c/b\u003e: State \u003cb\u003eMap\u003c/b\u003e, \u003cb\u003eMap\u003c/b\u003e with colored states, Recreational Vehicle \u003cbr\u003e  color \u003cb\u003eUnited States map\u003c/b\u003e.",
+   "cacheId": "1f2kuCImnxcJ",
+   "formattedUrl": "www.visitedstatesmap.com/",
+   "htmlFormattedUrl": "www.visited\u003cb\u003estatesmap\u003c/b\u003e.com/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.visitedstatesmap.com/images/allstates.jpg",
+      "type": "1",
+      "width": "172",
+      "height": "134"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Concealed Carry Permit Reciprocity Maps - USA Carry",
+   "htmlTitle": "Concealed Carry Permit Reciprocity \u003cb\u003eMaps\u003c/b\u003e - USA Carry",
+   "link": "http://www.usacarry.com/concealed_carry_permit_reciprocity_maps.html",
+   "displayLink": "www.usacarry.com",
+   "snippet": "Apr 30, 2012 ... Use our Concealed Carry Permit Reciprocity Maps to find out what states have   concealed carry reciprocity with each other and where you can ...",
+   "htmlSnippet": "Apr 30, 2012 \u003cb\u003e...\u003c/b\u003e Use our Concealed Carry Permit Reciprocity \u003cb\u003eMaps\u003c/b\u003e to find out what \u003cb\u003estates\u003c/b\u003e have \u003cbr\u003e  concealed carry reciprocity with each other and where you can \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "IcAAzph0gEoJ",
+   "formattedUrl": "www.usacarry.com/concealed_carry_permit_reciprocity_maps.html",
+   "htmlFormattedUrl": "www.usacarry.com/concealed_carry_permit_reciprocity_\u003cb\u003emaps\u003c/b\u003e.html",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://b.usacarry.co/concealed-carry-package-giveaway.jpg",
+      "type": "1",
+      "width": "240",
+      "height": "200"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "American History: \"Growth of a Nation\"",
+   "htmlTitle": "American History: &quot;Growth of a Nation&quot;",
+   "link": "http://www.animatedatlas.com/movie.html",
+   "displayLink": "www.animatedatlas.com",
+   "snippet": "HELP. AnimatedAtlas.com. Growth of a Nation. This ten minute presentation   illustrates the growth of the United States from the original thirteen states in 1789.",
+   "htmlSnippet": "HELP. AnimatedAtlas.com. Growth of a Nation. This ten minute presentation \u003cbr\u003e  illustrates the growth of the \u003cb\u003eUnited States\u003c/b\u003e from the original thirteen states in 1789.",
+   "cacheId": "HF0zkV-B5wAJ",
+   "formattedUrl": "www.animatedatlas.com/movie.html",
+   "htmlFormattedUrl": "www.animatedatlas.com/movie.html"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "AccuWeather.com - Weather Radar | United States Weather Radar",
+   "htmlTitle": "AccuWeather.com - Weather Radar | \u003cb\u003eUnited States\u003c/b\u003e Weather Radar",
+   "link": "http://www.accuweather.com/en/us/national/weather-radar",
+   "displayLink": "www.accuweather.com",
+   "snippet": "AccuWeather.com for United States Weather Radar. for. Go ... This page may   contain Mapping and GPS Navigation Systems provided by GeoMicro, Inc ...",
+   "htmlSnippet": "AccuWeather.com for \u003cb\u003eUnited States\u003c/b\u003e Weather Radar. for. Go \u003cb\u003e...\u003c/b\u003e This page may \u003cbr\u003e  contain \u003cb\u003eMapping\u003c/b\u003e and GPS Navigation Systems provided by GeoMicro, Inc \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "pxfmq1cBsowJ",
+   "formattedUrl": "www.accuweather.com/en/us/national/weather-radar",
+   "htmlFormattedUrl": "www.accuweather.com/en/\u003cb\u003eus\u003c/b\u003e/national/weather-radar",
+   "pagemap": {
+    "metatags": [
+     {
+      "application-name": "AccuWeather.com",
+      "msapplication-tooltip": "New York Weather",
+      "msapplication-window": "width=1024;height=768",
+      "msapplication-starturl": "http://www.accuweather.com/en/us/new-york-ny/10017/weather-forecast/349727",
+      "msapplication-navbutton-color": "#637ebe",
+      "msapplication-task": "name=New York Hourly;action-uri=http://www.accuweather.com/en/us/new-york-ny/10017/hourly-weather-forecast/349727;icon-uri=http://vortex.accuweather.com/adc2010/images/favicons/hourly_master.ico",
+      "title": "United States Weather Radar"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "File:Blank US Map.svg - Wikipedia, the free encyclopedia",
+   "htmlTitle": "File:Blank \u003cb\u003eUS Map\u003c/b\u003e.svg - Wikipedia, the free encyclopedia",
+   "link": "http://en.wikipedia.org/wiki/File:Blank_US_Map.svg",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "Description. English: A blank map of the United States in scalable vector form.   Edited in Inkscape. Date, 11 July 2006(2006-07-11). Source, own work, based on ...",
+   "htmlSnippet": "Description. English: A blank \u003cb\u003emap of the United States\u003c/b\u003e in scalable vector form. \u003cbr\u003e  Edited in Inkscape. Date, 11 July 2006(2006-07-11). Source, own work, based on \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "zJknbfpRplMJ",
+   "formattedUrl": "en.wikipedia.org/wiki/File:Blank_US_Map.svg",
+   "htmlFormattedUrl": "en.wikipedia.org/wiki/File:Blank_\u003cb\u003eUS\u003c/b\u003e_\u003cb\u003eMap\u003c/b\u003e.svg",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Blank_US_Map.svg/800px-Blank_US_Map.svg.png",
+      "type": "1",
+      "width": "286",
+      "height": "176"
+     }
+    ],
+    "scraped": [
+     {
+      "image_link": "//upload.wikimedia.org/wikipedia/commons/3/32/Blank_US_Map.svg"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "US Mold Spores map",
+   "htmlTitle": "\u003cb\u003eUS\u003c/b\u003e Mold Spores \u003cb\u003emap\u003c/b\u003e",
+   "link": "http://www.weather.com/maps/activity/allergies/usmoldspores_large.html",
+   "displayLink": "www.weather.com",
+   "snippet": "United States (English) ... Pinpoint Your Weather on Our Interactive Map ... Select   Another Map, US Tree Pollen, US Grass Pollen, US Ragweed Pollen, US Mold ...",
+   "htmlSnippet": "\u003cb\u003eUnited States\u003c/b\u003e (English) \u003cb\u003e...\u003c/b\u003e Pinpoint Your Weather on Our Interactive \u003cb\u003eMap\u003c/b\u003e \u003cb\u003e...\u003c/b\u003e Select \u003cbr\u003e  Another \u003cb\u003eMap\u003c/b\u003e, \u003cb\u003eUS\u003c/b\u003e Tree Pollen, \u003cb\u003eUS\u003c/b\u003e Grass Pollen, \u003cb\u003eUS\u003c/b\u003e Ragweed Pollen, \u003cb\u003eUS\u003c/b\u003e Mold \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "Bya60IqWGKcJ",
+   "formattedUrl": "www.weather.com/maps/activity/allergies/usmoldspores_large.html",
+   "htmlFormattedUrl": "www.weather.com/\u003cb\u003emaps\u003c/b\u003e/activity/allergies/usmoldspores_large.html",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://image.weather.com/images/maps/pt_BR/health/mold_spore_720x486.jpg",
+      "type": "1",
+      "width": "273",
+      "height": "184"
+     }
+    ],
+    "metatags": [
+     {
+      "fb:app_id": "144457238950063"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Wind Speed Map for the United States",
+   "htmlTitle": "Wind Speed \u003cb\u003eMap\u003c/b\u003e for the \u003cb\u003eUnited States\u003c/b\u003e",
+   "link": "http://www.usairnet.com/weather/maps/current/wind-speed/",
+   "displayLink": "www.usairnet.com",
+   "snippet": "Offering a Wind Speed Map for the United States. ... Photos · Weather : Maps :   Current : Wind Speed. United States Current Condition Maps, USA Forecast   Maps ...",
+   "htmlSnippet": "Offering a Wind Speed \u003cb\u003eMap\u003c/b\u003e for the \u003cb\u003eUnited States\u003c/b\u003e. \u003cb\u003e...\u003c/b\u003e Photos &middot; Weather : \u003cb\u003eMaps\u003c/b\u003e : \u003cbr\u003e  Current : Wind Speed. \u003cb\u003eUnited States\u003c/b\u003e Current Condition \u003cb\u003eMaps\u003c/b\u003e, USA Forecast \u003cbr\u003e  \u003cb\u003eMaps\u003c/b\u003e \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "iLALDQbgtSwJ",
+   "formattedUrl": "www.usairnet.com/weather/maps/current/wind-speed/",
+   "htmlFormattedUrl": "www.usairnet.com/weather/\u003cb\u003emaps\u003c/b\u003e/current/wind-speed/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.usairnet.com/weather/maps/wind-speed.jpg",
+      "type": "1",
+      "width": "259",
+      "height": "194"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Red states and blue states - Wikipedia, the free encyclopedia",
+   "htmlTitle": "Red \u003cb\u003estates\u003c/b\u003e and blue \u003cb\u003estates\u003c/b\u003e - Wikipedia, the free encyclopedia",
+   "link": "http://en.wikipedia.org/wiki/Red_states_and_blue_states",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "The blue and red state color scheme when applied for U.S. state ... Maps of this   type are called choropleth maps, which have ...",
+   "htmlSnippet": "The blue and red state color scheme when applied for \u003cb\u003eU.S.\u003c/b\u003e state \u003cb\u003e...\u003c/b\u003e \u003cb\u003eMaps\u003c/b\u003e of this \u003cbr\u003e  type are called choropleth \u003cb\u003emaps\u003c/b\u003e, which have \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "F3mgPSaFUF0J",
+   "formattedUrl": "en.wikipedia.org/wiki/Red_states_and_blue_states",
+   "htmlFormattedUrl": "en.wikipedia.org/wiki/Red_\u003cb\u003estates\u003c/b\u003e_and_blue_\u003cb\u003estates\u003c/b\u003e",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Red_state,_blue_state.svg/300px-Red_state,_blue_state.svg.png",
+      "type": "1",
+      "width": "240",
+      "height": "148"
+     }
+    ]
+   }
+  }
+ ]
+}

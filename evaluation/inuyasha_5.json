@@ -1,0 +1,396 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "nextPage": [
+   {
+    "title": "Google Custom Search - inuyasha",
+    "totalResults": "2910000",
+    "searchTerms": "inuyasha",
+    "count": 10,
+    "startIndex": 61,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "017401104989814545383:mf4lavmtuva"
+   }
+  ],
+  "request": [
+   {
+    "title": "Google Custom Search - inuyasha",
+    "totalResults": "2910000",
+    "searchTerms": "inuyasha",
+    "count": 10,
+    "startIndex": 51,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "017401104989814545383:mf4lavmtuva"
+   }
+  ],
+  "previousPage": [
+   {
+    "title": "Google Custom Search - inuyasha",
+    "totalResults": "2910000",
+    "searchTerms": "inuyasha",
+    "count": 10,
+    "startIndex": 41,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "017401104989814545383:mf4lavmtuva"
+   }
+  ]
+ },
+ "context": {
+  "title": "College MetaSearch Comparison"
+ },
+ "searchInformation": {
+  "searchTime": 0.179504,
+  "formattedSearchTime": "0.18",
+  "totalResults": "2910000",
+  "formattedTotalResults": "2,910,000"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "InuYasha | Anime.com Anime Shrines",
+   "htmlTitle": "\u003cb\u003eInuYasha\u003c/b\u003e | Anime.com Anime Shrines",
+   "link": "http://www.anime.com/Inuyasha/",
+   "displayLink": "www.anime.com",
+   "snippet": "Inu Yasha Profiles Anime Book Review Aside from its anime counterpart as a   popular manga series, Inu Yasha completed in 56 volumes. If you happen to like ...",
+   "htmlSnippet": "Inu Yasha Profiles Anime Book Review Aside from its anime counterpart as a \u003cbr\u003e  popular manga series, Inu Yasha completed in 56 volumes. If you happen to like \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "9_-0b8SFPqMJ",
+   "formattedUrl": "www.anime.com/Inuyasha/",
+   "htmlFormattedUrl": "www.anime.com/\u003cb\u003eInuyasha\u003c/b\u003e/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.anime.com/Inuyasha/images/circle-01.jpg",
+      "type": "1",
+      "width": "228",
+      "height": "221"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "InuYasha episode 140 - YouTube",
+   "htmlTitle": "\u003cb\u003eInuYasha\u003c/b\u003e episode 140 - YouTube",
+   "link": "http://www.youtube.com/watch?v=rImd6LRuCDE",
+   "displayLink": "www.youtube.com",
+   "snippet": "May 16, 2011 ... Episode 141 link: http://www.youtube.com/watch?v=-UtF3EKjjDE.",
+   "htmlSnippet": "May 16, 2011 \u003cb\u003e...\u003c/b\u003e Episode 141 link: http://www.youtube.com/watch?v=-UtF3EKjjDE.",
+   "cacheId": "AxVL3ghFG00J",
+   "formattedUrl": "www.youtube.com/watch?v=rImd6LRuCDE",
+   "htmlFormattedUrl": "www.youtube.com/watch?v=rImd6LRuCDE",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://i3.ytimg.com/vi/rImd6LRuCDE/mqdefault.jpg",
+      "type": "1",
+      "width": "256",
+      "height": "144"
+     }
+    ],
+    "videoobject": [
+     {
+      "url": "http://www.youtube.com/watch?v=rImd6LRuCDE",
+      "name": "InuYasha episode 140",
+      "description": "Episode 141 link: http://www.youtube.com/watch?v=-UtF3EKjjDE",
+      "duration": "PT18M54S",
+      "unlisted": "False",
+      "paid": "False",
+      "thumbnailurl": "http://i3.ytimg.com/vi/rImd6LRuCDE/hqdefault.jpg",
+      "embedurl": "http://www.youtube.com/v/rImd6LRuCDE?version=3&autohide=1",
+      "playertype": "Flash",
+      "width": "640",
+      "height": "480"
+     }
+    ],
+    "person": [
+     {
+      "url": "http://www.youtube.com/user/snippyjk13"
+     }
+    ],
+    "metatags": [
+     {
+      "title": "InuYasha episode 140",
+      "og:url": "http://www.youtube.com/watch?v=rImd6LRuCDE",
+      "og:title": "InuYasha episode 140",
+      "og:description": "Episode 141 link: http://www.youtube.com/watch?v=-UtF3EKjjDE",
+      "og:type": "video",
+      "og:image": "http://i3.ytimg.com/vi/rImd6LRuCDE/mqdefault.jpg",
+      "og:video": "http://www.youtube.com/v/rImd6LRuCDE?version=3&autohide=1",
+      "og:video:type": "application/x-shockwave-flash",
+      "og:video:width": "640",
+      "og:video:height": "480",
+      "og:site_name": "YouTube",
+      "fb:app_id": "87741124305",
+      "twitter:player:width": "640",
+      "twitter:player:height": "480",
+      "attribution": "youtube_none/"
+     }
+    ],
+    "imageobject": [
+     {
+      "url": "http://i3.ytimg.com/vi/rImd6LRuCDE/mqdefault.jpg",
+      "width": "320",
+      "height": "180"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "List of InuYasha episodes (season 1) - Wikipedia, the free ...",
+   "htmlTitle": "List of \u003cb\u003eInuYasha\u003c/b\u003e episodes (season 1) - Wikipedia, the free \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://en.wikipedia.org/wiki/List_of_InuYasha_episodes_(season_1)",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "The cover for the first season of InuYasha. The first season of the anime series   InuYasha aired in Japan on Animax from October 16, 2000 through May 21, 2001  .",
+   "htmlSnippet": "The cover for the first season of \u003cb\u003eInuYasha\u003c/b\u003e. The first season of the anime series \u003cbr\u003e  \u003cb\u003eInuYasha\u003c/b\u003e aired in Japan on Animax from October 16, 2000 through May 21, 2001\u003cbr\u003e  .",
+   "cacheId": "QS5EaJdUnzsJ",
+   "formattedUrl": "en.wikipedia.org/wiki/List_of_InuYasha_episodes_(season_1)",
+   "htmlFormattedUrl": "en.wikipedia.org/wiki/List_of_\u003cb\u003eInuYasha\u003c/b\u003e_episodes_(season_1)",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://upload.wikimedia.org/wikipedia/en/thumb/f/fc/InuYasha_DVD_season_1.jpg/175px-InuYasha_DVD_season_1.jpg",
+      "type": "1",
+      "width": "140",
+      "height": "191"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "AnimeNfo.Com : Inuyasha",
+   "htmlTitle": "AnimeNfo.Com : \u003cb\u003eInuyasha\u003c/b\u003e",
+   "link": "http://www.animenfo.com/animetitle,11,wpskdo,inuyasha.html",
+   "displayLink": "www.animenfo.com",
+   "snippet": "May 16, 2008 ... Inuyasha, Title, Inuyasha. Japanese Title, 犬夜叉. Official Site, http://www.sunrise-  inc.co.jp/yasya/. Category, TV. Total Episodes, 167 (167 x 24) ...",
+   "htmlSnippet": "May 16, 2008 \u003cb\u003e...\u003c/b\u003e \u003cb\u003eInuyasha\u003c/b\u003e, Title, \u003cb\u003eInuyasha\u003c/b\u003e. Japanese Title, 犬夜叉. Official Site, http://www.sunrise-\u003cbr\u003e  inc.co.jp/yasya/. Category, TV. Total Episodes, 167 (167 x 24) \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "Bi5Fp5NWSaAJ",
+   "formattedUrl": "www.animenfo.com/animetitle,11,wpskdo,inuyasha.html",
+   "htmlFormattedUrl": "www.animenfo.com/animetitle,11,wpskdo,\u003cb\u003einuyasha\u003c/b\u003e.html",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.animenfo.com/image/anime_11.jpg",
+      "type": "1",
+      "width": "96",
+      "height": "112"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Inuyasha Funny :D - YouTube",
+   "htmlTitle": "\u003cb\u003eInuyasha\u003c/b\u003e Funny :D - YouTube",
+   "link": "http://www.youtube.com/watch?v=UZ-RHLBWNFE",
+   "displayLink": "www.youtube.com",
+   "snippet": "Jul 5, 2007 ... Funny pictures of inuyasha. ... Puppy Pictures 002.AVIby thebaum197224 views ·   Inuyasha Funny :D 2 6:17. Watch Later Error Inuyasha Funny ...",
+   "htmlSnippet": "Jul 5, 2007 \u003cb\u003e...\u003c/b\u003e Funny pictures of \u003cb\u003einuyasha\u003c/b\u003e. \u003cb\u003e...\u003c/b\u003e Puppy Pictures 002.AVIby thebaum197224 views &middot; \u003cbr\u003e  \u003cb\u003eInuyasha\u003c/b\u003e Funny :D 2 6:17. Watch Later Error \u003cb\u003eInuyasha\u003c/b\u003e Funny \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "Q5foHY5u1vMJ",
+   "formattedUrl": "www.youtube.com/watch?v=UZ-RHLBWNFE",
+   "htmlFormattedUrl": "www.youtube.com/watch?v=UZ-RHLBWNFE",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://i2.ytimg.com/vi/UZ-RHLBWNFE/mqdefault.jpg",
+      "type": "1",
+      "width": "256",
+      "height": "144"
+     }
+    ],
+    "videoobject": [
+     {
+      "url": "http://www.youtube.com/watch?v=UZ-RHLBWNFE",
+      "name": "Inuyasha Funny :D",
+      "description": "Funny pictures of inuyasha",
+      "duration": "PT7M7S",
+      "unlisted": "False",
+      "paid": "False",
+      "thumbnailurl": "http://i2.ytimg.com/vi/UZ-RHLBWNFE/hqdefault.jpg",
+      "embedurl": "http://www.youtube.com/v/UZ-RHLBWNFE?version=3&autohide=1",
+      "playertype": "Flash",
+      "width": "480",
+      "height": "360"
+     }
+    ],
+    "person": [
+     {
+      "url": "http://www.youtube.com/user/niinanuuli"
+     }
+    ],
+    "metatags": [
+     {
+      "title": "Inuyasha Funny :D",
+      "og:url": "http://www.youtube.com/watch?v=UZ-RHLBWNFE",
+      "og:title": "Inuyasha Funny :D",
+      "og:description": "Funny pictures of inuyasha",
+      "og:type": "video",
+      "og:image": "http://i2.ytimg.com/vi/UZ-RHLBWNFE/mqdefault.jpg",
+      "og:video": "http://www.youtube.com/v/UZ-RHLBWNFE?version=3&autohide=1",
+      "og:video:type": "application/x-shockwave-flash",
+      "og:video:width": "480",
+      "og:video:height": "360",
+      "og:site_name": "YouTube",
+      "fb:app_id": "87741124305",
+      "twitter:player:width": "480",
+      "twitter:player:height": "360",
+      "attribution": "youtube_multi/"
+     }
+    ],
+    "imageobject": [
+     {
+      "url": "http://i2.ytimg.com/vi/UZ-RHLBWNFE/mqdefault.jpg",
+      "width": "320",
+      "height": "180"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Inuyasha: Secret of the Divine Jewel - GameSpot.com",
+   "htmlTitle": "\u003cb\u003eInuyasha\u003c/b\u003e: Secret of the Divine Jewel - GameSpot.com",
+   "link": "http://www.gamespot.com/inuyasha-secret-of-the-divine-jewel/",
+   "displayLink": "www.gamespot.com",
+   "snippet": "Inuyasha: Secret of the Divine Jewel trailers, reviews, release dates, news,   screenshots, walkthroughs, cheats, and more on GameSpot.",
+   "htmlSnippet": "\u003cb\u003eInuyasha\u003c/b\u003e: Secret of the Divine Jewel trailers, reviews, release dates, news, \u003cbr\u003e  screenshots, walkthroughs, cheats, and more on GameSpot.",
+   "cacheId": "9yQcP0RrpDoJ",
+   "formattedUrl": "www.gamespot.com/inuyasha-secret-of-the-divine-jewel/",
+   "htmlFormattedUrl": "www.gamespot.com/\u003cb\u003einuyasha\u003c/b\u003e-secret-of-the-divine-jewel/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://image.gamespotcdn.net/gamespot/images/2007/018/936811_20070119_thumb003.jpg",
+      "type": "1",
+      "width": "96",
+      "height": "72"
+     }
+    ],
+    "metatags": [
+     {
+      "viewport": "width=1024",
+      "og:title": "Inuyasha: Secret of the Divine Jewel",
+      "og:type": "game",
+      "og:url": "http://l.gamespot.com/wbyvws",
+      "og:description": "Inuyasha: Secret of the Divine Jewel is a RPG for the DS, featuring an all-new original storyline as well as some new characters.",
+      "og:image": "http://image.gamespotcdn.net/gamespot/images2003/all/boxshots2/936811_82147.jpg",
+      "fb:app_id": "91756522905",
+      "og:site_name": "Gamespot",
+      "dw-page-params": "{'siteid':'6','sid':'6','ptid':'6022','onid':'9137','parent_onid':'33281','PD':'0','PR':'936811','SSPR':'936811','pid':'936811','genre_id':'23351','category_id':'71','prodtypid':'8','edid':'107','ts':'1342816125','oid':'6022-9137_6-936811-0','pguid':'viCJ7woPCWwAACFXEwwAAAAJ','ld':'www.gamespot.com','clgf':'','globid':'','url':'http://www.gamespot.com/inuyasha-secret-of-the-divine-jewel/'}",
+      "dw-reg-silo": "2"
+     }
+    ],
+    "siteSearch": [
+     {
+      "pageType": "summary",
+      "productId": "936811",
+      "title": "Inuyasha: Secret of the Divine Jewel",
+      "type": "game",
+      "url": "http://www.gamespot.com/inuyasha-secret-of-the-divine-jewel/",
+      "description": "Inuyasha: Secret of the Divine Jewel is a RPG for the DS, featuring an all-new original storyline as well as some new characters.",
+      "release": "1169539200",
+      "platform": "DS",
+      "rating": "3.9",
+      "screenShotUrl": "http://www.gamespot.com/inuyasha-secret-of-the-divine-jewel/images/",
+      "walkthroughUrl": "/inuyasha-secret-of-the-divine-jewel/reviews/inuyasha-secret-of-the-divine-jewel-6167479/",
+      "boxshot": "http://image.gamespotcdn.net/gamespot/images/2003/all/boxshots2/936811_82147.jpg",
+      "forumUrl": "http://www.gamespot.com/inuyasha-secret-of-the-divine-jewel/forum/",
+      "mobileFriendly": "1"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "InuYasha the Movie: The Castle Beyond the Looking Glass ...",
+   "htmlTitle": "\u003cb\u003eInuYasha\u003c/b\u003e the Movie: The Castle Beyond the Looking Glass \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://inuyasha.wikia.com/wiki/InuYasha_the_Movie:_The_Castle_Beyond_the_Looking_Glass",
+   "displayLink": "inuyasha.wikia.com",
+   "snippet": "InuYasha the Movie: The Castle Beyond the Looking Glass (映画犬夜叉 鏡の中の  夢幻城, Eiga Inuyasha: Kagami no...",
+   "htmlSnippet": "\u003cb\u003eInuYasha\u003c/b\u003e the Movie: The Castle Beyond the Looking Glass (映画犬夜叉 鏡の中の\u003cbr\u003e  夢幻城, Eiga \u003cb\u003eInuyasha\u003c/b\u003e: Kagami no...",
+   "cacheId": "fAVN38sEnWUJ",
+   "formattedUrl": "inuyasha.wikia.com/.../InuYasha_the_Movie:_The_Castle_Beyond_the_ Looking_Glass",
+   "htmlFormattedUrl": "\u003cb\u003einuyasha\u003c/b\u003e.wikia.com/.../\u003cb\u003eInuYasha\u003c/b\u003e_the_Movie:_The_Castle_Beyond_the_ Looking_Glass",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://images1.wikia.nocookie.net/__cb20120222092533/inuyasha/images/thumb/3/32/Inuyasha_movie_2.jpg/70px-Inuyasha_movie_2.jpg",
+      "type": "1",
+      "width": "63",
+      "height": "90"
+     }
+    ],
+    "metatags": [
+     {
+      "viewport": "width=1200",
+      "fb:page_id": "395500444720",
+      "og:type": "article",
+      "og:site_name": "InuYasha",
+      "og:title": "InuYasha the Movie: The Castle Beyond the Looking Glass",
+      "og:image": "http://images1.wikia.nocookie.net/__cb20120222092533/inuyasha/images/thumb/3/32/Inuyasha_movie_2.jpg/70px-Inuyasha_movie_2.jpg",
+      "og:description": "InuYasha the Movie: The Castle Beyond the Looking Glass (映画犬夜叉　鏡の中の夢幻城, Eiga Inuyasha: Kagami no...",
+      "og:url": "http://inuyasha.wikia.com/wiki/InuYasha_the_Movie:_The_Castle_Beyond_the_Looking_Glass",
+      "fb:app_id": "112328095453510"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "List of InuYasha episodes (season 3) - Wikipedia, the free ...",
+   "htmlTitle": "List of \u003cb\u003eInuYasha\u003c/b\u003e episodes (season 3) - Wikipedia, the free \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://en.wikipedia.org/wiki/List_of_InuYasha_episodes_(season_3)",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "The third season of the anime series InuYasha aired in Japan on Animax from   December 17, 2001 through August 12, 2002. Based on the manga series of the ...",
+   "htmlSnippet": "The third season of the anime series \u003cb\u003eInuYasha\u003c/b\u003e aired in Japan on Animax from \u003cbr\u003e  December 17, 2001 through August 12, 2002. Based on the manga series of the \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "FLTmNkV50sEJ",
+   "formattedUrl": "en.wikipedia.org/wiki/List_of_InuYasha_episodes_(season_3)",
+   "htmlFormattedUrl": "en.wikipedia.org/wiki/List_of_\u003cb\u003eInuYasha\u003c/b\u003e_episodes_(season_3)"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Inuyasha",
+   "htmlTitle": "\u003cb\u003eInuyasha\u003c/b\u003e",
+   "link": "http://www.shonensunday.com/series/inuyasha/index.shtml",
+   "displayLink": "www.shonensunday.com",
+   "snippet": "Series description and character information about Inuyasha.",
+   "htmlSnippet": "Series description and character information about \u003cb\u003eInuyasha\u003c/b\u003e.",
+   "cacheId": "CwPP5tcrlL0J",
+   "formattedUrl": "www.shonensunday.com/series/inuyasha/index.shtml",
+   "htmlFormattedUrl": "www.shonensunday.com/series/\u003cb\u003einuyasha\u003c/b\u003e/index.shtml",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.shonensunday.com/series/inuyasha/image/main.jpg",
+      "type": "1",
+      "width": "412",
+      "height": "122"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "List of InuYasha episodes (season 4) - Wikipedia, the free ...",
+   "htmlTitle": "List of \u003cb\u003eInuYasha\u003c/b\u003e episodes (season 4) - Wikipedia, the free \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://en.wikipedia.org/wiki/List_of_InuYasha_episodes_(season_4)",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "The fourth season of the anime series InuYasha aired in Japan on Animax from   August 19, 2002 through May 12, 2003. It is the first season of the series to be ...",
+   "htmlSnippet": "The fourth season of the anime series \u003cb\u003eInuYasha\u003c/b\u003e aired in Japan on Animax from \u003cbr\u003e  August 19, 2002 through May 12, 2003. It is the first season of the series to be \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "mOueDueaYEQJ",
+   "formattedUrl": "en.wikipedia.org/wiki/List_of_InuYasha_episodes_(season_4)",
+   "htmlFormattedUrl": "en.wikipedia.org/wiki/List_of_\u003cb\u003eInuYasha\u003c/b\u003e_episodes_(season_4)"
+  }
+ ]
+}

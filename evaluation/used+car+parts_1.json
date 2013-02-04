@@ -1,0 +1,325 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "nextPage": [
+   {
+    "title": "Google Custom Search - used car parts",
+    "totalResults": "557000000",
+    "searchTerms": "used car parts",
+    "count": 10,
+    "startIndex": 21,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "017401104989814545383:mf4lavmtuva"
+   }
+  ],
+  "request": [
+   {
+    "title": "Google Custom Search - used car parts",
+    "totalResults": "557000000",
+    "searchTerms": "used car parts",
+    "count": 10,
+    "startIndex": 11,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "017401104989814545383:mf4lavmtuva"
+   }
+  ],
+  "previousPage": [
+   {
+    "title": "Google Custom Search - used car parts",
+    "totalResults": "557000000",
+    "searchTerms": "used car parts",
+    "count": 10,
+    "startIndex": 1,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "017401104989814545383:mf4lavmtuva"
+   }
+  ]
+ },
+ "context": {
+  "title": "College MetaSearch Comparison"
+ },
+ "searchInformation": {
+  "searchTime": 0.227453,
+  "formattedSearchTime": "0.23",
+  "totalResults": "557000000",
+  "formattedTotalResults": "557,000,000"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "Used Auto Parts For Less - Pull-A-Part",
+   "htmlTitle": "\u003cb\u003eUsed Auto Parts\u003c/b\u003e For Less - Pull-A-Part",
+   "link": "http://www.pullapart.com/",
+   "displayLink": "www.pullapart.com",
+   "snippet": "23 Locations and growing. The premiere do-it-yourself used auto parts   superstore, Pull-A-Part reduces the costs, hassles and headaches of finding   quality used ...",
+   "htmlSnippet": "23 Locations and growing. The premiere do-it-yourself \u003cb\u003eused auto parts\u003c/b\u003e \u003cbr\u003e  superstore, Pull-A-Part reduces the costs, hassles and headaches of finding \u003cbr\u003e  quality used \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "X-g57v_S81cJ",
+   "formattedUrl": "www.pullapart.com/",
+   "htmlFormattedUrl": "www.pulla\u003cb\u003epart\u003c/b\u003e.com/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.pullapart.com/images/feature-map.png",
+      "type": "1",
+      "width": "176",
+      "height": "176"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Finding Quality Used Auto Parts In Arizona Has Never Been Easier",
+   "htmlTitle": "Finding Quality \u003cb\u003eUsed Auto Parts\u003c/b\u003e In Arizona Has Never Been Easier",
+   "link": "http://www.aara.com/",
+   "displayLink": "www.aara.com",
+   "snippet": "Enormous site for Quality Auto Recyclers. A Part Request here Goes a Long Way.   Large Database on Auto and Truck Recyclers in Arizona.",
+   "htmlSnippet": "Enormous site for Quality \u003cb\u003eAuto\u003c/b\u003e Recyclers. A \u003cb\u003ePart\u003c/b\u003e Request here Goes a Long Way. \u003cbr\u003e  Large Database on \u003cb\u003eAuto\u003c/b\u003e and Truck Recyclers in Arizona.",
+   "cacheId": "_oK7iOUJtLMJ",
+   "formattedUrl": "www.aara.com/",
+   "htmlFormattedUrl": "www.aara.com/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.aara.com/wp-content/uploads/2012/07/usedpartsphoto-620x320.jpg",
+      "type": "1",
+      "width": "313",
+      "height": "161"
+     }
+    ],
+    "metatags": [
+     {
+      "distribution": "global",
+      "language": "en"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "eBay Motors | Used Cars, Trucks, Boats, Accessories & More",
+   "htmlTitle": "eBay Motors | \u003cb\u003eUsed Cars\u003c/b\u003e, Trucks, Boats, Accessories &amp; More",
+   "link": "http://www.ebay.com/motors",
+   "displayLink": "www.ebay.com",
+   "snippet": "Buy and sell autos, trucks, parts, motorcycles, boats, accessories, and other used   cars and vehicles on eBay's online auction site.",
+   "htmlSnippet": "Buy and sell autos, trucks, \u003cb\u003eparts\u003c/b\u003e, motorcycles, boats, accessories, and other \u003cb\u003eused\u003c/b\u003e \u003cbr\u003e  \u003cb\u003ecars\u003c/b\u003e and vehicles on eBay&#39;s online auction site.",
+   "cacheId": "w72eD5xKvUYJ",
+   "formattedUrl": "www.ebay.com/motors",
+   "htmlFormattedUrl": "www.ebay.com/\u003cb\u003emotor\u003c/b\u003es",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://rtm.ebaystatic.com/100/RTMS/Image/MERC_Motors_BUILT-NewWebSeries_Q312_825x271.jpg",
+      "type": "1",
+      "width": "392",
+      "height": "128"
+     }
+    ],
+    "metatags": [
+     {
+      "og:title": "eBay Motors Home Page",
+      "og:type": "website",
+      "og:url": "http://www.ebay.com/motors",
+      "og:image": "http://pics.ebaystatic.com/aw/pics/motors2/logos/logoMotorsHP_150x150.gif",
+      "og:site_name": "eBay Motors",
+      "og:description": "Shop for parts and vehicles at eBay Motors. Check out our new home page experience and drop us a feedback."
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Car Parts, Vehicle Parts, Givens Used Auto Parts, GA",
+   "htmlTitle": "Car Parts, Vehicle Parts, Givens \u003cb\u003eUsed Auto Parts\u003c/b\u003e, GA",
+   "link": "http://www.givensautoparts.com/",
+   "displayLink": "www.givensautoparts.com",
+   "snippet": "If you are in need of a car part, Givens Used Auto Parts should be the first place   you call. We have been serving Georgia with quality parts at the best price for ...",
+   "htmlSnippet": "If you are in need of a car part, Givens \u003cb\u003eUsed Auto Parts\u003c/b\u003e should be the first place \u003cbr\u003e  you call. We have been serving Georgia with quality parts at the best price for \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "qVqVJvRhi5sJ",
+   "formattedUrl": "www.givensautoparts.com/",
+   "htmlFormattedUrl": "www.givens\u003cb\u003eautoparts\u003c/b\u003e.com/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.givensautoparts.com/images/gapaerial2.jpg",
+      "type": "1",
+      "width": "298",
+      "height": "169"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "J and B Used Auto Parts Orlando",
+   "htmlTitle": "J and B \u003cb\u003eUsed Auto Parts\u003c/b\u003e Orlando",
+   "link": "http://www.jnbusedparts.com/",
+   "displayLink": "www.jnbusedparts.com",
+   "snippet": "J and B Used Auto Parts Orlando FL your complete source for all your automotive   parts needs. Glass installed, radiators repaired, you name it, we have it.",
+   "htmlSnippet": "J and B \u003cb\u003eUsed Auto Parts\u003c/b\u003e Orlando FL your complete source for all your automotive \u003cbr\u003e  parts needs. Glass installed, radiators repaired, you name it, we have it.",
+   "cacheId": "Hf0ijTDB-SMJ",
+   "formattedUrl": "www.jnbusedparts.com/",
+   "htmlFormattedUrl": "www.jnb\u003cb\u003eusedparts\u003c/b\u003e.com/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.jnbusedparts.com/images/img_02.jpg",
+      "type": "1",
+      "width": "160",
+      "height": "104"
+     }
+    ],
+    "metatags": [
+     {
+      "progid": "Version: 4.74 PRO; Project name: jnbauto; Project id: c4f05e94fe84a85dc89e6996bf53b2ba; Template Name: pro_9-941-1_blue_car1_2; Published date: October 12, 2011, 12:56 13 (GMT -05:00"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Used Auto Parts, New Auto Parts, Discount Auto Parts, Import Auto ...",
+   "htmlTitle": "\u003cb\u003eUsed Auto Parts\u003c/b\u003e, New Auto Parts, Discount Auto Parts, Import Auto \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://www.brandywineparts.com/",
+   "displayLink": "www.brandywineparts.com",
+   "snippet": "We guarantee that we will have the parts you need for your new car or used car.  Same day response, on hard to find used parts for restoration projects and ...",
+   "htmlSnippet": "We guarantee that we will have the \u003cb\u003eparts\u003c/b\u003e you need for your new car or \u003cb\u003eused car\u003c/b\u003e.\u003cbr\u003e  Same day response, on hard to find used \u003cb\u003eparts\u003c/b\u003e for restoration projects and \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "oyzS6HJNL0oJ",
+   "formattedUrl": "www.brandywineparts.com/",
+   "htmlFormattedUrl": "www.brandywine\u003cb\u003eparts\u003c/b\u003e.com/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.brandywineparts.com/videos/recycleman-times-are-tough/recyclemanposter.jpg",
+      "type": "1",
+      "width": "262",
+      "height": "192"
+     }
+    ],
+    "metatags": [
+     {
+      "abstract": "Find free used auto parts locating system for the public, body shops, garages, auto salvage yards and insurance adjusters.",
+      "classification": "used automotive parts",
+      "content": "used automotive parts"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "New & Used Auto Parts from Japan",
+   "htmlTitle": "New &amp; \u003cb\u003eUsed Auto Parts\u003c/b\u003e from Japan",
+   "link": "http://www.japan-partner.com/spare-parts.php",
+   "displayLink": "www.japan-partner.com",
+   "snippet": "Used Auto Parts. Together with our reliable partners we were assisting numerous   companies around the world with their ever-increasing demand for the used ...",
+   "htmlSnippet": "\u003cb\u003eUsed Auto Parts\u003c/b\u003e. Together with our reliable partners we were assisting numerous \u003cbr\u003e  companies around the world with their ever-increasing demand for the used \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "nhy-q3VKbOQJ",
+   "formattedUrl": "www.japan-partner.com/spare-parts.php",
+   "htmlFormattedUrl": "www.japan-\u003cb\u003epart\u003c/b\u003ener.com/spare-\u003cb\u003eparts\u003c/b\u003e.php",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.japan-partner.com/images/1d446e5037/toyota-1.0ton+forklift-a977366aa4_t.jpg",
+      "type": "1",
+      "width": "204",
+      "height": "153"
+     }
+    ],
+    "metatags": [
+     {
+      "title": "New & Used Auto Parts from Japan"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Harold's Used Cars and Parts",
+   "htmlTitle": "Harold&#39;s \u003cb\u003eUsed Cars\u003c/b\u003e and \u003cb\u003eParts\u003c/b\u003e",
+   "link": "http://haroldsusedcarsandparts.com/",
+   "displayLink": "haroldsusedcarsandparts.com",
+   "snippet": "With over 40yrs experience,starting at age 14 working with his step father, Floyd   Cantwell of Floyd Cantwells Used Cars and Parts,which is still operating in ...",
+   "htmlSnippet": "With over 40yrs experience,starting at age 14 working with his step father, Floyd \u003cbr\u003e  Cantwell of Floyd Cantwells \u003cb\u003eUsed Cars\u003c/b\u003e and \u003cb\u003eParts\u003c/b\u003e,which is still operating in \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "B3r0ORgoOUUJ",
+   "formattedUrl": "haroldsusedcarsandparts.com/",
+   "htmlFormattedUrl": "harolds\u003cb\u003eusedcars\u003c/b\u003eand\u003cb\u003eparts\u003c/b\u003e.com/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://haroldsusedcarsandparts.com/images/picture_b8q4.png",
+      "type": "1",
+      "width": "366",
+      "height": "138"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Brandon Auto Salvage - Used Car and Truck Parts",
+   "htmlTitle": "Brandon Auto Salvage - \u003cb\u003eUsed Car\u003c/b\u003e and Truck \u003cb\u003eParts\u003c/b\u003e",
+   "link": "http://www.brandonauto.com/",
+   "displayLink": "www.brandonauto.com",
+   "snippet": "Brandon Auto Salvage,large selection of late model used auto parts Brandon   Florida.",
+   "htmlSnippet": "Brandon Auto Salvage,large selection of late model \u003cb\u003eused auto parts\u003c/b\u003e Brandon \u003cbr\u003e  Florida.",
+   "cacheId": "ibL-09Z1oEQJ",
+   "formattedUrl": "www.brandonauto.com/",
+   "htmlFormattedUrl": "www.brandon\u003cb\u003eauto\u003c/b\u003e.com/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.brandonauto.com/images/anibear.gif",
+      "type": "1",
+      "width": "109",
+      "height": "106"
+     }
+    ],
+    "metatags": [
+     {
+      "classification": "automotive",
+      "content": "automotive",
+      "distribution": "global",
+      "progid": "FrontPage.Editor.Document",
+      "rating": "general",
+      "title": "Brandon Auto Salvage - Used Auto Parts",
+      "abstract": "Brandon Auto Salvage - Used Auto Parts",
+      "microsoft theme": "classic 111, default",
+      "microsoft border": "tb, default"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Foreign used Auto Parts Denver Colorado",
+   "htmlTitle": "Foreign \u003cb\u003eused Auto Parts\u003c/b\u003e Denver Colorado",
+   "link": "http://www.foreignusedautoparts.org/",
+   "displayLink": "www.foreignusedautoparts.org",
+   "snippet": "We are Denver's best source for all kinds of affordable foreign, domestic and   European car and truck parts.",
+   "htmlSnippet": "We are Denver&#39;s best source for all kinds of affordable foreign, domestic and \u003cbr\u003e  European \u003cb\u003ecar\u003c/b\u003e and truck \u003cb\u003eparts\u003c/b\u003e.",
+   "cacheId": "dADToofDzycJ",
+   "formattedUrl": "www.foreignusedautoparts.org/",
+   "htmlFormattedUrl": "www.foreign\u003cb\u003eusedautoparts\u003c/b\u003e.org/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.foreignusedautoparts.org/images/part-button.jpg",
+      "type": "1",
+      "width": "180",
+      "height": "62"
+     }
+    ]
+   }
+  }
+ ]
+}

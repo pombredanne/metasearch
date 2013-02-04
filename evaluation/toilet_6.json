@@ -1,0 +1,290 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "nextPage": [
+   {
+    "title": "Google Custom Search - toilet",
+    "totalResults": "27000000",
+    "searchTerms": "toilet",
+    "count": 10,
+    "startIndex": 71,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "017401104989814545383:mf4lavmtuva"
+   }
+  ],
+  "request": [
+   {
+    "title": "Google Custom Search - toilet",
+    "totalResults": "27000000",
+    "searchTerms": "toilet",
+    "count": 10,
+    "startIndex": 61,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "017401104989814545383:mf4lavmtuva"
+   }
+  ],
+  "previousPage": [
+   {
+    "title": "Google Custom Search - toilet",
+    "totalResults": "27000000",
+    "searchTerms": "toilet",
+    "count": 10,
+    "startIndex": 51,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "017401104989814545383:mf4lavmtuva"
+   }
+  ]
+ },
+ "context": {
+  "title": "College MetaSearch Comparison"
+ },
+ "searchInformation": {
+  "searchTime": 0.277814,
+  "formattedSearchTime": "0.28",
+  "totalResults": "27000000",
+  "formattedTotalResults": "27,000,000"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "Church Toilet Seats",
+   "htmlTitle": "Church \u003cb\u003eToilet\u003c/b\u003e Seats",
+   "link": "http://www.churchseats.com/",
+   "displayLink": "www.churchseats.com",
+   "snippet": "Church Toilet Seats. Church toilet seats are made by Bemis Manufacturing   Company and are made in the USA.",
+   "htmlSnippet": "Church \u003cb\u003eToilet\u003c/b\u003e Seats. Church \u003cb\u003etoilet\u003c/b\u003e seats are made by Bemis Manufacturing \u003cbr\u003e  Company and are made in the USA.",
+   "cacheId": "gOeCym3JgTwJ",
+   "formattedUrl": "www.churchseats.com/",
+   "htmlFormattedUrl": "www.churchseats.com/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.churchseats.com/images/logos/logo-church-bsith-color-med.png",
+      "type": "1",
+      "width": "108",
+      "height": "58"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "hacklab.TOilet (hacklabTOilet) on Twitter",
+   "htmlTitle": "hacklab.\u003cb\u003eTOilet\u003c/b\u003e (hacklabTOilet) on Twitter",
+   "link": "http://twitter.com/hacklabTOilet",
+   "displayLink": "twitter.com",
+   "snippet": "HAY IM A TOILET!!!11!! poop jokes are still funny, admit it. HackLab.TO · http://  hacklab.to. Follow Following Unfollow Blocked Unblock Pending Cancel ...",
+   "htmlSnippet": "HAY IM A \u003cb\u003eTOILET\u003c/b\u003e!!!11!! poop jokes are still funny, admit it. HackLab.TO · http://\u003cbr\u003e  hacklab.to. Follow Following Unfollow Blocked Unblock Pending Cancel \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "xOhoszcIvssJ",
+   "formattedUrl": "twitter.com/hacklabTOilet",
+   "htmlFormattedUrl": "twitter.com/hacklab\u003cb\u003eTOilet\u003c/b\u003e",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://a0.twimg.com/profile_images/194520509/toilet_reasonably_small.jpg",
+      "type": "1",
+      "width": "102",
+      "height": "102"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Toilet brush - Wikipedia, the free encyclopedia",
+   "htmlTitle": "\u003cb\u003eToilet\u003c/b\u003e brush - Wikipedia, the free encyclopedia",
+   "link": "http://en.wikipedia.org/wiki/Toilet_brush",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "A toilet brush is a domestic implement designed for the cleaning of the lavatory   pan. The modern plastic version was invented in 1932 by William C. Schopp of ...",
+   "htmlSnippet": "A \u003cb\u003etoilet\u003c/b\u003e brush is a domestic implement designed for the cleaning of the lavatory \u003cbr\u003e  pan. The modern plastic version was invented in 1932 by William C. Schopp of \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "EYCDyXZAoJYJ",
+   "formattedUrl": "en.wikipedia.org/wiki/Toilet_brush",
+   "htmlFormattedUrl": "en.wikipedia.org/wiki/\u003cb\u003eToilet\u003c/b\u003e_brush",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Klobuersten_fcm.JPG/220px-Klobuersten_fcm.JPG",
+      "type": "1",
+      "width": "176",
+      "height": "132"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Toilet paper, paper towels, toilet tissue and dial hand soap at ...",
+   "htmlTitle": "\u003cb\u003eToilet\u003c/b\u003e paper, paper towels, \u003cb\u003etoilet\u003c/b\u003e tissue and dial hand soap at \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://www.toiletpaperworld.com/",
+   "displayLink": "www.toiletpaperworld.com",
+   "snippet": "Order today and get Free Shipping on orders over $75. ToiletPaperWorld.com   carries over 4000 products including toilet paper, paper towels, facial tissue, ...",
+   "htmlSnippet": "Order today and get Free Shipping on orders over $75. ToiletPaperWorld.com \u003cbr\u003e  carries over 4000 products including \u003cb\u003etoilet\u003c/b\u003e paper, paper towels, facial tissue, \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "oD7svF8ihesJ",
+   "formattedUrl": "www.toiletpaperworld.com/",
+   "htmlFormattedUrl": "www.\u003cb\u003etoilet\u003c/b\u003epaperworld.com/"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Pittsburgh toilet - Wikipedia, the free encyclopedia",
+   "htmlTitle": "Pittsburgh \u003cb\u003etoilet\u003c/b\u003e - Wikipedia, the free encyclopedia",
+   "link": "http://en.wikipedia.org/wiki/Pittsburgh_toilet",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "A Pittsburgh toilet is a common fixture in pre-World War II houses built in   Pittsburgh, Pennsylvania, United States. It consists of a toilet in the basement of   the ...",
+   "htmlSnippet": "A Pittsburgh \u003cb\u003etoilet\u003c/b\u003e is a common fixture in pre-World War II houses built in \u003cbr\u003e  Pittsburgh, Pennsylvania, United States. It consists of a \u003cb\u003etoilet\u003c/b\u003e in the basement of \u003cbr\u003e  the \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "LRllIQLjrpwJ",
+   "formattedUrl": "en.wikipedia.org/wiki/Pittsburgh_toilet",
+   "htmlFormattedUrl": "en.wikipedia.org/wiki/Pittsburgh_\u003cb\u003etoilet\u003c/b\u003e",
+   "pagemap": {
+    "metatags": [
+     {
+      "last-modified-timestamp": "1311593019",
+      "last-modified-range": "0"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Surviving Toilet Training",
+   "htmlTitle": "Surviving \u003cb\u003eToilet\u003c/b\u003e Training",
+   "link": "http://www.childwelfare.gov/preventing/supporting/resources/toilettraining.cfm",
+   "displayLink": "www.childwelfare.gov",
+   "snippet": "Most children are ready for toilet training sometime between their second and   third birthdays. This is the same time that they are experiencing what many   parents ...",
+   "htmlSnippet": "Most children are ready for \u003cb\u003etoilet\u003c/b\u003e training sometime between their second and \u003cbr\u003e  third birthdays. This is the same time that they are experiencing what many \u003cbr\u003e  parents \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "QWEriuShiGQJ",
+   "formattedUrl": "www.childwelfare.gov/preventing/supporting/.../toilettraining.cfm",
+   "htmlFormattedUrl": "www.childwelfare.gov/preventing/supporting/.../\u003cb\u003etoilet\u003c/b\u003etraining.cfm"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Toilets",
+   "htmlTitle": "\u003cb\u003eToilets\u003c/b\u003e",
+   "link": "http://www.totousa.com/Products/Toilets.aspx",
+   "displayLink": "www.totousa.com",
+   "snippet": "TOTO USA. Where to Buy | Parts Store | Downloads | Support Language: English   | Español TOTO Brazil · Facebook icon · Twitter icon · YouTube icon · Flickr ...",
+   "htmlSnippet": "TOTO USA. Where to Buy | Parts Store | Downloads | Support Language: English \u003cbr\u003e  | Español TOTO Brazil &middot; Facebook icon &middot; Twitter icon &middot; YouTube icon &middot; Flickr \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "UGsSoIVpvuIJ",
+   "formattedUrl": "www.totousa.com/Products/Toilets.aspx",
+   "htmlFormattedUrl": "www.totousa.com/Products/\u003cb\u003eToilets\u003c/b\u003e.aspx",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.totousa.com/Portals/0/Images/Categories/Toilets/toilet_2.jpg",
+      "type": "1",
+      "width": "244",
+      "height": "179"
+     }
+    ],
+    "metatags": [
+     {
+      "copyright": "Copyright © 2012, TOTO USA, Inc. All rights reserved.",
+      "author": "TOTO USA",
+      "resource-type": "DOCUMENT",
+      "distribution": "GLOBAL",
+      "rating": "GENERAL"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Toilet (room) - Wikipedia, the free encyclopedia",
+   "htmlTitle": "\u003cb\u003eToilet\u003c/b\u003e (room) - Wikipedia, the free encyclopedia",
+   "link": "http://en.wikipedia.org/wiki/Toilet_(room)",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "A toilet room (also called bathroom, washroom, lavatory, or WC), often shortened   to just toilet, is a room containing a toilet. Before effective flush toilets or ...",
+   "htmlSnippet": "A \u003cb\u003etoilet\u003c/b\u003e room (also called bathroom, washroom, lavatory, or WC), often shortened \u003cbr\u003e  to just \u003cb\u003etoilet\u003c/b\u003e, is a room containing a \u003cb\u003etoilet\u003c/b\u003e. Before effective flush \u003cb\u003etoilets\u003c/b\u003e or \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "VXH3CDUJwroJ",
+   "formattedUrl": "en.wikipedia.org/wiki/Toilet_(room)",
+   "htmlFormattedUrl": "en.wikipedia.org/wiki/\u003cb\u003eToilet\u003c/b\u003e_(room)",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Notariskantoor_Valkenswaard_10.JPG/200px-Notariskantoor_Valkenswaard_10.JPG",
+      "type": "1",
+      "width": "160",
+      "height": "120"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Toto USA",
+   "htmlTitle": "Toto USA",
+   "link": "http://www.totousa.com/",
+   "displayLink": "www.totousa.com",
+   "snippet": "1-G Toilet. Featuring TOTO's Double Cyclone™ technology, 1G uses a mere 1   gallon per flush to achieve flawless performance and bowl cleansing action.",
+   "htmlSnippet": "1-G \u003cb\u003eToilet\u003c/b\u003e. Featuring TOTO&#39;s Double Cyclone™ technology, 1G uses a mere 1 \u003cbr\u003e  gallon per flush to achieve flawless performance and bowl cleansing action.",
+   "cacheId": "7zAA3y2V65IJ",
+   "formattedUrl": "www.totousa.com/",
+   "htmlFormattedUrl": "www.totousa.com/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.totousa.com/desktopmodules/CISS.SideMenu/Styles/HorizonTabTotoUSA/btn_58_0.gif",
+      "type": "1",
+      "width": "121",
+      "height": "47"
+     }
+    ],
+    "metatags": [
+     {
+      "copyright": "Copyright © 2012, TOTO USA, Inc. All rights reserved.",
+      "author": "TOTO USA",
+      "resource-type": "DOCUMENT",
+      "distribution": "GLOBAL",
+      "rating": "GENERAL"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Bidet - Wikipedia, the free encyclopedia",
+   "htmlTitle": "Bidet - Wikipedia, the free encyclopedia",
+   "link": "http://en.wikipedia.org/wiki/Bidet",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "1 History; 2 Function; 3 Integration of toilet and bidet; 4 Trends in acceptance; 5   See also ... These have spray-hose attachments that connect to existing toilet ...",
+   "htmlSnippet": "1 History; 2 Function; 3 Integration of \u003cb\u003etoilet\u003c/b\u003e and bidet; 4 Trends in acceptance; 5 \u003cbr\u003e  See also \u003cb\u003e...\u003c/b\u003e These have spray-hose attachments that connect to existing \u003cb\u003etoilet\u003c/b\u003e \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "X2678q1UUAAJ",
+   "formattedUrl": "en.wikipedia.org/wiki/Bidet",
+   "htmlFormattedUrl": "en.wikipedia.org/wiki/Bidet",
+   "pagemap": {
+    "RTO": [
+     {
+      "format": "image",
+      "group_impression_tag": "prbx_kr_rto_term_enc",
+      "Opt::max_rank_top": "0",
+      "Opt::threshold_override": "3",
+      "Opt::disallow_same_domain": "1",
+      "Output::title": "\u003cb\u003eBidet\u003c/b\u003e",
+      "Output::want_title_on_right": "true",
+      "Output::num_lines1": "3",
+      "Output::text1": "A bidet is a low-mounted plumbing fixture or type of sink intended for washing the genitalia, inner buttocks, and anus. Originally a French language French word, in English language English bidet is or .",
+      "Output::gray1b": "- 위키백과 (영문)",
+      "Output::no_clip1b": "true",
+      "UrlOutput::url2": "http://en.wikipedia.org/wiki/Bidet",
+      "Output::link2": "위키백과 (영문)",
+      "result_group_header": "백과사전",
+      "Output::image_url": "http://www.gstatic.com/richsnippets/b/455292aa09260f66.jpg",
+      "image_size": "80x80",
+      "Output::inline_image_width": "80",
+      "Output::inline_image_height": "80",
+      "Output::image_border": "1"
+     }
+    ]
+   }
+  }
+ ]
+}

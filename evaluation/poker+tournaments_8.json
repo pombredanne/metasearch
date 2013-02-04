@@ -1,0 +1,321 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "nextPage": [
+   {
+    "title": "Google Custom Search - poker tournaments",
+    "totalResults": "8820000",
+    "searchTerms": "poker tournaments",
+    "count": 10,
+    "startIndex": 91,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "017401104989814545383:mf4lavmtuva"
+   }
+  ],
+  "request": [
+   {
+    "title": "Google Custom Search - poker tournaments",
+    "totalResults": "8820000",
+    "searchTerms": "poker tournaments",
+    "count": 10,
+    "startIndex": 81,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "017401104989814545383:mf4lavmtuva"
+   }
+  ],
+  "previousPage": [
+   {
+    "title": "Google Custom Search - poker tournaments",
+    "totalResults": "8820000",
+    "searchTerms": "poker tournaments",
+    "count": 10,
+    "startIndex": 71,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "017401104989814545383:mf4lavmtuva"
+   }
+  ]
+ },
+ "context": {
+  "title": "College MetaSearch Comparison"
+ },
+ "searchInformation": {
+  "searchTime": 0.181961,
+  "formattedSearchTime": "0.18",
+  "totalResults": "8820000",
+  "formattedTotalResults": "8,820,000"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "Poker Tournaments Listing",
+   "htmlTitle": "\u003cb\u003ePoker Tournaments\u003c/b\u003e Listing",
+   "link": "http://www.bluffmagazine.com/tournaments/?tsType=future",
+   "displayLink": "www.bluffmagazine.com",
+   "snippet": "Results 1 - 30 of 105 ... A list of upcmoing, current, and past poker tournament ...",
+   "htmlSnippet": "Results 1 - 30 of 105 \u003cb\u003e...\u003c/b\u003e A list of upcmoing, current, and past \u003cb\u003epoker tournament\u003c/b\u003e \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "2m3aV3N2vu0J",
+   "formattedUrl": "www.bluffmagazine.com/tournaments/?tsType=future",
+   "htmlFormattedUrl": "www.bluffmagazine.com/\u003cb\u003etournaments\u003c/b\u003e/?tsType=future",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.bluffmagazine.com/images/fb-bluff.gif"
+     }
+    ],
+    "metatags": [
+     {
+      "og:image": "http://www.bluffmagazine.com/images/fb-bluff.gif",
+      "og:site_name": "BLUFF Magazine.com",
+      "fb:app_id": "120479214670891",
+      "fb:admins": "1293540998,890515050,545771281"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Oklahoma Poker Rooms | Oklahoma Poker Tournaments",
+   "htmlTitle": "Oklahoma Poker Rooms | Oklahoma \u003cb\u003ePoker Tournaments\u003c/b\u003e",
+   "link": "http://www.thepokeratlas.com/region/oklahoma/29/",
+   "displayLink": "www.thepokeratlas.com",
+   "snippet": "Oklahoma Poker Rooms and Oklahoma Poker Tournament information.",
+   "htmlSnippet": "Oklahoma Poker Rooms and Oklahoma \u003cb\u003ePoker Tournament\u003c/b\u003e information.",
+   "cacheId": "TbjIhQTCG40J",
+   "formattedUrl": "www.thepokeratlas.com/region/oklahoma/29/",
+   "htmlFormattedUrl": "www.the\u003cb\u003epoker\u003c/b\u003eatlas.com/region/oklahoma/29/",
+   "pagemap": {
+    "hreview": [
+     {
+      "summary": "If you have an appetite to be cheated and harassed by dealers who collude with player/friends than this would be the place for you. Even if management is notified they care not what happens..."
+     },
+     {
+      "summary": "Visited WinStar for first time in November 2011. Impressive"
+     }
+    ],
+    "metatags": [
+     {
+      "copyright": "Copyright (C) 2008. All rights reserved. www.thepokeratlas.com",
+      "y_key": "651c09718b4b1060",
+      "msvalidate.01": "B8BA7C0E76A2A22532BA08825CE1E0E6"
+     }
+    ],
+    "review": [
+     {
+      "reviewer": "caustin",
+      "ratingstars": "1.0"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Poker Room • Texas Hold'em, Pai Gow, Poker Tournaments in Reno",
+   "htmlTitle": "\u003cb\u003ePoker Room\u003c/b\u003e • Texas Hold&#39;em, Pai Gow, \u003cb\u003ePoker Tournaments\u003c/b\u003e in Reno",
+   "link": "http://www.atlantiscasino.com/casino/poker-room/",
+   "displayLink": "www.atlantiscasino.com",
+   "snippet": "Atlantis Casino Resort Spa | The new Atlantis Poker Room offers the region's   best promotions, tableside dining, and a self-service beverage bar. And for   players ...",
+   "htmlSnippet": "Atlantis Casino Resort Spa | The new Atlantis \u003cb\u003ePoker Room\u003c/b\u003e offers the region&#39;s \u003cbr\u003e  best promotions, tableside dining, and a self-service beverage bar. And for \u003cbr\u003e  players \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "AMO6cg20oj8J",
+   "formattedUrl": "www.atlantiscasino.com/casino/poker-room/",
+   "htmlFormattedUrl": "www.atlantiscasino.com/casino/\u003cb\u003epoker\u003c/b\u003e-\u003cb\u003eroom\u003c/b\u003e/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.atlantiscasino.com/images/galleries/poker-room/2.jpg",
+      "type": "1",
+      "width": "311",
+      "height": "162"
+     }
+    ],
+    "metatags": [
+     {
+      "og:title": "Book direct for our Best Rate Guarantee! Atlantis Casino Resort Spa, Reno's Newest Hot Spot.",
+      "og:type": "hotel",
+      "og:site_name": "Atlantis Casino Resort Spa &bull; Luxury Hotel Towers &amp; Suite Accommodations Reno, NV"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Poker Tournaments",
+   "htmlTitle": "\u003cb\u003ePoker Tournaments\u003c/b\u003e",
+   "link": "http://www.binions.com/gaming/tournaments.php",
+   "displayLink": "www.binions.com",
+   "snippet": "Binion's Hall of Fame Poker Room · Poker Tournaments · Poker Promotions ·   Table Games · Slots · Sports Book · Credit Application. Dining. Steakhouse ...",
+   "htmlSnippet": "Binion&#39;s Hall of Fame \u003cb\u003ePoker Room\u003c/b\u003e &middot; \u003cb\u003ePoker Tournaments\u003c/b\u003e &middot; Poker Promotions &middot; \u003cbr\u003e  Table Games &middot; Slots &middot; Sports Book &middot; Credit Application. Dining. Steakhouse \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "dV051mHRIoYJ",
+   "formattedUrl": "www.binions.com/gaming/tournaments.php",
+   "htmlFormattedUrl": "www.binions.com/gaming/\u003cb\u003etournaments\u003c/b\u003e.php",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.binions.com/images/gaming/poker_room/poker_tournaments.jpg",
+      "type": "1",
+      "width": "189",
+      "height": "266"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Arnold Snyder's Poker Tournament Formula",
+   "htmlTitle": "Arnold Snyder&#39;s \u003cb\u003ePoker Tournament\u003c/b\u003e Formula",
+   "link": "http://www.pokertournamentformula.com/",
+   "displayLink": "www.pokertournamentformula.com",
+   "snippet": "Arnold Snyder's Poker Tournament Formula is a professional strategy for making   money at no-limit Texas hold'em poker tournaments online and live. Poker ...",
+   "htmlSnippet": "Arnold Snyder&#39;s \u003cb\u003ePoker Tournament\u003c/b\u003e Formula is a professional strategy for making \u003cbr\u003e  money at no-limit Texas hold&#39;em \u003cb\u003epoker tournaments\u003c/b\u003e online and live. Poker \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "RjZoxbU3r6sJ",
+   "formattedUrl": "www.pokertournamentformula.com/",
+   "htmlFormattedUrl": "www.\u003cb\u003epokertournament\u003c/b\u003eformula.com/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.pokertournamentformula.com/images/ptf2.jpg",
+      "type": "1",
+      "width": "63",
+      "height": "97"
+     }
+    ],
+    "metatags": [
+     {
+      "author": "Arnold Snyder"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Live Poker Tournaments Schedules - PokerStars Satellites",
+   "htmlTitle": "Live \u003cb\u003ePoker Tournaments\u003c/b\u003e Schedules - PokerStars Satellites",
+   "link": "http://www.pokerstars.com/poker/tournaments/live/",
+   "displayLink": "www.pokerstars.com",
+   "snippet": "Current news on satellite poker tournaments at PokerStars to the biggest live   poker tournaments around the world.",
+   "htmlSnippet": "Current news on satellite \u003cb\u003epoker tournaments\u003c/b\u003e at PokerStars to the biggest live \u003cbr\u003e  \u003cb\u003epoker tournaments\u003c/b\u003e around the world.",
+   "cacheId": "6Cow8LUp6UQJ",
+   "formattedUrl": "www.pokerstars.com/poker/tournaments/live/",
+   "htmlFormattedUrl": "www.\u003cb\u003epoker\u003c/b\u003estars.com/\u003cb\u003epoker\u003c/b\u003e/\u003cb\u003etournaments\u003c/b\u003e/live/"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Play online poker: Texas Hold'em, Tournaments and more at ...",
+   "htmlTitle": "Play online \u003cb\u003epoker\u003c/b\u003e: Texas Hold&#39;em, \u003cb\u003eTournaments\u003c/b\u003e and more at \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://www.partypoker.com/",
+   "displayLink": "www.partypoker.com",
+   "snippet": "Play online poker at PartyPoker.com. Texas Hold'em, huge poker tournaments,   Omaha Hi/Lo and more. Download free poker software or play our no-download ...",
+   "htmlSnippet": "Play online poker at PartyPoker.com. Texas Hold&#39;em, huge \u003cb\u003epoker tournaments\u003c/b\u003e, \u003cbr\u003e  Omaha Hi/Lo and more. Download free poker software or play our no-download \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "GoB4KdUYOSYJ",
+   "formattedUrl": "www.partypoker.com/",
+   "htmlFormattedUrl": "www.party\u003cb\u003epoker\u003c/b\u003e.com/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.partypoker.com/content/dam/poker/common/asset/2/wpt-grand-prix-de-paris/wpt-grand-prix-de-paris-slider.jpg",
+      "type": "1",
+      "width": "136",
+      "height": "176"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Las Vegas Poker Room – Stratosphere Casino, Hotel & Tower ...",
+   "htmlTitle": "Las Vegas \u003cb\u003ePoker Room\u003c/b\u003e – Stratosphere Casino, Hotel &amp; Tower \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://www.stratospherehotel.com/Casino/Gaming/Poker",
+   "displayLink": "www.stratospherehotel.com",
+   "snippet": "Stratosphere Casino, Hotel & Tower Official site. Head to our Las Vegas Poker   Room and play a few hands. The Stratosphere offers more value than any other ...",
+   "htmlSnippet": "Stratosphere Casino, Hotel &amp; Tower Official site. Head to our Las Vegas \u003cb\u003ePoker\u003c/b\u003e \u003cbr\u003e  \u003cb\u003eRoom\u003c/b\u003e and play a few hands. The Stratosphere offers more value than any other \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "IvnSj8C-YJMJ",
+   "formattedUrl": "www.stratospherehotel.com/Casino/Gaming/Poker",
+   "htmlFormattedUrl": "www.stratospherehotel.com/Casino/Gaming/\u003cb\u003ePoker\u003c/b\u003e",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.stratospherehotel.com/var/ezwebin_site/storage/images/media/images/sub-page-images/header_poker_promo/5658-1-eng-GB/header_poker_promo_top_image.jpg",
+      "type": "1",
+      "width": "425",
+      "height": "119"
+     }
+    ],
+    "metatags": [
+     {
+      "content-type": "text/html; charset=utf-8",
+      "content-language": "en-GB",
+      "author": "ACEP LLC",
+      "copyright": "ACEP LLC"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "PokerStars Multi-Table Tournament Leader Board Home Page",
+   "htmlTitle": "PokerStars Multi-Table \u003cb\u003eTournament\u003c/b\u003e Leader Board Home Page",
+   "link": "http://www.pokerstars.com/poker/tournaments/leader-board/",
+   "displayLink": "www.pokerstars.com",
+   "snippet": "PokerStars is home to the biggest and best online poker tournaments in the world  , so there's nowhere better to prove your skills. The PokerStars Multi-Table ...",
+   "htmlSnippet": "PokerStars is home to the biggest and best online \u003cb\u003epoker tournaments\u003c/b\u003e in the world\u003cbr\u003e  , so there&#39;s nowhere better to prove your skills. The PokerStars Multi-Table \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "7c6Pn2IAiQgJ",
+   "formattedUrl": "www.pokerstars.com/poker/tournaments/leader-board/",
+   "htmlFormattedUrl": "www.\u003cb\u003epoker\u003c/b\u003estars.com/\u003cb\u003epoker\u003c/b\u003e/\u003cb\u003etournaments\u003c/b\u003e/leader-board/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.pokerstars.com/images/ico/special-offers.png",
+      "type": "1",
+      "width": "87",
+      "height": "69"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Amazon.com: The Poker Tournament Formula (9781580422031 ...",
+   "htmlTitle": "Amazon.com: The \u003cb\u003ePoker Tournament\u003c/b\u003e Formula (9781580422031 \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://www.amazon.com/Poker-Tournament-Formula-Arnold-Snyder/dp/1580422039",
+   "displayLink": "www.amazon.com",
+   "snippet": "About the Author. Arnold Snyder is a regular winner in no-limit hold'em   tournaments and a professional gambler who has been writing about casino   gambling for ...",
+   "htmlSnippet": "About the Author. Arnold Snyder is a regular winner in no-limit hold&#39;em \u003cbr\u003e  \u003cb\u003etournaments\u003c/b\u003e and a professional gambler who has been writing about casino \u003cbr\u003e  gambling for \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "02RZC5QMIaQJ",
+   "formattedUrl": "www.amazon.com/Poker-Tournament-Formula.../dp/1580422039",
+   "htmlFormattedUrl": "www.amazon.com/\u003cb\u003ePoker\u003c/b\u003e-\u003cb\u003eTournament\u003c/b\u003e-Formula.../dp/1580422039",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://ecx.images-amazon.com/images/I/51YGEAZFVEL._SL500_AA300_.jpg"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "225",
+      "height": "225",
+      "src": "https://encrypted-tbn1.google.com/images?q=tbn:ANd9GcTfciACEDNYrk42opYE4y94f3Y3dOWQBcjROFR2N9vVIfGoI881Jx-3snxq"
+     }
+    ],
+    "scraped": [
+     {
+      "image_link": "http://ecx.images-amazon.com/images/I/51YGEAZFVEL._SL500_AA300_.jpg"
+     }
+    ],
+    "metatags": [
+     {
+      "title": "Amazon.com: The Poker Tournament Formula (9781580422031): Arnold Snyder: Books"
+     }
+    ]
+   }
+  }
+ ]
+}

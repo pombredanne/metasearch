@@ -1,0 +1,435 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "nextPage": [
+   {
+    "title": "Google Custom Search - volvo",
+    "totalResults": "38300000",
+    "searchTerms": "volvo",
+    "count": 10,
+    "startIndex": 41,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "017401104989814545383:mf4lavmtuva"
+   }
+  ],
+  "request": [
+   {
+    "title": "Google Custom Search - volvo",
+    "totalResults": "38300000",
+    "searchTerms": "volvo",
+    "count": 10,
+    "startIndex": 31,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "017401104989814545383:mf4lavmtuva"
+   }
+  ],
+  "previousPage": [
+   {
+    "title": "Google Custom Search - volvo",
+    "totalResults": "38300000",
+    "searchTerms": "volvo",
+    "count": 10,
+    "startIndex": 21,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "017401104989814545383:mf4lavmtuva"
+   }
+  ]
+ },
+ "context": {
+  "title": "College MetaSearch Comparison"
+ },
+ "searchInformation": {
+  "searchTime": 0.183931,
+  "formattedSearchTime": "0.18",
+  "totalResults": "38300000",
+  "formattedTotalResults": "38,300,000"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "Volvo Car Corporation – Volvo Cars International Site",
+   "htmlTitle": "\u003cb\u003eVolvo\u003c/b\u003e Car Corporation – \u003cb\u003eVolvo\u003c/b\u003e Cars International Site",
+   "link": "http://www.volvocars.com/intl/Pages/default.aspx/",
+   "displayLink": "www.volvocars.com",
+   "snippet": "Welcome to the international site of the Volvo Car Corporation. Take a tour and   have a look at some great Volvo cars.",
+   "htmlSnippet": "Welcome to the international site of the \u003cb\u003eVolvo\u003c/b\u003e Car Corporation. Take a tour and \u003cbr\u003e  have a look at some great \u003cb\u003eVolvo\u003c/b\u003e cars.",
+   "cacheId": "V4wmpF0VgZkJ",
+   "formattedUrl": "www.volvocars.com/intl/Pages/default.aspx/",
+   "htmlFormattedUrl": "www.\u003cb\u003evolvo\u003c/b\u003ecars.com/intl/Pages/default.aspx/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.volvocars.com/_layouts/VolvoCars.SharePoint.Features.Site3/Images/Logo/ironmark-transparent.png"
+     }
+    ],
+    "metatags": [
+     {
+      "content-language": "sv",
+      "og:title": "Volvo Car Corporation – Volvo Cars International Site",
+      "og:type": "website",
+      "og:image": "http://www.volvocars.com/_layouts/VolvoCars.SharePoint.Features.Site3/Images/Logo/ironmark-transparent.png"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Denver Volvo Dealer | Rickenbaugh Volvo is your DENVER VOLVO ...",
+   "htmlTitle": "Denver \u003cb\u003eVolvo\u003c/b\u003e Dealer | Rickenbaugh \u003cb\u003eVolvo\u003c/b\u003e is your DENVER \u003cb\u003eVOLVO\u003c/b\u003e \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://www.rickenbaughvolvo.com/",
+   "displayLink": "www.rickenbaughvolvo.com",
+   "snippet": "Denver, CO New, Rickenbaugh Volvo sells and services Volvo vehicles in the   greater Denver, Denver Volvo Service, Volvo Repair.",
+   "htmlSnippet": "Denver, CO New, Rickenbaugh \u003cb\u003eVolvo\u003c/b\u003e sells and services \u003cb\u003eVolvo\u003c/b\u003e vehicles in the \u003cbr\u003e  greater Denver, Denver \u003cb\u003eVolvo\u003c/b\u003e Service, \u003cb\u003eVolvo\u003c/b\u003e Repair.",
+   "cacheId": "W5Zf9JBuFQoJ",
+   "formattedUrl": "www.rickenbaughvolvo.com/",
+   "htmlFormattedUrl": "www.rickenbaugh\u003cb\u003evolvo\u003c/b\u003e.com/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://pictures.dealer.com/r/rickenbaughvolvo/0711/0553e0bf0a0d028a0125d92c6f5382cd.jpg",
+      "type": "1",
+      "width": "225",
+      "height": "225"
+     }
+    ],
+    "metatags": [
+     {
+      "author": "Rickenbaugh Volvo",
+      "expires": "never",
+      "distribution": "global",
+      "og:title": "Denver Volvo Dealer | Rickenbaugh Volvo is your DENVER VOLVO Dealership in Colorado 80203",
+      "og:type": "website",
+      "og:url": "http://www.rickenbaughvolvo.com/index.htm",
+      "og:description": "Denver, CO New, Rickenbaugh Volvo sells and services Volvo vehicles in the greater Denver, Denver Volvo Service, Volvo Repair",
+      "locale": "en_US"
+     }
+    ],
+    "hproduct": [
+     {
+      "description": "Transmission: Automatic, Exterior Color: Flamenco Red",
+      "fn": "2012 Volvo XC70 T6 Wagon",
+      "photo": "http://images.dealer.com/ddc/resize/134x/quality/95/sharpen/1/ddc/autodata/us/stockphoto-color/2012/USC20VOC181E0/702.jpg",
+      "url": "http://www.rickenbaughvolvo.com/new/Volvo/2012-Volvo-XC70-dce8176c0a0d048e00d2479dcaf079e0.htm",
+      "price": "$43,470",
+      "currency": "USD",
+      "currency_iso4217": "840"
+     },
+     {
+      "description": "Transmission: Automatic, Exterior Color: Ember Black, Interior Color: Black",
+      "fn": "2013 Volvo XC90 3.2 SUV",
+      "photo": "http://pictures.dealer.com/ddc/resize/134x/quality/95/sharpen/1/ddc/r/rickenbaughvolvo/1899/b50d1045458170014c616565bdc6aa4cx.jpg",
+      "url": "http://www.rickenbaughvolvo.com/new/Volvo/2013-Volvo-XC90-dce822640a0d048e00d2479d883c7071.htm"
+     },
+     {
+      "description": "Transmission: Automatic, Exterior Color: Ice White, Interior Color: Off-Black",
+      "fn": "2012 Volvo C70 T5 Convertible",
+      "photo": "http://pictures.dealer.com/ddc/resize/134x/quality/95/sharpen/1/ddc/r/rickenbaughvolvo/1391/dd3acb0f8d627f23ebbeb00c23085735x.jpg",
+      "url": "http://www.rickenbaughvolvo.com/new/Volvo/2012-Volvo-C70-dce827bf0a0d048e00d2479d6e111d15.htm",
+      "price": "$47,925",
+      "currency": "USD",
+      "currency_iso4217": "840"
+     },
+     {
+      "description": "Transmission: Automatic, Exterior Color: Electric Silver, Interior Color: Soft Beige",
+      "fn": "2013 Volvo XC90 3.2 SUV",
+      "photo": "http://pictures.dealer.com/ddc/resize/134x/quality/95/sharpen/1/ddc/r/rickenbaughvolvo/0377/e132b511caaf334cdbf1b2719b4ff608x.jpg",
+      "url": "http://www.rickenbaughvolvo.com/new/Volvo/2013-Volvo-XC90-dce82b750a0d048e00d2479d24278f1e.htm",
+      "price": "$43,625",
+      "currency": "USD",
+      "currency_iso4217": "840"
+     },
+     {
+      "description": "Transmission: Automatic, Exterior Color: Black Sapphire, Interior Color: Sandstone Beige",
+      "fn": "2012 Volvo XC60 T6 SUV",
+      "photo": "http://pictures.dealer.com/ddc/resize/134x/quality/95/sharpen/1/ddc/r/rickenbaughvolvo/0327/4fcdbd714b0f3d65d9b09ad6a28e9075x.jpg",
+      "url": "http://www.rickenbaughvolvo.com/new/Volvo/2012-Volvo-XC60-dce831bc0a0d048e00d2479dc491c9c1.htm",
+      "price": "$47,025",
+      "currency": "USD",
+      "currency_iso4217": "840"
+     },
+     {
+      "description": "Transmission: Automatic, Exterior Color: Caspian Blue",
+      "fn": "2013 Volvo XC90 3.2 SUV",
+      "photo": "http://images.dealer.com/ddc/resize/134x/quality/95/sharpen/1/ddc/evox/color_0640_001/8078/8078_cc0640_001_498.jpg",
+      "url": "http://www.rickenbaughvolvo.com/new/Volvo/2013-Volvo-XC90-dce8332b0a0d048e00d2479d5d6ca163.htm",
+      "price": "$46,125",
+      "currency": "USD",
+      "currency_iso4217": "840"
+     },
+     {
+      "description": "Exterior Color: Black Stone",
+      "fn": "2013 Volvo C30 T5 Hatchback",
+      "photo": "http://images.dealer.com/ddc/resize/134x/quality/95/sharpen/1/ddc/autodata/us/stockphoto/2013/USC30VOC201A0.jpg",
+      "url": "http://www.rickenbaughvolvo.com/new/Volvo/2013-Volvo-C30-a2e254a40a0a0064013f948e3bff9836.htm",
+      "price": "$28,395",
+      "currency": "USD",
+      "currency_iso4217": "840"
+     },
+     {
+      "description": "Exterior Color: Black Stone",
+      "fn": "2013 Volvo C30 T5 Hatchback",
+      "photo": "http://images.dealer.com/ddc/resize/134x/quality/95/sharpen/1/ddc/autodata/us/stockphoto/2013/USC30VOC201A0.jpg",
+      "url": "http://www.rickenbaughvolvo.com/new/Volvo/2013-Volvo-C30-a2e25d180a0a0064013f948ebe61f3a1.htm",
+      "price": "$33,195",
+      "currency": "USD",
+      "currency_iso4217": "840"
+     },
+     {
+      "description": "Exterior Color: Electric Silver",
+      "fn": "2013 Volvo C30 T5 Hatchback",
+      "photo": "http://images.dealer.com/ddc/resize/134x/quality/95/sharpen/1/ddc/autodata/us/stockphoto/2013/USC30VOC201A0.jpg",
+      "url": "http://www.rickenbaughvolvo.com/new/Volvo/2013-Volvo-C30-a7f18ab70a0a006501c0bd17edad22e6.htm",
+      "price": "$32,485",
+      "currency": "USD",
+      "currency_iso4217": "840"
+     }
+    ],
+    "hcard": [
+     {
+      "fn": "Rickenbaugh Volvo"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Car Offers, Sales, Deals, Specials, Leases, Rewards & Bonuses |",
+   "htmlTitle": "Car Offers, Sales, Deals, Specials, Leases, Rewards &amp; Bonuses |",
+   "link": "http://www.volvocars.com/us/sales-services/sales/offers/pages",
+   "displayLink": "www.volvocars.com",
+   "snippet": "Get all the great offers from Volvo, including savings on the latest Volvo car   models, genuine parts, servicing, leasing & more.",
+   "htmlSnippet": "Get all the great offers from \u003cb\u003eVolvo\u003c/b\u003e, including savings on the latest \u003cb\u003eVolvo\u003c/b\u003e car \u003cbr\u003e  models, genuine parts, servicing, leasing &amp; more.",
+   "cacheId": "3IXMdq-I7joJ",
+   "formattedUrl": "www.volvocars.com/us/sales-services/sales/offers/pages",
+   "htmlFormattedUrl": "www.\u003cb\u003evolvo\u003c/b\u003ecars.com/us/sales-services/sales/offers/pages",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.volvocars.com/us/sales-services/sales/offers/PublishingImages/Volvo-Summer%20Sales-S60-XC60-offer-v1.jpg",
+      "type": "1",
+      "width": "230",
+      "height": "148"
+     }
+    ],
+    "metatags": [
+     {
+      "content-language": "en-US",
+      "keywordscustom": "volvo lease deals, volvo lease specials, volvo lease offers, volvo  loyalty program, volvo offers, volvo sales, volvo deals, volvo  promotions",
+      "doctype": "&lt;!DOCTYPE html PUBLIC &quot;-//W3C//DTD XHTML 1.0 Transitional//EN&quot; &quot;http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd&quot;&gt;",
+      "ie7mode": "True",
+      "og:title": "Car Offers, Sales, Deals, Specials, Leases, Rewards & Bonuses |",
+      "og:type": "website",
+      "og:image": "http://www.volvocars.com/_layouts/VolvoCars.SharePoint.Features.Site3/Images/Logo/ironmark-transparent.png"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Volvo Trucks - Wikipedia, the free encyclopedia",
+   "htmlTitle": "\u003cb\u003eVolvo\u003c/b\u003e Trucks - Wikipedia, the free encyclopedia",
+   "link": "http://en.wikipedia.org/wiki/Volvo_Trucks",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "Volvo L495 Titan Truck 1965. Volvo Trucks (sv: Volvo Lastvagnar) is a global   truck manufacturer based in Sweden, owned by Volvo Group - AB Volvo it is the ...",
+   "htmlSnippet": "\u003cb\u003eVolvo\u003c/b\u003e L495 Titan Truck 1965. \u003cb\u003eVolvo\u003c/b\u003e Trucks (sv: \u003cb\u003eVolvo\u003c/b\u003e Lastvagnar) is a global \u003cbr\u003e  truck manufacturer based in Sweden, owned by \u003cb\u003eVolvo\u003c/b\u003e Group - AB \u003cb\u003eVolvo\u003c/b\u003e it is the \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "eR2BFMIvFTcJ",
+   "formattedUrl": "en.wikipedia.org/wiki/Volvo_Trucks",
+   "htmlFormattedUrl": "en.wikipedia.org/wiki/\u003cb\u003eVolvo\u003c/b\u003e_Trucks",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://upload.wikimedia.org/wikipedia/en/thumb/9/9c/Volvo_Cars_logo.png/160px-Volvo_Cars_logo.png",
+      "type": "1",
+      "width": "128",
+      "height": "124"
+     }
+    ],
+    "hcard": [
+     {
+      "fn": "Volvo Trucks",
+      "label": "Gothenburg Sweden",
+      "category": "Subsidiary of AB Volvo"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Home Page - North America : Volvo Penta",
+   "htmlTitle": "Home Page - North America : \u003cb\u003eVolvo\u003c/b\u003e Penta",
+   "link": "http://www.volvopenta.com/volvopenta/na/en-us/",
+   "displayLink": "www.volvopenta.com",
+   "snippet": "New for the 2012-2013 instructor led training season we are relocating from the   former Midland location of Georgian College to a Volvo Group facility, located in ...",
+   "htmlSnippet": "New for the 2012-2013 instructor led training season we are relocating from the \u003cbr\u003e  former Midland location of Georgian College to a \u003cb\u003eVolvo\u003c/b\u003e Group facility, located in \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "u_XQXM4N71EJ",
+   "formattedUrl": "www.volvopenta.com/volvopenta/na/en-us/",
+   "htmlFormattedUrl": "www.\u003cb\u003evolvo\u003c/b\u003epenta.com/\u003cb\u003evolvo\u003c/b\u003epenta/na/en-us/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.volvopenta.com/SiteCollectionImages/VPC/Market%20sites/NA/619x246/crusher_rocks.jpg",
+      "type": "1",
+      "width": "356",
+      "height": "141"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "New Volvo and Used Car Dealership in Stamford | Serving Westport ...",
+   "htmlTitle": "New \u003cb\u003eVolvo\u003c/b\u003e and Used Car Dealership in Stamford | Serving Westport \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://www.stamfordvolvo.com/",
+   "displayLink": "www.stamfordvolvo.com",
+   "snippet": "Test drive and buy a new Volvo or used car in Stamford at Volvo of Stamford. Our   Connecticut Volvo dealership always has a wide selection.",
+   "htmlSnippet": "Test drive and buy a new \u003cb\u003eVolvo\u003c/b\u003e or used car in Stamford at \u003cb\u003eVolvo\u003c/b\u003e of Stamford. Our \u003cbr\u003e  Connecticut \u003cb\u003eVolvo\u003c/b\u003e dealership always has a wide selection.",
+   "cacheId": "gasfP0pj8VIJ",
+   "formattedUrl": "www.stamfordvolvo.com/",
+   "htmlFormattedUrl": "www.stamford\u003cb\u003evolvo\u003c/b\u003e.com/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://pictures.dealer.com/s/stamfordvolvo/1311/deda48094046387200ea85b49d1358a2.jpg",
+      "type": "1",
+      "width": "427",
+      "height": "118"
+     }
+    ],
+    "metatags": [
+     {
+      "copyright": "Copyright Volvo of Stamford. All rights reserved.",
+      "author": "Volvo of Stamford",
+      "expires": "never",
+      "distribution": "global",
+      "og:title": "New Volvo and Used Car Dealership in Stamford | Serving Westport, Glen Cove & Elmsford | Volvo of Stamford",
+      "og:type": "website",
+      "og:url": "http://www.stamfordvolvo.com/index.htm",
+      "og:description": "Test drive and buy a new Volvo or used car in Stamford at Volvo of Stamford. Our Connecticut Volvo dealership always has a wide selection."
+     }
+    ],
+    "hcard": [
+     {
+      "fn": "Volvo of Stamford"
+     },
+     {
+      "fn": "Volvo of Stamford"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Marine lesiure engines - Pleasure Boat Engines : Volvo Penta",
+   "htmlTitle": "Marine lesiure engines - Pleasure Boat Engines : \u003cb\u003eVolvo\u003c/b\u003e Penta",
+   "link": "http://www.volvopenta.com/volvopenta/na/en-us/marine_leisure_engines/pages/marine_leisure_engines.aspx",
+   "displayLink": "www.volvopenta.com",
+   "snippet": "Use Genuine Volvo Penta Parts to keep your engine in perfect condition. ...   Purchase Volvo Penta branded merchandise from the Volvo Merchandise shop.",
+   "htmlSnippet": "Use Genuine \u003cb\u003eVolvo\u003c/b\u003e Penta Parts to keep your engine in perfect condition. \u003cb\u003e...\u003c/b\u003e \u003cbr\u003e  Purchase \u003cb\u003eVolvo\u003c/b\u003e Penta branded merchandise from the \u003cb\u003eVolvo\u003c/b\u003e Merchandise shop.",
+   "cacheId": "tPicSJ76dx8J",
+   "formattedUrl": "www.volvopenta.com/volvopenta/.../marine_leisure_engines.aspx",
+   "htmlFormattedUrl": "www.\u003cb\u003evolvo\u003c/b\u003epenta.com/\u003cb\u003evolvo\u003c/b\u003epenta/.../marine_leisure_engines.aspx",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.volvopenta.com/SiteCollectionImages/VPC/IPS/x%20228/Multi_1.jpg",
+      "type": "1",
+      "width": "354",
+      "height": "142"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Ontario Volvo Dealer, Riverside, Corona, San Bernardino, New ...",
+   "htmlTitle": "Ontario \u003cb\u003eVolvo\u003c/b\u003e Dealer, Riverside, Corona, San Bernardino, New \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://www.ontariovolvo.com/",
+   "displayLink": "www.ontariovolvo.com",
+   "snippet": "See New Volvo Special Offers, Used Volvo Cars and a a great selection of Used   Cars at our Volvo Dealership in San Bernardino County, CA. Serving Ontario ...",
+   "htmlSnippet": "See New \u003cb\u003eVolvo\u003c/b\u003e Special Offers, Used \u003cb\u003eVolvo\u003c/b\u003e Cars and a a great selection of Used \u003cbr\u003e  Cars at our \u003cb\u003eVolvo\u003c/b\u003e Dealership in San Bernardino County, CA. Serving Ontario \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "prK_VoVutasJ",
+   "formattedUrl": "www.ontariovolvo.com/",
+   "htmlFormattedUrl": "www.ontario\u003cb\u003evolvo\u003c/b\u003e.com/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.ontariovolvo.com/img/1731593",
+      "type": "1",
+      "width": "138",
+      "height": "92"
+     }
+    ],
+    "metatags": [
+     {
+      "skype_toolbar": "SKYPE_TOOLBAR_PARSER_COMPATIBLE"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Volvo Cars | Volvo Overseas Delivery, European Vacation",
+   "htmlTitle": "\u003cb\u003eVolvo\u003c/b\u003e Cars | \u003cb\u003eVolvo\u003c/b\u003e Overseas Delivery, European Vacation",
+   "link": "http://www.volvocars.com/us/MYBAGSAREPACKED",
+   "displayLink": "www.volvocars.com",
+   "snippet": "Purchase any new Volvo through the Volvo Overseas Delivery Program and you'  ll discover a truly unique way to buy a car, as well as a truly unique way to travel ...",
+   "htmlSnippet": "Purchase any new \u003cb\u003eVolvo\u003c/b\u003e through the \u003cb\u003eVolvo\u003c/b\u003e Overseas Delivery Program and you&#39;\u003cbr\u003e  ll discover a truly unique way to buy a car, as well as a truly unique way to travel \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "G6ovQ9xGbu0J",
+   "formattedUrl": "www.volvocars.com/us/MYBAGSAREPACKED",
+   "htmlFormattedUrl": "www.\u003cb\u003evolvo\u003c/b\u003ecars.com/us/MYBAGSAREPACKED",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.volvocars.com/us/sales-services/sales/volvo_overseas_delivery/PublishingImages/Volvo-Overseas-Delivery-ContactUs-button-v1.gif",
+      "type": "1",
+      "width": "111",
+      "height": "76"
+     }
+    ],
+    "metatags": [
+     {
+      "content-language": "en-US",
+      "keywordscustom": "volvo overseas delivery, volvo vacation, volvo sweden pickup, new volvo shipment, volvo factory delivery, new volvo, volvo european vacation, volvo purchase in europe",
+      "doctype": "&lt;!DOCTYPE html PUBLIC &quot;-//W3C//DTD XHTML 1.0 Transitional//EN&quot; &quot;http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd&quot;&gt;",
+      "ie7mode": "True",
+      "og:title": "Volvo Cars | Volvo Overseas Delivery, European Vacation",
+      "og:type": "website",
+      "og:image": "http://www.volvocars.com/_layouts/VolvoCars.SharePoint.Features.Site3/Images/Logo/ironmark-transparent.png"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Volvo of Orange County | Volvo Dealer Santa Ana CA Serving ...",
+   "htmlTitle": "\u003cb\u003eVolvo\u003c/b\u003e of Orange County | \u003cb\u003eVolvo\u003c/b\u003e Dealer Santa Ana CA Serving \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://www.volvo-oc.com/",
+   "displayLink": "www.volvo-oc.com",
+   "snippet": "Volvo of Orange County 866-415-0242: Find one of the best prices and selection   at CA Volvo Dealer Volvo of Orange County Serving Orange County, Irvine, ...",
+   "htmlSnippet": "\u003cb\u003eVolvo\u003c/b\u003e of Orange County 866-415-0242: Find one of the best prices and selection \u003cbr\u003e  at CA \u003cb\u003eVolvo\u003c/b\u003e Dealer \u003cb\u003eVolvo\u003c/b\u003e of Orange County Serving Orange County, Irvine, \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "mISm7c85cSsJ",
+   "formattedUrl": "www.volvo-oc.com/",
+   "htmlFormattedUrl": "www.\u003cb\u003evolvo\u003c/b\u003e-oc.com/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://wms.tkcarsites.com/PowerIndexedVideo/Videos/1773/New%20Volvo%20S60%20Naughty%20Experiment%20Video.jpg",
+      "type": "1",
+      "width": "300",
+      "height": "168"
+     }
+    ]
+   }
+  }
+ ]
+}

@@ -1,0 +1,397 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "nextPage": [
+   {
+    "title": "Google Custom Search - elliptical trainer",
+    "totalResults": "737000",
+    "searchTerms": "elliptical trainer",
+    "count": 10,
+    "startIndex": 31,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "017401104989814545383:mf4lavmtuva"
+   }
+  ],
+  "request": [
+   {
+    "title": "Google Custom Search - elliptical trainer",
+    "totalResults": "737000",
+    "searchTerms": "elliptical trainer",
+    "count": 10,
+    "startIndex": 21,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "017401104989814545383:mf4lavmtuva"
+   }
+  ],
+  "previousPage": [
+   {
+    "title": "Google Custom Search - elliptical trainer",
+    "totalResults": "737000",
+    "searchTerms": "elliptical trainer",
+    "count": 10,
+    "startIndex": 11,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "017401104989814545383:mf4lavmtuva"
+   }
+  ]
+ },
+ "context": {
+  "title": "College MetaSearch Comparison"
+ },
+ "searchInformation": {
+  "searchTime": 0.201447,
+  "formattedSearchTime": "0.20",
+  "totalResults": "737000",
+  "formattedTotalResults": "737,000"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "Adjustable Elliptical - Agile DMT Elliptical Trainer | Smooth Fitness",
+   "htmlTitle": "Adjustable Elliptical - Agile DMT \u003cb\u003eElliptical Trainer\u003c/b\u003e | Smooth Fitness",
+   "link": "http://www.smoothfitness.com/ellipticals-machines/smooth-agile.htm",
+   "displayLink": "www.smoothfitness.com",
+   "snippet": "Smooth Fitness offers the Agile DMT adjustable motion elliptical with 12   adjustable motions that will help you build the body you've been looking for but   unable ...",
+   "htmlSnippet": "Smooth Fitness offers the Agile DMT adjustable motion \u003cb\u003eelliptical\u003c/b\u003e with 12 \u003cbr\u003e  adjustable motions that will help you build the body you&#39;ve been looking for but \u003cbr\u003e  unable \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "W2vNbFSgTYQJ",
+   "formattedUrl": "www.smoothfitness.com/ellipticals-machines/smooth-agile.htm",
+   "htmlFormattedUrl": "www.smoothfitness.com/\u003cb\u003eelliptical\u003c/b\u003es-\u003cb\u003emachine\u003c/b\u003es/smooth-agile.htm",
+   "pagemap": {
+    "product": [
+     {
+      "image": "http://www.smoothfitness.com/images/products/SME-AGILEI/1_410_350.jpg",
+      "name": "Smooth Agile DMT Elliptical",
+      "currency": "USD"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "http://www.smoothfitness.com/images/general/logo_black_wide.png",
+      "type": "1",
+      "width": "195",
+      "height": "30"
+     }
+    ],
+    "review-aggregate": [
+     {
+      "rating": "4.8",
+      "count": "71"
+     }
+    ],
+    "Organization": [
+     {
+      "name": "Smooth Fitness™"
+     }
+    ],
+    "metatags": [
+     {
+      "og:title": "Adjustable Elliptical - Agile DMT Elliptical Trainer | Smooth Fitness",
+      "og:type": "website",
+      "og:url": "http://www.smoothfitness.com/ellipticals-machines/smooth-agile.htm",
+      "og:image": "http://www.smoothfitness.com/images/general/logo_black_wide.png",
+      "og:description": "Smooth Fitness offers the Agile DMT adjustable motion elliptical with 12 adjustable motions that will help you build the body you've been looking for but unable to achieve with an ordinary elliptical.",
+      "og:site_name": "Smooth Fitness",
+      "fb:admins": "852024420",
+      "fb:app_id": "290846324337393"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Elliptical machines: Better than treadmills? - MayoClinic.com",
+   "htmlTitle": "\u003cb\u003eElliptical\u003c/b\u003e machines: Better than treadmills? - MayoClinic.com",
+   "link": "http://www.mayoclinic.com/health/elliptical-machines/AN01620",
+   "displayLink": "www.mayoclinic.com",
+   "snippet": "You can get an effective aerobic workout with both an elliptical machine and a ...   An elliptical trainer shouldn't cause knee pain if you're using it correctly.",
+   "htmlSnippet": "You can get an effective aerobic workout with both an \u003cb\u003eelliptical machine\u003c/b\u003e and a \u003cb\u003e...\u003c/b\u003e \u003cbr\u003e  An \u003cb\u003eelliptical trainer\u003c/b\u003e shouldn&#39;t cause knee pain if you&#39;re using it correctly.",
+   "cacheId": "51Rrcf5pwbIJ",
+   "formattedUrl": "www.mayoclinic.com/health/elliptical-machines/AN01620",
+   "htmlFormattedUrl": "www.mayoclinic.com/health/\u003cb\u003eelliptical\u003c/b\u003e-\u003cb\u003emachine\u003c/b\u003es/AN01620",
+   "pagemap": {
+    "metatags": [
+     {
+      "type": "mcAnswer",
+      "msvalidate.01": "B9C07153B16742CA835F69FF6DE32E49",
+      "y_key": "cda4cc66dfbc5477"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Elliptical Machines: Ellipticals from NordicTrack at Sears.com",
+   "htmlTitle": "\u003cb\u003eElliptical\u003c/b\u003e Machines: Ellipticals from NordicTrack at Sears.com",
+   "link": "http://www.sears.com/shc/s/c_10153_12605_Fitness+%26+Sports_Ellipticals",
+   "displayLink": "www.sears.com",
+   "snippet": "You can use elliptical trainers to improve your health. NordicTrack and Sole   trainers help you tone your body, burn calories and increase your cardiovascular ...",
+   "htmlSnippet": "You can use \u003cb\u003eelliptical trainers\u003c/b\u003e to improve your health. NordicTrack and Sole \u003cbr\u003e  trainers help you tone your body, burn calories and increase your cardiovascular \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "xJUb0_78Wr0J",
+   "formattedUrl": "www.sears.com/shc/.../c_10153_12605_Fitness+%26+Sports_Ellipticals",
+   "htmlFormattedUrl": "www.sears.com/shc/.../c_10153_12605_Fitness+%26+Sports_\u003cb\u003eElliptical\u003c/b\u003es",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://i.sears.com/s/i/cq/cqdam/73e69612c06da85045680df954947772.jpg?wid=161&hei=144",
+      "type": "1",
+      "width": "128",
+      "height": "115"
+     }
+    ],
+    "webpage": [
+     {
+      "significantlinks": "Elliptical Trainers Accessories Nordictrack Ellipticals Sole Ellipticals Proform Ellipticals Smooth Ellipticals"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Elliptical Machines - Home and Club | Octane Fitness",
+   "htmlTitle": "\u003cb\u003eElliptical\u003c/b\u003e Machines - Home and Club | Octane Fitness",
+   "link": "http://www.octanefitness.com/",
+   "displayLink": "www.octanefitness.com",
+   "snippet": "Our award-winning elliptical machines will fuel your life and... ... Octane Fitness   Evolves Cross Training with New LateralX Trainers. Initial Units Secured by Life ...",
+   "htmlSnippet": "Our award-winning \u003cb\u003eelliptical\u003c/b\u003e machines will fuel your life and... \u003cb\u003e...\u003c/b\u003e Octane Fitness \u003cbr\u003e  Evolves Cross Training with New LateralX \u003cb\u003eTrainers\u003c/b\u003e. Initial Units Secured by Life \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "PdDI1Ug1XWEJ",
+   "formattedUrl": "www.octanefitness.com/",
+   "htmlFormattedUrl": "www.octanefitness.com/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.octanefitness.com/templates/octane/engines/visual-bullets/frontend/inc/colorbox/blockui-loader.gif",
+      "type": "1",
+      "width": "80",
+      "height": "80"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Smooth Fitness DMT X2 Adjustable Motion Elliptical Trainer",
+   "htmlTitle": "Smooth Fitness DMT X2 Adjustable Motion \u003cb\u003eElliptical Trainer\u003c/b\u003e",
+   "link": "http://www.smoothfitness.com/ellipticals-machines/smooth-agile-dmtx2.htm",
+   "displayLink": "www.smoothfitness.com",
+   "snippet": "The Agile DMT X2 elliptical motion trainer offers 12 motions and 16 levels of   intensity giving you the most intense full body workout.",
+   "htmlSnippet": "The Agile DMT X2 \u003cb\u003eelliptical\u003c/b\u003e motion \u003cb\u003etrainer\u003c/b\u003e offers 12 motions and 16 levels of \u003cbr\u003e  intensity giving you the most intense full body workout.",
+   "cacheId": "GCuZT2AFSYMJ",
+   "formattedUrl": "www.smoothfitness.com/ellipticals-machines/smooth-agile-dmtx2.htm",
+   "htmlFormattedUrl": "www.smoothfitness.com/\u003cb\u003eelliptical\u003c/b\u003es-\u003cb\u003emachine\u003c/b\u003es/smooth-agile-dmtx2.htm",
+   "pagemap": {
+    "product": [
+     {
+      "image": "http://www.smoothfitness.com/images/products/SME-AGILE-DMX2I/1_410_350.jpg",
+      "name": "Smooth Agile DMT X2 Elliptical",
+      "currency": "USD"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "http://www.smoothfitness.com/images/general/logo_black_wide.png",
+      "type": "1",
+      "width": "195",
+      "height": "30"
+     }
+    ],
+    "review-aggregate": [
+     {
+      "rating": "4.9",
+      "count": "74"
+     }
+    ],
+    "Organization": [
+     {
+      "name": "Smooth Fitness™"
+     }
+    ],
+    "metatags": [
+     {
+      "og:title": "Smooth Fitness DMT X2 Adjustable Motion Elliptical Trainer",
+      "og:type": "website",
+      "og:url": "http://www.smoothfitness.com/ellipticals-machines/smooth-agile-dmtx2.htm",
+      "og:image": "http://www.smoothfitness.com/images/general/logo_black_wide.png",
+      "og:description": "The Agile DMT X2 elliptical motion trainer offers 12 motions and 16 levels of intensity giving you the most intense full body workout.",
+      "og:site_name": "Smooth Fitness",
+      "fb:admins": "852024420",
+      "fb:app_id": "290846324337393"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Elliptical Trainer Workouts – Sample Exercise Routines",
+   "htmlTitle": "\u003cb\u003eElliptical Trainer\u003c/b\u003e Workouts – Sample Exercise Routines",
+   "link": "http://www.allellipticals.com/elliptical-trainer-workouts.html",
+   "displayLink": "www.allellipticals.com",
+   "snippet": "Elliptical trainer workouts develop cardiovascular health and tone your body. This   exercise guide will show you how to get started and how to stick with it.",
+   "htmlSnippet": "\u003cb\u003eElliptical trainer\u003c/b\u003e workouts develop cardiovascular health and tone your body. This \u003cbr\u003e  exercise guide will show you how to get started and how to stick with it.",
+   "cacheId": "MeeYGijJCzIJ",
+   "formattedUrl": "www.allellipticals.com/elliptical-trainer-workouts.html",
+   "htmlFormattedUrl": "www.all\u003cb\u003eelliptical\u003c/b\u003es.com/\u003cb\u003eelliptical\u003c/b\u003e-\u003cb\u003etrainer\u003c/b\u003e-workouts.html",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.allellipticals.com/images/sales.jpg",
+      "type": "1",
+      "width": "160",
+      "height": "119"
+     }
+    ],
+    "metatags": [
+     {
+      "skype_toolbar": "SKYPE_TOOLBAR_PARSER_COMPATIBLE",
+      "fb:app_id": "243667088985851"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Smooth 8.0LC Commercial Grade Elliptical Machine",
+   "htmlTitle": "Smooth 8.0LC Commercial Grade \u003cb\u003eElliptical Machine\u003c/b\u003e",
+   "link": "http://www.smoothfitness.com/ellipticals-machines/smooth-ce-80.htm",
+   "displayLink": "www.smoothfitness.com",
+   "snippet": "The Smooth CE 8.0LC elliptical trainers are commercial grade, stable, heavy duty   elliptical machines available at an affordable price.",
+   "htmlSnippet": "The Smooth CE 8.0LC \u003cb\u003eelliptical trainers\u003c/b\u003e are commercial grade, stable, heavy duty \u003cbr\u003e  elliptical machines available at an affordable price.",
+   "cacheId": "1D2ctGWbOCsJ",
+   "formattedUrl": "www.smoothfitness.com/ellipticals-machines/smooth-ce-80.htm",
+   "htmlFormattedUrl": "www.smoothfitness.com/\u003cb\u003eelliptical\u003c/b\u003es-\u003cb\u003emachine\u003c/b\u003es/smooth-ce-80.htm",
+   "pagemap": {
+    "product": [
+     {
+      "image": "http://www.smoothfitness.com/images/products/SME-CE-80LCI/1_410_350.jpg",
+      "name": "Smooth CE 8.0LC Commercial Elliptical",
+      "currency": "USD"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "http://www.smoothfitness.com/images/products/SME-CE-80LCI/1_410_350.jpg",
+      "type": "1",
+      "width": "243",
+      "height": "207"
+     }
+    ],
+    "review-aggregate": [
+     {
+      "rating": "4.8",
+      "count": "70"
+     }
+    ],
+    "Organization": [
+     {
+      "name": "Smooth Fitness™"
+     }
+    ],
+    "metatags": [
+     {
+      "og:title": "Smooth 8.0LC Commercial Grade Elliptical Machine",
+      "og:type": "website",
+      "og:url": "http://www.smoothfitness.com/ellipticals-machines/smooth-ce-80.htm",
+      "og:image": "http://www.smoothfitness.com/images/general/logo_black_wide.png",
+      "og:description": "The Smooth CE 8.0LC elliptical trainers are commercial grade, stable, heavy duty elliptical machines available at an affordable price.",
+      "og:site_name": "Smooth Fitness",
+      "fb:admins": "852024420",
+      "fb:app_id": "290846324337393"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Ellipticals: Elliptical Machine, Elliptical Trainer | LIVESTRONG ...",
+   "htmlTitle": "Ellipticals: \u003cb\u003eElliptical Machine\u003c/b\u003e, \u003cb\u003eElliptical Trainer\u003c/b\u003e | LIVESTRONG \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://www.livestrongfitness.com/category/livestrong-ellipticals/",
+   "displayLink": "www.livestrongfitness.com",
+   "snippet": "LIVESTRONG® ellipticals for your home or commercial facility. LIVESTRONG®   ellipticals are high quality and high value. FREE SHIPPING! Purchases of ...",
+   "htmlSnippet": "LIVESTRONG® ellipticals for your home or commercial facility. LIVESTRONG® \u003cbr\u003e  ellipticals are high quality and high value. FREE SHIPPING! Purchases of \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "wjd-daZFOA8J",
+   "formattedUrl": "www.livestrongfitness.com/category/livestrong-ellipticals/",
+   "htmlFormattedUrl": "www.livestrongfitness.com/category/livestrong-\u003cb\u003eelliptical\u003c/b\u003es/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.livestrongfitness.com//images/sidebar-ep-guide.jpg",
+      "type": "1",
+      "width": "160",
+      "height": "104"
+     }
+    ],
+    "metatags": [
+     {
+      "title": "Ellipticals: Elliptical Machine, Elliptical Trainer | LIVESTRONG® Fitness",
+      "msvalidate.01": "731F626C68D03D35DA6CCC571B468236",
+      "viewport": "width=device-width, target-densityDpi=device-dpi",
+      "skype_toolbar": "SKYPE_TOOLBAR_PARSER_COMPATIBLE"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Amazon.com: Stamina 55-1610 InMotion E1000 Elliptical Trainer ...",
+   "htmlTitle": "Amazon.com: Stamina 55-1610 InMotion E1000 \u003cb\u003eElliptical Trainer\u003c/b\u003e \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://www.amazon.com/Stamina-55-1610-InMotion-Elliptical-Trainer/dp/B000VICRO8",
+   "displayLink": "www.amazon.com",
+   "snippet": "Now you can enjoy a full cardio workout in the comfort of your home or office with   this compact elliptical trainer from Stamina Products. Unlike full-size ellipticals, ...",
+   "htmlSnippet": "Now you can enjoy a full cardio workout in the comfort of your home or office with \u003cbr\u003e  this compact \u003cb\u003eelliptical trainer\u003c/b\u003e from Stamina Products. Unlike full-size ellipticals, \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "SQgesFWQzWEJ",
+   "formattedUrl": "www.amazon.com/Stamina-55...Elliptical-Trainer/dp/B000VICRO8",
+   "htmlFormattedUrl": "www.amazon.com/Stamina-55...\u003cb\u003eElliptical\u003c/b\u003e-\u003cb\u003eTrainer\u003c/b\u003e/dp/B000VICRO8",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://ecx.images-amazon.com/images/I/51c%2BA6T6tyL._SL500_SS500_.jpg",
+      "type": "1",
+      "width": "225",
+      "height": "225"
+     }
+    ],
+    "scraped": [
+     {
+      "image_link": "http://ecx.images-amazon.com/images/I/51c%2BA6T6tyL._SL500_AA300_.jpg"
+     }
+    ],
+    "metatags": [
+     {
+      "title": "Amazon.com: Stamina 55-1610 InMotion E1000 Elliptical Trainer: Sports & Outdoors"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Edge 299e Elliptical Trainer",
+   "htmlTitle": "Edge 299e \u003cb\u003eElliptical Trainer\u003c/b\u003e",
+   "link": "http://www.treadmillscentral.com/edge_299e_elliptical.html",
+   "displayLink": "www.treadmillscentral.com",
+   "snippet": "Edge 299e Eliptical Trainer - We'll beat any lower advertised price... guaranteed.   Don't buy until you talk to us!",
+   "htmlSnippet": "Edge 299e Eliptical \u003cb\u003eTrainer\u003c/b\u003e - We&#39;ll beat any lower advertised price... guaranteed. \u003cbr\u003e  Don&#39;t buy until you talk to us!",
+   "cacheId": "O9gZgPHbr6sJ",
+   "formattedUrl": "www.treadmillscentral.com/edge_299e_elliptical.html",
+   "htmlFormattedUrl": "www.treadmillscentral.com/edge_299e_\u003cb\u003eelliptical\u003c/b\u003e.html",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.treadmillscentral.com/images/462-100x80.jpg",
+      "type": "1",
+      "width": "87",
+      "height": "69"
+     }
+    ]
+   }
+  }
+ ]
+}

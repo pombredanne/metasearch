@@ -1,0 +1,404 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "nextPage": [
+   {
+    "title": "Google Custom Search - dinosaurs",
+    "totalResults": "10800000",
+    "searchTerms": "dinosaurs",
+    "count": 10,
+    "startIndex": 71,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "017401104989814545383:mf4lavmtuva"
+   }
+  ],
+  "request": [
+   {
+    "title": "Google Custom Search - dinosaurs",
+    "totalResults": "10800000",
+    "searchTerms": "dinosaurs",
+    "count": 10,
+    "startIndex": 61,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "017401104989814545383:mf4lavmtuva"
+   }
+  ],
+  "previousPage": [
+   {
+    "title": "Google Custom Search - dinosaurs",
+    "totalResults": "10800000",
+    "searchTerms": "dinosaurs",
+    "count": 10,
+    "startIndex": 51,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "017401104989814545383:mf4lavmtuva"
+   }
+  ]
+ },
+ "context": {
+  "title": "College MetaSearch Comparison"
+ },
+ "searchInformation": {
+  "searchTime": 0.318625,
+  "formattedSearchTime": "0.32",
+  "totalResults": "10800000",
+  "formattedTotalResults": "10,800,000"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "dinosaurs tv show - YouTube",
+   "htmlTitle": "\u003cb\u003edinosaurs\u003c/b\u003e tv show - YouTube",
+   "link": "http://www.youtube.com/watch?v=iNnKsFf0C6I",
+   "displayLink": "www.youtube.com",
+   "snippet": "Dec 16, 2005 ... There was that and I had this REALLY obscene obsession with dinosaurs\ufeff and   anything that had dinosaurs in it was like the best thing ever.",
+   "htmlSnippet": "Dec 16, 2005 \u003cb\u003e...\u003c/b\u003e There was that and I had this REALLY obscene obsession with \u003cb\u003edinosaurs\u003c/b\u003e\ufeff and \u003cbr\u003e  anything that had \u003cb\u003edinosaurs\u003c/b\u003e in it was like the best thing ever.",
+   "cacheId": "RT22fMIjBhoJ",
+   "formattedUrl": "www.youtube.com/watch?v=iNnKsFf0C6I",
+   "htmlFormattedUrl": "www.youtube.com/watch?v=iNnKsFf0C6I",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://i2.ytimg.com/vi/iNnKsFf0C6I/mqdefault.jpg",
+      "type": "1",
+      "width": "256",
+      "height": "144"
+     }
+    ],
+    "videoobject": [
+     {
+      "url": "http://www.youtube.com/watch?v=iNnKsFf0C6I",
+      "name": "dinosaurs tv show",
+      "description": "theme song",
+      "duration": "PT0M26S",
+      "unlisted": "False",
+      "paid": "False",
+      "thumbnailurl": "http://i2.ytimg.com/vi/iNnKsFf0C6I/hqdefault.jpg",
+      "embedurl": "http://www.youtube.com/v/iNnKsFf0C6I?version=3&autohide=1",
+      "playertype": "Flash",
+      "width": "480",
+      "height": "360"
+     }
+    ],
+    "person": [
+     {
+      "url": "http://www.youtube.com/user/lamese"
+     }
+    ],
+    "metatags": [
+     {
+      "title": "dinosaurs tv show",
+      "og:url": "http://www.youtube.com/watch?v=iNnKsFf0C6I",
+      "og:title": "dinosaurs tv show",
+      "og:description": "theme song",
+      "og:type": "video",
+      "og:image": "http://i2.ytimg.com/vi/iNnKsFf0C6I/mqdefault.jpg",
+      "og:video": "http://www.youtube.com/v/iNnKsFf0C6I?version=3&autohide=1",
+      "og:video:type": "application/x-shockwave-flash",
+      "og:video:width": "480",
+      "og:video:height": "360",
+      "og:site_name": "YouTube",
+      "fb:app_id": "87741124305",
+      "twitter:player:width": "480",
+      "twitter:player:height": "360",
+      "attribution": "youtube_none/"
+     }
+    ],
+    "imageobject": [
+     {
+      "url": "http://i2.ytimg.com/vi/iNnKsFf0C6I/mqdefault.jpg",
+      "width": "320",
+      "height": "180"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Dinosaurs | Science | The Guardian",
+   "htmlTitle": "\u003cb\u003eDinosaurs\u003c/b\u003e | Science | The Guardian",
+   "link": "http://www.guardian.co.uk/science/dinosaurs",
+   "displayLink": "www.guardian.co.uk",
+   "snippet": "Latest news and comment on Dinosaurs from guardian.co.uk.",
+   "htmlSnippet": "Latest news and comment on \u003cb\u003eDinosaurs\u003c/b\u003e from guardian.co.uk.",
+   "cacheId": "lG1-2D6-RmIJ",
+   "formattedUrl": "www.guardian.co.uk/science/dinosaurs",
+   "htmlFormattedUrl": "www.guardian.co.uk/science/\u003cb\u003edinosaurs\u003c/b\u003e",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://static.guim.co.uk/sys-images/Guardian/Pix/pictures/2011/10/3/1317629383966/Diplodocus-skeleton-in-th-007.jpg",
+      "type": "1",
+      "width": "290",
+      "height": "174"
+     }
+    ],
+    "Breadcrumb": [
+     {
+      "title": "News",
+      "url": "News"
+     },
+     {
+      "title": "Science",
+      "url": "Science"
+     },
+     {
+      "title": "Dinosaurs",
+      "url": "Dinosaurs"
+     }
+    ],
+    "metatags": [
+     {
+      "dc.date.issued": "2009-02-06"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Dinosaurs - New Scientist",
+   "htmlTitle": "\u003cb\u003eDinosaurs\u003c/b\u003e - New Scientist",
+   "link": "http://www.newscientist.com/topic/dinosaurs",
+   "displayLink": "www.newscientist.com",
+   "snippet": "Dinosaurs grip people's imaginations like no other extinct creature. Learn more in   our comprehensive topic guide.",
+   "htmlSnippet": "\u003cb\u003eDinosaurs\u003c/b\u003e grip people&#39;s imaginations like no other extinct creature. Learn more in \u003cbr\u003e  our comprehensive topic guide.",
+   "cacheId": "J_42gN7fnjgJ",
+   "formattedUrl": "www.newscientist.com/topic/dinosaurs",
+   "htmlFormattedUrl": "www.newscientist.com/topic/\u003cb\u003edinosaurs\u003c/b\u003e",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.newscientist.com/data/images/ns/cms/dn9936/dn9936-1_300.jpg",
+      "type": "1",
+      "width": "240",
+      "height": "183"
+     }
+    ],
+    "metatags": [
+     {
+      "gwa_pagename": "ns|topic|dinosaurs",
+      "gwa_contenthierarchy": "ns|topic|dinosaurs",
+      "gwa_localvar1": "auto",
+      "gwa_contentid": "nsly_dinosaurs",
+      "gwa_authstatus": "Logged Out",
+      "gwa_account": "rbiuk-newscientist,rbiuk-newscientist-rollup",
+      "rbbuckettype": "resource",
+      "rbindustry": "science",
+      "rbpremium": "free",
+      "rbpubid": "NS",
+      "rbpubname": "New Scientist",
+      "rbcontenttype": "Index",
+      "gwa_contenttype": "Index",
+      "rbuniqueid1": "newscly_dinosaurs",
+      "rbsection1": "dinosaurs",
+      "gwa_aboutness": "dinosaurs",
+      "rbtitle": "New Scientist - Dinosaurs",
+      "rbnib1": "Dinosaurs grip people's imaginations like no other extinct creature. Learn more in our comprehensive topic guide"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Cabazon Dinosaurs - Wikipedia, the free encyclopedia",
+   "htmlTitle": "Cabazon \u003cb\u003eDinosaurs\u003c/b\u003e - Wikipedia, the free encyclopedia",
+   "link": "http://en.wikipedia.org/wiki/Cabazon_Dinosaurs",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "Cabazon Dinosaurs, also referred to as Claude Bell's Dinosaurs, are enormous,   sculptured roadside attractions located in Cabazon, California and visible to the ...",
+   "htmlSnippet": "Cabazon \u003cb\u003eDinosaurs\u003c/b\u003e, also referred to as Claude Bell&#39;s \u003cb\u003eDinosaurs\u003c/b\u003e, are enormous, \u003cbr\u003e  sculptured roadside attractions located in Cabazon, California and visible to the \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "5CnQ24bYoQsJ",
+   "formattedUrl": "en.wikipedia.org/wiki/Cabazon_Dinosaurs",
+   "htmlFormattedUrl": "en.wikipedia.org/wiki/Cabazon_\u003cb\u003eDinosaurs\u003c/b\u003e",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Thewheelinn.jpg/170px-Thewheelinn.jpg",
+      "type": "1",
+      "width": "136",
+      "height": "102"
+     }
+    ],
+    "hcard": [
+     {
+      "fn": "Cabazon Dinosaurs",
+      "category": "Novelty architecture",
+      "note": "Completed 1975 (Dinny) / 1986 (Mr. Rex)"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Dinosaurs and Prehistoric Adventures | Utah.com",
+   "htmlTitle": "\u003cb\u003eDinosaurs\u003c/b\u003e and Prehistoric Adventures | Utah.com",
+   "link": "http://www.utah.com/dinosaur/",
+   "displayLink": "www.utah.com",
+   "snippet": "With numerous dinosaur quarries and fossils to be discovered, Utah is paradise   for those seeking to discover the prehistoric.",
+   "htmlSnippet": "With numerous \u003cb\u003edinosaur\u003c/b\u003e quarries and fossils to be discovered, Utah is paradise \u003cbr\u003e  for those seeking to discover the prehistoric.",
+   "cacheId": "UHLtYOo0MRcJ",
+   "formattedUrl": "www.utah.com/dinosaur/",
+   "htmlFormattedUrl": "www.utah.com/\u003cb\u003edinosaur\u003c/b\u003e/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://video-d.utah.com/naturalhistorymuseum.jpg",
+      "type": "1",
+      "width": "300",
+      "height": "168"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Dinosaurs: The Complete Third And Fourth Seasons | Now On DVD ...",
+   "htmlTitle": "\u003cb\u003eDinosaurs\u003c/b\u003e: The Complete Third And Fourth Seasons | Now On DVD \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://disney.go.com/disneyvideos/television/dinosaurs/",
+   "displayLink": "disney.go.com",
+   "snippet": "They're huge. They're pre-hysterical. The Sinclairs are back in their final two   seasons of Earth-shaking fun as they face the challenges of everyday life in sixty ...",
+   "htmlSnippet": "They&#39;re huge. They&#39;re pre-hysterical. The Sinclairs are back in their final two \u003cbr\u003e  seasons of Earth-shaking fun as they face the challenges of everyday life in sixty \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "0kwHeo7Yao0J",
+   "formattedUrl": "disney.go.com/disneyvideos/television/dinosaurs/",
+   "htmlFormattedUrl": "disney.go.com/disneyvideos/television/\u003cb\u003edinosaurs\u003c/b\u003e/",
+   "pagemap": {
+    "metatags": [
+     {
+      "sitesection": "movies",
+      "pgname": "dinosaurs_the_complete_third_and_fourth_seasons",
+      "contenttype": "regular",
+      "property": "dio"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Dinosaurs - Dinosaur, facts, fossils, and information",
+   "htmlTitle": "\u003cb\u003eDinosaurs\u003c/b\u003e - \u003cb\u003eDinosaur\u003c/b\u003e, facts, fossils, and information",
+   "link": "http://www.dinosaurfact.net/",
+   "displayLink": "www.dinosaurfact.net",
+   "snippet": "Dinosaur facts, the world's most exciting prehistoric adventure. There is hundreds   of dinosaur pictures, in depth descriptions for many types of dinosaurs, and a ...",
+   "htmlSnippet": "\u003cb\u003eDinosaur\u003c/b\u003e facts, the world&#39;s most exciting prehistoric adventure. There is hundreds \u003cbr\u003e  of \u003cb\u003edinosaur\u003c/b\u003e pictures, in depth descriptions for many types of \u003cb\u003edinosaurs\u003c/b\u003e, and a \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "N74ms8fdv2kJ",
+   "formattedUrl": "www.dinosaurfact.net/",
+   "htmlFormattedUrl": "www.\u003cb\u003edinosaur\u003c/b\u003efact.net/",
+   "pagemap": {
+    "metatags": [
+     {
+      "abstract": "Dinosaur Facts",
+      "distribution": "Global",
+      "y_key": "a6aa6071f9650294"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Dinosaurs: The End of the Dinosaurs : Video : Discovery Channel",
+   "htmlTitle": "\u003cb\u003eDinosaurs\u003c/b\u003e: The End of the \u003cb\u003eDinosaurs\u003c/b\u003e : Video : Discovery Channel",
+   "link": "http://dsc.discovery.com/video-topics/other/the-end-of-the-dinosaurs.htm",
+   "displayLink": "dsc.discovery.com",
+   "snippet": "Watch the animation of what scientists believe happened to the dinosaurs 65   million years ago.",
+   "htmlSnippet": "Watch the animation of what scientists believe happened to the \u003cb\u003edinosaurs\u003c/b\u003e 65 \u003cbr\u003e  million years ago.",
+   "cacheId": "hCjog-48WKoJ",
+   "formattedUrl": "dsc.discovery.com/video-topics/other/the-end-of-the-dinosaurs.htm",
+   "htmlFormattedUrl": "dsc.discovery.com/video-topics/other/the-end-of-the-\u003cb\u003edinosaurs\u003c/b\u003e.htm",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://netstorage.discovery.com/feeds/thumbnails2/2bd18447b55f57835bd1b868fa8dccb24194ecd9T.jpg"
+     }
+    ],
+    "metatags": [
+     {
+      "viewport": "width=1068",
+      "fb:admins": "100001675325868",
+      "fb:app_id": "157869477569917",
+      "og:title": "Dinosaurs: The End of the Dinosaurs : Video : Discovery Channel",
+      "og:description": "Watch the animation of what scientists believe happened to the dinosaurs 65 million years ago.",
+      "og:url": "http://dsc.discovery.com/video-topics/other/the-end-of-the-dinosaurs.htm",
+      "og:site_name": "Discovery Channel",
+      "og:image": "http://netstorage.discovery.com/feeds/thumbnails2/2bd18447b55f57835bd1b868fa8dccb24194ecd9T.jpg",
+      "og:type": "video",
+      "og:video": "http://static.discoverymedia.com/shared/swf/video-players/monetized/video-asset-page-player.swf?_playerApplication=fb&_clipRefId=2bd18447b55f57835bd1b868fa8dccb24194ecd9&_network=dsc",
+      "og:video:width": "398",
+      "og:video:height": "224",
+      "og:video:type": "application/x-shockwave-flash",
+      "medium": "video",
+      "video_width": "398",
+      "video_height": "224",
+      "video_type": "application/x-shockwave-flash"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Dinosaurs at EnchantedLearning.com",
+   "htmlTitle": "\u003cb\u003eDinosaurs\u003c/b\u003e at EnchantedLearning.com",
+   "link": "http://www.enchantedlearning.com/themes/dinos.shtml",
+   "displayLink": "www.enchantedlearning.com",
+   "snippet": "Dinosaurs at EnchantedLearning.com: games, crafts, printouts, ...",
+   "htmlSnippet": "\u003cb\u003eDinosaurs\u003c/b\u003e at EnchantedLearning.com: games, crafts, printouts, \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "tGQQ2LZnQWEJ",
+   "formattedUrl": "www.enchantedlearning.com/themes/dinos.shtml",
+   "htmlFormattedUrl": "www.enchantedlearning.com/themes/dinos.shtml",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.enchantedlearning.com/wordwheels/themes/dinosaurs/done.GIF",
+      "type": "1",
+      "width": "172",
+      "height": "230"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Types of Dinosaurs : Dinosaur Profiles : Discovery Channel",
+   "htmlTitle": "Types of \u003cb\u003eDinosaurs\u003c/b\u003e : \u003cb\u003eDinosaur\u003c/b\u003e Profiles : Discovery Channel",
+   "link": "http://dsc.discovery.com/dinosaurs/types-of-dinosaurs.html",
+   "displayLink": "dsc.discovery.com",
+   "snippet": "Browse through all types of dinosaurs fromĀ the smallest to the largest, from plant   eaters to meat eaters and from the famous to the not-so-famous. We've gotĀ ...",
+   "htmlSnippet": "Browse through all types of \u003cb\u003edinosaurs\u003c/b\u003e fromĀ the smallest to the largest, from plant \u003cbr\u003e  eaters to meat eaters and from the famous to the not-so-famous. We&#39;ve gotĀ \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "AUu-6VhW8CIJ",
+   "formattedUrl": "dsc.discovery.com/dinosaurs/types-of-dinosaurs.html",
+   "htmlFormattedUrl": "dsc.discovery.com/\u003cb\u003edinosaurs\u003c/b\u003e/types-of-\u003cb\u003edinosaurs\u003c/b\u003e.html",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://dsc.discovery.com/common/logos/dsc.gif"
+     }
+    ],
+    "metatags": [
+     {
+      "network": "Discovery Channel",
+      "launchdate": "09/09/2008",
+      "expirationdate": "09/09/2009",
+      "category": "framework",
+      "type": "indices",
+      "fb:admins": "100001675325868",
+      "fb:app_id": "157869477569917",
+      "og:title": "Types of Dinosaurs : Dinosaur Profiles : Discovery Channel",
+      "og:description": "Browse through all types of dinosaurs fromĀ the smallest to the largest, from plant eaters to meat eaters and from the famous to the not-so-famous. We've gotĀ all the dinosaur information you crave on Discovery Channel.",
+      "og:url": "http://dsc.discovery.com/dinosaurs/types-of-dinosaurs.html",
+      "og:site_name": "Discovery Channel",
+      "og:image": "http://dsc.discovery.com/common/logos/dsc.gif",
+      "og:type": "tv_show"
+     }
+    ]
+   }
+  }
+ ]
+}

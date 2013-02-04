@@ -1,0 +1,280 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "nextPage": [
+   {
+    "title": "Google Custom Search - air travel information",
+    "totalResults": "146000000",
+    "searchTerms": "air travel information",
+    "count": 10,
+    "startIndex": 61,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "017401104989814545383:mf4lavmtuva"
+   }
+  ],
+  "request": [
+   {
+    "title": "Google Custom Search - air travel information",
+    "totalResults": "146000000",
+    "searchTerms": "air travel information",
+    "count": 10,
+    "startIndex": 51,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "017401104989814545383:mf4lavmtuva"
+   }
+  ],
+  "previousPage": [
+   {
+    "title": "Google Custom Search - air travel information",
+    "totalResults": "146000000",
+    "searchTerms": "air travel information",
+    "count": 10,
+    "startIndex": 41,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "017401104989814545383:mf4lavmtuva"
+   }
+  ]
+ },
+ "context": {
+  "title": "College MetaSearch Comparison"
+ },
+ "searchInformation": {
+  "searchTime": 0.307078,
+  "formattedSearchTime": "0.31",
+  "totalResults": "146000000",
+  "formattedTotalResults": "146,000,000"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "Flights to Hawaii, Hawaii Vacations & Travel - Hawaiian Airlines",
+   "htmlTitle": "\u003cb\u003eFlights\u003c/b\u003e to Hawaii, Hawaii Vacations &amp; \u003cb\u003eTravel\u003c/b\u003e - Hawaiian Airlines",
+   "link": "http://www.hawaiianair.com/",
+   "displayLink": "www.hawaiianair.com",
+   "snippet": "... for flights to Hawaii. Book a Hawaiian Airlines flight for all your travel needs.   Find flight schedules, destinations and HawaiianMiles loyalty program   information.",
+   "htmlSnippet": "\u003cb\u003e...\u003c/b\u003e for \u003cb\u003eflights\u003c/b\u003e to Hawaii. Book a Hawaiian Airlines flight for all your \u003cb\u003etravel\u003c/b\u003e needs. \u003cbr\u003e  Find flight schedules, destinations and HawaiianMiles loyalty program \u003cbr\u003e  \u003cb\u003einformation\u003c/b\u003e.",
+   "cacheId": "N0uBa-3ZD3AJ",
+   "formattedUrl": "www.hawaiianair.com/",
+   "htmlFormattedUrl": "www.hawaiian\u003cb\u003eair\u003c/b\u003e.com/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://az16944.vo.msecnd.net/images/bm_bg.png",
+      "type": "1",
+      "width": "1",
+      "height": "350"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Travel Information - Policies & Travel Tips - Alaska Airlines",
+   "htmlTitle": "\u003cb\u003eTravel Information\u003c/b\u003e - Policies &amp; \u003cb\u003eTravel\u003c/b\u003e Tips - Alaska Airlines",
+   "link": "http://www.alaskaair.com/content/travel-info.aspx",
+   "displayLink": "www.alaskaair.com",
+   "snippet": "Find travel information including check-in options, baggage rules/fees, on board   policies, travel tips, international & domestic travel details and more at ...",
+   "htmlSnippet": "Find \u003cb\u003etravel information\u003c/b\u003e including check-in options, baggage rules/fees, on board \u003cbr\u003e  policies, \u003cb\u003etravel\u003c/b\u003e tips, international &amp; domestic \u003cb\u003etravel\u003c/b\u003e details and more at \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "jOeOS7bGieEJ",
+   "formattedUrl": "www.alaskaair.com/content/travel-info.aspx",
+   "htmlFormattedUrl": "www.alaska\u003cb\u003eair\u003c/b\u003e.com/content/\u003cb\u003etravel\u003c/b\u003e-info.aspx",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.alaskaair.com/~/media/Images/quickLinks/QL-AirportInfo.ashx?h=78&w=78",
+      "type": "1",
+      "width": "73",
+      "height": "73"
+     }
+    ],
+    "metatags": [
+     {
+      "title": "Travel Information"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Airline Travel Information and Advice",
+   "htmlTitle": "\u003cb\u003eAirline Travel Information\u003c/b\u003e and Advice",
+   "link": "http://www.airsafe.com/paxinfo.htm",
+   "displayLink": "www.airsafe.com",
+   "snippet": "Mar 18, 2012 ... This page links passengers to information on weather conditions, flight delays,   and other travel advice.",
+   "htmlSnippet": "Mar 18, 2012 \u003cb\u003e...\u003c/b\u003e This page links passengers to \u003cb\u003einformation\u003c/b\u003e on weather conditions, flight delays, \u003cbr\u003e  and other \u003cb\u003etravel\u003c/b\u003e advice.",
+   "cacheId": "yz9ZufgbolgJ",
+   "formattedUrl": "www.airsafe.com/paxinfo.htm",
+   "htmlFormattedUrl": "www.\u003cb\u003eair\u003c/b\u003esafe.com/paxinfo.htm",
+   "pagemap": {
+    "metatags": [
+     {
+      "author": "AirSafe.com, LLC",
+      "copyright": "Copyright 2000-2008 AirSafe.com, LLC, All Rights Reserved"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Essential Travel Information | Bahrain Air",
+   "htmlTitle": "Essential \u003cb\u003eTravel Information\u003c/b\u003e | Bahrain \u003cb\u003eAir\u003c/b\u003e",
+   "link": "http://www.bahrainair.net/view.php?page=Essential-travel-info",
+   "displayLink": "www.bahrainair.net",
+   "snippet": "Check-in Deadlines Check-in counters open three hours prior to scheduled   departure time and close one hour prior to departure time. Boarding Gate   Deadlines ...",
+   "htmlSnippet": "Check-in Deadlines Check-in counters open three hours prior to scheduled \u003cbr\u003e  departure time and close one hour prior to departure time. Boarding Gate \u003cbr\u003e  Deadlines \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "PihV_PawbMAJ",
+   "formattedUrl": "www.bahrainair.net/view.php?page=Essential-travel-info",
+   "htmlFormattedUrl": "www.bahrain\u003cb\u003eair\u003c/b\u003e.net/view.php?page=Essential-\u003cb\u003etravel\u003c/b\u003e-info",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.bahrainair.net/english/images/terms/boarding1.jpg",
+      "type": "1",
+      "width": "93",
+      "height": "57"
+     }
+    ],
+    "metatags": [
+     {
+      "rating": "general",
+      "ms.locale": "en-us",
+      "url": "http://www.bahrainair.net/view.php?page=Essential-Travel-Info",
+      "abstract": "Bahrain Airlines",
+      "copyright": "Bahrain Air"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Travel Information Manual (TIM)",
+   "htmlTitle": "\u003cb\u003eTravel Information\u003c/b\u003e Manual (TIM)",
+   "link": "http://www.iata.org/tim",
+   "displayLink": "www.iata.org",
+   "snippet": "TIM (Travel Information Manual) is the world's leading source for information on   air travel requirements. Millions of passengers find their way to final destinations ...",
+   "htmlSnippet": "TIM (Travel \u003cb\u003eInformation\u003c/b\u003e Manual) is the world&#39;s leading source for \u003cb\u003einformation\u003c/b\u003e on \u003cbr\u003e  \u003cb\u003eair travel\u003c/b\u003e requirements. Millions of passengers find their way to final destinations \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "2rj0ANvIKzIJ",
+   "formattedUrl": "www.iata.org/tim",
+   "htmlFormattedUrl": "www.iata.org/tim",
+   "pagemap": {
+    "metatags": [
+     {
+      "author": "IATA"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Falcon Gold |Travel Information|Gulf Air",
+   "htmlTitle": "Falcon Gold |\u003cb\u003eTravel Information\u003c/b\u003e|Gulf \u003cb\u003eAir\u003c/b\u003e",
+   "link": "http://www.gulfair.com/English/info/TravelInformation/Pages/FalconGold.aspx",
+   "displayLink": "www.gulfair.com",
+   "snippet": "Offering the very best elements of Gulf Air's First Class for the price of a traditional   Business Class fare. The introduction of Falcon Gold across the airlines ...",
+   "htmlSnippet": "Offering the very best elements of Gulf \u003cb\u003eAir&#39;s\u003c/b\u003e First Class for the price of a traditional \u003cbr\u003e  Business Class \u003cb\u003efare\u003c/b\u003e. The introduction of Falcon Gold across the airlines \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "y95lJwFnrl8J",
+   "formattedUrl": "www.gulfair.com/English/info/TravelInformation/.../FalconGold.aspx",
+   "htmlFormattedUrl": "www.gulf\u003cb\u003eair\u003c/b\u003e.com/English/info/\u003cb\u003eTravelInformation\u003c/b\u003e/.../FalconGold.aspx",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.gulfair.com/Style%20Library/GulfAir%20Images/Seating1.jpg",
+      "type": "1",
+      "width": "160",
+      "height": "152"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Air Mobility Command - AMC Travel",
+   "htmlTitle": "\u003cb\u003eAir\u003c/b\u003e Mobility Command - AMC \u003cb\u003eTravel\u003c/b\u003e",
+   "link": "http://www.amc.af.mil/amctravel/index.asp",
+   "displayLink": "www.amc.af.mil",
+   "snippet": "Welcome to the official Air Mobility Command Travel Web page. Whether you ...   Note: For specific travel information please contact your nearest AMC Terminal.",
+   "htmlSnippet": "Welcome to the official \u003cb\u003eAir\u003c/b\u003e Mobility Command \u003cb\u003eTravel\u003c/b\u003e Web page. Whether you \u003cb\u003e...\u003c/b\u003e \u003cbr\u003e  Note: For specific \u003cb\u003etravel information\u003c/b\u003e please contact your nearest AMC Terminal.",
+   "cacheId": "iAI3JScFlqsJ",
+   "formattedUrl": "www.amc.af.mil/amctravel/index.asp",
+   "htmlFormattedUrl": "www.amc.af.mil/amc\u003cb\u003etravel\u003c/b\u003e/index.asp",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.amc.af.mil/shared/media/photodb/photos/110711-F-AB111-001.jpg",
+      "type": "1",
+      "width": "201",
+      "height": "251"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Info for Travelers: Air Travel - Travelers' Health - CDC",
+   "htmlTitle": "Info for Travelers: \u003cb\u003eAir Travel\u003c/b\u003e - Travelers&#39; Health - CDC",
+   "link": "http://wwwnc.cdc.gov/travel/page/air-travel-info-for-travelers.htm",
+   "displayLink": "wwwnc.cdc.gov",
+   "snippet": "Information for Travelers: Air Travel. Measles Update for Air Travelers June 21,   2011; Air Travel Recommendations from Health Information for International ...",
+   "htmlSnippet": "\u003cb\u003eInformation\u003c/b\u003e for Travelers: \u003cb\u003eAir Travel\u003c/b\u003e. Measles Update for Air Travelers June 21, \u003cbr\u003e  2011; \u003cb\u003eAir Travel\u003c/b\u003e Recommendations from Health \u003cb\u003eInformation\u003c/b\u003e for International \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "RJsU-cru9uYJ",
+   "formattedUrl": "wwwnc.cdc.gov/travel/page/air-travel-info-for-travelers.htm",
+   "htmlFormattedUrl": "wwwnc.cdc.gov/\u003cb\u003etravel\u003c/b\u003e/page/\u003cb\u003eair\u003c/b\u003e-\u003cb\u003etravel\u003c/b\u003e-info-for-\u003cb\u003etravel\u003c/b\u003eers.htm",
+   "pagemap": {
+    "metatags": [
+     {
+      "template.version": "2.6.0",
+      "dc.subject": "travel, public health",
+      "dc.date.reviewed": "2011-01-13",
+      "dc.date.created": "2007-07-23",
+      "msvalidate.01": "149B31BC38DC9B7425C5DC64BB53E4F1",
+      "y_key": "d509505b79c1962b"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Safe Travel",
+   "htmlTitle": "Safe \u003cb\u003eTravel\u003c/b\u003e",
+   "link": "http://safetravel.dot.gov/",
+   "displayLink": "safetravel.dot.gov",
+   "snippet": "Travel safety tips: Pack your gadgets, batteries, and other goods safely for air   travel, whether for business or pleasure. ... State Department Travel Information ...",
+   "htmlSnippet": "Travel safety tips: Pack your gadgets, batteries, and other goods safely for \u003cb\u003eair\u003c/b\u003e \u003cbr\u003e  \u003cb\u003etravel\u003c/b\u003e, whether for business or pleasure. \u003cb\u003e...\u003c/b\u003e State Department Travel \u003cb\u003eInformation\u003c/b\u003e \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "Z_IKkj4Nf1gJ",
+   "formattedUrl": "safetravel.dot.gov/",
+   "htmlFormattedUrl": "safe\u003cb\u003etravel\u003c/b\u003e.dot.gov/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://safetravel.dot.gov/images/woman.jpg",
+      "type": "1",
+      "width": "94",
+      "height": "164"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Sources of Air Travel Information",
+   "htmlTitle": "Sources of \u003cb\u003eAir Travel Information\u003c/b\u003e",
+   "link": "http://airconsumer.ost.dot.gov/publications/sources.htm",
+   "displayLink": "airconsumer.ost.dot.gov",
+   "snippet": "Jan 6, 2010 ... Sources of Air Travel Information. Availability and prices subject to change.   Citizen Information Center. Write to the Citizen Information Center, ...",
+   "htmlSnippet": "Jan 6, 2010 \u003cb\u003e...\u003c/b\u003e Sources of \u003cb\u003eAir Travel Information\u003c/b\u003e. Availability and prices subject to change. \u003cbr\u003e  Citizen Information Center. Write to the Citizen Information Center, \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "ShHiu-SrdrgJ",
+   "formattedUrl": "airconsumer.ost.dot.gov/publications/sources.htm",
+   "htmlFormattedUrl": "\u003cb\u003eair\u003c/b\u003econsumer.ost.dot.gov/publications/sources.htm"
+  }
+ ]
+}

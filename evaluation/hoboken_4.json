@@ -1,0 +1,324 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "nextPage": [
+   {
+    "title": "Google Custom Search - hoboken",
+    "totalResults": "2070000",
+    "searchTerms": "hoboken",
+    "count": 10,
+    "startIndex": 51,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "017401104989814545383:mf4lavmtuva"
+   }
+  ],
+  "request": [
+   {
+    "title": "Google Custom Search - hoboken",
+    "totalResults": "2070000",
+    "searchTerms": "hoboken",
+    "count": 10,
+    "startIndex": 41,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "017401104989814545383:mf4lavmtuva"
+   }
+  ],
+  "previousPage": [
+   {
+    "title": "Google Custom Search - hoboken",
+    "totalResults": "2070000",
+    "searchTerms": "hoboken",
+    "count": 10,
+    "startIndex": 31,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "017401104989814545383:mf4lavmtuva"
+   }
+  ]
+ },
+ "context": {
+  "title": "College MetaSearch Comparison"
+ },
+ "searchInformation": {
+  "searchTime": 0.184155,
+  "formattedSearchTime": "0.18",
+  "totalResults": "2070000",
+  "formattedTotalResults": "2,070,000"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "Welcome to Hoboken Business Center – Office Space Rental for all ...",
+   "htmlTitle": "Welcome to \u003cb\u003eHoboken\u003c/b\u003e Business Center – Office Space Rental for all \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://www.hobokenoffice.com/",
+   "displayLink": "www.hobokenoffice.com",
+   "snippet": "Hoboken Business Center is in the hub of New Jersey's business district. This   newly constructed office building offers professionally customized office space to ...",
+   "htmlSnippet": "\u003cb\u003eHoboken\u003c/b\u003e Business Center is in the hub of New Jersey&#39;s business district. This \u003cbr\u003e  newly constructed office building offers professionally customized office space to \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "G2Ok9rscfXgJ",
+   "formattedUrl": "www.hobokenoffice.com/",
+   "htmlFormattedUrl": "www.\u003cb\u003ehoboken\u003c/b\u003eoffice.com/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.hobokenoffice.com/styles/img/home_welcome_1.jpg",
+      "type": "1",
+      "width": "356",
+      "height": "142"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "City of Hoboken, NJ » Movies Under the Stars 2012",
+   "htmlTitle": "City of \u003cb\u003eHoboken\u003c/b\u003e, NJ » Movies Under the Stars 2012",
+   "link": "http://www.hobokennj.org/departments/human-services/cultural-affairs/movies-under-the-stars/",
+   "displayLink": "www.hobokennj.org",
+   "snippet": "The City of Hoboken provides free regular news updates and alerts via email and   ... Swift911 is Hoboken's Emergency Notification service to inform residents in ...",
+   "htmlSnippet": "The City of \u003cb\u003eHoboken\u003c/b\u003e provides free regular news updates and alerts via email and \u003cbr\u003e  \u003cb\u003e...\u003c/b\u003e Swift911 is \u003cb\u003eHoboken&#39;s\u003c/b\u003e Emergency Notification service to inform residents in \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "PSuU00w7cogJ",
+   "formattedUrl": "www.hobokennj.org/departments/human.../movies-under-the-stars/",
+   "htmlFormattedUrl": "www.\u003cb\u003ehoboken\u003c/b\u003enj.org/departments/human.../movies-under-the-stars/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://hobokennj.org/content/wp-content/uploads/2008/04/movies_under_stars.gif",
+      "type": "1",
+      "width": "128",
+      "height": "94"
+     }
+    ],
+    "metatags": [
+     {
+      "fb:page_id": "107840642570023"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Hoboken Fire Department",
+   "htmlTitle": "\u003cb\u003eHoboken\u003c/b\u003e Fire Department",
+   "link": "http://www.hobokenfire.org/",
+   "displayLink": "www.hobokenfire.org",
+   "snippet": "The Hoboken Fire Department is an organization that exists for the purpose of   protecting the lives, homes and property of the citizens and visitors from the ...",
+   "htmlSnippet": "The \u003cb\u003eHoboken\u003c/b\u003e Fire Department is an organization that exists for the purpose of \u003cbr\u003e  protecting the lives, homes and property of the citizens and visitors from the \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "z9OnB_tOZXwJ",
+   "formattedUrl": "www.hobokenfire.org/",
+   "htmlFormattedUrl": "www.\u003cb\u003ehoboken\u003c/b\u003efire.org/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.hobokenfire.org/images/welcome.jpg",
+      "type": "1",
+      "width": "308",
+      "height": "153"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "HobokenMenus.com",
+   "htmlTitle": "HobokenMenus.com",
+   "link": "http://www.hobokenmenus.com/",
+   "displayLink": "www.hobokenmenus.com",
+   "snippet": "Welcome to Hobokenmenus.com, Hoboken's newest and most comprehensive   dining guide for the local Hoboken & Jersey City Downtown area! Whether your ...",
+   "htmlSnippet": "Welcome to Hobokenmenus.com, \u003cb\u003eHoboken&#39;s\u003c/b\u003e newest and most comprehensive \u003cbr\u003e  dining guide for the local \u003cb\u003eHoboken\u003c/b\u003e &amp; Jersey City Downtown area! Whether your \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "1GYQi2ZMK6sJ",
+   "formattedUrl": "www.hobokenmenus.com/",
+   "htmlFormattedUrl": "www.\u003cb\u003ehoboken\u003c/b\u003emenus.com/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.hobokenmenus.com/images/dt-off.gif",
+      "type": "1",
+      "width": "156",
+      "height": "135"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Hoboken News - Topix",
+   "htmlTitle": "\u003cb\u003eHoboken\u003c/b\u003e News - Topix",
+   "link": "http://www.topix.com/city/hoboken-nj",
+   "displayLink": "www.topix.com",
+   "snippet": "Local news for Hoboken, NJ continually updated from thousands of sources on   the web.",
+   "htmlSnippet": "Local news for \u003cb\u003eHoboken\u003c/b\u003e, NJ continually updated from thousands of sources on \u003cbr\u003e  the web.",
+   "cacheId": "j8SCjrWAvTsJ",
+   "formattedUrl": "www.topix.com/city/hoboken-nj",
+   "htmlFormattedUrl": "www.topix.com/city/\u003cb\u003ehoboken\u003c/b\u003e-nj",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://topix.cachefly.net/pics/topix_t_50x50.png"
+     }
+    ],
+    "metatags": [
+     {
+      "viewport": "width=980, user-scalable=yes",
+      "geo.placename": "Hoboken, NJ",
+      "geo.region": "US-NJ",
+      "geo.position": "40.745244,-74.032475",
+      "icbm": "40.745244,-74.032475",
+      "og:type": "city",
+      "og:title": "Hoboken, NJ",
+      "og:url": "http://www.topix.com/city/hoboken-nj",
+      "og:description": "Local News and Forums for Hoboken, NJ",
+      "og:image": "http://topix.cachefly.net/pics/topix_t_50x50.png",
+      "og:site_name": "Topix",
+      "og:longitude": "-74.032475",
+      "og:country-name": "USA",
+      "og:postal-code": "07030",
+      "og:latitude": "40.745244",
+      "og:region": "NJ",
+      "og:locality": "Hoboken",
+      "fb:app_id": "6001146171"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Maxwell's",
+   "htmlTitle": "Maxwell&#39;s",
+   "link": "http://maxwellsnj.com/",
+   "displayLink": "maxwellsnj.com",
+   "snippet": "Follow us on Twitter · Friend us on Myspace · Become a fan on Facebook 1039   Washington Street, Hoboken, NJ (201)653-1703 ...",
+   "htmlSnippet": "Follow us on Twitter &middot; Friend us on Myspace &middot; Become a fan on Facebook 1039 \u003cbr\u003e  Washington Street, \u003cb\u003eHoboken\u003c/b\u003e, NJ (201)653-1703 \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "CvRlbwSz100J",
+   "formattedUrl": "maxwellsnj.com/",
+   "htmlFormattedUrl": "maxwellsnj.com/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://maxwellsnj.com/images/new_maxwells.gif",
+      "type": "1",
+      "width": "108",
+      "height": "128"
+     }
+    ],
+    "metatags": [
+     {
+      "desription": "Some say we're an institution."
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Hoboken, NJ | News, photos, videos, real estate and more - NJ.com",
+   "htmlTitle": "\u003cb\u003eHoboken\u003c/b\u003e, NJ | News, photos, videos, real estate and more - NJ.com",
+   "link": "http://www.nj.com/hoboken/",
+   "displayLink": "www.nj.com",
+   "snippet": "Get the latest Hoboken news and community updates, view photos and videos   and join the discussion in forums at NJ.com.",
+   "htmlSnippet": "Get the latest \u003cb\u003eHoboken\u003c/b\u003e news and community updates, view photos and videos \u003cbr\u003e  and join the discussion in forums at NJ.com.",
+   "cacheId": "nhB_xamC58oJ",
+   "formattedUrl": "www.nj.com/hoboken/",
+   "htmlFormattedUrl": "www.nj.com/\u003cb\u003ehoboken\u003c/b\u003e/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://imgick.nj.com/home/njo-media/phototab/img/jersey-journal/photo/2012/07/11331031-large.jpg",
+      "type": "1",
+      "width": "222",
+      "height": "147"
+     }
+    ],
+    "hcard": [
+     {
+      "fn": "Katharine Egli/The Jersey Journal"
+     },
+     {
+      "fn": "Daniel Reyes/The Jersey Journal"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Hoboken Animal Hospital P.A.",
+   "htmlTitle": "\u003cb\u003eHoboken\u003c/b\u003e Animal Hospital P.A.",
+   "link": "http://www.hobokenvet.com/",
+   "displayLink": "www.hobokenvet.com",
+   "snippet": "Hoboken Animal Hospital is a full service veterinary practice in Hoboken, NJ   specializing in small animal health care. Our mission is to provide the highest ...",
+   "htmlSnippet": "\u003cb\u003eHoboken\u003c/b\u003e Animal Hospital is a full service veterinary practice in \u003cb\u003eHoboken\u003c/b\u003e, NJ \u003cbr\u003e  specializing in small animal health care. Our mission is to provide the highest \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "Cvo5_t1hjVkJ",
+   "formattedUrl": "www.hobokenvet.com/",
+   "htmlFormattedUrl": "www.\u003cb\u003ehoboken\u003c/b\u003evet.com/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.hobokenvet.com/sites/site-1386/images/9ac63014-7f00-0001-38e1-60548de210a4.jpg",
+      "type": "1",
+      "width": "225",
+      "height": "225"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Hoboken Golf",
+   "htmlTitle": "\u003cb\u003eHoboken\u003c/b\u003e Golf",
+   "link": "http://www.hobokengolf.com/",
+   "displayLink": "www.hobokengolf.com",
+   "snippet": "Golfer Mambo Template Designed by www.joomlaselect.com.",
+   "htmlSnippet": "Golfer Mambo Template Designed by www.joomlaselect.com.",
+   "cacheId": "hdV9wz2QAQUJ",
+   "formattedUrl": "www.hobokengolf.com/",
+   "htmlFormattedUrl": "www.\u003cb\u003ehoboken\u003c/b\u003egolf.com/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://hobokengolf.com/joomla/images/stories/fruit/balleneral.bmp",
+      "type": "1",
+      "width": "246",
+      "height": "205"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Hoboken Optometrist | Eye Shoppe of Hoboken | Call 201-683-4228",
+   "htmlTitle": "\u003cb\u003eHoboken\u003c/b\u003e Optometrist | Eye Shoppe of \u003cb\u003eHoboken\u003c/b\u003e | Call 201-683-4228",
+   "link": "http://www.eyeshoppehoboken.com/",
+   "displayLink": "www.eyeshoppehoboken.com",
+   "snippet": "Visit Eye Shoppe of Hoboken for an experienced Hoboken optometrist. Get great   looking eyeglasses from our Hoboken eye doctor. Visit our website today!",
+   "htmlSnippet": "Visit Eye Shoppe of \u003cb\u003eHoboken\u003c/b\u003e for an experienced \u003cb\u003eHoboken\u003c/b\u003e optometrist. Get great \u003cbr\u003e  looking eyeglasses from our \u003cb\u003eHoboken\u003c/b\u003e eye doctor. Visit our website today!",
+   "cacheId": "pQM40UmTHt4J",
+   "formattedUrl": "www.eyeshoppehoboken.com/",
+   "htmlFormattedUrl": "www.eyeshoppe\u003cb\u003ehoboken\u003c/b\u003e.com/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.eyeshoppehoboken.com/publishImages/index~~element12.jpg",
+      "type": "1",
+      "width": "91",
+      "height": "71"
+     }
+    ],
+    "metatags": [
+     {
+      "og:title": "EyeShoppe of Hoboken",
+      "og:url": "http://eyeshoppehoboken.com/",
+      "og:type": "company",
+      "fb:admins": "1445263767"
+     }
+    ]
+   }
+  }
+ ]
+}

@@ -1,0 +1,287 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "nextPage": [
+   {
+    "title": "Google Custom Search - yahoo",
+    "totalResults": "354000000",
+    "searchTerms": "yahoo",
+    "count": 10,
+    "startIndex": 91,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "017401104989814545383:mf4lavmtuva"
+   }
+  ],
+  "request": [
+   {
+    "title": "Google Custom Search - yahoo",
+    "totalResults": "354000000",
+    "searchTerms": "yahoo",
+    "count": 10,
+    "startIndex": 81,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "017401104989814545383:mf4lavmtuva"
+   }
+  ],
+  "previousPage": [
+   {
+    "title": "Google Custom Search - yahoo",
+    "totalResults": "354000000",
+    "searchTerms": "yahoo",
+    "count": 10,
+    "startIndex": 71,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "017401104989814545383:mf4lavmtuva"
+   }
+  ]
+ },
+ "context": {
+  "title": "College MetaSearch Comparison"
+ },
+ "searchInformation": {
+  "searchTime": 0.242931,
+  "formattedSearchTime": "0.24",
+  "totalResults": "354000000",
+  "formattedTotalResults": "354,000,000"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "Yahoo! Voice - Make Free and Low Cost Calls From Your PC",
+   "htmlTitle": "\u003cb\u003eYahoo\u003c/b\u003e! Voice - Make Free and Low Cost Calls From Your PC",
+   "link": "http://voice.yahoo.com/",
+   "displayLink": "voice.yahoo.com",
+   "snippet": "Make free PC-to-PC calls worldwide and call regular and mobile phones for as   low as 1¢ a minute. Get a Phone In number to receive calls on your PC.",
+   "htmlSnippet": "Make free PC-to-PC calls worldwide and call regular and mobile phones for as \u003cbr\u003e  low as 1¢ a minute. Get a Phone In number to receive calls on your PC.",
+   "cacheId": "UrNjNOiQNv8J",
+   "formattedUrl": "voice.yahoo.com/",
+   "htmlFormattedUrl": "voice.\u003cb\u003eyahoo\u003c/b\u003e.com/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://voice.yahoo.jajah.com/content/images/mantle_bg_jj_2.jpg",
+      "type": "1",
+      "width": "420",
+      "height": "120"
+     }
+    ],
+    "metatags": [
+     {
+      "skype_toolbar": "SKYPE_TOOLBAR_PARSER_COMPATIBLE"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Yahoo! Maps Web Services - Geocoding API",
+   "htmlTitle": "\u003cb\u003eYahoo\u003c/b\u003e! Maps Web Services - Geocoding API",
+   "link": "http://developer.yahoo.com/maps/rest/V1/geocode.html",
+   "displayLink": "developer.yahoo.com",
+   "snippet": "This API has been deprecated (that is, no longer recommended for use by new   developers). A new geocoding API called Yahoo! PlaceFinder is now available ...",
+   "htmlSnippet": "This API has been deprecated (that is, no longer recommended for use by new \u003cbr\u003e  developers). A new geocoding API called \u003cb\u003eYahoo\u003c/b\u003e! PlaceFinder is now available \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "qqbxSUx88iAJ",
+   "formattedUrl": "developer.yahoo.com/maps/rest/V1/geocode.html",
+   "htmlFormattedUrl": "developer.\u003cb\u003eyahoo\u003c/b\u003e.com/maps/rest/V1/geocode.html"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Yahoo! SiteBuilder",
+   "htmlTitle": "\u003cb\u003eYahoo\u003c/b\u003e! SiteBuilder",
+   "link": "http://webhosting.yahoo.com/ps/sb/index.php",
+   "displayLink": "webhosting.yahoo.com",
+   "snippet": "Free and easy-to-use web design software for building and designing a   professional web site. Completely customize any of our 300+ business templates   or ...",
+   "htmlSnippet": "Free and easy-to-use web design software for building and designing a \u003cbr\u003e  professional web site. Completely customize any of our 300+ business templates \u003cbr\u003e  or \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "vTQBvjex74AJ",
+   "formattedUrl": "webhosting.yahoo.com/ps/sb/index.php",
+   "htmlFormattedUrl": "webhosting.\u003cb\u003eyahoo\u003c/b\u003e.com/ps/sb/index.php",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://l.yimg.com/a/i/geo/advan/spacer.gif",
+      "type": "1",
+      "width": "1",
+      "height": "1"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "NBA on Yahoo! Sports",
+   "htmlTitle": "NBA on \u003cb\u003eYahoo\u003c/b\u003e! Sports",
+   "link": "http://sports.yahoo.com/nba/",
+   "displayLink": "sports.yahoo.com",
+   "snippet": "Breaking News Visit Yahoo! News for the latest. ×Close this window. Home · Y!   Sports Experts · Y! Sports Blogs · Photo Galleries · Rivals.com · Video · Y! Sports ...",
+   "htmlSnippet": "Breaking News Visit \u003cb\u003eYahoo\u003c/b\u003e! News for the latest. ×Close this window. Home &middot; Y! \u003cbr\u003e  Sports Experts &middot; Y! Sports Blogs &middot; Photo Galleries &middot; Rivals.com &middot; Video &middot; Y! Sports \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "CuV4YBr83MsJ",
+   "formattedUrl": "sports.yahoo.com/nba/",
+   "htmlFormattedUrl": "sports.\u003cb\u003eyahoo\u003c/b\u003e.com/nba/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://l.yimg.com/bt/api/res/1.2/_4DCy95muHwMUeopXu9_xg--/YXBwaWQ9eW5ld3M7Zmk9ZmlsbDtoPTE1MDtweG9mZj01MDtweW9mZj0wO3c9MTUw/http%3A//l.yimg.com/os/mit/media/p/common/images/3d_ybang_150150.png"
+     }
+    ],
+    "website": [
+     {
+      "type": "website",
+      "title": "NBA on Yahoo! Sports",
+      "image": "http://l.yimg.com/bt/api/res/1.2/_4DCy95muHwMUeopXu9_xg--/YXBwaWQ9eW5ld3M7Zmk9ZmlsbDtoPTE1MDtweG9mZj01MDtweW9mZj0wO3c9MTUw/http%3A//l.yimg.com/os/mit/media/p/common/images/3d_ybang_150150.png",
+      "app_id": "194699337231859",
+      "site_name": "Yahoo! Sports",
+      "url": "http://sports.yahoo.com/nba/"
+     }
+    ],
+    "metatags": [
+     {
+      "og:type": "website",
+      "og:title": "NBA on Yahoo! Sports",
+      "og:image": "http://l.yimg.com/bt/api/res/1.2/_4DCy95muHwMUeopXu9_xg--/YXBwaWQ9eW5ld3M7Zmk9ZmlsbDtoPTE1MDtweG9mZj01MDtweW9mZj0wO3c9MTUw/http%3A//l.yimg.com/os/mit/media/p/common/images/3d_ybang_150150.png",
+      "fb:app_id": "194699337231859",
+      "og:site_name": "Yahoo! Sports",
+      "og:url": "http://sports.yahoo.com/nba/"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Where did the Video Games site go? | Plugged In - Yahoo! Games",
+   "htmlTitle": "Where did the Video Games site go? | Plugged In - \u003cb\u003eYahoo\u003c/b\u003e! Games",
+   "link": "http://games.yahoo.com/blogs/plugged-in/where-did-video-games-152.html",
+   "displayLink": "games.yahoo.com",
+   "snippet": "Jan 20, 2012 ... From the blog Plugged In: The site that used to be located at \"http://videogames.  yahoo.com\" will be relaunching in the coming months. In the ...",
+   "htmlSnippet": "Jan 20, 2012 \u003cb\u003e...\u003c/b\u003e From the blog Plugged In: The site that used to be located at &quot;http://videogames.\u003cbr\u003e  \u003cb\u003eyahoo\u003c/b\u003e.com&quot; will be relaunching in the coming months. In the \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "9MpxutDtgOsJ",
+   "formattedUrl": "games.yahoo.com/blogs/plugged.../where-did-video-games-152.html",
+   "htmlFormattedUrl": "games.\u003cb\u003eyahoo\u003c/b\u003e.com/blogs/plugged.../where-did-video-games-152.html",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://l.yimg.com/bt/api/res/1.2/_4DCy95muHwMUeopXu9_xg--/YXBwaWQ9eW5ld3M7Zmk9ZmlsbDtoPTE1MDtweG9mZj01MDtweW9mZj0wO3c9MTUw/http%3A//l.yimg.com/os/mit/media/p/common/images/3d_ybang_150150.png"
+     }
+    ],
+    "person": [
+     {
+      "org": "Plugged In"
+     }
+    ],
+    "metatags": [
+     {
+      "og:type": "article",
+      "og:title": "Where did the Video Games site go?",
+      "og:description": "The site that used to be located at \"http://videogames.yahoo.com\" will be relaunching in the coming months. In the meantime, you've reached our games blog, where we focus on the biggest (and often weirdest) news from the world of casual, mobile, Continue reading →",
+      "og:image": "http://l.yimg.com/bt/api/res/1.2/_4DCy95muHwMUeopXu9_xg--/YXBwaWQ9eW5ld3M7Zmk9ZmlsbDtoPTE1MDtweG9mZj01MDtweW9mZj0wO3c9MTUw/http%3A//l.yimg.com/os/mit/media/p/common/images/3d_ybang_150150.png",
+      "fb:app_id": "194699337231859",
+      "og:site_name": "Yahoo! Games",
+      "og:url": "http://games.yahoo.com/blogs/plugged-in/where-did-video-games-152.html"
+     }
+    ],
+    "hcard": [
+     {
+      "fn": "Yahoo! Games Staff"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Yahoo! World",
+   "htmlTitle": "\u003cb\u003eYahoo\u003c/b\u003e! World",
+   "link": "http://everything.yahoo.com/world/en-US",
+   "displayLink": "everything.yahoo.com",
+   "snippet": "Find a sitemap of all Yahoo! sites. ... Breaking News Visit Yahoo! News for the   latest. ×Close this window. Argentina (español) · Australia (English) · België ...",
+   "htmlSnippet": "Find a sitemap of all \u003cb\u003eYahoo\u003c/b\u003e! sites. \u003cb\u003e...\u003c/b\u003e Breaking News Visit \u003cb\u003eYahoo\u003c/b\u003e! News for the \u003cbr\u003e  latest. ×Close this window. Argentina (español) &middot; Australia (English) &middot; België \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "NzhZQ86PbMQJ",
+   "formattedUrl": "everything.yahoo.com/world/en-US",
+   "htmlFormattedUrl": "everything.\u003cb\u003eyahoo\u003c/b\u003e.com/world/en-US",
+   "pagemap": {
+    "metatags": [
+     {
+      "og:title": "Yahoo! Everything - All sites in different languages and countries",
+      "og:url": "http://everything.yahoo.com/world/en-US"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Yahoo! Developer Network Forums",
+   "htmlTitle": "\u003cb\u003eYahoo\u003c/b\u003e! Developer Network Forums",
+   "link": "http://developer.yahoo.net/",
+   "displayLink": "developer.yahoo.net",
+   "snippet": "Welcome to the Yahoo! Upcoming API forum! This is the place where developers   can discuss technical questions and make suggestions about our API.",
+   "htmlSnippet": "Welcome to the \u003cb\u003eYahoo\u003c/b\u003e! Upcoming API forum! This is the place where developers \u003cbr\u003e  can discuss technical questions and make suggestions about our API.",
+   "cacheId": "gaViBFjOrasJ",
+   "formattedUrl": "developer.yahoo.net/",
+   "htmlFormattedUrl": "developer.\u003cb\u003eyahoo\u003c/b\u003e.net/"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Yahoo! Inc. - Investor Relations",
+   "htmlTitle": "\u003cb\u003eYahoo\u003c/b\u003e! Inc. - Investor Relations",
+   "link": "http://yhoo.client.shareholder.com/",
+   "displayLink": "yhoo.client.shareholder.com",
+   "snippet": "That's how we deliver your world, your way. And Yahoo!'s unique combination of   Science + Art + Scale connects advertisers to the consumers who build their ...",
+   "htmlSnippet": "That&#39;s how we deliver your world, your way. And \u003cb\u003eYahoo\u003c/b\u003e!&#39;s unique combination of \u003cbr\u003e  Science + Art + Scale connects advertisers to the consumers who build their \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "qz_jvtZ8WDMJ",
+   "formattedUrl": "yhoo.client.shareholder.com/",
+   "htmlFormattedUrl": "yhoo.client.shareholder.com/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://yhoo.client.shareholder.com/images/recentnews.jpg",
+      "type": "1",
+      "width": "172",
+      "height": "129"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "My Yahoo",
+   "htmlTitle": "My \u003cb\u003eYahoo\u003c/b\u003e",
+   "link": "https://login.yahoo.com/config/login",
+   "displayLink": "login.yahoo.com",
+   "snippet": "Best in class Yahoo! Mail, breaking local, national and global news, finance,   sports, music, movies and more. You get more out of the web, you get more out of ...",
+   "htmlSnippet": "Best in class \u003cb\u003eYahoo\u003c/b\u003e! Mail, breaking local, national and global news, finance, \u003cbr\u003e  sports, music, movies and more. You get more out of the web, you get more out of \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "irYxe4W6mOoJ",
+   "formattedUrl": "https://login.yahoo.com/config/login",
+   "htmlFormattedUrl": "https://login.\u003cb\u003eyahoo\u003c/b\u003e.com/config/login"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "My Yahoo! - Yahoo! UK",
+   "htmlTitle": "My \u003cb\u003eYahoo\u003c/b\u003e! - \u003cb\u003eYahoo\u003c/b\u003e! UK",
+   "link": "http://uk.my.yahoo.com/",
+   "displayLink": "uk.my.yahoo.com",
+   "snippet": "My Yahoo! is a customisable web page from Yahoo! UK. Personalise your page   by adding news, stock quotes, weather, email, social updates and much more.",
+   "htmlSnippet": "My \u003cb\u003eYahoo\u003c/b\u003e! is a customisable web page from \u003cb\u003eYahoo\u003c/b\u003e! UK. Personalise your page \u003cbr\u003e  by adding news, stock quotes, weather, email, social updates and much more.",
+   "cacheId": "ftyMYo3NSOQJ",
+   "formattedUrl": "uk.my.yahoo.com/",
+   "htmlFormattedUrl": "uk.my.\u003cb\u003eyahoo\u003c/b\u003e.com/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://l.yimg.com/a/i/us/nws/weather/gr/30d.png",
+      "type": "1",
+      "width": "200",
+      "height": "144"
+     }
+    ]
+   }
+  }
+ ]
+}

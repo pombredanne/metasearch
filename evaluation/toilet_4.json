@@ -1,0 +1,294 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "nextPage": [
+   {
+    "title": "Google Custom Search - toilet",
+    "totalResults": "27000000",
+    "searchTerms": "toilet",
+    "count": 10,
+    "startIndex": 51,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "017401104989814545383:mf4lavmtuva"
+   }
+  ],
+  "request": [
+   {
+    "title": "Google Custom Search - toilet",
+    "totalResults": "27000000",
+    "searchTerms": "toilet",
+    "count": 10,
+    "startIndex": 41,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "017401104989814545383:mf4lavmtuva"
+   }
+  ],
+  "previousPage": [
+   {
+    "title": "Google Custom Search - toilet",
+    "totalResults": "27000000",
+    "searchTerms": "toilet",
+    "count": 10,
+    "startIndex": 31,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "017401104989814545383:mf4lavmtuva"
+   }
+  ]
+ },
+ "context": {
+  "title": "College MetaSearch Comparison"
+ },
+ "searchInformation": {
+  "searchTime": 0.171446,
+  "formattedSearchTime": "0.17",
+  "totalResults": "27000000",
+  "formattedTotalResults": "27,000,000"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "Amazon.com: Toilet Seats",
+   "htmlTitle": "Amazon.com: \u003cb\u003eToilet\u003c/b\u003e Seats",
+   "link": "http://www.amazon.com/b?ie=UTF8&node=542642011",
+   "displayLink": "www.amazon.com",
+   "snippet": "Results 1 - 24 of 7017 ... Online shopping for Toilet Seats from a great selection of Kitchen & Bath Fixtures;   & more at everyday low prices.",
+   "htmlSnippet": "Results 1 - 24 of 7017 \u003cb\u003e...\u003c/b\u003e Online shopping for \u003cb\u003eToilet\u003c/b\u003e Seats from a great selection of Kitchen &amp; Bath Fixtures; \u003cbr\u003e  &amp; more at everyday low prices.",
+   "cacheId": "uNT0AZ1QEukJ",
+   "formattedUrl": "www.amazon.com/b?ie=UTF8&node=542642011",
+   "htmlFormattedUrl": "www.amazon.com/b?ie=UTF8&amp;node=542642011",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://ecx.images-amazon.com/images/I/41Py3VfkAyL._SL160_AA160_.jpg",
+      "type": "1",
+      "width": "128",
+      "height": "128"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "This Old Toilet®, Lids for Bowls & Tanks, \"What's Wrong With Your ...",
+   "htmlTitle": "This Old \u003cb\u003eToilet\u003c/b\u003e®, Lids for Bowls &amp; Tanks, &quot;What&#39;s Wrong With Your \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://www.thisoldtoilet.com/",
+   "displayLink": "www.thisoldtoilet.com",
+   "snippet": "Toilet Parts and Components For Old, Obsolete, Discontinued, No Longer   Manufactured Toilets.",
+   "htmlSnippet": "\u003cb\u003eToilet\u003c/b\u003e Parts and Components For Old, Obsolete, Discontinued, No Longer \u003cbr\u003e  Manufactured \u003cb\u003eToilets\u003c/b\u003e.",
+   "cacheId": "Ew2onKDF9HcJ",
+   "formattedUrl": "www.thisoldtoilet.com/",
+   "htmlFormattedUrl": "www.thisold\u003cb\u003etoilet\u003c/b\u003e.com/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.thisoldtoilet.com/images/lids_closeup.jpg",
+      "type": "1",
+      "width": "176",
+      "height": "132"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Toilet training - Wikipedia, the free encyclopedia",
+   "htmlTitle": "\u003cb\u003eToilet\u003c/b\u003e training - Wikipedia, the free encyclopedia",
+   "link": "http://en.wikipedia.org/wiki/Toilet_training",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "Toilet training, or potty training, is the process of training a young child to use the   toilet for urination and defecation, though training may start with a smaller toilet ...",
+   "htmlSnippet": "\u003cb\u003eToilet\u003c/b\u003e training, or potty training, is the process of training a young child to use the \u003cbr\u003e  \u003cb\u003etoilet\u003c/b\u003e for urination and defecation, though training may start with a smaller \u003cb\u003etoilet\u003c/b\u003e \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "2SAr3_bijzAJ",
+   "formattedUrl": "en.wikipedia.org/wiki/Toilet_training",
+   "htmlFormattedUrl": "en.wikipedia.org/wiki/\u003cb\u003eToilet\u003c/b\u003e_training"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "All About Toilets - Toilet Basics",
+   "htmlTitle": "All About \u003cb\u003eToilets\u003c/b\u003e - \u003cb\u003eToilet\u003c/b\u003e Basics",
+   "link": "http://www.toiletabcs.com/toilet-basics.html",
+   "displayLink": "www.toiletabcs.com",
+   "snippet": "Toilet basics - Gravity Toilet, Pressure-Assist Toilet, Dual Flush Toilet, Water   usage, Construction Details, One or two pieces toilets, Floor or Wall Outlet Toilets  , ...",
+   "htmlSnippet": "\u003cb\u003eToilet\u003c/b\u003e basics - Gravity \u003cb\u003eToilet\u003c/b\u003e, Pressure-Assist \u003cb\u003eToilet\u003c/b\u003e, Dual Flush \u003cb\u003eToilet\u003c/b\u003e, Water \u003cbr\u003e  usage, Construction Details, One or two pieces \u003cb\u003etoilets\u003c/b\u003e, Floor or Wall Outlet \u003cb\u003eToilets\u003c/b\u003e\u003cbr\u003e  , \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "uHBZz_VdGj0J",
+   "formattedUrl": "www.toiletabcs.com/toilet-basics.html",
+   "htmlFormattedUrl": "www.\u003cb\u003etoilet\u003c/b\u003eabcs.com/\u003cb\u003etoilet\u003c/b\u003e-basics.html",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.toiletabcs.com/images/pressure-assist-toilet.jpg",
+      "type": "1",
+      "width": "222",
+      "height": "158"
+     }
+    ],
+    "metatags": [
+     {
+      "author": "Vlatko Zdrale webdeveloper Interline Creative Group, 2007 interlinegroup.com"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Maximum Performance (MaP) TESTING",
+   "htmlTitle": "Maximum Performance (MaP) TESTING",
+   "link": "http://www.cuwcc.org/MaPTesting.aspx",
+   "displayLink": "www.cuwcc.org",
+   "snippet": "Maximum Performance (MaP) TESTING - a better measurement of toilet ... Many   toilet fixture performance tests exist, including proprietary tests by the fixture ...",
+   "htmlSnippet": "Maximum Performance (MaP) TESTING - a better measurement of \u003cb\u003etoilet\u003c/b\u003e \u003cb\u003e...\u003c/b\u003e Many \u003cbr\u003e  \u003cb\u003etoilet\u003c/b\u003e fixture performance tests exist, including proprietary tests by the fixture \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "6KTUMPSt7IQJ",
+   "formattedUrl": "www.cuwcc.org/MaPTesting.aspx",
+   "htmlFormattedUrl": "www.cuwcc.org/MaPTesting.aspx",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.cuwcc.org/images/logo.gif",
+      "type": "1",
+      "width": "79",
+      "height": "105"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Around The World On A Toilet —",
+   "htmlTitle": "Around The World On A \u003cb\u003eToilet\u003c/b\u003e —",
+   "link": "http://theworldonatoilet.com/",
+   "displayLink": "theworldonatoilet.com",
+   "snippet": "Around the World on a Toilet is a quickly growing blog that has followers from   around the world, from many demographics. We have a unique style of travel ...",
+   "htmlSnippet": "Around the World on a \u003cb\u003eToilet\u003c/b\u003e is a quickly growing blog that has followers from \u003cbr\u003e  around the world, from many demographics. We have a unique style of travel \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "yBuNt41za-YJ",
+   "formattedUrl": "theworldonatoilet.com/",
+   "htmlFormattedUrl": "theworldona\u003cb\u003etoilet\u003c/b\u003e.com/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://theworldonatoilet.com/wp-content/uploads/2012/06/IMG_03202-480x330.jpg",
+      "type": "1",
+      "width": "271",
+      "height": "186"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "collection of sébastien de ganay, paper toilet .com by rafaël ...",
+   "htmlTitle": "collection of sébastien de ganay, paper \u003cb\u003etoilet\u003c/b\u003e .com by rafaël \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://www.papertoilet.com/",
+   "displayLink": "www.papertoilet.com",
+   "snippet": "PAPER TOILET .COM BY RAFAEL ROZENDAAL - 2006 - WWW.NEWRAFAEL.  COM, COLLECTION OF SEBASTIEN DE GANAY - WWW.SEBASTIENDEGANAY.",
+   "htmlSnippet": "PAPER \u003cb\u003eTOILET\u003c/b\u003e .COM BY RAFAEL ROZENDAAL - 2006 - WWW.NEWRAFAEL.\u003cbr\u003e  COM, COLLECTION OF SEBASTIEN DE GANAY - WWW.SEBASTIENDEGANAY.",
+   "cacheId": "NVX41mwBT7AJ",
+   "formattedUrl": "www.papertoilet.com/",
+   "htmlFormattedUrl": "www.paper\u003cb\u003etoilet\u003c/b\u003e.com/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.newrafael.com/img/sitethumbs/papertoilet.png",
+      "type": "1",
+      "width": "128",
+      "height": "88"
+     }
+    ],
+    "metatags": [
+     {
+      "og:title": "collection of sébastien de ganay, paper toilet .com by rafaël rozendaal, 2006",
+      "og:type": "website",
+      "og:url": "http://www.papertoilet.com/",
+      "og:image": "http://www.newrafael.com/img/sitethumbs/papertoilet.png",
+      "og:site_name": "papertoilet",
+      "og:description": "PAPER TOILET .COM BY RAFAEL ROZENDAAL - 2006 - WWW.NEWRAFAEL.COM, COLLECTION OF SEBASTIEN DE GANAY - WWW.SEBASTIENDEGANAY.COM, CODE BY REINIER FEIJEN - WWW.BOXOFCHOCOLATES.NL"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "The Toilet Museum - Frequently Asked Toilet Questions",
+   "htmlTitle": "The \u003cb\u003eToilet\u003c/b\u003e Museum - Frequently Asked \u003cb\u003eToilet\u003c/b\u003e Questions",
+   "link": "http://www.toiletmuseum.com/faq.html",
+   "displayLink": "www.toiletmuseum.com",
+   "snippet": "Burt Stark's irreverant replies to Frequently Asked Toilet Questions.",
+   "htmlSnippet": "Burt Stark&#39;s irreverant replies to Frequently Asked \u003cb\u003eToilet\u003c/b\u003e Questions.",
+   "cacheId": "9XKxhLzyyyYJ",
+   "formattedUrl": "www.toiletmuseum.com/faq.html",
+   "htmlFormattedUrl": "www.\u003cb\u003etoilet\u003c/b\u003emuseum.com/faq.html",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.toiletmuseum.com/headers/faq.gif",
+      "type": "1",
+      "width": "169",
+      "height": "92"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Envirolet Composting Toilets",
+   "htmlTitle": "Envirolet Composting \u003cb\u003eToilets\u003c/b\u003e",
+   "link": "http://www.envirolet.com/",
+   "displayLink": "www.envirolet.com",
+   "snippet": "Envirolet Composting Toilets are the environment-friendly solution for cottages,   cabins, homes and more. Factory direct from manufacturer.",
+   "htmlSnippet": "Envirolet Composting \u003cb\u003eToilets\u003c/b\u003e are the environment-friendly solution for cottages, \u003cbr\u003e  cabins, homes and more. Factory direct from manufacturer.",
+   "cacheId": "_kvGO8zTB3oJ",
+   "formattedUrl": "www.envirolet.com/",
+   "htmlFormattedUrl": "www.envirolet.com/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://ep.yimg.com/ca/I/sancor_2219_14057265",
+      "type": "1",
+      "width": "108",
+      "height": "112"
+     }
+    ],
+    "metatags": [
+     {
+      "copyright": "This site and all images and text on it are copyright 1997-2011, Sancor Industries Ltd.  All rights reserved.",
+      "y_key": "5b1039038bc9b902"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "find toilet rebates :: water rebates in U.S.A with toiletrebate.com ...",
+   "htmlTitle": "find \u003cb\u003etoilet\u003c/b\u003e rebates :: water rebates in U.S.A with toiletrebate.com \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://www.toiletrebate.com/",
+   "displayLink": "www.toiletrebate.com",
+   "snippet": "Toilet Rebates opportunities in U.S.A and American toilet rebates in New York,   California, Texas, Florida, Boston, Chicago from Toilet Rebates. View our Toilet ...",
+   "htmlSnippet": "\u003cb\u003eToilet\u003c/b\u003e Rebates opportunities in U.S.A and American \u003cb\u003etoilet\u003c/b\u003e rebates in New York, \u003cbr\u003e  California, Texas, Florida, Boston, Chicago from \u003cb\u003eToilet\u003c/b\u003e Rebates. View our \u003cb\u003eToilet\u003c/b\u003e \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "CDYpYQaWEGsJ",
+   "formattedUrl": "www.toiletrebate.com/",
+   "htmlFormattedUrl": "www.\u003cb\u003etoilet\u003c/b\u003erebate.com/",
+   "pagemap": {
+    "metatags": [
+     {
+      "subject": "Toilet Rebates USA Website",
+      "abstract": "Toilet Rebates USA Website",
+      "community": "Residents",
+      "portal": "Environment",
+      "copyright": "Toilet Rebates USA",
+      "author": "Shop Group Media",
+      "rating": "General",
+      "owner": "Toilet Rebates USA"
+     }
+    ]
+   }
+  }
+ ]
+}

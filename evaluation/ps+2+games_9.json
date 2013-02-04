@@ -1,0 +1,337 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "nextPage": [
+   {
+    "title": "Google Custom Search - ps 2 games",
+    "totalResults": "53800000",
+    "searchTerms": "ps 2 games",
+    "count": 10,
+    "startIndex": 101,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "017401104989814545383:mf4lavmtuva"
+   }
+  ],
+  "request": [
+   {
+    "title": "Google Custom Search - ps 2 games",
+    "totalResults": "53800000",
+    "searchTerms": "ps 2 games",
+    "count": 10,
+    "startIndex": 91,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "017401104989814545383:mf4lavmtuva"
+   }
+  ],
+  "previousPage": [
+   {
+    "title": "Google Custom Search - ps 2 games",
+    "totalResults": "53800000",
+    "searchTerms": "ps 2 games",
+    "count": 10,
+    "startIndex": 81,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "017401104989814545383:mf4lavmtuva"
+   }
+  ]
+ },
+ "context": {
+  "title": "College MetaSearch Comparison"
+ },
+ "searchInformation": {
+  "searchTime": 0.186136,
+  "formattedSearchTime": "0.19",
+  "totalResults": "53800000",
+  "formattedTotalResults": "53,800,000"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "Top 25 PS2 Games - YouTube",
+   "htmlTitle": "Top 25 \u003cb\u003ePS2 Games\u003c/b\u003e - YouTube",
+   "link": "http://www.youtube.com/watch?v=VL2bhcIPiXg",
+   "displayLink": "www.youtube.com",
+   "snippet": "Apr 25, 2010 ... LIST OF MY FAVOURITE PLAYSTATION 2 GAMES. LIST: 25-DEVIL MAY CRY 3:  DANTE`S AWAKENING 24-FIFA STREET 2 23-NBA STREET ...",
+   "htmlSnippet": "Apr 25, 2010 \u003cb\u003e...\u003c/b\u003e LIST OF MY FAVOURITE \u003cb\u003ePLAYSTATION 2 GAMES\u003c/b\u003e. LIST: 25-DEVIL MAY CRY 3:\u003cbr\u003e  DANTE`S AWAKENING 24-FIFA STREET 2 23-NBA STREET \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "Aaba0QOXR2YJ",
+   "formattedUrl": "www.youtube.com/watch?v=VL2bhcIPiXg",
+   "htmlFormattedUrl": "www.youtube.com/watch?v=VL2bhcIPiXg",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://i3.ytimg.com/vi/VL2bhcIPiXg/mqdefault.jpg",
+      "type": "1",
+      "width": "256",
+      "height": "144"
+     }
+    ],
+    "videoobject": [
+     {
+      "url": "http://www.youtube.com/watch?v=VL2bhcIPiXg",
+      "name": "Top 25 PS2 Games",
+      "description": "LIST OF MY FAVOURITE PLAYSTATION 2 GAMES. LIST: 25-DEVIL MAY CRY 3:DANTE`S AWAKENING 24-FIFA STREET 2 23-NBA STREET V3 22-DRIVER:PARALLEL LINES 21-SCARFACE 2...",
+      "duration": "PT4M25S",
+      "unlisted": "False",
+      "paid": "False",
+      "thumbnailurl": "http://i3.ytimg.com/vi/VL2bhcIPiXg/hqdefault.jpg",
+      "embedurl": "http://www.youtube.com/v/VL2bhcIPiXg?version=3&autohide=1",
+      "playertype": "Flash",
+      "width": "640",
+      "height": "480"
+     }
+    ],
+    "person": [
+     {
+      "url": "http://www.youtube.com/user/o0HeavenAndHell0o"
+     }
+    ],
+    "metatags": [
+     {
+      "title": "Top 25 PS2 Games",
+      "og:url": "http://www.youtube.com/watch?v=VL2bhcIPiXg",
+      "og:title": "Top 25 PS2 Games",
+      "og:description": "LIST OF MY FAVOURITE PLAYSTATION 2 GAMES. LIST: 25-DEVIL MAY CRY 3:DANTE`S AWAKENING 24-FIFA STREET 2 23-NBA STREET V3 22-DRIVER:PARALLEL LINES 21-SCARFACE 2...",
+      "og:type": "video",
+      "og:image": "http://i3.ytimg.com/vi/VL2bhcIPiXg/mqdefault.jpg",
+      "og:video": "http://www.youtube.com/v/VL2bhcIPiXg?version=3&autohide=1",
+      "og:video:type": "application/x-shockwave-flash",
+      "og:video:width": "640",
+      "og:video:height": "480",
+      "og:site_name": "YouTube",
+      "fb:app_id": "87741124305",
+      "twitter:player:width": "640",
+      "twitter:player:height": "480",
+      "attribution": "youtube_multi/"
+     }
+    ],
+    "imageobject": [
+     {
+      "url": "http://i3.ytimg.com/vi/VL2bhcIPiXg/mqdefault.jpg",
+      "width": "320",
+      "height": "180"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "100 Best Selling PS2 Games | Most Popular Playstation 2 Games",
+   "htmlTitle": "100 Best Selling \u003cb\u003ePS2 Games\u003c/b\u003e | Most Popular \u003cb\u003ePlaystation 2 Games\u003c/b\u003e",
+   "link": "http://www.jjgames.com/page/100-best-selling-ps2-games",
+   "displayLink": "www.jjgames.com",
+   "snippet": "The 100 best selling original Playstation 2 games. These are the most popular   and the must own games for the PS2.",
+   "htmlSnippet": "The 100 best selling original \u003cb\u003ePlaystation 2 games\u003c/b\u003e. These are the most popular \u003cbr\u003e  and the must own games for the PS2.",
+   "cacheId": "7JIlwwW4O90J",
+   "formattedUrl": "www.jjgames.com/page/100-best-selling-ps2-games",
+   "htmlFormattedUrl": "www.jj\u003cb\u003egames\u003c/b\u003e.com/page/100-best-selling-\u003cb\u003eps2-games\u003c/b\u003e",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://static.jjgames.com/images/1477.JPG",
+      "type": "1",
+      "width": "128",
+      "height": "128"
+     }
+    ],
+    "metatags": [
+     {
+      "y_key": "6b3489aa8b6448ed"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "PlayStation®2 System - PS2™ Console, PlayStation®2 Game System",
+   "htmlTitle": "PlayStation®2 System - \u003cb\u003ePS2\u003c/b\u003e™ Console, PlayStation®2 \u003cb\u003eGame\u003c/b\u003e System",
+   "link": "http://us.playstation.com/ps2/systems/",
+   "displayLink": "us.playstation.com",
+   "snippet": "Get all the info and specs for the slim PlayStation®2 computer entertainment   system. Learn about the PS2™ console's features and compatible accessories.",
+   "htmlSnippet": "Get all the info and specs for the slim PlayStation®2 computer entertainment \u003cbr\u003e  system. Learn about the \u003cb\u003ePS2\u003c/b\u003e™ console&#39;s features and compatible accessories.",
+   "cacheId": "2gwUF3IRj8AJ",
+   "formattedUrl": "us.playstation.com/ps2/systems/",
+   "htmlFormattedUrl": "us.\u003cb\u003eplaystation\u003c/b\u003e.com/\u003cb\u003eps2\u003c/b\u003e/systems/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://webassetsc.scea.com/pscomauth/groups/public/documents/webasset/ps2_systems_img.png",
+      "type": "1",
+      "width": "403",
+      "height": "125"
+     }
+    ],
+    "metatags": [
+     {
+      "author": "Sony Computer Entertainment America LLC",
+      "distribution": "global",
+      "copyright": "Sony Computer Entertainment America LLC",
+      "articletitle": "PlayStation2 systems",
+      "articledesc": "Get all the info and specs for the slim PlayStation®2 computer entertainment system. Learn about the PS2™ console’s features and compatible accessories.",
+      "articleupdateddate": "2/4/12 4:03 PM",
+      "last-modified": "2012-2-4"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Download PS2 Games, Read PS2 game news, watch PS2 videos ...",
+   "htmlTitle": "Download \u003cb\u003ePS2 Games\u003c/b\u003e, Read \u003cb\u003ePS2 game\u003c/b\u003e news, watch PS2 videos \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://www.spawnpoint.com/ps2/",
+   "displayLink": "www.spawnpoint.com",
+   "snippet": "Free Download PS2 games, Free Computer Games, Free Full Version PS2   Games, Free Full Version PS2 Downloads | SpawnPoint.",
+   "htmlSnippet": "Free Download \u003cb\u003ePS2 games\u003c/b\u003e, Free Computer Games, Free Full Version \u003cb\u003ePS2\u003c/b\u003e \u003cbr\u003e  \u003cb\u003eGames\u003c/b\u003e, Free Full Version PS2 Downloads | SpawnPoint.",
+   "cacheId": "_Po0yCVGWNMJ",
+   "formattedUrl": "www.spawnpoint.com/ps2/",
+   "htmlFormattedUrl": "www.spawnpoint.com/\u003cb\u003eps2\u003c/b\u003e/"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Amazon.com: Transformers: Video Games",
+   "htmlTitle": "Amazon.com: Transformers: Video \u003cb\u003eGames\u003c/b\u003e",
+   "link": "http://www.amazon.com/Transformers-Playstation-2/dp/B0000V48MA",
+   "displayLink": "www.amazon.com",
+   "snippet": "As soon as Transformers fans see this score, the hate mail will begin. To them I   say: \"Save it.\" You guys will absolutely adore this game. So don't waste your time ...",
+   "htmlSnippet": "As soon as Transformers fans see this score, the hate mail will begin. To them I \u003cbr\u003e  say: &quot;Save it.&quot; You guys will absolutely adore this \u003cb\u003egame\u003c/b\u003e. So don&#39;t waste your time \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "Pdfa74XPo1oJ",
+   "formattedUrl": "www.amazon.com/Transformers-Playstation-2/dp/B0000V48MA",
+   "htmlFormattedUrl": "www.amazon.com/Transformers-\u003cb\u003ePlaystation\u003c/b\u003e-\u003cb\u003e2\u003c/b\u003e/dp/B0000V48MA",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://ecx.images-amazon.com/images/I/51awmQ0gepL._SL500_AA300_.jpg"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "225",
+      "height": "225",
+      "src": "https://encrypted-tbn2.google.com/images?q=tbn:ANd9GcSCzAYvzYTl9EPfUNuprD3MapgSguMh1_an3mVDZg-uftACxX3QhPMnATmm"
+     }
+    ],
+    "scraped": [
+     {
+      "image_link": "http://ecx.images-amazon.com/images/I/51awmQ0gepL._SL500_AA300_.jpg"
+     }
+    ],
+    "metatags": [
+     {
+      "title": "Amazon.com: Transformers: Video Games"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Capcom PS2 Games - Compare Prices on Marvel vs. Capcom 2 ...",
+   "htmlTitle": "Capcom \u003cb\u003ePS2 Games\u003c/b\u003e - Compare Prices on Marvel vs. Capcom 2 \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://video-games.pricegrabber.com/ps2-games/capcom/p/381/",
+   "displayLink": "video-games.pricegrabber.com",
+   "snippet": "We have gathered pricing info for Games, such as Marvel vs. Capcom 2, &   Capcom God Hand. Find Games at low prices, now.",
+   "htmlSnippet": "We have gathered pricing info for \u003cb\u003eGames\u003c/b\u003e, such as Marvel vs. Capcom \u003cb\u003e2\u003c/b\u003e, &amp; \u003cbr\u003e  Capcom God Hand. Find \u003cb\u003eGames\u003c/b\u003e at low prices, now.",
+   "cacheId": "D-if0kehX9YJ",
+   "formattedUrl": "video-games.pricegrabber.com/ps2-games/capcom/p/381/",
+   "htmlFormattedUrl": "video-\u003cb\u003egames\u003c/b\u003e.pricegrabber.com/\u003cb\u003eps2-games\u003c/b\u003e/capcom/p/381/"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Playstation2 game cheats for PS2",
+   "htmlTitle": "Playstation2 \u003cb\u003egame\u003c/b\u003e cheats for \u003cb\u003ePS2\u003c/b\u003e",
+   "link": "http://www.absolute-playstation.com/ps2/playstation2-game-cheats-for-ps2.php",
+   "displayLink": "www.absolute-playstation.com",
+   "snippet": "If you are looking for game cheats for PS2, or playstation2 game cheats we have   thousands of them. We also have the original Sony Playstation game cheats ...",
+   "htmlSnippet": "If you are looking for \u003cb\u003egame\u003c/b\u003e cheats for \u003cb\u003ePS2\u003c/b\u003e, or playstation2 \u003cb\u003egame\u003c/b\u003e cheats we have \u003cbr\u003e  thousands of them. We also have the original Sony Playstation \u003cb\u003egame\u003c/b\u003e cheats \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "w7yjoWS5YfYJ",
+   "formattedUrl": "www.absolute-playstation.com/ps2/playstation2-game-cheats-for-ps2.php",
+   "htmlFormattedUrl": "www.absolute-\u003cb\u003eplaystation\u003c/b\u003e.com/\u003cb\u003eps2\u003c/b\u003e/\u003cb\u003eplaystation2\u003c/b\u003e-\u003cb\u003egame\u003c/b\u003e-cheats-for-\u003cb\u003eps2\u003c/b\u003e.php"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "PlayStation 2 - Wikipedia, the free encyclopedia",
+   "htmlTitle": "\u003cb\u003ePlayStation 2\u003c/b\u003e - Wikipedia, the free encyclopedia",
+   "link": "http://en.wikipedia.org/wiki/PlayStation_2",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "While the PlayStation 2's initial games lineup was considered mediocre, this   changed during ... See also: List of PlayStation 2 games, List of PlayStation   games ...",
+   "htmlSnippet": "While the PlayStation 2&#39;s initial games lineup was considered mediocre, this \u003cbr\u003e  changed during \u003cb\u003e...\u003c/b\u003e See also: List of \u003cb\u003ePlayStation 2 games\u003c/b\u003e, List of PlayStation \u003cbr\u003e  games \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "huyw7_JCSvEJ",
+   "formattedUrl": "en.wikipedia.org/wiki/PlayStation_2",
+   "htmlFormattedUrl": "en.wikipedia.org/wiki/\u003cb\u003ePlayStation\u003c/b\u003e_\u003cb\u003e2\u003c/b\u003e",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://upload.wikimedia.org/wikipedia/commons/thumb/3/39/PS2-Versions.png/250px-PS2-Versions.png",
+      "type": "1",
+      "width": "200",
+      "height": "176"
+     }
+    ],
+    "hproduct": [
+     {
+      "fn": "PlayStation 2"
+     },
+     {
+      "fn": "PlayStation 2 slimline"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Amazon.com: Grand Theft Auto III: Playstation 2: Unknown: Video ...",
+   "htmlTitle": "Amazon.com: Grand Theft Auto III: \u003cb\u003ePlaystation 2\u003c/b\u003e: Unknown: Video \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://www.amazon.com/Grand-Theft-Auto-III-Playstation-2/dp/B00005O0I2",
+   "displayLink": "www.amazon.com",
+   "snippet": "Amazon.com: Grand Theft Auto III: Playstation 2: Unknown: Video Games. ...   Such updates may be required for you to play new Wii games or continue to   access ...",
+   "htmlSnippet": "Amazon.com: Grand Theft Auto III: \u003cb\u003ePlaystation 2\u003c/b\u003e: Unknown: Video \u003cb\u003eGames\u003c/b\u003e. \u003cb\u003e...\u003c/b\u003e \u003cbr\u003e  Such updates may be required for you to play new Wii \u003cb\u003egames\u003c/b\u003e or continue to \u003cbr\u003e  access \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "9k4ykGpHtXYJ",
+   "formattedUrl": "www.amazon.com/Grand-Theft-Auto...Playstation-2/.../B00005O0I2",
+   "htmlFormattedUrl": "www.amazon.com/Grand-Theft-Auto...\u003cb\u003ePlaystation\u003c/b\u003e-\u003cb\u003e2\u003c/b\u003e/.../B00005O0I2",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://g-ecx.images-amazon.com/images/G/01/ciu/0f/88/e3b6b340dca02f3d11639010.L._SS300_.jpg"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "225",
+      "height": "225",
+      "src": "https://encrypted-tbn2.google.com/images?q=tbn:ANd9GcS2sfikkmebceFiY0rNwPz9XLrBgJMo3qasTTZFRJd9ZOlVTLvwYKsJb-Q"
+     }
+    ],
+    "scraped": [
+     {
+      "image_link": "http://g-ecx.images-amazon.com/images/G/01/ciu/0f/88/e3b6b340dca02f3d11639010.L._SS300_.jpg"
+     }
+    ],
+    "metatags": [
+     {
+      "title": "Amazon.com: Grand Theft Auto III: Playstation 2: Unknown: Video Games"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "PlayStation 2 Games: Compare Prices, Reviews & Buy Online ...",
+   "htmlTitle": "\u003cb\u003ePlayStation 2 Games\u003c/b\u003e: Compare Prices, Reviews &amp; Buy Online \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://shopping.yahoo.com/playstation-2-games/",
+   "displayLink": "shopping.yahoo.com",
+   "snippet": "Results 1 - 15 of 139 ... Yahoo! Shopping is the best place to comparison shop for PlayStation 2 Games.   Compare prices on PlayStation 2 Games. Find PlayStation ...",
+   "htmlSnippet": "Results 1 - 15 of 139 \u003cb\u003e...\u003c/b\u003e Yahoo! Shopping is the best place to comparison shop for \u003cb\u003ePlayStation 2 Games\u003c/b\u003e. \u003cbr\u003e  Compare prices on \u003cb\u003ePlayStation 2 Games\u003c/b\u003e. Find PlayStation \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "c5zZTWqjN6QJ",
+   "formattedUrl": "shopping.yahoo.com/playstation-2-games/",
+   "htmlFormattedUrl": "shopping.yahoo.com/\u003cb\u003eplaystation\u003c/b\u003e-\u003cb\u003e2\u003c/b\u003e-\u003cb\u003egames\u003c/b\u003e/"
+  }
+ ]
+}

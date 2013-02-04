@@ -1,0 +1,725 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "nextPage": [
+   {
+    "title": "Google Custom Search - orange county convention center",
+    "totalResults": "1240000",
+    "searchTerms": "orange county convention center",
+    "count": 10,
+    "startIndex": 11,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "017401104989814545383:mf4lavmtuva"
+   }
+  ],
+  "request": [
+   {
+    "title": "Google Custom Search - orange county convention center",
+    "totalResults": "1240000",
+    "searchTerms": "orange county convention center",
+    "count": 10,
+    "startIndex": 1,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "017401104989814545383:mf4lavmtuva"
+   }
+  ]
+ },
+ "context": {
+  "title": "College MetaSearch Comparison"
+ },
+ "searchInformation": {
+  "searchTime": 0.254165,
+  "formattedSearchTime": "0.25",
+  "totalResults": "1240000",
+  "formattedTotalResults": "1,240,000"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "Orange County Convention Center",
+   "htmlTitle": "\u003cb\u003eOrange County Convention Center\u003c/b\u003e",
+   "link": "http://www.occc.net/",
+   "displayLink": "www.occc.net",
+   "snippet": "Welcome to the Center of Hospitality! Owned and operated by Orange County   Government and located in the heart of the area's tourism district, the Orange ...",
+   "htmlSnippet": "Welcome to the \u003cb\u003eCenter\u003c/b\u003e of Hospitality! Owned and operated by \u003cb\u003eOrange County\u003c/b\u003e \u003cbr\u003e  Government and located in the heart of the area&#39;s tourism district, the \u003cb\u003eOrange\u003c/b\u003e \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "2yejtgh5KQ4J",
+   "formattedUrl": "www.occc.net/",
+   "htmlFormattedUrl": "www.occc.net/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.occc.net/images/ads1.gif",
+      "type": "1",
+      "width": "132",
+      "height": "108"
+     }
+    ],
+    "metatags": [
+     {
+      "vi60_dtcscriptingplatform": "Server (ASP)"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Orange County Convention Center - Wikipedia, the free encyclopedia",
+   "htmlTitle": "\u003cb\u003eOrange County Convention Center\u003c/b\u003e - Wikipedia, the free encyclopedia",
+   "link": "http://en.wikipedia.org/wiki/Orange_County_Convention_Center",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "The Orange County Convention Center (OCCC) is the primary public convention   center for the Central Florida region. The center currently ranks as the second ...",
+   "htmlSnippet": "The \u003cb\u003eOrange County Convention Center\u003c/b\u003e (\u003cb\u003eOCCC\u003c/b\u003e) is the primary public convention \u003cbr\u003e  center for the Central Florida region. The center currently ranks as the second \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "tXWVzWQD0E8J",
+   "formattedUrl": "en.wikipedia.org/wiki/Orange_County_Convention_Center",
+   "htmlFormattedUrl": "en.wikipedia.org/wiki/\u003cb\u003eOrange\u003c/b\u003e_\u003cb\u003eCounty\u003c/b\u003e_\u003cb\u003eConvention\u003c/b\u003e_\u003cb\u003eCenter\u003c/b\u003e",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Orange_County_Convention_Center.jpg/275px-Orange_County_Convention_Center.jpg",
+      "type": "1",
+      "width": "220",
+      "height": "165"
+     }
+    ],
+    "hcard": [
+     {
+      "fn": "Orange County Convention Center",
+      "url": "www.occc.net",
+      "url_text": "www.occc.net"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Calendar of Events Page",
+   "htmlTitle": "Calendar of Events Page",
+   "link": "http://www.occc.net/global/calendar/",
+   "displayLink": "www.occc.net",
+   "snippet": "Orange County Convention Center.",
+   "htmlSnippet": "\u003cb\u003eOrange County Convention Center\u003c/b\u003e.",
+   "cacheId": "rIUpN2a9qykJ",
+   "formattedUrl": "www.occc.net/global/calendar/",
+   "htmlFormattedUrl": "www.occc.net/global/calendar/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.occc.net/images/occctwitter.jpg",
+      "type": "1",
+      "width": "128",
+      "height": "159"
+     }
+    ],
+    "metatags": [
+     {
+      "vi60_dtcscriptingplatform": "Server (ASP)"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Orange County Convention Center - Orlando, FL",
+   "htmlTitle": "\u003cb\u003eOrange County Convention Center\u003c/b\u003e - Orlando, FL",
+   "link": "http://www.yelp.com/biz/orange-county-convention-center-orlando",
+   "displayLink": "www.yelp.com",
+   "snippet": "50 Reviews of Orange County Convention Center \"Can't agree more \"Its an   airport without planes\" No really, its huge but very clean. The only drawback to   the ...",
+   "htmlSnippet": "50 Reviews of \u003cb\u003eOrange County Convention Center\u003c/b\u003e &quot;Can&#39;t agree more &quot;Its an \u003cbr\u003e  airport without planes&quot; No really, its huge but very clean. The only drawback to \u003cbr\u003e  the \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "ViRJEnQqhlwJ",
+   "formattedUrl": "www.yelp.com/biz/orange-county-convention-center-orlando",
+   "htmlFormattedUrl": "www.yelp.com/biz/\u003cb\u003eorange\u003c/b\u003e-\u003cb\u003ecounty\u003c/b\u003e-\u003cb\u003econvention\u003c/b\u003e-\u003cb\u003ecenter\u003c/b\u003e-orlando",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://s3-media2.ak.yelpcdn.com/bphoto/4zmCVTGDjEsLy6e0B9jm4A/m.jpg"
+     }
+    ],
+    "aggregaterating": [
+     {
+      "ratingvalue": "3.5",
+      "reviewcount": "50"
+     }
+    ],
+    "postaladdress": [
+     {
+      "streetaddress": "9800 International Dr",
+      "addresslocality": "Orlando",
+      "addressregion": "FL",
+      "postalcode": "32819"
+     }
+    ],
+    "company": [
+     {
+      "url": "http://www.yelp.com/biz/QhyBfaXZhesjHFABMEyl_w",
+      "longitude": "-81.467732",
+      "type": "company",
+      "latitude": "28.4236656",
+      "title": "Orange County Convention Center",
+      "app_id": "97534753161",
+      "image": "http://s3-media2.ak.yelpcdn.com/bphoto/4zmCVTGDjEsLy6e0B9jm4A/m.jpg"
+     }
+    ],
+    "localbusiness": [
+     {
+      "name": "Orange County Convention Center",
+      "telephone": "(407) 685-9800",
+      "image": "//s3-media2.ak.yelpcdn.com/bphoto/4zmCVTGDjEsLy6e0B9jm4A/m.jpg"
+     }
+    ],
+    "rating": [
+     {
+      "ratingvalue": "4.0"
+     },
+     {
+      "ratingvalue": "3.0"
+     },
+     {
+      "ratingvalue": "3.0"
+     },
+     {
+      "ratingvalue": "3.0"
+     },
+     {
+      "ratingvalue": "3.0"
+     },
+     {
+      "ratingvalue": "4.0"
+     },
+     {
+      "ratingvalue": "3.0"
+     },
+     {
+      "ratingvalue": "4.0"
+     },
+     {
+      "ratingvalue": "2.0"
+     },
+     {
+      "ratingvalue": "3.0"
+     },
+     {
+      "ratingvalue": "4.0"
+     },
+     {
+      "ratingvalue": "1.0"
+     },
+     {
+      "ratingvalue": "4.0"
+     },
+     {
+      "ratingvalue": "4.0"
+     },
+     {
+      "ratingvalue": "4.0"
+     },
+     {
+      "ratingvalue": "3.0"
+     },
+     {
+      "ratingvalue": "5.0"
+     },
+     {
+      "ratingvalue": "3.0"
+     },
+     {
+      "ratingvalue": "2.0"
+     },
+     {
+      "ratingvalue": "4.0"
+     },
+     {
+      "ratingvalue": "2.0"
+     },
+     {
+      "ratingvalue": "4.0"
+     },
+     {
+      "ratingvalue": "4.0"
+     },
+     {
+      "ratingvalue": "3.0"
+     },
+     {
+      "ratingvalue": "3.0"
+     },
+     {
+      "ratingvalue": "3.0"
+     },
+     {
+      "ratingvalue": "4.0"
+     },
+     {
+      "ratingvalue": "4.0"
+     },
+     {
+      "ratingvalue": "2.0"
+     },
+     {
+      "ratingvalue": "4.0"
+     },
+     {
+      "ratingvalue": "4.0"
+     },
+     {
+      "ratingvalue": "4.0"
+     },
+     {
+      "ratingvalue": "5.0"
+     },
+     {
+      "ratingvalue": "4.0"
+     },
+     {
+      "ratingvalue": "2.0"
+     },
+     {
+      "ratingvalue": "3.0"
+     },
+     {
+      "ratingvalue": "4.0"
+     },
+     {
+      "ratingvalue": "4.0"
+     },
+     {
+      "ratingvalue": "3.0"
+     },
+     {
+      "ratingvalue": "4.0"
+     }
+    ],
+    "metatags": [
+     {
+      "og:url": "http://www.yelp.com/biz/QhyBfaXZhesjHFABMEyl_w",
+      "og:longitude": "-81.467732",
+      "og:type": "company",
+      "og:latitude": "28.4236656",
+      "og:title": "Orange County Convention Center",
+      "fb:app_id": "97534753161",
+      "og:image": "http://s3-media2.ak.yelpcdn.com/bphoto/4zmCVTGDjEsLy6e0B9jm4A/m.jpg",
+      "relativepagescore": "650548"
+     }
+    ],
+    "hreviewaggregate": [
+     {
+      "count": "50"
+     }
+    ],
+    "review": [
+     {
+      "ratingstars": "3.5",
+      "ratingcount": "50",
+      "image_url": "//s3-media2.ak.yelpcdn.com/bphoto/4zmCVTGDjEsLy6e0B9jm4A/m.jpg"
+     },
+     {
+      "author": "Casey H.",
+      "datepublished": "2012-06-16",
+      "description": "Can't agree more - \"Its an airport without planes\" No really, its huge but very clean. The only drawback to the place is the $13 parking per day. If you leave, you have to pay to come back in :-("
+     },
+     {
+      "author": "Jeanette H.",
+      "datepublished": "2012-05-04",
+      "description": "Giant convention center, very modern, very easy to maneuver but parking is so far! I'm pretty sure I lose weight when I have a show at this convention center lol. It's so massive and you have..."
+     },
+     {
+      "author": "Chris M.",
+      "datepublished": "2012-04-30",
+      "description": "I use Yelp bookmarks to help me find places quickly when I'm on the road. I had no interest in reviewing the OCCC (see Rachel M's review for a good one.) Anyway, I'm taking a moment to shout..."
+     },
+     {
+      "author": "Alena B.",
+      "datepublished": "2012-06-28",
+      "description": "huge huge huge place for business meetings. Recently attended Tech-Ed here and had a blast. We learned a lot and took advantage of this great location as a jump off point for family visits..."
+     },
+     {
+      "author": "Darrien J.",
+      "datepublished": "2012-06-27",
+      "description": "I attended an industry conference at the OCCC. The center is well kept and the staff were top rate with genuine courtesy. However, when your convention center is 1/4 mile long you run into..."
+     },
+     {
+      "author": "Rachel M.",
+      "datepublished": "2012-02-20",
+      "description": "\"It's like an airport without the planes\".. Best description I could borrow (thanks bf) for the size and grandeur of the Orange County Convention Center. Lovated right off of the popular Internatio..."
+     },
+     {
+      "author": "Stephanie L.",
+      "datepublished": "2012-02-24",
+      "description": "Let me start off by saying that I've never been in the newer, bigger part of the OCCC. I went to Megacon last week and it was held in the older part, in Halls B and C. So for those sections,..."
+     },
+     {
+      "author": "Candace R.",
+      "datepublished": "2012-05-20",
+      "description": "Attended a conference here last week. This place is HUGE, but luckily we were staying at the Peabody next door. The food provided by who I'm assuming is the convention center was very good,..."
+     },
+     {
+      "author": "Dave W.",
+      "datepublished": "2012-03-03",
+      "description": "This place is a very clean, gigantic convention center. Perhaps when it was built, they thought Orlando would be the next Vegas? I mean, you could park Boeing 747's in here it is so large...."
+     },
+     {
+      "author": "George A.",
+      "datepublished": "2012-01-29",
+      "description": "Other reviewers said it, and I will say it again. This place is huge! My only real complaint, which was a real downer is the lack of quality food/beverages in this convention center. I ate..."
+     },
+     {
+      "author": "Lindsey F.",
+      "datepublished": "2011-12-21",
+      "description": "If you're a trade show vagabond like me you'll appreciate the following: Bathrooms: Stocked, large, and staff that always seemed to be cleaning Loading docks: Awesome-Very accessible and organized...."
+     },
+     {
+      "author": "Bulldog W.",
+      "datepublished": "2012-02-20",
+      "description": "Thinking about holding your next convention here? Don't bother. I recently attended a conference with approximately 8,000 attendees. First of all, for a center this large, they skimped on the..."
+     },
+     {
+      "author": "Anna W.",
+      "datepublished": "2012-03-17",
+      "description": "This is the first big conference I have attended so I honestly don't have anything to compare to. I attended Pittcon here this past week and I thought it was very well run. The rooms are nice,..."
+     },
+     {
+      "author": "Joshua J.",
+      "datepublished": "2011-12-05",
+      "description": "What a convention center! As if people don't already have tons of reasons to come to Orlando, we just happen to have one of the sweetest convention centers in the country too! I have attended..."
+     },
+     {
+      "author": "Ben V.",
+      "datepublished": "2012-04-11",
+      "description": "Place is massive and has almost unbelievable main rooms. If you plan on eating in the building though expect to pay $10+."
+     },
+     {
+      "author": "William R.",
+      "datepublished": "2011-10-28",
+      "description": "The first thing that hits you when you see this place is the size, it really is ginormous. It's got over 2 million square feet of exhibit space in three separate buildings. The north and south..."
+     },
+     {
+      "author": "Tania M.",
+      "datepublished": "2012-03-23",
+      "description": "This place is huge!!! and in the heart of international drive. So PREPARE for traffic and you might get lost a few time finding an entrance for your event. and wear comfy shoes because i been..."
+     },
+     {
+      "author": "Jess F.",
+      "datepublished": "2011-06-09",
+      "description": "This place is HUGE! I was here for a conference in May and was disappointed that there wasn't any food places open in the morning. When the few restaurants opened up the food was just your..."
+     },
+     {
+      "author": "Kari S.",
+      "datepublished": "2011-03-06",
+      "description": "Dear OCCC, You have a pretty exterior and your massive halls easily mask how many people are actually in attendance at a particular conference. Could be 10 thousand or just as easily 40 thousand......"
+     },
+     {
+      "author": "Chris E.",
+      "datepublished": "2011-06-11",
+      "description": "I attended an international conference in May '11 and was very impressed with this facility. It is HUGE. Our hotel (Hilton Orlando) was near the South Conference building, but our sessions..."
+     },
+     {
+      "author": "Jonny C.",
+      "datepublished": "2011-04-11",
+      "description": "Place is fucking gigantic- biggest in the country they claim, but it is boring. No creative architecture, fountains, artwork, anything. Just big, in a bland and annoying way. I mean, it is..."
+     },
+     {
+      "author": "Phil H.",
+      "datepublished": "2011-03-18",
+      "description": "The premier destination in Florida if attending a trade show or convention. This place is MASSIVE and with the newer halls built just a few years ago it seems neverending. I have been attending..."
+     },
+     {
+      "author": "Lauren D.",
+      "datepublished": "2012-01-16",
+      "description": "Nice convention center. Lots of space for vendors."
+     },
+     {
+      "author": "Doron R.",
+      "datepublished": "2011-12-21",
+      "description": "Yep. As far as convention centers go. This one is about as good as the rest. Quite big, lots of room for events, but quite cookie cutter. Nothing really super exciting about this place (well,..."
+     },
+     {
+      "author": "Krys G.",
+      "datepublished": "2008-02-07",
+      "description": "I attended the CTIA Wireless Show here last March, and my big complaint about this place is that once you step outside in the muggy Florida heat, you're forced to walk up a huge hill between..."
+     },
+     {
+      "author": "Paul B.",
+      "datepublished": "2009-01-15",
+      "description": "If I may paraphrase the late, great Douglas Adams: \"[The Orange County Convention Center] is big. Really big. You just won't believe how vastly, hugely, mind-bogglingly big it is. I mean you..."
+     },
+     {
+      "author": "Lisa V.",
+      "datepublished": "2008-02-07",
+      "description": "Really, first to review? Well, considering the last review I did almost 5 hours ago is still posted on the main page for Orlando..... I guess I need to start Yelping away! I attended a function..."
+     },
+     {
+      "author": "Jason S.",
+      "datepublished": "2010-08-15",
+      "description": "Star Wars Celebration 5: August 11 thru 15, 2010. Over 30,000 people. Been to a lot of convention centers. This one is HUGE. By huge I mean MASSIVE. Bring good walking shoes. Maybe a Segway..."
+     },
+     {
+      "author": "Ai M.",
+      "datepublished": "2009-11-12",
+      "description": "An employee checks every stall in the women's bathroom to quadruple-flush toilets that weren't. Despite what the maps imply, there's nothing to do here if you're tired of your conference. Eats..."
+     },
+     {
+      "author": "Carol K.",
+      "datepublished": "2010-04-21",
+      "description": "Back again and nothing has changed. This is still one of the best convention centers in the country. It is clean and well organized. If you drive, there are plenty of lots out back, although..."
+     },
+     {
+      "author": "Bryce A.",
+      "datepublished": "2010-11-29",
+      "description": "HUGE!!!!!!!!!!! Carpets in Florida just don't work and smell, so why is 90% of this place carpeted? ~ I was here for the international car show, which pales in comparison to the NYC car show."
+     },
+     {
+      "author": "Jamie b.",
+      "datepublished": "2010-08-24",
+      "description": "As my experience with convention centers goes, this one is quite nice and very large. I was recently at the OCCC for the 4-day Star Wars Celebration V convention. During this time I found the..."
+     },
+     {
+      "author": "Jim L.",
+      "datepublished": "2009-03-20",
+      "description": "This place is HUGE, but efficient. The conference I attended last week was an overall good experience. One of the features of the convention center is to have the chillers on so high that everyone..."
+     },
+     {
+      "author": "Jeffery S.",
+      "datepublished": "2011-09-10",
+      "description": "Nice staff but expensive food. Bathrooms get disgusting but there is a secret one. 2nd floor upstairs behind the shipping office. Nice and clean."
+     },
+     {
+      "author": "Kunal M.",
+      "datepublished": "2011-05-16",
+      "description": "a large convention center with wifi. they think its cool to charge for parking, the lunch is so disguisting the sandwiches tasted like cardboard. a latte costs $6 and once you park you cannot..."
+     },
+     {
+      "author": "Andrew C.",
+      "datepublished": "2010-06-28",
+      "description": "Huge convention center with a well laid out interior. Not many good food options in the center, but considering there's tons of stuff outside, it's understandable. Parking in the back, which..."
+     },
+     {
+      "author": "Scott H.",
+      "datepublished": "2011-03-05",
+      "description": "Wow, this place is huge! Located on both the east and west sides of International Drive in Orlando, the west side alone recently hosted 31,000 attendees at a recent conference. Very clean and..."
+     },
+     {
+      "author": "Thao T.",
+      "datepublished": "2011-04-07",
+      "description": "HUGE convention center. If you are attending a conference here, make sure you wear comfortable shoes and a sweater (It can get pretty chilly inside). I was here for the AACR annual conference..."
+     },
+     {
+      "author": "Dave P.",
+      "datepublished": "2011-03-28",
+      "description": "One of the biggest buildings I've ever seen. Was great for CTIA I guess, easy to find people and meet up with them using a 'meet me at the north/south entrance' gambit. Light on dining options..."
+     },
+     {
+      "author": "Paul W.",
+      "datepublished": "2009-06-21",
+      "description": "As other reviewers have stated, this convention center is absolutely enormous. They could probably easily house 4 or 5 large, full-scale conventions here at the same time and still have room..."
+     }
+    ],
+    "breadcrumb": [
+     {
+      "url": "Event Planning & Services",
+      "title": "Event Planning & Services"
+     },
+     {
+      "url": "Venues & Event Spaces",
+      "title": "Venues & Event Spaces"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "OCCC Maps and Directions",
+   "htmlTitle": "OCCC Maps and Directions",
+   "link": "http://www.occc.net/global/directions.asp",
+   "displayLink": "www.occc.net",
+   "snippet": "Orange County Convention Center. ... Go north (right) approximately one mile to   Convention Center 3. The West Building parking lot can be accessed by turning ...",
+   "htmlSnippet": "\u003cb\u003eOrange County Convention Center\u003c/b\u003e. \u003cb\u003e...\u003c/b\u003e Go north (right) approximately one mile to \u003cbr\u003e  Convention Center 3. The West Building parking lot can be accessed by turning \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "CtgbqmAdH_8J",
+   "formattedUrl": "www.occc.net/global/directions.asp",
+   "htmlFormattedUrl": "www.occc.net/global/directions.asp",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.occc.net/Global/images/IDrive.jpg",
+      "type": "1",
+      "width": "200",
+      "height": "152"
+     }
+    ],
+    "metatags": [
+     {
+      "vi60_dtcscriptingplatform": "Server (ASP)"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Hotels near Orange County Convention Center Orlando",
+   "htmlTitle": "Hotels near \u003cb\u003eOrange County Convention Center\u003c/b\u003e Orlando",
+   "link": "http://www.hotels-rates.com/hotels/locations/Orlando/FL/usa/417/",
+   "displayLink": "www.hotels-rates.com",
+   "snippet": "Hotels 1 - 25 of 75 ... Browse and book hotels near Hotels in Orange County Convention Center   Orlando. An online hotel reservation directory with instant email ...",
+   "htmlSnippet": "Hotels 1 - 25 of 75 \u003cb\u003e...\u003c/b\u003e Browse and book hotels near Hotels in \u003cb\u003eOrange County Convention Center\u003c/b\u003e \u003cbr\u003e  Orlando. An online hotel reservation directory with instant email \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "5twKQVQ41lQJ",
+   "formattedUrl": "www.hotels-rates.com/hotels/locations/Orlando/FL/usa/417/",
+   "htmlFormattedUrl": "www.hotels-rates.com/hotels/locations/Orlando/FL/usa/417/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.hotels-rates.com/images/LogoF.gif"
+     }
+    ],
+    "metatags": [
+     {
+      "format-detection": "telephone=yes",
+      "keyword": "Orange County Convention Center Orlando, Hotels, motels, lodging",
+      "og:type": "website",
+      "og:image": "http://www.hotels-rates.com/images/LogoF.gif",
+      "og:site_name": "Hotels-Rates.com",
+      "fb:admins": "100002556622857",
+      "og:url": "http://www.hotels-rates.com/hotels/locations/Orlando/FL/usa/417/",
+      "og:title": "Hotels near Orange County Convention Center in Orlando, FL",
+      "og:description": "View discounted prices and book your next hotel near Orange County Convention Center in Orlando, FL on Hotels-Rates.com."
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "OCCC General Parking Information",
+   "htmlTitle": "OCCC General Parking Information",
+   "link": "http://www.occc.net/global/parking.asp",
+   "displayLink": "www.occc.net",
+   "snippet": "The Orange County Convention Center (OCCC) operates on-site vehicle parking   at both our West Building and at our North/South Building. Additional parking is ...",
+   "htmlSnippet": "The \u003cb\u003eOrange County Convention Center\u003c/b\u003e (OCCC) operates on-site vehicle parking \u003cbr\u003e  at both our West Building and at our North/South Building. Additional parking is \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "JA64g3QydygJ",
+   "formattedUrl": "www.occc.net/global/parking.asp",
+   "htmlFormattedUrl": "www.occc.net/global/parking.asp",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.occc.net/Global/images/IDrive.jpg",
+      "type": "1",
+      "width": "200",
+      "height": "152"
+     }
+    ],
+    "metatags": [
+     {
+      "vi60_dtcscriptingplatform": "Server (ASP)"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Orange County Convention Center",
+   "htmlTitle": "\u003cb\u003eOrange County Convention Center\u003c/b\u003e",
+   "link": "http://www.expedia.com/Orange-County-Convention-Center-Hotels.0-l6034972-0.Travel-Guide-Filter-Hotels",
+   "displayLink": "www.expedia.com",
+   "snippet": "Looking for a hotel near Orange County Convention Center in Orlando, Florida?   Choose from over 108 Orlando hotels near Orange County Convention Center ...",
+   "htmlSnippet": "Looking for a hotel near \u003cb\u003eOrange County Convention Center\u003c/b\u003e in Orlando, Florida? \u003cbr\u003e  Choose from over 108 Orlando hotels near \u003cb\u003eOrange County Convention Center\u003c/b\u003e \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "trewfjJZ0MsJ",
+   "formattedUrl": "www.expedia.com/Orange-County-Convention-Center-Hotels.0-l6034972-0. Travel-Guide-Filter-Hotels",
+   "htmlFormattedUrl": "www.expedia.com/\u003cb\u003eOrange\u003c/b\u003e-\u003cb\u003eCounty\u003c/b\u003e-\u003cb\u003eConvention\u003c/b\u003e-\u003cb\u003eCenter\u003c/b\u003e-Hotels.0-l6034972-0. Travel-Guide-Filter-Hotels",
+   "pagemap": {
+    "product": [
+     {
+      "image": "http://media.expedia.com/media/content/shared/images/navigation/expedia.com.png?v=1"
+     }
+    ],
+    "metatags": [
+     {
+      "language": "en_US"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Attendee Home",
+   "htmlTitle": "Attendee Home",
+   "link": "http://www.occc.net/attendee/default.asp",
+   "displayLink": "www.occc.net",
+   "snippet": "Welcome to the Orange County Convention Center (OCCC) - \"The Center of   Hospitality\"! Countless entertainment, dining and shopping options combined   with ...",
+   "htmlSnippet": "Welcome to the \u003cb\u003eOrange County Convention Center\u003c/b\u003e (OCCC) - &quot;The Center of \u003cbr\u003e  Hospitality&quot;! Countless entertainment, dining and shopping options combined \u003cbr\u003e  with \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "xY7pQWDajP8J",
+   "formattedUrl": "www.occc.net/attendee/default.asp",
+   "htmlFormattedUrl": "www.occc.net/attendee/default.asp",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.occc.net/images/ads1.gif",
+      "type": "1",
+      "width": "132",
+      "height": "108"
+     }
+    ],
+    "metatags": [
+     {
+      "vi60_dtcscriptingplatform": "Server (ASP)"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Orange County Convention Center Hotels in Orlando. Find ...",
+   "htmlTitle": "\u003cb\u003eOrange County Convention Center\u003c/b\u003e Hotels in Orlando. Find \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://www.hotels.com/de1655/hotels-near-orange-county-convention-center-orlando-united-states/",
+   "displayLink": "www.hotels.com",
+   "snippet": "Browse through more than 0 Orange County Convention Center hotels in   Orlando. Photos, descriptions, Reviews & maps. Save with our Price Match   Guarantee.",
+   "htmlSnippet": "Browse through more than 0 \u003cb\u003eOrange County Convention Center\u003c/b\u003e hotels in \u003cbr\u003e  Orlando. Photos, descriptions, Reviews &amp; maps. Save with our Price Match \u003cbr\u003e  Guarantee.",
+   "cacheId": "3HUCXIphir0J",
+   "formattedUrl": "www.hotels.com/.../hotels-near-orange-county-convention-center-orlando- united-states/",
+   "htmlFormattedUrl": "www.hotels.com/.../hotels-near-\u003cb\u003eorange\u003c/b\u003e-\u003cb\u003ecounty\u003c/b\u003e-\u003cb\u003econvention\u003c/b\u003e-\u003cb\u003ecenter\u003c/b\u003e-orlando- united-states/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://exp.cdn-hotels.com/hotels/1000000/10000/9200/9181/9181_61_b.jpg",
+      "type": "1",
+      "width": "276",
+      "height": "183"
+     }
+    ],
+    "Breadcrumb": [
+     {
+      "title": "Hotels",
+      "url": "Hotels"
+     },
+     {
+      "title": "Hotels in United States",
+      "url": "Hotels in United States"
+     },
+     {
+      "title": "Hotels in Florida",
+      "url": "Hotels in Florida"
+     },
+     {
+      "title": "Hotels in Orlando",
+      "url": "Hotels in Orlando"
+     }
+    ],
+    "metatags": [
+     {
+      "title": "Orange County Convention Center Hotels in Orlando. Find & compare 0 Hotels near Orange County Convention Center with Hotels.com",
+      "skype_toolbar": "SKYPE_TOOLBAR_PARSER_COMPATIBLE",
+      "fb:app_id": "150032821718681",
+      "og:type": "website",
+      "og:title": "Orange County Convention Center Hotels in Orlando. Find & compare 0 Hotels near Orange County Convention Center with Hotels.com",
+      "og:url": "http://www.hotels.com/de1655/hotels-near-orange-county-convention-center-orlando-united-states/",
+      "og:description": "Hotels Orange County Convention Center. Browse through more than 0 Orange County Convention Center hotels in Orlando.  Photos, descriptions, Reviews & maps. Save with our Price Match Guarantee",
+      "og:image": "http://a1.cdn-hotels.com/static/common/9.0/images/common/logos/h_onebrand_119x100.png"
+     }
+    ]
+   }
+  }
+ ]
+}

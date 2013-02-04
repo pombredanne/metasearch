@@ -1,0 +1,405 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "nextPage": [
+   {
+    "title": "Google Custom Search - dinosaurs",
+    "totalResults": "10800000",
+    "searchTerms": "dinosaurs",
+    "count": 10,
+    "startIndex": 11,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "017401104989814545383:mf4lavmtuva"
+   }
+  ],
+  "request": [
+   {
+    "title": "Google Custom Search - dinosaurs",
+    "totalResults": "10800000",
+    "searchTerms": "dinosaurs",
+    "count": 10,
+    "startIndex": 1,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "017401104989814545383:mf4lavmtuva"
+   }
+  ]
+ },
+ "context": {
+  "title": "College MetaSearch Comparison"
+ },
+ "searchInformation": {
+  "searchTime": 0.234311,
+  "formattedSearchTime": "0.23",
+  "totalResults": "10800000",
+  "formattedTotalResults": "10,800,000"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "Dinosaur - Wikipedia, the free encyclopedia",
+   "htmlTitle": "\u003cb\u003eDinosaur\u003c/b\u003e - Wikipedia, the free encyclopedia",
+   "link": "http://en.wikipedia.org/wiki/Dinosaur",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "Dinosaurs are a diverse group of animals of the clade Dinosauria. They first   appeared during the Triassic period, approximately 230 million years ago, and   were ...",
+   "htmlSnippet": "\u003cb\u003eDinosaurs\u003c/b\u003e are a diverse group of animals of the clade Dinosauria. They first \u003cbr\u003e  appeared during the Triassic period, approximately 230 million years ago, and \u003cbr\u003e  were \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "eRjeVI0KrOoJ",
+   "formattedUrl": "en.wikipedia.org/wiki/Dinosaur",
+   "htmlFormattedUrl": "en.wikipedia.org/wiki/\u003cb\u003eDinosaur\u003c/b\u003e",
+   "pagemap": {
+    "RTO": [
+     {
+      "format": "image",
+      "group_impression_tag": "prbx_kr_rto_term_enc",
+      "Opt::max_rank_top": "0",
+      "Opt::threshold_override": "3",
+      "Opt::disallow_same_domain": "1",
+      "Output::title": "\u003cb\u003e공룡 (Dinosaur)\u003c/b\u003e",
+      "Output::want_title_on_right": "true",
+      "Output::num_lines1": "3",
+      "Output::text1": "공룡은 조룡류 조룡강 공룡상목 동물들을 통틀어 일컫는 용어이며, 이러한 의미로 쓸때는 일반적으로 공룡으로 간주되는 익룡, 어룡, 수장룡 은 포함되지 않는다. 넓게는 중생대 의 쥐라기 와 백악기 에 걸쳐 크게 번성했던 화석파충류들을 총칭하기도 한다. 트라이아스기 후기에 출현하여 2억 년 넘게 전 세계에 걸쳐 번식하며 지구상의 주된 육상동물 로서 진화...",
+      "Output::gray1b": "- 위키백과",
+      "Output::no_clip1b": "true",
+      "UrlOutput::url2": "http://en.wikipedia.org/wiki/Dinosaur",
+      "Output::link2": "위키백과 (영문)",
+      "Output::text2b": "&nbsp;&nbsp;&nbsp;",
+      "UrlOutput::url2c": "http://ko.wikipedia.org/wiki/공룡",
+      "Output::link2c": "위키백과",
+      "result_group_header": "백과사전",
+      "Output::image_url": "http://www.gstatic.com/richsnippets/b/58e282576acb3799.jpg",
+      "image_size": "80x80",
+      "Output::inline_image_width": "80",
+      "Output::inline_image_height": "80",
+      "Output::image_border": "1"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Dinosaur Central",
+   "htmlTitle": "\u003cb\u003eDinosaur\u003c/b\u003e Central",
+   "link": "http://dsc.discovery.com/dinosaurs/",
+   "displayLink": "dsc.discovery.com",
+   "snippet": "This is Discovery's comprehensive guide to dinosaurs. Covering everything   about dinosaurs from when and where they lived to what they ate and how they ...",
+   "htmlSnippet": "This is Discovery&#39;s comprehensive guide to \u003cb\u003edinosaurs\u003c/b\u003e. Covering everything \u003cbr\u003e  about \u003cb\u003edinosaurs\u003c/b\u003e from when and where they lived to what they ate and how they \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "ODEcUNDfIx0J",
+   "formattedUrl": "dsc.discovery.com/dinosaurs/",
+   "htmlFormattedUrl": "dsc.discovery.com/\u003cb\u003edinosaurs\u003c/b\u003e/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://dsc.discovery.com/dinosaurs/images/memory-match.jpg",
+      "type": "1",
+      "width": "236",
+      "height": "140"
+     }
+    ],
+    "metatags": [
+     {
+      "network": "Discovery Channel",
+      "launchdate": "09/09/2008",
+      "expirationdate": "09/10/2009",
+      "category": "framework",
+      "type": "knowledge-site-lite"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "KidsDinos.com - Dinosaurs For Kids",
+   "htmlTitle": "KidsDinos.com - \u003cb\u003eDinosaurs\u003c/b\u003e For Kids",
+   "link": "http://www.kidsdinos.com/",
+   "displayLink": "www.kidsdinos.com",
+   "snippet": "X. 227000000. Years Ago. Triassic. Jurassic. Cretaceous. Click On An X To View   Dinosaurs From That Location. Use This Slider Bar To Change The Time ...",
+   "htmlSnippet": "X. 227000000. Years Ago. Triassic. Jurassic. Cretaceous. Click On An X To View \u003cbr\u003e  \u003cb\u003eDinosaurs\u003c/b\u003e From That Location. Use This Slider Bar To Change The Time \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "J0-GUlBwofAJ",
+   "formattedUrl": "www.kidsdinos.com/",
+   "htmlFormattedUrl": "www.kidsdinos.com/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.kidsdinos.com/images/kids-know-it-network.gif",
+      "type": "1",
+      "width": "120",
+      "height": "74"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Zoom Dinosaurs - EnchantedLearning.com",
+   "htmlTitle": "Zoom \u003cb\u003eDinosaurs\u003c/b\u003e - EnchantedLearning.com",
+   "link": "http://www.enchantedlearning.com/subjects/dinosaurs/",
+   "displayLink": "www.enchantedlearning.com",
+   "snippet": "Dinosaurs, dinosaur anatomy and dinosaur extinction at Zoom Dinosaurs. Learn   about many different dinosaur genera, dinosaur anatomy, dinosaur extinction, ...",
+   "htmlSnippet": "\u003cb\u003eDinosaurs\u003c/b\u003e, \u003cb\u003edinosaur\u003c/b\u003e anatomy and \u003cb\u003edinosaur\u003c/b\u003e extinction at Zoom \u003cb\u003eDinosaurs\u003c/b\u003e. Learn \u003cbr\u003e  about many different \u003cb\u003edinosaur\u003c/b\u003e genera, \u003cb\u003edinosaur\u003c/b\u003e anatomy, \u003cb\u003edinosaur\u003c/b\u003e extinction, \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "KgT_Rn887GoJ",
+   "formattedUrl": "www.enchantedlearning.com/subjects/dinosaurs/",
+   "htmlFormattedUrl": "www.enchantedlearning.com/subjects/\u003cb\u003edinosaurs\u003c/b\u003e/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.enchantedlearning.com/tgifs/Trexskelanim.gif",
+      "type": "1",
+      "width": "279",
+      "height": "148"
+     }
+    ],
+    "metatags": [
+     {
+      "rating": "safe for kids"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Find Dinosaur Pictures - Illustrations of Dinosaurs - Dinosaurios ...",
+   "htmlTitle": "Find \u003cb\u003eDinosaur\u003c/b\u003e Pictures - Illustrations of \u003cb\u003eDinosaurs\u003c/b\u003e - Dinosaurios \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://www.search4dinosaurs.com/",
+   "displayLink": "www.search4dinosaurs.com",
+   "snippet": "An index of the best Dinosaur Pictures on the world wide web, with links to the   original image and image providers home page.",
+   "htmlSnippet": "An index of the best \u003cb\u003eDinosaur\u003c/b\u003e Pictures on the world wide web, with links to the \u003cbr\u003e  original image and image providers home page.",
+   "cacheId": "dxnQ2UKlT9MJ",
+   "formattedUrl": "www.search4dinosaurs.com/",
+   "htmlFormattedUrl": "www.search4\u003cb\u003edinosaurs\u003c/b\u003e.com/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.search4dinosaurs.com/harder-stego-tiny.jpg",
+      "type": "1",
+      "width": "101",
+      "height": "64"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Dinosaurs (TV Series 1991–1994) - IMDb",
+   "htmlTitle": "\u003cb\u003eDinosaurs\u003c/b\u003e (TV Series 1991–1994) - IMDb",
+   "link": "http://www.imdb.com/title/tt0101081/",
+   "displayLink": "www.imdb.com",
+   "snippet": "Created by Michael Jacobs, Bob Young. With Stuart Pankin, Jessica Walter,   Jason Willinger, Leif Tilden. Dinosaurs follows the life of a family of dinosaurs,   living ...",
+   "htmlSnippet": "Created by Michael Jacobs, Bob Young. With Stuart Pankin, Jessica Walter, \u003cbr\u003e  Jason Willinger, Leif Tilden. \u003cb\u003eDinosaurs\u003c/b\u003e follows the life of a family of \u003cb\u003edinosaurs\u003c/b\u003e, \u003cbr\u003e  living \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "ahXVKahIPqQJ",
+   "formattedUrl": "www.imdb.com/title/tt0101081/",
+   "htmlFormattedUrl": "www.imdb.com/title/tt0101081/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://ia.media-imdb.com/images/M/MV5BMTc2NDc5MTYzN15BMl5BanBnXkFtZTcwNTMyODI0MQ@@._V1._SX100_SY103_.jpg"
+     }
+    ],
+    "aggregaterating": [
+     {
+      "ratingvalue": "7.6",
+      "bestrating": "10",
+      "ratingcount": "5,816",
+      "reviewcount": "42"
+     }
+    ],
+    "tvseries": [
+     {
+      "image": "http://ia.media-imdb.com/images/M/MV5BMTc2NDc5MTYzN15BMl5BanBnXkFtZTcwNTMyODI0MQ@@._V1._SY317_CR47,0,214,317_.jpg",
+      "name": "Dinosaurs (1991–1994)",
+      "description": "Dinosaurs follows the life of a family of dinosaurs, living in a modern world. They have TVs, fridges, etc. The only humans around are cavemen, who are viewed as pets and wild animals.",
+      "actors": "Stuart Pankin",
+      "genre": "Animation",
+      "inlanguage": "English",
+      "datepublished": "1991-04-26",
+      "duration": "PT30M"
+     }
+    ],
+    "scraped": [
+     {
+      "image_link": "http://ia.media-imdb.com/images/M/MV5BMTc2NDc5MTYzN15BMl5BanBnXkFtZTcwNTMyODI0MQ@@._V1._SX347_SY475_.jpg"
+     }
+    ],
+    "metatags": [
+     {
+      "title": "Dinosaurs (TV Series 1991–1994) - IMDb",
+      "application-name": "IMDb",
+      "msapplication-tooltip": "IMDb Web App",
+      "msapplication-window": "width=1500;height=900",
+      "msapplication-task": "name=Find Movie Showtimes;action-uri=/showtimes/;icon-uri=http://i.media-imdb.com/images/SFff39adb4d259f3c3fd166853a6714a32/favicon.ico",
+      "og:url": "http://www.imdb.com/title/tt0101081/",
+      "og:title": "Dinosaurs (TV Series 1991–1994)",
+      "og:type": "video.tv_show",
+      "og:image": "http://ia.media-imdb.com/images/M/MV5BMTc2NDc5MTYzN15BMl5BanBnXkFtZTcwNTMyODI0MQ@@._V1._SX100_SY103_.jpg",
+      "og:site_name": "IMDb",
+      "fb:app_id": "115109575169727"
+     }
+    ],
+    "moviereview": [
+     {
+      "ratingstars": "4.0",
+      "best": "10",
+      "originalrating": "7.6",
+      "votes": "5,816",
+      "ratingcount": "42",
+      "image_href": "http://ia.media-imdb.com/images/M/MV5BMTc2NDc5MTYzN15BMl5BanBnXkFtZTcwNTMyODI0MQ@@._V1._SY317_CR47,0,214,317_.jpg",
+      "name": "Dinosaurs (1991–1994)",
+      "release_date": "1991-04-26",
+      "release_year": "1991",
+      "genre": "http://www.imdb.com/genre/Animation/http://www.imdb.com/genre/Comedy",
+      "starring": "Stuart Pankin, Jessica Walter, Jason Willinger",
+      "summary": "Dinosaurs follows the life of a family of dinosaurs, living in a modern world. They have TVs, fridges, etc. The only humans around are cavemen, who are..."
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "The Dinosaurs Song - YouTube",
+   "htmlTitle": "The \u003cb\u003eDinosaurs\u003c/b\u003e Song - YouTube",
+   "link": "http://www.youtube.com/watch?v=W0FOZ0-VpcU",
+   "displayLink": "www.youtube.com",
+   "snippet": "Jun 27, 2007 ... Directed by Bernard Derriman. Animated by Andrew Collins, Lily Dell, Ian   Harrowell, and Brian Estanisloa. For the Big Green Rabbit series.",
+   "htmlSnippet": "Jun 27, 2007 \u003cb\u003e...\u003c/b\u003e Directed by Bernard Derriman. Animated by Andrew Collins, Lily Dell, Ian \u003cbr\u003e  Harrowell, and Brian Estanisloa. For the Big Green Rabbit series.",
+   "cacheId": "nzi8IhT-Kl8J",
+   "formattedUrl": "www.youtube.com/watch?v=W0FOZ0-VpcU",
+   "htmlFormattedUrl": "www.youtube.com/watch?v=W0FOZ0-VpcU",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://i4.ytimg.com/vi/W0FOZ0-VpcU/mqdefault.jpg",
+      "type": "1",
+      "width": "256",
+      "height": "144"
+     }
+    ],
+    "videoobject": [
+     {
+      "url": "http://www.youtube.com/watch?v=W0FOZ0-VpcU",
+      "name": "The Dinosaurs Song",
+      "description": "Directed by Bernard Derriman. Animated by Andrew Collins, Lily Dell, Ian Harrowell, and Brian Estanisloa. For the Big Green Rabbit series. www.biggreenrabbit...",
+      "duration": "PT3M8S",
+      "unlisted": "False",
+      "paid": "False",
+      "thumbnailurl": "http://i4.ytimg.com/vi/W0FOZ0-VpcU/hqdefault.jpg",
+      "embedurl": "http://www.youtube.com/v/W0FOZ0-VpcU?version=3&autohide=1",
+      "playertype": "Flash",
+      "width": "640",
+      "height": "360"
+     }
+    ],
+    "person": [
+     {
+      "url": "http://www.youtube.com/user/squetch"
+     }
+    ],
+    "metatags": [
+     {
+      "title": "The Dinosaurs Song",
+      "og:url": "http://www.youtube.com/watch?v=W0FOZ0-VpcU",
+      "og:title": "The Dinosaurs Song",
+      "og:description": "Directed by Bernard Derriman. Animated by Andrew Collins, Lily Dell, Ian Harrowell, and Brian Estanisloa. For the Big Green Rabbit series. www.biggreenrabbit...",
+      "og:type": "video",
+      "og:image": "http://i4.ytimg.com/vi/W0FOZ0-VpcU/mqdefault.jpg",
+      "og:video": "http://www.youtube.com/v/W0FOZ0-VpcU?version=3&autohide=1",
+      "og:video:type": "application/x-shockwave-flash",
+      "og:video:width": "640",
+      "og:video:height": "360",
+      "og:site_name": "YouTube",
+      "fb:app_id": "87741124305",
+      "twitter:player:width": "640",
+      "twitter:player:height": "360",
+      "attribution": "youtube_none/"
+     }
+    ],
+    "imageobject": [
+     {
+      "url": "http://i4.ytimg.com/vi/W0FOZ0-VpcU/mqdefault.jpg",
+      "width": "320",
+      "height": "180"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "The Dinosauria",
+   "htmlTitle": "The Dinosauria",
+   "link": "http://www.ucmp.berkeley.edu/diapsids/dinosaur.html",
+   "displayLink": "www.ucmp.berkeley.edu",
+   "snippet": "Extensive information about the dinosaurs from the University of California   Museum of Paleontology.",
+   "htmlSnippet": "Extensive information about the \u003cb\u003edinosaurs\u003c/b\u003e from the University of California \u003cbr\u003e  Museum of Paleontology.",
+   "cacheId": "XWbYb0xC1IAJ",
+   "formattedUrl": "www.ucmp.berkeley.edu/diapsids/dinosaur.html",
+   "htmlFormattedUrl": "www.ucmp.berkeley.edu/diapsids/\u003cb\u003edinosaur\u003c/b\u003e.html",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.ucmp.berkeley.edu/diapsids/diplodocus_family.jpg",
+      "type": "1",
+      "width": "346",
+      "height": "146"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "National Museum of Natural History - Dinosaurs",
+   "htmlTitle": "National Museum of Natural History - \u003cb\u003eDinosaurs\u003c/b\u003e",
+   "link": "http://paleobiology.si.edu/dinosaurs/",
+   "displayLink": "paleobiology.si.edu",
+   "snippet": "The first dinosaurs were small, meat-eating animals that first arose over 200   million, A scientific illustrator's rendition of the Cretaceous landscape. Illustration   by ...",
+   "htmlSnippet": "The first \u003cb\u003edinosaurs\u003c/b\u003e were small, meat-eating animals that first arose over 200 \u003cbr\u003e  million, A scientific illustrator&#39;s rendition of the Cretaceous landscape. Illustration \u003cbr\u003e  by \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "ON4jem3dgN8J",
+   "formattedUrl": "paleobiology.si.edu/dinosaurs/",
+   "htmlFormattedUrl": "paleobiology.si.edu/\u003cb\u003edinosaurs\u003c/b\u003e/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://paleobiology.si.edu/dinosaurs/images/front_page_1copy.gif",
+      "type": "1",
+      "width": "271",
+      "height": "186"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Dinosaurs: Facts and Fiction",
+   "htmlTitle": "\u003cb\u003eDinosaurs\u003c/b\u003e: Facts and Fiction",
+   "link": "http://pubs.usgs.gov/gip/dinosaurs/",
+   "displayLink": "pubs.usgs.gov",
+   "snippet": "Aug 6, 2007 ... U.S. Geological Survey General-Interest Publication -- Dinosaurs: Facts and   Fiction.",
+   "htmlSnippet": "Aug 6, 2007 \u003cb\u003e...\u003c/b\u003e U.S. Geological Survey General-Interest Publication -- \u003cb\u003eDinosaurs\u003c/b\u003e: Facts and \u003cbr\u003e  Fiction.",
+   "cacheId": "5PhDESTdIIsJ",
+   "formattedUrl": "pubs.usgs.gov/gip/dinosaurs/",
+   "htmlFormattedUrl": "pubs.usgs.gov/gip/\u003cb\u003edinosaurs\u003c/b\u003e/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://pubs.usgs.gov/gip/dinosaurs/trex.jpg",
+      "type": "1",
+      "width": "260",
+      "height": "176"
+     }
+    ],
+    "metatags": [
+     {
+      "author": "U.S. Geological Survey",
+      "publisher": "U.S. Geological Survey (USGS)",
+      "abstract": "Few subjects in the Earth sciences are as fascinating to the public as dinosaurs. The study of dinosaurs stretches our imaginations, gives us new perspectives on time and space, and invites us to discover worlds very different from our modern Earth. From a scientific viewpoint, however, the study of dinosaurs is important both for understanding the causes of past major extinctions of land animals and for understanding the changes in biological diversity caused by previous geological and climatic changes of the Earth. These changes are still occurring today. A wealth of new information about dinosaurs has been learned over the past 30 years, and science's old ideas of dinosaurs as slow, clumsy beasts have been totally turned around. This pamphlet contains answers to some frequently asked questions about dinosaurs, with current ideas and evidence to correct some long-lived popular misconceptions. Although much has been discovered recently about dinosaurs, there is still a great deal more to learn about our plan",
+      "created": "20000504"
+     }
+    ]
+   }
+  }
+ ]
+}

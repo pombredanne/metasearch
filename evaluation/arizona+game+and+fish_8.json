@@ -1,0 +1,366 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "nextPage": [
+   {
+    "title": "Google Custom Search - arizona game and fish",
+    "totalResults": "1710000",
+    "searchTerms": "arizona game and fish",
+    "count": 10,
+    "startIndex": 91,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "017401104989814545383:mf4lavmtuva"
+   }
+  ],
+  "request": [
+   {
+    "title": "Google Custom Search - arizona game and fish",
+    "totalResults": "1710000",
+    "searchTerms": "arizona game and fish",
+    "count": 10,
+    "startIndex": 81,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "017401104989814545383:mf4lavmtuva"
+   }
+  ],
+  "previousPage": [
+   {
+    "title": "Google Custom Search - arizona game and fish",
+    "totalResults": "1710000",
+    "searchTerms": "arizona game and fish",
+    "count": 10,
+    "startIndex": 71,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "017401104989814545383:mf4lavmtuva"
+   }
+  ]
+ },
+ "context": {
+  "title": "College MetaSearch Comparison"
+ },
+ "searchInformation": {
+  "searchTime": 0.322661,
+  "formattedSearchTime": "0.32",
+  "totalResults": "1710000",
+  "formattedTotalResults": "1,710,000"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "Arizona Game and Fish Department - YouTube",
+   "htmlTitle": "\u003cb\u003eArizona Game and Fish\u003c/b\u003e Department - YouTube",
+   "link": "http://www.youtube.com/watch?v=NIbMfCSGTwQ",
+   "displayLink": "www.youtube.com",
+   "snippet": "Mar 16, 2012 ... Kellie Tharp and Jay Cook of the Arizona Game and Fish Department discuss all   the available activities open to the public at a new, man-made ...",
+   "htmlSnippet": "Mar 16, 2012 \u003cb\u003e...\u003c/b\u003e Kellie Tharp and Jay Cook of the \u003cb\u003eArizona Game and Fish\u003c/b\u003e Department discuss all \u003cbr\u003e  the available activities open to the public at a new, man-made \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "WR_Q6_gLpKoJ",
+   "formattedUrl": "www.youtube.com/watch?v=NIbMfCSGTwQ",
+   "htmlFormattedUrl": "www.youtube.com/watch?v=NIbMfCSGTwQ",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://i3.ytimg.com/vi/NIbMfCSGTwQ/mqdefault.jpg",
+      "type": "1",
+      "width": "256",
+      "height": "144"
+     }
+    ],
+    "videoobject": [
+     {
+      "url": "http://www.youtube.com/watch?v=NIbMfCSGTwQ",
+      "name": "Arizona Game and Fish Department",
+      "description": "Kellie Tharp and Jay Cook of the Arizona Game and Fish Department discuss all the available activities open to the public at a new, man-made fishing pond at ...",
+      "duration": "PT15M29S",
+      "unlisted": "False",
+      "paid": "False",
+      "thumbnailurl": "http://i3.ytimg.com/vi/NIbMfCSGTwQ/hqdefault.jpg",
+      "embedurl": "http://www.youtube.com/v/NIbMfCSGTwQ?version=3&autohide=1",
+      "playertype": "Flash",
+      "width": "640",
+      "height": "480"
+     }
+    ],
+    "person": [
+     {
+      "url": "http://www.youtube.com/user/cityofphoenixaz"
+     }
+    ],
+    "metatags": [
+     {
+      "title": "Arizona Game and Fish Department",
+      "og:url": "http://www.youtube.com/watch?v=NIbMfCSGTwQ",
+      "og:title": "Arizona Game and Fish Department",
+      "og:description": "Kellie Tharp and Jay Cook of the Arizona Game and Fish Department discuss all the available activities open to the public at a new, man-made fishing pond at ...",
+      "og:type": "video",
+      "og:image": "http://i3.ytimg.com/vi/NIbMfCSGTwQ/mqdefault.jpg",
+      "og:video": "http://www.youtube.com/v/NIbMfCSGTwQ?version=3&autohide=1",
+      "og:video:type": "application/x-shockwave-flash",
+      "og:video:width": "640",
+      "og:video:height": "480",
+      "og:site_name": "YouTube",
+      "fb:app_id": "87741124305",
+      "twitter:player:width": "640",
+      "twitter:player:height": "480",
+      "attribution": "youtube_none/"
+     }
+    ],
+    "imageobject": [
+     {
+      "url": "http://i3.ytimg.com/vi/NIbMfCSGTwQ/mqdefault.jpg",
+      "width": "320",
+      "height": "180"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Game and Fish confirms report of jaguar in southern Arizona",
+   "htmlTitle": "\u003cb\u003eGame and Fish\u003c/b\u003e confirms report of jaguar in southern \u003cb\u003eArizona\u003c/b\u003e",
+   "link": "http://azgfd.net/artman/publish/NewsMedia/Game-and-Fish-confirms-report-of-jaguar-in-southern-Arizona.shtml",
+   "displayLink": "azgfd.net",
+   "snippet": "Nov 21, 2011 ... The Arizona Game and Fish Department over the weekend was able to confirm a   hunter's report of a jaguar southeast of Tucson and collect ...",
+   "htmlSnippet": "Nov 21, 2011 \u003cb\u003e...\u003c/b\u003e The \u003cb\u003eArizona Game and Fish\u003c/b\u003e Department over the weekend was able to confirm a \u003cbr\u003e  hunter&#39;s report of a jaguar southeast of Tucson and collect \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "x8YuNhNobKgJ",
+   "formattedUrl": "azgfd.net/.../Game-and-Fish-confirms-report-of-jaguar-in-southern-Arizona. shtml",
+   "htmlFormattedUrl": "azgfd.net/.../\u003cb\u003eGame-and-Fish\u003c/b\u003e-confirms-report-of-jaguar-in-southern-\u003cb\u003eArizona\u003c/b\u003e. shtml",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://azgfd.net/artman/uploads/1/Nov2011_Jaguar_site_investigation_MHart_web_1.jpg",
+      "type": "1",
+      "width": "245",
+      "height": "164"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Arizona Game and Fish Department - YouTube",
+   "htmlTitle": "\u003cb\u003eArizona Game and Fish\u003c/b\u003e Department - YouTube",
+   "link": "http://www.youtube.com/user/magnusgrafex",
+   "displayLink": "www.youtube.com",
+   "snippet": "The Arizona Game and Fish Department Mission: To conserve, enhance, and   restore Arizona's diverse wildlife resources and habitats through aggressive ...",
+   "htmlSnippet": "The \u003cb\u003eArizona Game and Fish\u003c/b\u003e Department Mission: To conserve, enhance, and \u003cbr\u003e  restore Arizona&#39;s diverse wildlife resources and habitats through aggressive \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "WJB-eln4EXcJ",
+   "formattedUrl": "www.youtube.com/user/magnusgrafex",
+   "htmlFormattedUrl": "www.youtube.com/user/magnusgrafex",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://i3.ytimg.com/vi/rooiZy-Jt3s/sddefault.jpg",
+      "type": "1",
+      "width": "259",
+      "height": "194"
+     }
+    ],
+    "metatags": [
+     {
+      "title": "Arizona Game and Fish Department",
+      "og:image": "//i2.ytimg.com/i/ASn7tMQBJvzAnOQ3yHoBWw/1.jpg"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "AZGFD.gov Arizona Game and Fish Commission to meet April 13-14",
+   "htmlTitle": "AZGFD.gov \u003cb\u003eArizona Game and Fish\u003c/b\u003e Commission to meet April 13-14",
+   "link": "http://azgfd.net/artman/publish/PublicMeetings/Arizona-Game-and-Fish-Commission-to-meet-April-13-14.shtml",
+   "displayLink": "azgfd.net",
+   "snippet": "Apr 12, 2012 ... Commission orders for fall hunts, small game hunts and trapping to be   considered during Saturday portion of meeting. The Arizona Game and ...",
+   "htmlSnippet": "Apr 12, 2012 \u003cb\u003e...\u003c/b\u003e Commission orders for fall hunts, small game hunts and trapping to be \u003cbr\u003e  considered during Saturday portion of meeting. The \u003cb\u003eArizona Game and\u003c/b\u003e \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "ccOIr_93i9oJ",
+   "formattedUrl": "azgfd.net/.../Arizona-Game-and-Fish-Commission-to-meet-April-13-14.shtml",
+   "htmlFormattedUrl": "azgfd.net/.../\u003cb\u003eArizona\u003c/b\u003e-\u003cb\u003eGame-and-Fish\u003c/b\u003e-Commission-to-meet-April-13-14.shtml"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "AZ Game & Fish Dept (azgfdTucson) on Twitter",
+   "htmlTitle": "\u003cb\u003eAZ Game\u003c/b\u003e &amp; \u003cb\u003eFish\u003c/b\u003e Dept (azgfdTucson) on Twitter",
+   "link": "http://twitter.com/azgfdtucson",
+   "displayLink": "twitter.com",
+   "snippet": "AZ Game & Fish Dept. @azgfdTucson. AZGFD Tucson is for hunting and   shooting sports, fishing and boating, OHVs, and watchable wildlife in the   borderlands of ...",
+   "htmlSnippet": "\u003cb\u003eAZ Game\u003c/b\u003e &amp; \u003cb\u003eFish\u003c/b\u003e Dept. @azgfdTucson. AZGFD Tucson is for hunting and \u003cbr\u003e  shooting sports, \u003cb\u003efishing\u003c/b\u003e and boating, OHVs, and watchable wildlife in the \u003cbr\u003e  borderlands of \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "d5f8p-pKv8IJ",
+   "formattedUrl": "twitter.com/azgfdtucson",
+   "htmlFormattedUrl": "twitter.com/azgfdtucson",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://a0.twimg.com/profile_images/894568182/ABC15.logotype_reasonably_small.jpg",
+      "type": "1",
+      "width": "85",
+      "height": "64"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Arizona Game and Fish Department | LinkedIn",
+   "htmlTitle": "\u003cb\u003eArizona Game and Fish\u003c/b\u003e Department | LinkedIn",
+   "link": "http://www.linkedin.com/company/arizona-game-and-fish-department",
+   "displayLink": "www.linkedin.com",
+   "snippet": "Welcome to the company profile of Arizona Game and Fish Department on   LinkedIn. http://www.azgfd.gov/fishcam http://www.azgfd.gov/video ...",
+   "htmlSnippet": "Welcome to the company profile of \u003cb\u003eArizona Game and Fish\u003c/b\u003e Department on \u003cbr\u003e  LinkedIn. http://www.azgfd.gov/fishcam http://www.azgfd.gov/video \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "jp5BFVlhz9cJ",
+   "formattedUrl": "www.linkedin.com/company/arizona-game-and-fish-department",
+   "htmlFormattedUrl": "www.linkedin.com/company/\u003cb\u003earizona\u003c/b\u003e-\u003cb\u003egame-and-fish\u003c/b\u003e-department",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://m3.licdn.com/mpr/mpr/shrink_80_80/p/4/000/15d/3a2/0a50642.jpg",
+      "type": "1",
+      "width": "74",
+      "height": "74"
+     }
+    ],
+    "person": [
+     {
+      "role": "Community & Congressional Relations"
+     }
+    ],
+    "metatags": [
+     {
+      "pageimpressionid": "135a75e7-bb89-4cc0-8b47-efe8e0ac833e",
+      "pagekey": "biz-overview-public",
+      "analyticsurl": "/analytics/noauthtracker"
+     }
+    ],
+    "hcard": [
+     {
+      "fn": "Ben Alteneder",
+      "title": "Community & Congressional Relations"
+     },
+     {
+      "fn": "Jamie Lyons",
+      "title": "Volunteer Program Administrator"
+     },
+     {
+      "fn": "Ryan Gilbert",
+      "title": "Summer Intern"
+     },
+     {
+      "fn": "Valerie Hernandez",
+      "title": "Intern"
+     },
+     {
+      "fn": "Rachel Williams",
+      "title": "Regional Landowner Incentive Specialist"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Get Ready For Next Weekend's Arizona Game & Fish Department ...",
+   "htmlTitle": "Get Ready For Next Weekend&#39;s \u003cb\u003eArizona Game\u003c/b\u003e &amp; \u003cb\u003eFish\u003c/b\u003e Department \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://www.ammoland.com/2012/03/26/get-ready-for-next-weekends-arizona-game-fish-department-outdoor-expo/",
+   "displayLink": "www.ammoland.com",
+   "snippet": "Mar 26, 2012 ... The family-friendly Expo offers loads of activities, exhibits and presentations for   people of all ages and skill levels, from novices to seasoned ...",
+   "htmlSnippet": "Mar 26, 2012 \u003cb\u003e...\u003c/b\u003e The family-friendly Expo offers loads of activities, exhibits and presentations for \u003cbr\u003e  people of all ages and skill levels, from novices to seasoned \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "qwFbFJgmUn0J",
+   "formattedUrl": "www.ammoland.com/.../get-ready-for-next-weekends-arizona-game-fish- department-outdoor-expo/",
+   "htmlFormattedUrl": "www.ammoland.com/.../get-ready-for-next-weekends-\u003cb\u003earizona\u003c/b\u003e-\u003cb\u003egame\u003c/b\u003e-\u003cb\u003efish\u003c/b\u003e- department-outdoor-expo/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://cdn.ammoland.com/files/wp-content/uploads/2012/03/Arizona-Game-and-Fish-Department-Outdoor-Expo.jpg",
+      "type": "1",
+      "width": "219",
+      "height": "230"
+     }
+    ],
+    "hreview": [
+     {
+      "dtreviewed": "2012-03-26"
+     }
+    ],
+    "metatags": [
+     {
+      "og:image": "http://www.ammoland.com/images/Ammoland-FaceBook-Like.jpg",
+      "og:site_name": "AmmoLand.com Shooting Sports News",
+      "og:title": "Get Ready For Next Weekend’s Arizona Game & Fish Department Outdoor Expo",
+      "og:url": "http://www.ammoland.com/2012/03/26/get-ready-for-next-weekends-arizona-game-fish-department-outdoor-expo/",
+      "og:description": "The family-friendly Expo offers loads of activities, exhibits and presentations for people of all ages and skill levels, from novices to seasoned outdoor recreationists...",
+      "og:type": "article",
+      "object_type": "article",
+      "fb_app_id": "186112758072924",
+      "fb:app_id": "186112758072924"
+     }
+    ],
+    "review": [
+     {
+      "reviewer": "Ammoland",
+      "reviewdate": "2012-03-26"
+     }
+    ],
+    "hcard": [
+     {
+      "fn": "Going to be off the forum for the weekend",
+      "url": "http://www.rockypointtalk.com/thread5876.html#post54758",
+      "url_text": "Going to be off the forum for the weekend"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Arizona Game and Fish Case Study - Alpha.com",
+   "htmlTitle": "\u003cb\u003eArizona Game and Fish\u003c/b\u003e Case Study - Alpha.com",
+   "link": "http://www.alpha.com/Products/Alphadsn/Renewable-Energy/Case-Studies/Arizona-Game-Fish/",
+   "displayLink": "www.alpha.com",
+   "snippet": "The Arizona State Game & Fish Department has installed a 191kW grid-tied solar   power system to provide power to the main facility. As part of a comprehensive ...",
+   "htmlSnippet": "The \u003cb\u003eArizona\u003c/b\u003e State \u003cb\u003eGame\u003c/b\u003e &amp; \u003cb\u003eFish\u003c/b\u003e Department has installed a 191kW grid-tied solar \u003cbr\u003e  power system to provide power to the main facility. As part of a comprehensive \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "5ThUHsJLGbEJ",
+   "formattedUrl": "www.alpha.com/Products/Alphadsn/.../Case.../Arizona-Game-Fish/",
+   "htmlFormattedUrl": "www.alpha.com/Products/Alphadsn/.../Case.../\u003cb\u003eArizona\u003c/b\u003e-\u003cb\u003eGame\u003c/b\u003e-\u003cb\u003eFish\u003c/b\u003e/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.alpha.com/Media/Images/Catalogs/Normal/Arizona-Game-Fish-Case-Study-2616-2013.jpg",
+      "type": "1",
+      "width": "225",
+      "height": "225"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "AZGFD.gov New updates on access to areas of Units 1 and 27 in the ...",
+   "htmlTitle": "AZGFD.gov New updates on access to areas of Units 1 and 27 in the \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://azgfd.net/artman/publish/NewsMedia/New-updates-on-access-to-areas-of-Units-1-and-27-in-the-Wallow-Fire-perimeter.shtml",
+   "displayLink": "azgfd.net",
+   "snippet": "Aug 16, 2011 ... Arizona Game and Fish Department (Department) personnel in Region I have   been coordinating with Apache-Sitgreaves National Forests ...",
+   "htmlSnippet": "Aug 16, 2011 \u003cb\u003e...\u003c/b\u003e \u003cb\u003eArizona Game and Fish\u003c/b\u003e Department (Department) personnel in Region I have \u003cbr\u003e  been coordinating with Apache-Sitgreaves National Forests \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "TvRIGbwFwYoJ",
+   "formattedUrl": "azgfd.net/.../New-updates-on-access-to-areas-of-Units-1-and-27-in-the- Wallow-Fire-perimeter.shtml",
+   "htmlFormattedUrl": "azgfd.net/.../New-updates-on-access-to-areas-of-Units-1-and-27-in-the- Wallow-Fire-perimeter.shtml"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "AZGFD.gov Game and Fish Commission votes to oppose proposal ...",
+   "htmlTitle": "AZGFD.gov \u003cb\u003eGame and Fish\u003c/b\u003e Commission votes to oppose proposal \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://azgfd.net/artman/publish/NewsMedia/Game-and-Fish-Commission-votes-to-oppose-proposal-to-create-Grand-Canyon-Watershed-National-Monument.shtml",
+   "displayLink": "azgfd.net",
+   "snippet": "May 11, 2012 ... PHOENIX – Citing a long list of concerns, the Arizona Game and Fish   Commission today (May 11) voted to oppose the proposed Grand ...",
+   "htmlSnippet": "May 11, 2012 \u003cb\u003e...\u003c/b\u003e PHOENIX – Citing a long list of concerns, the \u003cb\u003eArizona Game and Fish\u003c/b\u003e \u003cbr\u003e  Commission today (May 11) voted to oppose the proposed Grand \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "8mpXc6agClUJ",
+   "formattedUrl": "azgfd.net/.../Game-and-Fish-Commission-votes-to-oppose-proposal-to-create- Grand-Canyon-Watershed-National-Monument.shtml",
+   "htmlFormattedUrl": "azgfd.net/.../\u003cb\u003eGame-and-Fish\u003c/b\u003e-Commission-votes-to-oppose-proposal-to-create- Grand-Canyon-Watershed-National-Monument.shtml"
+  }
+ ]
+}

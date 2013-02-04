@@ -1,0 +1,310 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "nextPage": [
+   {
+    "title": "Google Custom Search - website design hosting",
+    "totalResults": "33600000",
+    "searchTerms": "website design hosting",
+    "count": 10,
+    "startIndex": 81,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "017401104989814545383:mf4lavmtuva"
+   }
+  ],
+  "request": [
+   {
+    "title": "Google Custom Search - website design hosting",
+    "totalResults": "33600000",
+    "searchTerms": "website design hosting",
+    "count": 10,
+    "startIndex": 71,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "017401104989814545383:mf4lavmtuva"
+   }
+  ],
+  "previousPage": [
+   {
+    "title": "Google Custom Search - website design hosting",
+    "totalResults": "33600000",
+    "searchTerms": "website design hosting",
+    "count": 10,
+    "startIndex": 61,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "017401104989814545383:mf4lavmtuva"
+   }
+  ]
+ },
+ "context": {
+  "title": "College MetaSearch Comparison"
+ },
+ "searchInformation": {
+  "searchTime": 0.206383,
+  "formattedSearchTime": "0.21",
+  "totalResults": "33600000",
+  "formattedTotalResults": "33,600,000"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "WordPress Web Hosting | Maine Hosting Solutions | Design and SEO",
+   "htmlTitle": "WordPress \u003cb\u003eWeb Hosting\u003c/b\u003e | Maine \u003cb\u003eHosting\u003c/b\u003e Solutions | \u003cb\u003eDesign\u003c/b\u003e and SEO",
+   "link": "http://mainehost.com/",
+   "displayLink": "mainehost.com",
+   "snippet": "Maine web hosting, web design, search engine optimization and social media   marketing services, custom WordPress website and plugin development.",
+   "htmlSnippet": "Maine web \u003cb\u003ehosting\u003c/b\u003e, \u003cb\u003eweb design\u003c/b\u003e, search engine optimization and social media \u003cbr\u003e  marketing services, custom WordPress website and plugin development.",
+   "cacheId": "9yAqztukrwcJ",
+   "formattedUrl": "mainehost.com/",
+   "htmlFormattedUrl": "maine\u003cb\u003ehost\u003c/b\u003e.com/",
+   "pagemap": {
+    "metatags": [
+     {
+      "msvalidate.01": "0F8BA33DE697F8FCB8A2479752D06205",
+      "alexaverifyid": "ClVp9tIHvqSEbB1fS2Kfnh9kus0",
+      "twitter:card": "summary",
+      "twitter:site": "@mainehostcom",
+      "twitter:title": "WordPress Web Hosting | Maine Hosting Solutions | Design and SEO",
+      "twitter:description": "Maine web hosting, web design, search engine optimization and social media marketing services, custom WordPress website and plugin development.",
+      "twitter:url": "http://mainehost.com/"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Bella Web Design",
+   "htmlTitle": "Bella \u003cb\u003eWeb Design\u003c/b\u003e",
+   "link": "http://www.bellawebdesign.com/",
+   "displayLink": "www.bellawebdesign.com",
+   "snippet": "From web design, hosting, ecommerce, search engine optimization and social   media coaching, Atlanta Web Design, Atlanta Web Designers, Atlanta Web ...",
+   "htmlSnippet": "From \u003cb\u003eweb design\u003c/b\u003e, \u003cb\u003ehosting\u003c/b\u003e, ecommerce, search engine optimization and social \u003cbr\u003e  media coaching, Atlanta Web Design, Atlanta Web Designers, Atlanta Web \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "wX1biXqgAPMJ",
+   "formattedUrl": "www.bellawebdesign.com/",
+   "htmlFormattedUrl": "www.bella\u003cb\u003ewebdesign\u003c/b\u003e.com/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://bellawebdesign.com/webdesign/wp-content/themes/Bella/img_resize/timthumb.php?src=http://bellawebdesign.com/webdesign/wp-content/uploads/2010/11/news.jpg&w=281&h=175&zc=0",
+      "type": "1",
+      "width": "224",
+      "height": "140"
+     }
+    ],
+    "metatags": [
+     {
+      "subject": "Web Design, Web Design Companies, Web Design Company, Web Designer, Web Designers, Web Development, Web Ecommerce Design, Web Page And Designs, Web Site Design, Web Site Design And Hosting, Web Site Design Companies, Web Site Design Company, Website Design, Website Development, Affordable Web Designers, Design Ecommerce, Design Hosting Web  Sites, Ecommerce, Ecommerce Design, Ecommerce Development, Ecommerce Web Site Design, Ecommerce Web Site Development, Full Internet Marketing Service, Internet Marketing, Search Engine Marketing, Search Engine Marketing Business, Search Engine Marketing Company, Search Engine Marketing Firm, Search Engine Marketing Services, Search Engine Optimization, Seo, Seo Company, Seo Consultants, Seo Consulting, Seo Firm, Seo Services, Seo Services",
+      "classification": "Atlanta, Georgia, GA, Business and Economy: Computers and Internet: Web Design and Development",
+      "geography": "United States, Georgia, Atlanta Metro",
+      "language": "English",
+      "distribution": "United States, USA, Georgia, Atlanta Metro, Atlanta",
+      "country": "United States, USA"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Web Hosting, Web Design, Search Engine Optimization, Email ...",
+   "htmlTitle": "Web \u003cb\u003eHosting\u003c/b\u003e, \u003cb\u003eWeb Design\u003c/b\u003e, Search Engine Optimization, Email \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://www.digitalwires.net/",
+   "displayLink": "www.digitalwires.net",
+   "snippet": "A full-service web hosting, design and marketing company, DigitalWires services   St. Marys, Dubois, Bradford and Ridgway PA.",
+   "htmlSnippet": "A full-service \u003cb\u003eweb hosting\u003c/b\u003e, \u003cb\u003edesign\u003c/b\u003e and marketing company, DigitalWires services \u003cbr\u003e  St. Marys, Dubois, Bradford and Ridgway PA.",
+   "cacheId": "_etIwgq4ho8J",
+   "formattedUrl": "www.digitalwires.net/",
+   "htmlFormattedUrl": "www.digitalwires.net/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.digitalwires.net/graphics/common/menu/box_type/blank_box.gif",
+      "type": "1",
+      "width": "104",
+      "height": "80"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Web Design and Web Hosting Services | 123 Simples",
+   "htmlTitle": "\u003cb\u003eWeb Design\u003c/b\u003e and Web \u003cb\u003eHosting\u003c/b\u003e Services | 123 Simples",
+   "link": "http://www.123simples.com/",
+   "displayLink": "www.123simples.com",
+   "snippet": "Web Design and Web Hosting Services. 123 Simples combine affordability with   excellence in the field of web design and hosting solutions.",
+   "htmlSnippet": "\u003cb\u003eWeb Design\u003c/b\u003e and Web \u003cb\u003eHosting\u003c/b\u003e Services. 123 Simples combine affordability with \u003cbr\u003e  excellence in the field of \u003cb\u003eweb design\u003c/b\u003e and \u003cb\u003ehosting\u003c/b\u003e solutions.",
+   "cacheId": "toxHZtKC1Z4J",
+   "formattedUrl": "www.123simples.com/",
+   "htmlFormattedUrl": "www.123simples.com/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.123simples.com/images/design/123-cms.png",
+      "type": "1",
+      "width": "75",
+      "height": "75"
+     }
+    ],
+    "metatags": [
+     {
+      "rating": "general",
+      "copyright": "123simples.com",
+      "author": "Just Check Solutions - 123 Simples"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Christian Web Design-Hosting Plans: New Christian Web Design ...",
+   "htmlTitle": "Christian \u003cb\u003eWeb Design\u003c/b\u003e-\u003cb\u003eHosting\u003c/b\u003e Plans: New Christian Web Design \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://www.webtechdg.com/",
+   "displayLink": "www.webtechdg.com",
+   "snippet": "Christian web design-hosting since 1996. Affordable Christian web design-  hosting plans from only $119. Christian SEO. Christian web design-hosting client ...",
+   "htmlSnippet": "Christian \u003cb\u003eweb design\u003c/b\u003e-\u003cb\u003ehosting\u003c/b\u003e since 1996. Affordable Christian \u003cb\u003eweb design\u003c/b\u003e-\u003cbr\u003e  \u003cb\u003ehosting\u003c/b\u003e plans from only $119. Christian SEO. Christian \u003cb\u003eweb design\u003c/b\u003e-\u003cb\u003ehosting\u003c/b\u003e client \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "bNUl3Jf6GJMJ",
+   "formattedUrl": "www.webtechdg.com/",
+   "htmlFormattedUrl": "www.\u003cb\u003eweb\u003c/b\u003etechdg.com/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.webtechdg.com/images/ban/click-build-sm.jpg",
+      "type": "1",
+      "width": "152",
+      "height": "184"
+     }
+    ],
+    "metatags": [
+     {
+      "author": "Christian web design - WebTech Design Group Christian web site Design company",
+      "allow-search": "yes",
+      "audience": "all",
+      "rating": "General",
+      "language": "en-us",
+      "distribution": "Global",
+      "classification": "Christian web design and Christian website hosting",
+      "resource-type": "document"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Website Design,Hosting and Registration | Simple Website Design",
+   "htmlTitle": "\u003cb\u003eWebsite Design\u003c/b\u003e,\u003cb\u003eHosting\u003c/b\u003e and Registration | Simple Website Design",
+   "link": "http://lbwebpro.com/",
+   "displayLink": "lbwebpro.com",
+   "snippet": "LB Web Pro features Domain Registration, Hosting, and Website Design for   Grays Harbor and Pacific County businesses.",
+   "htmlSnippet": "LB Web Pro features Domain Registration, \u003cb\u003eHosting\u003c/b\u003e, and \u003cb\u003eWebsite Design\u003c/b\u003e for \u003cbr\u003e  Grays Harbor and Pacific County businesses.",
+   "cacheId": "PI8XXEEMR4wJ",
+   "formattedUrl": "lbwebpro.com/",
+   "htmlFormattedUrl": "lb\u003cb\u003eweb\u003c/b\u003epro.com/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://lbwebpro.com/images/bruceteal.png",
+      "type": "1",
+      "width": "97",
+      "height": "126"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Alamo Web Design",
+   "htmlTitle": "Alamo \u003cb\u003eWeb Design\u003c/b\u003e",
+   "link": "http://www.alamowebdesign.com/",
+   "displayLink": "www.alamowebdesign.com",
+   "snippet": "Alamo Web Design - Development and Hosting - Member of the Better Business   Bureau serving San Antonio, Cibolo and all of Texas - Professional web design ...",
+   "htmlSnippet": "Alamo \u003cb\u003eWeb Design\u003c/b\u003e - Development and \u003cb\u003eHosting\u003c/b\u003e - Member of the Better Business \u003cbr\u003e  Bureau serving San Antonio, Cibolo and all of Texas - Professional \u003cb\u003eweb design\u003c/b\u003e \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "1KJR8KlNliYJ",
+   "formattedUrl": "www.alamowebdesign.com/",
+   "htmlFormattedUrl": "www.alamo\u003cb\u003ewebdesign\u003c/b\u003e.com/",
+   "pagemap": {
+    "metatags": [
+     {
+      "publisher": "Alamo Web Design",
+      "copyright": "Copyright 1998 Alamo Web Design. All rights reserved",
+      "author": "Alamo Web Design",
+      "language": "en-US",
+      "distribution": "US",
+      "geography": "San Antonio-Cibolo-Guadalupe County-Bexar County-Texas.",
+      "rating": "General-Safe for everyone",
+      "doc-type": "Web Page"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Catalyst Marketing Innovations, LLC.",
+   "htmlTitle": "Catalyst Marketing Innovations, LLC.",
+   "link": "http://www.catalyst-marketing.com/",
+   "displayLink": "www.catalyst-marketing.com",
+   "snippet": "It's the way we deliver the very best in creative design, printing, web sites, web   site hosting and maintenance, e-mail marketing campaigns, and much more.",
+   "htmlSnippet": "It&#39;s the way we deliver the very best in creative \u003cb\u003edesign\u003c/b\u003e, printing, \u003cb\u003eweb\u003c/b\u003e sites, \u003cb\u003eweb\u003c/b\u003e \u003cbr\u003e  site \u003cb\u003ehosting\u003c/b\u003e and maintenance, e-mail marketing campaigns, and much more.",
+   "cacheId": "IeoLlsrTwjgJ",
+   "formattedUrl": "www.catalyst-marketing.com/",
+   "htmlFormattedUrl": "www.catalyst-marketing.com/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://catalyst-marketing.com/rotate/4.jpg",
+      "type": "1",
+      "width": "321",
+      "height": "157"
+     }
+    ],
+    "metatags": [
+     {
+      "y_key": "0d4bae06c71e2a5f"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "discount web page designers in Omaha, Nebraska - JoeWeb.com",
+   "htmlTitle": "discount \u003cb\u003eweb\u003c/b\u003e page designers in Omaha, Nebraska - JoeWeb.com",
+   "link": "http://www.joeinfo.com/",
+   "displayLink": "www.joeinfo.com",
+   "snippet": "Low-cost web site design and web hosting for small and medium sized   businesses. ... Discount Web Design, Hosting and Marketing for Small   Businesses and ...",
+   "htmlSnippet": "Low-cost web site design and web hosting for small and medium sized \u003cbr\u003e  businesses. \u003cb\u003e...\u003c/b\u003e Discount \u003cb\u003eWeb Design\u003c/b\u003e, \u003cb\u003eHosting\u003c/b\u003e and Marketing for Small \u003cbr\u003e  Businesses and \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "mJPqfnrf5QoJ",
+   "formattedUrl": "www.joeinfo.com/",
+   "htmlFormattedUrl": "www.joeinfo.com/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.joeinfo.com/small_business.jpg",
+      "type": "1",
+      "width": "363",
+      "height": "139"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Web Design Dothan Alabama - Dothan Web Design - Web Design ...",
+   "htmlTitle": "\u003cb\u003eWeb Design\u003c/b\u003e Dothan Alabama - Dothan \u003cb\u003eWeb Design\u003c/b\u003e - \u003cb\u003eWeb Design\u003c/b\u003e \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://www.dothanbydesign.com/",
+   "displayLink": "www.dothanbydesign.com",
+   "snippet": "Dothan Web Design, Internet marketing and web hosting company serving   Dothan Alabama and surrounding areas.",
+   "htmlSnippet": "Dothan \u003cb\u003eWeb Design\u003c/b\u003e, Internet marketing and web \u003cb\u003ehosting\u003c/b\u003e company serving \u003cbr\u003e  Dothan Alabama and surrounding areas.",
+   "cacheId": "bkzY5GwaWtcJ",
+   "formattedUrl": "www.dothanbydesign.com/",
+   "htmlFormattedUrl": "www.dothanby\u003cb\u003edesign\u003c/b\u003e.com/"
+  }
+ ]
+}

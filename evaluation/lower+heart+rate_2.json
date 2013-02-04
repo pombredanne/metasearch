@@ -1,0 +1,308 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "nextPage": [
+   {
+    "title": "Google Custom Search - lower heart rate",
+    "totalResults": "24300000",
+    "searchTerms": "lower heart rate",
+    "count": 10,
+    "startIndex": 31,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "017401104989814545383:mf4lavmtuva"
+   }
+  ],
+  "request": [
+   {
+    "title": "Google Custom Search - lower heart rate",
+    "totalResults": "24300000",
+    "searchTerms": "lower heart rate",
+    "count": 10,
+    "startIndex": 21,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "017401104989814545383:mf4lavmtuva"
+   }
+  ],
+  "previousPage": [
+   {
+    "title": "Google Custom Search - lower heart rate",
+    "totalResults": "24300000",
+    "searchTerms": "lower heart rate",
+    "count": 10,
+    "startIndex": 11,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "017401104989814545383:mf4lavmtuva"
+   }
+  ]
+ },
+ "context": {
+  "title": "College MetaSearch Comparison"
+ },
+ "searchInformation": {
+  "searchTime": 0.134273,
+  "formattedSearchTime": "0.13",
+  "totalResults": "24300000",
+  "formattedTotalResults": "24,300,000"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "How to Lower Resting Heart Rate: 6 steps - wikiHow",
+   "htmlTitle": "How to \u003cb\u003eLower\u003c/b\u003e Resting \u003cb\u003eHeart Rate\u003c/b\u003e: 6 steps - wikiHow",
+   "link": "http://www.wikihow.com/Lower-Resting-Heart-Rate",
+   "displayLink": "www.wikihow.com",
+   "snippet": "May 31, 2012 ... How to Lower Resting Heart Rate. Your heart rate, or pulse, is the measurement   of heart beats per minute, or how hard the heart is working to ...",
+   "htmlSnippet": "May 31, 2012 \u003cb\u003e...\u003c/b\u003e How to \u003cb\u003eLower\u003c/b\u003e Resting \u003cb\u003eHeart Rate\u003c/b\u003e. Your \u003cb\u003eheart rate\u003c/b\u003e, or pulse, is the measurement \u003cbr\u003e  of heart beats per minute, or how hard the heart is working to \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "lv7zYpMh8sYJ",
+   "formattedUrl": "www.wikihow.com/Lower-Resting-Heart-Rate",
+   "htmlFormattedUrl": "www.wikihow.com/\u003cb\u003eLower\u003c/b\u003e-Resting-\u003cb\u003eHeart\u003c/b\u003e-\u003cb\u003eRate\u003c/b\u003e",
+   "pagemap": {
+    "metatags": [
+     {
+      "msvalidate.01": "CFD80128CAD3E726220D4C2420D539BE",
+      "y_key": "1b3ab4fc6fba3ab3",
+      "og:title": "How to Lower Resting Heart Rate",
+      "og:type": "article",
+      "og:url": "http://www.wikihow.com/Lower-Resting-Heart-Rate",
+      "og:site_name": "wikiHow",
+      "og:description": "Your heart rate, or pulse, is the measurement of heart beats per minute, or how hard the heart is working to circulate blood throughout your body. Your resting heart rate refers to the body's lowest heart rate, when your body is close to..."
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "NEMA - Health Care - Heart Rate or Pulse",
+   "htmlTitle": "NEMA - Health Care - \u003cb\u003eHeart Rate\u003c/b\u003e or Pulse",
+   "link": "http://www.nemahealth.org/programs/healthcare/heart_rate_pulse.htm",
+   "displayLink": "www.nemahealth.org",
+   "snippet": "Many athletes have pulse rates in the 40 - 60 range, depending on how fit they   are. In general, a lower pulse rate is good. Sometimes however, one's heart rate ...",
+   "htmlSnippet": "Many athletes have pulse rates in the 40 - 60 range, depending on how fit they \u003cbr\u003e  are. In general, a \u003cb\u003elower\u003c/b\u003e pulse rate is good. Sometimes however, one&#39;s \u003cb\u003eheart rate\u003c/b\u003e \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "HlS0v6Awd1kJ",
+   "formattedUrl": "www.nemahealth.org/programs/healthcare/heart_rate_pulse.htm",
+   "htmlFormattedUrl": "www.nemahealth.org/programs/healthcare/\u003cb\u003eheart\u003c/b\u003e_\u003cb\u003erate\u003c/b\u003e_pulse.htm",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.nemahealth.org/programs/images/side-dwn.gif",
+      "type": "1",
+      "width": "148",
+      "height": "75"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Heart Rate Myths: Normal Heart Rate, Resting Heart Rate, Pulse ...",
+   "htmlTitle": "\u003cb\u003eHeart Rate\u003c/b\u003e Myths: Normal \u003cb\u003eHeart Rate\u003c/b\u003e, Resting \u003cb\u003eHeart Rate\u003c/b\u003e, Pulse \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://www.webmd.com/heart-disease/features/5-heart-rate-myths-debunked",
+   "displayLink": "www.webmd.com",
+   "snippet": "WebMD interviews experts on the truth about your heart rate and debunks myths   about a heart that's “too fast” or “too slow.”",
+   "htmlSnippet": "WebMD interviews experts on the truth about your \u003cb\u003eheart rate\u003c/b\u003e and debunks myths \u003cbr\u003e  about a heart that&#39;s “too fast” or “too \u003cb\u003eslow\u003c/b\u003e.”",
+   "cacheId": "ob8zlIMnvfQJ",
+   "formattedUrl": "www.webmd.com/heart-disease/.../5-heart-rate-myths-debunked",
+   "htmlFormattedUrl": "www.webmd.com/\u003cb\u003eheart\u003c/b\u003e-disease/.../5-\u003cb\u003eheart\u003c/b\u003e-\u003cb\u003erate\u003c/b\u003e-myths-debunked"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Target Heart Rate Zone Training - Wellness - Purdue North Central",
+   "htmlTitle": "Target \u003cb\u003eHeart Rate\u003c/b\u003e Zone Training - Wellness - Purdue North Central",
+   "link": "http://www.pnc.edu/hr/wellness/target_heart_rate_zone_training.htm",
+   "displayLink": "www.pnc.edu",
+   "snippet": "Speed/Racing (short) = 91 – 100%So now you have all the information to   calculate the lower and upper heart rate limits for each zone. The following table ...",
+   "htmlSnippet": "Speed/Racing (short) = 91 – 100%So now you have all the information to \u003cbr\u003e  calculate the \u003cb\u003elower\u003c/b\u003e and upper \u003cb\u003eheart rate\u003c/b\u003e limits for each zone. The following table \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "2bwDwp6fFC8J",
+   "formattedUrl": "www.pnc.edu/hr/wellness/target_heart_rate_zone_training.htm",
+   "htmlFormattedUrl": "www.pnc.edu/hr/wellness/target_\u003cb\u003eheart\u003c/b\u003e_\u003cb\u003erate\u003c/b\u003e_zone_training.htm",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.pnc.edu/hr/wellness/weights.jpg",
+      "type": "1",
+      "width": "145",
+      "height": "41"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Slow Heart Rate | LIVESTRONG.COM",
+   "htmlTitle": "\u003cb\u003eSlow Heart Rate\u003c/b\u003e | LIVESTRONG.COM",
+   "link": "http://www.livestrong.com/slow-heart-rate/",
+   "displayLink": "www.livestrong.com",
+   "snippet": "Improve your health, lifestyle, diet nutrition with Slow Heart Rate news, facts, tips,   other information. Educate yourself about Slow Heart Rate help yourself and ...",
+   "htmlSnippet": "Improve your health, lifestyle, diet nutrition with \u003cb\u003eSlow Heart Rate\u003c/b\u003e news, facts, tips, \u003cbr\u003e  other information. Educate yourself about \u003cb\u003eSlow Heart Rate\u003c/b\u003e help yourself and \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "wu6K9eg-49MJ",
+   "formattedUrl": "www.livestrong.com/slow-heart-rate/",
+   "htmlFormattedUrl": "www.livestrong.com/\u003cb\u003eslow\u003c/b\u003e-\u003cb\u003eheart\u003c/b\u003e-\u003cb\u003erate\u003c/b\u003e/",
+   "pagemap": {
+    "metatags": [
+     {
+      "application-name": "LIVESTRONG.COM",
+      "ustatus": "1",
+      "category": "Fitness",
+      "og:title": "Slow Heart Rate",
+      "pagetype": "L3",
+      "subcategory": "Heart Rate Information",
+      "subsubcat": "Slow Heart Rate",
+      "cme2_hostname": "www.livestrong.com",
+      "api_server": "api.demandmedia.com",
+      "wa_lr": "en-US",
+      "siteid": "LIVC",
+      "fb:app_id": "49285624359",
+      "og:site_name": "LIVESTRONG.COM",
+      "og:url": "http://www.livestrong.com/slow-heart-rate/",
+      "msapplication-tooltip": "Empowering Life's Healthy Achievements",
+      "msapplication-window": "width=1500;height=900",
+      "msapplication-task": "name=MyPlate;action-uri=http://www.livestrong.com/myplate/;icon-uri=/media/images/ico/myplate.ico",
+      "msvalidate.01": "5F1B06EBE88583F1C05B9114514366ED"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Heart Arrhythmia (Irregular Heartbeat) symptoms, warning signs and ...",
+   "htmlTitle": "\u003cb\u003eHeart\u003c/b\u003e Arrhythmia (Irregular Heartbeat) symptoms, warning signs and \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://www.medicinenet.com/arrhythmia_irregular_heartbeat/article.htm",
+   "displayLink": "www.medicinenet.com",
+   "snippet": "Arrhythmias and abnormal heart rates don't necessarily occur together.   Arrhythmias can occur with a normal heart rate, or with heart rates that are slow (  called ...",
+   "htmlSnippet": "Arrhythmias and abnormal \u003cb\u003eheart rates\u003c/b\u003e don&#39;t necessarily occur together. \u003cbr\u003e  Arrhythmias can occur with a normal \u003cb\u003eheart rate\u003c/b\u003e, or with \u003cb\u003eheart rates\u003c/b\u003e that are \u003cb\u003eslow\u003c/b\u003e (\u003cbr\u003e  called \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "aSAUUkXucB8J",
+   "formattedUrl": "www.medicinenet.com/arrhythmia_irregular_heartbeat/article.htm",
+   "htmlFormattedUrl": "www.medicinenet.com/arrhythmia_irregular_\u003cb\u003eheart\u003c/b\u003ebeat/article.htm",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://images.medicinenet.com/images/article/main_image/arrhythmia_irregular_heartbeat.jpg",
+      "type": "1",
+      "width": "430",
+      "height": "117"
+     }
+    ],
+    "article": [
+     {
+      "title": "Heart Arrhythmia (Irregular Heartbeat) symptoms, warning signs and treatment information on MedicineNet.com",
+      "description": "Arrhythmia (irregular heartbeat or abnormal heart rhythm) symptoms include palpitations, dizziness, fainting, shortness of breath and chest discomfort. Learn how to recognize the warning signs...",
+      "url": "http://www.medicinenet.com/arrhythmia_irregular_heartbeat/article.htm",
+      "site_name": "MedicineNet",
+      "image": "http://images.medicinenet.com/images/forum/featured-arrhythmia.jpg",
+      "page_id": "111506915551297",
+      "type": "article"
+     }
+    ],
+    "webpage": [
+     {
+      "breadcrumb": "home \u003e heart center \u003e heart a-z list \u003e arrhythmia (irregular heartbeat) index \u003e arrhythmia (irregular heartbeat) article"
+     }
+    ],
+    "creativework": [
+     {
+      "image": "http://images.medicinenet.com/images/article/main_image/arrhythmia_irregular_heartbeat.jpg"
+     },
+     {
+      "headline": "Heart Disease and Abnormal Heart Rhythm (Arrhythmia)"
+     }
+    ],
+    "metatags": [
+     {
+      "og:title": "Heart Arrhythmia (Irregular Heartbeat) symptoms, warning signs and treatment information on MedicineNet.com",
+      "og:description": "Arrhythmia (irregular heartbeat or abnormal heart rhythm) symptoms include palpitations, dizziness, fainting, shortness of breath and chest discomfort. Learn how to recognize the warning signs and treatment of arrhythmia on MedicineNet.com.",
+      "og:url": "http://www.medicinenet.com/arrhythmia_irregular_heartbeat/article.htm",
+      "og:site_name": "MedicineNet",
+      "og:image": "http://images.medicinenet.com/images/forum/featured-arrhythmia.jpg",
+      "fb:page_id": "111506915551297",
+      "og:type": "article",
+      "y_key": "2547cd0fb417c291"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Heart rate - Wikipedia, the free encyclopedia",
+   "htmlTitle": "\u003cb\u003eHeart rate\u003c/b\u003e - Wikipedia, the free encyclopedia",
+   "link": "http://en.wikipedia.org/wiki/Heart_rate",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "The cyclist Miguel Indurain had a resting heart rate of 28 bpm. The low pulse in   conditioned athletes is due to the increased efficiency of the heart as a pump ...",
+   "htmlSnippet": "The cyclist Miguel Indurain had a resting \u003cb\u003eheart rate\u003c/b\u003e of 28 bpm. The \u003cb\u003elow\u003c/b\u003e pulse in \u003cbr\u003e  conditioned athletes is due to the increased efficiency of the heart as a pump \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "R8Ic2U2ZJb4J",
+   "formattedUrl": "en.wikipedia.org/wiki/Heart_rate",
+   "htmlFormattedUrl": "en.wikipedia.org/wiki/\u003cb\u003eHeart\u003c/b\u003e_\u003cb\u003erate\u003c/b\u003e"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Rejection can lower heart rate - UPI.com",
+   "htmlTitle": "Rejection can \u003cb\u003elower heart rate\u003c/b\u003e - UPI.com",
+   "link": "http://www.upi.com/Health_News/2012/02/14/Rejection-can-lower-heart-rate/UPI-48351329197500/",
+   "displayLink": "www.upi.com",
+   "snippet": "Feb 14, 2012 ... Learning that someone doesn't like you triggers a drop in heart rate, University of   Amsterdam researchers found.",
+   "htmlSnippet": "Feb 14, 2012 \u003cb\u003e...\u003c/b\u003e Learning that someone doesn&#39;t like you triggers a drop in \u003cb\u003eheart rate\u003c/b\u003e, University of \u003cbr\u003e  Amsterdam researchers found.",
+   "cacheId": "LKTa7dXsNhoJ",
+   "formattedUrl": "www.upi.com/Health...lower-heart-rate/UPI-48351329197500/",
+   "htmlFormattedUrl": "www.upi.com/Health...\u003cb\u003elower\u003c/b\u003e-\u003cb\u003eheart\u003c/b\u003e-\u003cb\u003erate\u003c/b\u003e/UPI-48351329197500/",
+   "pagemap": {
+    "article": [
+     {
+      "name": "Rejection can lower heart rate",
+      "description": "Learning that someone doesn't like you triggers a drop in heart rate, University of Amsterdam researchers found."
+     }
+    ],
+    "metatags": [
+     {
+      "viewport": "width=975",
+      "og:site_name": "UPI",
+      "fb:app_id": "130795020312660",
+      "og:description": "Learning that someone doesn't like you triggers a drop in heart rate, University of Amsterdam researchers found.",
+      "og:url": "http://www.upi.com/Health_News/2012/02/14/Rejection-can-lower-heart-rate/UPI-48351329197500/",
+      "og:title": "Rejection can lower heart rate",
+      "og:type": "article"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Slower Heart Rate May Translate Into Longer Life - Harvard Health ...",
+   "htmlTitle": "Slower \u003cb\u003eHeart Rate\u003c/b\u003e May Translate Into Longer Life - Harvard Health \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://www.health.harvard.edu/press_releases/slower-heart-rate-may-translate-into-longer-life",
+   "displayLink": "www.health.harvard.edu",
+   "snippet": "Resting heart rate seems to be a common denominator for various types of heart   disease. A tantalizing possibility is that lowering your heart rate could help ...",
+   "htmlSnippet": "Resting \u003cb\u003eheart rate\u003c/b\u003e seems to be a common denominator for various types of heart \u003cbr\u003e  disease. A tantalizing possibility is that \u003cb\u003elowering\u003c/b\u003e your \u003cb\u003eheart rate\u003c/b\u003e could help \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "ZBKZA5NOnogJ",
+   "formattedUrl": "www.health.harvard.edu/.../slower-heart-rate-may-translate-into-longer-life",
+   "htmlFormattedUrl": "www.health.harvard.edu/.../\u003cb\u003eslower\u003c/b\u003e-\u003cb\u003eheart\u003c/b\u003e-\u003cb\u003erate\u003c/b\u003e-may-translate-into-longer-life",
+   "pagemap": {
+    "metatags": [
+     {
+      "fb:admins": "1072380240"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Is A Lower Resting Heart Rate Better Than A Higher One? | Cardio ...",
+   "htmlTitle": "Is A \u003cb\u003eLower\u003c/b\u003e Resting \u003cb\u003eHeart Rate\u003c/b\u003e Better Than A Higher One? | Cardio \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://www.cardiofiles.net/is-a-lower-resting-heart-rate-better-than-a-higher-one-576196.html",
+   "displayLink": "www.cardiofiles.net",
+   "snippet": "Your heart rate when sitting relaxed (for at least 5 minutes) should be between 70   and 90. Your maximum heart rate should be about 220 - age in years (e.g. a ...",
+   "htmlSnippet": "Your \u003cb\u003eheart rate\u003c/b\u003e when sitting relaxed (for at least 5 minutes) should be between 70 \u003cbr\u003e  and 90. Your maximum \u003cb\u003eheart rate\u003c/b\u003e should be about 220 - age in years (e.g. a \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "LiyjpMfxj9kJ",
+   "formattedUrl": "www.cardiofiles.net/is-a-lower-resting-heart-rate-better-than-a-higher-one- 576196.html",
+   "htmlFormattedUrl": "www.cardiofiles.net/is-a-\u003cb\u003elower\u003c/b\u003e-resting-\u003cb\u003eheart\u003c/b\u003e-\u003cb\u003erate\u003c/b\u003e-better-than-a-higher-one- 576196.html"
+  }
+ ]
+}

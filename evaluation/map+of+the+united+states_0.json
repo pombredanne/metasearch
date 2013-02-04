@@ -1,0 +1,324 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "nextPage": [
+   {
+    "title": "Google Custom Search - map of the united states",
+    "totalResults": "272000000",
+    "searchTerms": "map of the united states",
+    "count": 10,
+    "startIndex": 11,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "017401104989814545383:mf4lavmtuva"
+   }
+  ],
+  "request": [
+   {
+    "title": "Google Custom Search - map of the united states",
+    "totalResults": "272000000",
+    "searchTerms": "map of the united states",
+    "count": 10,
+    "startIndex": 1,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "017401104989814545383:mf4lavmtuva"
+   }
+  ]
+ },
+ "context": {
+  "title": "College MetaSearch Comparison"
+ },
+ "searchInformation": {
+  "searchTime": 0.266953,
+  "formattedSearchTime": "0.27",
+  "totalResults": "272000000",
+  "formattedTotalResults": "272,000,000"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "A Free United States Map",
+   "htmlTitle": "A Free \u003cb\u003eUnited States Map\u003c/b\u003e",
+   "link": "http://www.50states.com/us.htm/",
+   "displayLink": "www.50states.com",
+   "snippet": "50states is the best source of free maps for the United States of America. We also   provide free blank outline maps for kids, state capital maps, USA atlas maps, ...",
+   "htmlSnippet": "50states is the best source of free \u003cb\u003emaps\u003c/b\u003e for the \u003cb\u003eUnited States\u003c/b\u003e of America. We also \u003cbr\u003e  provide free blank outline \u003cb\u003emaps\u003c/b\u003e for kids, state capital \u003cb\u003emaps\u003c/b\u003e, USA atlas \u003cb\u003emaps\u003c/b\u003e, \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "yfI-uWRRNGIJ",
+   "formattedUrl": "www.50states.com/us.htm/",
+   "htmlFormattedUrl": "www.50\u003cb\u003estates\u003c/b\u003e.com/\u003cb\u003eus\u003c/b\u003e.htm/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.50states.com/images/us_map.gif",
+      "type": "1",
+      "width": "297",
+      "height": "169"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "The Fifty States (maps, flags, geography, population, statistics ...",
+   "htmlTitle": "The Fifty \u003cb\u003eStates\u003c/b\u003e (\u003cb\u003emaps\u003c/b\u003e, flags, geography, population, statistics \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://www.infoplease.com/states.html",
+   "displayLink": "www.infoplease.com",
+   "snippet": "Facts, statistics and trivia about the fifty states of the United States of America:   government, populations, maps, US map, flags, state landmarks, climate data,   and ...",
+   "htmlSnippet": "Facts, statistics and trivia about the fifty states of the United States of America: \u003cbr\u003e  government, populations, \u003cb\u003emaps\u003c/b\u003e, \u003cb\u003eUS\u003c/b\u003e map, flags, state landmarks, climate data, \u003cbr\u003e  and \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "Ymo9yIr4LDoJ",
+   "formattedUrl": "www.infoplease.com/states.html",
+   "htmlFormattedUrl": "www.infoplease.com/\u003cb\u003estates\u003c/b\u003e.html",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://i.infopls.com/images/states_imgmap.gif",
+      "type": "1",
+      "width": "271",
+      "height": "186"
+     }
+    ],
+    "metatags": [
+     {
+      "waif": "states"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "United States and Capitals Map",
+   "htmlTitle": "\u003cb\u003eUnited States\u003c/b\u003e and Capitals \u003cb\u003eMap\u003c/b\u003e",
+   "link": "http://www.50states.com/cap.htm/",
+   "displayLink": "www.50states.com",
+   "snippet": "Map of the United States of America including state capitals.",
+   "htmlSnippet": "\u003cb\u003eMap of the United States\u003c/b\u003e of America including state capitals.",
+   "cacheId": "X07Xv9Wn2skJ",
+   "formattedUrl": "www.50states.com/cap.htm/",
+   "htmlFormattedUrl": "www.50\u003cb\u003estates\u003c/b\u003e.com/cap.htm/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.50states.com/images/capcty1.gif",
+      "type": "1",
+      "width": "290",
+      "height": "174"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "USA Maps – United States of America, Map of United States ...",
+   "htmlTitle": "USA \u003cb\u003eMaps\u003c/b\u003e – \u003cb\u003eUnited States\u003c/b\u003e of America, Map of United States \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://www.worldatlas.com/webimage/countrys/namerica/us.htm",
+   "displayLink": "www.worldatlas.com",
+   "snippet": "Collection of USA maps and information, including links to landforms of the US,   physical map of United States, and United States of America flags.",
+   "htmlSnippet": "Collection of USA \u003cb\u003emaps\u003c/b\u003e and information, including links to landforms of the \u003cb\u003eUS\u003c/b\u003e, \u003cbr\u003e  physical \u003cb\u003emap\u003c/b\u003e of \u003cb\u003eUnited States\u003c/b\u003e, and \u003cb\u003eUnited States\u003c/b\u003e of America flags.",
+   "cacheId": "gvSS-18NZNgJ",
+   "formattedUrl": "www.worldatlas.com/webimage/countrys/namerica/us.htm",
+   "htmlFormattedUrl": "www.worldatlas.com/webimage/countrys/namerica/\u003cb\u003eus\u003c/b\u003e.htm",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.worldatlas.com/webimage/countrys/namerica/usamapnew.gif",
+      "type": "1",
+      "width": "279",
+      "height": "180"
+     }
+    ],
+    "metatags": [
+     {
+      "og:title": "USA",
+      "og:site_name": "World Atlas",
+      "og:type": "country",
+      "og:url": "http://www.worldatlas.com/webimage/countrys/namerica/us.htm",
+      "og:image": "http://www.worldatlas.com/webimage/countrys/images/us_mini.gif",
+      "fb:admins": "5218348",
+      "og:description": "As the world's largest economy, it's a significant leader in the fields of agriculture, education, energy, health care, high-tech, service industries, space exploration, and manufacturing of all descriptions."
+     }
+    ],
+    "breadcrumb": [
+     {
+      "url": "World Map",
+      "title": "World Map"
+     },
+     {
+      "url": "North America",
+      "title": "North America"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Google Maps",
+   "htmlTitle": "Google \u003cb\u003eMaps\u003c/b\u003e",
+   "link": "http://maps.google.com/",
+   "displayLink": "maps.google.com",
+   "snippet": "Find local businesses, view maps and get driving directions in Google Maps.",
+   "htmlSnippet": "Find local businesses, view \u003cb\u003emaps\u003c/b\u003e and get driving directions in Google \u003cb\u003eMaps\u003c/b\u003e.",
+   "cacheId": "dkf5u2twBXIJ",
+   "formattedUrl": "maps.google.com/",
+   "htmlFormattedUrl": "\u003cb\u003emaps\u003c/b\u003e.google.com/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://mt0.google.com/vt/lyrs=m@180000000&hl=en&src=app&x=4&y=6&z=4&s=Ga",
+      "type": "1",
+      "width": "204",
+      "height": "204"
+     }
+    ],
+    "webpage": [
+     {
+      "image": "http://maps.gstatic.com/mapfiles/maps-64.png"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "United States Atlas: Maps and Online Resources — Infoplease.com",
+   "htmlTitle": "\u003cb\u003eUnited States\u003c/b\u003e Atlas: \u003cb\u003eMaps\u003c/b\u003e and Online Resources — Infoplease.com",
+   "link": "http://www.infoplease.com/atlas/unitedstates.html",
+   "displayLink": "www.infoplease.com",
+   "snippet": "Map of United States & articles on flags, geography, history, statistics, disasters,   current events, and international relations.",
+   "htmlSnippet": "\u003cb\u003eMap\u003c/b\u003e of \u003cb\u003eUnited States\u003c/b\u003e &amp; articles on flags, geography, history, statistics, disasters, \u003cbr\u003e  current events, and international relations.",
+   "cacheId": "efb4EDpJRo8J",
+   "formattedUrl": "www.infoplease.com/atlas/unitedstates.html",
+   "htmlFormattedUrl": "www.infoplease.com/atlas/\u003cb\u003eunitedstates\u003c/b\u003e.html",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://i.infoplease.com/images/musa.gif",
+      "type": "1",
+      "width": "259",
+      "height": "194"
+     }
+    ],
+    "metatags": [
+     {
+      "waif": "United States",
+      "dc.title": "United States"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Interactive Map of the United States",
+   "htmlTitle": "Interactive \u003cb\u003eMap of the United States\u003c/b\u003e",
+   "link": "http://www.yourchildlearns.com/us_map.htm",
+   "displayLink": "www.yourchildlearns.com",
+   "snippet": "New larger interactive map of United States borders, states, capitals and   surroundings.",
+   "htmlSnippet": "New larger interactive \u003cb\u003emap\u003c/b\u003e of \u003cb\u003eUnited States\u003c/b\u003e borders, states, capitals and \u003cbr\u003e  surroundings.",
+   "cacheId": "Y5V6OUqOrPwJ",
+   "formattedUrl": "www.yourchildlearns.com/us_map.htm",
+   "htmlFormattedUrl": "www.yourchildlearns.com/\u003cb\u003eus\u003c/b\u003e_\u003cb\u003emap\u003c/b\u003e.htm",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.yourchildlearns.com/images/map-of-united-states.gif",
+      "type": "1",
+      "width": "261",
+      "height": "193"
+     }
+    ],
+    "metatags": [
+     {
+      "progid": "FrontPage.Editor.Document"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Map of the United States (USA) Major Cities",
+   "htmlTitle": "\u003cb\u003eMap of the United States\u003c/b\u003e (USA) Major Cities",
+   "link": "http://www.mapsofworld.com/usa/usa-capital-and-major-cities-map.html",
+   "displayLink": "www.mapsofworld.com",
+   "snippet": "United States Map of major cities - The major cities of the United States are New   York, Los Angeles, Chicago, Washington D.C., Houston and Dallas etc.",
+   "htmlSnippet": "\u003cb\u003eUnited States Map\u003c/b\u003e of major cities - The major cities of the \u003cb\u003eUnited States\u003c/b\u003e are New \u003cbr\u003e  York, Los Angeles, Chicago, Washington D.C., Houston and Dallas etc.",
+   "cacheId": "I5dA670-BX8J",
+   "formattedUrl": "www.mapsofworld.com/usa/usa-capital-and-major-cities-map.html",
+   "htmlFormattedUrl": "www.\u003cb\u003emaps\u003c/b\u003eofworld.com/usa/usa-capital-and-major-cities-\u003cb\u003emap\u003c/b\u003e.html",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.mapsofworld.com/usa/usa-maps/USA-Major-Cities.jpg",
+      "type": "1",
+      "width": "260",
+      "height": "194"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "United States Map - Nations Online Project",
+   "htmlTitle": "\u003cb\u003eUnited States Map\u003c/b\u003e - Nations Online Project",
+   "link": "http://www.nationsonline.org/oneworld/usa_map.htm",
+   "displayLink": "www.nationsonline.org",
+   "snippet": "Map of the United States of America, 1440 pixel. ... Map showing the states,   capitals and main cities of the United States. A click on the name of the State will ...",
+   "htmlSnippet": "\u003cb\u003eMap of the United States\u003c/b\u003e of America, 1440 pixel. \u003cb\u003e...\u003c/b\u003e Map showing the states, \u003cbr\u003e  capitals and main cities of the United States. A click on the name of the State will \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "2CADO71ZNYwJ",
+   "formattedUrl": "www.nationsonline.org/oneworld/usa_map.htm",
+   "htmlFormattedUrl": "www.nationsonline.org/oneworld/usa_\u003cb\u003emap\u003c/b\u003e.htm",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.nationsonline.org/maps/USA.jpg",
+      "type": "1",
+      "width": "268",
+      "height": "188"
+     }
+    ],
+    "metatags": [
+     {
+      "author": "klaus kästle",
+      "publisher": "Nations Online Project",
+      "copyright": "klaus kästle - nationsonline.org",
+      "content-language": "en",
+      "identifier-url": "http://www.nationsonline.org/",
+      "distribution": "global",
+      "resource-type": "document"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "United States Map Puzzle",
+   "htmlTitle": "\u003cb\u003eUnited States Map\u003c/b\u003e Puzzle",
+   "link": "http://www.yourchildlearns.com/mappuzzle/us-puzzle.html",
+   "displayLink": "www.yourchildlearns.com",
+   "snippet": "US map puzzle to learn the US states and their capitals. Put together the states   and capitals on the map of the United States. Fun and educational.",
+   "htmlSnippet": "US map puzzle to learn the US states and their capitals. Put together the states \u003cbr\u003e  and capitals on the \u003cb\u003emap of the United States\u003c/b\u003e. Fun and educational.",
+   "cacheId": "XiGURCwf9t0J",
+   "formattedUrl": "www.yourchildlearns.com/mappuzzle/us-puzzle.html",
+   "htmlFormattedUrl": "www.yourchildlearns.com/\u003cb\u003emap\u003c/b\u003epuzzle/\u003cb\u003eus\u003c/b\u003e-puzzle.html",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.yourchildlearns.com/images/owl%20and%20mouse%20logo8.gif",
+      "type": "1",
+      "width": "128",
+      "height": "120"
+     }
+    ],
+    "metatags": [
+     {
+      "progid": "FrontPage.Editor.Document"
+     }
+    ]
+   }
+  }
+ ]
+}

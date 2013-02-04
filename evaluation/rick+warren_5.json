@@ -1,0 +1,494 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "nextPage": [
+   {
+    "title": "Google Custom Search - rick warren",
+    "totalResults": "12800000",
+    "searchTerms": "rick warren",
+    "count": 10,
+    "startIndex": 61,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "017401104989814545383:mf4lavmtuva"
+   }
+  ],
+  "request": [
+   {
+    "title": "Google Custom Search - rick warren",
+    "totalResults": "12800000",
+    "searchTerms": "rick warren",
+    "count": 10,
+    "startIndex": 51,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "017401104989814545383:mf4lavmtuva"
+   }
+  ],
+  "previousPage": [
+   {
+    "title": "Google Custom Search - rick warren",
+    "totalResults": "12800000",
+    "searchTerms": "rick warren",
+    "count": 10,
+    "startIndex": 41,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "017401104989814545383:mf4lavmtuva"
+   }
+  ]
+ },
+ "context": {
+  "title": "College MetaSearch Comparison"
+ },
+ "searchInformation": {
+  "searchTime": 0.179132,
+  "formattedSearchTime": "0.18",
+  "totalResults": "12800000",
+  "formattedTotalResults": "12,800,000"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "40 Days in the Word",
+   "htmlTitle": "40 Days in the Word",
+   "link": "http://saddleback.com/40ditw/",
+   "displayLink": "saddleback.com",
+   "snippet": "... Project City Hope · Purpose Driven · Purpose Driven Life · Rick Warren ·   Rwanda Health Care · Saddleback Resources · The Daniel Plan · The PEACE   Plan ...",
+   "htmlSnippet": "\u003cb\u003e...\u003c/b\u003e Project City Hope &middot; Purpose Driven &middot; Purpose Driven Life &middot; \u003cb\u003eRick Warren\u003c/b\u003e &middot; \u003cbr\u003e  Rwanda Health Care &middot; Saddleback Resources &middot; The Daniel Plan &middot; The PEACE \u003cbr\u003e  Plan \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "z0AqibTscf0J",
+   "formattedUrl": "saddleback.com/40ditw/",
+   "htmlFormattedUrl": "saddleback.com/40ditw/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://saddleback.com/site/provider/siteprovider/saddleback.com/templates/saddleback%20home%20default/40ditw/ad-churchleader-top.jpg",
+      "type": "1",
+      "width": "244",
+      "height": "104"
+     }
+    ],
+    "hcalendar": [
+     {
+      "dtstart": "2012-07-20",
+      "summary": "SC The Herd Men's..."
+     },
+     {
+      "dtstart": "2012-07-20",
+      "summary": "WALK & WORSHIP"
+     },
+     {
+      "dtstart": "2012-07-20",
+      "summary": "Saddleback Kids - Glow..."
+     },
+     {
+      "dtstart": "2012-07-20",
+      "summary": "H2H Gathering"
+     },
+     {
+      "dtstart": "2012-07-21",
+      "summary": "Good Neighbor Compton -..."
+     },
+     {
+      "dtstart": "2012-07-21",
+      "summary": "HERD Saturday -..."
+     },
+     {
+      "dtstart": "2012-07-21",
+      "summary": "SC The Herd Men's..."
+     },
+     {
+      "dtstart": "2012-07-21",
+      "summary": "Motel Ministry"
+     },
+     {
+      "dtstart": "2012-07-21",
+      "summary": "BOOTCAMP with Tony..."
+     },
+     {
+      "dtstart": "2012-07-21",
+      "summary": "Saddleback HB Women's..."
+     }
+    ],
+    "event": [
+     {
+      "dtstart": "2012-07-20",
+      "summary": "SC The Herd Men's..."
+     }
+    ],
+    "metatags": [
+     {
+      "cache": "7/20/2012 7:46:13 PM",
+      "s": "1",
+      "url": "http://saddleback.com/40ditw/index.html",
+      "title": "40 Days in the Word at Saddleback Church"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Rick Warren - Theopedia, an encyclopedia of Biblical Christianity",
+   "htmlTitle": "\u003cb\u003eRick Warren\u003c/b\u003e - Theopedia, an encyclopedia of Biblical Christianity",
+   "link": "http://www.theopedia.com/Rick_Warren",
+   "displayLink": "www.theopedia.com",
+   "snippet": "Rick Warren. image Rick Warren \"Rick Warren is founder and pastor of   Saddleback Church, one of America's largest churches. Saddleback, in Lake   Forest, ...",
+   "htmlSnippet": "\u003cb\u003eRick Warren\u003c/b\u003e. image \u003cb\u003eRick Warren\u003c/b\u003e &quot;\u003cb\u003eRick Warren\u003c/b\u003e is founder and pastor of \u003cbr\u003e  Saddleback Church, one of America&#39;s largest churches. Saddleback, in Lake \u003cbr\u003e  Forest, \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "4z5jeIte20AJ",
+   "formattedUrl": "www.theopedia.com/Rick_Warren",
+   "htmlFormattedUrl": "www.theopedia.com/\u003cb\u003eRick\u003c/b\u003e_\u003cb\u003eWarren\u003c/b\u003e",
+   "pagemap": {
+    "metatags": [
+     {
+      "viewport": "width=device-width, initial-scale=1.0"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Rick Warren Talks About Tim Tebow, Mormons, Gay Marriage and ...",
+   "htmlTitle": "\u003cb\u003eRick Warren\u003c/b\u003e Talks About Tim Tebow, Mormons, Gay Marriage and \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://www.christianpost.com/news/rick-warren-talks-about-tim-tebow-mormons-gay-marriage-and-exclusivity-of-christ-72840/",
+   "displayLink": "www.christianpost.com",
+   "snippet": "Apr 9, 2012 ... In an Easter Sunday interview on ABC's \"This Week,\" megachurch pastor and   best-selling author Rick Warren talked about a range of cultural ...",
+   "htmlSnippet": "Apr 9, 2012 \u003cb\u003e...\u003c/b\u003e In an Easter Sunday interview on ABC&#39;s &quot;This Week,&quot; megachurch pastor and \u003cbr\u003e  best-selling author \u003cb\u003eRick Warren\u003c/b\u003e talked about a range of cultural \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "yzil8aR3YtEJ",
+   "formattedUrl": "www.christianpost.com/.../rick-warren-talks-about-tim-tebow-mormons-gay- marriage-and-exclusivity-of-christ-72840/",
+   "htmlFormattedUrl": "www.christianpost.com/.../\u003cb\u003erick\u003c/b\u003e-\u003cb\u003ewarren\u003c/b\u003e-talks-about-tim-tebow-mormons-gay- marriage-and-exclusivity-of-christ-72840/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://images.christianpost.com/thumb/40983/thumb.jpg"
+     }
+    ],
+    "metatags": [
+     {
+      "author": "Christian Post",
+      "copyright": "2012 Christian Post",
+      "title": "Rick Warren Talks About Tim Tebow, Mormons, Gay Marriage and Exclusivity of Christ",
+      "googlebot-news": "index, follow",
+      "og:site_name": "Christian Post",
+      "og:url": "http://www.christianpost.com/news/rick-warren-talks-about-tim-tebow-mormons-gay-marriage-and-exclusivity-of-christ-72840/",
+      "og:type": "article",
+      "og:title": "Rick Warren Talks About Tim Tebow, Mormons, Gay Marriage and Exclusivity of Christ",
+      "og:image": "http://images.christianpost.com/thumb/40983/thumb.jpg",
+      "og:description": "In an Easter Sunday interview on ABC's \"This Week,\" megachurch pastor and best-selling author Rick Warren talked about a range of cultural and political issues, including President Obama's birth control mandate, the intersection of religion and politics and whether one can get to Heaven by being a good person.",
+      "fb:app_id": "201239059893766",
+      "fb:page_id": "41093998634",
+      "syndication-source": "http://www.christianpost.com/news/rick-warren-talks-about-tim-tebow-mormons-gay-marriage-and-exclusivity-of-christ-72840/"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Rick Warren Publicly Condemns Uganda Anti-Gay Law (VIDEO)",
+   "htmlTitle": "\u003cb\u003eRick Warren\u003c/b\u003e Publicly Condemns Uganda Anti-Gay Law (VIDEO)",
+   "link": "http://www.huffingtonpost.com/2009/12/10/rick-warren-publicly-cond_n_387512.html",
+   "displayLink": "www.huffingtonpost.com",
+   "snippet": "Dec 10, 2009 ... Pastor Rick Warren, after weeks of avoiding the issue, has publicly condemned a   Ugandan law that makes it legal to give people the death ...",
+   "htmlSnippet": "Dec 10, 2009 \u003cb\u003e...\u003c/b\u003e Pastor \u003cb\u003eRick Warren\u003c/b\u003e, after weeks of avoiding the issue, has publicly condemned a \u003cbr\u003e  Ugandan law that makes it legal to give people the death \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "NF9fUXrgL40J",
+   "formattedUrl": "www.huffingtonpost.com/.../rick-warren-publicly-cond_n_387512.html",
+   "htmlFormattedUrl": "www.huffingtonpost.com/.../\u003cb\u003erick\u003c/b\u003e-\u003cb\u003ewarren\u003c/b\u003e-publicly-cond_n_387512.html",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://i.huffpost.com/gen/125432/thumbs/s-RICK-WARREN-small.jpg",
+      "type": "1",
+      "width": "93",
+      "height": "68"
+     }
+    ],
+    "Image": [
+     {
+      "title": "Pastor Rick Warren, after weeks of avoiding the issue, has publicly condemned a Ugandan law that makes it legal to give people the death penalty just for being gay. Addressed directly to the...",
+      "description": "Pastor Rick Warren, after weeks of avoiding the issue, has publicly condemned a Ugandan law that makes it legal to give people the death penalty just for being gay. Addressed directly to the..."
+     }
+    ],
+    "Agent": [
+     {
+      "name": "Video",
+      "homepage": "Video"
+     }
+    ],
+    "metatags": [
+     {
+      "og:type": "article",
+      "og:url": "http://www.huffingtonpost.com/2009/12/10/rick-warren-publicly-cond_n_387512.html",
+      "og:description": "Pastor Rick Warren, after weeks of avoiding the issue, has publicly condemned a Ugandan law that makes it legal to give people the death penalty just for being gay.",
+      "og:locale": "en_US",
+      "og:site_name": "The Huffington Post",
+      "og:title": "Rick Warren Publicly Condemns Uganda Anti-Gay Law (VIDEO)",
+      "fb:app_id": "46744042133",
+      "category": "Politics",
+      "author": "The Huffington Post",
+      "article:author": "http://www.huffingtonpost.com/rachel-weiner/",
+      "article:section": "Politics",
+      "publish_date": "Thu, 10 Dec 2009 14:12:33 EST",
+      "image": "http://i.huffpost.com/gen/125432/thumbs/s-RICK-WARREN-small.jpg",
+      "og:image": "http://i.huffpost.com/gen/125432/thumbs/s-RICK-WARREN-small.jpg"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Video: Rick Warren, Angela Buchdahl, and Yasir Qadhi | Watch ...",
+   "htmlTitle": "Video: \u003cb\u003eRick Warren\u003c/b\u003e, Angela Buchdahl, and Yasir Qadhi | Watch \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://video.pbs.org/video/2219356213/",
+   "displayLink": "video.pbs.org",
+   "snippet": "This episode of Finding Your Roots traces the family histories of Pastor Rick   Warren, Rabbi Angela Buchdahl, and Sheikh Yasir Qadhi: three people of   different ...",
+   "htmlSnippet": "This episode of Finding Your Roots traces the family histories of Pastor \u003cb\u003eRick\u003c/b\u003e \u003cbr\u003e  \u003cb\u003eWarren\u003c/b\u003e, Rabbi Angela Buchdahl, and Sheikh Yasir Qadhi: three people of \u003cbr\u003e  different \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "mvOkZGv3ks8J",
+   "formattedUrl": "video.pbs.org/video/2219356213/",
+   "htmlFormattedUrl": "video.pbs.org/video/2219356213/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://pbs.merlin.cdn.prod.s3.amazonaws.com/Video%20Asset/pbs/finding-your-roots/1990/images/14651_ThumbnailCOVEDefault_20120405152227.jpg.resize.142x80.jpg",
+      "type": "1",
+      "width": "113",
+      "height": "63"
+     }
+    ],
+    "metatags": [
+     {
+      "og:title": "Watch now: Rick Warren, Angela Buchdahl, and Yasir Qadhi | Finding Your Roots | PBS Video",
+      "og:type": "tv_show",
+      "og:image": "http://pbs.merlin.cdn.prod.s3.amazonaws.com/Video%20Asset/pbs/finding-your-roots/1990/images/14651_ThumbnailCOVEDefault_20120405152227.jpg.resize.142x80.jpg",
+      "og:image:secure_url": "https://pbs.merlin.cdn.prod.s3.amazonaws.com/Video%20Asset/pbs/finding-your-roots/1990/images/14651_ThumbnailCOVEDefault_20120405152227.jpg.resize.142x80.jpg",
+      "og:url": "http://video.pbs.org/video/2219356213/",
+      "og:site_name": "PBS.org",
+      "og:description": "The family histories of Pastor Rick Warren, Rabbi Angela Buchdahl, and Sheikh Yasir Qadhi.",
+      "fb:admins": "100003193422107",
+      "og:video": "http://dgjigvacl6ipj.cloudfront.net/media/swf/PBSPlayer.swf?video=http://video.pbs.org/videoPlayerInfo/2219356213&player=viral",
+      "og:video:secure_url": "https://dgjigvacl6ipj.cloudfront.net/media/swf/PBSPlayer.swf?video=http://video.pbs.org/videoPlayerInfo/2219356213&player=viral",
+      "og:video:type": "application/x-shockwave-flash",
+      "og:video:width": "512",
+      "og:video:height": "328",
+      "twitter:card": "player",
+      "twitter:site": "@PBS",
+      "twitter:player": "https://dgjigvacl6ipj.cloudfront.net/media/swf/PBSPlayer.swf?video=http://video.pbs.org/videoPlayerInfo/2219356213&player=viral",
+      "twitter:player:width": "512",
+      "twitter:player:height": "328",
+      "twitter:image": "http://pbs.merlin.cdn.prod.s3.amazonaws.com:80/video_pages%2Fwebobjects2FFIYO00105-mez.380x212.jpg"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Rick Warren: Dogs go to heaven, maybe not you",
+   "htmlTitle": "\u003cb\u003eRick Warren\u003c/b\u003e: Dogs go to heaven, maybe not you",
+   "link": "http://content.usatoday.com/communities/Religion/post/2012/04/rick-warren-dogs-cats-heaven-jesus/1",
+   "displayLink": "content.usatoday.com",
+   "snippet": "Apr 9, 2012 ... Pastor Rick Warren's Easter interview with ABC covering the spiritual state of the   nation tossed a bone to Fido: All dogs go to heaven.",
+   "htmlSnippet": "Apr 9, 2012 \u003cb\u003e...\u003c/b\u003e Pastor \u003cb\u003eRick Warren&#39;s\u003c/b\u003e Easter interview with ABC covering the spiritual state of the \u003cbr\u003e  nation tossed a bone to Fido: All dogs go to heaven.",
+   "cacheId": "DkdwVXES8joJ",
+   "formattedUrl": "content.usatoday.com/communities/Religion/post/.../rick-warren.../1",
+   "htmlFormattedUrl": "content.usatoday.com/communities/Religion/post/.../\u003cb\u003erick\u003c/b\u003e-\u003cb\u003ewarren\u003c/b\u003e.../1",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://i.usatoday.net/communitymanager/_photos/faith-and-reason/2012/04/09/Warrenalonex-inset-community.jpg",
+      "type": "1",
+      "width": "182",
+      "height": "277"
+     }
+    ],
+    "metatags": [
+     {
+      "pubdate": "2012-04-09",
+      "pubtime": "2:34 PM",
+      "pubdatetime": "2012-04-09 2:34 PM",
+      "og:title": "Rick Warren: Dogs go to heaven, maybe not you",
+      "og:description": "Pastor Rick Warren's Easter interview with ABC covering the spiritual state of the nation tossed a bone to Fido: All dogs go to heaven.",
+      "og:type": "article",
+      "og:url": "http://content.usatoday.com/communities/Religion/post/2012/04/rick-warren-dogs-cats-heaven-jesus/1",
+      "og:image": "http://i.usatoday.net/communitymanager/_photos/faith-and-reason/2012/04/09/Warrenalonex-inset-community.jpg",
+      "og:site_name": "USATODAY.COM",
+      "fb:app_id": "295240677153728"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Rick Warren is an insulting choice - latimes.com",
+   "htmlTitle": "\u003cb\u003eRick Warren\u003c/b\u003e is an insulting choice - latimes.com",
+   "link": "http://www.latimes.com/news/opinion/la-oe-pollitt22-2008dec22,0,4243781.story",
+   "displayLink": "www.latimes.com",
+   "snippet": "Dec 22, 2008 ... To understand how angry and disappointed many Democrats are that Barack   Obama has invited evangelical preacher Rick Warren to give the ...",
+   "htmlSnippet": "Dec 22, 2008 \u003cb\u003e...\u003c/b\u003e To understand how angry and disappointed many Democrats are that Barack \u003cbr\u003e  Obama has invited evangelical preacher \u003cb\u003eRick Warren\u003c/b\u003e to give the \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "6TiPjW1PoqMJ",
+   "formattedUrl": "www.latimes.com/news/.../la-oe-pollitt22-2008dec22,0,4243781.story",
+   "htmlFormattedUrl": "www.latimes.com/news/.../la-oe-pollitt22-2008dec22,0,4243781.story",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.latimes.com/media/thumbnails/story/2008-12/44096306-19155459.jpg",
+      "type": "1",
+      "width": "112",
+      "height": "88"
+     }
+    ],
+    "metatags": [
+     {
+      "date": "2008-12-22",
+      "last-modified": "2008-12-22 12:28:28 PST",
+      "author": "Los Angeles Times",
+      "copyright": "Copyright (c) 2008 Los Angeles Times",
+      "fb_title": "Rick Warren is an insulting choice",
+      "og:title": "Rick Warren is an insulting choice",
+      "og:description": "To understand how angry and disappointed many  Democrats  are that  Barack Obama  has invited evangelical preacher  Rick Warren  to give the invocation at his inaugural, imagine if a President-elect John McCain had offered this unique honor to the  Rev. Al Sharpton  -- or the  Rev. Jeremiah A. Wright Jr. I know, it's hard to picture: John McCain would never do that in a million years.  Republicans  respect their base even when, as in McCain's case, it doesn't really return the favor.",
+      "fb:page_id": "5863113009",
+      "fb:admins": "100000786395051",
+      "fb:app_id": "121694484590917",
+      "og:type": "article",
+      "og:url": "http://www.latimes.com/news/opinion/la-oe-pollitt22-2008dec22,0,4243781.story",
+      "og:image": "http://www.latimes.com/media/thumbnails/story/2008-12/44096306-19155459.jpg",
+      "og:site_name": "latimes.com",
+      "y_key": "cee2fe4077f8d050",
+      "msvalidate.01": "AAC9C18F70AC386BC4DCF4DDF9BF1786",
+      "syndication-source": "http://www.latimes.com/news/opinion/la-oe-pollitt22-2008dec22,0,4243781.story"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Mike Lux: Rick Warren's Dependency",
+   "htmlTitle": "Mike Lux: \u003cb\u003eRick Warren&#39;s\u003c/b\u003e Dependency",
+   "link": "http://www.huffingtonpost.com/mike-lux/rick-warren-economy-_b_1415077.html",
+   "displayLink": "www.huffingtonpost.com",
+   "snippet": "Apr 10, 2012 ... Pastor Warren, you have every right to have whatever religious and political   beliefs you want to have, but don't proclaim you are preaching the ...",
+   "htmlSnippet": "Apr 10, 2012 \u003cb\u003e...\u003c/b\u003e Pastor \u003cb\u003eWarren\u003c/b\u003e, you have every right to have whatever religious and political \u003cbr\u003e  beliefs you want to have, but don&#39;t proclaim you are preaching the \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "_6AdZT9paosJ",
+   "formattedUrl": "www.huffingtonpost.com/.../rick-warren-economy-_b_1415077.html",
+   "htmlFormattedUrl": "www.huffingtonpost.com/.../\u003cb\u003erick\u003c/b\u003e-\u003cb\u003ewarren\u003c/b\u003e-economy-_b_1415077.html",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://s.huffpost.com/contributors/mike-lux/headshot.jpg"
+     }
+    ],
+    "Agent": [
+     {
+      "name": "Conservatives",
+      "homepage": "Conservatives"
+     }
+    ],
+    "metatags": [
+     {
+      "og:type": "article",
+      "og:url": "http://www.huffingtonpost.com/mike-lux/rick-warren-economy-_b_1415077.html",
+      "og:description": "Pastor Warren, you have every right to have whatever religious and political beliefs you want to have, but don't proclaim you are preaching the Christian Bible and then reject most of the things the people you are supposedly following said.",
+      "og:locale": "en_US",
+      "og:site_name": "The Huffington Post",
+      "og:title": "Rick Warren's Dependency",
+      "fb:app_id": "46744042133",
+      "category": "Politics",
+      "author": "Mike Lux",
+      "article:author": "http://www.huffingtonpost.com/mike-lux/",
+      "article:section": "Politics",
+      "publish_date": "Tue, 10 Apr 2012 12:04:45 EST",
+      "image": "http://s.huffpost.com/contributors/mike-lux/headshot.jpg",
+      "og:image": "http://s.huffpost.com/contributors/mike-lux/headshot.jpg"
+     }
+    ],
+    "Group": [
+     {
+      "name": "Republicans",
+      "homepage": "Republicans"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Pro-Life Rick Warren to Give Invocation at Obama Inauguration",
+   "htmlTitle": "Pro-Life \u003cb\u003eRick Warren\u003c/b\u003e to Give Invocation at Obama Inauguration",
+   "link": "http://www.cbn.com/CBNnews/503643.aspx",
+   "displayLink": "www.cbn.com",
+   "snippet": "Dec 17, 2008 ... Pro-life pastor Rick Warren will give the invocation at President-Elect Barack   Obama's inauguration. It makes a whole lot of sense. Even though ...",
+   "htmlSnippet": "Dec 17, 2008 \u003cb\u003e...\u003c/b\u003e Pro-life pastor \u003cb\u003eRick Warren\u003c/b\u003e will give the invocation at President-Elect Barack \u003cbr\u003e  Obama&#39;s inauguration. It makes a whole lot of sense. Even though \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "QxFHFRcq9JoJ",
+   "formattedUrl": "www.cbn.com/CBNnews/503643.aspx",
+   "htmlFormattedUrl": "www.cbn.com/CBNnews/503643.aspx",
+   "pagemap": {
+    "metatags": [
+     {
+      "author": "David Brody"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Bruce Wilson: Follow Jesus Like Nazis Followed Hitler, Rick Warren ...",
+   "htmlTitle": "Bruce Wilson: Follow Jesus Like Nazis Followed Hitler, \u003cb\u003eRick Warren\u003c/b\u003e \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://www.huffingtonpost.com/bruce-wilson/follow-jesus-like-nazis-f_b_158295.html",
+   "displayLink": "www.huffingtonpost.com",
+   "snippet": "Jan 15, 2009 ... During a 2005 speech, Pastor Rick Warren asked his followers to be as   committed to Jesus as the young Nazi men and women were to Adolf ...",
+   "htmlSnippet": "Jan 15, 2009 \u003cb\u003e...\u003c/b\u003e During a 2005 speech, Pastor \u003cb\u003eRick Warren\u003c/b\u003e asked his followers to be as \u003cbr\u003e  committed to Jesus as the young Nazi men and women were to Adolf \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "-9dyx4f8ylAJ",
+   "formattedUrl": "www.huffingtonpost.com/.../follow-jesus-like-nazis-f_b_158295.html",
+   "htmlFormattedUrl": "www.huffingtonpost.com/.../follow-jesus-like-nazis-f_b_158295.html",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://i.huffpost.com/gen/56049/thumbs/s-WARREN-small.jpg",
+      "type": "1",
+      "width": "93",
+      "height": "68"
+     }
+    ],
+    "Image": [
+     {
+      "title": "[source of Rick Warren speech audio clips used in video above: ...",
+      "description": "[source of Rick Warren speech audio clips used in video above: ..."
+     }
+    ],
+    "Agent": [
+     {
+      "name": "Obama's Inauguration",
+      "homepage": "Obama's Inauguration"
+     }
+    ],
+    "metatags": [
+     {
+      "og:type": "article",
+      "og:url": "http://www.huffingtonpost.com/bruce-wilson/follow-jesus-like-nazis-f_b_158295.html",
+      "og:description": "During a 2005 speech, Pastor Rick Warren asked his followers to be as committed to Jesus as the young Nazi men and women were to Adolf Hitler.",
+      "og:locale": "en_US",
+      "og:site_name": "The Huffington Post",
+      "og:title": "Follow Jesus Like Nazis Followed Hitler, Rick Warren Tells Stadium Crowd",
+      "fb:app_id": "46744042133",
+      "category": "Politics",
+      "author": "Bruce Wilson",
+      "article:author": "http://www.huffingtonpost.com/bruce-wilson/",
+      "article:section": "Politics",
+      "publish_date": "Sun, 15 Feb 2009 05:02:01 EST",
+      "image": "http://i.huffpost.com/gen/56049/thumbs/s-WARREN-small.jpg",
+      "og:image": "http://i.huffpost.com/gen/56049/thumbs/s-WARREN-small.jpg"
+     }
+    ],
+    "Group": [
+     {
+      "name": "Laurent Nkunda",
+      "homepage": "Laurent Nkunda"
+     }
+    ]
+   }
+  }
+ ]
+}

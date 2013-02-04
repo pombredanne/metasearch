@@ -1,0 +1,373 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "nextPage": [
+   {
+    "title": "Google Custom Search - rick warren",
+    "totalResults": "12800000",
+    "searchTerms": "rick warren",
+    "count": 10,
+    "startIndex": 11,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "017401104989814545383:mf4lavmtuva"
+   }
+  ],
+  "request": [
+   {
+    "title": "Google Custom Search - rick warren",
+    "totalResults": "12800000",
+    "searchTerms": "rick warren",
+    "count": 10,
+    "startIndex": 1,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "017401104989814545383:mf4lavmtuva"
+   }
+  ]
+ },
+ "context": {
+  "title": "College MetaSearch Comparison"
+ },
+ "searchInformation": {
+  "searchTime": 0.2279,
+  "formattedSearchTime": "0.23",
+  "totalResults": "12800000",
+  "formattedTotalResults": "12,800,000"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "Rick Warren - Wikipedia, the free encyclopedia",
+   "htmlTitle": "\u003cb\u003eRick Warren\u003c/b\u003e - Wikipedia, the free encyclopedia",
+   "link": "http://en.wikipedia.org/wiki/Rick_Warren",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "Richard Duane \"Rick\" Warren (born January 28, 1954) is an American   evangelical Christian minister and author. He is the founder and senior pastor of ...",
+   "htmlSnippet": "Richard Duane &quot;\u003cb\u003eRick\u003c/b\u003e&quot; \u003cb\u003eWarren\u003c/b\u003e (born January 28, 1954) is an American \u003cbr\u003e  evangelical Christian minister and author. He is the founder and senior pastor of \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "Y9qoSDYLCsEJ",
+   "formattedUrl": "en.wikipedia.org/wiki/Rick_Warren",
+   "htmlFormattedUrl": "en.wikipedia.org/wiki/\u003cb\u003eRick\u003c/b\u003e_\u003cb\u003eWarren\u003c/b\u003e",
+   "pagemap": {
+    "person": [
+     {
+      "role": "Pastor, Author"
+     }
+    ],
+    "hcard": [
+     {
+      "fn": "Rick Warren",
+      "nickname": "Richard Duane Warren",
+      "bday": "1954-01-28",
+      "role": "Pastor, Author",
+      "category": "American"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Rick Warren - Home",
+   "htmlTitle": "\u003cb\u003eRick Warren\u003c/b\u003e - Home",
+   "link": "http://www.rickwarren.com/",
+   "displayLink": "www.rickwarren.com",
+   "snippet": "Now in paperback! Rick Warren's #1 New York Times bestseller guides you on a   personal forty-day spiritual journey of discovery in search of answers to.",
+   "htmlSnippet": "Now in paperback! \u003cb\u003eRick Warren&#39;s\u003c/b\u003e #1 New York Times bestseller guides you on a \u003cbr\u003e  personal forty-day spiritual journey of discovery in search of answers to.",
+   "cacheId": "VcQ3l6XcQVoJ",
+   "formattedUrl": "www.rickwarren.com/",
+   "htmlFormattedUrl": "www.\u003cb\u003erickwarren\u003c/b\u003e.com/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.rickwarren.com/site/provider/siteprovider/rickwarren.com/images/books_hm_purposeofchristmas.png",
+      "type": "1",
+      "width": "54",
+      "height": "88"
+     }
+    ],
+    "metatags": [
+     {
+      "cache": "7/22/2012 12:47:58 AM",
+      "s": "1",
+      "url": "http://rickwarren.com/index.html"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Saddleback Church - Our Pastor",
+   "htmlTitle": "Saddleback Church - Our Pastor",
+   "link": "http://www.saddleback.com/aboutsaddleback/ourpastor/",
+   "displayLink": "www.saddleback.com",
+   "snippet": "Pastor Rick Warren. Pastor Rick Warren was born in San Jose, California. He   earned a Bachelor of Arts degree from California Baptist University, a Master of ...",
+   "htmlSnippet": "Pastor \u003cb\u003eRick Warren\u003c/b\u003e. Pastor \u003cb\u003eRick Warren\u003c/b\u003e was born in San Jose, California. He \u003cbr\u003e  earned a Bachelor of Arts degree from California Baptist University, a Master of \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "4dLO478cuToJ",
+   "formattedUrl": "www.saddleback.com/aboutsaddleback/ourpastor/",
+   "htmlFormattedUrl": "www.saddleback.com/aboutsaddleback/ourpastor/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.saddleback.com/site/provider/siteprovider/saddleback.com/templates/images/pastor_rick.jpg",
+      "type": "1",
+      "width": "128",
+      "height": "128"
+     }
+    ],
+    "metatags": [
+     {
+      "cache": "7/21/2012 1:05:13 AM",
+      "s": "1",
+      "url": "http://saddleback.com/aboutsaddleback/ourpastor.html"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Rick Warren (RickWarren) on Twitter",
+   "htmlTitle": "\u003cb\u003eRick Warren\u003c/b\u003e (\u003cb\u003eRickWarren\u003c/b\u003e) on Twitter",
+   "link": "http://twitter.com/RickWarren/",
+   "displayLink": "twitter.com",
+   "snippet": "Rick Warren. @RickWarren. I dont wear socks. I mentor young leaders & lead the   PEACE Plan serving the poor&sick globally. I love Saddleback, serve pastors ...",
+   "htmlSnippet": "\u003cb\u003eRick Warren\u003c/b\u003e. @\u003cb\u003eRickWarren\u003c/b\u003e. I dont wear socks. I mentor young leaders &amp; lead the \u003cbr\u003e  PEACE Plan serving the poor&amp;sick globally. I love Saddleback, serve pastors \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "otplgElWjrQJ",
+   "formattedUrl": "twitter.com/RickWarren/",
+   "htmlFormattedUrl": "twitter.com/\u003cb\u003eRickWarren\u003c/b\u003e/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://a0.twimg.com/profile_images/2290140006/9kgqn4j56qaseng0bbjr_reasonably_small.jpeg",
+      "type": "1",
+      "width": "69",
+      "height": "69"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Rick Warren - About Rick Warren",
+   "htmlTitle": "\u003cb\u003eRick Warren\u003c/b\u003e - About \u003cb\u003eRick Warren\u003c/b\u003e",
+   "link": "http://www.saddleback.com/betarw/about/rickwarren/",
+   "displayLink": "www.saddleback.com",
+   "snippet": "Dr. Rick Warren is passionate about attacking what he calls the five “Global   Goliaths” – spiritual emptiness, egocentric leadership, extreme poverty,   pandemic ...",
+   "htmlSnippet": "Dr. \u003cb\u003eRick Warren\u003c/b\u003e is passionate about attacking what he calls the five “Global \u003cbr\u003e  Goliaths” – spiritual emptiness, egocentric leadership, extreme poverty, \u003cbr\u003e  pandemic \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "Kf_dCh9SAd8J",
+   "formattedUrl": "www.saddleback.com/betarw/about/rickwarren/",
+   "htmlFormattedUrl": "www.saddleback.com/betarw/about/\u003cb\u003erickwarren\u003c/b\u003e/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.saddleback.com/site/provider/siteprovider/rickwarren.com/images/pic_rick.jpg",
+      "type": "1",
+      "width": "118",
+      "height": "148"
+     }
+    ],
+    "metatags": [
+     {
+      "cache": "7/21/2012 2:27:03 AM",
+      "s": "1",
+      "url": "http://saddleback.com/betarw/about/rickwarren.html"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Purpose Driven Life | Home",
+   "htmlTitle": "Purpose Driven Life | Home",
+   "link": "http://www.purposedrivenlife.com/",
+   "displayLink": "www.purposedrivenlife.com",
+   "snippet": "Self-help books suggest that people should look within, at their own desires and   dreams, but Rick Warren says the starting place must be with God and his ...",
+   "htmlSnippet": "Self-help books suggest that people should look within, at their own desires and \u003cbr\u003e  dreams, but \u003cb\u003eRick Warren\u003c/b\u003e says the starting place must be with God and his \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "N8hYOcoM3OoJ",
+   "formattedUrl": "www.purposedrivenlife.com/",
+   "htmlFormattedUrl": "www.purposedrivenlife.com/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.purposedrivenlife.com/site/provider/siteprovider/purposedrivenlife.com/templates/Purpose%20Driven%20Life%20Default/feature.jpg",
+      "type": "1",
+      "width": "280",
+      "height": "140"
+     }
+    ],
+    "metatags": [
+     {
+      "cache": "7/20/2012 5:05:07 PM",
+      "s": "1",
+      "url": "http://purposedrivenlife.com/index.html"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Rick Warren : Apprising Ministries",
+   "htmlTitle": "\u003cb\u003eRick Warren\u003c/b\u003e : Apprising Ministries",
+   "link": "http://apprising.org/category/rick-warren/",
+   "displayLink": "apprising.org",
+   "snippet": "8 hours ago ... Apprising Ministries continues to do our part to expose the sinful ecumenicism of   über-popular Southern Baptist megapastor Rick Warren of the ...",
+   "htmlSnippet": "8 hours ago \u003cb\u003e...\u003c/b\u003e Apprising Ministries continues to do our part to expose the sinful ecumenicism of \u003cbr\u003e  über-popular Southern Baptist megapastor \u003cb\u003eRick Warren\u003c/b\u003e of the \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "MnsUOzwUGEAJ",
+   "formattedUrl": "apprising.org/category/rick-warren/",
+   "htmlFormattedUrl": "apprising.org/category/\u003cb\u003erick\u003c/b\u003e-\u003cb\u003ewarren\u003c/b\u003e/"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Pastors.com ~ Healthy Pastors Leading Health Churches",
+   "htmlTitle": "Pastors.com ~ Healthy Pastors Leading Health Churches",
+   "link": "http://pastors.com/",
+   "displayLink": "pastors.com",
+   "snippet": "Years ago, I heard Rick Warren say, “The deepest teaching is teaching that   makes a difference in people's day-to-day lives.” That simple statement   challenged ...",
+   "htmlSnippet": "Years ago, I heard \u003cb\u003eRick Warren\u003c/b\u003e say, “The deepest teaching is teaching that \u003cbr\u003e  makes a difference in people&#39;s day-to-day lives.” That simple statement \u003cbr\u003e  challenged \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "0VR2CmQO3F8J",
+   "formattedUrl": "pastors.com/",
+   "htmlFormattedUrl": "pastors.com/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://pastors.com/wp-content/uploads/2012/02/Color.ofCross.pcom_-280x165.jpg",
+      "type": "1",
+      "width": "224",
+      "height": "132"
+     }
+    ],
+    "metatags": [
+     {
+      "viewport": "width=device-width, initial-scale=1.0",
+      "http://ogp.me/ns#locale": "en_US",
+      "http://ogp.me/ns#site_name": "Pastors.com",
+      "http://ogp.me/ns#type": "website",
+      "http://ogp.me/ns#title": "Pastors.com",
+      "http://ogp.me/ns#description": "Healthy Pastors Leading Health Churches",
+      "http://ogp.me/ns/fb#app_id": "176427652457413"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Rick Warren: A life of purpose | Video on TED.com",
+   "htmlTitle": "\u003cb\u003eRick Warren\u003c/b\u003e: A life of purpose | Video on TED.com",
+   "link": "http://www.ted.com/talks/rick_warren_on_a_life_of_purpose.html",
+   "displayLink": "www.ted.com",
+   "snippet": "TED Talks Pastor Rick Warren, author of The Purpose-Driven Life, reflects on his   own crisis of purpose in the wake of his book's wild success. He explains his ...",
+   "htmlSnippet": "TED Talks Pastor \u003cb\u003eRick Warren\u003c/b\u003e, author of The Purpose-Driven Life, reflects on his \u003cbr\u003e  own crisis of purpose in the wake of his book&#39;s wild success. He explains his \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "IAzU5a7RxH4J",
+   "formattedUrl": "www.ted.com/talks/rick_warren_on_a_life_of_purpose.html",
+   "htmlFormattedUrl": "www.ted.com/talks/\u003cb\u003erick\u003c/b\u003e_\u003cb\u003ewarren\u003c/b\u003e_on_a_life_of_purpose.html",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://images.ted.com/images/ted/195_113x85.jpg",
+      "type": "1",
+      "width": "92",
+      "height": "69"
+     }
+    ],
+    "metatags": [
+     {
+      "title": "Rick Warren: A life of purpose | Video on TED.com",
+      "medium": "video",
+      "language": "en",
+      "og:title": "Rick Warren: A life of purpose | Video on TED.com",
+      "og:description": "TED Talks Pastor Rick Warren, author of \u003cem\u003eThe Purpose-Driven Life,\u003c/em\u003e reflects on his own crisis of purpose in the wake of his book's wild success. He explains his belief that God's intention is for each of us to use our talents and influence to do good.",
+      "og:image": "http://images.ted.com/images/ted/229_389x292.jpg",
+      "og:url": "http://www.ted.com/talks/rick_warren_on_a_life_of_purpose.html",
+      "og:type": "video.other",
+      "video:tag": "TED",
+      "video:duration": "1262",
+      "video:release_date": "1153181460",
+      "fb:app_id": "201021956610141"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Saddleback Church",
+   "htmlTitle": "Saddleback Church",
+   "link": "http://www.saddleback.com/",
+   "displayLink": "www.saddleback.com",
+   "snippet": "... Project City Hope · Purpose Driven · Purpose Driven Life · Rick Warren ·   Rwanda Health Care · Saddleback Resources · The Daniel Plan · The PEACE   Plan ...",
+   "htmlSnippet": "\u003cb\u003e...\u003c/b\u003e Project City Hope &middot; Purpose Driven &middot; Purpose Driven Life &middot; \u003cb\u003eRick Warren\u003c/b\u003e &middot; \u003cbr\u003e  Rwanda Health Care &middot; Saddleback Resources &middot; The Daniel Plan &middot; The PEACE \u003cbr\u003e  Plan \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "gB8jKESTvG0J",
+   "formattedUrl": "www.saddleback.com/",
+   "htmlFormattedUrl": "www.saddleback.com/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.saddleback.com/site/provider/siteprovider/saddleback.com/templates/saddleback%20home%20default/serviceminutesaway.jpg",
+      "type": "1",
+      "width": "286",
+      "height": "176"
+     }
+    ],
+    "hcalendar": [
+     {
+      "dtstart": "2012-07-22",
+      "summary": "HSM Summer Camp"
+     },
+     {
+      "dtstart": "2012-07-22",
+      "summary": "Sign up for Kids Small..."
+     },
+     {
+      "dtstart": "2012-07-22",
+      "summary": "Baptisms at Corona..."
+     },
+     {
+      "dtstart": "2012-07-22",
+      "summary": "Praise Gospel Venue -..."
+     },
+     {
+      "dtstart": "2012-07-22",
+      "summary": "Baptisms - On Campus"
+     },
+     {
+      "dtstart": "2012-07-22",
+      "summary": "Baptisms at Rancho..."
+     },
+     {
+      "dtstart": "2012-07-22",
+      "summary": "Children's Baptism"
+     },
+     {
+      "dtstart": "2012-07-22",
+      "summary": "Praise Gospel Venue -..."
+     },
+     {
+      "dtstart": "2012-07-22",
+      "summary": "SC High School Camp"
+     },
+     {
+      "dtstart": "2012-07-22",
+      "summary": "Leadership Training 1"
+     }
+    ],
+    "event": [
+     {
+      "dtstart": "2012-07-22",
+      "summary": "HSM Summer Camp"
+     }
+    ],
+    "metatags": [
+     {
+      "cache": "7/22/2012 2:46:10 AM",
+      "s": "1",
+      "url": "http://saddleback.com/index.html",
+      "title": "Saddleback Church - One Family... Many Locations"
+     }
+    ]
+   }
+  }
+ ]
+}

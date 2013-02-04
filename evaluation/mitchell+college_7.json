@@ -1,0 +1,272 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "nextPage": [
+   {
+    "title": "Google Custom Search - mitchell college",
+    "totalResults": "20300000",
+    "searchTerms": "mitchell college",
+    "count": 10,
+    "startIndex": 81,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "017401104989814545383:mf4lavmtuva"
+   }
+  ],
+  "request": [
+   {
+    "title": "Google Custom Search - mitchell college",
+    "totalResults": "20300000",
+    "searchTerms": "mitchell college",
+    "count": 10,
+    "startIndex": 71,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "017401104989814545383:mf4lavmtuva"
+   }
+  ],
+  "previousPage": [
+   {
+    "title": "Google Custom Search - mitchell college",
+    "totalResults": "20300000",
+    "searchTerms": "mitchell college",
+    "count": 10,
+    "startIndex": 61,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "017401104989814545383:mf4lavmtuva"
+   }
+  ]
+ },
+ "context": {
+  "title": "College MetaSearch Comparison"
+ },
+ "searchInformation": {
+  "searchTime": 0.230959,
+  "formattedSearchTime": "0.23",
+  "totalResults": "20300000",
+  "formattedTotalResults": "20,300,000"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "Hotels near Mitchell College - New London, Connecticut",
+   "htmlTitle": "Hotels near \u003cb\u003eMitchell College\u003c/b\u003e - New London, Connecticut",
+   "link": "http://hotelguides.com/colleges/connecticut/mitchell-college.html",
+   "displayLink": "hotelguides.com",
+   "snippet": "Compare discount rates for hotels and motels near the Mitchell College campus.   Mitchell College is located in New London, Connecticut CT.",
+   "htmlSnippet": "Compare discount rates for hotels and motels near the \u003cb\u003eMitchell College\u003c/b\u003e campus. \u003cbr\u003e  \u003cb\u003eMitchell College\u003c/b\u003e is located in New London, Connecticut CT.",
+   "cacheId": "5t5_eIbbW60J",
+   "formattedUrl": "hotelguides.com/colleges/connecticut/mitchell-college.html",
+   "htmlFormattedUrl": "hotelguides.com/\u003cb\u003ecolleges\u003c/b\u003e/connecticut/\u003cb\u003emitchell\u003c/b\u003e-\u003cb\u003ecollege\u003c/b\u003e.html",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://hotels.hotelguides.com/i/thumbs/109845.jpg",
+      "type": "1",
+      "width": "240",
+      "height": "182"
+     }
+    ],
+    "metatags": [
+     {
+      "og:image": "http://hotelguides.com/i/hg-logo-p.jpg"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Frequent Questions - Admissions - William Mitchell College of Law",
+   "htmlTitle": "Frequent Questions - Admissions - William \u003cb\u003eMitchell College\u003c/b\u003e of Law",
+   "link": "http://www.wmitchell.edu/admissions/deciding/frequent-questions.html",
+   "displayLink": "www.wmitchell.edu",
+   "snippet": "William Mitchell has been accredited by the American Bar Association since   1938. The college is also a member of the Association of American Law Schools ...",
+   "htmlSnippet": "William \u003cb\u003eMitchell\u003c/b\u003e has been accredited by the American Bar Association since \u003cbr\u003e  1938. The \u003cb\u003ecollege\u003c/b\u003e is also a member of the Association of American Law Schools \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "_Pb0G5k75gwJ",
+   "formattedUrl": "www.wmitchell.edu/admissions/deciding/frequent-questions.html",
+   "htmlFormattedUrl": "www.w\u003cb\u003emitchell\u003c/b\u003e.edu/admissions/deciding/frequent-questions.html",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.wmitchell.edu/images/2010/people-sign-web.jpg",
+      "type": "1",
+      "width": "348",
+      "height": "145"
+     }
+    ],
+    "metatags": [
+     {
+      "language": "en-US"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Golf",
+   "htmlTitle": "Golf",
+   "link": "http://mitchellathletics.com/sports/mgolf/index",
+   "displayLink": "mitchellathletics.com",
+   "snippet": "The Mitchell College men's golf team finished 15th at the Worcester State   Invitational on Tuesday at Blackstone National Golf Club. Men's Golf Wraps Up   Play at ...",
+   "htmlSnippet": "The \u003cb\u003eMitchell College\u003c/b\u003e men&#39;s golf team finished 15th at the Worcester State \u003cbr\u003e  Invitational on Tuesday at Blackstone National Golf Club. Men&#39;s Golf Wraps Up \u003cbr\u003e  Play at \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "b1V-EIF35joJ",
+   "formattedUrl": "mitchellathletics.com/sports/mgolf/index",
+   "htmlFormattedUrl": "\u003cb\u003emitchell\u003c/b\u003eathletics.com/sports/mgolf/index",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://mitchellathletics.com/images/mgolf/1-green-sunrise.jpg?max_width=117&max_height=78&crop=true",
+      "type": "1",
+      "width": "97",
+      "height": "64"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Mitchell Community College - Mooresville Center",
+   "htmlTitle": "\u003cb\u003eMitchell\u003c/b\u003e Community \u003cb\u003eCollege\u003c/b\u003e - Mooresville Center",
+   "link": "http://www.mitchellcc.edu/mooresville/",
+   "displayLink": "www.mitchellcc.edu",
+   "snippet": "A Student Services Admission Specialist/ Counselor is available to assist   students with the admissions process, college placement testing, academic   advising, ...",
+   "htmlSnippet": "A Student Services Admission Specialist/ Counselor is available to assist \u003cbr\u003e  students with the admissions process, \u003cb\u003ecollege\u003c/b\u003e placement testing, academic \u003cbr\u003e  advising, \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "4p2j670xzmkJ",
+   "formattedUrl": "www.mitchellcc.edu/mooresville/",
+   "htmlFormattedUrl": "www.\u003cb\u003emitchell\u003c/b\u003ecc.edu/mooresville/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.mitchellcc.edu/images/mooresville/mooresville-ctr-photo.jpg",
+      "type": "1",
+      "width": "240",
+      "height": "180"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Mitchell",
+   "htmlTitle": "\u003cb\u003eMitchell\u003c/b\u003e",
+   "link": "http://www.athletics2000.com/mitchell/",
+   "displayLink": "www.athletics2000.com",
+   "snippet": "",
+   "htmlSnippet": "",
+   "cacheId": "4qinE_f6uQ4J",
+   "formattedUrl": "www.athletics2000.com/mitchell/",
+   "htmlFormattedUrl": "www.athletics2000.com/\u003cb\u003emitchell\u003c/b\u003e/"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Sailing",
+   "htmlTitle": "Sailing",
+   "link": "http://mitchellathletics.com/sports/sailing/index",
+   "displayLink": "mitchellathletics.com",
+   "snippet": "Sailing Withdraws from New England Dinghy Tournament April 8, 2012 The   Mitchell College sailing team finished 10th out of 10 teams at the 32nd New ...",
+   "htmlSnippet": "Sailing Withdraws from New England Dinghy Tournament April 8, 2012 The \u003cbr\u003e  \u003cb\u003eMitchell College\u003c/b\u003e sailing team finished 10th out of 10 teams at the 32nd New \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "mZjN7Gga44YJ",
+   "formattedUrl": "mitchellathletics.com/sports/sailing/index",
+   "htmlFormattedUrl": "\u003cb\u003emitchell\u003c/b\u003eathletics.com/sports/sailing/index",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://mitchellathletics.com/images/sailing/10_Action/act_sail_boat10-01.jpg?max_width=480&max_height=320&crop=true",
+      "type": "1",
+      "width": "275",
+      "height": "183"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Commencement 2012 - Mitchell College",
+   "htmlTitle": "Commencement 2012 - \u003cb\u003eMitchell College\u003c/b\u003e",
+   "link": "http://community.mitchell.edu/sslpage.aspx?pid=725",
+   "displayLink": "community.mitchell.edu",
+   "snippet": "GRAD FAIR. Tuesday, May 8 – 1:00-4:00 p.m., Weller Center. Graduates are   requested to attend this one-stop shop to finalize their business with College ...",
+   "htmlSnippet": "GRAD FAIR. Tuesday, May 8 – 1:00-4:00 p.m., Weller Center. Graduates are \u003cbr\u003e  requested to attend this one-stop shop to finalize their business with \u003cb\u003eCollege\u003c/b\u003e \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "CSS5uKctAh4J",
+   "formattedUrl": "community.mitchell.edu/sslpage.aspx?pid=725",
+   "htmlFormattedUrl": "community.\u003cb\u003emitchell\u003c/b\u003e.edu/sslpage.aspx?pid=725",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.mitchell.edu/commencement/grad.jpg",
+      "type": "1",
+      "width": "319",
+      "height": "158"
+     }
+    ],
+    "metatags": [
+     {
+      "vs_targetschema": "http://schemas.microsoft.com/intellisense/ie5",
+      "last-modified": "7/16/2012 7:00:28 PM"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Official Site Mitchell College Athletics",
+   "htmlTitle": "Official Site \u003cb\u003eMitchell College\u003c/b\u003e Athletics",
+   "link": "http://www.mitchellathletics.com/athletics/Directions/index",
+   "displayLink": "www.mitchellathletics.com",
+   "snippet": "Yarnall Athletic Center and Alumni Fields at Mitchell College · Shennecossett   Golf Club in Groton, CT Away Competitions Opponents Emergency Services ...",
+   "htmlSnippet": "Yarnall Athletic Center and Alumni Fields at \u003cb\u003eMitchell College\u003c/b\u003e &middot; Shennecossett \u003cbr\u003e  Golf Club in Groton, CT Away Competitions Opponents Emergency Services \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "kcETzA1WPMUJ",
+   "formattedUrl": "www.mitchellathletics.com/athletics/Directions/index",
+   "htmlFormattedUrl": "www.\u003cb\u003emitchell\u003c/b\u003eathletics.com/athletics/Directions/index"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Dakota Wesleyan University in Mitchell SD",
+   "htmlTitle": "Dakota Wesleyan University in \u003cb\u003eMitchell\u003c/b\u003e SD",
+   "link": "http://www.dwu.edu/",
+   "displayLink": "www.dwu.edu",
+   "snippet": "The annual Community Plunge invites Mitchell area businesses and   organizations to register for this ... DWU featured once again as 'College of   Distinction ...",
+   "htmlSnippet": "The annual Community Plunge invites \u003cb\u003eMitchell\u003c/b\u003e area businesses and \u003cbr\u003e  organizations to register for this \u003cb\u003e...\u003c/b\u003e DWU featured once again as &#39;\u003cb\u003eCollege\u003c/b\u003e of \u003cbr\u003e  Distinction \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "wQy2x8TSAh4J",
+   "formattedUrl": "www.dwu.edu/",
+   "htmlFormattedUrl": "www.dwu.edu/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.dwu.edu/images/Update-DWU-Info.png",
+      "type": "1",
+      "width": "230",
+      "height": "192"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Application Requirements and Instructions - William Mitchell College ...",
+   "htmlTitle": "Application Requirements and Instructions - William \u003cb\u003eMitchell College\u003c/b\u003e \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://www.wmitchell.edu/admissions/applying/admission-requirements.html",
+   "displayLink": "www.wmitchell.edu",
+   "snippet": "William Mitchell requires that students earn a bachelor's degree before entering   law school. Applicants must subscribe to and have their college transcripts sent ...",
+   "htmlSnippet": "William \u003cb\u003eMitchell\u003c/b\u003e requires that students earn a bachelor&#39;s degree before entering \u003cbr\u003e  law school. Applicants must subscribe to and have their \u003cb\u003ecollege\u003c/b\u003e transcripts sent \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "_Y7ocCjXi_MJ",
+   "formattedUrl": "www.wmitchell.edu/admissions/.../admission-requirements.html",
+   "htmlFormattedUrl": "www.w\u003cb\u003emitchell\u003c/b\u003e.edu/admissions/.../admission-requirements.html",
+   "pagemap": {
+    "metatags": [
+     {
+      "language": "en-US"
+     }
+    ]
+   }
+  }
+ ]
+}

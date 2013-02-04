@@ -1,0 +1,368 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "nextPage": [
+   {
+    "title": "Google Custom Search - the current",
+    "totalResults": "1650000000",
+    "searchTerms": "the current",
+    "count": 10,
+    "startIndex": 61,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "017401104989814545383:mf4lavmtuva"
+   }
+  ],
+  "request": [
+   {
+    "title": "Google Custom Search - the current",
+    "totalResults": "1650000000",
+    "searchTerms": "the current",
+    "count": 10,
+    "startIndex": 51,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "017401104989814545383:mf4lavmtuva"
+   }
+  ],
+  "previousPage": [
+   {
+    "title": "Google Custom Search - the current",
+    "totalResults": "1650000000",
+    "searchTerms": "the current",
+    "count": 10,
+    "startIndex": 41,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "017401104989814545383:mf4lavmtuva"
+   }
+  ]
+ },
+ "context": {
+  "title": "College MetaSearch Comparison"
+ },
+ "searchInformation": {
+  "searchTime": 0.157412,
+  "formattedSearchTime": "0.16",
+  "totalResults": "1650000000",
+  "formattedTotalResults": "1,650,000,000"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "The Petal on the Current - Wikipedia, the free encyclopedia",
+   "htmlTitle": "The Petal on \u003cb\u003ethe Current\u003c/b\u003e - Wikipedia, the free encyclopedia",
+   "link": "http://en.wikipedia.org/wiki/The_Petal_on_the_Current",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "English intertitles. The Petal on the Current is a 1919 drama film directed by Tod   Browning. [edit] Cast. Mary MacLaren - Stella Schump; Gertrude Claire - Stella's ...",
+   "htmlSnippet": "English intertitles. The Petal on \u003cb\u003ethe Current\u003c/b\u003e is a 1919 drama film directed by Tod \u003cbr\u003e  Browning. [edit] Cast. Mary MacLaren - Stella Schump; Gertrude Claire - Stella&#39;s \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "h_BPurEzW4QJ",
+   "formattedUrl": "en.wikipedia.org/wiki/The_Petal_on_the_Current",
+   "htmlFormattedUrl": "en.wikipedia.org/wiki/The_Petal_on_\u003cb\u003ethe_Current\u003c/b\u003e"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "89.3 The Current - YouTube",
+   "htmlTitle": "89.3 \u003cb\u003eThe Current\u003c/b\u003e - YouTube",
+   "link": "http://www.youtube.com/user/893TheCurrent",
+   "displayLink": "www.youtube.com",
+   "snippet": "The Current brings listeners the best authentic new music alongside music that   explores roots and influences. Listeners to The Current hear live DJs who hand ...",
+   "htmlSnippet": "\u003cb\u003eThe Current\u003c/b\u003e brings listeners the best authentic new music alongside music that \u003cbr\u003e  explores roots and influences. Listeners to \u003cb\u003eThe Current\u003c/b\u003e hear live DJs who hand \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "Aj-UgHOL1ZsJ",
+   "formattedUrl": "www.youtube.com/user/893TheCurrent",
+   "htmlFormattedUrl": "www.youtube.com/user/893\u003cb\u003eTheCurrent\u003c/b\u003e",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://i2.ytimg.com/vi/iKIegJH7Mdc/mqdefault.jpg",
+      "type": "1",
+      "width": "256",
+      "height": "144"
+     }
+    ],
+    "metatags": [
+     {
+      "title": "89.3 The Current",
+      "og:image": "//i2.ytimg.com/i/AKcSON6PSG_JkTbXh2WdIg/1.jpg?v=bf7207"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "The Walkmen perform in The Current studio | The Current from ...",
+   "htmlTitle": "The Walkmen perform in \u003cb\u003eThe Current\u003c/b\u003e studio | \u003cb\u003eThe Current\u003c/b\u003e from \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://minnesota.publicradio.org/display/web/2012/07/01/walkmen-live/",
+   "displayLink": "minnesota.publicradio.org",
+   "snippet": "Jul 1, 2012 ... The New York City-based quintet the Walkmen have cemented their status as   one of indie rock's most accomplished and talented acts in the ...",
+   "htmlSnippet": "Jul 1, 2012 \u003cb\u003e...\u003c/b\u003e The New York City-based quintet the Walkmen have cemented their status as \u003cbr\u003e  one of indie rock&#39;s most accomplished and talented acts in the \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "RKZZ7XzZ4U0J",
+   "formattedUrl": "minnesota.publicradio.org/display/web/2012/07/01/walkmen-live/",
+   "htmlFormattedUrl": "minnesota.publicradio.org/display/web/2012/07/01/walkmen-live/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://images.publicradio.org/content/2012/07/02/20120702_walkmen2_45.jpg",
+      "type": "1",
+      "width": "275",
+      "height": "183"
+     }
+    ],
+    "metatags": [
+     {
+      "title": "The Walkmen perform in The Current studio",
+      "date": "2012-07-01",
+      "author": "Minnesota Public Radio",
+      "fb:admins": "517623060",
+      "og:title": "The Walkmen perform in The Current studio",
+      "og:site_name": "The Current from Minnesota Public Radio",
+      "og:image": "http://images.publicradio.org/content/2012/07/02/20120702_walkmen2_45.jpg",
+      "og:type": "video.other",
+      "og:video": "http://www.youtube.com/v/Uw-lPc1wSJM?version=3&autohide=1",
+      "og:video:height": "340",
+      "og:video:width": "596",
+      "og:video:type": "application/x-shockwave-flash",
+      "mpr-site": "the-current",
+      "wt.z_mpr-site": "the-current",
+      "mpr-collection": "Arts & Culture",
+      "wt.cg_n": "Current Arts & Culture",
+      "mpr-media": "audio"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Biographies of Current Justices of the Supreme Court",
+   "htmlTitle": "Biographies of \u003cb\u003eCurrent\u003c/b\u003e Justices of the Supreme Court",
+   "link": "http://www.supremecourt.gov/about/biographies.aspx",
+   "displayLink": "www.supremecourt.gov",
+   "snippet": "All Documents Docket Files For Search Term: Skip Navigation Links Home |   About the Supreme Court | Biographies of Current Justices of the Supreme Court ...",
+   "htmlSnippet": "All Documents Docket Files For Search Term: Skip Navigation Links Home | \u003cbr\u003e  About the Supreme Court | Biographies of \u003cb\u003eCurrent\u003c/b\u003e Justices of the Supreme Court \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "IsJYjFsiQZcJ",
+   "formattedUrl": "www.supremecourt.gov/about/biographies.aspx",
+   "htmlFormattedUrl": "www.supremecourt.gov/about/biographies.aspx",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.supremecourt.gov/about/justice_pictures/AKennedy.jpg",
+      "type": "1",
+      "width": "121",
+      "height": "138"
+     }
+    ],
+    "metatags": [
+     {
+      "viewport": "width=device-width, initial-scale=0.7",
+      "author": "Supreme Court of the United States",
+      "title": "Biographies of Current Justices of the Supreme Court",
+      "created": "9/30/2010 10:38:54 AM",
+      "revised": "6/1/2012 8:05:19 AM"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "The Current Magazine: Music, Arts, Food, Theater and Things to Do ...",
+   "htmlTitle": "\u003cb\u003eThe Current\u003c/b\u003e Magazine: Music, Arts, Food, Theater and Things to Do \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://www.ecurrent.com/",
+   "displayLink": "www.ecurrent.com",
+   "snippet": "Guide to area concert, onstage, cinema, and alternative events.",
+   "htmlSnippet": "Guide to area concert, onstage, cinema, and alternative events.",
+   "cacheId": "OQzFCasemYMJ",
+   "formattedUrl": "www.ecurrent.com/",
+   "htmlFormattedUrl": "www.e\u003cb\u003ecurrent\u003c/b\u003e.com/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.ecurrent.com/images/cache/bdd69da7d75367d7bef455534c3bd732.jpeg",
+      "type": "1",
+      "width": "120",
+      "height": "90"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Home | The Carthage Current",
+   "htmlTitle": "Home | The Carthage \u003cb\u003eCurrent\u003c/b\u003e",
+   "link": "http://current.carthage.edu/",
+   "displayLink": "current.carthage.edu",
+   "snippet": "Syndicate. Syndicate content. © 2012 Carthage College. All rights Reserved ::   2001 Alford Park Drive, Kenosha, Wisconsin 53140 :: Contact the Current.",
+   "htmlSnippet": "Syndicate. Syndicate content. © 2012 Carthage College. All rights Reserved :: \u003cbr\u003e  2001 Alford Park Drive, Kenosha, Wisconsin 53140 :: Contact \u003cb\u003ethe Current\u003c/b\u003e.",
+   "cacheId": "gSmFyIhFOJQJ",
+   "formattedUrl": "current.carthage.edu/",
+   "htmlFormattedUrl": "\u003cb\u003ecurrent\u003c/b\u003e.carthage.edu/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://current.carthage.edu/sites/carthage.edu/files/imagecache/news_item_image_large/suess_a_thon_2011_pa_041.jpg",
+      "type": "1",
+      "width": "275",
+      "height": "183"
+     }
+    ],
+    "metatags": [
+     {
+      "og:title": "Home",
+      "og:site_name": "The Carthage Current"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "World Population - The Current World Population",
+   "htmlTitle": "World Population - \u003cb\u003eThe Current\u003c/b\u003e World Population",
+   "link": "http://geography.about.com/od/obtainpopulationdata/a/worldpopulation.htm",
+   "displayLink": "geography.about.com",
+   "snippet": "Discover the current world population and historic world population totals and   growth since the year one, from your About.com Guide to Geography.",
+   "htmlSnippet": "Discover \u003cb\u003ethe current\u003c/b\u003e world population and historic world population totals and \u003cbr\u003e  growth since the year one, from your About.com Guide to Geography.",
+   "cacheId": "bhMzYFHlsD4J",
+   "formattedUrl": "geography.about.com/od/.../a/worldpopulation.htm",
+   "htmlFormattedUrl": "geography.about.com/od/.../a/worldpopulation.htm",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://0.tqn.com/d/geography/1/G/6/6/1/84599498.jpg"
+     }
+    ],
+    "article": [
+     {
+      "title": "Current World Population",
+      "type": "article",
+      "image": "http://0.tqn.com/d/geography/1/G/6/6/1/84599498.jpg",
+      "url": "http://geography.about.com/od/obtainpopulationdata/a/worldpopulation.htm",
+      "site_name": "About.com Geography",
+      "app_id": "121030274606741",
+      "link-type-author": "Matt Rosenberg"
+     }
+    ],
+    "metatags": [
+     {
+      "pd": "Wednesday, 18-Jul-2012 14:06:46 UTC",
+      "og:title": "Current World Population",
+      "og:type": "article",
+      "og:image": "http://0.tqn.com/d/geography/1/G/6/6/1/84599498.jpg",
+      "og:url": "http://geography.about.com/od/obtainpopulationdata/a/worldpopulation.htm",
+      "og:site_name": "About.com Geography",
+      "fb:app_id": "121030274606741"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Los Campesinos! perform live in The Current studio | The Current ...",
+   "htmlTitle": "Los Campesinos! perform live in \u003cb\u003eThe Current\u003c/b\u003e studio | \u003cb\u003eThe Current\u003c/b\u003e \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://minnesota.publicradio.org/display/web/2012/01/30/los-campesinos/",
+   "displayLink": "minnesota.publicradio.org",
+   "snippet": "Jan 30, 2012 ... On the heels of their third and most recent record, \"Hello Sadness,\" they stopped   by The Current studios to chat with Mary Lucia and play a few ...",
+   "htmlSnippet": "Jan 30, 2012 \u003cb\u003e...\u003c/b\u003e On the heels of their third and most recent record, &quot;Hello Sadness,&quot; they stopped \u003cbr\u003e  by \u003cb\u003eThe Current\u003c/b\u003e studios to chat with Mary Lucia and play a few \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "-VI4SYXqqvIJ",
+   "formattedUrl": "minnesota.publicradio.org/display/web/2012/01/.../los-campesinos/",
+   "htmlFormattedUrl": "minnesota.publicradio.org/display/web/2012/01/.../los-campesinos/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://images.publicradio.org/content/2012/01/30/20120130_los_campesinos_45.jpg",
+      "type": "1",
+      "width": "276",
+      "height": "172"
+     }
+    ],
+    "metatags": [
+     {
+      "title": "Los Campesinos! perform live in The Current studio",
+      "date": "2012-01-30",
+      "author": "Minnesota Public Radio",
+      "fb:admins": "517623060",
+      "og:title": "Los Campesinos! perform live in The Current studio",
+      "og:site_name": "The Current from Minnesota Public Radio",
+      "og:image": "http://images.publicradio.org/content/2012/01/30/20120130_los_campesinos_45.jpg",
+      "og:type": "video.other",
+      "og:video": "http://c.brightcove.com/services/viewer/federated_f9/1352534333001?isVid=1&isUI=1&publisherID=54694255001&playerID=1352534333001&domain=embed&videoId=1428138001001",
+      "og:video:secure_url": "https://secure.brightcove.com/services/viewer/federated_f9/54694255001?isVid=1&isUI=1&playerID=1352534333001&videoId=1428138001001&secureConnections=true",
+      "og:video:height": "329",
+      "og:video:width": "585",
+      "og:video:type": "application/x-shockwave-flash",
+      "mpr-site": "the-current",
+      "wt.z_mpr-site": "the-current",
+      "mpr-collection": "Arts & Culture",
+      "wt.cg_n": "Current Arts & Culture",
+      "mpr-media": "audio"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Current Electricity",
+   "htmlTitle": "\u003cb\u003eCurrent\u003c/b\u003e Electricity",
+   "link": "http://library.thinkquest.org/10796/ch13/ch13.htm",
+   "displayLink": "library.thinkquest.org",
+   "snippet": "The flow of charge is called the current and it is the rate at which electric charges   pass though a conductor. The charged particle can be either positive or ...",
+   "htmlSnippet": "The flow of charge is called \u003cb\u003ethe current\u003c/b\u003e and it is the rate at which electric charges \u003cbr\u003e  pass though a conductor. The charged particle can be either positive or \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "ouaKLDqcM88J",
+   "formattedUrl": "library.thinkquest.org/10796/ch13/ch13.htm",
+   "htmlFormattedUrl": "library.thinkquest.org/10796/ch13/ch13.htm",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://library.thinkquest.org/10796/ch13/image/dividedI.gif",
+      "type": "1",
+      "width": "71",
+      "height": "97"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "JD McPherson performs in The Current studios | The Current from ...",
+   "htmlTitle": "JD McPherson performs in \u003cb\u003eThe Current\u003c/b\u003e studios | \u003cb\u003eThe Current\u003c/b\u003e from \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://minnesota.publicradio.org/display/web/2012/07/06/jd-mcpherson-performs-in-the-current-studios/",
+   "displayLink": "minnesota.publicradio.org",
+   "snippet": "Jul 7, 2012 ... \"Signs and Signifiers,\" the debut record from bluesy, rockabilly artist JD   McPherson, was rereleased by Rounder Records earlier this year.",
+   "htmlSnippet": "Jul 7, 2012 \u003cb\u003e...\u003c/b\u003e &quot;Signs and Signifiers,&quot; the debut record from bluesy, rockabilly artist JD \u003cbr\u003e  McPherson, was rereleased by Rounder Records earlier this year.",
+   "cacheId": "sgaAFsN613sJ",
+   "formattedUrl": "minnesota.publicradio.org/.../jd-mcpherson-performs-in-the-current-studios/",
+   "htmlFormattedUrl": "minnesota.publicradio.org/.../jd-mcpherson-performs-in-\u003cb\u003ethe-current\u003c/b\u003e-studios/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://images.publicradio.org/content/2012/07/06/20120706_jd_mcpherson_45.jpg",
+      "type": "1",
+      "width": "260",
+      "height": "194"
+     }
+    ],
+    "metatags": [
+     {
+      "title": "JD McPherson performs in The Current studios",
+      "date": "2012-07-07",
+      "author": "Minnesota Public Radio",
+      "fb:admins": "517623060",
+      "og:title": "JD McPherson performs in The Current studios",
+      "og:site_name": "The Current from Minnesota Public Radio",
+      "og:image": "http://images.publicradio.org/content/2012/07/06/20120706_jd_mcpherson_45.jpg",
+      "mpr-site": "the-current",
+      "wt.z_mpr-site": "the-current",
+      "mpr-collection": "Music",
+      "wt.cg_n": "Current Music",
+      "mpr-media": "audio"
+     }
+    ]
+   }
+  }
+ ]
+}

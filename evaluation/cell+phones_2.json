@@ -1,0 +1,323 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "nextPage": [
+   {
+    "title": "Google Custom Search - cell phones",
+    "totalResults": "164000000",
+    "searchTerms": "cell phones",
+    "count": 10,
+    "startIndex": 31,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "017401104989814545383:mf4lavmtuva"
+   }
+  ],
+  "request": [
+   {
+    "title": "Google Custom Search - cell phones",
+    "totalResults": "164000000",
+    "searchTerms": "cell phones",
+    "count": 10,
+    "startIndex": 21,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "017401104989814545383:mf4lavmtuva"
+   }
+  ],
+  "previousPage": [
+   {
+    "title": "Google Custom Search - cell phones",
+    "totalResults": "164000000",
+    "searchTerms": "cell phones",
+    "count": 10,
+    "startIndex": 11,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "017401104989814545383:mf4lavmtuva"
+   }
+  ]
+ },
+ "context": {
+  "title": "College MetaSearch Comparison"
+ },
+ "searchInformation": {
+  "searchTime": 0.315522,
+  "formattedSearchTime": "0.32",
+  "totalResults": "164000000",
+  "formattedTotalResults": "164,000,000"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "Apple - iPhone 4S - The most amazing iPhone yet.",
+   "htmlTitle": "Apple - iPhone 4S - The most amazing iPhone yet.",
+   "link": "http://www.apple.com/iphone/",
+   "displayLink": "www.apple.com",
+   "snippet": "It just might be the best camera ever on a phone. ... With over 200 new software   features, the world's most advanced mobile operating system is now even further ...",
+   "htmlSnippet": "It just might be the best camera ever on a \u003cb\u003ephone\u003c/b\u003e. \u003cb\u003e...\u003c/b\u003e With over 200 new software \u003cbr\u003e  features, the world&#39;s most advanced \u003cb\u003emobile\u003c/b\u003e operating system is now even further \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "C9wxeDJFQTQJ",
+   "formattedUrl": "www.apple.com/iphone/",
+   "htmlFormattedUrl": "www.apple.com/i\u003cb\u003ephone\u003c/b\u003e/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://images.apple.com/iphone/home/images/animation/hardware_icloudface.png",
+      "type": "1",
+      "width": "239",
+      "height": "210"
+     }
+    ],
+    "metatags": [
+     {
+      "author": "Apple Inc.",
+      "viewport": "width=1024",
+      "omni_page": "iPhone - Index/Tab"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Cell Phone Reviews - Smartphones, Android, iPhone, HTC & More",
+   "htmlTitle": "\u003cb\u003eCell Phone\u003c/b\u003e Reviews - Smartphones, Android, iPhone, HTC &amp; More",
+   "link": "http://www.cellphone-expert.com/",
+   "displayLink": "www.cellphone-expert.com",
+   "snippet": "Cell phone reviews and news on the latest mobile phones from Sony Ericsson,   HTC, Apple iPhone, Blackberry, HTC, Nokia, Samsung and more.",
+   "htmlSnippet": "\u003cb\u003eCell phone\u003c/b\u003e reviews and news on the latest \u003cb\u003emobile phones\u003c/b\u003e from Sony Ericsson, \u003cbr\u003e  HTC, Apple iPhone, Blackberry, HTC, Nokia, Samsung and more.",
+   "cacheId": "csWsvyBz5nwJ",
+   "formattedUrl": "www.cellphone-expert.com/",
+   "htmlFormattedUrl": "www.\u003cb\u003ecellphone\u003c/b\u003e-expert.com/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.cellphone-expert.com/cache/bba9e59ee61f206e3cf9f371f73daa77_w645_h250.jpg",
+      "type": "1",
+      "width": "361",
+      "height": "140"
+     }
+    ],
+    "metatags": [
+     {
+      "viewport": "width=device-width"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Cell phone accessories, Mobile accessories - Motorola, Samsung ...",
+   "htmlTitle": "\u003cb\u003eCell phone\u003c/b\u003e accessories, Mobile accessories - Motorola, Samsung \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://www.cellphoneshop.net/",
+   "displayLink": "www.cellphoneshop.net",
+   "snippet": "Cell Phone Shop carries accessories for almost every mobile phone. Nobody   beats our prices on cell phone accessories. Order today and receive Free ...",
+   "htmlSnippet": "\u003cb\u003eCell Phone\u003c/b\u003e Shop carries accessories for almost every \u003cb\u003emobile phone\u003c/b\u003e. Nobody \u003cbr\u003e  beats our prices on \u003cb\u003ecell phone\u003c/b\u003e accessories. Order today and receive Free \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "wRpnQQYPy3EJ",
+   "formattedUrl": "www.cellphoneshop.net/",
+   "htmlFormattedUrl": "www.\u003cb\u003ecellphones\u003c/b\u003ehop.net/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://ep.yimg.com/ca/I/cellphoneshop_2221_20241860",
+      "type": "1",
+      "width": "108",
+      "height": "96"
+     }
+    ],
+    "metatags": [
+     {
+      "title": "Cell Phone Accessories – Cheap Mobile Accessories | Cell Phone Shop",
+      "author": "Cellphoneshop.net",
+      "home_url": "http://www.cellphoneshop.net/",
+      "category": "business, shopping: Wireless: Cellular Phones, Home: Consumer Information: Electronics",
+      "classification": "business, shopping: Wireless: Cellular Phones, Home: Consumer Information: Electronics",
+      "copyright": "Cellphoneshop.net",
+      "abstract": "Cellphonshop.net offers cell phone accessories for Motorola, Nokia, Samsung, LG, Nextel, Sanyo, Blackberry, Kyocera and Treo at low prices.",
+      "msvalidate.01": "3848A0EFFAE634F08288DEED121A519A"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Cellular Phones",
+   "htmlTitle": "\u003cb\u003eCellular Phones\u003c/b\u003e",
+   "link": "http://www.cancer.org/Cancer/CancerCauses/OtherCarcinogens/AtHome/cellular-phones",
+   "displayLink": "www.cancer.org",
+   "snippet": "Feb 23, 2012 ... Based on the large and still growing number of cell phone users (both adults and   children), and the fact that cell phones give off ...",
+   "htmlSnippet": "Feb 23, 2012 \u003cb\u003e...\u003c/b\u003e Based on the large and still growing number of \u003cb\u003ecell phone\u003c/b\u003e users (both adults and \u003cbr\u003e  children), and the fact that \u003cb\u003ecell phones\u003c/b\u003e give off \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "MQivlWH9h9QJ",
+   "formattedUrl": "www.cancer.org/Cancer/CancerCauses/.../AtHome/cellular-phones",
+   "htmlFormattedUrl": "www.cancer.org/Cancer/CancerCauses/.../AtHome/\u003cb\u003ecellular\u003c/b\u003e-\u003cb\u003ephones\u003c/b\u003e",
+   "pagemap": {
+    "metatags": [
+     {
+      "title": "Cellular Phones",
+      "xcategory": "Learn About Cancer",
+      "xsubcategory": "Web Page(Default)"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Prepaid Unlimited Cell Phone Plans | Android | Smartphone ...",
+   "htmlTitle": "Prepaid Unlimited \u003cb\u003eCell Phone\u003c/b\u003e Plans | Android | Smartphone \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://www.virginmobileusa.com/",
+   "displayLink": "www.virginmobileusa.com",
+   "snippet": "Get an unlimited prepaid cell phone plan for one of our Androids or Smartphones  . Click here to see details on no contract phones and broadband products.",
+   "htmlSnippet": "Get an unlimited prepaid \u003cb\u003ecell phone\u003c/b\u003e plan for one of our Androids or Smartphones\u003cbr\u003e  . Click here to see details on no contract phones and broadband products.",
+   "cacheId": "RKjUTMGwQdYJ",
+   "formattedUrl": "www.virginmobileusa.com/",
+   "htmlFormattedUrl": "www.virgin\u003cb\u003emobile\u003c/b\u003eusa.com/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.virginmobileusa.com/_img/shipping-chart.gif",
+      "type": "1",
+      "width": "293",
+      "height": "164"
+     }
+    ],
+    "metatags": [
+     {
+      "msvalidate.01": "F7189C090BAC5CBF56D12306C0B7D938",
+      "fb:page_id": "114300980526"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Cell Phones",
+   "htmlTitle": "\u003cb\u003eCell Phones\u003c/b\u003e",
+   "link": "http://www.pcmag.com/reviews/cell-phones",
+   "displayLink": "www.pcmag.com",
+   "snippet": "Latest cell phone & smartphone reviews, specifications, head to head matchup,   price comparisons, editor's and user's ratings from PCMag.com.",
+   "htmlSnippet": "Latest \u003cb\u003ecell phone\u003c/b\u003e &amp; smartphone reviews, specifications, head to head matchup, \u003cbr\u003e  price comparisons, editor&#39;s and user&#39;s ratings from PCMag.com.",
+   "cacheId": "B35QABVtv-8J",
+   "formattedUrl": "www.pcmag.com/reviews/cell-phones",
+   "htmlFormattedUrl": "www.pcmag.com/reviews/\u003cb\u003ecell\u003c/b\u003e-\u003cb\u003ephones\u003c/b\u003e",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://common.ziffdavisinternet.com/util_get_image/30/0,,i=301131,00.jpg",
+      "type": "1",
+      "width": "156",
+      "height": "142"
+     }
+    ],
+    "metatags": [
+     {
+      "application-name": "PCMag",
+      "msapplication-starturl": "http://www.pcmag.com/",
+      "msapplication-task": "name=Home;action-uri=http://www.pcmag.com;icon-uri=/img/pcmagfavicon.ico"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "History of mobile phones - Wikipedia, the free encyclopedia",
+   "htmlTitle": "History of \u003cb\u003emobile phones\u003c/b\u003e - Wikipedia, the free encyclopedia",
+   "link": "http://en.wikipedia.org/wiki/History_of_mobile_phones",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "The history of mobile phones charts the development of devices which connect   wirelessly to the public switched telephone network. The transmission of speech ...",
+   "htmlSnippet": "The history of \u003cb\u003emobile phones\u003c/b\u003e charts the development of devices which connect \u003cbr\u003e  wirelessly to the public switched telephone network. The transmission of speech \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "thVigg_vE90J",
+   "formattedUrl": "en.wikipedia.org/wiki/History_of_mobile_phones",
+   "htmlFormattedUrl": "en.wikipedia.org/wiki/History_of_\u003cb\u003emobile\u003c/b\u003e_\u003cb\u003ephones\u003c/b\u003e",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Mobile_radio_telephone.jpg/220px-Mobile_radio_telephone.jpg",
+      "type": "1",
+      "width": "176",
+      "height": "169"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Cell Phones",
+   "htmlTitle": "\u003cb\u003eCell Phones\u003c/b\u003e",
+   "link": "http://www.cellphoneshop.net/cellphone1.html",
+   "displayLink": "www.cellphoneshop.net",
+   "snippet": "Get yourself a new cell phone at unbeatable price at Cellphoneshop.net! We   carry old and new handsets of various brands, such as BlackBerry, Sanyo,   Motorola ...",
+   "htmlSnippet": "Get yourself a new \u003cb\u003ecell phone\u003c/b\u003e at unbeatable price at Cellphoneshop.net! We \u003cbr\u003e  carry old and new handsets of various brands, such as BlackBerry, Sanyo, \u003cbr\u003e  Motorola \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "6YIMk-a_jX4J",
+   "formattedUrl": "www.cellphoneshop.net/cellphone1.html",
+   "htmlFormattedUrl": "www.\u003cb\u003ecellphones\u003c/b\u003ehop.net/\u003cb\u003ecellphone\u003c/b\u003e1.html",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://ep.yimg.com/ca/I/cellphoneshop_2218_120811782",
+      "type": "1",
+      "width": "71",
+      "height": "71"
+     }
+    ],
+    "metatags": [
+     {
+      "og:image": "http://ep.yimg.com/ca/I/cellphoneshop_2218_120811782"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Cellphones",
+   "htmlTitle": "\u003cb\u003eCellphones\u003c/b\u003e",
+   "link": "http://www.engadget.com/topics/cellphones",
+   "displayLink": "www.engadget.com",
+   "snippet": "Cellphones Desktops Cameras Displays E-readers. Gaming GPS Home   Entertainment Handhelds Household Internet Features Laptops Meta Misc   Networking ...",
+   "htmlSnippet": "\u003cb\u003eCellphones\u003c/b\u003e Desktops Cameras Displays E-readers. Gaming GPS Home \u003cbr\u003e  Entertainment Handhelds Household Internet Features Laptops Meta Misc \u003cbr\u003e  Networking \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "2gPMkOkhSVgJ",
+   "formattedUrl": "www.engadget.com/topics/cellphones",
+   "htmlFormattedUrl": "www.engadget.com/topics/\u003cb\u003ecellphones\u003c/b\u003e",
+   "pagemap": {
+    "metatags": [
+     {
+      "msvalidate.01": "5ABD8A078F3356F3A6A8C8643C31FB8F",
+      "y_key": "c1d42ea7482b09b7",
+      "application-name": "Engadget",
+      "msapplication-starturl": "http://www.engadget.com",
+      "msapplication-navbutton-color": "#FFFFFF",
+      "msapplication-window": "width=1024;height=768",
+      "msapplication-task": "name=Engadget Mobile;action-uri=http://mobile.engadget.com;icon-uri=/favicon.ico"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Cell Phones: Smartphone, Mobile Phone - Best Buy",
+   "htmlTitle": "\u003cb\u003eCell Phones\u003c/b\u003e: Smartphone, \u003cb\u003eMobile Phone\u003c/b\u003e - Best Buy",
+   "link": "http://www.bestbuy.com/site/Electronics/Mobile-Cell-Phones/abcat0800000.c?id=abcat0800000",
+   "displayLink": "www.bestbuy.com",
+   "snippet": "Shop online for cell phones at Best Buy. Find a mobile phone or smartphone to fit   your lifestyle and order online at BestBuy.com.",
+   "htmlSnippet": "Shop online for \u003cb\u003ecell phones\u003c/b\u003e at Best Buy. Find a \u003cb\u003emobile phone\u003c/b\u003e or smartphone to fit \u003cbr\u003e  your lifestyle and order online at BestBuy.com.",
+   "cacheId": "vzMyFqB4phYJ",
+   "formattedUrl": "www.bestbuy.com/site/.../Mobile-Cell-Phones/abcat0800000.c?id...",
+   "htmlFormattedUrl": "www.bestbuy.com/site/.../\u003cb\u003eMobile\u003c/b\u003e-\u003cb\u003eCell\u003c/b\u003e-\u003cb\u003ePhones\u003c/b\u003e/abcat0800000.c?id...",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://images.bestbuy.com/BestBuy_US/en_US/images/global/on-default.gif",
+      "type": "1",
+      "width": "238",
+      "height": "164"
+     }
+    ]
+   }
+  }
+ ]
+}

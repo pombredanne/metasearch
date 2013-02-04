@@ -1,0 +1,323 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "nextPage": [
+   {
+    "title": "Google Custom Search - cell phones",
+    "totalResults": "195000000",
+    "searchTerms": "cell phones",
+    "count": 10,
+    "startIndex": 11,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "017401104989814545383:mf4lavmtuva"
+   }
+  ],
+  "request": [
+   {
+    "title": "Google Custom Search - cell phones",
+    "totalResults": "195000000",
+    "searchTerms": "cell phones",
+    "count": 10,
+    "startIndex": 1,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "017401104989814545383:mf4lavmtuva"
+   }
+  ]
+ },
+ "context": {
+  "title": "College MetaSearch Comparison"
+ },
+ "searchInformation": {
+  "searchTime": 0.193606,
+  "formattedSearchTime": "0.19",
+  "totalResults": "195000000",
+  "formattedTotalResults": "195,000,000"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "Amazon.com: Cell Phones & Accessories",
+   "htmlTitle": "Amazon.com: \u003cb\u003eCell Phones\u003c/b\u003e &amp; Accessories",
+   "link": "http://www.amazon.com/cell-phones-service-plans-accessories/b?ie=UTF8&node=2335752011",
+   "displayLink": "www.amazon.com",
+   "snippet": "Motorola Android Unlocked Phone. Motorola MB632 Android Unlocked Phone   The Motorola MB632 features Android Gingerbread, 3.1-inch touchscreen, and a ...",
+   "htmlSnippet": "Motorola Android Unlocked \u003cb\u003ePhone\u003c/b\u003e. Motorola MB632 Android Unlocked \u003cb\u003ePhone\u003c/b\u003e \u003cbr\u003e  The Motorola MB632 features Android Gingerbread, 3.1-inch touchscreen, and a \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "GcdJF84c-Y8J",
+   "formattedUrl": "www.amazon.com/cell-phones-service-plans-accessories/b?ie...",
+   "htmlFormattedUrl": "www.amazon.com/\u003cb\u003ecell\u003c/b\u003e-\u003cb\u003ephones\u003c/b\u003e-service-plans-accessories/b?ie...",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://g-ecx.images-amazon.com/images/G/01/img09/cell-phones/180-column/free-expertadvice_180x180._V196591506_.gif",
+      "type": "1",
+      "width": "147",
+      "height": "115"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Mobile phone - Wikipedia, the free encyclopedia",
+   "htmlTitle": "\u003cb\u003eMobile phone\u003c/b\u003e - Wikipedia, the free encyclopedia",
+   "link": "http://en.wikipedia.org/wiki/Mobile_phone",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "A mobile phone (also known as a cellular phone, cell phone and a hand phone)   is a device that can make and receive telephone calls over a radio link whilst ...",
+   "htmlSnippet": "A \u003cb\u003emobile phone\u003c/b\u003e (also known as a \u003cb\u003ecellular phone\u003c/b\u003e, \u003cb\u003ecell phone\u003c/b\u003e and a hand phone) \u003cbr\u003e  is a device that can make and receive telephone calls over a radio link whilst \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "1zCdhJ7ll3YJ",
+   "formattedUrl": "en.wikipedia.org/wiki/Mobile_phone",
+   "htmlFormattedUrl": "en.wikipedia.org/wiki/\u003cb\u003eMobile\u003c/b\u003e_\u003cb\u003ephone\u003c/b\u003e",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Two_Cell_Phones.png/220px-Two_Cell_Phones.png",
+      "type": "1",
+      "width": "176",
+      "height": "220"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Cell phone reviews: Cell phones, mobile phones & wireless phone ...",
+   "htmlTitle": "\u003cb\u003eCell phone\u003c/b\u003e reviews: \u003cb\u003eCell phones\u003c/b\u003e, \u003cb\u003emobile phones\u003c/b\u003e &amp; \u003cb\u003ewireless phone\u003c/b\u003e \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://reviews.cnet.com/cell-phones/",
+   "displayLink": "reviews.cnet.com",
+   "snippet": "Cell phone and wireless phone reviews and ratings, video reviews, user opinions  , most popular phones, cell phone buying guides, prices, and comparisons ...",
+   "htmlSnippet": "\u003cb\u003eCell phone\u003c/b\u003e and \u003cb\u003ewireless phone\u003c/b\u003e reviews and ratings, video reviews, user opinions\u003cbr\u003e  , most popular phones, \u003cb\u003ecell phone\u003c/b\u003e buying guides, prices, and comparisons \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "FC7ci0LYddUJ",
+   "formattedUrl": "reviews.cnet.com/cell-phones/",
+   "htmlFormattedUrl": "reviews.cnet.com/\u003cb\u003ecell\u003c/b\u003e-\u003cb\u003ephones\u003c/b\u003e/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://i.i.com.com/cnwk.1d/sc/35243696-2-460-0.gif",
+      "type": "1",
+      "width": "266",
+      "height": "190"
+     }
+    ],
+    "metatags": [
+     {
+      "fb:app_id": "16995676698",
+      "fb:admins": "100001036810388",
+      "og:site_name": "CNET"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Cell Phones, No-Contract Prepaid Cell Phones, Accessories ...",
+   "htmlTitle": "\u003cb\u003eCell Phones\u003c/b\u003e, No-Contract Prepaid \u003cb\u003eCell Phones\u003c/b\u003e, Accessories \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://www.walmart.com/cp/cell-phones-accessories/542371",
+   "displayLink": "www.walmart.com",
+   "snippet": "Find cell phones, accessories, mobile broadband, and contract or no-contract   service plans. Shop cell phones at Walmart.com. Save money, live better.",
+   "htmlSnippet": "Find \u003cb\u003ecell phones\u003c/b\u003e, accessories, mobile broadband, and contract or no-contract \u003cbr\u003e  service plans. Shop \u003cb\u003ecell phones\u003c/b\u003e at Walmart.com. Save money, live better.",
+   "cacheId": "oK37uWxRPxUJ",
+   "formattedUrl": "www.walmart.com/cp/cell-phones-accessories/542371",
+   "htmlFormattedUrl": "www.walmart.com/cp/\u003cb\u003ecell\u003c/b\u003e-\u003cb\u003ephones\u003c/b\u003e-accessories/542371",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://i.walmart.com/i/c//00/54/23/71/00542371-452293_806X335.jpg",
+      "type": "1",
+      "width": "349",
+      "height": "145"
+     }
+    ],
+    "webpage": [
+     {
+      "breadcrumb": "Electronics: Cell Phones"
+     }
+    ],
+    "metatags": [
+     {
+      "og:image": "http://i2.walmartimages.com/i/header_wide/walmart_logo_214x54.gif",
+      "og:site_name": "Walmart.com",
+      "fb:app_id": "105223049547814"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Cell Phones | Overstock.com: Buy Unlocked GSM Cell Phones ...",
+   "htmlTitle": "\u003cb\u003eCell Phones\u003c/b\u003e | Overstock.com: Buy Unlocked GSM \u003cb\u003eCell Phones\u003c/b\u003e \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://www.overstock.com/Electronics/Cell-Phones/912/cat.html",
+   "displayLink": "www.overstock.com",
+   "snippet": "Cell Phones for everyday discount prices on Overstock.com! $2.95 shipping and   product reviews on Unlocked GSM Cell Phones, & CDMA Cell Phones & more.",
+   "htmlSnippet": "\u003cb\u003eCell Phones\u003c/b\u003e for everyday discount prices on Overstock.com! $2.95 shipping and \u003cbr\u003e  product reviews on Unlocked GSM \u003cb\u003eCell Phones\u003c/b\u003e, &amp; CDMA \u003cb\u003eCell Phones\u003c/b\u003e &amp; more.",
+   "cacheId": "kbiGcyzCJ3MJ",
+   "formattedUrl": "www.overstock.com/Electronics/Cell-Phones/912/cat.html",
+   "htmlFormattedUrl": "www.overstock.com/Electronics/\u003cb\u003eCell\u003c/b\u003e-\u003cb\u003ePhones\u003c/b\u003e/912/cat.html",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://ak1.ostkcdn.com/images/products/75/620/T13642205.jpg",
+      "type": "1",
+      "width": "96",
+      "height": "96"
+     }
+    ],
+    "Breadcrumb": [
+     {
+      "title": "Online Shopping",
+      "url": "Online Shopping"
+     },
+     {
+      "title": "Electronics",
+      "url": "Electronics"
+     },
+     {
+      "title": "Telephones",
+      "url": "Telephones"
+     }
+    ],
+    "metatags": [
+     {
+      "author": "Overstock.com",
+      "og:title": "Cell Phones | Overstock.com: Buy Unlocked GSM Cell Phones, & CDMA Cell Phones Online",
+      "og:url": "http://www.overstock.com/Electronics/Cell-Phones/912/cat.html",
+      "og:image": "http://ak1.ostkcdn.com/img/mxc/20101215_fbog_ostk.png",
+      "og:type": "product",
+      "og:site_name": "overstock.com",
+      "fb:app_id": "176130092402347"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Free Cell Phones with New Cell Phone Plans - Shop Deals from ...",
+   "htmlTitle": "Free \u003cb\u003eCell Phones\u003c/b\u003e with New \u003cb\u003eCell Phone\u003c/b\u003e Plans - Shop Deals from \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://www.wirefly.com/",
+   "displayLink": "www.wirefly.com",
+   "snippet": "Wirefly is the #1 site for cell phones and wireless phone plans. We offer free cell   phones, cheap cell phones and discount prepaid cell phones from Verizon ...",
+   "htmlSnippet": "Wirefly is the #1 site for \u003cb\u003ecell phones\u003c/b\u003e and \u003cb\u003ewireless phone\u003c/b\u003e plans. We offer free \u003cb\u003ecell\u003c/b\u003e \u003cbr\u003e  \u003cb\u003ephones\u003c/b\u003e, cheap \u003cb\u003ecell phones\u003c/b\u003e and discount prepaid \u003cb\u003ecell phones\u003c/b\u003e from Verizon \u003cb\u003e...\u003c/b\u003e",
+   "formattedUrl": "www.wirefly.com/",
+   "htmlFormattedUrl": "www.wirefly.com/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.wirefly.com/images/wireflyhomepage/1111083_androidvsiphone_320x106-1.jpg",
+      "type": "1",
+      "width": "256",
+      "height": "84"
+     }
+    ],
+    "metatags": [
+     {
+      "msvalidate.01": "6BC6653B2EE05BB9D25B434AEAB0A611"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Cell Phones for free with Cell Phone Plans from Verizon Wireless, T ...",
+   "htmlTitle": "\u003cb\u003eCell Phones\u003c/b\u003e for free with \u003cb\u003eCell Phone\u003c/b\u003e Plans from Verizon Wireless, T \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://www.letstalk.com/",
+   "displayLink": "www.letstalk.com",
+   "snippet": "5 days ago ... Same cell phones, same service plans, much lower prices. Full carrier store   support after purchase. Free shipping and free returns.",
+   "htmlSnippet": "5 days ago \u003cb\u003e...\u003c/b\u003e Same \u003cb\u003ecell phones\u003c/b\u003e, same service plans, much lower prices. Full carrier store \u003cbr\u003e  support after purchase. Free shipping and free returns.",
+   "cacheId": "MESNV6KWSJgJ",
+   "formattedUrl": "www.letstalk.com/",
+   "htmlFormattedUrl": "www.letstalk.com/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.letstalk.com/img/prod/cell-phones/verizonwireless/htc/droid-incredible-4-by-htc_brw.jpg",
+      "type": "1",
+      "width": "80",
+      "height": "80"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Sprint",
+   "htmlTitle": "Sprint",
+   "link": "http://www.sprint.com/",
+   "displayLink": "www.sprint.com",
+   "snippet": "Become an insider · About us · Contact us · En espanol · Checkout our mobile   site · Legal · Privacy · Ad choices. © Sprint.com All rights reserved.",
+   "htmlSnippet": "Become an insider &middot; About us &middot; Contact us &middot; En espanol &middot; Checkout our \u003cb\u003emobile\u003c/b\u003e \u003cbr\u003e  site &middot; Legal &middot; Privacy &middot; Ad choices. © Sprint.com All rights reserved.",
+   "cacheId": "1-xU7q5lTTIJ",
+   "formattedUrl": "www.sprint.com/",
+   "htmlFormattedUrl": "www.sprint.com/",
+   "pagemap": {
+    "metatags": [
+     {
+      "metricdata.referer": "UrlEncodedReferrer"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "HowStuffWorks \"How Cell Phones Work\"",
+   "htmlTitle": "HowStuffWorks &quot;How \u003cb\u003eCell Phones\u003c/b\u003e Work&quot;",
+   "link": "http://www.howstuffworks.com/cell-phone.htm",
+   "displayLink": "www.howstuffworks.com",
+   "snippet": "Learn about cell phones, check out our cell phones buying guide, read cell   phone reviews and compare prices and features on cell phone accessories.",
+   "htmlSnippet": "Learn about \u003cb\u003ecell phones\u003c/b\u003e, check out our \u003cb\u003ecell phones\u003c/b\u003e buying guide, read \u003cb\u003ecell\u003c/b\u003e \u003cbr\u003e  \u003cb\u003ephone\u003c/b\u003e reviews and compare prices and features on \u003cb\u003ecell phone\u003c/b\u003e accessories.",
+   "cacheId": "_9G11rJzyY4J",
+   "formattedUrl": "www.howstuffworks.com/cell-phone.htm",
+   "htmlFormattedUrl": "www.howstuffworks.com/\u003cb\u003ecell\u003c/b\u003e-\u003cb\u003ephone\u003c/b\u003e.htm",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://static.ddmcdn.com/gif/cell-phone-100x60-1.jpg",
+      "type": "1",
+      "width": "94",
+      "height": "56"
+     }
+    ],
+    "metatags": [
+     {
+      "og:type": "article",
+      "og:title": "HowStuffWorks \"How Cell Phones Work\"",
+      "og:url": "http://electronics.howstuffworks.com/cell-phone.htm",
+      "og:site_name": "HowStuffWorks",
+      "og:description": "Learn about cell phones, check out our cell phones buying guide, read cell phone reviews and compare prices and features on cell phone accessories.",
+      "fb:admins": "100001675325868",
+      "fb:app_id": "125879910816296",
+      "og:image": "http://static.ddmcdn.com/gif/cell-phone-100x60-1.jpg"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Prepaid Cell Phones | Mobile Phones | Cricket Wireless",
+   "htmlTitle": "Prepaid \u003cb\u003eCell Phones\u003c/b\u003e | \u003cb\u003eMobile Phones\u003c/b\u003e | Cricket Wireless",
+   "link": "http://www.mycricket.com/cell-phones",
+   "displayLink": "www.mycricket.com",
+   "snippet": "Check out our selection of prepaid cell phones and pay as you go mobile phones   all with plans to fit any budget.",
+   "htmlSnippet": "Check out our selection of prepaid \u003cb\u003ecell phones\u003c/b\u003e and pay as you go \u003cb\u003emobile phones\u003c/b\u003e \u003cbr\u003e  all with plans to fit any budget.",
+   "cacheId": "qNHXTpsXmcIJ",
+   "formattedUrl": "www.mycricket.com/cell-phones",
+   "htmlFormattedUrl": "www.mycricket.com/\u003cb\u003ecell\u003c/b\u003e-\u003cb\u003ephones\u003c/b\u003e",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.mycricket.com/assets/phone/3fcf19e37a5a043867031be01282539a.png",
+      "type": "1",
+      "width": "128",
+      "height": "192"
+     }
+    ]
+   }
+  }
+ ]
+}

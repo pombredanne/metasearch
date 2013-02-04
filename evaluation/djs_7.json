@@ -1,0 +1,385 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "nextPage": [
+   {
+    "title": "Google Custom Search - djs",
+    "totalResults": "148000000",
+    "searchTerms": "djs",
+    "count": 10,
+    "startIndex": 81,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "017401104989814545383:mf4lavmtuva"
+   }
+  ],
+  "request": [
+   {
+    "title": "Google Custom Search - djs",
+    "totalResults": "148000000",
+    "searchTerms": "djs",
+    "count": 10,
+    "startIndex": 71,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "017401104989814545383:mf4lavmtuva"
+   }
+  ],
+  "previousPage": [
+   {
+    "title": "Google Custom Search - djs",
+    "totalResults": "148000000",
+    "searchTerms": "djs",
+    "count": 10,
+    "startIndex": 61,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "017401104989814545383:mf4lavmtuva"
+   }
+  ]
+ },
+ "context": {
+  "title": "College MetaSearch Comparison"
+ },
+ "searchInformation": {
+  "searchTime": 0.18899,
+  "formattedSearchTime": "0.19",
+  "totalResults": "148000000",
+  "formattedTotalResults": "148,000,000"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "Hire A Wedding DJ, Wedding Disc Jockey, Book Wedding DJs",
+   "htmlTitle": "Hire A Wedding \u003cb\u003eDJ\u003c/b\u003e, Wedding Disc Jockey, Book Wedding \u003cb\u003eDJs\u003c/b\u003e",
+   "link": "http://www.gigmasters.com/wedding-dj/wedding-dj.htm",
+   "displayLink": "www.gigmasters.com",
+   "snippet": "Need a wedding disc jockey? Search our database for Wedding DJs available for   your reception. A wedding DJ is a fun, affordable addition to any weddin.",
+   "htmlSnippet": "Need a wedding disc jockey? Search our database for Wedding \u003cb\u003eDJs\u003c/b\u003e available for \u003cbr\u003e  your reception. A wedding \u003cb\u003eDJ\u003c/b\u003e is a fun, affordable addition to any weddin.",
+   "cacheId": "A5RIkeb_NA0J",
+   "formattedUrl": "www.gigmasters.com/wedding-dj/wedding-dj.htm",
+   "htmlFormattedUrl": "www.gigmasters.com/wedding-\u003cb\u003edj\u003c/b\u003e/wedding-\u003cb\u003edj\u003c/b\u003e.htm",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.gigmasters.com/images/categories/housedj_small.jpg",
+      "type": "1",
+      "width": "322",
+      "height": "117"
+     }
+    ],
+    "metatags": [
+     {
+      "fb:page_id": "122624135126"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "America's Best DJ 2012 *VOTE TODAY*",
+   "htmlTitle": "America&#39;s Best \u003cb\u003eDJ\u003c/b\u003e 2012 *VOTE TODAY*",
+   "link": "http://www.americasbestdj.net/bestdj/vote.asp",
+   "displayLink": "www.americasbestdj.net",
+   "snippet": "Each tabulated ballot will be given a chance to WIN VALUABLE PRIZES trips to   Las Vegas, DJ equipment & more. When you vote, you are automatically eligible ...",
+   "htmlSnippet": "Each tabulated ballot will be given a chance to WIN VALUABLE PRIZES trips to \u003cbr\u003e  Las Vegas, \u003cb\u003eDJ\u003c/b\u003e equipment &amp; more. When you vote, you are automatically eligible \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "xW-MieuFgfEJ",
+   "formattedUrl": "www.americasbestdj.net/bestdj/vote.asp",
+   "htmlFormattedUrl": "www.americasbestdj.net/bestdj/vote.asp"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Philadelphia DJ's - Silver Sound Disc Jockeys Philadelphia - Home ...",
+   "htmlTitle": "Philadelphia \u003cb\u003eDJ&#39;s\u003c/b\u003e - Silver Sound Disc Jockeys Philadelphia - Home \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://www.silversound.com/",
+   "displayLink": "www.silversound.com",
+   "snippet": "Philadelphia Disc Jockeys - 20 Philadelphia DJ's Serving the Delaware Valley   Area.",
+   "htmlSnippet": "Philadelphia Disc Jockeys - 20 Philadelphia \u003cb\u003eDJ&#39;s\u003c/b\u003e Serving the Delaware Valley \u003cbr\u003e  Area.",
+   "cacheId": "ob6rsQmzl6YJ",
+   "formattedUrl": "www.silversound.com/",
+   "htmlFormattedUrl": "www.silversound.com/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.silversound.com/ourdjimages/Viewer_default.jpg",
+      "type": "1",
+      "width": "258",
+      "height": "196"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "VirtualDJ - Wikipedia, the free encyclopedia",
+   "htmlTitle": "VirtualDJ - Wikipedia, the free encyclopedia",
+   "link": "http://en.wikipedia.org/wiki/VirtualDJ",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "The packages run on PC or Mac to allow computer DJs to mix music or videos,   with ... DJs can control the software with a MIDI controller or using traditional DJ ...",
+   "htmlSnippet": "The packages run on PC or Mac to allow computer \u003cb\u003eDJs\u003c/b\u003e to mix music or videos, \u003cbr\u003e  with \u003cb\u003e...\u003c/b\u003e \u003cb\u003eDJs\u003c/b\u003e can control the software with a MIDI controller or using traditional \u003cb\u003eDJ\u003c/b\u003e \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "2dMd6zgUTG8J",
+   "formattedUrl": "en.wikipedia.org/wiki/VirtualDJ",
+   "htmlFormattedUrl": "en.wikipedia.org/wiki/VirtualDJ",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://upload.wikimedia.org/wikipedia/en/thumb/a/a8/Virtual_DJ_Screenshot.jpg/300px-Virtual_DJ_Screenshot.jpg",
+      "type": "1",
+      "width": "240",
+      "height": "144"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Arkansas DJs - Central Arkansas Entertainment Agency - DJs for ...",
+   "htmlTitle": "Arkansas \u003cb\u003eDJs\u003c/b\u003e - Central Arkansas Entertainment Agency - \u003cb\u003eDJs\u003c/b\u003e for \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://www.centralarkansasentertainment.com/",
+   "displayLink": "www.centralarkansasentertainment.com",
+   "snippet": "Little Rock DJs and Arkansas DJs that Provide Mobile DJ and Karaoke Service to   Hot Springs, Little Rock, Conway, Jacksonville and all over the state!",
+   "htmlSnippet": "Little Rock \u003cb\u003eDJs\u003c/b\u003e and Arkansas \u003cb\u003eDJs\u003c/b\u003e that Provide Mobile \u003cb\u003eDJ\u003c/b\u003e and Karaoke Service to \u003cbr\u003e  Hot Springs, Little Rock, Conway, Jacksonville and all over the state!",
+   "cacheId": "1gq2OYGFGAsJ",
+   "formattedUrl": "www.centralarkansasentertainment.com/",
+   "htmlFormattedUrl": "www.centralarkansasentertainment.com/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.centralarkansasentertainment.com/IMG_0020.JPG",
+      "type": "1",
+      "width": "183",
+      "height": "275"
+     }
+    ],
+    "metatags": [
+     {
+      "designer": "Template design by Ryan Parr | Parrfolio.com",
+      "og:title": "Central Arkansas Entertainment",
+      "og:url": "http://www.centralarkansasentertainment.com",
+      "og:type": "company",
+      "fb:admins": "1574370522"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "TOAST & JAM",
+   "htmlTitle": "TOAST &amp; JAM",
+   "link": "http://www.toastandjamdjs.com/",
+   "displayLink": "www.toastandjamdjs.com",
+   "snippet": "Toast & Jam, Inc is a Chicago-Based Mobile Disc Jockey Company. Never stale...  Always fresh and sweet!",
+   "htmlSnippet": "Toast &amp; Jam, Inc is a Chicago-Based Mobile Disc Jockey Company. Never stale...\u003cbr\u003e  Always fresh and sweet!",
+   "cacheId": "DwyC0KQtHHgJ",
+   "formattedUrl": "www.toastandjamdjs.com/",
+   "htmlFormattedUrl": "www.toastandjam\u003cb\u003edjs\u003c/b\u003e.com/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.toastandjamdjs.com/img/toaster.jpg",
+      "type": "1",
+      "width": "198",
+      "height": "255"
+     }
+    ],
+    "metatags": [
+     {
+      "author": "ThePaperPlant.com, Gregory Thomas"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "D.J.'s and Dance Music Are the New Stars in Las Vegas - NYTimes ...",
+   "htmlTitle": "\u003cb\u003eD.J.\u003c/b\u003e&#39;s and Dance Music Are the New Stars in Las Vegas - NYTimes \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://www.nytimes.com/2012/06/12/arts/music/djs-and-dance-music-are-the-new-stars-in-las-vegas.html?pagewanted=all",
+   "displayLink": "www.nytimes.com",
+   "snippet": "Jun 11, 2012 ... After years on the margins, the blaring, pulsating sound of electronic dance music   is ascendant, and Las Vegas has embraced the trend the ...",
+   "htmlSnippet": "Jun 11, 2012 \u003cb\u003e...\u003c/b\u003e After years on the margins, the blaring, pulsating sound of electronic dance music \u003cbr\u003e  is ascendant, and Las Vegas has embraced the trend the \u003cb\u003e...\u003c/b\u003e",
+   "formattedUrl": "www.nytimes.com/.../djs-and-dance-music-are-the-new-stars-in-las-vegas. html?...",
+   "htmlFormattedUrl": "www.nytimes.com/.../\u003cb\u003edjs\u003c/b\u003e-and-dance-music-are-the-new-stars-in-las-vegas. html?...",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://graphics8.nytimes.com/images/2012/06/12/arts/MUSIC/MUSIC-articleLarge.jpg",
+      "type": "1",
+      "width": "284",
+      "height": "178"
+     }
+    ],
+    "organization": [
+     {
+      "name": "The New York Times Company",
+      "url": "http://www.nytco.com/"
+     }
+    ],
+    "person": [
+     {
+      "name": "By BEN SISARIO"
+     }
+    ],
+    "thumbnail": [
+     {
+      "src": "images/2012/06/12/arts/MUSIC/MUSIC-thumbStandard.jpg",
+      "width": "75",
+      "height": "75"
+     }
+    ],
+    "newsarticle": [
+     {
+      "description": "After years on the margins, the blaring, pulsating sound of electronic dance music is ascendant, and Las Vegas has embraced the trend the only way it knows how: by going all in.",
+      "datemodified": "2012-06-11",
+      "alternativeheadline": "The New Stars in Vegas: D.J.’s and Dance Music",
+      "usageterms": "http://www.nytimes.com/content/help/rights/sale/terms-of-sale.html",
+      "genre": "News",
+      "articlesection": "Arts / Music",
+      "identifier": "100000001599815",
+      "thumbnailurl": "images/2012/06/12/arts/MUSIC/MUSIC-thumbStandard.jpg",
+      "headline": "The New Stars in Vegas: D.J.’s and Dance Music",
+      "articlebody": "LAS VEGAS — Steve Wynn, the 70-year-old casino magnate, stood before an invitation-only crowd at the opening of a Japanese restaurant here last week, promising good food and even better music.",
+      "printsection": "C",
+      "printpage": "1",
+      "printedition": "New York edition"
+     }
+    ],
+    "metatags": [
+     {
+      "displaydate": "June 11, 2012",
+      "hdl": "D.J.’s and Dance Music Are the New Stars in Las Vegas",
+      "hdl_p": "The New Stars in Vegas: D.J.’s and Dance Music",
+      "byl": "By BEN SISARIO",
+      "lp": "After years on the margins, the blaring, pulsating sound of electronic dance music is ascendant, and Las Vegas has embraced the trend the only way it knows how: by going all in.",
+      "cre": "The New York Times",
+      "edt": "NewYork",
+      "pdate": "20120611",
+      "des": "Music",
+      "per": "Afrojack",
+      "geo": "Las Vegas (Nev)",
+      "slug": "12music",
+      "utime": "20120613100303",
+      "ptime": "20120611174749",
+      "author": "BEN SISARIO",
+      "dat": "June 11, 2012",
+      "tom": "News",
+      "dsk": "Arts / Music",
+      "articleid": "100000001599815",
+      "article_template_version": "700",
+      "hdr_img": "/images/article/header/sect_arts.gif",
+      "thumbnail": "images/2012/06/12/arts/MUSIC/MUSIC-thumbStandard.jpg",
+      "thumbnail_height": "75",
+      "thumbnail_width": "75",
+      "xlarge": "images/2012/06/12/arts/MUSIC/MUSIC-articleLarge.jpg",
+      "xlarge_height": "376",
+      "xlarge_width": "600",
+      "sectionfront_jsonp": "http://json8.nytimes.com/pages/arts/music/index.jsonp",
+      "cg": "arts",
+      "scg": "music",
+      "pt": "Article",
+      "pst": "News",
+      "msapplication-starturl": "http://www.nytimes.com/",
+      "og:url": "http://www.nytimes.com/2012/06/12/arts/music/djs-and-dance-music-are-the-new-stars-in-las-vegas.html?pagewanted=all",
+      "og:type": "article",
+      "og:title": "D.J.’s and Dance Music Are the New Stars in Las Vegas",
+      "og:image": "http://graphics8.nytimes.com/images/2012/06/12/arts/MUSIC/MUSIC-thumbLarge.jpg",
+      "fb:app_id": "9869919170",
+      "emailthishash": "bqQluD0MAiODv8wtWyMXEQ"
+     }
+    ],
+    "imageobject": [
+     {
+      "url": "http://graphics8.nytimes.com/images/2012/06/12/arts/MUSIC/MUSIC-articleLarge.jpg",
+      "identifier": "http://graphics8.nytimes.com/images/2012/06/12/arts/MUSIC/MUSIC-articleLarge.jpg",
+      "height": "600",
+      "width": "376",
+      "copyrightholder": "Isaac Brekken for The New York Times",
+      "description": "The D.J. Calvin Harris performing at the Encore Beach Club in Las Vegas. More Photos »"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "The Worlds Greatest DJ's - David Guetta - Forbes",
+   "htmlTitle": "The Worlds Greatest \u003cb\u003eDJ&#39;s\u003c/b\u003e - David Guetta - Forbes",
+   "link": "http://www.forbes.com/sites/danschawbel/2012/03/26/the-worlds-greatest-djs-david-guetta/",
+   "displayLink": "www.forbes.com",
+   "snippet": "Mar 26, 2012 ... David Guetta Next up in The Worlds Greatest DJ's series is David Guetta, who   was ranked #1 in the 'DJ Magazines Top 100' 2011. Guetta is a ...",
+   "htmlSnippet": "Mar 26, 2012 \u003cb\u003e...\u003c/b\u003e David Guetta Next up in The Worlds Greatest \u003cb\u003eDJ&#39;s\u003c/b\u003e series is David Guetta, who \u003cbr\u003e  was ranked #1 in the &#39;\u003cb\u003eDJ\u003c/b\u003e Magazines Top 100&#39; 2011. Guetta is a \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "IS_P6Byb0l8J",
+   "formattedUrl": "www.forbes.com/sites/.../03/.../the-worlds-greatest-djs-david-guetta/",
+   "htmlFormattedUrl": "www.forbes.com/sites/.../03/.../the-worlds-greatest-\u003cb\u003edjs\u003c/b\u003e-david-guetta/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://blogs-images.forbes.com/thumbnails/blog_1319/pt_1319_1737_o.jpg?t=1332784813"
+     }
+    ],
+    "metatags": [
+     {
+      "author": "Dan Schawbel",
+      "viewport": "width=device-width",
+      "og:title": "The Worlds Greatest DJ's - David Guetta - Forbes",
+      "og:site_name": "Forbes",
+      "og:type": "article",
+      "og:url": "http://www.forbes.com/sites/danschawbel/2012/03/26/the-worlds-greatest-djs-david-guetta/",
+      "og:image": "http://blogs-images.forbes.com/thumbnails/blog_1319/pt_1319_1737_o.jpg?t=1332784813",
+      "og:description": "David Guetta Next up in  The Worlds Greatest DJ's series is David Guetta, who was ranked #1 in the ‘DJ Magazines Top 100’ 2011. Guetta is a French house music producer who was originally a DJ at nightclubs during the 1980s and 1990s. In [...]",
+      "fb:admins": "100139",
+      "fb:app_id": "146639975357119"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Monster DJ - Because the Music Matters",
+   "htmlTitle": "Monster \u003cb\u003eDJ\u003c/b\u003e - Because the Music Matters",
+   "link": "http://www.monsterproducts.com/artistroster/dj.asp",
+   "displayLink": "www.monsterproducts.com",
+   "snippet": "Monster totally gets DJs. It's in our blood. Our cables pump it out in the world's   most awesome clubs. Our power drives some of the greatest acts in the dance ...",
+   "htmlSnippet": "Monster totally gets \u003cb\u003eDJs\u003c/b\u003e. It&#39;s in our blood. Our cables pump it out in the world&#39;s \u003cbr\u003e  most awesome clubs. Our power drives some of the greatest acts in the dance \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "e8lmJU93g00J",
+   "formattedUrl": "www.monsterproducts.com/artistroster/dj.asp",
+   "htmlFormattedUrl": "www.monsterproducts.com/artistroster/\u003cb\u003edj\u003c/b\u003e.asp",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.monsterproducts.com/artistroster/assets/BigTigger_Marquee2.jpg",
+      "type": "1",
+      "width": "257",
+      "height": "196"
+     }
+    ],
+    "metatags": [
+     {
+      "og:title": "Monster DJ",
+      "og:url": "http://www.monsterproducts.com/artistroster/dj.asp",
+      "og:type": "djs",
+      "og:site_name": "Monster DJ",
+      "fb:app_id": "161520260586736"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "DJ'S Snowmobile Adventures, Inc.",
+   "htmlTitle": "\u003cb\u003eDJ&#39;S\u003c/b\u003e Snowmobile Adventures, Inc.",
+   "link": "http://www.snowmobilemammoth.com/",
+   "displayLink": "www.snowmobilemammoth.com",
+   "snippet": "DJ'S Snowmobile Adventures, Inc. in Mammoth Lakes California.",
+   "htmlSnippet": "\u003cb\u003eDJ&#39;S\u003c/b\u003e Snowmobile Adventures, Inc. in Mammoth Lakes California.",
+   "cacheId": "i7Ho1U8AgBIJ",
+   "formattedUrl": "www.snowmobilemammoth.com/",
+   "htmlFormattedUrl": "www.snowmobilemammoth.com/"
+  }
+ ]
+}

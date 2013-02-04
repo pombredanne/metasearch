@@ -1,0 +1,306 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "nextPage": [
+   {
+    "title": "Google Custom Search - diversity",
+    "totalResults": "21900000",
+    "searchTerms": "diversity",
+    "count": 10,
+    "startIndex": 101,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "017401104989814545383:mf4lavmtuva"
+   }
+  ],
+  "request": [
+   {
+    "title": "Google Custom Search - diversity",
+    "totalResults": "21900000",
+    "searchTerms": "diversity",
+    "count": 10,
+    "startIndex": 91,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "017401104989814545383:mf4lavmtuva"
+   }
+  ],
+  "previousPage": [
+   {
+    "title": "Google Custom Search - diversity",
+    "totalResults": "21900000",
+    "searchTerms": "diversity",
+    "count": 10,
+    "startIndex": 81,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "017401104989814545383:mf4lavmtuva"
+   }
+  ]
+ },
+ "context": {
+  "title": "College MetaSearch Comparison"
+ },
+ "searchInformation": {
+  "searchTime": 0.161098,
+  "formattedSearchTime": "0.16",
+  "totalResults": "21900000",
+  "formattedTotalResults": "21,900,000"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "AMERICAN DIVERSITY REPORT",
+   "htmlTitle": "AMERICAN \u003cb\u003eDIVERSITY\u003c/b\u003e REPORT",
+   "link": "http://www.americandiversityreport.com/",
+   "displayLink": "www.americandiversityreport.com",
+   "snippet": "American Diversity Report is a creative resource for cultural diversity and global   leadership.",
+   "htmlSnippet": "American \u003cb\u003eDiversity\u003c/b\u003e Report is a creative resource for cultural \u003cb\u003ediversity\u003c/b\u003e and global \u003cbr\u003e  leadership.",
+   "cacheId": "BaJA2ieE7ekJ",
+   "formattedUrl": "www.americandiversityreport.com/",
+   "htmlFormattedUrl": "www.american\u003cb\u003ediversity\u003c/b\u003ereport.com/",
+   "pagemap": {
+    "metatags": [
+     {
+      "alexaverifyid": "Shvj2GGJPeHkrzWuR_W4homKiVs",
+      "msvalidate.01": "5EEA2119A9835A9CD471E07872226502"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Molecular Diversity - incl. option to publish open access",
+   "htmlTitle": "Molecular \u003cb\u003eDiversity\u003c/b\u003e - incl. option to publish open access",
+   "link": "http://www.springer.com/life+sciences/biochemistry+%26+biophysics/journal/11030",
+   "displayLink": "www.springer.com",
+   "snippet": "Molecular Diversity presents refereed papers describing the development,   application and theory of molecular diversity, and combinatorial chemistry in   basic ...",
+   "htmlSnippet": "Molecular \u003cb\u003eDiversity\u003c/b\u003e presents refereed papers describing the development, \u003cbr\u003e  application and theory of molecular \u003cb\u003ediversity\u003c/b\u003e, and combinatorial chemistry in \u003cbr\u003e  basic \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "4sdnDqCFtX8J",
+   "formattedUrl": "www.springer.com/life+sciences/biochemistry+%26.../11030",
+   "htmlFormattedUrl": "www.springer.com/life+sciences/biochemistry+%26.../11030",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://images.springer.com/cda/content/image/cda_displayimage.jpg?SGWID=0-0-16-135844-0",
+      "type": "1",
+      "width": "122",
+      "height": "165"
+     }
+    ],
+    "metatags": [
+     {
+      "audience": "all",
+      "distribution": "global",
+      "imagetoolbar": "no",
+      "og:title": "Molecular Diversity - incl. option to publish open access",
+      "og:site_name": "springer.com",
+      "og:type": "product",
+      "og:url": "http://www.springer.com/life+sciences/biochemistry+%26+biophysics/journal/11030",
+      "og:image": "http://images.springer.com/cda/content/image/cda_displayimage.jpg?SGWID=0-0-16-135844-0",
+      "og:description": "Molecular Diversity presents refereed papers describing the development, application and theory of molecular diversity, and combinatorial chemistry in basic and applied research and drug discovery. The journal publishes both short ...",
+      "fb:admins": "100001154999617"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Vault/MCCA Law Firm Diversity Database",
+   "htmlTitle": "Vault/MCCA Law Firm \u003cb\u003eDiversity\u003c/b\u003e Database",
+   "link": "http://mcca.vault.com/",
+   "displayLink": "mcca.vault.com",
+   "snippet": "Law Firm Diversity Database. Vault is proud to partner with the Minority   Corporate Counsel Association (MCCA) — a leading advocate for the expanded   hiring, ...",
+   "htmlSnippet": "Law Firm \u003cb\u003eDiversity\u003c/b\u003e Database. Vault is proud to partner with the Minority \u003cbr\u003e  Corporate Counsel Association (MCCA) — a leading advocate for the expanded \u003cbr\u003e  hiring, \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "OLjRV-fKlKoJ",
+   "formattedUrl": "mcca.vault.com/",
+   "htmlFormattedUrl": "mcca.vault.com/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://mcca.vault.com/images/header-vault-logo.jpg",
+      "type": "1",
+      "width": "119",
+      "height": "49"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Diversity and Inclusion",
+   "htmlTitle": "\u003cb\u003eDiversity\u003c/b\u003e and Inclusion",
+   "link": "http://www.google.com/diversity/",
+   "displayLink": "www.google.com",
+   "snippet": "Diversity@Google: A place to be you. At Google, we don't just accept difference –   we thrive on it. We celebrate it. And we support it, for the benefit of our ...",
+   "htmlSnippet": "\u003cb\u003eDiversity\u003c/b\u003e@Google: A place to be you. At Google, we don&#39;t just accept difference – \u003cbr\u003e  we thrive on it. We celebrate it. And we support it, for the benefit of our \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "8ozBx47iWHMJ",
+   "formattedUrl": "www.google.com/diversity/",
+   "htmlFormattedUrl": "www.google.com/\u003cb\u003ediversity\u003c/b\u003e/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.google.com/diversity/images/profiles.png",
+      "type": "1",
+      "width": "160",
+      "height": "115"
+     }
+    ],
+    "metatags": [
+     {
+      "viewport": "initial-scale=1, minimum-scale=1, width=device-width"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Supplier Diversity Solution Provider | DiversityBusiness.com ...",
+   "htmlTitle": "Supplier \u003cb\u003eDiversity\u003c/b\u003e Solution Provider | DiversityBusiness.com \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://www.diversitybusiness.com/",
+   "displayLink": "www.diversitybusiness.com",
+   "snippet": "DiversityBusiness.com - Information Center for Multicultural Owned Businesses   and Fortune 1000 Companies. The Online Supplier Diversity Hub.",
+   "htmlSnippet": "DiversityBusiness.com - Information Center for Multicultural Owned Businesses \u003cbr\u003e  and Fortune 1000 Companies. The Online Supplier \u003cb\u003eDiversity\u003c/b\u003e Hub.",
+   "cacheId": "LYJWKp8wJ8MJ",
+   "formattedUrl": "www.diversitybusiness.com/",
+   "htmlFormattedUrl": "www.\u003cb\u003ediversity\u003c/b\u003ebusiness.com/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.diversitybusiness.com/images/ms12/Slide8.jpg",
+      "type": "1",
+      "width": "153",
+      "height": "200"
+     }
+    ],
+    "metatags": [
+     {
+      "summary": "DiversityBusiness.com - Information Center for Multicultural Owned Businesses and Fortune 1000 Companies.  The Online Supplier Diversity Hub.",
+      "company": "DiversityBusiness.com"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "University of California - Diversity",
+   "htmlTitle": "University of California - \u003cb\u003eDiversity\u003c/b\u003e",
+   "link": "http://diversity.universityofcalifornia.edu/",
+   "displayLink": "diversity.universityofcalifornia.edu",
+   "snippet": "Feb 21, 2012 ... The University of California is committed to achieving excellence through   diversity in the classroom, research lab and the workplace. It strives to ...",
+   "htmlSnippet": "Feb 21, 2012 \u003cb\u003e...\u003c/b\u003e The University of California is committed to achieving excellence through \u003cbr\u003e  \u003cb\u003ediversity\u003c/b\u003e in the classroom, research lab and the workplace. It strives to \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "fXRls0BlWPMJ",
+   "formattedUrl": "diversity.universityofcalifornia.edu/",
+   "htmlFormattedUrl": "\u003cb\u003ediversity\u003c/b\u003e.universityofcalifornia.edu/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://diversity.universityofcalifornia.edu/images/yudof.jpg",
+      "type": "1",
+      "width": "132",
+      "height": "112"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Dialogue on Diversity",
+   "htmlTitle": "Dialogue on \u003cb\u003eDiversity\u003c/b\u003e",
+   "link": "http://www.dialogueondiversity.org/",
+   "displayLink": "www.dialogueondiversity.org",
+   "snippet": "Mission is the social and political advancement of women and men from diverse   cultural, ethnic, and national traditions.",
+   "htmlSnippet": "Mission is the social and political advancement of women and men from \u003cb\u003ediverse\u003c/b\u003e \u003cbr\u003e  cultural, ethnic, and national traditions.",
+   "cacheId": "I8uCxrh6JCcJ",
+   "formattedUrl": "www.dialogueondiversity.org/",
+   "htmlFormattedUrl": "www.dialogueon\u003cb\u003ediversity\u003c/b\u003e.org/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.dialogueondiversity.org/images/award_raul_yzaguirre.jpg",
+      "type": "1",
+      "width": "240",
+      "height": "149"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Earth Floor: Diversity",
+   "htmlTitle": "Earth Floor: \u003cb\u003eDiversity\u003c/b\u003e",
+   "link": "http://www.cotf.edu/ete/modules/msese/earthsysflr/diversity.html",
+   "displayLink": "www.cotf.edu",
+   "snippet": "Scientists use the words \"diversity,\" or \"biodiversity,\" to describe different aspects   of the variety of life forms all around us. Species diversity describes the number ...",
+   "htmlSnippet": "Scientists use the words &quot;\u003cb\u003ediversity\u003c/b\u003e,&quot; or &quot;biodiversity,&quot; to describe different aspects \u003cbr\u003e  of the variety of life forms all around us. Species \u003cb\u003ediversity\u003c/b\u003e describes the number \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "P8QmNBpPEqoJ",
+   "formattedUrl": "www.cotf.edu/ete/modules/msese/earthsysflr/diversity.html",
+   "htmlFormattedUrl": "www.cotf.edu/ete/modules/msese/earthsysflr/\u003cb\u003ediversity\u003c/b\u003e.html",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.cotf.edu/ete/images/modules/msese/earthsysflr/EFDiversityP1.jpg",
+      "type": "1",
+      "width": "100",
+      "height": "98"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Boeing: Diversity",
+   "htmlTitle": "Boeing: \u003cb\u003eDiversity\u003c/b\u003e",
+   "link": "http://www.boeing.com/aboutus/diversity/",
+   "displayLink": "www.boeing.com",
+   "snippet": "Diversity and inclusion are part of Boeing's values at the highest level. Having   diverse employees, business partners and community relationships is vital to ...",
+   "htmlSnippet": "\u003cb\u003eDiversity\u003c/b\u003e and inclusion are part of Boeing&#39;s values at the highest level. Having \u003cbr\u003e  \u003cb\u003ediverse\u003c/b\u003e employees, business partners and community relationships is vital to \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "aTBqlJYDTUgJ",
+   "formattedUrl": "www.boeing.com/aboutus/diversity/",
+   "htmlFormattedUrl": "www.boeing.com/aboutus/\u003cb\u003ediversity\u003c/b\u003e/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.boeing.com/aboutus/diversity/images/frontiers3.jpg",
+      "type": "1",
+      "width": "200",
+      "height": "160"
+     }
+    ],
+    "metatags": [
+     {
+      "title": "Boeing: Diversity",
+      "pageid": "p18847",
+      "group": "Corporate",
+      "non_program": "Diversity",
+      "category": "Diversity",
+      "reporting_segment": "www_Diversity",
+      "creation-date": "2008-01-09",
+      "revision-date": "2012-04-26",
+      "validuntil": "2016-12-31",
+      "type": "generic"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Diversity Day - Wikipedia, the free encyclopedia",
+   "htmlTitle": "\u003cb\u003eDiversity\u003c/b\u003e Day - Wikipedia, the free encyclopedia",
+   "link": "http://en.wikipedia.org/wiki/Diversity_Day",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "\"Diversity Day\" is the second episode of the first season of the American comedy   television series The Office, and the show's second episode overall. Written by ...",
+   "htmlSnippet": "&quot;\u003cb\u003eDiversity\u003c/b\u003e Day&quot; is the second episode of the first season of the American comedy \u003cbr\u003e  television series The Office, and the show&#39;s second episode overall. Written by \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "XozqO5qEqxEJ",
+   "formattedUrl": "en.wikipedia.org/wiki/Diversity_Day",
+   "htmlFormattedUrl": "en.wikipedia.org/wiki/\u003cb\u003eDiversity\u003c/b\u003e_Day"
+  }
+ ]
+}

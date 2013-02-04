@@ -1,0 +1,304 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "nextPage": [
+   {
+    "title": "Google Custom Search - air travel information",
+    "totalResults": "165000000",
+    "searchTerms": "air travel information",
+    "count": 10,
+    "startIndex": 51,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "017401104989814545383:mf4lavmtuva"
+   }
+  ],
+  "request": [
+   {
+    "title": "Google Custom Search - air travel information",
+    "totalResults": "165000000",
+    "searchTerms": "air travel information",
+    "count": 10,
+    "startIndex": 41,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "017401104989814545383:mf4lavmtuva"
+   }
+  ],
+  "previousPage": [
+   {
+    "title": "Google Custom Search - air travel information",
+    "totalResults": "165000000",
+    "searchTerms": "air travel information",
+    "count": 10,
+    "startIndex": 31,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "017401104989814545383:mf4lavmtuva"
+   }
+  ]
+ },
+ "context": {
+  "title": "College MetaSearch Comparison"
+ },
+ "searchInformation": {
+  "searchTime": 0.206677,
+  "formattedSearchTime": "0.21",
+  "totalResults": "165000000",
+  "formattedTotalResults": "165,000,000"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "Delta Air Lines - Airline Tickets and Airfare to Worldwide Destinations",
+   "htmlTitle": "Delta Air Lines - \u003cb\u003eAirline Tickets\u003c/b\u003e and Airfare to Worldwide Destinations",
+   "link": "http://www.delta.com/",
+   "displayLink": "www.delta.com",
+   "snippet": "Airline tickets, flight schedules, and air travel deals to destinations worldwide at   Delta.com. ... Enter valid information in the field(s) highlighted below. SkyMiles ...",
+   "htmlSnippet": "\u003cb\u003eAirline tickets\u003c/b\u003e, flight schedules, and \u003cb\u003eair travel\u003c/b\u003e deals to destinations worldwide at \u003cbr\u003e  Delta.com. \u003cb\u003e...\u003c/b\u003e Enter valid \u003cb\u003einformation\u003c/b\u003e in the field(s) highlighted below. SkyMiles \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "Xj3W42uJ9JwJ",
+   "formattedUrl": "www.delta.com/",
+   "htmlFormattedUrl": "www.delta.com/",
+   "pagemap": {
+    "metatags": [
+     {
+      "viewport": "width = 1024",
+      "application-name": "Delta Air Lines",
+      "msapplication-tooltip": "Airline Tickets and Airfare to Worldwide Destinations",
+      "msapplication-starturl": "http://www.delta.com",
+      "msapplication-window": "width=1024;height=768",
+      "msapplication-navbutton-color": "#A60117",
+      "msapplication-task": "name=Book a Flight;  action-uri=./booking/searchFlights.do;  icon-uri=./favicon.ico"
+     }
+    ],
+    "hcard": [
+     {
+      "fn": "@ Delta",
+      "nickname": "@ Delta",
+      "url": "https://twitter.com/intent/follow?original_referer=http%3A%2F%2Fdeltapolaris.razorfishtc.com%2Fathens-home-twitter.html&region=follow_link&screen_name=delta&source=followbutton&variant=2.0",
+      "url_text": "Follow @ Delta",
+      "label": "Follow @ Delta"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Online Flight Bookings, Ticket Bookings, Airfares, Promotions ...",
+   "htmlTitle": "Online Flight Bookings, Ticket Bookings, Airfares, Promotions \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://www.dragonair.com/",
+   "displayLink": "www.dragonair.com",
+   "snippet": "Book flights to Hong Kong, Shanghai, Beijing, Phuket, Taipei and other ... with   relevant offers, promotions, online services and information for your location.",
+   "htmlSnippet": "Book \u003cb\u003eflights\u003c/b\u003e to Hong Kong, Shanghai, Beijing, Phuket, Taipei and other \u003cb\u003e...\u003c/b\u003e with \u003cbr\u003e  relevant offers, promotions, online services and \u003cb\u003einformation\u003c/b\u003e for your location.",
+   "cacheId": "m-ZSjr0ZpQUJ",
+   "formattedUrl": "www.dragonair.com/",
+   "htmlFormattedUrl": "www.dragon\u003cb\u003eair\u003c/b\u003e.com/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.dragonair.com/ka/images/HK/Manage_Your_Trip/banner_KA_MBP_en.jpg",
+      "type": "1",
+      "width": "128",
+      "height": "64"
+     }
+    ],
+    "metatags": [
+     {
+      "taxonomy-title": "Dragonair"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Airline Pet Travel Information",
+   "htmlTitle": "\u003cb\u003eAirline\u003c/b\u003e Pet \u003cb\u003eTravel Information\u003c/b\u003e",
+   "link": "http://www.petflight.com/airlines/",
+   "displayLink": "www.petflight.com",
+   "snippet": "Airline travel and shipping information for all major airlines. In cabin carry on,   cargo and shipping.",
+   "htmlSnippet": "\u003cb\u003eAirline travel\u003c/b\u003e and shipping \u003cb\u003einformation\u003c/b\u003e for all major airlines. In cabin carry on, \u003cbr\u003e  cargo and shipping.",
+   "cacheId": "cn-D18E0_OkJ",
+   "formattedUrl": "www.petflight.com/airlines/",
+   "htmlFormattedUrl": "www.petflight.com/\u003cb\u003eairline\u003c/b\u003es/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.petflight.com/assets/airport_incidents_screen1-b77c64d6a3b0d3365f169fe0821de38b.jpg",
+      "type": "1",
+      "width": "256",
+      "height": "183"
+     }
+    ],
+    "metatags": [
+     {
+      "csrf-param": "authenticity_token",
+      "csrf-token": "Gh/tfk5iSTaZm2Y1m7IZQxMHUNsj5GG0F3X9+oG+mO8="
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Aspen Snowmass Air Travel Information",
+   "htmlTitle": "Aspen Snowmass \u003cb\u003eAir Travel Information\u003c/b\u003e",
+   "link": "http://www.stayaspensnowmass.com/vacation/transportation/airport",
+   "displayLink": "www.stayaspensnowmass.com",
+   "snippet": "Updated information about the Aspen Snowmass airport and air transportation to   and from Aspen Sardy Field.",
+   "htmlSnippet": "Updated \u003cb\u003einformation\u003c/b\u003e about the Aspen Snowmass airport and \u003cb\u003eair\u003c/b\u003e transportation to \u003cbr\u003e  and from Aspen Sardy Field.",
+   "cacheId": "NvJMs6Ua_PUJ",
+   "formattedUrl": "www.stayaspensnowmass.com/vacation/transportation/airport",
+   "htmlFormattedUrl": "www.stayaspensnowmass.com/vacation/\u003cb\u003etransport\u003c/b\u003eation/\u003cb\u003eair\u003c/b\u003eport",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://c349190.r90.cf1.rackcdn.com/sites/default/files/styles/featured_block/public/images/propimages/403main.jpg",
+      "type": "1",
+      "width": "148",
+      "height": "97"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Falcon Gold |Travel Information|Gulf Air",
+   "htmlTitle": "Falcon Gold |\u003cb\u003eTravel Information\u003c/b\u003e|Gulf \u003cb\u003eAir\u003c/b\u003e",
+   "link": "http://www.gulfair.com/English/info/TravelInformation/Pages/FalconGold.aspx",
+   "displayLink": "www.gulfair.com",
+   "snippet": "Offering the very best elements of Gulf Air's First Class for the price of a traditional   Business Class fare. The introduction of Falcon Gold across the airlines ...",
+   "htmlSnippet": "Offering the very best elements of Gulf \u003cb\u003eAir&#39;s\u003c/b\u003e First Class for the price of a traditional \u003cbr\u003e  Business Class \u003cb\u003efare\u003c/b\u003e. The introduction of Falcon Gold across the airlines \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "y95lJwFnrl8J",
+   "formattedUrl": "www.gulfair.com/English/info/TravelInformation/.../FalconGold.aspx",
+   "htmlFormattedUrl": "www.gulf\u003cb\u003eair\u003c/b\u003e.com/English/info/\u003cb\u003eTravelInformation\u003c/b\u003e/.../FalconGold.aspx",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.gulfair.com/Style%20Library/GulfAir%20Images/Seating1.jpg",
+      "type": "1",
+      "width": "160",
+      "height": "152"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Book cheap student and teacher flights, hotels and hostels with STA ...",
+   "htmlTitle": "Book cheap student and teacher \u003cb\u003eflights\u003c/b\u003e, hotels and hostels with STA \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://www.statravel.com/",
+   "displayLink": "www.statravel.com",
+   "snippet": "STA Travel is a discount student travel agency. Book cheap student and teacher   flights, hotels, and hostels. ... One way. Flexible dates Information tip ...",
+   "htmlSnippet": "STA \u003cb\u003eTravel\u003c/b\u003e is a discount student \u003cb\u003etravel\u003c/b\u003e agency. Book cheap student and teacher \u003cbr\u003e  \u003cb\u003eflights\u003c/b\u003e, hotels, and hostels. \u003cb\u003e...\u003c/b\u003e One way. Flexible dates \u003cb\u003eInformation\u003c/b\u003e tip \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "1V5yfFV0CBoJ",
+   "formattedUrl": "www.statravel.com/",
+   "htmlFormattedUrl": "www.sta\u003cb\u003etravel\u003c/b\u003e.com/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.statravel.com/static/us_division_web_live/assets/last_minute_adventure.jpg",
+      "type": "1",
+      "width": "303",
+      "height": "167"
+     }
+    ],
+    "metatags": [
+     {
+      "language": "english",
+      "y_key": "f18bf1cf32222f24",
+      "msvalidate.01": "2E204A314EAE9D9697065D5CCCCE8363"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Air Seychelles Travel Information",
+   "htmlTitle": "\u003cb\u003eAir\u003c/b\u003e Seychelles \u003cb\u003eTravel Information\u003c/b\u003e",
+   "link": "http://www.airseychelles.com/en/travel_information/index.php",
+   "displayLink": "www.airseychelles.com",
+   "snippet": "Baggage, health, travel, check-in, in-flight services, in-flight entertainment, duty   free and customer services information needed when travelling with Air ...",
+   "htmlSnippet": "Baggage, health, \u003cb\u003etravel\u003c/b\u003e, check-in, in-flight services, in-flight entertainment, duty \u003cbr\u003e  free and customer services \u003cb\u003einformation\u003c/b\u003e needed when \u003cb\u003etravelling\u003c/b\u003e with \u003cb\u003eAir\u003c/b\u003e \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "No75XUJnJ-sJ",
+   "formattedUrl": "www.airseychelles.com/en/travel_information/index.php",
+   "htmlFormattedUrl": "www.\u003cb\u003eair\u003c/b\u003eseychelles.com/en/\u003cb\u003etravel\u003c/b\u003e_\u003cb\u003einformation\u003c/b\u003e/index.php",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.airseychelles.com/media/products/editorial/19/before-you-travel.jpg",
+      "type": "1",
+      "width": "425",
+      "height": "118"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Fleet |Travel Information|Gulf Air",
+   "htmlTitle": "Fleet |\u003cb\u003eTravel Information\u003c/b\u003e|Gulf \u003cb\u003eAir\u003c/b\u003e",
+   "link": "http://www.gulfair.com/English/info/TravelInformation/Pages/seating.aspx",
+   "displayLink": "www.gulfair.com",
+   "snippet": "Gulf Air Sleeper Seat service available for long haul flight between Bahrain and   Bangkok, Frankfurt, Kuala Lumpur, London, Paris, and a number of regional ...",
+   "htmlSnippet": "Gulf \u003cb\u003eAir\u003c/b\u003e Sleeper Seat service available for long haul flight between Bahrain and \u003cbr\u003e  Bangkok, Frankfurt, Kuala Lumpur, London, Paris, and a number of regional \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "emz438NIy1gJ",
+   "formattedUrl": "www.gulfair.com/English/info/TravelInformation/.../seating.aspx",
+   "htmlFormattedUrl": "www.gulf\u003cb\u003eair\u003c/b\u003e.com/English/info/\u003cb\u003eTravelInformation\u003c/b\u003e/.../seating.aspx",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.gulfair.com/Style%20Library/GulfAir%20Images/Seating1.jpg",
+      "type": "1",
+      "width": "160",
+      "height": "152"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Air Travel Information Service",
+   "htmlTitle": "\u003cb\u003eAir Travel Information\u003c/b\u003e Service",
+   "link": "http://www.ai.sri.com/natural-language/projects/arpa-sls/atis.html",
+   "displayLink": "www.ai.sri.com",
+   "snippet": "Air Travel Information Service (ATIS). From 1990 to 1994, SRI International used   the task of retrieving airline schedules, fares, and related information from a ...",
+   "htmlSnippet": "\u003cb\u003eAir Travel Information\u003c/b\u003e Service (ATIS). From 1990 to 1994, SRI International used \u003cbr\u003e  the task of retrieving airline schedules, fares, and related information from a \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "P_zq936zd1cJ",
+   "formattedUrl": "www.ai.sri.com/natural-language/projects/arpa-sls/atis.html",
+   "htmlFormattedUrl": "www.ai.sri.com/natural-language/projects/arpa-sls/atis.html"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Travel Information - Policies & Travel Tips - Alaska Airlines",
+   "htmlTitle": "\u003cb\u003eTravel Information\u003c/b\u003e - Policies &amp; \u003cb\u003eTravel\u003c/b\u003e Tips - Alaska Airlines",
+   "link": "http://www.alaskaair.com/content/travel-info.aspx",
+   "displayLink": "www.alaskaair.com",
+   "snippet": "Find travel information including check-in options, baggage rules/fees, on board   policies, travel tips, international & domestic travel details and more at ...",
+   "htmlSnippet": "Find \u003cb\u003etravel information\u003c/b\u003e including check-in options, baggage rules/fees, on board \u003cbr\u003e  policies, \u003cb\u003etravel\u003c/b\u003e tips, international &amp; domestic \u003cb\u003etravel\u003c/b\u003e details and more at \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "jOeOS7bGieEJ",
+   "formattedUrl": "www.alaskaair.com/content/travel-info.aspx",
+   "htmlFormattedUrl": "www.alaska\u003cb\u003eair\u003c/b\u003e.com/content/\u003cb\u003etravel\u003c/b\u003e-info.aspx",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.alaskaair.com/~/media/Images/quickLinks/QL-AirportInfo.ashx?h=78&w=78",
+      "type": "1",
+      "width": "73",
+      "height": "73"
+     }
+    ],
+    "metatags": [
+     {
+      "title": "Travel Information"
+     }
+    ]
+   }
+  }
+ ]
+}

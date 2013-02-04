@@ -1,0 +1,403 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "nextPage": [
+   {
+    "title": "Google Custom Search - dinosaurs",
+    "totalResults": "10800000",
+    "searchTerms": "dinosaurs",
+    "count": 10,
+    "startIndex": 51,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "017401104989814545383:mf4lavmtuva"
+   }
+  ],
+  "request": [
+   {
+    "title": "Google Custom Search - dinosaurs",
+    "totalResults": "10800000",
+    "searchTerms": "dinosaurs",
+    "count": 10,
+    "startIndex": 41,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "017401104989814545383:mf4lavmtuva"
+   }
+  ],
+  "previousPage": [
+   {
+    "title": "Google Custom Search - dinosaurs",
+    "totalResults": "10800000",
+    "searchTerms": "dinosaurs",
+    "count": 10,
+    "startIndex": 31,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "017401104989814545383:mf4lavmtuva"
+   }
+  ]
+ },
+ "context": {
+  "title": "College MetaSearch Comparison"
+ },
+ "searchInformation": {
+  "searchTime": 0.154538,
+  "formattedSearchTime": "0.15",
+  "totalResults": "10800000",
+  "formattedTotalResults": "10,800,000"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "Extreme Dinosaurs Starttheme / Intro - YouTube",
+   "htmlTitle": "Extreme \u003cb\u003eDinosaurs\u003c/b\u003e Starttheme / Intro - YouTube",
+   "link": "http://www.youtube.com/watch?v=SqgJ6wzSW8k",
+   "displayLink": "www.youtube.com",
+   "snippet": "Sep 1, 2006 ... Extreme Dinosaurs Intro \"lyrics\" taken from newgrounds.com/portal/view/321874:   Somethin's really rockin' On planet number 3 Modern man's ...",
+   "htmlSnippet": "Sep 1, 2006 \u003cb\u003e...\u003c/b\u003e Extreme \u003cb\u003eDinosaurs\u003c/b\u003e Intro &quot;lyrics&quot; taken from newgrounds.com/portal/view/321874: \u003cbr\u003e  Somethin&#39;s really rockin&#39; On planet number 3 Modern man&#39;s \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "IaXeqg6eBC0J",
+   "formattedUrl": "www.youtube.com/watch?v=SqgJ6wzSW8k",
+   "htmlFormattedUrl": "www.youtube.com/watch?v=SqgJ6wzSW8k",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://i4.ytimg.com/vi/SqgJ6wzSW8k/mqdefault.jpg"
+     }
+    ],
+    "videoobject": [
+     {
+      "url": "http://www.youtube.com/watch?v=SqgJ6wzSW8k",
+      "name": "Extreme Dinosaurs Starttheme / Intro",
+      "description": "Extreme Dinosaurs Intro \"lyrics\" taken from newgrounds.com/portal/view/321874: Somethin's really rockin' On planet number 3 Modern man's got prehistoric comp...",
+      "duration": "PT1M2S",
+      "unlisted": "False",
+      "paid": "False",
+      "thumbnailurl": "http://i4.ytimg.com/vi/SqgJ6wzSW8k/hqdefault.jpg",
+      "embedurl": "http://www.youtube.com/v/SqgJ6wzSW8k?version=3&autohide=1",
+      "playertype": "Flash",
+      "width": "480",
+      "height": "360"
+     }
+    ],
+    "person": [
+     {
+      "url": "http://www.youtube.com/user/muerbeteig"
+     }
+    ],
+    "metatags": [
+     {
+      "title": "Extreme Dinosaurs Starttheme / Intro",
+      "og:url": "http://www.youtube.com/watch?v=SqgJ6wzSW8k",
+      "og:title": "Extreme Dinosaurs Starttheme / Intro",
+      "og:description": "Extreme Dinosaurs Intro \"lyrics\" taken from newgrounds.com/portal/view/321874: Somethin's really rockin' On planet number 3 Modern man's got prehistoric comp...",
+      "og:type": "video",
+      "og:image": "http://i4.ytimg.com/vi/SqgJ6wzSW8k/mqdefault.jpg",
+      "og:video": "http://www.youtube.com/v/SqgJ6wzSW8k?version=3&autohide=1",
+      "og:video:type": "application/x-shockwave-flash",
+      "og:video:width": "480",
+      "og:video:height": "360",
+      "og:site_name": "YouTube",
+      "fb:app_id": "87741124305",
+      "twitter:player:width": "480",
+      "twitter:player:height": "360",
+      "attribution": "youtube_none/"
+     }
+    ],
+    "imageobject": [
+     {
+      "url": "http://i4.ytimg.com/vi/SqgJ6wzSW8k/mqdefault.jpg",
+      "width": "320",
+      "height": "180"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Encyclopedia Prehistorica Dinosaurs: The Definitive Pop-Up",
+   "htmlTitle": "Encyclopedia Prehistorica \u003cb\u003eDinosaurs\u003c/b\u003e: The Definitive Pop-Up",
+   "link": "http://www.amazon.com/Encyclopedia-Prehistorica-Dinosaurs-Definitive-Pop-Up/dp/0763622281",
+   "displayLink": "www.amazon.com",
+   "snippet": "Encyclopedia Prehistorica Dinosaurs: The Definitive Pop-Up [Robert Sabuda,   Matthew Reinhart] on Amazon.com. *FREE* super saver shipping on qualifying ...",
+   "htmlSnippet": "Encyclopedia Prehistorica \u003cb\u003eDinosaurs\u003c/b\u003e: The Definitive Pop-Up [Robert Sabuda, \u003cbr\u003e  Matthew Reinhart] on Amazon.com. *FREE* super saver shipping on qualifying \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "L8s1VOCPT-0J",
+   "formattedUrl": "www.amazon.com/Encyclopedia...Dinosaurs...Pop.../0763622281",
+   "htmlFormattedUrl": "www.amazon.com/Encyclopedia...\u003cb\u003eDinosaurs\u003c/b\u003e...Pop.../0763622281",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://ecx.images-amazon.com/images/I/51EYXYFFYFL._SL500_AA300_.jpg"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "225",
+      "height": "225",
+      "src": "https://encrypted-tbn2.google.com/images?q=tbn:ANd9GcRtHiahUQNOVsGAp4s-AZlXNCoRz5zMD8isBLhiWwSKpMtxnSeGtoSwp5Vx"
+     }
+    ],
+    "scraped": [
+     {
+      "image_link": "http://ecx.images-amazon.com/images/I/51EYXYFFYFL._SL500_AA300_.jpg"
+     }
+    ],
+    "metatags": [
+     {
+      "title": "Amazon.com: Encyclopedia Prehistorica Dinosaurs: The Definitive Pop-Up (9780763622282): Robert Sabuda, Matthew Reinhart: Books"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "List of U.S. state dinosaurs - Wikipedia, the free encyclopedia",
+   "htmlTitle": "List of U.S. state \u003cb\u003edinosaurs\u003c/b\u003e - Wikipedia, the free encyclopedia",
+   "link": "http://en.wikipedia.org/wiki/List_of_U.S._state_dinosaurs",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "This is a list of U.S. state dinosaurs in the United States, including the District of   Columbia. A large number of states also have dinosaurs as state fossils, but this ...",
+   "htmlSnippet": "This is a list of U.S. state \u003cb\u003edinosaurs\u003c/b\u003e in the United States, including the District of \u003cbr\u003e  Columbia. A large number of states also have \u003cb\u003edinosaurs\u003c/b\u003e as state fossils, but this \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "VBb9U8zjfgMJ",
+   "formattedUrl": "en.wikipedia.org/wiki/List_of_U.S._state_dinosaurs",
+   "htmlFormattedUrl": "en.wikipedia.org/wiki/List_of_U.S._state_\u003cb\u003edinosaurs\u003c/b\u003e",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Stegosaurus_BW.jpg/300px-Stegosaurus_BW.jpg",
+      "type": "1",
+      "width": "240",
+      "height": "175"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Dinosaurs: The American Museum of Natural History Collections",
+   "htmlTitle": "\u003cb\u003eDinosaurs\u003c/b\u003e: The American Museum of Natural History Collections",
+   "link": "http://itunes.apple.com/us/app/dinosaurs-american-museum/id351849237?mt=8",
+   "displayLink": "itunes.apple.com",
+   "snippet": "May 9, 2011 ... Read reviews, get customer ratings, see screenshots, and learn more about   Dinosaurs: The American Museum of Natural History Collections ...",
+   "htmlSnippet": "May 9, 2011 \u003cb\u003e...\u003c/b\u003e Read reviews, get customer ratings, see screenshots, and learn more about \u003cbr\u003e  \u003cb\u003eDinosaurs\u003c/b\u003e: The American Museum of Natural History Collections \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "Ity19ITKaTUJ",
+   "formattedUrl": "itunes.apple.com/us/app/dinosaurs-american.../id351849237?mt=8",
+   "htmlFormattedUrl": "itunes.apple.com/us/app/\u003cb\u003edinosaurs\u003c/b\u003e-american.../id351849237?mt=8",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://a3.mzstatic.com/us/r1000/045/Purple/a9/0d/66/mzl.jtxntgvm.175x175-75.jpg",
+      "type": "1",
+      "width": "140",
+      "height": "140"
+     }
+    ],
+    "metatags": [
+     {
+      "og:title": "Dinosaurs: The American Museum of Natural History Collections",
+      "og:description": "Get Dinosaurs: The American Museum of Natural History Collections on the App Store. See screenshots and ratings, and read customer reviews.",
+      "og:image": "http://a3.mzstatic.com/us/r1000/045/Purple/a9/0d/66/mzl.jtxntgvm.175x175-75.jpg",
+      "og:site_name": "App Store"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Discovering Dinosaurs",
+   "htmlTitle": "Discovering \u003cb\u003eDinosaurs\u003c/b\u003e",
+   "link": "http://kids.britannica.com/dinosaurs/dinosaurs/index2.html",
+   "displayLink": "kids.britannica.com",
+   "snippet": "Discovering Dinosaurs, presented by Encyclopaedia Britannica, explores how   our conception of dinosaurs has evolved in the 150 years since dinosaurs were ...",
+   "htmlSnippet": "Discovering \u003cb\u003eDinosaurs\u003c/b\u003e, presented by Encyclopaedia Britannica, explores how \u003cbr\u003e  our conception of \u003cb\u003edinosaurs\u003c/b\u003e has evolved in the 150 years since \u003cb\u003edinosaurs\u003c/b\u003e were \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "8MyER23HgzcJ",
+   "formattedUrl": "kids.britannica.com/dinosaurs/dinosaurs/index2.html",
+   "htmlFormattedUrl": "kids.britannica.com/\u003cb\u003edinosaurs\u003c/b\u003e/\u003cb\u003edinosaurs\u003c/b\u003e/index2.html",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://kids.britannica.com/dinosaurs/dinosaurs/images/main03.gif",
+      "type": "1",
+      "width": "316",
+      "height": "160"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "ScienceDaily: Dinosaur News",
+   "htmlTitle": "ScienceDaily: \u003cb\u003eDinosaur\u003c/b\u003e News",
+   "link": "http://www.sciencedaily.com/news/fossils_ruins/dinosaurs/",
+   "displayLink": "www.sciencedaily.com",
+   "snippet": "All about dinosaurs. Read about dinosaur discoveries including gigantic meat-  eating dinosaurs, earliest dinosaurs and more. Dinosaur pictures and articles.",
+   "htmlSnippet": "All about \u003cb\u003edinosaurs\u003c/b\u003e. Read about \u003cb\u003edinosaur\u003c/b\u003e discoveries including gigantic meat-\u003cbr\u003e  eating \u003cb\u003edinosaurs\u003c/b\u003e, earliest \u003cb\u003edinosaurs\u003c/b\u003e and more. \u003cb\u003eDinosaur\u003c/b\u003e pictures and articles.",
+   "cacheId": "erkJYBXSbpQJ",
+   "formattedUrl": "www.sciencedaily.com/news/fossils_ruins/dinosaurs/",
+   "htmlFormattedUrl": "www.sciencedaily.com/news/fossils_ruins/\u003cb\u003edinosaurs\u003c/b\u003e/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://images.sciencedaily.com/2012/07/120716101215.jpg",
+      "type": "1",
+      "width": "240",
+      "height": "140"
+     }
+    ],
+    "metatags": [
+     {
+      "last-modified": "Sun, 22 Jul 2012 09:07:50 GMT",
+      "expires": "Sun, 22 Jul 2012 10:07:50 GMT",
+      "pics-label": "(PICS-1.1 'http://www.rsac.org/ratingsv01.html' l gen true comment 'RSACi North America Server' by 'editor@sciencedaily.com' for 'http://www.sciencedaily.com' on '1997.05.07T20:05-0500' r (n 0 s 0 v 0 l 0))",
+      "viewport": "width=device-width"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Dinosaurs - TV.com",
+   "htmlTitle": "\u003cb\u003eDinosaurs\u003c/b\u003e - TV.com",
+   "link": "http://www.tv.com/shows/dinosaurs/",
+   "displayLink": "www.tv.com",
+   "snippet": "Dinosaurs: Watch full length episodes & video clips. Read the latest Dinosaurs   episode guides & recaps, fan reviews, news, and much more.",
+   "htmlSnippet": "\u003cb\u003eDinosaurs\u003c/b\u003e: Watch full length episodes &amp; video clips. Read the latest \u003cb\u003eDinosaurs\u003c/b\u003e \u003cbr\u003e  episode guides &amp; recaps, fan reviews, news, and much more.",
+   "cacheId": "aCtAncA_eeIJ",
+   "formattedUrl": "www.tv.com/shows/dinosaurs/",
+   "htmlFormattedUrl": "www.tv.com/shows/\u003cb\u003edinosaurs\u003c/b\u003e/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://im1n.clkimg.com/i/pL/015/15679.jpg"
+     }
+    ],
+    "tvepisode": [
+     {
+      "episodenumber": "14",
+      "url": "Georgie Must Die",
+      "name": "Georgie Must Die"
+     }
+    ],
+    "aggregaterating": [
+     {
+      "ratingvalue": "8.8",
+      "bestrating": "10",
+      "ratingcount": "994 votes"
+     }
+    ],
+    "tvseries": [
+     {
+      "name": "Dinosaurs",
+      "image": "http://im1n.clkimg.com/i/pL/015/15679.jpg",
+      "description": "The show was conceived by the Muppet masters at Jim Henson Productions, who wanted to do a sitcom-style show with puppets using the animatronics processes the company had developed. The brain..."
+     }
+    ],
+    "metatags": [
+     {
+      "author": "TV.com",
+      "copyright": "© 2010 TV.com",
+      "og:site_name": "TV.com",
+      "fb:app_id": "63749637650",
+      "og:url": "http://www.tv.com/shows/dinosaurs/",
+      "og:image": "http://im1n.clkimg.com/i/pL/015/15679.jpg",
+      "og:title": "Dinosaurs",
+      "og:type": "tv_show"
+     }
+    ],
+    "moviereview": [
+     {
+      "ratingstars": "4.5",
+      "best": "10",
+      "originalrating": "8.8",
+      "votes": "994 votes",
+      "image_href": "http://im1n.clkimg.com/i/pL/015/15679.jpg",
+      "name": "Dinosaurs",
+      "summary": "The show was conceived by the Muppet masters at Jim Henson Productions, who wanted to do a sitcom-style show with puppets using the animatronics processes..."
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Funschool - Dinosaurs - Games, Printables and Crafts for Kids",
+   "htmlTitle": "Funschool - \u003cb\u003eDinosaurs\u003c/b\u003e - Games, Printables and Crafts for Kids",
+   "link": "http://funschool.kaboose.com/time-warp/dinosaurs/",
+   "displayLink": "funschool.kaboose.com",
+   "snippet": "The Dinosaurs Activity Center in the Time Warp history channel offers free online   dinosaur games for kids, dinosaur crafts, and dinosaur printables to help kids ...",
+   "htmlSnippet": "The \u003cb\u003eDinosaurs\u003c/b\u003e Activity Center in the Time Warp history channel offers free online \u003cbr\u003e  \u003cb\u003edinosaur\u003c/b\u003e games for kids, \u003cb\u003edinosaur\u003c/b\u003e crafts, and \u003cb\u003edinosaur\u003c/b\u003e printables to help kids \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "uLkJhJd_a2oJ",
+   "formattedUrl": "funschool.kaboose.com/time-warp/dinosaurs/",
+   "htmlFormattedUrl": "funschool.kaboose.com/time-warp/\u003cb\u003edinosaurs\u003c/b\u003e/"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "BillyBear4Kids.com Land O' Dinosaurs",
+   "htmlTitle": "BillyBear4Kids.com Land O&#39; \u003cb\u003eDinosaurs\u003c/b\u003e",
+   "link": "http://www.billybear4kids.com/dinosaurs/long-long-ago.html",
+   "displayLink": "www.billybear4kids.com",
+   "snippet": "Learn a bit about the dinosaur from Billy Bear. Play games, download puzzles   and decorate your computer's desktop with dinosaurs.",
+   "htmlSnippet": "Learn a bit about the \u003cb\u003edinosaur\u003c/b\u003e from Billy Bear. Play games, download puzzles \u003cbr\u003e  and decorate your computer&#39;s desktop with \u003cb\u003edinosaurs\u003c/b\u003e.",
+   "cacheId": "21UwlEUQnCgJ",
+   "formattedUrl": "www.billybear4kids.com/dinosaurs/long-long-ago.html",
+   "htmlFormattedUrl": "www.billybear4kids.com/\u003cb\u003edinosaurs\u003c/b\u003e/long-long-ago.html",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.billybear4kids.com/dinosaurs/Lucky-Disney/LuckyDisney3.jpg",
+      "type": "1",
+      "width": "131",
+      "height": "121"
+     }
+    ],
+    "metatags": [
+     {
+      "owner": "Loraine Wauer Ferus",
+      "copyright": "1999, 2000",
+      "rating": "general"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Dinosaur Hall | Academy of Natural Sciences of Drexel University",
+   "htmlTitle": "\u003cb\u003eDinosaur\u003c/b\u003e Hall | Academy of Natural Sciences of Drexel University",
+   "link": "http://www.ansp.org/visit/exhibits/dinosaur-hall/",
+   "displayLink": "www.ansp.org",
+   "snippet": "Dinosaur Hall is a public exhibit space that contains over 30 species of dinosaurs   and other Mesozoic reptiles. It also features The Big Dig, a hands-on exhibit ...",
+   "htmlSnippet": "\u003cb\u003eDinosaur\u003c/b\u003e Hall is a public exhibit space that contains over 30 species of \u003cb\u003edinosaurs\u003c/b\u003e \u003cbr\u003e  and other Mesozoic reptiles. It also features The Big Dig, a hands-on exhibit \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "CDdQwcbswgYJ",
+   "formattedUrl": "www.ansp.org/visit/exhibits/dinosaur-hall/",
+   "htmlFormattedUrl": "www.ansp.org/visit/exhibits/\u003cb\u003edinosaur\u003c/b\u003e-hall/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.ansp.org/~/media/Images/ans/visit/exhibits/dinosaurs/tyrannosaurus_308x206.ashx?w=308&h=206&as=1",
+      "type": "1",
+      "width": "246",
+      "height": "164"
+     }
+    ],
+    "metatags": [
+     {
+      "code_language": "C#",
+      "vs_defaultclientscript": "JavaScript",
+      "vs_targetschema": "http://schemas.microsoft.com/intellisense/ie5",
+      "abstract": "Information about dinosaur exhibit",
+      "og:title": "Dinosaur Hall",
+      "og:type": "article",
+      "og:image": "/~/media/Images/ans/visit/exhibits/dinosaurs/tyrannosaurus_62x62.ashx?h=62&w=62",
+      "og:url": "http://www.ansp.org/visit/exhibits/dinosaur-hall/",
+      "og:site_name": "Drexel University - Academy of Natural Sciences of Drexel University, the Natural History Museum in Philadelphia"
+     }
+    ]
+   }
+  }
+ ]
+}

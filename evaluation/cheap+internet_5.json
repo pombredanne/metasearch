@@ -1,0 +1,293 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "nextPage": [
+   {
+    "title": "Google Custom Search - cheap internet",
+    "totalResults": "116000000",
+    "searchTerms": "cheap internet",
+    "count": 10,
+    "startIndex": 61,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "017401104989814545383:mf4lavmtuva"
+   }
+  ],
+  "request": [
+   {
+    "title": "Google Custom Search - cheap internet",
+    "totalResults": "116000000",
+    "searchTerms": "cheap internet",
+    "count": 10,
+    "startIndex": 51,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "017401104989814545383:mf4lavmtuva"
+   }
+  ],
+  "previousPage": [
+   {
+    "title": "Google Custom Search - cheap internet",
+    "totalResults": "116000000",
+    "searchTerms": "cheap internet",
+    "count": 10,
+    "startIndex": 41,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "017401104989814545383:mf4lavmtuva"
+   }
+  ]
+ },
+ "context": {
+  "title": "College MetaSearch Comparison"
+ },
+ "searchInformation": {
+  "searchTime": 0.178455,
+  "formattedSearchTime": "0.18",
+  "totalResults": "116000000",
+  "formattedTotalResults": "116,000,000"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "Cheap New York High Speed Internet Service - Cheap NY ...",
+   "htmlTitle": "\u003cb\u003eCheap\u003c/b\u003e New York High Speed \u003cb\u003eInternet\u003c/b\u003e Service - \u003cb\u003eCheap\u003c/b\u003e NY \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://isp1.us/state/new-york/",
+   "displayLink": "isp1.us",
+   "snippet": "Compare Cheap New York High Speed Broadband Internet service providers.   Our discount prices are the lowest you'll find in New York. ISP 1 compares ...",
+   "htmlSnippet": "Compare \u003cb\u003eCheap\u003c/b\u003e New York High Speed Broadband \u003cb\u003eInternet\u003c/b\u003e service providers. \u003cbr\u003e  Our discount prices are the lowest you&#39;ll find in New York. ISP 1 compares \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "GPhBRduMvOUJ",
+   "formattedUrl": "isp1.us/state/new-york/",
+   "htmlFormattedUrl": "isp1.us/state/new-york/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://isp1.us/img/s-ny-f.gif",
+      "type": "1",
+      "width": "120",
+      "height": "64"
+     }
+    ],
+    "metatags": [
+     {
+      "classification": "New York High Speed Internet Service Provider NY DSL ISP",
+      "date": "2012-16-06"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Connect to Compete Broadband Internet for Low Income Americans",
+   "htmlTitle": "Connect to Compete Broadband \u003cb\u003eInternet\u003c/b\u003e for Low Income Americans",
+   "link": "http://www.cheapinternet.com/low-income-internet/connect-to-compete",
+   "displayLink": "www.cheapinternet.com",
+   "snippet": "All the details on the inexpensive “Connect to Compete” high-speed broadband   internet program eligible to low income Americans.",
+   "htmlSnippet": "All the details on the inexpensive “Connect to Compete” high-speed broadband \u003cbr\u003e  \u003cb\u003einternet\u003c/b\u003e program eligible to low income Americans.",
+   "cacheId": "v7NSWPP-pTEJ",
+   "formattedUrl": "www.cheapinternet.com/low-income-internet/connect-to-compete",
+   "htmlFormattedUrl": "www.\u003cb\u003echeapinternet\u003c/b\u003e.com/low-income-\u003cb\u003einternet\u003c/b\u003e/connect-to-compete"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Cheap Illinois High Speed Internet Service - Cheap IL Broadband ...",
+   "htmlTitle": "\u003cb\u003eCheap\u003c/b\u003e Illinois High Speed \u003cb\u003eInternet\u003c/b\u003e Service - \u003cb\u003eCheap\u003c/b\u003e IL Broadband \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://isp1.us/state/illinois/",
+   "displayLink": "isp1.us",
+   "snippet": "Compare Cheap Illinois High Speed Broadband Internet service providers. Our   discount prices are the lowest you'll find in Illinois. ISP 1 compares Broadband ...",
+   "htmlSnippet": "Compare \u003cb\u003eCheap\u003c/b\u003e Illinois High Speed Broadband \u003cb\u003eInternet\u003c/b\u003e service providers. Our \u003cbr\u003e  discount prices are the lowest you&#39;ll find in Illinois. ISP 1 compares Broadband \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "ZY0LQDXaOQUJ",
+   "formattedUrl": "isp1.us/state/illinois/",
+   "htmlFormattedUrl": "isp1.us/state/illinois/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://isp1.us/img/s-il-f.gif",
+      "type": "1",
+      "width": "120",
+      "height": "64"
+     }
+    ],
+    "metatags": [
+     {
+      "classification": "Illinois High Speed Internet Service Provider IL DSL ISP",
+      "date": "2012-16-06"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Broadband ISP | Cheap Internet Access Provider Deals",
+   "htmlTitle": "Broadband ISP | \u003cb\u003eCheap Internet\u003c/b\u003e Access Provider Deals",
+   "link": "http://www.internet-access-provider.us/",
+   "displayLink": "www.internet-access-provider.us",
+   "snippet": "Compare broadband ISP deals from all the providers in one place. Best prices on   reliable, quality service. Watch Internet TV on your broadband connection.",
+   "htmlSnippet": "Compare broadband ISP deals from all the providers in one place. Best prices on \u003cbr\u003e  reliable, quality service. Watch \u003cb\u003eInternet\u003c/b\u003e TV on your broadband connection.",
+   "cacheId": "EF5oHVuV0IAJ",
+   "formattedUrl": "www.internet-access-provider.us/",
+   "htmlFormattedUrl": "www.\u003cb\u003einternet\u003c/b\u003e-access-provider.us/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.internet-access-provider.us/shopfordsl_logo_small.gif",
+      "type": "1",
+      "width": "97",
+      "height": "52"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Cheap Kentucky High Speed Internet Service - Cheap KY ...",
+   "htmlTitle": "\u003cb\u003eCheap\u003c/b\u003e Kentucky High Speed \u003cb\u003eInternet\u003c/b\u003e Service - \u003cb\u003eCheap\u003c/b\u003e KY \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://isp1.us/state/kentucky/",
+   "displayLink": "isp1.us",
+   "snippet": "Compare Cheap Kentucky High Speed Broadband Internet service providers.   Our discount prices are the lowest you'll find in Kentucky. ISP 1 compares ...",
+   "htmlSnippet": "Compare \u003cb\u003eCheap\u003c/b\u003e Kentucky High Speed Broadband \u003cb\u003eInternet\u003c/b\u003e service providers. \u003cbr\u003e  Our discount prices are the lowest you&#39;ll find in Kentucky. ISP 1 compares \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "qnAOCSSiZAoJ",
+   "formattedUrl": "isp1.us/state/kentucky/",
+   "htmlFormattedUrl": "isp1.us/state/kentucky/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://isp1.us/img/s-ky-f.gif",
+      "type": "1",
+      "width": "120",
+      "height": "64"
+     }
+    ],
+    "metatags": [
+     {
+      "classification": "Kentucky High Speed Internet Service Provider KY DSL ISP",
+      "date": "2012-16-06"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Cheap ISP's in San Francisco | San Francisco | Yelp",
+   "htmlTitle": "\u003cb\u003eCheap\u003c/b\u003e ISP&#39;s in San Francisco | San Francisco | Yelp",
+   "link": "http://www.yelp.com/topic/san-francisco-cheap-isps-in-san-francisco",
+   "displayLink": "www.yelp.com",
+   "snippet": "Feb 2, 2009 ... I know where I can watch TV when I feel like it, but does anyone know who the   cheapest internet service provider is in the area that's not dial-up ...",
+   "htmlSnippet": "Feb 2, 2009 \u003cb\u003e...\u003c/b\u003e I know where I can watch TV when I feel like it, but does anyone know who the \u003cbr\u003e  \u003cb\u003echeapest internet\u003c/b\u003e service provider is in the area that&#39;s not dial-up \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "b4zpr6_bTn8J",
+   "formattedUrl": "www.yelp.com/topic/san-francisco-cheap-isps-in-san-francisco",
+   "htmlFormattedUrl": "www.yelp.com/topic/san-francisco-\u003cb\u003echeap\u003c/b\u003e-isps-in-san-francisco",
+   "pagemap": {
+    "metatags": [
+     {
+      "relativepagescore": "400000"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Cheap California High Speed Internet Service - Cheap CA ...",
+   "htmlTitle": "\u003cb\u003eCheap\u003c/b\u003e California High Speed \u003cb\u003eInternet\u003c/b\u003e Service - \u003cb\u003eCheap\u003c/b\u003e CA \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://isp1.us/state/california/",
+   "displayLink": "isp1.us",
+   "snippet": "Compare Cheap California High Speed Broadband Internet service providers.   Our discount prices are the lowest you'll find in California. ISP 1 compares ...",
+   "htmlSnippet": "Compare \u003cb\u003eCheap\u003c/b\u003e California High Speed Broadband \u003cb\u003eInternet\u003c/b\u003e service providers. \u003cbr\u003e  Our discount prices are the lowest you&#39;ll find in California. ISP 1 compares \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "WlQcc3IJIA0J",
+   "formattedUrl": "isp1.us/state/california/",
+   "htmlFormattedUrl": "isp1.us/state/california/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://isp1.us/img/s-ca-f.gif",
+      "type": "1",
+      "width": "120",
+      "height": "64"
+     }
+    ],
+    "metatags": [
+     {
+      "classification": "California High Speed Internet Service Provider CA DSL ISP",
+      "date": "2012-16-06"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Internet Deals - Best, Cheap Internet Deals - High Speed Phone",
+   "htmlTitle": "Internet Deals - Best, \u003cb\u003eCheap Internet\u003c/b\u003e Deals - High Speed Phone",
+   "link": "http://www.cheapinternetdeals.org/",
+   "displayLink": "www.cheapinternetdeals.org",
+   "snippet": "Cheap Internet deals offered by Internet service providers that include dial up   Internet, high speed Internet, Internet fax, Internet phone, website hosting and ...",
+   "htmlSnippet": "\u003cb\u003eCheap Internet\u003c/b\u003e deals offered by Internet service providers that include dial up \u003cbr\u003e  Internet, high speed Internet, Internet fax, Internet phone, website hosting and \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "SyUZQuSI1nsJ",
+   "formattedUrl": "www.cheapinternetdeals.org/",
+   "htmlFormattedUrl": "www.\u003cb\u003echeapinternet\u003c/b\u003edeals.org/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.cheapinternetdeals.org/internet-deals.jpg",
+      "type": "1",
+      "width": "280",
+      "height": "173"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Cheap Washington High Speed Internet Service - Cheap WA ...",
+   "htmlTitle": "\u003cb\u003eCheap\u003c/b\u003e Washington High Speed \u003cb\u003eInternet\u003c/b\u003e Service - \u003cb\u003eCheap\u003c/b\u003e WA \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://isp1.us/state/washington/",
+   "displayLink": "isp1.us",
+   "snippet": "Compare Cheap Washington High Speed Broadband Internet service providers.   Our discount prices are the lowest you'll find in Washington. ISP 1 compares ...",
+   "htmlSnippet": "Compare \u003cb\u003eCheap\u003c/b\u003e Washington High Speed Broadband \u003cb\u003eInternet\u003c/b\u003e service providers. \u003cbr\u003e  Our discount prices are the lowest you&#39;ll find in Washington. ISP 1 compares \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "3kN3kHPhvqcJ",
+   "formattedUrl": "isp1.us/state/washington/",
+   "htmlFormattedUrl": "isp1.us/state/washington/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://isp1.us/img/s-wa-f.gif",
+      "type": "1",
+      "width": "120",
+      "height": "64"
+     }
+    ],
+    "metatags": [
+     {
+      "classification": "Washington High Speed Internet Service Provider WA DSL ISP",
+      "date": "2012-16-06"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "High Speed Service Provider | Hawaii Cable TV, Internet, Phone ...",
+   "htmlTitle": "High Speed Service Provider | Hawaii Cable TV, \u003cb\u003eInternet\u003c/b\u003e, Phone \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://www.oceanic.com/",
+   "displayLink": "www.oceanic.com",
+   "snippet": "Oceanic Time Warner Cable is Hawaii's provider for cable television, high-speed   internet services, home phone and mobile wireless internet.",
+   "htmlSnippet": "Oceanic Time Warner Cable is Hawaii&#39;s provider for cable television, high-speed \u003cbr\u003e  \u003cb\u003einternet\u003c/b\u003e services, home phone and mobile wireless \u003cb\u003einternet\u003c/b\u003e.",
+   "cacheId": "JL07I-jRwn8J",
+   "formattedUrl": "www.oceanic.com/",
+   "htmlFormattedUrl": "www.oceanic.com/",
+   "pagemap": {
+    "metatags": [
+     {
+      "copyright": "Copyright 2011 Oceanic Time Warner Cable"
+     }
+    ]
+   }
+  }
+ ]
+}

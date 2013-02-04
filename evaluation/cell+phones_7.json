@@ -1,0 +1,327 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "nextPage": [
+   {
+    "title": "Google Custom Search - cell phones",
+    "totalResults": "164000000",
+    "searchTerms": "cell phones",
+    "count": 10,
+    "startIndex": 81,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "017401104989814545383:mf4lavmtuva"
+   }
+  ],
+  "request": [
+   {
+    "title": "Google Custom Search - cell phones",
+    "totalResults": "164000000",
+    "searchTerms": "cell phones",
+    "count": 10,
+    "startIndex": 71,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "017401104989814545383:mf4lavmtuva"
+   }
+  ],
+  "previousPage": [
+   {
+    "title": "Google Custom Search - cell phones",
+    "totalResults": "164000000",
+    "searchTerms": "cell phones",
+    "count": 10,
+    "startIndex": 61,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "017401104989814545383:mf4lavmtuva"
+   }
+  ]
+ },
+ "context": {
+  "title": "College MetaSearch Comparison"
+ },
+ "searchInformation": {
+  "searchTime": 0.202157,
+  "formattedSearchTime": "0.20",
+  "totalResults": "164000000",
+  "formattedTotalResults": "164,000,000"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "Cell Phones and SIM Cards in Europe by Rick Steves",
+   "htmlTitle": "\u003cb\u003eCell Phones\u003c/b\u003e and SIM Cards in Europe by Rick Steves",
+   "link": "http://www.ricksteves.com/plan/tips/mobilephones.htm",
+   "displayLink": "www.ricksteves.com",
+   "snippet": "Need to make calls in Europe? Figure out your best option, whether it's bringing a   cell phone from home, buying a prepaid phone, renting a European mobile ...",
+   "htmlSnippet": "Need to make calls in Europe? Figure out your best option, whether it&#39;s bringing a \u003cbr\u003e  \u003cb\u003ecell phone\u003c/b\u003e from home, buying a prepaid phone, renting a European mobile \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "0io1Y1Wew0MJ",
+   "formattedUrl": "www.ricksteves.com/plan/tips/mobilephones.htm",
+   "htmlFormattedUrl": "www.ricksteves.com/plan/tips/\u003cb\u003emobilephones\u003c/b\u003e.htm",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.ricksteves.com/images/tips/cellbabe.jpg",
+      "type": "1",
+      "width": "192",
+      "height": "164"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Cell Phone Plans, Data Plans, Prepaid Plans, & Family Plans from ...",
+   "htmlTitle": "\u003cb\u003eCell Phone\u003c/b\u003e Plans, Data Plans, Prepaid Plans, &amp; Family Plans from \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://www.att.com/shop/wireless/plans.html",
+   "displayLink": "www.att.com",
+   "snippet": "AT&T Cell Phone Plans including Family Plans, Data Plans, Individual Plans, and   Prepaid Plans from AT&T.",
+   "htmlSnippet": "AT&amp;T \u003cb\u003eCell Phone\u003c/b\u003e Plans including Family Plans, Data Plans, Individual Plans, and \u003cbr\u003e  Prepaid Plans from AT&amp;T.",
+   "cacheId": "8deRSFaTTIUJ",
+   "formattedUrl": "www.att.com/shop/wireless/plans.html",
+   "htmlFormattedUrl": "www.att.com/shop/\u003cb\u003ewireless\u003c/b\u003e/plans.html",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.att.com/shopcms/media/att/2012/shop/landing/shop-plans3-family.jpg",
+      "type": "1",
+      "width": "194",
+      "height": "88"
+     }
+    ],
+    "metatags": [
+     {
+      "dcsext.wtpn": "HRock Plans"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Cell Phone & Carrier News - Cell Phone Forums",
+   "htmlTitle": "\u003cb\u003eCell Phone\u003c/b\u003e &amp; Carrier News - \u003cb\u003eCell Phone\u003c/b\u003e Forums",
+   "link": "http://cellphoneforums.net/",
+   "displayLink": "cellphoneforums.net",
+   "snippet": "3 hours ago ... North American orientated mobile community. Discussion about all makes and   carriers of cell phones, wallpaper, games, and ringtones.",
+   "htmlSnippet": "3 hours ago \u003cb\u003e...\u003c/b\u003e North American orientated mobile community. Discussion about all makes and \u003cbr\u003e  carriers of \u003cb\u003ecell phones\u003c/b\u003e, wallpaper, games, and ringtones.",
+   "cacheId": "tjPj4hXOuMMJ",
+   "formattedUrl": "cellphoneforums.net/",
+   "htmlFormattedUrl": "\u003cb\u003ecellphone\u003c/b\u003eforums.net/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://cellphoneforums.net/content/attachments/50844t-zte-n880e-android-41-jelly-bean.jpg?cid=24",
+      "type": "1",
+      "width": "80",
+      "height": "80"
+     }
+    ],
+    "website": [
+     {
+      "app_id": "39043874074",
+      "site_name": "Cell Phone Forums",
+      "url": "http://cellphoneforums.net/",
+      "type": "website"
+     }
+    ],
+    "metatags": [
+     {
+      "vb_meta_bburl": "http://cellphoneforums.net",
+      "fb:app_id": "39043874074",
+      "og:site_name": "Cell Phone Forums",
+      "og:url": "http://cellphoneforums.net/",
+      "og:type": "website"
+     }
+    ],
+    "breadcrumb": [
+     {
+      "url": "Home",
+      "title": "Home"
+     },
+     {
+      "title": "Cell Phone & Carrier News"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Cell Phone (film) - Wikipedia, the free encyclopedia",
+   "htmlTitle": "\u003cb\u003eCell Phone\u003c/b\u003e (film) - Wikipedia, the free encyclopedia",
+   "link": "http://en.wikipedia.org/wiki/Cell_Phone_(film)",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "Cell Phone (simplified Chinese: 手机; traditional Chinese: 手機; pinyin: shŏujī) is   an award-winning Chinese comedy-drama film directed by Feng Xiaogang and ...",
+   "htmlSnippet": "\u003cb\u003eCell Phone\u003c/b\u003e (simplified Chinese: 手机; traditional Chinese: 手機; pinyin: shŏujī) is \u003cbr\u003e  an award-winning Chinese comedy-drama film directed by Feng Xiaogang and \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "uNf6J7eNELEJ",
+   "formattedUrl": "en.wikipedia.org/wiki/Cell_Phone_(film)",
+   "htmlFormattedUrl": "en.wikipedia.org/wiki/\u003cb\u003eCell\u003c/b\u003e_\u003cb\u003ePhone\u003c/b\u003e_(film)",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://upload.wikimedia.org/wikipedia/en/thumb/1/1c/Cell_Phone_movie_poster.jpg/220px-Cell_Phone_movie_poster.jpg",
+      "type": "1",
+      "width": "176",
+      "height": "248"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Cell Phone Reviews, Covering Mobile Phones, Smart Phones ...",
+   "htmlTitle": "\u003cb\u003eCell Phone\u003c/b\u003e Reviews, Covering \u003cb\u003eMobile Phones\u003c/b\u003e, Smart Phones \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://www.pcworld.com/products/phones.html",
+   "displayLink": "www.pcworld.com",
+   "snippet": "Cell phone reviews, buying guides, and price comparisons on popular cell   phones including iPhone, Blackberry, Palm Pre, and Andriod.",
+   "htmlSnippet": "\u003cb\u003eCell phone\u003c/b\u003e reviews, buying guides, and price comparisons on popular \u003cb\u003ecell\u003c/b\u003e \u003cbr\u003e  \u003cb\u003ephones\u003c/b\u003e including iPhone, Blackberry, Palm Pre, and Andriod.",
+   "cacheId": "Nob0AdiQA7kJ",
+   "formattedUrl": "www.pcworld.com/products/phones.html",
+   "htmlFormattedUrl": "www.pcworld.com/products/\u003cb\u003ephones\u003c/b\u003e.html",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://zapp2.staticworld.net/images/article/2012/07/wrap1-11387765.jpg",
+      "type": "1",
+      "width": "144",
+      "height": "144"
+     }
+    ],
+    "metatags": [
+     {
+      "title": "Cell Phone Reviews, Covering Mobile Phones, Smart Phones, PDAs, iPhone, Blackberry And More.",
+      "og:title": "Cell Phone Reviews, Covering Mobile Phones, Smart Phones, PDAs, iPhone, Blackberry And More.",
+      "og:type": "article",
+      "og:site_name": "PCWorld",
+      "application-name": "PCWorld",
+      "msapplication-tooltip": "Launch PCWorld in Site Mode",
+      "msapplication-starturl": "http://www.pcworld.com/",
+      "msapplication-window": "width=1100;height=760",
+      "msapplication-navbutton-color": "red",
+      "msapplication-task": "name=News;action-uri=http://www.pcworld.com/news.html;icon-uri=http://zapp3.staticworld.net/shared/graphics/favicon.ico"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Cell Phone Numbers Going Public? - Urban Legends",
+   "htmlTitle": "\u003cb\u003eCell Phone\u003c/b\u003e Numbers Going Public? - Urban Legends",
+   "link": "http://urbanlegends.about.com/od/business/a/cell_directory.htm",
+   "displayLink": "urbanlegends.about.com",
+   "snippet": "Viral messages warn that a directory of cell phone numbers will soon be   published and urge users to dial 888-382-1222 to list mobile numbers with the   federal ...",
+   "htmlSnippet": "Viral messages warn that a directory of \u003cb\u003ecell phone\u003c/b\u003e numbers will soon be \u003cbr\u003e  published and urge users to dial 888-382-1222 to list mobile numbers with the \u003cbr\u003e  federal \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "kgRWoEXIm_cJ",
+   "formattedUrl": "urbanlegends.about.com/od/business/a/cell_directory.htm",
+   "htmlFormattedUrl": "urbanlegends.about.com/od/business/a/\u003cb\u003ecell\u003c/b\u003e_directory.htm",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://0.tqn.com/d/create/1/D/Z/w/3/-/SpotUrbanLegend.jpg",
+      "type": "1",
+      "width": "99",
+      "height": "74"
+     }
+    ],
+    "metatags": [
+     {
+      "pd": "Tuesday, 10-Apr-2012 02:29:01 UTC",
+      "og:title": "Email: Cell Phone Numbers Going Public",
+      "og:type": "article",
+      "og:url": "http://urbanlegends.about.com/od/business/a/cell_directory.htm",
+      "og:site_name": "About.com Urban Legends",
+      "fb:app_id": "121030274606741"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "List of countries by number of mobile phones in use - Wikipedia, the ...",
+   "htmlTitle": "List of countries by number of \u003cb\u003emobile phones\u003c/b\u003e in use - Wikipedia, the \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://en.wikipedia.org/wiki/List_of_countries_by_number_of_mobile_phones_in_use",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "From Wikipedia, the free encyclopedia. Jump to: navigation, search. This list   ranks the countries of the world by the number of mobile phones in use.",
+   "htmlSnippet": "From Wikipedia, the free encyclopedia. Jump to: navigation, search. This list \u003cbr\u003e  ranks the countries of the world by the number of \u003cb\u003emobile phones\u003c/b\u003e in use.",
+   "cacheId": "dAifPQmYAEIJ",
+   "formattedUrl": "en.wikipedia.org/.../List_of_countries_by_number_of_mobile_phones_in_ use",
+   "htmlFormattedUrl": "en.wikipedia.org/.../List_of_countries_by_number_of_\u003cb\u003emobile\u003c/b\u003e_\u003cb\u003ephones\u003c/b\u003e_in_ use"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Free Phones, Free Cell Phones, Smartphones & Mobile Devices ...",
+   "htmlTitle": "Free Phones, Free \u003cb\u003eCell Phones\u003c/b\u003e, Smartphones &amp; Mobile Devices \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://www.att.com/shop/wireless/devices/freephones.html",
+   "displayLink": "www.att.com",
+   "snippet": "AT&T has the best selection of FREE Phones, FREE Smartphones, FREE Cell   Phones, Free Mobile Devices and more from AT&T.",
+   "htmlSnippet": "AT&amp;T has the best selection of FREE Phones, FREE Smartphones, FREE \u003cb\u003eCell\u003c/b\u003e \u003cbr\u003e  \u003cb\u003ePhones\u003c/b\u003e, Free Mobile Devices and more from AT&amp;T.",
+   "cacheId": "MstZbd0EnnUJ",
+   "formattedUrl": "www.att.com/shop/wireless/devices/freephones.html",
+   "htmlFormattedUrl": "www.att.com/shop/\u003cb\u003ewireless\u003c/b\u003e/devices/free\u003cb\u003ephones\u003c/b\u003e.html",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://2.ecom.attccc.com/catalog/en/skus/images/sharp-fx%20plus-black-100x160.jpg",
+      "type": "1",
+      "width": "80",
+      "height": "128"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Cellphones News, Videos, Reviews and Gossip - Gizmodo",
+   "htmlTitle": "\u003cb\u003eCellphones\u003c/b\u003e News, Videos, Reviews and Gossip - Gizmodo",
+   "link": "http://gizmodo.com/cellphones/",
+   "displayLink": "gizmodo.com",
+   "snippet": "Jun 8, 2012 ... What Happens When You Inherit George Zimmerman's Old Phone Number.   Nano-SIMs Given Official Approval to Replace Micro-SIMs in ...",
+   "htmlSnippet": "Jun 8, 2012 \u003cb\u003e...\u003c/b\u003e What Happens When You Inherit George Zimmerman&#39;s Old \u003cb\u003ePhone\u003c/b\u003e Number. \u003cbr\u003e  Nano-SIMs Given Official Approval to Replace Micro-SIMs in \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "iIJyYBtsnyUJ",
+   "formattedUrl": "gizmodo.com/cellphones/",
+   "htmlFormattedUrl": "gizmodo.com/\u003cb\u003ecellphones\u003c/b\u003e/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://img.gawkerassets.com/img/17p54ss74jiegjpg/xlarge.jpg",
+      "type": "1",
+      "width": "300",
+      "height": "168"
+     }
+    ],
+    "metatags": [
+     {
+      "og:description": "What Happens When You Inherit George Zimmerman's Old Phone Number. Nano-SIMs Given Official Approval to Replace Micro-SIMs in Cellphones. Better Cell Phone Towers Kill People (Updated).",
+      "viewport": "width=1024"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Wireless 911 Services | FCC.gov",
+   "htmlTitle": "\u003cb\u003eWireless\u003c/b\u003e 911 Services | FCC.gov",
+   "link": "http://www.fcc.gov/guides/wireless-911-services/",
+   "displayLink": "www.fcc.gov",
+   "snippet": "The number of 911 calls placed by people using wireless phones has   significantly increased in recent years. It is estimated that about 70 percent of 911   calls are ...",
+   "htmlSnippet": "The number of 911 calls placed by people using \u003cb\u003ewireless phones\u003c/b\u003e has \u003cbr\u003e  significantly increased in recent years. It is estimated that about 70 percent of 911 \u003cbr\u003e  calls are \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "dMvJMRHoxQIJ",
+   "formattedUrl": "www.fcc.gov/guides/wireless-911-services/",
+   "htmlFormattedUrl": "www.fcc.gov/guides/\u003cb\u003ewireless\u003c/b\u003e-911-services/",
+   "pagemap": {
+    "metatags": [
+     {
+      "viewport": "width=device-width, initial-scale=1.0"
+     }
+    ]
+   }
+  }
+ ]
+}

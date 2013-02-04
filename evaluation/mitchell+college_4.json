@@ -1,0 +1,318 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "nextPage": [
+   {
+    "title": "Google Custom Search - mitchell college",
+    "totalResults": "20300000",
+    "searchTerms": "mitchell college",
+    "count": 10,
+    "startIndex": 51,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "017401104989814545383:mf4lavmtuva"
+   }
+  ],
+  "request": [
+   {
+    "title": "Google Custom Search - mitchell college",
+    "totalResults": "20300000",
+    "searchTerms": "mitchell college",
+    "count": 10,
+    "startIndex": 41,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "017401104989814545383:mf4lavmtuva"
+   }
+  ],
+  "previousPage": [
+   {
+    "title": "Google Custom Search - mitchell college",
+    "totalResults": "20300000",
+    "searchTerms": "mitchell college",
+    "count": 10,
+    "startIndex": 31,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "017401104989814545383:mf4lavmtuva"
+   }
+  ]
+ },
+ "context": {
+  "title": "College MetaSearch Comparison"
+ },
+ "searchInformation": {
+  "searchTime": 0.139477,
+  "formattedSearchTime": "0.14",
+  "totalResults": "20300000",
+  "formattedTotalResults": "20,300,000"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "Thames Academy - Mitchell College",
+   "htmlTitle": "Thames Academy - \u003cb\u003eMitchell College\u003c/b\u003e",
+   "link": "http://community.mitchell.edu/thamesacademy",
+   "displayLink": "community.mitchell.edu",
+   "snippet": "Thames Academy. A Whole New Way to Look at Post-Grad and Pre-College   Experiences. Thames Academy is a post-grad (PG) or pre-college transitional ...",
+   "htmlSnippet": "Thames Academy. A Whole New Way to Look at Post-Grad and Pre-\u003cb\u003eCollege\u003c/b\u003e \u003cbr\u003e  Experiences. Thames Academy is a post-grad (PG) or pre-\u003cb\u003ecollege\u003c/b\u003e transitional \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "efhXssF2068J",
+   "formattedUrl": "community.mitchell.edu/thamesacademy",
+   "htmlFormattedUrl": "community.\u003cb\u003emitchell\u003c/b\u003e.edu/thamesacademy",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://community.mitchell.edu/view.image?Id=674",
+      "type": "1",
+      "width": "389",
+      "height": "129"
+     }
+    ],
+    "metatags": [
+     {
+      "vs_targetschema": "http://schemas.microsoft.com/intellisense/ie5",
+      "last-modified": "7/17/2012 4:35:33 PM"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Mitchell College Campus Directory - Mitchell College",
+   "htmlTitle": "\u003cb\u003eMitchell College\u003c/b\u003e Campus Directory - \u003cb\u003eMitchell College\u003c/b\u003e",
+   "link": "http://community.mitchell.edu/Contact",
+   "displayLink": "community.mitchell.edu",
+   "snippet": "President's Message · History · Mission & Core Values · Mitchell at a Glance ·   Traditions · Employment · Bentsen Learning Center · Campus Calendar ·   Campus ...",
+   "htmlSnippet": "President&#39;s Message &middot; History &middot; Mission &amp; Core Values &middot; \u003cb\u003eMitchell\u003c/b\u003e at a Glance &middot; \u003cbr\u003e  Traditions &middot; Employment &middot; Bentsen Learning Center &middot; Campus Calendar &middot; \u003cbr\u003e  Campus \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "fjDtPXmzyr8J",
+   "formattedUrl": "community.mitchell.edu/Contact",
+   "htmlFormattedUrl": "community.\u003cb\u003emitchell\u003c/b\u003e.edu/Contact",
+   "pagemap": {
+    "metatags": [
+     {
+      "vs_targetschema": "http://schemas.microsoft.com/intellisense/ie5",
+      "last-modified": "7/17/2012 4:35:33 PM"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "William Mitchell College of Law - Wikipedia, the free encyclopedia",
+   "htmlTitle": "William \u003cb\u003eMitchell College\u003c/b\u003e of Law - Wikipedia, the free encyclopedia",
+   "link": "http://en.wikipedia.org/wiki/William_Mitchell_College_of_Law",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "William Mitchell College of Law, or WMCL, is a private, independent law school   located in St. Paul, Minnesota. Accredited by the American Bar Association ...",
+   "htmlSnippet": "William \u003cb\u003eMitchell College\u003c/b\u003e of Law, or WMCL, is a private, independent law school \u003cbr\u003e  located in St. Paul, Minnesota. Accredited by the American Bar Association \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "3171zNLykM8J",
+   "formattedUrl": "en.wikipedia.org/wiki/William_Mitchell_College_of_Law",
+   "htmlFormattedUrl": "en.wikipedia.org/wiki/William_\u003cb\u003eMitchell\u003c/b\u003e_\u003cb\u003eCollege\u003c/b\u003e_of_Law",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://upload.wikimedia.org/wikipedia/en/0/04/WilliamMitchell.png",
+      "type": "1",
+      "width": "150",
+      "height": "88"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Alumni and Friends - Mitchell College",
+   "htmlTitle": "Alumni and Friends - \u003cb\u003eMitchell College\u003c/b\u003e",
+   "link": "http://community.mitchell.edu/alumni",
+   "displayLink": "community.mitchell.edu",
+   "snippet": "All alumni have lifetime access to the individualized services of the Mitchell   College Career Center. Check out the Career Center today to find out how they   can ...",
+   "htmlSnippet": "All alumni have lifetime access to the individualized services of the \u003cb\u003eMitchell\u003c/b\u003e \u003cbr\u003e  \u003cb\u003eCollege\u003c/b\u003e Career Center. Check out the Career Center today to find out how they \u003cbr\u003e  can \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "XBNKjxpDX_0J",
+   "formattedUrl": "community.mitchell.edu/alumni",
+   "htmlFormattedUrl": "community.\u003cb\u003emitchell\u003c/b\u003e.edu/alumni",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://community.mitchell.edu/image/2012-giving/GiveOnline.png",
+      "type": "1",
+      "width": "217",
+      "height": "124"
+     }
+    ],
+    "metatags": [
+     {
+      "vs_targetschema": "http://schemas.microsoft.com/intellisense/ie5",
+      "last-modified": "7/19/2012 8:19:51 PM"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Mitchell College Summer Sessions - Mitchell College",
+   "htmlTitle": "\u003cb\u003eMitchell College\u003c/b\u003e Summer Sessions - \u003cb\u003eMitchell College\u003c/b\u003e",
+   "link": "http://www.mitchell.edu/summer/",
+   "displayLink": "www.mitchell.edu",
+   "snippet": "Summer 2012. How are you planning on spending your summer months?   Mitchell College has several ways for you to study, sun and surf this coming   summer.",
+   "htmlSnippet": "Summer 2012. How are you planning on spending your summer months? \u003cbr\u003e  \u003cb\u003eMitchell College\u003c/b\u003e has several ways for you to study, sun and surf this coming \u003cbr\u003e  summer.",
+   "cacheId": "_IacbOZX0tMJ",
+   "formattedUrl": "www.mitchell.edu/summer/",
+   "htmlFormattedUrl": "www.\u003cb\u003emitchell\u003c/b\u003e.edu/summer/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://community.mitchell.edu/view.image?Id=1269",
+      "type": "1",
+      "width": "197",
+      "height": "256"
+     }
+    ],
+    "metatags": [
+     {
+      "vs_targetschema": "http://schemas.microsoft.com/intellisense/ie5",
+      "last-modified": "7/19/2012 8:19:51 PM"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Soccer",
+   "htmlTitle": "Soccer",
+   "link": "http://mitchellathletics.com/sports/msoc/index",
+   "displayLink": "mitchellathletics.com",
+   "snippet": "Mitchell Places 12 on NECC Academic Team February 8, 2012 ATTLEBORO,   Mass. - Mitchell College placed 12 student-athletes on the New England ...",
+   "htmlSnippet": "Mitchell Places 12 on NECC Academic Team February 8, 2012 ATTLEBORO, \u003cbr\u003e  Mass. - \u003cb\u003eMitchell College\u003c/b\u003e placed 12 student-athletes on the New England \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "oYCmkRYaKA0J",
+   "formattedUrl": "mitchellathletics.com/sports/msoc/index",
+   "htmlFormattedUrl": "\u003cb\u003emitchell\u003c/b\u003eathletics.com/sports/msoc/index",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://mitchellathletics.com/images/logos/act_gen_NECC09-01.jpg?max_width=480&max_height=320&crop=true",
+      "type": "1",
+      "width": "275",
+      "height": "183"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Applying to Mitchell College - Mitchell College",
+   "htmlTitle": "Applying to \u003cb\u003eMitchell College\u003c/b\u003e - \u003cb\u003eMitchell College\u003c/b\u003e",
+   "link": "http://community.mitchell.edu/apply",
+   "displayLink": "community.mitchell.edu",
+   "snippet": "Mitchell College Welcomes Applications From All U.S. and International Learners  . Admission is on a rolling basis. We begin accepting applications in August ...",
+   "htmlSnippet": "\u003cb\u003eMitchell College\u003c/b\u003e Welcomes Applications From All U.S. and International Learners\u003cbr\u003e  . Admission is on a rolling basis. We begin accepting applications in August \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "rzFYDxClhQYJ",
+   "formattedUrl": "community.mitchell.edu/apply",
+   "htmlFormattedUrl": "community.\u003cb\u003emitchell\u003c/b\u003e.edu/apply",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://community.mitchell.edu/view.image?Id=1214",
+      "type": "1",
+      "width": "275",
+      "height": "183"
+     }
+    ],
+    "metatags": [
+     {
+      "vs_targetschema": "http://schemas.microsoft.com/intellisense/ie5",
+      "last-modified": "7/19/2012 8:19:51 PM"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Board of Trustees - William Mitchell College of Law",
+   "htmlTitle": "Board of Trustees - William \u003cb\u003eMitchell College\u003c/b\u003e of Law",
+   "link": "http://www.wmitchell.edu/about/trustees.html",
+   "displayLink": "www.wmitchell.edu",
+   "snippet": "Officers. Stephen Bonner '72. Chair. Stephen B. Bonner '72. President and CEO,   Cancer Treatment Centers of America, Chicago B.A., Amherst College ...",
+   "htmlSnippet": "Officers. Stephen Bonner &#39;72. Chair. Stephen B. Bonner &#39;72. President and CEO, \u003cbr\u003e  Cancer Treatment Centers of America, Chicago B.A., Amherst \u003cb\u003eCollege\u003c/b\u003e \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "TE74W3vJ2mMJ",
+   "formattedUrl": "www.wmitchell.edu/about/trustees.html",
+   "htmlFormattedUrl": "www.w\u003cb\u003emitchell\u003c/b\u003e.edu/about/trustees.html",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.wmitchell.edu/images/2011/Stephen-Bonner.jpg",
+      "type": "1",
+      "width": "120",
+      "height": "165"
+     }
+    ],
+    "metatags": [
+     {
+      "language": "en-US"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "The Mitchell Faculty",
+   "htmlTitle": "The \u003cb\u003eMitchell\u003c/b\u003e Faculty",
+   "link": "http://web.wmitchell.edu/biography/",
+   "displayLink": "web.wmitchell.edu",
+   "snippet": "William Mitchell's curriculum is often enriched by distinguished professors and ...   They continue to work in the legal field and periodically return to the college to ...",
+   "htmlSnippet": "William \u003cb\u003eMitchell&#39;s\u003c/b\u003e curriculum is often enriched by distinguished professors and \u003cb\u003e...\u003c/b\u003e \u003cbr\u003e  They continue to work in the legal field and periodically return to the \u003cb\u003ecollege\u003c/b\u003e to \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "ZFSDwKlThvUJ",
+   "formattedUrl": "web.wmitchell.edu/biography/",
+   "htmlFormattedUrl": "web.w\u003cb\u003emitchell\u003c/b\u003e.edu/biography/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.wmitchell.edu/images/faculty/eric+janus+portrait.jpg",
+      "type": "1",
+      "width": "148",
+      "height": "160"
+     }
+    ],
+    "metatags": [
+     {
+      "language": "en-US",
+      "msvalidate.01": "AF654E75E024CD565E29E234FDC4161A"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Mitchell College Academic Support Services - Mitchell College",
+   "htmlTitle": "\u003cb\u003eMitchell College\u003c/b\u003e Academic Support Services - \u003cb\u003eMitchell College\u003c/b\u003e",
+   "link": "https://community.mitchell.edu/ASC",
+   "displayLink": "community.mitchell.edu",
+   "snippet": "Dr. Dawn Brill Duquès '64 and Ric Duquès. Academic Success Center. Mitchell   College has built its reputation on providing students with an outstanding ...",
+   "htmlSnippet": "Dr. Dawn Brill Duquès &#39;64 and Ric Duquès. Academic Success Center. \u003cb\u003eMitchell\u003c/b\u003e \u003cbr\u003e  \u003cb\u003eCollege\u003c/b\u003e has built its reputation on providing students with an outstanding \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "Bgu76lNmR4AJ",
+   "formattedUrl": "https://community.mitchell.edu/ASC",
+   "htmlFormattedUrl": "https://community.\u003cb\u003emitchell\u003c/b\u003e.edu/ASC",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "https://community.mitchell.edu/view.image?Id=1220",
+      "type": "1",
+      "width": "144",
+      "height": "51"
+     }
+    ],
+    "metatags": [
+     {
+      "vs_targetschema": "http://schemas.microsoft.com/intellisense/ie5",
+      "last-modified": "7/17/2012 4:35:33 PM"
+     }
+    ]
+   }
+  }
+ ]
+}

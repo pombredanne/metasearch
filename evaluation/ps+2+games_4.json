@@ -1,0 +1,292 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "nextPage": [
+   {
+    "title": "Google Custom Search - ps 2 games",
+    "totalResults": "53800000",
+    "searchTerms": "ps 2 games",
+    "count": 10,
+    "startIndex": 51,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "017401104989814545383:mf4lavmtuva"
+   }
+  ],
+  "request": [
+   {
+    "title": "Google Custom Search - ps 2 games",
+    "totalResults": "53800000",
+    "searchTerms": "ps 2 games",
+    "count": 10,
+    "startIndex": 41,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "017401104989814545383:mf4lavmtuva"
+   }
+  ],
+  "previousPage": [
+   {
+    "title": "Google Custom Search - ps 2 games",
+    "totalResults": "53800000",
+    "searchTerms": "ps 2 games",
+    "count": 10,
+    "startIndex": 31,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "017401104989814545383:mf4lavmtuva"
+   }
+  ]
+ },
+ "context": {
+  "title": "College MetaSearch Comparison"
+ },
+ "searchInformation": {
+  "searchTime": 0.207602,
+  "formattedSearchTime": "0.21",
+  "totalResults": "53800000",
+  "formattedTotalResults": "53,800,000"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "PlayStation 2, video games, electronics : Target",
+   "htmlTitle": "\u003cb\u003ePlayStation 2\u003c/b\u003e, video \u003cb\u003egames\u003c/b\u003e, electronics : Target",
+   "link": "http://www.target.com/c/playstation-2-video-games-electronics/-/N-5xtft",
+   "displayLink": "www.target.com",
+   "snippet": "Shop for PlayStation 2 at Target. Find PlayStation 2.",
+   "htmlSnippet": "Shop for \u003cb\u003ePlayStation 2\u003c/b\u003e at Target. Find \u003cb\u003ePlayStation 2\u003c/b\u003e.",
+   "cacheId": "YHLOPMswiKkJ",
+   "formattedUrl": "www.target.com/c/playstation-2-video-games.../-/N-5xtft",
+   "htmlFormattedUrl": "www.target.com/c/\u003cb\u003eplaystation\u003c/b\u003e-\u003cb\u003e2\u003c/b\u003e-video-\u003cb\u003egames\u003c/b\u003e.../-/N-5xtft"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "List of PlayStation 2 online games - Wikipedia, the free encyclopedia",
+   "htmlTitle": "List of \u003cb\u003ePlayStation 2\u003c/b\u003e online \u003cb\u003egames\u003c/b\u003e - Wikipedia, the free encyclopedia",
+   "link": "http://en.wikipedia.org/wiki/List_of_PlayStation_2_online_games",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "... NET PLAY banner, or with an Online Broadband Only logo near the bottom.   This is a list of games that support the online functionality of Sony's PlayStation 2 ...",
+   "htmlSnippet": "\u003cb\u003e...\u003c/b\u003e NET PLAY banner, or with an Online Broadband Only logo near the bottom. \u003cbr\u003e  This is a list of \u003cb\u003egames\u003c/b\u003e that support the online functionality of Sony&#39;s \u003cb\u003ePlayStation 2\u003c/b\u003e \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "RZ8RlDvm_c4J",
+   "formattedUrl": "en.wikipedia.org/wiki/List_of_PlayStation_2_online_games",
+   "htmlFormattedUrl": "en.wikipedia.org/wiki/List_of_\u003cb\u003ePlayStation\u003c/b\u003e_\u003cb\u003e2\u003c/b\u003e_online_\u003cb\u003egames\u003c/b\u003e"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "PS2 games going digital in 'Only on PlayStation Network' campaign ...",
+   "htmlTitle": "\u003cb\u003ePS2 games\u003c/b\u003e going digital in &#39;Only on PlayStation Network&#39; campaign \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://www.joystiq.com/2011/10/03/ps2-games-going-digital-in-only-on-playstation-network-campaig/",
+   "displayLink": "www.joystiq.com",
+   "snippet": "Oct 3, 2011 ... As if you don't have enough games to worry about this torrential fall, Sony is   adding to the downpour with its \"Only on PlayStation Network\" ...",
+   "htmlSnippet": "Oct 3, 2011 \u003cb\u003e...\u003c/b\u003e As if you don&#39;t have enough \u003cb\u003egames\u003c/b\u003e to worry about this torrential fall, Sony is \u003cbr\u003e  adding to the downpour with its &quot;Only on \u003cb\u003ePlayStation\u003c/b\u003e Network&quot; \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "jHVtY9vnWQ0J",
+   "formattedUrl": "www.joystiq.com/.../ps2-games-going-digital-in-only-on-playstation-network -campaig/",
+   "htmlFormattedUrl": "www.joystiq.com/.../\u003cb\u003eps2-games\u003c/b\u003e-going-digital-in-only-on-\u003cb\u003eplaystation\u003c/b\u003e-network -campaig/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.blogcdn.com/www.joystiq.com/media/2011/10/maximo530.jpg",
+      "type": "1",
+      "width": "285",
+      "height": "177"
+     }
+    ],
+    "metatags": [
+     {
+      "y_key": "3cb064ca399e265a",
+      "fb:admins": "1413878946",
+      "og:site_name": "Joystiq",
+      "og:title": "PS2 games going digital in 'Only on PlayStation Network' campaign",
+      "og:type": "article",
+      "og:url": "http://www.joystiq.com/2011/10/03/ps2-games-going-digital-in-only-on-playstation-network-campaig/",
+      "og:image": "http://www.blogcdn.com/www.joystiq.com/media/2011/10/maximo530.jpg",
+      "application-name": "Joystiq",
+      "msapplication-starturl": "http://www.joystiq.com",
+      "msapplication-navbutton-color": "#FFFFFF",
+      "msapplication-window": "width=1024;height=768",
+      "msapplication-task": "name=Massively;action-uri=http://massively.joystiq.com;icon-uri=/favicon.ico"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "WHAT PS2 GAMES ARE COMPATIBLE WITH PS3?",
+   "htmlTitle": "WHAT \u003cb\u003ePS2 GAMES\u003c/b\u003e ARE COMPATIBLE WITH PS3?",
+   "link": "http://askville.amazon.com/PS2-GAMES-COMPATIBLE-PS3/AnswerViewer.do?requestId=3456180",
+   "displayLink": "askville.amazon.com",
+   "snippet": "JUST WONDERING WHAT PS2 GAMES CAN BE PLAYED ON THE PS3 , IS ...   Sony stated that every PlayStation and PlayStation 2 game that observes its ...",
+   "htmlSnippet": "JUST WONDERING WHAT \u003cb\u003ePS2 GAMES\u003c/b\u003e CAN BE PLAYED ON THE PS3 , IS \u003cb\u003e...\u003c/b\u003e \u003cbr\u003e  Sony stated that every PlayStation and \u003cb\u003ePlayStation 2 game\u003c/b\u003e that observes its \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "Ca7LN294wn0J",
+   "formattedUrl": "askville.amazon.com/PS2-GAMES...PS3/AnswerViewer.do?...",
+   "htmlFormattedUrl": "askville.amazon.com/\u003cb\u003ePS2-GAMES\u003c/b\u003e...PS3/AnswerViewer.do?..."
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "How to Copy PS2 Games - TopTenREVIEWS",
+   "htmlTitle": "How to Copy \u003cb\u003ePS2 Games\u003c/b\u003e - TopTenREVIEWS",
+   "link": "http://game-copy-software-review.toptenreviews.com/how-to-copy-ps2-games.html",
+   "displayLink": "game-copy-software-review.toptenreviews.com",
+   "snippet": "While \"addiction\" may be too strong of a word to describe your relationship with   your PlayStation 2 (PS2) system, somewhere between \"moderate preoccupation\" ...",
+   "htmlSnippet": "While &quot;addiction&quot; may be too strong of a word to describe your relationship with \u003cbr\u003e  your \u003cb\u003ePlayStation 2\u003c/b\u003e (\u003cb\u003ePS2\u003c/b\u003e) system, somewhere between &quot;moderate preoccupation&quot; \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "PCrZjdux5U0J",
+   "formattedUrl": "game-copy-software-review.toptenreviews.com/how-to-copy-ps2-games.html",
+   "htmlFormattedUrl": "\u003cb\u003egame\u003c/b\u003e-copy-software-review.toptenreviews.com/how-to-copy-\u003cb\u003eps2-games\u003c/b\u003e.html",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.toptenreviews.com/i/rev/site/cms/category_headers/297-h_main.png",
+      "type": "1",
+      "width": "168",
+      "height": "148"
+     }
+    ],
+    "metatags": [
+     {
+      "copyright": "All contents Copyright by TopTenREVIEWS 2012 All rights reserved.",
+      "msvalidate.01": "D7182BA73E484177A5D140288161C1FE"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "The Top 25 PS2 Games of All Time - PS2 Feature at IGN",
+   "htmlTitle": "The Top 25 \u003cb\u003ePS2 Games\u003c/b\u003e of All Time - PS2 Feature at IGN",
+   "link": "http://ps2.ign.com/articles/772/772296p3.html",
+   "displayLink": "ps2.ign.com",
+   "snippet": "It's hard to believe that the era of PlayStation 3 is already here. It seems like only   yesterday that we were standing in exceedingly long Wal-Mart li...",
+   "htmlSnippet": "It&#39;s hard to believe that the era of \u003cb\u003ePlayStation\u003c/b\u003e 3 is already here. It seems like only \u003cbr\u003e  yesterday that we were standing in exceedingly long Wal-Mart li...",
+   "cacheId": "Cy75F4q6KFkJ",
+   "formattedUrl": "ps2.ign.com/articles/772/772296p3.html",
+   "htmlFormattedUrl": "\u003cb\u003eps2\u003c/b\u003e.ign.com/articles/772/772296p3.html",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://oystatic.ignimgs.com/src/core/img/widgets/global/page/ign-logo-100x100.jpg"
+     }
+    ],
+    "metatags": [
+     {
+      "copyright": "IGN Entertainment, Inc.",
+      "og:type": "article",
+      "og:title": "The Top 25 PS2 Games of All Time - PS2 Feature at IGN",
+      "og:image": "http://oystatic.ignimgs.com/src/core/img/widgets/global/page/ign-logo-100x100.jpg",
+      "og:site_name": "IGN",
+      "fb:app_id": "115982828429116"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "PS2 Games, New PS2 Games | GamesRadar",
+   "htmlTitle": "\u003cb\u003ePS2 Games\u003c/b\u003e, New \u003cb\u003ePS2 Games\u003c/b\u003e | GamesRadar",
+   "link": "http://www.gamesradar.com/ps2/",
+   "displayLink": "www.gamesradar.com",
+   "snippet": "PS2 - GamesRadar is your source for PS2 game reviews, cheats, hints, news,   previews, guides and walkthroughs.",
+   "htmlSnippet": "PS2 - GamesRadar is your source for \u003cb\u003ePS2 game\u003c/b\u003e reviews, cheats, hints, news, \u003cbr\u003e  previews, guides and walkthroughs.",
+   "cacheId": "wR6iqZp83eQJ",
+   "formattedUrl": "www.gamesradar.com/ps2/",
+   "htmlFormattedUrl": "www.\u003cb\u003egames\u003c/b\u003eradar.com/\u003cb\u003eps2\u003c/b\u003e/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://c3333424.r24.cf0.rackcdn.com/3c3f1e5b7bd4590517e72ef5a1d79d38f487b04a.jpg__298x168_q85_crop-smart_upscale.jpg",
+      "type": "1",
+      "width": "238",
+      "height": "134"
+     }
+    ],
+    "metatags": [
+     {
+      "y_key": "e356672a839ee7e1",
+      "slurp": "NOYDIR",
+      "msvalidate.01": "218A71223DF55DAC2D154CE6EC00DC71"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "PlayStation 2: PS2 Games, Accessories & PS2 Console - Best Buy",
+   "htmlTitle": "\u003cb\u003ePlayStation 2\u003c/b\u003e: \u003cb\u003ePS2 Games\u003c/b\u003e, Accessories &amp; PS2 Console - Best Buy",
+   "link": "http://www.bestbuy.com/site/Classic-Video-Game-Systems/PlayStation-2-PS2/abcat0704000.c?id=abcat0704000",
+   "displayLink": "www.bestbuy.com",
+   "snippet": "Get more from your PlayStation 2. With the latest PS2 games, consoles and   accessories, at BestBuy.com you'll find everything you need for the ultimate PS2 ...",
+   "htmlSnippet": "Get more from your PlayStation 2. With the latest \u003cb\u003ePS2 games\u003c/b\u003e, consoles and \u003cbr\u003e  accessories, at BestBuy.com you&#39;ll find everything you need for the ultimate PS2 \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "ebDKYll1j6wJ",
+   "formattedUrl": "www.bestbuy.com/site/...Game.../PlayStation-2-PS2/abcat0704000.c?...",
+   "htmlFormattedUrl": "www.bestbuy.com/site/...\u003cb\u003eGame\u003c/b\u003e.../\u003cb\u003ePlayStation\u003c/b\u003e-\u003cb\u003e2\u003c/b\u003e-\u003cb\u003ePS2\u003c/b\u003e/abcat0704000.c?...",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://images.bestbuy.com/BestBuy_US//en_US/images/abn/2011/tg/cat/fg_mlb2k12.gif",
+      "type": "1",
+      "width": "86",
+      "height": "57"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "PS2 Cheats, PS2, Playstation 2 Cheats, Cheats for PS2 | GamesRadar",
+   "htmlTitle": "\u003cb\u003ePS2\u003c/b\u003e Cheats, \u003cb\u003ePS2\u003c/b\u003e, \u003cb\u003ePlaystation 2\u003c/b\u003e Cheats, Cheats for \u003cb\u003ePS2\u003c/b\u003e | GamesRadar",
+   "link": "http://www.gamesradar.com/ps2/cheats/",
+   "displayLink": "www.gamesradar.com",
+   "snippet": "Visit GamesRadar.com for the latest Xbox cheats, PS3 cheats and PS2 cheat   codes. We have tons of up to date video game cheats for Xbox 360 and Nintendo ...",
+   "htmlSnippet": "Visit GamesRadar.com for the latest Xbox cheats, PS3 cheats and \u003cb\u003ePS2\u003c/b\u003e cheat \u003cbr\u003e  codes. We have tons of up to date video \u003cb\u003egame\u003c/b\u003e cheats for Xbox 360 and Nintendo \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "kaeqVjCsmVAJ",
+   "formattedUrl": "www.gamesradar.com/ps2/cheats/",
+   "htmlFormattedUrl": "www.\u003cb\u003egames\u003c/b\u003eradar.com/\u003cb\u003eps2\u003c/b\u003e/cheats/",
+   "pagemap": {
+    "metatags": [
+     {
+      "y_key": "e356672a839ee7e1",
+      "slurp": "NOYDIR",
+      "msvalidate.01": "218A71223DF55DAC2D154CE6EC00DC71"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "PS2 Cheats and Cheat Codes from CheatCodes.com",
+   "htmlTitle": "\u003cb\u003ePS2\u003c/b\u003e Cheats and Cheat Codes from CheatCodes.com",
+   "link": "http://cheatcodes.com/ps2/",
+   "displayLink": "cheatcodes.com",
+   "snippet": "If you have a free gamerID account, add all your PS2 games to your collection   and we'll notify you as soon as we add new PlayStation 2 cheats. And for more   on ...",
+   "htmlSnippet": "If you have a free gamerID account, add all your \u003cb\u003ePS2 games\u003c/b\u003e to your collection \u003cbr\u003e  and we&#39;ll notify you as soon as we add new PlayStation 2 cheats. And for more \u003cbr\u003e  on \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "--5YdvFp9vkJ",
+   "formattedUrl": "cheatcodes.com/ps2/",
+   "htmlFormattedUrl": "cheatcodes.com/\u003cb\u003eps2\u003c/b\u003e/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://cdn3.gidn.net/images/covers/med/7899.jpg",
+      "type": "1",
+      "width": "80",
+      "height": "112"
+     }
+    ],
+    "metatags": [
+     {
+      "alexaverifyid": "eLVOFsjWrd-X1Fc4cdN5vAC8OWQ",
+      "y_key": "4567f172f175c2b2",
+      "fb:admins": "1043819426,1512558736",
+      "pinterest": "nopin"
+     }
+    ]
+   }
+  }
+ ]
+}

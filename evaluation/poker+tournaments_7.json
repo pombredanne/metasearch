@@ -1,0 +1,250 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "nextPage": [
+   {
+    "title": "Google Custom Search - poker tournaments",
+    "totalResults": "8820000",
+    "searchTerms": "poker tournaments",
+    "count": 10,
+    "startIndex": 81,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "017401104989814545383:mf4lavmtuva"
+   }
+  ],
+  "request": [
+   {
+    "title": "Google Custom Search - poker tournaments",
+    "totalResults": "8820000",
+    "searchTerms": "poker tournaments",
+    "count": 10,
+    "startIndex": 71,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "017401104989814545383:mf4lavmtuva"
+   }
+  ],
+  "previousPage": [
+   {
+    "title": "Google Custom Search - poker tournaments",
+    "totalResults": "8820000",
+    "searchTerms": "poker tournaments",
+    "count": 10,
+    "startIndex": 61,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "017401104989814545383:mf4lavmtuva"
+   }
+  ]
+ },
+ "context": {
+  "title": "College MetaSearch Comparison"
+ },
+ "searchInformation": {
+  "searchTime": 0.169951,
+  "formattedSearchTime": "0.17",
+  "totalResults": "8820000",
+  "formattedTotalResults": "8,820,000"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "Poker & Casino Poker Room at Caesars Palace Las Vegas Hotel ...",
+   "htmlTitle": "Poker &amp; Casino \u003cb\u003ePoker Room\u003c/b\u003e at Caesars Palace Las Vegas Hotel \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://www.caesarspalace.com/casinos/caesars-palace/casino-gambling/poker-detail.html",
+   "displayLink": "www.caesarspalace.com",
+   "snippet": "Virtual Tour. Join us for guaranteed prize pool tournaments seven days a week!   Our 7pm $110 buy-in no limit Hold'Em tournament now has a $5000 guaranteed ...",
+   "htmlSnippet": "Virtual Tour. Join us for guaranteed prize pool \u003cb\u003etournaments\u003c/b\u003e seven days a week! \u003cbr\u003e  Our 7pm $110 buy-in no limit Hold&#39;Em \u003cb\u003etournament\u003c/b\u003e now has a $5000 guaranteed \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "VJoNjST29RYJ",
+   "formattedUrl": "www.caesarspalace.com/casinos/caesars-palace/.../poker-detail.html",
+   "htmlFormattedUrl": "www.caesarspalace.com/casinos/caesars-palace/.../\u003cb\u003epoker\u003c/b\u003e-detail.html"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "MicroMillions Poker Tournament Series - Micro Millions Online ...",
+   "htmlTitle": "MicroMillions \u003cb\u003ePoker Tournament\u003c/b\u003e Series - Micro Millions Online \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://www.pokerstars.com/poker/tournaments/micro-millions/",
+   "displayLink": "www.pokerstars.com",
+   "snippet": "The PokerStars MicroMillions II is a low-stakes online poker tournament series   running from July 12-22.",
+   "htmlSnippet": "The PokerStars MicroMillions II is a low-stakes online \u003cb\u003epoker tournament\u003c/b\u003e series \u003cbr\u003e  running from July 12-22.",
+   "cacheId": "MVBhG4EBJxUJ",
+   "formattedUrl": "www.pokerstars.com/poker/tournaments/micro-millions/",
+   "htmlFormattedUrl": "www.\u003cb\u003epoker\u003c/b\u003estars.com/\u003cb\u003epoker\u003c/b\u003e/\u003cb\u003etournaments\u003c/b\u003e/micro-millions/"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Play online poker games at 888.com poker room",
+   "htmlTitle": "Play online poker games at 888.com \u003cb\u003epoker room\u003c/b\u003e",
+   "link": "http://www.888.com/online-poker/",
+   "displayLink": "www.888.com",
+   "snippet": "Only at 888.com, the top online poker room, you get $8 FREE to play poker! Give   our PokerCam a try and play with over 5 million registered poker players.",
+   "htmlSnippet": "Only at 888.com, the top online \u003cb\u003epoker room\u003c/b\u003e, you get $8 FREE to play poker! Give \u003cbr\u003e  our PokerCam a try and play with over 5 million registered poker players.",
+   "cacheId": "ZSrUmnM_QIYJ",
+   "formattedUrl": "www.888.com/online-poker/",
+   "htmlFormattedUrl": "www.888.com/online-\u003cb\u003epoker\u003c/b\u003e/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://images.images4us.com/888/en/online-poker-bonus-8$.jpg",
+      "type": "1",
+      "width": "365",
+      "height": "138"
+     }
+    ],
+    "metatags": [
+     {
+      "copyright": "Copyright 2010 Cassava Enterprises (Gibraltar) Limited"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Ocala Poker Jai-Alai Florida",
+   "htmlTitle": "Ocala \u003cb\u003ePoker\u003c/b\u003e Jai-Alai Florida",
+   "link": "http://www.ocalapoker.com/",
+   "displayLink": "www.ocalapoker.com",
+   "snippet": "Ocala Poker offers poker tournaments and live poker games in Reddick, Florida.   Located half way between Ocala and Gainesville 3 miles east of I-75 at exit 368 ...",
+   "htmlSnippet": "Ocala Poker offers \u003cb\u003epoker tournaments\u003c/b\u003e and live poker games in Reddick, Florida. \u003cbr\u003e  Located half way between Ocala and Gainesville 3 miles east of I-75 at exit 368 \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "Q-qbVZfUy3IJ",
+   "formattedUrl": "www.ocalapoker.com/",
+   "htmlFormattedUrl": "www.ocala\u003cb\u003epoker\u003c/b\u003e.com/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.ocalapoker.com/Images/Build/OP-Logo.png",
+      "type": "1",
+      "width": "104",
+      "height": "72"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Rivers Poker Room",
+   "htmlTitle": "Rivers \u003cb\u003ePoker Room\u003c/b\u003e",
+   "link": "http://www.riverspokerroom.com/",
+   "displayLink": "www.riverspokerroom.com",
+   "snippet": "Rivers Poker Room - It's non-stop Poker action at Rivers Casino. Check out the   Tournament Schedule for No Limit Hold 'em, and Learn More about Sit N Go ...",
+   "htmlSnippet": "Rivers \u003cb\u003ePoker Room\u003c/b\u003e - It&#39;s non-stop Poker action at Rivers Casino. Check out the \u003cbr\u003e  Tournament Schedule for No Limit Hold &#39;em, and Learn More about Sit N Go \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "S1vudW9Nl-IJ",
+   "formattedUrl": "www.riverspokerroom.com/",
+   "htmlFormattedUrl": "www.rivers\u003cb\u003epokerroom\u003c/b\u003e.com/"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "PokerPages : Poker Information, Tournaments, Players, Poker Rules ...",
+   "htmlTitle": "PokerPages : \u003cb\u003ePoker\u003c/b\u003e Information, \u003cb\u003eTournaments\u003c/b\u003e, Players, \u003cb\u003ePoker\u003c/b\u003e Rules \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://www.pokerpages.com/",
+   "displayLink": "www.pokerpages.com",
+   "snippet": "Poker Pages.com is a complete source of Poker Information including coverage   of the World Series of Poker, World Poker and European Poker Tour ...",
+   "htmlSnippet": "\u003cb\u003ePoker\u003c/b\u003e Pages.com is a complete source of \u003cb\u003ePoker\u003c/b\u003e Information including coverage \u003cbr\u003e  of the World Series of \u003cb\u003ePoker\u003c/b\u003e, World \u003cb\u003ePoker\u003c/b\u003e and European \u003cb\u003ePoker\u003c/b\u003e Tour \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "Y15Ys7WtJusJ",
+   "formattedUrl": "www.pokerpages.com/",
+   "htmlFormattedUrl": "www.\u003cb\u003epoker\u003c/b\u003epages.com/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.pokerpages.com/ballyhoo/adimage.php?filename=pokerdownload-large.gif&contenttype=gif",
+      "type": "1",
+      "width": "144",
+      "height": "120"
+     }
+    ],
+    "metatags": [
+     {
+      "rating": "general",
+      "copyright": "All content on PokerPages.com is copyright PokerPages.com"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Play online poker: Texas Hold'em, Tournaments and more at ...",
+   "htmlTitle": "Play online \u003cb\u003epoker\u003c/b\u003e: Texas Hold&#39;em, \u003cb\u003eTournaments\u003c/b\u003e and more at \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://www.partypoker.com/",
+   "displayLink": "www.partypoker.com",
+   "snippet": "Play online poker at PartyPoker.com. Texas Hold'em, huge poker tournaments,   Omaha Hi/Lo and more. Download free poker software or play our no-download ...",
+   "htmlSnippet": "Play online poker at PartyPoker.com. Texas Hold&#39;em, huge \u003cb\u003epoker tournaments\u003c/b\u003e, \u003cbr\u003e  Omaha Hi/Lo and more. Download free poker software or play our no-download \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "GoB4KdUYOSYJ",
+   "formattedUrl": "www.partypoker.com/",
+   "htmlFormattedUrl": "www.party\u003cb\u003epoker\u003c/b\u003e.com/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.partypoker.com/content/dam/poker/common/asset/2/wpt-grand-prix-de-paris/wpt-grand-prix-de-paris-slider.jpg",
+      "type": "1",
+      "width": "136",
+      "height": "176"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "PokerStars - Sunday Tournaments",
+   "htmlTitle": "PokerStars - Sunday \u003cb\u003eTournaments\u003c/b\u003e",
+   "link": "http://www.pokerstars.com/poker/tournaments/sunday-tournaments/",
+   "displayLink": "www.pokerstars.com",
+   "snippet": "Play in the big Sunday tournaments at PokerStars, including the Sunday Storm,   Sunday 500 and Sunday Second Chance.",
+   "htmlSnippet": "Play in the big Sunday \u003cb\u003etournaments\u003c/b\u003e at PokerStars, including the Sunday Storm, \u003cbr\u003e  Sunday 500 and Sunday Second Chance.",
+   "cacheId": "HDZnJQgVuEcJ",
+   "formattedUrl": "www.pokerstars.com/poker/tournaments/sunday-tournaments/",
+   "htmlFormattedUrl": "www.\u003cb\u003epoker\u003c/b\u003estars.com/\u003cb\u003epoker\u003c/b\u003e/\u003cb\u003etournaments\u003c/b\u003e/sunday-\u003cb\u003etournaments\u003c/b\u003e/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.pokerstars.com/images/ico/special-offers.png",
+      "type": "1",
+      "width": "87",
+      "height": "69"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Online Poker Tournaments - Rules and Schedules from PartyPoker ...",
+   "htmlTitle": "Online \u003cb\u003ePoker Tournaments\u003c/b\u003e - Rules and Schedules from PartyPoker \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://www.partypoker.com/tournaments.html",
+   "displayLink": "www.partypoker.com",
+   "snippet": "Get the latest information on PartyPoker tournaments. Including Sit Go, multi-  table, time-based tournaments and the PartyPoker Million tournament rules.",
+   "htmlSnippet": "Get the latest information on PartyPoker \u003cb\u003etournaments\u003c/b\u003e. Including Sit Go, multi-\u003cbr\u003e  table, time-based \u003cb\u003etournaments\u003c/b\u003e and the PartyPoker Million \u003cb\u003etournament\u003c/b\u003e rules.",
+   "cacheId": "wW_F05gpp4EJ",
+   "formattedUrl": "www.partypoker.com/tournaments.html",
+   "htmlFormattedUrl": "www.party\u003cb\u003epoker\u003c/b\u003e.com/\u003cb\u003etournaments\u003c/b\u003e.html",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.partypoker.com/content/dam/poker/pp/page/tournaments/tournament_schedule_rhs.jpg",
+      "type": "1",
+      "width": "176",
+      "height": "121"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Poker Tournaments",
+   "htmlTitle": "\u003cb\u003ePoker Tournaments\u003c/b\u003e",
+   "link": "http://www.online-poker-explorer.com/poker-tournaments/",
+   "displayLink": "www.online-poker-explorer.com",
+   "snippet": "Comprehensive list of online poker tournaments. Find tournaments by prize pool,   poker room, type of game, buy-in.",
+   "htmlSnippet": "Comprehensive list of online \u003cb\u003epoker tournaments\u003c/b\u003e. Find tournaments by prize pool, \u003cbr\u003e  \u003cb\u003epoker room\u003c/b\u003e, type of game, buy-in.",
+   "cacheId": "eTRqKnY8BgUJ",
+   "formattedUrl": "www.online-poker-explorer.com/poker-tournaments/",
+   "htmlFormattedUrl": "www.online-\u003cb\u003epoker\u003c/b\u003e-explorer.com/\u003cb\u003epoker\u003c/b\u003e-\u003cb\u003etournaments\u003c/b\u003e/"
+  }
+ ]
+}

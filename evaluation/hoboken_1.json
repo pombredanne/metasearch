@@ -1,0 +1,290 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "nextPage": [
+   {
+    "title": "Google Custom Search - hoboken",
+    "totalResults": "2070000",
+    "searchTerms": "hoboken",
+    "count": 10,
+    "startIndex": 21,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "017401104989814545383:mf4lavmtuva"
+   }
+  ],
+  "request": [
+   {
+    "title": "Google Custom Search - hoboken",
+    "totalResults": "2070000",
+    "searchTerms": "hoboken",
+    "count": 10,
+    "startIndex": 11,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "017401104989814545383:mf4lavmtuva"
+   }
+  ],
+  "previousPage": [
+   {
+    "title": "Google Custom Search - hoboken",
+    "totalResults": "2070000",
+    "searchTerms": "hoboken",
+    "count": 10,
+    "startIndex": 1,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "017401104989814545383:mf4lavmtuva"
+   }
+  ]
+ },
+ "context": {
+  "title": "College MetaSearch Comparison"
+ },
+ "searchInformation": {
+  "searchTime": 0.146712,
+  "formattedSearchTime": "0.15",
+  "totalResults": "2070000",
+  "formattedTotalResults": "2,070,000"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "Hoboken Chamber of Commerce | Connecting People and ...",
+   "htmlTitle": "\u003cb\u003eHoboken\u003c/b\u003e Chamber of Commerce | Connecting People and \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://hobokenchamber.com/",
+   "displayLink": "hobokenchamber.com",
+   "snippet": "Provides a history of the town, membership benefits and fees, member directories  , and a schedule of events.",
+   "htmlSnippet": "Provides a history of the town, membership benefits and fees, member directories\u003cbr\u003e  , and a schedule of events.",
+   "cacheId": "1E9CCrdJtJEJ",
+   "formattedUrl": "hobokenchamber.com/",
+   "htmlFormattedUrl": "\u003cb\u003ehoboken\u003c/b\u003echamber.com/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://hobokenchamber.com/wp-content/uploads/2012/07/home4.jpg",
+      "type": "1",
+      "width": "370",
+      "height": "136"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "The Hoboken Italian Festival",
+   "htmlTitle": "The \u003cb\u003eHoboken\u003c/b\u003e Italian Festival",
+   "link": "http://www.hobokenitalianfestival.com/",
+   "displayLink": "www.hobokenitalianfestival.com",
+   "snippet": "The Hoboken Italian Festival, The Feast of the Madonna Dei Martiri.",
+   "htmlSnippet": "The \u003cb\u003eHoboken\u003c/b\u003e Italian Festival, The Feast of the Madonna Dei Martiri.",
+   "cacheId": "iUVR4JWKtHkJ",
+   "formattedUrl": "www.hobokenitalianfestival.com/",
+   "htmlFormattedUrl": "www.\u003cb\u003ehoboken\u003c/b\u003eitalianfestival.com/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.hobokenitalianfestival.com/images/news/associazione_molfettesi_antonio_albanese.jpg",
+      "type": "1",
+      "width": "275",
+      "height": "183"
+     }
+    ],
+    "metatags": [
+     {
+      "icbm": "40.741554,-74.025789"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Hoboken Historical Museum - Home",
+   "htmlTitle": "\u003cb\u003eHoboken\u003c/b\u003e Historical Museum - Home",
+   "link": "http://www.hobokenmuseum.org/",
+   "displayLink": "www.hobokenmuseum.org",
+   "snippet": "We reopen on Sun., July 29, with \"I Belong,\" an exhibit on social clubs of   Hoboken. Click here for more information. Until then, stop by the Fire Department ...",
+   "htmlSnippet": "We reopen on Sun., July 29, with &quot;I Belong,&quot; an exhibit on social clubs of \u003cbr\u003e  \u003cb\u003eHoboken\u003c/b\u003e. Click here for more information. Until then, stop by the Fire Department \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "9DFV89cJOLMJ",
+   "formattedUrl": "www.hobokenmuseum.org/",
+   "htmlFormattedUrl": "www.\u003cb\u003ehoboken\u003c/b\u003emuseum.org/",
+   "pagemap": {
+    "metatags": [
+     {
+      "rights": "Hoboken Historical Museum"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Latest School District News | Hoboken Board of Education",
+   "htmlTitle": "Latest School District News | \u003cb\u003eHoboken\u003c/b\u003e Board of Education",
+   "link": "http://www.hoboken.k12.nj.us/",
+   "displayLink": "www.hoboken.k12.nj.us",
+   "snippet": "The Hoboken Early Childhood Preschool Education Program is full at this time. If   you have not received a preschool placement letter, you will be contacted by ...",
+   "htmlSnippet": "The \u003cb\u003eHoboken\u003c/b\u003e Early Childhood Preschool Education Program is full at this time. If \u003cbr\u003e  you have not received a preschool placement letter, you will be contacted by \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "jIWpLHsMeoYJ",
+   "formattedUrl": "www.hoboken.k12.nj.us/",
+   "htmlFormattedUrl": "www.\u003cb\u003ehoboken\u003c/b\u003e.k12.nj.us/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.hoboken.k12.nj.us/hoboken/_zumu_user_image_cache/attentionguy.jpg",
+      "type": "1",
+      "width": "147",
+      "height": "117"
+     }
+    ],
+    "metatags": [
+     {
+      "og:image": "http://www.hoboken.k12.nj.us"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Say Yes to Hoboken | Three Cheers for Stylish & Crafty Living",
+   "htmlTitle": "Say Yes to \u003cb\u003eHoboken\u003c/b\u003e | Three Cheers for Stylish &amp; Crafty Living",
+   "link": "http://sayyestohoboken.com/",
+   "displayLink": "sayyestohoboken.com",
+   "snippet": "15 hours ago ... I'm signing off early this week, we're headed out today to do some backpacking   and climbing in Yosemite. We haven't backpacked with Henry ...",
+   "htmlSnippet": "15 hours ago \u003cb\u003e...\u003c/b\u003e I&#39;m signing off early this week, we&#39;re headed out today to do some backpacking \u003cbr\u003e  and climbing in Yosemite. We haven&#39;t backpacked with Henry \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "chzoybPy81EJ",
+   "formattedUrl": "sayyestohoboken.com/",
+   "htmlFormattedUrl": "sayyesto\u003cb\u003ehoboken\u003c/b\u003e.com/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://sayyestohoboken.com/wp-content/uploads/2012/07/trina1a.png",
+      "type": "1",
+      "width": "259",
+      "height": "195"
+     }
+    ],
+    "metatags": [
+     {
+      "og:description": "DIY: Framed Whiteboard"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Hoboken Hotels | W Hoboken",
+   "htmlTitle": "\u003cb\u003eHoboken\u003c/b\u003e Hotels | W \u003cb\u003eHoboken\u003c/b\u003e",
+   "link": "http://www.starwoodhotels.com/whotels/property/overview/index.html?propertyID=1785",
+   "displayLink": "www.starwoodhotels.com",
+   "snippet": "Book your stay at W Hoboken. Explore our hotel photos, guest rooms, restaurants  , and more.",
+   "htmlSnippet": "Book your stay at W \u003cb\u003eHoboken\u003c/b\u003e. Explore our hotel photos, guest rooms, restaurants\u003cbr\u003e  , and more.",
+   "cacheId": "WJkFz06xU6oJ",
+   "formattedUrl": "www.starwoodhotels.com/whotels/property/overview/index.html?...",
+   "htmlFormattedUrl": "www.starwoodhotels.com/whotels/property/overview/index.html?...",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.starwoodhotels.com/pub/media/1785/who1785ex.111929_sq.jpg",
+      "type": "1",
+      "width": "218",
+      "height": "168"
+     }
+    ],
+    "person": [
+     {
+      "location": "Hoboken New Jersey"
+     }
+    ],
+    "hcard": [
+     {
+      "fn": "W Hoboken"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Welcome to the Hoboken Public Library",
+   "htmlTitle": "Welcome to the \u003cb\u003eHoboken\u003c/b\u003e Public Library",
+   "link": "http://hoboken.bccls.org/",
+   "displayLink": "hoboken.bccls.org",
+   "snippet": "Provides information about the library, including hours of operation, events, news   and a kid's page.",
+   "htmlSnippet": "Provides information about the library, including hours of operation, events, news \u003cbr\u003e  and a kid&#39;s page.",
+   "cacheId": "QNTfoySyhEYJ",
+   "formattedUrl": "hoboken.bccls.org/",
+   "htmlFormattedUrl": "\u003cb\u003ehoboken\u003c/b\u003e.bccls.org/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://hoboken.bccls.org/images/libcard.png",
+      "type": "1",
+      "width": "96",
+      "height": "63"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Home | Hobokeni.com - Hoboken, NJ",
+   "htmlTitle": "Home | Hobokeni.com - \u003cb\u003eHoboken\u003c/b\u003e, NJ",
+   "link": "http://www.hobokeni.com/",
+   "displayLink": "www.hobokeni.com",
+   "snippet": "Online guide to the mile square city, offering a history and pictures, plus nightlife,   education and business listings.",
+   "htmlSnippet": "Online guide to the mile square city, offering a history and pictures, plus nightlife, \u003cbr\u003e  education and business listings.",
+   "cacheId": "S4zZjSKXq34J",
+   "formattedUrl": "www.hobokeni.com/",
+   "htmlFormattedUrl": "www.\u003cb\u003ehoboken\u003c/b\u003ei.com/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://blog.wfmu.org/instablog1_support.gif",
+      "type": "1",
+      "width": "96",
+      "height": "69"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Hoboken Dive Center",
+   "htmlTitle": "\u003cb\u003eHoboken\u003c/b\u003e Dive Center",
+   "link": "http://www.hobokendive.com/",
+   "displayLink": "www.hobokendive.com",
+   "snippet": "Offers dive training and dive trips. Includes details about upcoming events, an   introduction to the staff, and directions.",
+   "htmlSnippet": "Offers dive training and dive trips. Includes details about upcoming events, an \u003cbr\u003e  introduction to the staff, and directions.",
+   "cacheId": "xUQYVU9kGZAJ",
+   "formattedUrl": "www.hobokendive.com/",
+   "htmlFormattedUrl": "www.\u003cb\u003ehoboken\u003c/b\u003edive.com/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.hobokendive.com/Images/slide3.jpg",
+      "type": "1",
+      "width": "349",
+      "height": "144"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "The Hoboken Shelter",
+   "htmlTitle": "The \u003cb\u003eHoboken\u003c/b\u003e Shelter",
+   "link": "http://www.hobokenshelter.org/",
+   "displayLink": "www.hobokenshelter.org",
+   "snippet": "",
+   "htmlSnippet": "",
+   "formattedUrl": "www.hobokenshelter.org/",
+   "htmlFormattedUrl": "www.\u003cb\u003ehoboken\u003c/b\u003eshelter.org/"
+  }
+ ]
+}

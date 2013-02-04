@@ -1,0 +1,370 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "nextPage": [
+   {
+    "title": "Google Custom Search - inuyasha",
+    "totalResults": "2910000",
+    "searchTerms": "inuyasha",
+    "count": 10,
+    "startIndex": 11,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "017401104989814545383:mf4lavmtuva"
+   }
+  ],
+  "request": [
+   {
+    "title": "Google Custom Search - inuyasha",
+    "totalResults": "2910000",
+    "searchTerms": "inuyasha",
+    "count": 10,
+    "startIndex": 1,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "017401104989814545383:mf4lavmtuva"
+   }
+  ]
+ },
+ "context": {
+  "title": "College MetaSearch Comparison"
+ },
+ "searchInformation": {
+  "searchTime": 0.303905,
+  "formattedSearchTime": "0.30",
+  "totalResults": "2910000",
+  "formattedTotalResults": "2,910,000"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "InuYasha - Wikipedia, the free encyclopedia",
+   "htmlTitle": "\u003cb\u003eInuYasha\u003c/b\u003e - Wikipedia, the free encyclopedia",
+   "link": "http://en.wikipedia.org/wiki/InuYasha",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "InuYasha (犬夜叉), also known as InuYasha, a Feudal Fairy Tale (戦国御伽草子   犬夜叉, Sengoku Otogizōshi InuYasha), is a Japanese manga series written and ...",
+   "htmlSnippet": "\u003cb\u003eInuYasha\u003c/b\u003e (犬夜叉), also known as \u003cb\u003eInuYasha\u003c/b\u003e, a Feudal Fairy Tale (戦国御伽草子 \u003cbr\u003e  犬夜叉, Sengoku Otogizōshi \u003cb\u003eInuYasha\u003c/b\u003e), is a Japanese manga series written and \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "_DOFdVxKyiIJ",
+   "formattedUrl": "en.wikipedia.org/wiki/InuYasha",
+   "htmlFormattedUrl": "en.wikipedia.org/wiki/\u003cb\u003eInuYasha\u003c/b\u003e",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://upload.wikimedia.org/wikipedia/en/thumb/2/2a/InuYasha1.jpg/220px-InuYasha1.jpg",
+      "type": "1",
+      "width": "176",
+      "height": "279"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Inuyasha - Full Episodes and Clips streaming online - Hulu",
+   "htmlTitle": "\u003cb\u003eInuyasha\u003c/b\u003e - Full Episodes and Clips streaming online - Hulu",
+   "link": "http://www.hulu.com/inuyasha/",
+   "displayLink": "www.hulu.com",
+   "snippet": "Inuyasha: Kagome is a modern high school girl who doesn't believe in the old   myths and legends surrounding her grandfather's shrine. That is, until the day   she ...",
+   "htmlSnippet": "\u003cb\u003eInuyasha\u003c/b\u003e: Kagome is a modern high school girl who doesn&#39;t believe in the old \u003cbr\u003e  myths and legends surrounding her grandfather&#39;s shrine. That is, until the day \u003cbr\u003e  she \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "W8QawfmPAd8J",
+   "formattedUrl": "www.hulu.com/inuyasha/",
+   "htmlFormattedUrl": "www.hulu.com/\u003cb\u003einuyasha\u003c/b\u003e/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://ib.huluim.com/show_thumb/2324?size=145x80&caller=h1o&img=i",
+      "type": "1",
+      "width": "116",
+      "height": "64"
+     }
+    ],
+    "metatags": [
+     {
+      "application-name": "Hulu",
+      "msapplication-tooltip": "Start Hulu with Internet Explorer 9 enhancements.",
+      "msapplication-starturl": "http://www.hulu.com",
+      "fb:app_id": "40582213222",
+      "og:title": "Inuyasha",
+      "og:type": "tv_show",
+      "og:image": "http://ib.huluim.com/show_thumb/2324?size=145x80&caller=h1o&img=i",
+      "og:site_name": "Hulu",
+      "og:description": "Kagome is a modern high school girl who doesn't believe in the old myths and legends surrounding her grandfather's shrine. That is, until the day she falls into the shrine's well and into another time! In Japan's ancient past, Kagome joins the half demon Inuyasha on a quest to find the scattered shards of the Shikon Jewel, a gem so powerful that demons from across the land will do anything to get even a piece. Along the way they gain friends, battle enemies, and prepare to face their deadliest foe and rival for the Shikon Jewel--Naraku!",
+      "og:url": "http://www.hulu.com/inuyasha"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "InuYasha Wiki",
+   "htmlTitle": "\u003cb\u003eInuYasha\u003c/b\u003e Wiki",
+   "link": "http://inuyasha.wikia.com/",
+   "displayLink": "inuyasha.wikia.com",
+   "snippet": "The InuYasha Wiki is an informative database on the InuYasha series created by   Rumiko Takahashi. Feel free to learn more about Inuyasha and the others, ...",
+   "htmlSnippet": "The \u003cb\u003eInuYasha\u003c/b\u003e Wiki is an informative database on the \u003cb\u003eInuYasha\u003c/b\u003e series created by \u003cbr\u003e  Rumiko Takahashi. Feel free to learn more about \u003cb\u003eInuyasha\u003c/b\u003e and the others, \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "2yRB7INRh60J",
+   "formattedUrl": "inuyasha.wikia.com/",
+   "htmlFormattedUrl": "\u003cb\u003einuyasha\u003c/b\u003e.wikia.com/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://images4.wikia.nocookie.net/__cb20120101135406/inuyasha/images/thumb/4/42/Inuyasha_group_FA.png/173px-Inuyasha_group_FA.png",
+      "type": "1",
+      "width": "138",
+      "height": "80"
+     }
+    ],
+    "metatags": [
+     {
+      "viewport": "width=1200",
+      "og:type": "website",
+      "og:site_name": "InuYasha",
+      "og:title": "InuYasha Wiki",
+      "og:image": "http://images4.wikia.nocookie.net/__cb20120101135406/inuyasha/images/thumb/4/42/Inuyasha_group_FA.png/173px-Inuyasha_group_FA.png",
+      "og:description": "If you need any help, please contact one of the local administrators: Suzaku of the Four Saint...",
+      "og:url": "http://inuyasha.wikia.com/wiki/InuYasha_Wiki",
+      "fb:app_id": "112328095453510"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Inuyasha World - the ultimate source for your favorite 1/2 dog demon!",
+   "htmlTitle": "\u003cb\u003eInuyasha\u003c/b\u003e World - the ultimate source for your favorite 1/2 dog demon!",
+   "link": "http://www.inuyashaworld.com/",
+   "displayLink": "www.inuyashaworld.com",
+   "snippet": "Inuyasha World contains character profiles, image gallery, media downloads,   episode summaries, screen captures, merchandise and artists info.",
+   "htmlSnippet": "\u003cb\u003eInuyasha\u003c/b\u003e World contains character profiles, image gallery, media downloads, \u003cbr\u003e  episode summaries, screen captures, merchandise and artists info.",
+   "cacheId": "U6dkECBmg9EJ",
+   "formattedUrl": "www.inuyashaworld.com/",
+   "htmlFormattedUrl": "www.\u003cb\u003einuyasha\u003c/b\u003eworld.com/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.inuyashaworld.com/luckycharm.jpg",
+      "type": "1",
+      "width": "128",
+      "height": "123"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Inuyasha (TV) - Anime News Network",
+   "htmlTitle": "\u003cb\u003eInuyasha\u003c/b\u003e (TV) - Anime News Network",
+   "link": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=159",
+   "displayLink": "www.animenewsnetwork.com",
+   "snippet": "Inuyasha the Movie 2: The Castle Beyond the Looking Glass (sequel) InuYasha   the Movie 3: Swords of an Honorable Ruler (sequel) Inuyasha the Movie 4: Fire ...",
+   "htmlSnippet": "\u003cb\u003eInuyasha\u003c/b\u003e the Movie 2: The Castle Beyond the Looking Glass (sequel) \u003cb\u003eInuYasha\u003c/b\u003e \u003cbr\u003e  the Movie 3: Swords of an Honorable Ruler (sequel) \u003cb\u003eInuyasha\u003c/b\u003e the Movie 4: Fire \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "CJn-Rx2aVTQJ",
+   "formattedUrl": "www.animenewsnetwork.com/encyclopedia/anime.php?id=159",
+   "htmlFormattedUrl": "www.animenewsnetwork.com/encyclopedia/anime.php?id=159",
+   "pagemap": {
+    "metatags": [
+     {
+      "copyright": "Copyright (C) 2006 Anime News Network"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "InuYasha (TV Series 2000–2004) - IMDb",
+   "htmlTitle": "\u003cb\u003eInuYasha\u003c/b\u003e (TV Series 2000–2004) - IMDb",
+   "link": "http://www.imdb.com/title/tt0290223/",
+   "displayLink": "www.imdb.com",
+   "snippet": "Created by Rumiko Takahashi. Directed by Naoya Aoki, Yasunao Aoki. With   Kappei Yamaguchi, Satsuki Yukino, Moneca Stori, Richard Ian Cox. A teenage   girl ...",
+   "htmlSnippet": "Created by Rumiko Takahashi. Directed by Naoya Aoki, Yasunao Aoki. With \u003cbr\u003e  Kappei Yamaguchi, Satsuki Yukino, Moneca Stori, Richard Ian Cox. A teenage \u003cbr\u003e  girl \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "GHPSHU6XkwcJ",
+   "formattedUrl": "www.imdb.com/title/tt0290223/",
+   "htmlFormattedUrl": "www.imdb.com/title/tt0290223/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://ia.media-imdb.com/images/M/MV5BMTAyMjkyOTcwODheQTJeQWpwZ15BbWU3MDg2MjExMzE@._V1._SY317_CR9,0,214,317_.jpg",
+      "type": "1",
+      "width": "171",
+      "height": "253"
+     }
+    ],
+    "aggregaterating": [
+     {
+      "ratingvalue": "8.0",
+      "bestrating": "10",
+      "ratingcount": "4,823",
+      "reviewcount": "63"
+     }
+    ],
+    "tvseries": [
+     {
+      "image": "http://ia.media-imdb.com/images/M/MV5BMTAyMjkyOTcwODheQTJeQWpwZ15BbWU3MDg2MjExMzE@._V1._SY317_CR9,0,214,317_.jpg",
+      "name": "InuYasha (2000–2004) \"Inuyasha\" (original title)",
+      "description": "A teenage girl periodically travels back in time to feudal Japan to help a young half demon recover the shards of a orb of great power.",
+      "actors": "Kappei Yamaguchi",
+      "trailer": "Watch Trailer",
+      "genre": "Animation",
+      "inlanguage": "Japanese",
+      "datepublished": "2002-08-31",
+      "duration": "PT24M"
+     }
+    ],
+    "scraped": [
+     {
+      "image_link": "http://ia.media-imdb.com/images/M/MV5BMTAyMjkyOTcwODheQTJeQWpwZ15BbWU3MDg2MjExMzE@._V1._SY317_CR9,0,214,317_.jpg"
+     }
+    ],
+    "metatags": [
+     {
+      "title": "InuYasha (TV Series 2000–2004) - IMDb",
+      "application-name": "IMDb",
+      "msapplication-tooltip": "IMDb Web App",
+      "msapplication-window": "width=1500;height=900",
+      "msapplication-task": "name=Find Movie Showtimes;action-uri=/showtimes/;icon-uri=http://i.media-imdb.com/images/SFff39adb4d259f3c3fd166853a6714a32/favicon.ico",
+      "og:url": "http://www.imdb.com/title/tt0290223/",
+      "og:title": "InuYasha (TV Series 2000–2004)",
+      "og:type": "video.tv_show",
+      "og:image": "http://ia.media-imdb.com/images/M/MV5BMTAyMjkyOTcwODheQTJeQWpwZ15BbWU3MDg2MjExMzE@._V1._SX100_SY137_.jpg",
+      "og:site_name": "IMDb",
+      "fb:app_id": "115109575169727"
+     }
+    ],
+    "moviereview": [
+     {
+      "ratingstars": "4.0",
+      "best": "10",
+      "originalrating": "8.0",
+      "votes": "4,823",
+      "ratingcount": "63",
+      "image_href": "http://ia.media-imdb.com/images/M/MV5BMTAyMjkyOTcwODheQTJeQWpwZ15BbWU3MDg2MjExMzE@._V1._SY317_CR9,0,214,317_.jpg",
+      "name": "InuYasha (2000–2004) \"Inuyasha\" (original title)",
+      "release_date": "2002-08-31",
+      "release_year": "2002",
+      "genre": "http://www.imdb.com/genre/Animation/http://www.imdb.com/genre/Action",
+      "starring": "Kappei Yamaguchi, Satsuki Yukino, Moneca Stori",
+      "summary": "A teenage girl periodically travels back in time to feudal Japan to help a young half demon recover the shards of a orb of great power."
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "The Inuyasha Companion",
+   "htmlTitle": "The \u003cb\u003eInuyasha\u003c/b\u003e Companion",
+   "link": "http://www.furinkan.com/iycompanion/",
+   "displayLink": "www.furinkan.com",
+   "snippet": "The Inuyasha Companion is the foremost site for information on Rumiko   Takahashi's Inuyasha manga and anime series.",
+   "htmlSnippet": "The \u003cb\u003eInuyasha\u003c/b\u003e Companion is the foremost site for information on Rumiko \u003cbr\u003e  Takahashi&#39;s \u003cb\u003eInuyasha\u003c/b\u003e manga and anime series.",
+   "cacheId": "JYhChm-jlLUJ",
+   "formattedUrl": "www.furinkan.com/iycompanion/",
+   "htmlFormattedUrl": "www.furinkan.com/iycompanion/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.furinkan.com/iycompanion/fx/home-splash.jpg",
+      "type": "1",
+      "width": "229",
+      "height": "220"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Play InuYasha Demon Tournament on Adult Swim Free Online ...",
+   "htmlTitle": "Play \u003cb\u003eInuYasha\u003c/b\u003e Demon Tournament on Adult Swim Free Online \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://games.adultswim.com/demon-tournament-action-online-game.html",
+   "displayLink": "games.adultswim.com",
+   "snippet": "Play Adult Swim's InuYasha Demon Tournament, a free online flash game   exclusive to adultswim.com. Save Kagome from danger!",
+   "htmlSnippet": "Play Adult Swim&#39;s \u003cb\u003eInuYasha\u003c/b\u003e Demon Tournament, a free online flash game \u003cbr\u003e  exclusive to adultswim.com. Save Kagome from danger!",
+   "cacheId": "lONowEkeSFAJ",
+   "formattedUrl": "games.adultswim.com/demon-tournament-action-online-game.html",
+   "htmlFormattedUrl": "games.adultswim.com/demon-tournament-action-online-game.html",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://i.cdn.turner.com/adultswim/games3/tools/img/game-thumbs/demon-tournament/demon-tournament-120.jpg"
+     }
+    ],
+    "thumbnail": [
+     {
+      "src": "http://i.cdn.turner.com/adultswim/games3/tools/img/game-thumbs/demon-tournament/demon-tournament-120.jpg"
+     }
+    ],
+    "metatags": [
+     {
+      "thumbnail": "http://i.cdn.turner.com/adultswim/games3/tools/img/game-thumbs/demon-tournament/demon-tournament-120.jpg",
+      "viewport": "width=1004",
+      "fb:admins": "100000036441469",
+      "og:title": "Demon Tournament",
+      "og:type": "game",
+      "og:url": "http://games.adultswim.com/demon-tournament-action-online-game.html",
+      "og:site_name": "Adult Swim Games",
+      "og:image": "http://i.cdn.turner.com/adultswim/games3/tools/img/game-thumbs/demon-tournament/demon-tournament-120.jpg",
+      "fb:app_id": "222143901136511"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Inuyasha Manga - Read Inuyasha manga scans online.",
+   "htmlTitle": "\u003cb\u003eInuyasha\u003c/b\u003e Manga - Read \u003cb\u003eInuyasha\u003c/b\u003e manga scans online.",
+   "link": "http://www.onemanga.com/Inuyasha/",
+   "displayLink": "www.onemanga.com",
+   "snippet": "Read Inuyasha manga chapters online. No download or registration required.",
+   "htmlSnippet": "Read \u003cb\u003eInuyasha\u003c/b\u003e manga chapters online. No download or registration required.",
+   "cacheId": "xD6ipv9wlJ8J",
+   "formattedUrl": "www.onemanga.com/Inuyasha/",
+   "htmlFormattedUrl": "www.onemanga.com/\u003cb\u003eInuyasha\u003c/b\u003e/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://img-a.onemanga.com/mangas/00000058/InuYasha.jpg"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "160",
+      "height": "239",
+      "src": "https://encrypted-tbn1.google.com/images?q=tbn:ANd9GcRISC7pyEzwVL0ndcdx_L9wUZ-1uHL7YNJo6qLTPifmhSWswV7REBhVEAw_"
+     }
+    ],
+    "scraped": [
+     {
+      "image_link": "http://img-a.onemanga.com/mangas/00000058/InuYasha.jpg"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Inuyasha Plus",
+   "htmlTitle": "\u003cb\u003eInuyasha\u003c/b\u003e Plus",
+   "link": "http://www.inuyashaplus.com/",
+   "displayLink": "www.inuyashaplus.com",
+   "snippet": "A general purpose Inuyasha information site specializing in it's musical aspect.",
+   "htmlSnippet": "A general purpose \u003cb\u003eInuyasha\u003c/b\u003e information site specializing in it&#39;s musical aspect.",
+   "cacheId": "GC4KN1y2jK4J",
+   "formattedUrl": "www.inuyashaplus.com/",
+   "htmlFormattedUrl": "www.\u003cb\u003einuyasha\u003c/b\u003eplus.com/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.inuyashaplus.com/img/6864_welcome.jpg",
+      "type": "1",
+      "width": "398",
+      "height": "105"
+     }
+    ]
+   }
+  }
+ ]
+}

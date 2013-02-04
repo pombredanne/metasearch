@@ -1,0 +1,258 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "nextPage": [
+   {
+    "title": "Google Custom Search - defender",
+    "totalResults": "19600000",
+    "searchTerms": "defender",
+    "count": 10,
+    "startIndex": 21,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "017401104989814545383:mf4lavmtuva"
+   }
+  ],
+  "request": [
+   {
+    "title": "Google Custom Search - defender",
+    "totalResults": "19600000",
+    "searchTerms": "defender",
+    "count": 10,
+    "startIndex": 11,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "017401104989814545383:mf4lavmtuva"
+   }
+  ],
+  "previousPage": [
+   {
+    "title": "Google Custom Search - defender",
+    "totalResults": "19600000",
+    "searchTerms": "defender",
+    "count": 10,
+    "startIndex": 1,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "017401104989814545383:mf4lavmtuva"
+   }
+  ]
+ },
+ "context": {
+  "title": "College MetaSearch Comparison"
+ },
+ "searchInformation": {
+  "searchTime": 0.255056,
+  "formattedSearchTime": "0.26",
+  "totalResults": "19600000",
+  "formattedTotalResults": "19,600,000"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "DEFENDER Direct - The Most Passionate and Respected Leader in ...",
+   "htmlTitle": "\u003cb\u003eDEFENDER\u003c/b\u003e Direct - The Most Passionate and Respected Leader in \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://www.defenderdirect.com/",
+   "displayLink": "www.defenderdirect.com",
+   "snippet": "We acquire customers. And few do it as well as DEFENDER Direct, which is why   we are a top five dealer for brands like ADT, GE and Dish Network.",
+   "htmlSnippet": "We acquire customers. And few do it as well as \u003cb\u003eDEFENDER\u003c/b\u003e Direct, which is why \u003cbr\u003e  we are a top five dealer for brands like ADT, GE and Dish Network.",
+   "cacheId": "UQ8qEqCPDJkJ",
+   "formattedUrl": "www.defenderdirect.com/",
+   "htmlFormattedUrl": "www.\u003cb\u003edefender\u003c/b\u003edirect.com/",
+   "pagemap": {
+    "metatags": [
+     {
+      "title": "DEFENDER Direct - The Most Passionate and Respected Leader in Home Services"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "The Defender Association",
+   "htmlTitle": "The \u003cb\u003eDefender\u003c/b\u003e Association",
+   "link": "http://www.defender.org/",
+   "displayLink": "www.defender.org",
+   "snippet": "The oldest and largest of several non-profit agencies providing public defender   services to Seattle and King County. The association provides a newsletter, legal ...",
+   "htmlSnippet": "The oldest and largest of several non-profit agencies providing public \u003cb\u003edefender\u003c/b\u003e \u003cbr\u003e  services to Seattle and King County. The association provides a newsletter, legal \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "TTB8mXKfo5QJ",
+   "formattedUrl": "www.defender.org/",
+   "htmlFormattedUrl": "www.\u003cb\u003edefender\u003c/b\u003e.org/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.defender.org/slides/19/display/Seattle_-_Central_Building_01.jpg?1334813239",
+      "type": "1",
+      "width": "259",
+      "height": "194"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "iPhone 4S Case - Defender Series from OtterBox | OtterBox.com",
+   "htmlTitle": "iPhone 4S Case - \u003cb\u003eDefender\u003c/b\u003e Series from OtterBox | OtterBox.com",
+   "link": "http://www.otterbox.com/iPhone-4-/-4S-Defender-Series-Case/APL2-I4SUN,default,pd.html",
+   "displayLink": "www.otterbox.com",
+   "snippet": "The iPhone 4S Case Defender Series gives you tough protection for your tough   lifestyle. It's not just a case, it's an OtterBox.",
+   "htmlSnippet": "The iPhone 4S Case \u003cb\u003eDefender\u003c/b\u003e Series gives you tough protection for your tough \u003cbr\u003e  lifestyle. It&#39;s not just a case, it&#39;s an OtterBox.",
+   "cacheId": "WwrStEo86JsJ",
+   "formattedUrl": "www.otterbox.com/...Defender.../APL2-I4SUN,default,pd.html",
+   "htmlFormattedUrl": "www.otterbox.com/...\u003cb\u003eDefender\u003c/b\u003e.../APL2-I4SUN,default,pd.html",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://demandware.edgesuite.net/aaez_prd/on/demandware.static/Sites-otterbox_us-Site/Sites-masterCatalog_OtterBox/default/v1342861377859/images/smallRP/apl4-i4sun-j3.jpg",
+      "type": "1",
+      "width": "80",
+      "height": "80"
+     }
+    ],
+    "metatags": [
+     {
+      "msvalidate.01": "EDB396C2983CA2B4D6A73BEE418B651F",
+      "com.silverpop.brandeddomains": "www.pages04.net,web.otterbox.demandware.net",
+      "com.silverpop.cothost": "engage4.silverpop.com"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "THE DEFENDER :: PUBLISHED BY T.S.BALAN",
+   "htmlTitle": "THE \u003cb\u003eDEFENDER\u003c/b\u003e :: PUBLISHED BY T.S.BALAN",
+   "link": "http://www.tsbalan.com/",
+   "displayLink": "www.tsbalan.com",
+   "snippet": "This is the Official Website of The Defender published by T.S.Balan from   Perumbavoor on 1st and 16th of each month. For more details, contact: ...",
+   "htmlSnippet": "This is the Official Website of The \u003cb\u003eDefender\u003c/b\u003e published by T.S.Balan from \u003cbr\u003e  Perumbavoor on 1st and 16th of each month. For more details, contact: \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "FI-g6YoFXU8J",
+   "formattedUrl": "www.tsbalan.com/",
+   "htmlFormattedUrl": "www.tsbalan.com/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.tsbalan.com/16july12.jpg",
+      "type": "1",
+      "width": "144",
+      "height": "200"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Defender Network Houston's Black News and Entertainment ...",
+   "htmlTitle": "\u003cb\u003eDefender\u003c/b\u003e Network Houston&#39;s Black News and Entertainment \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://www.defendernetwork.com/",
+   "displayLink": "www.defendernetwork.com",
+   "snippet": "Defender Network is Houston's leading black information source featuring   national & local news, entertainment, business and sports.",
+   "htmlSnippet": "\u003cb\u003eDefender\u003c/b\u003e Network is Houston&#39;s leading black information source featuring \u003cbr\u003e  national &amp; local news, entertainment, business and sports.",
+   "cacheId": "y9mafU_zI8IJ",
+   "formattedUrl": "www.defendernetwork.com/",
+   "htmlFormattedUrl": "www.\u003cb\u003edefender\u003c/b\u003enetwork.com/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.defendernetwork.com/-art/12/02/19/ae/Tameka%20Foster%20and%20son%20300x200.jpg",
+      "type": "1",
+      "width": "240",
+      "height": "160"
+     }
+    ],
+    "metatags": [
+     {
+      "admin management xtended wordpress plugin": "2.2"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Defender | Assero Industries | iPad Cases, iPad Covers, and iPad ...",
+   "htmlTitle": "\u003cb\u003eDefender\u003c/b\u003e | Assero Industries | iPad Cases, iPad Covers, and iPad \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://www.asseroindustries.com/defender",
+   "displayLink": "www.asseroindustries.com",
+   "snippet": "Defender. iPad Convertible Back/Front Tech-Pack. Perfect for active, technology-  savvy individuals needing to securely carry and use an Apple iPad while ...",
+   "htmlSnippet": "\u003cb\u003eDefender\u003c/b\u003e. iPad Convertible Back/Front Tech-Pack. Perfect for active, technology-\u003cbr\u003e  savvy individuals needing to securely carry and use an Apple iPad while \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "sdGCe-xIZOcJ",
+   "formattedUrl": "www.asseroindustries.com/defender",
+   "htmlFormattedUrl": "www.asseroindustries.com/\u003cb\u003edefender\u003c/b\u003e"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Windows Defender - Wikipedia, the free encyclopedia",
+   "htmlTitle": "Windows \u003cb\u003eDefender\u003c/b\u003e - Wikipedia, the free encyclopedia",
+   "link": "http://en.wikipedia.org/wiki/Windows_Defender",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "Windows Defender, formerly known as Microsoft AntiSpyware, is a software   product from Microsoft to prevent, remove, and quarantine spyware in Microsoft ...",
+   "htmlSnippet": "Windows \u003cb\u003eDefender\u003c/b\u003e, formerly known as Microsoft AntiSpyware, is a software \u003cbr\u003e  product from Microsoft to prevent, remove, and quarantine spyware in Microsoft \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "rYTwqc4cLscJ",
+   "formattedUrl": "en.wikipedia.org/wiki/Windows_Defender",
+   "htmlFormattedUrl": "en.wikipedia.org/wiki/Windows_\u003cb\u003eDefender\u003c/b\u003e",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://upload.wikimedia.org/wikipedia/en/thumb/f/f7/WindowsDefenderWindows7.png/300px-WindowsDefenderWindows7.png",
+      "type": "1",
+      "width": "240",
+      "height": "168"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Office of the Appellate Defender",
+   "htmlTitle": "Office of the Appellate \u003cb\u003eDefender\u003c/b\u003e",
+   "link": "http://www.state.il.us/defender/",
+   "displayLink": "www.state.il.us",
+   "snippet": "Office of the State Appellate Defender Informational Site. Information regarding   the services provided by the Appellate Defender.",
+   "htmlSnippet": "Office of the State Appellate \u003cb\u003eDefender\u003c/b\u003e Informational Site. Information regarding \u003cbr\u003e  the services provided by the Appellate \u003cb\u003eDefender\u003c/b\u003e.",
+   "cacheId": "w5IyNplOEpQJ",
+   "formattedUrl": "www.state.il.us/defender/",
+   "htmlFormattedUrl": "www.state.il.us/\u003cb\u003edefender\u003c/b\u003e/"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Defender - Wikipedia, the free encyclopedia",
+   "htmlTitle": "\u003cb\u003eDefender\u003c/b\u003e - Wikipedia, the free encyclopedia",
+   "link": "http://en.wikipedia.org/wiki/Defender",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "A defender is usually a participant in defense (military) or defense (sports).   Defender(s) or The Defender(s) may refer to: Contents. 1 Art and entertainment ...",
+   "htmlSnippet": "A \u003cb\u003edefender\u003c/b\u003e is usually a participant in defense (military) or defense (sports). \u003cbr\u003e  \u003cb\u003eDefender\u003c/b\u003e(s) or The \u003cb\u003eDefender\u003c/b\u003e(s) may refer to: Contents. 1 Art and entertainment \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "vgYyT0HzXocJ",
+   "formattedUrl": "en.wikipedia.org/wiki/Defender",
+   "htmlFormattedUrl": "en.wikipedia.org/wiki/\u003cb\u003eDefender\u003c/b\u003e"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Defender Association of Philadelphia",
+   "htmlTitle": "\u003cb\u003eDefender\u003c/b\u003e Association of Philadelphia",
+   "link": "http://www.philadefender.org/",
+   "displayLink": "www.philadefender.org",
+   "snippet": "Home | Contact Us | Links | Sitemap | Disclaimer | Privacy Policy | Log-in © 2012   Defender Association of Philadelphia. All rights reserved. | Site by LISI.",
+   "htmlSnippet": "Home | Contact Us | Links | Sitemap | Disclaimer | Privacy Policy | Log-in © 2012 \u003cbr\u003e  \u003cb\u003eDefender\u003c/b\u003e Association of Philadelphia. All rights reserved. | Site by LISI.",
+   "cacheId": "3fEg_gO3ZecJ",
+   "formattedUrl": "www.philadefender.org/",
+   "htmlFormattedUrl": "www.phila\u003cb\u003edefender\u003c/b\u003e.org/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.philadefender.org/images/home-photo.jpg",
+      "type": "1",
+      "width": "326",
+      "height": "155"
+     }
+    ]
+   }
+  }
+ ]
+}

@@ -1,0 +1,1 @@
+a:1:{s:4:"noun";a:1:{s:3:"syn";a:4:{i:0;s:9:"touristry";i:1;s:8:"business";i:2;s:19:"business enterprise";i:3;s:21:"commercial enterprise";}}}

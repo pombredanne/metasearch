@@ -1,0 +1,309 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "nextPage": [
+   {
+    "title": "Google Custom Search - website design hosting",
+    "totalResults": "33600000",
+    "searchTerms": "website design hosting",
+    "count": 10,
+    "startIndex": 51,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "017401104989814545383:mf4lavmtuva"
+   }
+  ],
+  "request": [
+   {
+    "title": "Google Custom Search - website design hosting",
+    "totalResults": "33600000",
+    "searchTerms": "website design hosting",
+    "count": 10,
+    "startIndex": 41,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "017401104989814545383:mf4lavmtuva"
+   }
+  ],
+  "previousPage": [
+   {
+    "title": "Google Custom Search - website design hosting",
+    "totalResults": "33600000",
+    "searchTerms": "website design hosting",
+    "count": 10,
+    "startIndex": 31,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "017401104989814545383:mf4lavmtuva"
+   }
+  ]
+ },
+ "context": {
+  "title": "College MetaSearch Comparison"
+ },
+ "searchInformation": {
+  "searchTime": 0.19508,
+  "formattedSearchTime": "0.20",
+  "totalResults": "33600000",
+  "formattedTotalResults": "33,600,000"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "JP Web — Design, Hosting, Exchange, VOIP",
+   "htmlTitle": "JP \u003cb\u003eWeb\u003c/b\u003e — \u003cb\u003eDesign\u003c/b\u003e, \u003cb\u003eHosting\u003c/b\u003e, Exchange, VOIP",
+   "link": "http://www.ijpweb.com/",
+   "displayLink": "www.ijpweb.com",
+   "snippet": "We provide online services to small and large businesses nationwide. Check out   JP Web for all of your online needs.",
+   "htmlSnippet": "We provide online services to small and large businesses nationwide. Check out \u003cbr\u003e  JP \u003cb\u003eWeb\u003c/b\u003e for all of your online needs.",
+   "cacheId": "9KW0o1r-pk8J",
+   "formattedUrl": "www.ijpweb.com/",
+   "htmlFormattedUrl": "www.ijp\u003cb\u003eweb\u003c/b\u003e.com/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.ijpweb.com/img/slide-web-design.png",
+      "type": "1",
+      "width": "325",
+      "height": "155"
+     }
+    ],
+    "metatags": [
+     {
+      "wot-verification": "d2f523c5b00ccbb4efb2"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Web Hosting Features, Website Design Tools - Yahoo! Web Hosting",
+   "htmlTitle": "Web \u003cb\u003eHosting\u003c/b\u003e Features, \u003cb\u003eWebsite Design\u003c/b\u003e Tools - Yahoo! Web \u003cb\u003eHosting\u003c/b\u003e",
+   "link": "http://smallbusiness.yahoo.com/webhosting/features",
+   "displayLink": "smallbusiness.yahoo.com",
+   "snippet": "Web Hosting includes easy web design tools, secure website, domain name,   unlimited disk space & data transfer, shared SSL, 24-7 support, & more details on ...",
+   "htmlSnippet": "Web \u003cb\u003eHosting\u003c/b\u003e includes easy \u003cb\u003eweb design\u003c/b\u003e tools, secure website, domain name, \u003cbr\u003e  unlimited disk space &amp; data transfer, shared SSL, 24-7 support, &amp; more details on \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "kWR3CTuhOdkJ",
+   "formattedUrl": "smallbusiness.yahoo.com/webhosting/features",
+   "htmlFormattedUrl": "smallbusiness.yahoo.com/\u003cb\u003ewebhosting\u003c/b\u003e/features",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://l.yimg.com/a/i/us/smbiz/ps/v3/wh-overlay-vid_1.png",
+      "type": "1",
+      "width": "259",
+      "height": "194"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Affordable Web Design and Web Hosting Services for home based ...",
+   "htmlTitle": "Affordable \u003cb\u003eWeb Design\u003c/b\u003e and Web \u003cb\u003eHosting\u003c/b\u003e Services for home based \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://www.shamrocksweb.com/",
+   "displayLink": "www.shamrocksweb.com",
+   "snippet": "Affordable web design, web site hosting, and website maintenance for home-  based, small and medium size businesses. Located in Alpharetta, Georgia, north   of ...",
+   "htmlSnippet": "Affordable \u003cb\u003eweb design\u003c/b\u003e, web site \u003cb\u003ehosting\u003c/b\u003e, and website maintenance for home-\u003cbr\u003e  based, small and medium size businesses. Located in Alpharetta, Georgia, north \u003cbr\u003e  of \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "Ee5FBWs_ryEJ",
+   "formattedUrl": "www.shamrocksweb.com/",
+   "htmlFormattedUrl": "www.shamrocks\u003cb\u003eweb\u003c/b\u003e.com/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.shamrocksweb.com/womandoor-med.jpg",
+      "type": "1",
+      "width": "149",
+      "height": "200"
+     }
+    ],
+    "metatags": [
+     {
+      "rating": "general",
+      "author": "Kelly Ling",
+      "copyright": "Copyright © 1999-2007"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Yahoo! Web Hosting: Unlimited Web Hosting | Web Hosting ...",
+   "htmlTitle": "Yahoo! \u003cb\u003eWeb Hosting\u003c/b\u003e: Unlimited \u003cb\u003eWeb Hosting\u003c/b\u003e | \u003cb\u003eWeb Hosting\u003c/b\u003e \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://smallbusiness.yahoo.com/webhosting/",
+   "displayLink": "smallbusiness.yahoo.com",
+   "snippet": "Web Hosting offers you a domain name, unlimited web hosting space,   ecommerce web hosting, design tools to create a web site easily, secure web site   hosting, ...",
+   "htmlSnippet": "\u003cb\u003eWeb Hosting\u003c/b\u003e offers you a domain name, unlimited \u003cb\u003eweb hosting\u003c/b\u003e space, \u003cbr\u003e  ecommerce \u003cb\u003eweb hosting\u003c/b\u003e, \u003cb\u003edesign\u003c/b\u003e tools to create a \u003cb\u003eweb\u003c/b\u003e site easily, secure \u003cb\u003eweb\u003c/b\u003e site \u003cbr\u003e  \u003cb\u003ehosting\u003c/b\u003e, \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "uypynolSi10J",
+   "formattedUrl": "smallbusiness.yahoo.com/webhosting/",
+   "htmlFormattedUrl": "smallbusiness.yahoo.com/\u003cb\u003ewebhosting\u003c/b\u003e/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://l.yimg.com/a/i/us/smbiz/ps/v3/shopping-cart_1.gif",
+      "type": "1",
+      "width": "102",
+      "height": "62"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Houston Web Site Design - WebWize - providing web site design ...",
+   "htmlTitle": "Houston \u003cb\u003eWeb\u003c/b\u003e Site \u003cb\u003eDesign\u003c/b\u003e - WebWize - providing \u003cb\u003eweb\u003c/b\u003e site \u003cb\u003edesign\u003c/b\u003e \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://www.webwize.com/",
+   "displayLink": "www.webwize.com",
+   "snippet": "Houston Web Site Design and Hosting | WebWize, Inc. 713-682-7111 | www.  webwize.com | Web Designers, providing cost effective web deisgn solutions to ...",
+   "htmlSnippet": "Houston \u003cb\u003eWeb\u003c/b\u003e Site \u003cb\u003eDesign\u003c/b\u003e and \u003cb\u003eHosting\u003c/b\u003e | WebWize, Inc. 713-682-7111 | www.\u003cbr\u003e  webwize.com | \u003cb\u003eWeb\u003c/b\u003e Designers, providing cost effective \u003cb\u003eweb\u003c/b\u003e deisgn solutions to \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "buCsAqAim9wJ",
+   "formattedUrl": "www.webwize.com/",
+   "htmlFormattedUrl": "www.\u003cb\u003eweb\u003c/b\u003ewize.com/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.webwize.com/images/Links-WebHosting.png",
+      "type": "1",
+      "width": "101",
+      "height": "54"
+     }
+    ],
+    "metatags": [
+     {
+      "expires": "never",
+      "distribution": "global",
+      "author": "WebWize, Inc. | www.webwize.com | 713-682-7111",
+      "msvalidate.01": "50FF6B586E1DC292C6E65B81DA8F57CA",
+      "y_key": "432e6c31ec515b7d"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Welcome Fortune City Customers | Dotster",
+   "htmlTitle": "Welcome Fortune City Customers | Dotster",
+   "link": "http://www.dotster.com/dotster/sites/?referrer=FortuneCity",
+   "displayLink": "www.dotster.com",
+   "snippet": "Small business web hosting offering additional business services such as:   domain name ... Find a domain name; Choose a design; Customize & Publish ...",
+   "htmlSnippet": "Small business \u003cb\u003eweb hosting\u003c/b\u003e offering additional business services such as: \u003cbr\u003e  domain name \u003cb\u003e...\u003c/b\u003e Find a domain name; Choose a \u003cb\u003edesign\u003c/b\u003e; Customize &amp; Publish \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "VIKyE8ixC1kJ",
+   "formattedUrl": "www.dotster.com/dotster/sites/?referrer=FortuneCity",
+   "htmlFormattedUrl": "www.dotster.com/dotster/sites/?referrer=FortuneCity",
+   "pagemap": {
+    "metatags": [
+     {
+      "rating": "General",
+      "distribution": "Global"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Tech Fix Web Design Hosting Training SEO Tyngsboro MA",
+   "htmlTitle": "Tech Fix \u003cb\u003eWeb Design Hosting\u003c/b\u003e Training SEO Tyngsboro MA",
+   "link": "http://www.techfix.com/",
+   "displayLink": "www.techfix.com",
+   "snippet": "Providing Affordable Web Design, Hosting, Organic SEO Search Engine   Optimization & Email Services.",
+   "htmlSnippet": "Providing Affordable \u003cb\u003eWeb Design\u003c/b\u003e, \u003cb\u003eHosting\u003c/b\u003e, Organic SEO Search Engine \u003cbr\u003e  Optimization &amp; Email Services.",
+   "cacheId": "raNHS1IKNsQJ",
+   "formattedUrl": "www.techfix.com/",
+   "htmlFormattedUrl": "www.techfix.com/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.techfix.com/images/slide4.jpg",
+      "type": "1",
+      "width": "301",
+      "height": "168"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Miami Web Design",
+   "htmlTitle": "Miami \u003cb\u003eWeb Design\u003c/b\u003e",
+   "link": "http://www.web-design-miami.com/",
+   "displayLink": "www.web-design-miami.com",
+   "snippet": "Miami web design company offering web design, web hosting, e-commerce,   website development and search engine optimization.",
+   "htmlSnippet": "Miami \u003cb\u003eweb design\u003c/b\u003e company offering \u003cb\u003eweb design\u003c/b\u003e, web \u003cb\u003ehosting\u003c/b\u003e, e-commerce, \u003cbr\u003e  website development and search engine optimization.",
+   "cacheId": "qL4iIJQG1R8J",
+   "formattedUrl": "www.web-design-miami.com/",
+   "htmlFormattedUrl": "www.\u003cb\u003eweb\u003c/b\u003e-\u003cb\u003edesign\u003c/b\u003e-miami.com/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.web-design-miami.com/images/web-design-miami.png",
+      "type": "1",
+      "width": "293",
+      "height": "172"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Affordable Web Design Hosting, PC Products, and Services by ...",
+   "htmlTitle": "Affordable \u003cb\u003eWeb Design Hosting\u003c/b\u003e, PC Products, and Services by \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://www.waltbren.com/",
+   "displayLink": "www.waltbren.com",
+   "snippet": "Affordable web design, hosting and domain registration. Products, services,   networking and instruction for computers and Internet users. Software and free ...",
+   "htmlSnippet": "Affordable \u003cb\u003eweb design\u003c/b\u003e, \u003cb\u003ehosting\u003c/b\u003e and domain registration. Products, services, \u003cbr\u003e  networking and instruction for computers and Internet users. Software and free \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "-1pLn52gMhcJ",
+   "formattedUrl": "www.waltbren.com/",
+   "htmlFormattedUrl": "www.waltbren.com/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.waltbren.com/images/MCP_logo_old.gif",
+      "type": "1",
+      "width": "110",
+      "height": "49"
+     }
+    ],
+    "metatags": [
+     {
+      "progid": "FrontPage.Editor.Document",
+      "author": "Walt Dimmock",
+      "copyright": "2000-2004 WaltBren Computing, LLC",
+      "reply-to": "webmaster@waltbren.com",
+      "language": "en",
+      "classification": "Computers",
+      "distribution": "Global"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Technology Consulting, Web Design, Hosting, Ecommerce, Website ...",
+   "htmlTitle": "Technology Consulting, \u003cb\u003eWeb Design\u003c/b\u003e, \u003cb\u003eHosting\u003c/b\u003e, Ecommerce, Website \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://www.cpccci.com/",
+   "displayLink": "www.cpccci.com",
+   "snippet": "Helping businesses in Miami, Florida with IT consulting, web design, ecommerce,   web hosting, Internet marketing, search engine optimization SEO, social ...",
+   "htmlSnippet": "Helping businesses in Miami, Florida with IT consulting, \u003cb\u003eweb design\u003c/b\u003e, ecommerce, \u003cbr\u003e  web \u003cb\u003ehosting\u003c/b\u003e, Internet marketing, search engine optimization SEO, social \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "Z-lbHxMZ_84J",
+   "formattedUrl": "www.cpccci.com/",
+   "htmlFormattedUrl": "www.cpccci.com/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.cpccci.com/images/domains-web-hosting-miami.png",
+      "type": "1",
+      "width": "116",
+      "height": "149"
+     }
+    ]
+   }
+  }
+ ]
+}

@@ -1,0 +1,291 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "nextPage": [
+   {
+    "title": "Google Custom Search - euclid",
+    "totalResults": "1640000",
+    "searchTerms": "euclid",
+    "count": 10,
+    "startIndex": 61,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "017401104989814545383:mf4lavmtuva"
+   }
+  ],
+  "request": [
+   {
+    "title": "Google Custom Search - euclid",
+    "totalResults": "1640000",
+    "searchTerms": "euclid",
+    "count": 10,
+    "startIndex": 51,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "017401104989814545383:mf4lavmtuva"
+   }
+  ],
+  "previousPage": [
+   {
+    "title": "Google Custom Search - euclid",
+    "totalResults": "1640000",
+    "searchTerms": "euclid",
+    "count": 10,
+    "startIndex": 41,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "017401104989814545383:mf4lavmtuva"
+   }
+  ]
+ },
+ "context": {
+  "title": "College MetaSearch Comparison"
+ },
+ "searchInformation": {
+  "searchTime": 0.176669,
+  "formattedSearchTime": "0.18",
+  "totalResults": "1640000",
+  "formattedTotalResults": "1,640,000"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "Euclid's lemma - Wikipedia, the free encyclopedia",
+   "htmlTitle": "\u003cb\u003eEuclid&#39;s\u003c/b\u003e lemma - Wikipedia, the free encyclopedia",
+   "link": "http://en.wikipedia.org/wiki/Euclid's_lemma",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "In number theory, Euclid's lemma (also called Euclid's first theorem) is a lemma   that captures one of the fundamental properties of prime numbers. It states that if ...",
+   "htmlSnippet": "In number theory, \u003cb\u003eEuclid&#39;s\u003c/b\u003e lemma (also called \u003cb\u003eEuclid&#39;s\u003c/b\u003e first theorem) is a lemma \u003cbr\u003e  that captures one of the fundamental properties of prime numbers. It states that if \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "YuxCc0QMveEJ",
+   "formattedUrl": "en.wikipedia.org/wiki/Euclid's_lemma",
+   "htmlFormattedUrl": "en.wikipedia.org/wiki/\u003cb\u003eEuclid&#39;s\u003c/b\u003e_lemma"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Euclid",
+   "htmlTitle": "\u003cb\u003eEuclid\u003c/b\u003e",
+   "link": "http://www.3villagecsd.k12.ny.us/wmhs/Departments/Math/OBrien/euclid.html",
+   "displayLink": "www.3villagecsd.k12.ny.us",
+   "snippet": "Euclid. The word “Geometry” comes from the Greek word “geometrin” meaning “  earth-to measure.” In fact, early geometry was a method of surveying, ...",
+   "htmlSnippet": "\u003cb\u003eEuclid\u003c/b\u003e. The word “Geometry” comes from the Greek word “geometrin” meaning “\u003cbr\u003e  earth-to measure.” In fact, early geometry was a method of surveying, \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "kjn3Se5WGSoJ",
+   "formattedUrl": "www.3villagecsd.k12.ny.us/wmhs/Departments/Math/.../euclid.html",
+   "htmlFormattedUrl": "www.3villagecsd.k12.ny.us/wmhs/Departments/Math/.../\u003cb\u003eeuclid\u003c/b\u003e.html",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.3villagecsd.k12.ny.us/wmhs/Departments/Math/OBrien/euclid.gif",
+      "type": "1",
+      "width": "232",
+      "height": "218"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Euclid, Ohio (OH) profile: population, maps, real estate, averages ...",
+   "htmlTitle": "\u003cb\u003eEuclid\u003c/b\u003e, Ohio (OH) profile: population, maps, real estate, averages \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://www.city-data.com/city/Euclid-Ohio.html",
+   "displayLink": "www.city-data.com",
+   "snippet": "Mean prices in 2009: All housing units: $119056; Detached houses: $123496;   Townhouses or other attached units: $78256; In 2-unit structures: $127808; ...",
+   "htmlSnippet": "Mean prices in 2009: All housing units: $119056; Detached houses: $123496; \u003cbr\u003e  Townhouses or other attached units: $78256; In 2-unit structures: $127808; \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "3WrSbYRdriAJ",
+   "formattedUrl": "www.city-data.com/city/Euclid-Ohio.html",
+   "htmlFormattedUrl": "www.city-data.com/city/\u003cb\u003eEuclid\u003c/b\u003e-Ohio.html",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://pics2.city-data.com/picthumbc/thumbc33372.jpg",
+      "type": "1",
+      "width": "112",
+      "height": "112"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Euclid Middle School - Littleton Public Schools",
+   "htmlTitle": "\u003cb\u003eEuclid\u003c/b\u003e Middle School - Littleton Public Schools",
+   "link": "http://euclid.littletonpublicschools.net/",
+   "displayLink": "euclid.littletonpublicschools.net",
+   "snippet": "Read more about this new initiative at Euclid. ... Earth Day tree planting at Euclid   Middle School... Euclid was also featured in the Centennial Citizen ... A unique ...",
+   "htmlSnippet": "Read more about this new initiative at \u003cb\u003eEuclid\u003c/b\u003e. \u003cb\u003e...\u003c/b\u003e Earth Day tree planting at \u003cb\u003eEuclid\u003c/b\u003e \u003cbr\u003e  Middle School... \u003cb\u003eEuclid\u003c/b\u003e was also featured in the Centennial Citizen ... A unique \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "bwSUYqdUZtMJ",
+   "formattedUrl": "euclid.littletonpublicschools.net/",
+   "htmlFormattedUrl": "\u003cb\u003eeuclid\u003c/b\u003e.littletonpublicschools.net/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://euclid.littletonpublicschools.net/Portals/27/FalconFeathers/Poster1%20cropped.jpg",
+      "type": "1",
+      "width": "197",
+      "height": "256"
+     }
+    ],
+    "metatags": [
+     {
+      "copyright": "©2007 Littleton Public Schools",
+      "author": "Euclid Middle School - Littleton Public Schools",
+      "resource-type": "DOCUMENT",
+      "distribution": "GLOBAL",
+      "rating": "GENERAL"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Euclid Insurance Agencies",
+   "htmlTitle": "\u003cb\u003eEuclid\u003c/b\u003e Insurance Agencies",
+   "link": "http://www.euclidinsurance.com/",
+   "displayLink": "www.euclidinsurance.com",
+   "snippet": "",
+   "htmlSnippet": "",
+   "cacheId": "RM6Xg7JURQoJ",
+   "formattedUrl": "www.euclidinsurance.com/",
+   "htmlFormattedUrl": "www.\u003cb\u003eeuclid\u003c/b\u003einsurance.com/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.euclidinsurance.com/media/frontpage/Euclid%20Insurance%20Front%20Page%20Pic%20%20OFF.gif",
+      "type": "1",
+      "width": "247",
+      "height": "204"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Village of Euclid v. Ambler Realty Co. - Wikipedia, the free ...",
+   "htmlTitle": "Village of \u003cb\u003eEuclid\u003c/b\u003e v. Ambler Realty Co. - Wikipedia, the free \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://en.wikipedia.org/wiki/Village_of_Euclid_v._Ambler_Realty_Co.",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "Village of Euclid, Ohio v. Ambler Realty Co., 272 U.S. 365 (1926), more   commonly Euclid v. Ambler, was a United States Supreme Court case argued in   1926.",
+   "htmlSnippet": "Village of \u003cb\u003eEuclid\u003c/b\u003e, Ohio v. Ambler Realty Co., 272 U.S. 365 (1926), more \u003cbr\u003e  commonly \u003cb\u003eEuclid\u003c/b\u003e v. Ambler, was a United States Supreme Court case argued in \u003cbr\u003e  1926.",
+   "cacheId": "6jT_Et4sJsMJ",
+   "formattedUrl": "en.wikipedia.org/wiki/Village_of_Euclid_v._Ambler_Realty_Co.",
+   "htmlFormattedUrl": "en.wikipedia.org/wiki/Village_of_\u003cb\u003eEuclid\u003c/b\u003e_v._Ambler_Realty_Co.",
+   "pagemap": {
+    "hcard": [
+     {
+      "fn": "Village of Euclid, Ohio v. Ambler Realty Co."
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Euclid Creek Home Page",
+   "htmlTitle": "\u003cb\u003eEuclid\u003c/b\u003e Creek Home Page",
+   "link": "http://www.cuyahogaswcd.org/EuclidCreekFiles/EuclidCreekthehomepage.htm",
+   "displayLink": "www.cuyahogaswcd.org",
+   "snippet": "The Euclid Creek Watershed Program website is part of an ongoing effort to   educate residents in the Euclid Creek watershed about ways to improve this ...",
+   "htmlSnippet": "The \u003cb\u003eEuclid\u003c/b\u003e Creek Watershed Program website is part of an ongoing effort to \u003cbr\u003e  educate residents in the \u003cb\u003eEuclid\u003c/b\u003e Creek watershed about ways to improve this \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "IaCKcW7B5yUJ",
+   "formattedUrl": "www.cuyahogaswcd.org/EuclidCreekFiles/EuclidCreekthehomepage.htm",
+   "htmlFormattedUrl": "www.cuyahogaswcd.org/\u003cb\u003eEuclid\u003c/b\u003eCreekFiles/\u003cb\u003eEuclid\u003c/b\u003eCreekthehomepage.htm",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.cuyahogaswcd.org/EuclidCreekFiles/Euclid%20Creek%20page%20images/EuclidCreek2.JPG",
+      "type": "1",
+      "width": "252",
+      "height": "189"
+     }
+    ],
+    "metatags": [
+     {
+      "progid": "FrontPage.Editor.Document",
+      "microsoft border": "lrb"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Euclid Industries: Welcome | Engineering | CNC | Machining Company",
+   "htmlTitle": "\u003cb\u003eEuclid\u003c/b\u003e Industries: Welcome | Engineering | CNC | Machining Company",
+   "link": "http://www.euclidindustries.com/",
+   "displayLink": "www.euclidindustries.com",
+   "snippet": "Contract machining manufacturer for metal fabrication and forming services:   electronic, circuit board, wiring harness, & general assembly; CNC machining;   CNC ...",
+   "htmlSnippet": "Contract machining manufacturer for metal fabrication and forming services: \u003cbr\u003e  electronic, circuit board, wiring harness, &amp; general assembly; CNC machining; \u003cbr\u003e  CNC \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "tjqcNQxNtBIJ",
+   "formattedUrl": "www.euclidindustries.com/",
+   "htmlFormattedUrl": "www.\u003cb\u003eeuclid\u003c/b\u003eindustries.com/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.euclidindustries.com/images/milling%20logo.png",
+      "type": "1",
+      "width": "149",
+      "height": "77"
+     }
+    ],
+    "metatags": [
+     {
+      "classification": "Business: Industrial Goods and Services: Casting, Molding, Machining: Machine Shops: Tool and Die Shops",
+      "rating": "Safe For Kids",
+      "distribution": "USA",
+      "country": "USA",
+      "location": "North America \u003e USA \u003e Michigan \u003e Bay City",
+      "copyright": "Copyright 2011 Euclid Industries."
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Euclid Restaurant - Home",
+   "htmlTitle": "\u003cb\u003eEuclid\u003c/b\u003e Restaurant - Home",
+   "link": "http://www.euclidrestaurant.com/",
+   "displayLink": "www.euclidrestaurant.com",
+   "snippet": "Euclid Family Restaurant located at 4285 State Rte 31, Clay, NY Clay has been a   family tradition since 1985!",
+   "htmlSnippet": "\u003cb\u003eEuclid\u003c/b\u003e Family Restaurant located at 4285 State Rte 31, Clay, NY Clay has been a \u003cbr\u003e  family tradition since 1985!",
+   "cacheId": "qZ1ON5NZieEJ",
+   "formattedUrl": "www.euclidrestaurant.com/",
+   "htmlFormattedUrl": "www.\u003cb\u003eeuclid\u003c/b\u003erestaurant.com/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.euclidrestaurant.com/ordereze/images/items/IMAGE1.JPG",
+      "type": "1",
+      "width": "256",
+      "height": "191"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Euclid Hunger Center",
+   "htmlTitle": "\u003cb\u003eEuclid\u003c/b\u003e Hunger Center",
+   "link": "http://www.euclidhungercenter.com/",
+   "displayLink": "www.euclidhungercenter.com",
+   "snippet": "The Euclid Hunger Center has made a pledge to our community to provide   quality staple foods and grocery items for Euclid residents in need.",
+   "htmlSnippet": "The \u003cb\u003eEuclid\u003c/b\u003e Hunger Center has made a pledge to our community to provide \u003cbr\u003e  quality staple foods and grocery items for \u003cb\u003eEuclid\u003c/b\u003e residents in need.",
+   "cacheId": "rkatwaLd1xQJ",
+   "formattedUrl": "www.euclidhungercenter.com/",
+   "htmlFormattedUrl": "www.\u003cb\u003eeuclid\u003c/b\u003ehungercenter.com/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.euclidhungercenter.com/publishImages/Index~~element40.jpg",
+      "type": "1",
+      "width": "234",
+      "height": "215"
+     }
+    ]
+   }
+  }
+ ]
+}

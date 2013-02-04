@@ -1,0 +1,363 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "nextPage": [
+   {
+    "title": "Google Custom Search - dinosaurs",
+    "totalResults": "10800000",
+    "searchTerms": "dinosaurs",
+    "count": 10,
+    "startIndex": 41,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "017401104989814545383:mf4lavmtuva"
+   }
+  ],
+  "request": [
+   {
+    "title": "Google Custom Search - dinosaurs",
+    "totalResults": "10800000",
+    "searchTerms": "dinosaurs",
+    "count": 10,
+    "startIndex": 31,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "017401104989814545383:mf4lavmtuva"
+   }
+  ],
+  "previousPage": [
+   {
+    "title": "Google Custom Search - dinosaurs",
+    "totalResults": "10800000",
+    "searchTerms": "dinosaurs",
+    "count": 10,
+    "startIndex": 21,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "017401104989814545383:mf4lavmtuva"
+   }
+  ]
+ },
+ "context": {
+  "title": "College MetaSearch Comparison"
+ },
+ "searchInformation": {
+  "searchTime": 0.161622,
+  "formattedSearchTime": "0.16",
+  "totalResults": "10800000",
+  "formattedTotalResults": "10,800,000"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "The World of the Dinosaurs - Symphony of Science - YouTube",
+   "htmlTitle": "The World of the \u003cb\u003eDinosaurs\u003c/b\u003e - Symphony of Science - YouTube",
+   "link": "http://www.youtube.com/watch?v=ige2YBBJeh4",
+   "displayLink": "www.youtube.com",
+   "snippet": "Mar 20, 2012 ... mp3: http://bit.ly/GDKFgS Now on iTunes: http://itunes.apple.com/album/world-  dinosaurs-feat.-alice/id530032446 A musical celebration of ...",
+   "htmlSnippet": "Mar 20, 2012 \u003cb\u003e...\u003c/b\u003e mp3: http://bit.ly/GDKFgS Now on iTunes: http://itunes.apple.com/album/world-\u003cbr\u003e  \u003cb\u003edinosaurs\u003c/b\u003e-feat.-alice/id530032446 A musical celebration of \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "1xqqBLWmk3UJ",
+   "formattedUrl": "www.youtube.com/watch?v=ige2YBBJeh4",
+   "htmlFormattedUrl": "www.youtube.com/watch?v=ige2YBBJeh4",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://i2.ytimg.com/vi/ige2YBBJeh4/mqdefault.jpg"
+     }
+    ],
+    "videoobject": [
+     {
+      "url": "http://www.youtube.com/watch?v=ige2YBBJeh4",
+      "name": "The World of the Dinosaurs - Symphony of Science",
+      "description": "mp3: http://bit.ly/GDKFgS Now on iTunes: http://itunes.apple.com/album/world-dinosaurs-feat.-alice/id530032446 A musical celebration of dinosaurs! \"The World...",
+      "duration": "PT3M8S",
+      "unlisted": "False",
+      "paid": "False",
+      "thumbnailurl": "http://i2.ytimg.com/vi/ige2YBBJeh4/hqdefault.jpg",
+      "embedurl": "http://www.youtube.com/v/ige2YBBJeh4?version=3&autohide=1",
+      "playertype": "Flash",
+      "width": "1280",
+      "height": "720"
+     }
+    ],
+    "person": [
+     {
+      "url": "http://www.youtube.com/user/melodysheep"
+     }
+    ],
+    "metatags": [
+     {
+      "title": "The World of the Dinosaurs - Symphony of Science",
+      "og:url": "http://www.youtube.com/watch?v=ige2YBBJeh4",
+      "og:title": "The World of the Dinosaurs - Symphony of Science",
+      "og:description": "mp3: http://bit.ly/GDKFgS Now on iTunes: http://itunes.apple.com/album/world-dinosaurs-feat.-alice/id530032446 A musical celebration of dinosaurs! \"The World...",
+      "og:type": "video",
+      "og:image": "http://i2.ytimg.com/vi/ige2YBBJeh4/mqdefault.jpg",
+      "og:video": "http://www.youtube.com/v/ige2YBBJeh4?version=3&autohide=1",
+      "og:video:type": "application/x-shockwave-flash",
+      "og:video:width": "1280",
+      "og:video:height": "720",
+      "og:site_name": "YouTube",
+      "fb:app_id": "87741124305",
+      "twitter:player:width": "1280",
+      "twitter:player:height": "720",
+      "attribution": "youtube_none/"
+     }
+    ],
+    "imageobject": [
+     {
+      "url": "http://i2.ytimg.com/vi/ige2YBBJeh4/mqdefault.jpg",
+      "width": "320",
+      "height": "180"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Dinosaurs | American Museum of Natural History",
+   "htmlTitle": "\u003cb\u003eDinosaurs\u003c/b\u003e | American Museum of Natural History",
+   "link": "http://www.amnh.org/exhibitions/dinosaurs/",
+   "displayLink": "www.amnh.org",
+   "snippet": "DINOSAURS May 14, 2005 - January 8, 2006 DINOSAURS: Ancient Fossils,   New Discoveries. Introduction · Theropod Biomechanics · Sauropod   Biomechanics ...",
+   "htmlSnippet": "\u003cb\u003eDINOSAURS\u003c/b\u003e May 14, 2005 - January 8, 2006 \u003cb\u003eDINOSAURS\u003c/b\u003e: Ancient Fossils, \u003cbr\u003e  New Discoveries. Introduction &middot; Theropod Biomechanics &middot; Sauropod \u003cbr\u003e  Biomechanics \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "2K-VSqgyKTEJ",
+   "formattedUrl": "www.amnh.org/exhibitions/dinosaurs/",
+   "htmlFormattedUrl": "www.amnh.org/exhibitions/\u003cb\u003edinosaurs\u003c/b\u003e/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.amnh.org/exhibitions/dinosaurs/images/exhibit/homepage/home_dino_pic.gif",
+      "type": "1",
+      "width": "133",
+      "height": "160"
+     }
+    ],
+    "metatags": [
+     {
+      "copyright": "American Museum of Natural History",
+      "author": "American Museum of Natural History",
+      "wt.cg_n": "Category: exhibitions",
+      "wt.cg_s": "SubCat: dinosaurs"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Virtual Dinosaur Dig",
+   "htmlTitle": "Virtual \u003cb\u003eDinosaur\u003c/b\u003e Dig",
+   "link": "http://paleobiology.si.edu/dinosaurs/interactives/dig/main.html",
+   "displayLink": "paleobiology.si.edu",
+   "snippet": "Smithsonian National Museum of Natural History: Dinosaurs, Paleobiology ·   National Museum of Natural History · Smithsonian Institution. Dinosaur Info ...",
+   "htmlSnippet": "Smithsonian National Museum of Natural History: \u003cb\u003eDinosaurs\u003c/b\u003e, Paleobiology &middot; \u003cbr\u003e  National Museum of Natural History &middot; Smithsonian Institution. \u003cb\u003eDinosaur\u003c/b\u003e Info \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "PiD3lOCqwc8J",
+   "formattedUrl": "paleobiology.si.edu/dinosaurs/interactives/dig/main.html",
+   "htmlFormattedUrl": "paleobiology.si.edu/\u003cb\u003edinosaurs\u003c/b\u003e/interactives/dig/main.html",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://paleobiology.si.edu/dinosaurs/images/nav/banner_logo_title.jpg",
+      "type": "1",
+      "width": "250",
+      "height": "92"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "The Great Mystery: Background",
+   "htmlTitle": "The Great Mystery: Background",
+   "link": "http://www.ucmp.berkeley.edu/diapsids/extinction.html",
+   "displayLink": "www.ucmp.berkeley.edu",
+   "snippet": "History: Until recently, people simply knew that dinosaurs went extinct — their   fossils were found throughout the Mesozoic era, but were not located in the rock ...",
+   "htmlSnippet": "History: Until recently, people simply knew that \u003cb\u003edinosaurs\u003c/b\u003e went extinct — their \u003cbr\u003e  fossils were found throughout the Mesozoic era, but were not located in the rock \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "o7Go5JONnfAJ",
+   "formattedUrl": "www.ucmp.berkeley.edu/diapsids/extinction.html",
+   "htmlFormattedUrl": "www.ucmp.berkeley.edu/diapsids/extinction.html",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.ucmp.berkeley.edu/diapsids/buzz/dinobuzz_sm.gif",
+      "type": "1",
+      "width": "111",
+      "height": "80"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Dinosaur Hall | Natural History Museum of Los Angeles",
+   "htmlTitle": "\u003cb\u003eDinosaur\u003c/b\u003e Hall | Natural History Museum of Los Angeles",
+   "link": "http://www.nhm.org/site/explore-exhibits/permanent-exhibits/dinosaur-hall",
+   "displayLink": "www.nhm.org",
+   "snippet": "The Dinosaur Hall features many large-scale murals, including this one depicting   the giant Mamenchisaurus. Illustration by Julius Csotonyi. Courtesy of NHM.",
+   "htmlSnippet": "The \u003cb\u003eDinosaur\u003c/b\u003e Hall features many large-scale murals, including this one depicting \u003cbr\u003e  the giant Mamenchisaurus. Illustration by Julius Csotonyi. Courtesy of NHM.",
+   "cacheId": "YdvTw3-ZQ9kJ",
+   "formattedUrl": "www.nhm.org/site/explore-exhibits/permanent.../dinosaur-hall",
+   "htmlFormattedUrl": "www.nhm.org/site/explore-exhibits/permanent.../\u003cb\u003edinosaur\u003c/b\u003e-hall",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.nhm.org/site/sites/default/files/marketing/rcm_img/trex_gs_timelapse_rcm.jpg",
+      "type": "1",
+      "width": "184",
+      "height": "144"
+     }
+    ],
+    "metatags": [
+     {
+      "copyright": "©2010 Natural History Museum of Los Angeles County"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Dinosaur Train . Field Guide | PBS KIDS",
+   "htmlTitle": "\u003cb\u003eDinosaur\u003c/b\u003e Train . Field Guide | PBS KIDS",
+   "link": "http://pbskids.org/dinosaurtrain/games/fieldguide.html",
+   "displayLink": "pbskids.org",
+   "snippet": "Learn dinosaur names, what they might have looked like, their size, the foods   they ate and what time period they existed in this book full of fun facts! You can ...",
+   "htmlSnippet": "Learn \u003cb\u003edinosaur\u003c/b\u003e names, what they might have looked like, their size, the foods \u003cbr\u003e  they ate and what time period they existed in this book full of fun facts! You can \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "6B-6k7X54dEJ",
+   "formattedUrl": "pbskids.org/dinosaurtrain/games/fieldguide.html",
+   "htmlFormattedUrl": "pbskids.org/\u003cb\u003edinosaur\u003c/b\u003etrain/games/fieldguide.html",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://pbskids.org/dinosaurtrain/media/images/topNav_04.jpg",
+      "type": "1",
+      "width": "112",
+      "height": "98"
+     }
+    ],
+    "metatags": [
+     {
+      "author": "fableVision, Inc."
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Grade 2 Dinosaur WebQuest",
+   "htmlTitle": "Grade 2 \u003cb\u003eDinosaur\u003c/b\u003e WebQuest",
+   "link": "http://olc.spsd.sk.ca/de/webquests/dino/dinowq.htm",
+   "displayLink": "olc.spsd.sk.ca",
+   "snippet": "You will learn about one dinosaur and the time period in which it lived. You will   then work together with the other members of your class to design a Dinosaur ...",
+   "htmlSnippet": "You will learn about one \u003cb\u003edinosaur\u003c/b\u003e and the time period in which it lived. You will \u003cbr\u003e  then work together with the other members of your class to design a \u003cb\u003eDinosaur\u003c/b\u003e \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "nIOb9xEIR68J",
+   "formattedUrl": "olc.spsd.sk.ca/de/webquests/dino/dinowq.htm",
+   "htmlFormattedUrl": "olc.spsd.sk.ca/de/webquests/dino/dinowq.htm",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://olc.spsd.sk.ca/de/webquests/dino/Image2.gif",
+      "type": "1",
+      "width": "225",
+      "height": "225"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Dinosaurs - Answers in Genesis",
+   "htmlTitle": "\u003cb\u003eDinosaurs\u003c/b\u003e - Answers in Genesis",
+   "link": "http://www.answersingenesis.org/get-answers/topic/dinosaurs",
+   "displayLink": "www.answersingenesis.org",
+   "snippet": "If humans and dinosaurs lived at the same time, why aren't their fossils found   together? Is there other evidence that humans and dinosaurs lived together?",
+   "htmlSnippet": "If humans and \u003cb\u003edinosaurs\u003c/b\u003e lived at the same time, why aren&#39;t their fossils found \u003cbr\u003e  together? Is there other evidence that humans and \u003cb\u003edinosaurs\u003c/b\u003e lived together?",
+   "cacheId": "SS2WaIlFUP8J",
+   "formattedUrl": "www.answersingenesis.org/get-answers/topic/dinosaurs",
+   "htmlFormattedUrl": "www.answersingenesis.org/get-answers/topic/\u003cb\u003edinosaurs\u003c/b\u003e",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.answersingenesis.org/contents/433/field_8275/dinosaurs.JPG",
+      "type": "1",
+      "width": "320",
+      "height": "97"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Dinosaur Tracking Blog - Where Paleontology Meets Pop Culture",
+   "htmlTitle": "\u003cb\u003eDinosaur\u003c/b\u003e Tracking Blog - Where Paleontology Meets Pop Culture",
+   "link": "http://blogs.smithsonianmag.com/dinosaur/",
+   "displayLink": "blogs.smithsonianmag.com",
+   "snippet": "5 hours ago ... The vandalized dinosaur wasn't an Edmontosaurus, but belonged to the same   evolutionary group. Photo from Ballista, image from Wikipedia.",
+   "htmlSnippet": "5 hours ago \u003cb\u003e...\u003c/b\u003e The vandalized \u003cb\u003edinosaur\u003c/b\u003e wasn&#39;t an Edmontosaurus, but belonged to the same \u003cbr\u003e  evolutionary group. Photo from Ballista, image from Wikipedia.",
+   "cacheId": "lphuFU4PB3YJ",
+   "formattedUrl": "blogs.smithsonianmag.com/dinosaur/",
+   "htmlFormattedUrl": "blogs.smithsonianmag.com/\u003cb\u003edinosaur\u003c/b\u003e/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://blogs.smithsonianmag.com/dinosaur/files/2012/07/diplodocus-head.jpg",
+      "type": "1",
+      "width": "274",
+      "height": "184"
+     }
+    ],
+    "metatags": [
+     {
+      "nextgen": "1.8.3",
+      "copyright": "Copyright (c) 2011 Smithsonian Business Ventures",
+      "doc-class": "Living Document",
+      "og:title": "Vandals Smash Irreplacable Dinosaur",
+      "og:site_name": "Smithsonian magazine",
+      "og:type": "blog",
+      "og:url": "http://blogs.smithsonianmag.com/dinosaur/2012/07/vandals-smash-irreplacable-dinosaur/",
+      "fb:page_id": "47619793252"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Dinosaur World",
+   "htmlTitle": "\u003cb\u003eDinosaur\u003c/b\u003e World",
+   "link": "http://www.dinosaurworld.com/",
+   "displayLink": "www.dinosaurworld.com",
+   "snippet": "Dinosaur World, the worlds largest dinosaur attraction, is in Plant City, Florida. It   is conveniently located between Tampa and Orlando, Florida. There are other ...",
+   "htmlSnippet": "\u003cb\u003eDinosaur\u003c/b\u003e World, the worlds largest \u003cb\u003edinosaur\u003c/b\u003e attraction, is in Plant City, Florida. It \u003cbr\u003e  is conveniently located between Tampa and Orlando, Florida. There are other \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "YVvr7-3g0QcJ",
+   "formattedUrl": "www.dinosaurworld.com/",
+   "htmlFormattedUrl": "www.\u003cb\u003edinosaur\u003c/b\u003eworld.com/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.dinosaurworld.com/wp-content/themes/dinosaurworld/files/cave_city_header.png",
+      "type": "1",
+      "width": "224",
+      "height": "99"
+     }
+    ],
+    "metatags": [
+     {
+      "framework": "Kpress",
+      "theme version": "1",
+      "framework version": "1.4",
+      "cms version": "3.3.2",
+      "autorotate": "1",
+      "autorotate_duration": "5",
+      "temp_url": "http://www.dinosaurworld.com/wp-content/themes/dinosaurworld"
+     }
+    ]
+   }
+  }
+ ]
+}

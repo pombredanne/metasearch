@@ -1,0 +1,358 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "nextPage": [
+   {
+    "title": "Google Custom Search - cheap internet",
+    "totalResults": "116000000",
+    "searchTerms": "cheap internet",
+    "count": 10,
+    "startIndex": 51,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "017401104989814545383:mf4lavmtuva"
+   }
+  ],
+  "request": [
+   {
+    "title": "Google Custom Search - cheap internet",
+    "totalResults": "116000000",
+    "searchTerms": "cheap internet",
+    "count": 10,
+    "startIndex": 41,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "017401104989814545383:mf4lavmtuva"
+   }
+  ],
+  "previousPage": [
+   {
+    "title": "Google Custom Search - cheap internet",
+    "totalResults": "116000000",
+    "searchTerms": "cheap internet",
+    "count": 10,
+    "startIndex": 31,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "017401104989814545383:mf4lavmtuva"
+   }
+  ]
+ },
+ "context": {
+  "title": "College MetaSearch Comparison"
+ },
+ "searchInformation": {
+  "searchTime": 0.307991,
+  "formattedSearchTime": "0.31",
+  "totalResults": "116000000",
+  "formattedTotalResults": "116,000,000"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "Cheap Satellite Internet",
+   "htmlTitle": "\u003cb\u003eCheap\u003c/b\u003e Satellite \u003cb\u003eInternet\u003c/b\u003e",
+   "link": "http://www.waypath.com/cheap-satellite-internet.php",
+   "displayLink": "www.waypath.com",
+   "snippet": "Exede offers the cheapest satellite internet service available. Call today and get   $100 Off Set Up Fees 1-888-572-1505.",
+   "htmlSnippet": "Exede offers the \u003cb\u003echeapest\u003c/b\u003e satellite \u003cb\u003einternet\u003c/b\u003e service available. Call today and get \u003cbr\u003e  $100 Off Set Up Fees 1-888-572-1505.",
+   "cacheId": "gicOH319qkQJ",
+   "formattedUrl": "www.waypath.com/cheap-satellite-internet.php",
+   "htmlFormattedUrl": "www.waypath.com/\u003cb\u003echeap\u003c/b\u003e-satellite-\u003cb\u003einternet\u003c/b\u003e.php",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.waypath.com/images/middle_content.png",
+      "type": "1",
+      "width": "279",
+      "height": "181"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Cheaper Than A Tablet: 'Rooting' Your E-Reader : NPR",
+   "htmlTitle": "\u003cb\u003eCheaper\u003c/b\u003e Than A Tablet: &#39;Rooting&#39; Your E-Reader : NPR",
+   "link": "http://www.npr.org/2011/03/27/134897271/cheaper-than-a-tablet-rooting-your-e-reader",
+   "displayLink": "www.npr.org",
+   "snippet": "Mar 27, 2011... smaller screen than the iPad for half the price or even less? Hackers have   been turning e-book readers into tablets for cheap Internet on the ...",
+   "htmlSnippet": "Mar 27, 2011\u003cb\u003e...\u003c/b\u003e smaller screen than the iPad for half the price or even less? Hackers have \u003cbr\u003e  been turning e-book readers into tablets for \u003cb\u003echeap Internet\u003c/b\u003e on the \u003cb\u003e...\u003c/b\u003e",
+   "formattedUrl": "www.npr.org/2011/03/27/.../cheaper-than-a-tablet-rooting-your-e-reader",
+   "htmlFormattedUrl": "www.npr.org/2011/03/27/.../\u003cb\u003echeaper\u003c/b\u003e-than-a-tablet-rooting-your-e-reader",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://media.npr.org/assets/img/2011/03/27/kindle1_custom.jpg?t=1312435953&s=2"
+     }
+    ],
+    "metatags": [
+     {
+      "rating": "General",
+      "date": "Sun, 27 Mar 2011 08:04:00 -0400",
+      "og:title": "Cheaper Than A Tablet: 'Rooting' Your E-Reader : NPR",
+      "og:url": "http://www.npr.org/2011/03/27/134897271/cheaper-than-a-tablet-rooting-your-e-reader",
+      "og:type": "article",
+      "og:description": "What if you could buy a tablet with a slightly smaller screen than the iPad for half the price or even less? Hackers have been turning e-book readers into tablets for cheap Internet on the go.",
+      "og:image": "http://media.npr.org/assets/img/2011/03/27/kindle1_custom.jpg?t=1312435953&s=2",
+      "og:site_name": "NPR.org",
+      "fb:app_id": "138837436154588"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "New ad campaign to promote Connect to Compete internet program ...",
+   "htmlTitle": "New ad campaign to promote Connect to Compete \u003cb\u003einternet\u003c/b\u003e program \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://www.cheapinternet.com/new-ad-campaign-to-promote-connect-to-compete",
+   "displayLink": "www.cheapinternet.com",
+   "snippet": "Jun 1, 2012 ... Connect to Compete's ad campaign beginning in January, 2013 will alert tens of   millions of needy Americans that they can receive cheap ...",
+   "htmlSnippet": "Jun 1, 2012 \u003cb\u003e...\u003c/b\u003e Connect to Compete&#39;s ad campaign beginning in January, 2013 will alert tens of \u003cbr\u003e  millions of needy Americans that they can receive \u003cb\u003echeap\u003c/b\u003e \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "VJK4oyRFZFgJ",
+   "formattedUrl": "www.cheapinternet.com/new-ad-campaign-to-promote-connect-to-compete",
+   "htmlFormattedUrl": "www.\u003cb\u003echeapinternet\u003c/b\u003e.com/new-ad-campaign-to-promote-connect-to-compete",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.cheapinternet.com/wp-content/uploads/2012/06/connect-to-compete-marketing-350w.jpg",
+      "type": "1",
+      "width": "275",
+      "height": "183"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "How To Make Use Of Cheap Internet Banner Advertising ...",
+   "htmlTitle": "How To Make Use Of \u003cb\u003eCheap Internet\u003c/b\u003e Banner Advertising \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://www.sitepronews.com/2011/01/05/how-to-make-use-of-cheap-internet-banner-advertising/",
+   "displayLink": "www.sitepronews.com",
+   "snippet": "Jan 5, 2011 ... For years now, internet banner advertising has captured World Wide Web it has   become large help saving an amount money while reaching ...",
+   "htmlSnippet": "Jan 5, 2011 \u003cb\u003e...\u003c/b\u003e For years now, \u003cb\u003einternet\u003c/b\u003e banner advertising has captured World Wide Web it has \u003cbr\u003e  become large help saving an amount money while reaching \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "6oHfPhhIFnwJ",
+   "formattedUrl": "www.sitepronews.com/.../how-to-make-use-of-cheap-internet-banner- advertising/",
+   "htmlFormattedUrl": "www.sitepronews.com/.../how-to-make-use-of-\u003cb\u003echeap\u003c/b\u003e-\u003cb\u003einternet\u003c/b\u003e-banner- advertising/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.sitepronews.com/wp-content/themes/2012-sitepronews/timthumb.php?src=http://www.sitepronews.com/wp-content/uploads/2010/10/marketing.jpg&w=133&h=75&a=t",
+      "type": "1",
+      "width": "106",
+      "height": "60"
+     }
+    ],
+    "metatags": [
+     {
+      "viewport": "width=device-width",
+      "tweetmeme-title": "How To Make Use Of Cheap Internet Banner Advertising",
+      "og:site_name": "SiteProNews: Webmaster News & Resources",
+      "og:locale": "en_US",
+      "og:url": "http://www.sitepronews.com/2011/01/05/how-to-make-use-of-cheap-internet-banner-advertising/",
+      "og:title": "How To Make Use Of Cheap Internet Banner Advertising",
+      "og:description": "For years now, internet banner advertising has captured World Wide Web it has become large help saving an amount money while reaching beyond territories. Banne",
+      "og:image": "http://www.sitepronews.com/wp-content/themes/2012-sitepronews/timthumb.php?src=http://www.sitepronews.com/wp-content/uploads/2010/10/marketing.jpg&w=133&h=75&a=t"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Cheap Texas High Speed Internet Service - Cheap TX Broadband ...",
+   "htmlTitle": "\u003cb\u003eCheap\u003c/b\u003e Texas High Speed \u003cb\u003eInternet\u003c/b\u003e Service - \u003cb\u003eCheap\u003c/b\u003e TX Broadband \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://isp1.us/state/texas/",
+   "displayLink": "isp1.us",
+   "snippet": "Compare Cheap Texas High Speed Broadband Internet service providers. Our   discount prices are the lowest you'll find in Texas. ISP 1 compares Broadband ...",
+   "htmlSnippet": "Compare \u003cb\u003eCheap\u003c/b\u003e Texas High Speed Broadband \u003cb\u003eInternet\u003c/b\u003e service providers. Our \u003cbr\u003e  discount prices are the lowest you&#39;ll find in Texas. ISP 1 compares Broadband \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "aRfcLAuu33EJ",
+   "formattedUrl": "isp1.us/state/texas/",
+   "htmlFormattedUrl": "isp1.us/state/texas/",
+   "pagemap": {
+    "metatags": [
+     {
+      "classification": "Texas High Speed Internet Service Provider TX DSL ISP",
+      "date": "2012-16-06"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Cheap High-Speed Internet Service Providers - 6 Simple Ways to ...",
+   "htmlTitle": "\u003cb\u003eCheap\u003c/b\u003e High-Speed \u003cb\u003eInternet\u003c/b\u003e Service Providers - 6 Simple Ways to \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://www.moneycrashers.com/cheap-high-speed-internet-service-providers-save/",
+   "displayLink": "www.moneycrashers.com",
+   "snippet": "Feb 8, 2011 ... You're overpaying for your Internet service! Learn how you can save on your   monthly high-speed Internet service bill by utilizing these 6 savvy ...",
+   "htmlSnippet": "Feb 8, 2011 \u003cb\u003e...\u003c/b\u003e You&#39;re overpaying for your \u003cb\u003eInternet\u003c/b\u003e service! Learn how you can save on your \u003cbr\u003e  monthly high-speed \u003cb\u003eInternet\u003c/b\u003e service bill by utilizing these 6 savvy \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "SAQaQIqA0lQJ",
+   "formattedUrl": "www.moneycrashers.com/cheap-high-speed-internet-service-providers-save/",
+   "htmlFormattedUrl": "www.moneycrashers.com/\u003cb\u003echeap\u003c/b\u003e-high-speed-\u003cb\u003einternet\u003c/b\u003e-service-providers-save/",
+   "pagemap": {
+    "metatags": [
+     {
+      "framework": "Alkivia Framework 0.8"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Cheap Arizona High Speed Internet Service - Cheap AZ Broadband ...",
+   "htmlTitle": "\u003cb\u003eCheap\u003c/b\u003e Arizona High Speed \u003cb\u003eInternet\u003c/b\u003e Service - \u003cb\u003eCheap\u003c/b\u003e AZ Broadband \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://isp1.us/state/arizona/",
+   "displayLink": "isp1.us",
+   "snippet": "Compare Cheap Arizona High Speed Broadband Internet service providers. Our   discount prices are the lowest you'll find in Arizona. ISP 1 compares Broadband ...",
+   "htmlSnippet": "Compare \u003cb\u003eCheap\u003c/b\u003e Arizona High Speed Broadband \u003cb\u003eInternet\u003c/b\u003e service providers. Our \u003cbr\u003e  discount prices are the lowest you&#39;ll find in Arizona. ISP 1 compares Broadband \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "wmIpYRH6QmQJ",
+   "formattedUrl": "isp1.us/state/arizona/",
+   "htmlFormattedUrl": "isp1.us/state/arizona/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://isp1.us/img/s-az-f.gif",
+      "type": "1",
+      "width": "120",
+      "height": "64"
+     }
+    ],
+    "metatags": [
+     {
+      "classification": "Arizona High Speed Internet Service Provider AZ DSL ISP",
+      "date": "2012-16-06"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Cheap Wireless Internet - YouTube",
+   "htmlTitle": "\u003cb\u003eCheap\u003c/b\u003e Wireless \u003cb\u003eInternet\u003c/b\u003e - YouTube",
+   "link": "http://www.youtube.com/watch?v=hz8JPopKLEI",
+   "displayLink": "www.youtube.com",
+   "snippet": "Oct 24, 2011 ... Compare Cheap Internet Service Providers, Low Cost Dial-Up & Broadband High   Speed Internet Deals. Select the Best Bargain Priced Dialup ...",
+   "htmlSnippet": "Oct 24, 2011 \u003cb\u003e...\u003c/b\u003e Compare \u003cb\u003eCheap Internet\u003c/b\u003e Service Providers, Low Cost Dial-Up &amp; Broadband High \u003cbr\u003e  Speed Internet Deals. Select the Best Bargain Priced Dialup \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "E7VJTvsbFTEJ",
+   "formattedUrl": "www.youtube.com/watch?v=hz8JPopKLEI",
+   "htmlFormattedUrl": "www.youtube.com/watch?v=hz8JPopKLEI",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://i1.ytimg.com/vi/hz8JPopKLEI/mqdefault.jpg",
+      "type": "1",
+      "width": "256",
+      "height": "144"
+     }
+    ],
+    "videoobject": [
+     {
+      "url": "http://www.youtube.com/watch?v=hz8JPopKLEI",
+      "name": "Cheap Wireless Internet",
+      "description": "Compare Cheap Internet Service Providers, Low Cost Dial-Up & Broadband High Speed Internet Deals. Select the Best Bargain Priced Dialup ISP, HighSpeed Cable ...",
+      "duration": "PT1M19S",
+      "unlisted": "False",
+      "paid": "False",
+      "thumbnailurl": "http://i1.ytimg.com/vi/hz8JPopKLEI/hqdefault.jpg",
+      "embedurl": "http://www.youtube.com/v/hz8JPopKLEI?version=3&autohide=1",
+      "playertype": "Flash",
+      "width": "640",
+      "height": "480"
+     }
+    ],
+    "person": [
+     {
+      "url": "http://www.youtube.com/user/garciavictor222"
+     }
+    ],
+    "metatags": [
+     {
+      "title": "Cheap Wireless Internet",
+      "og:url": "http://www.youtube.com/watch?v=hz8JPopKLEI",
+      "og:title": "Cheap Wireless Internet",
+      "og:description": "Compare Cheap Internet Service Providers, Low Cost Dial-Up & Broadband High Speed Internet Deals. Select the Best Bargain Priced Dialup ISP, HighSpeed Cable ...",
+      "og:type": "video",
+      "og:image": "http://i1.ytimg.com/vi/hz8JPopKLEI/mqdefault.jpg",
+      "og:video": "http://www.youtube.com/v/hz8JPopKLEI?version=3&autohide=1",
+      "og:video:type": "application/x-shockwave-flash",
+      "og:video:width": "640",
+      "og:video:height": "480",
+      "og:site_name": "YouTube",
+      "fb:app_id": "87741124305",
+      "twitter:player:width": "640",
+      "twitter:player:height": "480",
+      "attribution": "youtube_multi/"
+     }
+    ],
+    "imageobject": [
+     {
+      "url": "http://i1.ytimg.com/vi/hz8JPopKLEI/mqdefault.jpg",
+      "width": "320",
+      "height": "180"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Cheap Pennsylvania High Speed Internet Service - Cheap PA ...",
+   "htmlTitle": "\u003cb\u003eCheap\u003c/b\u003e Pennsylvania High Speed \u003cb\u003eInternet\u003c/b\u003e Service - \u003cb\u003eCheap\u003c/b\u003e PA \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://isp1.us/state/pennsylvania/",
+   "displayLink": "isp1.us",
+   "snippet": "Compare Cheap Pennsylvania High Speed Broadband Internet service providers  . Our discount prices are the lowest you'll find in Pennsylvania. ISP 1 compares ...",
+   "htmlSnippet": "Compare \u003cb\u003eCheap\u003c/b\u003e Pennsylvania High Speed Broadband \u003cb\u003eInternet\u003c/b\u003e service providers\u003cbr\u003e  . Our discount prices are the lowest you&#39;ll find in Pennsylvania. ISP 1 compares \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "IkDQ3VXZFVkJ",
+   "formattedUrl": "isp1.us/state/pennsylvania/",
+   "htmlFormattedUrl": "isp1.us/state/pennsylvania/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://isp1.us/img/s-pa-f.gif",
+      "type": "1",
+      "width": "120",
+      "height": "64"
+     }
+    ],
+    "metatags": [
+     {
+      "classification": "Pennsylvania High Speed Internet Service Provider PA DSL ISP",
+      "date": "2012-16-06"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "DSL Internet Service | Cheap DSL | NetZero",
+   "htmlTitle": "DSL \u003cb\u003eInternet\u003c/b\u003e Service | \u003cb\u003eCheap\u003c/b\u003e DSL | NetZero",
+   "link": "http://www.netzero.net/dsl",
+   "displayLink": "www.netzero.net",
+   "snippet": "Want cheap DSL? For fast, reliable, affordable DSL internet service, visit NetZero.   Compare speeds, costs, and features to find the best DSL service for you.",
+   "htmlSnippet": "Want \u003cb\u003echeap\u003c/b\u003e DSL? For fast, reliable, affordable DSL \u003cb\u003einternet\u003c/b\u003e service, visit NetZero. \u003cbr\u003e  Compare speeds, costs, and features to find the best DSL service for you.",
+   "cacheId": "IYdE0iEC61wJ",
+   "formattedUrl": "www.netzero.net/dsl",
+   "htmlFormattedUrl": "www.netzero.net/dsl",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.netzero.net/static/start/view/img/frontdoorblack/dsl-fd-price_new.gif",
+      "type": "1",
+      "width": "263",
+      "height": "157"
+     }
+    ],
+    "metatags": [
+     {
+      "msvalidate.01": "EC374C7116FA055B7CED2889AF53775F"
+     }
+    ]
+   }
+  }
+ ]
+}

@@ -1,0 +1,303 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "nextPage": [
+   {
+    "title": "Google Custom Search - diversity",
+    "totalResults": "21900000",
+    "searchTerms": "diversity",
+    "count": 10,
+    "startIndex": 31,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "017401104989814545383:mf4lavmtuva"
+   }
+  ],
+  "request": [
+   {
+    "title": "Google Custom Search - diversity",
+    "totalResults": "21900000",
+    "searchTerms": "diversity",
+    "count": 10,
+    "startIndex": 21,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "017401104989814545383:mf4lavmtuva"
+   }
+  ],
+  "previousPage": [
+   {
+    "title": "Google Custom Search - diversity",
+    "totalResults": "21900000",
+    "searchTerms": "diversity",
+    "count": 10,
+    "startIndex": 11,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "017401104989814545383:mf4lavmtuva"
+   }
+  ]
+ },
+ "context": {
+  "title": "College MetaSearch Comparison"
+ },
+ "searchInformation": {
+  "searchTime": 0.135277,
+  "formattedSearchTime": "0.14",
+  "totalResults": "21900000",
+  "formattedTotalResults": "21,900,000"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "Diversity jurisdiction - Wikipedia, the free encyclopedia",
+   "htmlTitle": "\u003cb\u003eDiversity\u003c/b\u003e jurisdiction - Wikipedia, the free encyclopedia",
+   "link": "http://en.wikipedia.org/wiki/Diversity_jurisdiction",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "In the law of the United States, diversity jurisdiction is a form of subject-matter   jurisdiction in civil procedure in which a United States district court (the trial courts ...",
+   "htmlSnippet": "In the law of the United States, \u003cb\u003ediversity\u003c/b\u003e jurisdiction is a form of subject-matter \u003cbr\u003e  jurisdiction in civil procedure in which a United States district court (the trial courts \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "l2UAKeWCQNAJ",
+   "formattedUrl": "en.wikipedia.org/wiki/Diversity_jurisdiction",
+   "htmlFormattedUrl": "en.wikipedia.org/wiki/\u003cb\u003eDiversity\u003c/b\u003e_jurisdiction"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "KUMC Human Resources Diversity Calendar",
+   "htmlTitle": "KUMC Human Resources \u003cb\u003eDiversity\u003c/b\u003e Calendar",
+   "link": "http://www3.kumc.edu/diversity/",
+   "displayLink": "www3.kumc.edu",
+   "snippet": "Calendar of national, religious and ethnic holidays from the University of Kansas   Medical Center.",
+   "htmlSnippet": "Calendar of national, religious and ethnic holidays from the University of Kansas \u003cbr\u003e  Medical Center.",
+   "cacheId": "Mde1tBmOxvkJ",
+   "formattedUrl": "www3.kumc.edu/diversity/",
+   "htmlFormattedUrl": "www3.kumc.edu/\u003cb\u003ediversity\u003c/b\u003e/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www3.kumc.edu/diversity/images/sun_moon.jpg",
+      "type": "1",
+      "width": "219",
+      "height": "230"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Diversity",
+   "htmlTitle": "\u003cb\u003eDiversity\u003c/b\u003e",
+   "link": "http://www.shrm.org/hrdisciplines/diversity/pages/default.aspx",
+   "displayLink": "www.shrm.org",
+   "snippet": "Employees Fear Disclosing Disabilities Those with non-visible disabilities often   wonder whether to disclose their condition when applying for a job or working for ...",
+   "htmlSnippet": "Employees Fear Disclosing Disabilities Those with non-visible disabilities often \u003cbr\u003e  wonder whether to disclose their condition when applying for a job or working for \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "hvVidFbeQjIJ",
+   "formattedUrl": "www.shrm.org/hrdisciplines/diversity/pages/default.aspx",
+   "htmlFormattedUrl": "www.shrm.org/hrdisciplines/\u003cb\u003ediversity\u003c/b\u003e/pages/default.aspx",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.shrm.org/multimedia/video/vid_archive/Pages/11packard_video.jpg",
+      "type": "1",
+      "width": "153",
+      "height": "118"
+     }
+    ],
+    "metatags": [
+     {
+      "viewport": "width=device-width; initial-scale=1.0; maximum-scale=1.0;",
+      "shrmmemberonly": "False",
+      "breadcrumb": "{{Diversity,/hrdisciplines/Diversity/Pages/default.aspx}{HR Disciplines,/hrdisciplines/Pages/default.aspx}}"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Diverse Issues in Higher Education",
+   "htmlTitle": "\u003cb\u003eDiverse\u003c/b\u003e Issues in Higher Education",
+   "link": "http://diverseeducation.com/",
+   "displayLink": "diverseeducation.com",
+   "snippet": "Forum: Scholar Offers View of 2012 Latino Presidential Vote Outlook. by Jamaal   Abdul-Alim , July 20, 2012. At a Washington forum on Thursday, Stanford ...",
+   "htmlSnippet": "Forum: Scholar Offers View of 2012 Latino Presidential Vote Outlook. by Jamaal \u003cbr\u003e  Abdul-Alim , July 20, 2012. At a Washington forum on Thursday, Stanford \u003cb\u003e...\u003c/b\u003e",
+   "formattedUrl": "diverseeducation.com/",
+   "htmlFormattedUrl": "\u003cb\u003ediverse\u003c/b\u003eeducation.com/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://backoffice.diverseeducation.com/img/photos/biz/072012_Gary_Segura.jpg",
+      "type": "1",
+      "width": "305",
+      "height": "165"
+     }
+    ],
+    "metatags": [
+     {
+      "author": "Diverse Issues in Higher Education"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Global Diversity and Inclusion",
+   "htmlTitle": "Global \u003cb\u003eDiversity\u003c/b\u003e and Inclusion",
+   "link": "http://www.microsoft.com/diversity/",
+   "displayLink": "www.microsoft.com",
+   "snippet": "Learn about Microsoft's commitment to the principle of diversity and find links to   information about diversity and inclusion at Microsoft.",
+   "htmlSnippet": "Learn about Microsoft&#39;s commitment to the principle of \u003cb\u003ediversity\u003c/b\u003e and find links to \u003cbr\u003e  information about \u003cb\u003ediversity\u003c/b\u003e and inclusion at Microsoft.",
+   "cacheId": "rmCXPv8YCdwJ",
+   "formattedUrl": "www.microsoft.com/diversity/",
+   "htmlFormattedUrl": "www.microsoft.com/\u003cb\u003ediversity\u003c/b\u003e/"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Diversity World: Career & Job Development, Workforce Diversity ...",
+   "htmlTitle": "\u003cb\u003eDiversity\u003c/b\u003e World: Career &amp; Job Development, Workforce \u003cb\u003eDiversity\u003c/b\u003e \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://www.diversityworld.com/",
+   "displayLink": "www.diversityworld.com",
+   "snippet": "Diversity World - Resources on career development, workforce diversity, job   development, and employment and disability concerns - with Denise Bissonnette ...",
+   "htmlSnippet": "\u003cb\u003eDiversity\u003c/b\u003e World - Resources on career development, workforce \u003cb\u003ediversity\u003c/b\u003e, job \u003cbr\u003e  development, and employment and disability concerns - with Denise Bissonnette \u003cb\u003e...\u003c/b\u003e",
+   "formattedUrl": "www.diversityworld.com/",
+   "htmlFormattedUrl": "www.\u003cb\u003ediversity\u003c/b\u003eworld.com/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.diversityworld.com/images/05.09robgr2.jpg",
+      "type": "1",
+      "width": "148",
+      "height": "182"
+     }
+    ],
+    "metatags": [
+     {
+      "progid": "FrontPage.Editor.Document",
+      "microsoft border": "tlrb"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Walmartstores.com: Diversity",
+   "htmlTitle": "Walmartstores.com: \u003cb\u003eDiversity\u003c/b\u003e",
+   "link": "http://www.walmartstores.com/Diversity/",
+   "displayLink": "www.walmartstores.com",
+   "snippet": "Diversity. At Walmart, we believe that business wins when everyone matters, and   that the true strength of diversity is unleashed when each associate is ...",
+   "htmlSnippet": "\u003cb\u003eDiversity\u003c/b\u003e. At Walmart, we believe that business wins when everyone matters, and \u003cbr\u003e  that the true strength of \u003cb\u003ediversity\u003c/b\u003e is unleashed when each associate is \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "VnvmHb1PlugJ",
+   "formattedUrl": "www.walmartstores.com/Diversity/",
+   "htmlFormattedUrl": "www.walmartstores.com/\u003cb\u003eDiversity\u003c/b\u003e/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.walmartstores.com/Media/Cache/rx3572_6bfi8bfk8efkkn8zfi8tyfhxxxxxx8u9fji87fdk8atfb9cw8tufhxxxxxx.jpg",
+      "type": "1",
+      "width": "180",
+      "height": "124"
+     }
+    ],
+    "metatags": [
+     {
+      "distribution": "GLOBAL",
+      "title": "Diversity",
+      "pubdate": "2008-01-02",
+      "search": "Diversity",
+      "b": "4",
+      "fb:app_id": "207567289335487",
+      "fb:admins": "534426945,100001917828228,100001854108873,1143459059,1010911857,740439701,100002133888802,100002684334054",
+      "og:title": "Walmartstores.com: Diversity",
+      "og:description": "Diversity Landing Page",
+      "og:url": "http://www.walmartstores.com/Diversity/",
+      "og:type": "article",
+      "og:site_name": "Walmart Corporate",
+      "og:image": "http://cdn.walmartstores.com/shareholder2011/images/FB_icon.png"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Diversity and Distributions - Wiley Online Library",
+   "htmlTitle": "\u003cb\u003eDiversity\u003c/b\u003e and Distributions - Wiley Online Library",
+   "link": "http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1472-4642",
+   "displayLink": "onlinelibrary.wiley.com",
+   "snippet": "Special Issue of Diversity and Distributions ... The Diversity and Distributions   paper, 'Invasive alien predator causes rapid declines of native European   ladybirds' ...",
+   "htmlSnippet": "Special Issue of \u003cb\u003eDiversity\u003c/b\u003e and Distributions \u003cb\u003e...\u003c/b\u003e The \u003cb\u003eDiversity\u003c/b\u003e and Distributions \u003cbr\u003e  paper, &#39;Invasive alien predator causes rapid declines of native European \u003cbr\u003e  ladybirds&#39; \u003cb\u003e...\u003c/b\u003e",
+   "formattedUrl": "onlinelibrary.wiley.com/journal/10.1111/(ISSN)1472-4642",
+   "htmlFormattedUrl": "onlinelibrary.wiley.com/journal/10.1111/(ISSN)1472-4642",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://onlinelibrary.wiley.com/store/10.1111/ddi.2012.18.issue-8/asset/cover.gif?v=1&s=cab2525bbd41963eb77bba1080270b168ecbfcd3",
+      "type": "1",
+      "width": "80",
+      "height": "104"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Diversity Best Practices |",
+   "htmlTitle": "\u003cb\u003eDiversity\u003c/b\u003e Best Practices |",
+   "link": "http://www.diversitybestpractices.com/",
+   "displayLink": "www.diversitybestpractices.com",
+   "snippet": "Too often, HR and Diversity & Inclusion -- despite their organizational symbiosis -  - are at odds with one another. Whether it's frustration with the other side's lack ...",
+   "htmlSnippet": "Too often, HR and \u003cb\u003eDiversity\u003c/b\u003e &amp; Inclusion -- despite their organizational symbiosis -\u003cbr\u003e  - are at odds with one another. Whether it&#39;s frustration with the other side&#39;s lack \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "v2oXQipJXCYJ",
+   "formattedUrl": "www.diversitybestpractices.com/",
+   "htmlFormattedUrl": "www.\u003cb\u003ediversity\u003c/b\u003ebestpractices.com/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.diversitybestpractices.com/files/imagecache/feature_slideshow/_images/201105/business%20team.jpg",
+      "type": "1",
+      "width": "284",
+      "height": "177"
+     }
+    ],
+    "metatags": [
+     {
+      "dc.date": "Array"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Diversity Synonyms, Diversity Antonyms | Thesaurus.com",
+   "htmlTitle": "\u003cb\u003eDiversity\u003c/b\u003e Synonyms, \u003cb\u003eDiversity\u003c/b\u003e Antonyms | Thesaurus.com",
+   "link": "http://thesaurus.com/browse/diversity",
+   "displayLink": "thesaurus.com",
+   "snippet": "Synonyms for diversity at Thesaurus.com with free online thesaurus, antonyms,   and definitions. Dictionary and Word of the Day.",
+   "htmlSnippet": "Synonyms for \u003cb\u003ediversity\u003c/b\u003e at Thesaurus.com with free online thesaurus, antonyms, \u003cbr\u003e  and definitions. Dictionary and Word of the Day.",
+   "cacheId": "ltdJ-EPyjgoJ",
+   "formattedUrl": "thesaurus.com/browse/diversity",
+   "htmlFormattedUrl": "thesaurus.com/browse/\u003cb\u003ediversity\u003c/b\u003e",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://static.sfdict.com/en/i/dictionary/facebook/thesaurus_logo.png"
+     }
+    ],
+    "metatags": [
+     {
+      "msvalidate.01": "DF5542D7723770377E9ABFF59AC1DC97",
+      "og:title": "the synonyms of diversity",
+      "og:site_name": "Thesaurus.com",
+      "og:image": "http://static.sfdict.com/en/i/dictionary/facebook/thesaurus_logo.png",
+      "fb:app_id": "132731236754303",
+      "fb:admins": "100000304287730,109125464873"
+     }
+    ]
+   }
+  }
+ ]
+}

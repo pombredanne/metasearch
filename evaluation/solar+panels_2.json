@@ -1,0 +1,372 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "nextPage": [
+   {
+    "title": "Google Custom Search - solar panels",
+    "totalResults": "32000000",
+    "searchTerms": "solar panels",
+    "count": 10,
+    "startIndex": 31,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "017401104989814545383:mf4lavmtuva"
+   }
+  ],
+  "request": [
+   {
+    "title": "Google Custom Search - solar panels",
+    "totalResults": "32000000",
+    "searchTerms": "solar panels",
+    "count": 10,
+    "startIndex": 21,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "017401104989814545383:mf4lavmtuva"
+   }
+  ],
+  "previousPage": [
+   {
+    "title": "Google Custom Search - solar panels",
+    "totalResults": "32000000",
+    "searchTerms": "solar panels",
+    "count": 10,
+    "startIndex": 11,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "017401104989814545383:mf4lavmtuva"
+   }
+  ]
+ },
+ "context": {
+  "title": "College MetaSearch Comparison"
+ },
+ "searchInformation": {
+  "searchTime": 0.156422,
+  "formattedSearchTime": "0.16",
+  "totalResults": "32000000",
+  "formattedTotalResults": "32,000,000"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "Photovoltaics - Wikipedia, the free encyclopedia",
+   "htmlTitle": "Photovoltaics - Wikipedia, the free encyclopedia",
+   "link": "http://en.wikipedia.org/wiki/Photovoltaics",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "A number of solar panels may also be mounted vertically above each other in a   tower, if the zenith distance of the Sun is greater than zero, and the tower can be ...",
+   "htmlSnippet": "A number of \u003cb\u003esolar panels\u003c/b\u003e may also be mounted vertically above each other in a \u003cbr\u003e  tower, if the zenith distance of the Sun is greater than zero, and the tower can be \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "gF5oVXIGcekJ",
+   "formattedUrl": "en.wikipedia.org/wiki/Photovoltaics",
+   "htmlFormattedUrl": "en.wikipedia.org/wiki/Photovoltaics",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Ombri%C3%A8re_SUDI_-_Sustainable_Urban_Design_%26_Innovation.jpg/220px-Ombri%C3%A8re_SUDI_-_Sustainable_Urban_Design_%26_Innovation.jpg",
+      "type": "1",
+      "width": "176",
+      "height": "137"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "How It's Made - Solar Panels - YouTube",
+   "htmlTitle": "How It&#39;s Made - \u003cb\u003eSolar Panels\u003c/b\u003e - YouTube",
+   "link": "http://www.youtube.com/watch?v=qYeynLy6pj8",
+   "displayLink": "www.youtube.com",
+   "snippet": "Jan 8, 2007 ... this is how solar Panels\ufeff are made. not solar cells. TheSportsbot in reply to   potsmaps (Show the comment) 6 months ago 5. Vote Up Vote Down ...",
+   "htmlSnippet": "Jan 8, 2007 \u003cb\u003e...\u003c/b\u003e this is how \u003cb\u003esolar Panels\u003c/b\u003e\ufeff are made. not \u003cb\u003esolar cells\u003c/b\u003e. TheSportsbot in reply to \u003cbr\u003e  potsmaps (Show the comment) 6 months ago 5. Vote Up Vote Down \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "gQFOvWAo6KwJ",
+   "formattedUrl": "www.youtube.com/watch?v=qYeynLy6pj8",
+   "htmlFormattedUrl": "www.youtube.com/watch?v=qYeynLy6pj8",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://i2.ytimg.com/vi/qYeynLy6pj8/mqdefault.jpg"
+     }
+    ],
+    "videoobject": [
+     {
+      "url": "http://www.youtube.com/watch?v=qYeynLy6pj8",
+      "name": "How It's Made - Solar Panels",
+      "description": "http://www.earth4energy.org",
+      "duration": "PT4M36S",
+      "unlisted": "False",
+      "paid": "False",
+      "thumbnailurl": "http://i2.ytimg.com/vi/qYeynLy6pj8/hqdefault.jpg",
+      "embedurl": "http://www.youtube.com/v/qYeynLy6pj8?version=3&autohide=1",
+      "playertype": "Flash",
+      "width": "480",
+      "height": "360"
+     }
+    ],
+    "person": [
+     {
+      "url": "http://www.youtube.com/user/namitsu1"
+     }
+    ],
+    "metatags": [
+     {
+      "title": "How It's Made - Solar Panels",
+      "og:url": "http://www.youtube.com/watch?v=qYeynLy6pj8",
+      "og:title": "How It's Made - Solar Panels",
+      "og:description": "http://www.earth4energy.org",
+      "og:type": "video",
+      "og:image": "http://i2.ytimg.com/vi/qYeynLy6pj8/mqdefault.jpg",
+      "og:video": "http://www.youtube.com/v/qYeynLy6pj8?version=3&autohide=1",
+      "og:video:type": "application/x-shockwave-flash",
+      "og:video:width": "480",
+      "og:video:height": "360",
+      "og:site_name": "YouTube",
+      "fb:app_id": "87741124305",
+      "twitter:player:width": "480",
+      "twitter:player:height": "360",
+      "attribution": "youtube_none/"
+     }
+    ],
+    "imageobject": [
+     {
+      "url": "http://i2.ytimg.com/vi/qYeynLy6pj8/mqdefault.jpg",
+      "width": "320",
+      "height": "180"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Solar Panels | Wholesale Solar | Solar Inverter",
+   "htmlTitle": "\u003cb\u003eSolar Panels\u003c/b\u003e | Wholesale Solar | Solar Inverter",
+   "link": "http://www.affordable-solar.com/",
+   "displayLink": "www.affordable-solar.com",
+   "snippet": "Affordable Solar offers wholesale solar panels, solar kits, inverters, charge   controllers and everything else you need for your residential and commercial ...",
+   "htmlSnippet": "Affordable Solar offers wholesale \u003cb\u003esolar panels\u003c/b\u003e, solar kits, inverters, charge \u003cbr\u003e  controllers and everything else you need for your residential and commercial \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "xqkibWR4oNYJ",
+   "formattedUrl": "www.affordable-solar.com/",
+   "htmlFormattedUrl": "www.affordable-\u003cb\u003esolar\u003c/b\u003e.com/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.affordable-solar.com/site/img/rebate_map.png",
+      "type": "1",
+      "width": "160",
+      "height": "104"
+     }
+    ],
+    "metatags": [
+     {
+      "msvalidate.01": "FCE50D782EA819299F852CAC377CF6A1",
+      "y_key": "5a4d51238edf65b5",
+      "skype_toolbar": "SKYPE_TOOLBAR_PARSER_COMPATIBLE",
+      "fb:admins": "1805751482"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Solar Power | Otherpower",
+   "htmlTitle": "\u003cb\u003eSolar Power\u003c/b\u003e | Otherpower",
+   "link": "http://www.otherpower.com/otherpower_solar.html",
+   "displayLink": "www.otherpower.com",
+   "snippet": "Solar power is the basis for all life on earth! Solar heating has been used for   thousands of years to warm dwellings (solar thermal). But solar electricity ...",
+   "htmlSnippet": "\u003cb\u003eSolar power\u003c/b\u003e is the basis for all life on earth! Solar heating has been used for \u003cbr\u003e  thousands of years to warm dwellings (solar thermal). But solar electricity \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "ciYcK2m_k9MJ",
+   "formattedUrl": "www.otherpower.com/otherpower_solar.html",
+   "htmlFormattedUrl": "www.other\u003cb\u003epower\u003c/b\u003e.com/other\u003cb\u003epower\u003c/b\u003e_\u003cb\u003esolar\u003c/b\u003e.html",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.otherpower.com/sites/default/files/imported/images/arco.jpg",
+      "type": "1",
+      "width": "259",
+      "height": "195"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "AltE: Solar Panels & Solar Energy Gear | Call 877-878-4060",
+   "htmlTitle": "AltE: \u003cb\u003eSolar Panels\u003c/b\u003e &amp; \u003cb\u003eSolar Energy\u003c/b\u003e Gear | Call 877-878-4060",
+   "link": "http://www.altestore.com/",
+   "displayLink": "www.altestore.com",
+   "snippet": "Renewable energy store for DIY'ers that offers alternative energy products such   as solar panels, wind turbines, solar water heaters and solar water pumps.",
+   "htmlSnippet": "Renewable energy store for DIY&#39;ers that offers alternative energy products such \u003cbr\u003e  as \u003cb\u003esolar panels\u003c/b\u003e, wind turbines, solar water heaters and solar water pumps.",
+   "cacheId": "SAJ1hSHAcSYJ",
+   "formattedUrl": "www.altestore.com/",
+   "htmlFormattedUrl": "www.altestore.com/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.altestore.com/store/images/plus/solar-attic-fans.png",
+      "type": "1",
+      "width": "138",
+      "height": "70"
+     }
+    ],
+    "metatags": [
+     {
+      "title": "Solar Panels for Your Home - altE Store®"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "SPI Solar",
+   "htmlTitle": "SPI \u003cb\u003eSolar\u003c/b\u003e",
+   "link": "http://www.spisolar.com/",
+   "displayLink": "www.spisolar.com",
+   "snippet": "World-Class Solar ... Recently, SPI was contracted to install a second solar   system for world famous Fox Studios. ... Copyright © 2012 Solar Power   Incorporated.",
+   "htmlSnippet": "World-Class Solar \u003cb\u003e...\u003c/b\u003e Recently, SPI was contracted to install a second solar \u003cbr\u003e  system for world famous Fox Studios. \u003cb\u003e...\u003c/b\u003e Copyright © 2012 \u003cb\u003eSolar Power\u003c/b\u003e \u003cbr\u003e  Incorporated.",
+   "cacheId": "XE0mK_9cZQIJ",
+   "formattedUrl": "www.spisolar.com/",
+   "htmlFormattedUrl": "www.spi\u003cb\u003esolar\u003c/b\u003e.com/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.spisolar.com/images/e-brochure.jpg",
+      "type": "1",
+      "width": "128",
+      "height": "163"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Solar Energy Technologies Program",
+   "htmlTitle": "\u003cb\u003eSolar Energy\u003c/b\u003e Technologies Program",
+   "link": "http://www1.eere.energy.gov/solar/",
+   "displayLink": "www1.eere.energy.gov",
+   "snippet": "SunShot Grand Challenge: Summit and Technology Forum. The SunShot   Summit and Technology Forum was held June 13–14, 2012, in Denver, Colorado  .",
+   "htmlSnippet": "SunShot Grand Challenge: Summit and Technology Forum. The SunShot \u003cbr\u003e  Summit and Technology Forum was held June 13–14, 2012, in Denver, Colorado\u003cbr\u003e  .",
+   "cacheId": "TtPkzfnkficJ",
+   "formattedUrl": "www1.eere.energy.gov/solar/",
+   "htmlFormattedUrl": "www1.eere.\u003cb\u003eenergy\u003c/b\u003e.gov/\u003cb\u003esolar\u003c/b\u003e/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www1.eere.energy.gov/solar/sunshot/images/sunshotgc_feature_01.png",
+      "type": "1",
+      "width": "198",
+      "height": "156"
+     }
+    ],
+    "metatags": [
+     {
+      "cms_id": "20623",
+      "upd_date": "7/12/2012",
+      "lnav_name": "EERE: SunShot Initiative Home Page",
+      "wt.sp": "/solar/",
+      "dcsext.sp1": "solar_sunshot"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Solar Panels | Home Solar Panels | SolarWorld USA",
+   "htmlTitle": "\u003cb\u003eSolar Panels\u003c/b\u003e | Home \u003cb\u003eSolar Panels\u003c/b\u003e | SolarWorld USA",
+   "link": "http://www.solarworld-usa.com/",
+   "displayLink": "www.solarworld-usa.com",
+   "snippet": "SolarWorld USA manufactures and installs high performance solar panels for   homes and businesses.",
+   "htmlSnippet": "SolarWorld USA manufactures and installs high performance \u003cb\u003esolar panels\u003c/b\u003e for \u003cbr\u003e  homes and businesses.",
+   "cacheId": "ifi6q8cRj4gJ",
+   "formattedUrl": "www.solarworld-usa.com/",
+   "htmlFormattedUrl": "www.\u003cb\u003esolar\u003c/b\u003eworld-usa.com/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.solarworld-usa.com/_resources/img/solar_world_fb_icon.png",
+      "type": "1",
+      "width": "50",
+      "height": "50"
+     }
+    ],
+    "metatags": [
+     {
+      "author": "SolarWorld",
+      "og:title": "Solar Panels | Home Solar Panels | SolarWorld USA",
+      "og:type": "website",
+      "og:url": "http://www.solarworld-usa.com/",
+      "og:image": "http://www.solarworld-usa.com/_resources/img/solar_world_fb_icon.png",
+      "fb:app_id": "122432434470413"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "45 Watt Solar Panel Kit",
+   "htmlTitle": "45 Watt \u003cb\u003eSolar Panel\u003c/b\u003e Kit",
+   "link": "http://www.harborfreight.com/45-watt-solar-panel-kit-68751.html",
+   "displayLink": "www.harborfreight.com",
+   "snippet": "45 Watt Solar Panel Kit. ... Three 15 watt solar panels produce clean, quiet   energy; Lightweight, weatherproof construction; Amorphous silicon solar cells for ...",
+   "htmlSnippet": "45 Watt \u003cb\u003eSolar Panel\u003c/b\u003e Kit. \u003cb\u003e...\u003c/b\u003e Three 15 watt \u003cb\u003esolar panels\u003c/b\u003e produce clean, quiet \u003cbr\u003e  energy; Lightweight, weatherproof construction; Amorphous silicon \u003cb\u003esolar cells\u003c/b\u003e for \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "mHhr_82iNbAJ",
+   "formattedUrl": "www.harborfreight.com/45-watt-solar-panel-kit-68751.html",
+   "htmlFormattedUrl": "www.harborfreight.com/45-watt-\u003cb\u003esolar\u003c/b\u003e-\u003cb\u003epanel\u003c/b\u003e-kit-68751.html",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.harborfreight.com/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/i/m/image_19818.jpg",
+      "type": "1",
+      "width": "225",
+      "height": "225"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Solar | Department of Energy",
+   "htmlTitle": "\u003cb\u003eSolar\u003c/b\u003e | Department of \u003cb\u003eEnergy\u003c/b\u003e",
+   "link": "http://energy.gov/science-innovation/energy-sources/renewable-energy/solar",
+   "displayLink": "energy.gov",
+   "snippet": "Solar. Transphorm's gallium nitride semiconductors could be used to make   operating ... What will it take to drive down the cost of solar energy in America?",
+   "htmlSnippet": "Solar. Transphorm&#39;s gallium nitride semiconductors could be used to make \u003cbr\u003e  operating \u003cb\u003e...\u003c/b\u003e What will it take to drive down the cost of \u003cb\u003esolar energy\u003c/b\u003e in America?",
+   "cacheId": "9YN7_TsUccwJ",
+   "formattedUrl": "energy.gov/science-innovation/energy-sources/...energy/solar",
+   "htmlFormattedUrl": "\u003cb\u003eenergy\u003c/b\u003e.gov/science-innovation/\u003cb\u003eenergy\u003c/b\u003e-sources/...\u003cb\u003eenergy\u003c/b\u003e/\u003cb\u003esolar\u003c/b\u003e",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://energy.gov/sites/prod/files/styles/topic_hero/public/120224_rooftop_solar_array_nrel.jpg",
+      "type": "1",
+      "width": "276",
+      "height": "183"
+     }
+    ],
+    "Item": [
+     {
+      "encoded": "What will it take to drive down the cost of solar energy in America? One persons perspective."
+     },
+     {
+      "encoded": "Progress on the California Valley Solar Ranch is in full swing as 350 skilled professionals work to construct the 250 MW solar facility."
+     },
+     {
+      "encoded": "Transphorm, a startup partially funded by ARPA-E, develops Gallium nitride (GaN) semiconductors that could be used to make cost-effective, high-performance power converters for electric motor..."
+     }
+    ],
+    "metatags": [
+     {
+      "fb:admins": "10718899,1407911,20010394,13004794,207303407,203176,747807274,100001088239132,1384028141",
+      "dc:title": "Solar",
+      "viewport": "width = 1150"
+     }
+    ]
+   }
+  }
+ ]
+}

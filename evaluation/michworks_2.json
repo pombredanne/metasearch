@@ -1,0 +1,288 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "nextPage": [
+   {
+    "title": "Google Custom Search - michworks",
+    "totalResults": "1420",
+    "searchTerms": "michworks",
+    "count": 10,
+    "startIndex": 31,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "017401104989814545383:mf4lavmtuva"
+   }
+  ],
+  "request": [
+   {
+    "title": "Google Custom Search - michworks",
+    "totalResults": "1420",
+    "searchTerms": "michworks",
+    "count": 10,
+    "startIndex": 21,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "017401104989814545383:mf4lavmtuva"
+   }
+  ],
+  "previousPage": [
+   {
+    "title": "Google Custom Search - michworks",
+    "totalResults": "1420",
+    "searchTerms": "michworks",
+    "count": 10,
+    "startIndex": 11,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "017401104989814545383:mf4lavmtuva"
+   }
+  ]
+ },
+ "context": {
+  "title": "College MetaSearch Comparison"
+ },
+ "searchInformation": {
+  "searchTime": 0.193895,
+  "formattedSearchTime": "0.19",
+  "totalResults": "1420",
+  "formattedTotalResults": "1,420"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "2012 Catalog of Services",
+   "htmlTitle": "2012 Catalog of Services",
+   "link": "http://www.macomb-stclairworks.org/CMFiles/Docs/Catalog/Catalog%20of%20Services%202012.pdf",
+   "displayLink": "www.macomb-stclairworks.org",
+   "snippet": "1-800-285-WORKS or visit Michigan Talent Bank at www.michworks.org. Local   Michigan Works Agencies oversee comprehensive services designed to help ...",
+   "htmlSnippet": "1-800-285-WORKS or visit Michigan Talent Bank at www.\u003cb\u003emichworks\u003c/b\u003e.org. Local \u003cbr\u003e  Michigan Works Agencies oversee comprehensive services designed to help \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "BdYvNxEffuUJ",
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat",
+   "formattedUrl": "www.macomb-stclairworks.org/.../Catalog%20of%20Services%202012.pdf",
+   "htmlFormattedUrl": "www.macomb-stclairworks.org/.../Catalog%20of%20Services%202012.pdf",
+   "pagemap": {
+    "metatags": [
+     {
+      "author": "Amanda",
+      "creationdate": "D:20120503090733-04'00'",
+      "creator": "Adobe InDesign CS2 (4.0.5)",
+      "moddate": "D:20120503090901-04'00'",
+      "producer": "Acrobat Distiller 7.0.5 (Windows)"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Documents « Michigan Works!",
+   "htmlTitle": "Documents « Michigan Works!",
+   "link": "http://www.michworks-upnorth.org/documents",
+   "displayLink": "www.michworks-upnorth.org",
+   "snippet": "Click on the document to download and read. To view some of these documents   you may have to download one of the programs located at the bottom of this ...",
+   "htmlSnippet": "Click on the document to download and read. To view some of these documents \u003cbr\u003e  you may have to download one of the programs located at the bottom of this \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "p789kguZ66kJ",
+   "formattedUrl": "www.michworks-upnorth.org/documents",
+   "htmlFormattedUrl": "www.\u003cb\u003emichworks\u003c/b\u003e-upnorth.org/documents",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.michworks-upnorth.org/wp-content/themes/2/images/word.jpg",
+      "type": "1",
+      "width": "77",
+      "height": "79"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Michigan Business Services Michigan Business Services",
+   "htmlTitle": "Michigan Business Services Michigan Business Services",
+   "link": "http://www.ferndaleschools.org/fcc/documents/Business%20Resources%20Flier.pdf",
+   "displayLink": "www.ferndaleschools.org",
+   "snippet": "We can help you navigate Michigan's free job posting site that gives employers   access to over one million resumes at www.michworks.org www.michworks.org ...",
+   "htmlSnippet": "We can help you navigate Michigan&#39;s free job posting site that gives employers \u003cbr\u003e  access to over one million resumes at www.\u003cb\u003emichworks\u003c/b\u003e.org www.\u003cb\u003emichworks\u003c/b\u003e.org \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "_lNJBZ-_te0J",
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat",
+   "formattedUrl": "www.ferndaleschools.org/fcc/.../Business%20Resources%20Flier.pdf",
+   "htmlFormattedUrl": "www.ferndaleschools.org/fcc/.../Business%20Resources%20Flier.pdf",
+   "pagemap": {
+    "metatags": [
+     {
+      "producer": "Nitro PDF PrimoPDF",
+      "creationdate": "D:20101015143210+04'00'",
+      "moddate": "D:20101015143210+04'00'",
+      "title": "Microsoft Word - Business Resources Flier 2010.doc",
+      "creator": "PrimoPDF http://www.primopdf.com",
+      "author": "ssibula"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "UIA - EUC FAQ",
+   "htmlTitle": "UIA - EUC FAQ",
+   "link": "http://www.michigan.gov/uia/0,4680,7-118-1340-195548--,00.html",
+   "displayLink": "www.michigan.gov",
+   "snippet": "Agency (MWA) office. If you are already registered, update your résumé. You may   enter or update your résumé on the Internet at www.michworks.org. However ...",
+   "htmlSnippet": "Agency (MWA) office. If you are already registered, update your résumé. You may \u003cbr\u003e  enter or update your résumé on the Internet at www.\u003cb\u003emichworks\u003c/b\u003e.org. However \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "zdkIW-2wXMsJ",
+   "formattedUrl": "www.michigan.gov/uia/0,4680,7-118-1340-195548--,00.html",
+   "htmlFormattedUrl": "www.michigan.gov/uia/0,4680,7-118-1340-195548--,00.html",
+   "pagemap": {
+    "metatags": [
+     {
+      "last-modified": "Thu, 03 Jul 2008 11:18:43 EDT",
+      "catlvl1": "1340"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Michigan Talent Bank : michworks.org, michiganworks.com ...",
+   "htmlTitle": "Michigan Talent Bank : \u003cb\u003emichworks\u003c/b\u003e.org, michiganworks.com \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://www.markosweb.com/tag/michigan+talent+bank/",
+   "displayLink": "www.markosweb.com",
+   "snippet": "Michigan Talent Bank suggested sites: camw.org, dccwf.org, shcmw.com,   michiganworks.us, etc. Total 7 websites. Related tags: michigan job bank,   training, ...",
+   "htmlSnippet": "Michigan Talent Bank suggested sites: camw.org, dccwf.org, shcmw.com, \u003cbr\u003e  michiganworks.us, etc. Total 7 websites. Related tags: michigan job bank, \u003cbr\u003e  training, \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "uZB4Ico2INUJ",
+   "formattedUrl": "www.markosweb.com/tag/michigan+talent+bank/",
+   "htmlFormattedUrl": "www.markosweb.com/tag/michigan+talent+bank/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://a.markosweb.com/screenshots/8/8/4/88447.jpg",
+      "type": "1",
+      "width": "259",
+      "height": "194"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "MAERS Training Manual",
+   "htmlTitle": "MAERS Training Manual",
+   "link": "http://www.michigan.gov/documents/mdcd/MAERS_manual_102008_254974_7.pdf",
+   "displayLink": "www.michigan.gov",
+   "snippet": "The web address is: http://training3.michworks.org/. Step 2. There are three   options available on the training site: • Go to the training environment for the ...",
+   "htmlSnippet": "The web address is: http://training3.\u003cb\u003emichworks\u003c/b\u003e.org/. Step 2. There are three \u003cbr\u003e  options available on the training site: • Go to the training environment for the \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "Fg2QyzW7nVUJ",
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat",
+   "formattedUrl": "www.michigan.gov/documents/.../MAERS_manual_102008_254974_7.pdf",
+   "htmlFormattedUrl": "www.michigan.gov/documents/.../MAERS_manual_102008_254974_7.pdf",
+   "pagemap": {
+    "metatags": [
+     {
+      "creationdate": "D:20090513090241-04'00'",
+      "author": "butcherr",
+      "creator": "PScript5.dll Version 5.2.2",
+      "producer": "Acrobat Distiller 7.0.5 (Windows)",
+      "moddate": "D:20090513090241-04'00'",
+      "title": "Microsoft Word - test_rebecca_final.doc"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Michigan Works Menu of Services",
+   "htmlTitle": "Michigan Works Menu of Services",
+   "link": "http://www.canton-mi.org/eco_dev/pdfs/semca_meneofservices.pdf",
+   "displayLink": "www.canton-mi.org",
+   "snippet": "Michigan Talent and Job Bank-a premiere internet tool - www.michworks.org. ✦   Dynamic Labor Market Information to assist you in making informed choices for ...",
+   "htmlSnippet": "Michigan Talent and Job Bank-a premiere internet tool - www.\u003cb\u003emichworks\u003c/b\u003e.org. ✦ \u003cbr\u003e  Dynamic Labor Market Information to assist you in making informed choices for \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "GW5WL_5O39QJ",
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat",
+   "formattedUrl": "www.canton-mi.org/eco_dev/pdfs/semca_meneofservices.pdf",
+   "htmlFormattedUrl": "www.canton-mi.org/eco_dev/pdfs/semca_meneofservices.pdf",
+   "pagemap": {
+    "metatags": [
+     {
+      "author": "Michigan Works Menu of Services",
+      "creationdate": "D:20080117093131-05'00'",
+      "creator": "PScript5.dll Version 5.2.2",
+      "moddate": "D:20100215115823-05'00'",
+      "producer": "Acrobat Distiller 7.0 (Windows)",
+      "subject": "Michigan Works Menu of Services",
+      "title": "Michigan Works Menu of Services"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Make Macomb Your Home | Job Listing",
+   "htmlTitle": "Make Macomb Your Home | Job Listing",
+   "link": "http://www.mmyh.org/job_list.html",
+   "displayLink": "www.mmyh.org",
+   "snippet": "586-783-8700, https://www.michworks.org/ ...",
+   "htmlSnippet": "586-783-8700, https://www.\u003cb\u003emichworks\u003c/b\u003e.org/ \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "4UcueYyeIhEJ",
+   "formattedUrl": "www.mmyh.org/job_list.html",
+   "htmlFormattedUrl": "www.mmyh.org/job_list.html"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Competitive Analysis",
+   "htmlTitle": "Competitive Analysis",
+   "link": "http://www.alphaandomegawebdesign.com/documents/competitiveAnalysis.pdf",
+   "displayLink": "www.alphaandomegawebdesign.com",
+   "snippet": "www.michworks.org (Michigan government site) ... michworks.org is specifically   targeting candidates who are interested in jobs with the State of Michigan.",
+   "htmlSnippet": "www.\u003cb\u003emichworks\u003c/b\u003e.org (Michigan government site) \u003cb\u003e...\u003c/b\u003e \u003cb\u003emichworks\u003c/b\u003e.org is specifically \u003cbr\u003e  targeting candidates who are interested in jobs with the State of Michigan.",
+   "cacheId": "00tBiNhg6v4J",
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat",
+   "formattedUrl": "www.alphaandomegawebdesign.com/documents/competitiveAnalysis.pdf",
+   "htmlFormattedUrl": "www.alphaandomegawebdesign.com/documents/competitiveAnalysis.pdf",
+   "pagemap": {
+    "metatags": [
+     {
+      "creationdate": "D:20100304094344-05'00'",
+      "moddate": "D:20100304094344-05'00'",
+      "producer": "BCL easyPDF 5.00 (0317)",
+      "creator": "Nitro PDF SDK 5.0"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Work registration needed for jobless benefits",
+   "htmlTitle": "Work registration needed for jobless benefits",
+   "link": "http://www.michigan.gov/documents/uia/76_-_Work_registration_-5-16-11_353461_7.pdf",
+   "displayLink": "www.michigan.gov",
+   "snippet": "Internet at www.michworks.org. However, if you register online, you must still   report in person to your Michigan Works! service center to verify your registration.",
+   "htmlSnippet": "Internet at www.\u003cb\u003emichworks\u003c/b\u003e.org. However, if you register online, you must still \u003cbr\u003e  report in person to your Michigan Works! service center to verify your registration.",
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat",
+   "formattedUrl": "www.michigan.gov/.../76_-_Work_registration_-5-16-11_353461_7.pdf",
+   "htmlFormattedUrl": "www.michigan.gov/.../76_-_Work_registration_-5-16-11_353461_7.pdf",
+   "pagemap": {
+    "metatags": [
+     {
+      "author": "hilld12",
+      "creationdate": "D:20110516133640-04'00'",
+      "creator": "PScript5.dll Version 5.2.2",
+      "moddate": "D:20110519103643-04'00'",
+      "producer": "Acrobat Distiller 9.0.0 (Windows)",
+      "title": "Microsoft Word - 76 - Work registration -5-16-11.doc"
+     }
+    ]
+   }
+  }
+ ]
+}

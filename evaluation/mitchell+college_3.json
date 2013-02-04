@@ -1,0 +1,333 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "nextPage": [
+   {
+    "title": "Google Custom Search - mitchell college",
+    "totalResults": "20300000",
+    "searchTerms": "mitchell college",
+    "count": 10,
+    "startIndex": 41,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "017401104989814545383:mf4lavmtuva"
+   }
+  ],
+  "request": [
+   {
+    "title": "Google Custom Search - mitchell college",
+    "totalResults": "20300000",
+    "searchTerms": "mitchell college",
+    "count": 10,
+    "startIndex": 31,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "017401104989814545383:mf4lavmtuva"
+   }
+  ],
+  "previousPage": [
+   {
+    "title": "Google Custom Search - mitchell college",
+    "totalResults": "20300000",
+    "searchTerms": "mitchell college",
+    "count": 10,
+    "startIndex": 21,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "017401104989814545383:mf4lavmtuva"
+   }
+  ]
+ },
+ "context": {
+  "title": "College MetaSearch Comparison"
+ },
+ "searchInformation": {
+  "searchTime": 0.153317,
+  "formattedSearchTime": "0.15",
+  "totalResults": "20300000",
+  "formattedTotalResults": "20,300,000"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "Volleyball",
+   "htmlTitle": "Volleyball",
+   "link": "http://mitchellathletics.com/sports/wvball/index",
+   "displayLink": "mitchellathletics.com",
+   "snippet": "Mitchell Places 12 on NECC Academic Team February 8, 2012 ATTLEBORO,   Mass. - Mitchell College placed 12 student-athletes on the New England ...",
+   "htmlSnippet": "Mitchell Places 12 on NECC Academic Team February 8, 2012 ATTLEBORO, \u003cbr\u003e  Mass. - \u003cb\u003eMitchell College\u003c/b\u003e placed 12 student-athletes on the New England \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "NVX0P1LP5fkJ",
+   "formattedUrl": "mitchellathletics.com/sports/wvball/index",
+   "htmlFormattedUrl": "\u003cb\u003emitchell\u003c/b\u003eathletics.com/sports/wvball/index",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://mitchellathletics.com/images/logos/act_gen_NECC09-01.jpg?max_width=480&max_height=320&crop=true",
+      "type": "1",
+      "width": "275",
+      "height": "183"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Clinics - Legal Practice Center - William Mitchell College of Law",
+   "htmlTitle": "Clinics - Legal Practice Center - William \u003cb\u003eMitchell College\u003c/b\u003e of Law",
+   "link": "http://www.wmitchell.edu/Legal-Practice-Center/Clinics/index.html",
+   "displayLink": "www.wmitchell.edu",
+   "snippet": "Each case is unique and may require many hours. We are committed to public   service and our programs are essential to the William Mitchell community and ...",
+   "htmlSnippet": "Each case is unique and may require many hours. We are committed to public \u003cbr\u003e  service and our programs are essential to the William \u003cb\u003eMitchell\u003c/b\u003e community and \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "2gStlg3uGugJ",
+   "formattedUrl": "www.wmitchell.edu/Legal-Practice-Center/Clinics/index.html",
+   "htmlFormattedUrl": "www.w\u003cb\u003emitchell\u003c/b\u003e.edu/Legal-Practice-Center/Clinics/index.html"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Basketball",
+   "htmlTitle": "Basketball",
+   "link": "http://mitchellathletics.com/sports/mbkb/index",
+   "displayLink": "mitchellathletics.com",
+   "snippet": "The Mitchell College men's basketball team held court with 20 fifth- and sixth-  graders from ... Mitchell College sophomore Joshua Ford was named New   England ...",
+   "htmlSnippet": "The \u003cb\u003eMitchell College\u003c/b\u003e men&#39;s basketball team held court with 20 fifth- and sixth-\u003cbr\u003e  graders from \u003cb\u003e...\u003c/b\u003e \u003cb\u003eMitchell College\u003c/b\u003e sophomore Joshua Ford was named New \u003cbr\u003e  England \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "vlJ-bKFj_ekJ",
+   "formattedUrl": "mitchellathletics.com/sports/mbkb/index",
+   "htmlFormattedUrl": "\u003cb\u003emitchell\u003c/b\u003eathletics.com/sports/mbkb/index",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://mitchellathletics.com/sports/mbkb/2011-12/photos/0003/DSC_0655.jpg?max_width=480&max_height=320&crop=true",
+      "type": "1",
+      "width": "275",
+      "height": "183"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Dining Services, Mitchell College",
+   "htmlTitle": "Dining Services, \u003cb\u003eMitchell College\u003c/b\u003e",
+   "link": "http://www.mitchelldining.com/",
+   "displayLink": "www.mitchelldining.com",
+   "snippet": "Mitchell College. “By protecting and improving our environment, the communities   where we do business and the students we serve, Sodexo makes every day a ...",
+   "htmlSnippet": "\u003cb\u003eMitchell College\u003c/b\u003e. “By protecting and improving our environment, the communities \u003cbr\u003e  where we do business and the students we serve, Sodexo makes every day a \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "3sn3HSYnkVUJ",
+   "formattedUrl": "www.mitchelldining.com/",
+   "htmlFormattedUrl": "www.\u003cb\u003emitchell\u003c/b\u003edining.com/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.mitchelldining.com/images/text2comment.jpg",
+      "type": "1",
+      "width": "292",
+      "height": "167"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Softball",
+   "htmlTitle": "Softball",
+   "link": "http://mitchellathletics.com/sports/sball/index",
+   "displayLink": "mitchellathletics.com",
+   "snippet": "Six members of the Mitchell College softball team were named to New England   Collegiate ... 2 Mitchell College in the semifinal round of the 2012 New England ...",
+   "htmlSnippet": "Six members of the \u003cb\u003eMitchell College\u003c/b\u003e softball team were named to New England \u003cbr\u003e  Collegiate \u003cb\u003e...\u003c/b\u003e 2 \u003cb\u003eMitchell College\u003c/b\u003e in the semifinal round of the 2012 New England \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "UqrrTcEvhcgJ",
+   "formattedUrl": "mitchellathletics.com/sports/sball/index",
+   "htmlFormattedUrl": "\u003cb\u003emitchell\u003c/b\u003eathletics.com/sports/sball/index",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://mitchellathletics.com/images/sball/2012_Action/act_sb_neccAllConf12-01.jpg?max_width=117&max_height=78&crop=true",
+      "type": "1",
+      "width": "97",
+      "height": "64"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "CLE, Lectures, and Conferences at William Mitchell College of Law",
+   "htmlTitle": "CLE, Lectures, and Conferences at William \u003cb\u003eMitchell College\u003c/b\u003e of Law",
+   "link": "http://www.wmitchell.edu/lectures/",
+   "displayLink": "www.wmitchell.edu",
+   "snippet": "We have an overflow parking lot at Grotto and Summit, about 2 blocks east of the   college on Summit Avenue. Some events may provide shuttle to and from the ...",
+   "htmlSnippet": "We have an overflow parking lot at Grotto and Summit, about 2 blocks east of the \u003cbr\u003e  \u003cb\u003ecollege\u003c/b\u003e on Summit Avenue. Some events may provide shuttle to and from the \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "Ovskx_FasNoJ",
+   "formattedUrl": "www.wmitchell.edu/lectures/",
+   "htmlFormattedUrl": "www.w\u003cb\u003emitchell\u003c/b\u003e.edu/lectures/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://web.wmitchell.edu/alumni/wp-content/uploads/2011/11/Alumni_CLE-e1330446591105.jpg",
+      "type": "1",
+      "width": "200",
+      "height": "200"
+     }
+    ],
+    "metatags": [
+     {
+      "language": "en-US"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Housing Options - Mitchell College",
+   "htmlTitle": "Housing Options - \u003cb\u003eMitchell College\u003c/b\u003e",
+   "link": "http://community.mitchell.edu/ResLife/Housing",
+   "displayLink": "community.mitchell.edu",
+   "snippet": "That's what makes Mitchell so appealing-a delightful mix of traditional New   England styles with up-to-the-minute features that college students (and their   parents!) ...",
+   "htmlSnippet": "That&#39;s what makes \u003cb\u003eMitchell\u003c/b\u003e so appealing-a delightful mix of traditional New \u003cbr\u003e  England styles with up-to-the-minute features that \u003cb\u003ecollege\u003c/b\u003e students (and their \u003cbr\u003e  parents!) \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "r5Gz31FsINsJ",
+   "formattedUrl": "community.mitchell.edu/ResLife/Housing",
+   "htmlFormattedUrl": "community.\u003cb\u003emitchell\u003c/b\u003e.edu/ResLife/Housing",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://community.mitchell.edu/view.image?Id=736",
+      "type": "1",
+      "width": "128",
+      "height": "82"
+     }
+    ],
+    "metatags": [
+     {
+      "vs_targetschema": "http://schemas.microsoft.com/intellisense/ie5",
+      "last-modified": "7/18/2012 5:47:18 PM"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Mitchell College - New London, CT Patch",
+   "htmlTitle": "\u003cb\u003eMitchell College\u003c/b\u003e - New London, CT Patch",
+   "link": "http://newlondon.patch.com/listings/mitchell-college",
+   "displayLink": "newlondon.patch.com",
+   "snippet": "Named for the family estate on which it was built, Mitchell College was   established in 1938. The school caters to about 1000 students and offers both ...",
+   "htmlSnippet": "Named for the family estate on which it was built, \u003cb\u003eMitchell College\u003c/b\u003e was \u003cbr\u003e  established in 1938. The school caters to about 1000 students and offers both \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "Hd_007y4N88J",
+   "formattedUrl": "newlondon.patch.com/listings/mitchell-college",
+   "htmlFormattedUrl": "newlondon.patch.com/listings/\u003cb\u003emitchell\u003c/b\u003e-\u003cb\u003ecollege\u003c/b\u003e",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://o1.aolcdn.com/dims-shared/dims3/PATCH/resize/200x200/http://hss-prod.hss.aol.com/hss/storage/patch/a850c11179de2355e4643b6723fba0cb",
+      "type": "1",
+      "width": "160",
+      "height": "120"
+     }
+    ],
+    "webpage": [
+     {
+      "photo": "http://o1.aolcdn.com/dims-shared/dims3/PATCH/thumbnail/43x53/crop/43x43+0+5/http://hss-prod.hss.aol.com/hss/storage/patch/8ff5c80a7dc0a44e623027e923157884"
+     }
+    ],
+    "metatags": [
+     {
+      "og:title": "Mitchell College",
+      "og:type": "website",
+      "og:url": "http://newlondon.patch.com/listings/mitchell-college",
+      "og:image": "http://o1.aolcdn.com/dims-shared/dims3/PATCH/resize/200x200/http://hss-prod.hss.aol.com/hss/storage/patch/a850c11179de2355e4643b6723fba0cb",
+      "og:site_name": "New London Patch",
+      "og:description": "Named for the family estate on which it was built, Mitchell College was established in 1938. The school caters to about 1,000 students and offers both baccalaureate and associate degrees in liberal arts and professional fields. The 68-acre campus includes waterfront residences and two private beaches, as well as the Mitchell Woods trails, which are open to the public. The college also offers the Thames Academy program, which features a year of college preparatory classes to high school graduates.",
+      "fb:app_id": "124197974267398"
+     }
+    ],
+    "hcard": [
+     {
+      "fn": "Dirk Langeveld"
+     },
+     {
+      "fn": "Dirk Langeveld"
+     },
+     {
+      "fn": "Dirk Langeveld"
+     },
+     {
+      "fn": "Dirk Langeveld"
+     },
+     {
+      "fn": "Dirk Langeveld"
+     },
+     {
+      "fn": "Dirk Langeveld"
+     },
+     {
+      "fn": "Dirk Langeveld"
+     },
+     {
+      "fn": "Dirk Langeveld"
+     },
+     {
+      "fn": "Dirk Langeveld"
+     },
+     {
+      "fn": "Dirk Langeveld"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Home - Mariner Mail LIVE - Library and Information Services at ...",
+   "htmlTitle": "Home - Mariner Mail LIVE - Library and Information Services at \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://mitchell.libguides.com/marinermail",
+   "displayLink": "mitchell.libguides.com",
+   "snippet": "Feb 9, 2012 ... Skip to Page Navigation Skip to Page Content. Banner. Admin Sign In · Mitchell   College » Library and Information Services » Mariner Mail LIVE ...",
+   "htmlSnippet": "Feb 9, 2012 \u003cb\u003e...\u003c/b\u003e Skip to Page Navigation Skip to Page Content. Banner. Admin Sign In &middot; \u003cb\u003eMitchell\u003c/b\u003e \u003cbr\u003e  \u003cb\u003eCollege\u003c/b\u003e » Library and Information Services » Mariner Mail LIVE \u003cb\u003e...\u003c/b\u003e",
+   "formattedUrl": "mitchell.libguides.com/marinermail",
+   "htmlFormattedUrl": "\u003cb\u003emitchell\u003c/b\u003e.libguides.com/marinermail",
+   "pagemap": {
+    "metatags": [
+     {
+      "author": "Katie Brossard Nazarian",
+      "copyright": "Copyright Mitchell College 2012",
+      "dc.title": "Library and Information Services. Mariner Mail LIVE. Home.",
+      "dc.creator": "Katie Brossard Nazarian",
+      "dc.subject": "email, student_computing, how-to Home Mariner Mail LIVE Library and Information Services",
+      "dc.description": "Stay connected to the Mitchell community with web-based email and more.",
+      "dc.publisher": "Mitchell College Mitchell College",
+      "dc.rights": "Copyright Mitchell College 2012",
+      "dc.language": "en",
+      "dc.identifier": "http://mitchell.libguides.com/marinermail",
+      "dc.date.created": "Jul 22, 2009",
+      "dc.date.modified": "Feb 9, 2012",
+      "dc.unused": "Contributor, Date, Type, Format, Source, Relation, Coverage"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "History of the Law School - William Mitchell College of Law",
+   "htmlTitle": "History of the Law School - William \u003cb\u003eMitchell College\u003c/b\u003e of Law",
+   "link": "http://www.wmitchell.edu/about/history.html",
+   "displayLink": "www.wmitchell.edu",
+   "snippet": "Minnesota Supreme Court Justice 1881-1899. William Mitchell's history is about   men and women of vision working to meet the educational needs of individuals ...",
+   "htmlSnippet": "Minnesota Supreme Court Justice 1881-1899. William \u003cb\u003eMitchell&#39;s\u003c/b\u003e history is about \u003cbr\u003e  men and women of vision working to meet the educational needs of individuals \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "ng7Yx4uvvTsJ",
+   "formattedUrl": "www.wmitchell.edu/about/history.html",
+   "htmlFormattedUrl": "www.w\u003cb\u003emitchell\u003c/b\u003e.edu/about/history.html",
+   "pagemap": {
+    "metatags": [
+     {
+      "language": "en-US"
+     }
+    ]
+   }
+  }
+ ]
+}

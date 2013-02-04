@@ -1,0 +1,281 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "nextPage": [
+   {
+    "title": "Google Custom Search - diabetes education",
+    "totalResults": "27000000",
+    "searchTerms": "diabetes education",
+    "count": 10,
+    "startIndex": 51,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "017401104989814545383:mf4lavmtuva"
+   }
+  ],
+  "request": [
+   {
+    "title": "Google Custom Search - diabetes education",
+    "totalResults": "27000000",
+    "searchTerms": "diabetes education",
+    "count": 10,
+    "startIndex": 41,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "017401104989814545383:mf4lavmtuva"
+   }
+  ],
+  "previousPage": [
+   {
+    "title": "Google Custom Search - diabetes education",
+    "totalResults": "27000000",
+    "searchTerms": "diabetes education",
+    "count": 10,
+    "startIndex": 31,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "017401104989814545383:mf4lavmtuva"
+   }
+  ]
+ },
+ "context": {
+  "title": "College MetaSearch Comparison"
+ },
+ "searchInformation": {
+  "searchTime": 0.128261,
+  "formattedSearchTime": "0.13",
+  "totalResults": "27000000",
+  "formattedTotalResults": "27,000,000"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "WADE | Washington Association of Diabetes Educators",
+   "htmlTitle": "WADE | Washington Association of \u003cb\u003eDiabetes Educators\u003c/b\u003e",
+   "link": "http://wadepage.org/",
+   "displayLink": "wadepage.org",
+   "snippet": "Directory of Diabetes Self-Management Education Programs Sorted by City. A - B   - C ... Grays Harbor Community Hospital GHCH Diabetes Education Program ...",
+   "htmlSnippet": "Directory of Diabetes Self-Management Education Programs Sorted by City. A - B \u003cbr\u003e  - C \u003cb\u003e...\u003c/b\u003e Grays Harbor Community Hospital GHCH \u003cb\u003eDiabetes Education\u003c/b\u003e Program \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "HQ3i05C9emEJ",
+   "formattedUrl": "wadepage.org/",
+   "htmlFormattedUrl": "wadepage.org/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://wadepage.org/files/image/myaadenetwork_small.jpg",
+      "type": "1",
+      "width": "85",
+      "height": "59"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Diabetes Interactive Health Education Tools from NIH - National ...",
+   "htmlTitle": "\u003cb\u003eDiabetes\u003c/b\u003e Interactive Health \u003cb\u003eEducation\u003c/b\u003e Tools from NIH - National \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://diabetes.niddk.nih.gov/resources/HealthTools/",
+   "displayLink": "diabetes.niddk.nih.gov",
+   "snippet": "Jun 12, 2012 ... National Diabetes Education Program (NDEP). Healthy Eating with Diabetes.   Making changes in the way we eat can be difficult. Learn about ...",
+   "htmlSnippet": "Jun 12, 2012 \u003cb\u003e...\u003c/b\u003e National \u003cb\u003eDiabetes Education\u003c/b\u003e Program (NDEP). Healthy Eating with Diabetes. \u003cbr\u003e  Making changes in the way we eat can be difficult. Learn about \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "bayH2KTz_dQJ",
+   "formattedUrl": "diabetes.niddk.nih.gov/resources/HealthTools/",
+   "htmlFormattedUrl": "\u003cb\u003ediabetes\u003c/b\u003e.niddk.nih.gov/resources/HealthTools/"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Annual Meeting - American Association of Diabetes Educators",
+   "htmlTitle": "Annual Meeting - American Association of \u003cb\u003eDiabetes Educators\u003c/b\u003e",
+   "link": "http://www.diabeteseducator.org/annual",
+   "displayLink": "www.diabeteseducator.org",
+   "snippet": "AADE has added a fundraising component to the AADE12 5K – Leading through   Education Event, sponsored by Novo Nordisk. All participants are encouraged ...",
+   "htmlSnippet": "AADE has added a fundraising component to the AADE12 5K – Leading through \u003cbr\u003e  \u003cb\u003eEducation\u003c/b\u003e Event, sponsored by Novo Nordisk. All participants are encouraged \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "OGtW9-ZLvXwJ",
+   "formattedUrl": "www.diabeteseducator.org/annual",
+   "htmlFormattedUrl": "www.\u003cb\u003ediabeteseducator\u003c/b\u003e.org/annual",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.diabeteseducator.org/export/sites/aade/_resources/images/12_AM/Dr._Koh_175px.jpg",
+      "type": "1",
+      "width": "140",
+      "height": "210"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Professional Resources - American Association of Diabetes Educators",
+   "htmlTitle": "Professional Resources - American Association of \u003cb\u003eDiabetes Educators\u003c/b\u003e",
+   "link": "https://www.diabeteseducator.org/ProfessionalResources/",
+   "displayLink": "www.diabeteseducator.org",
+   "snippet": "Learn more about our effort to expand access to diabetes education by becoming   an accrediting body for diabetes self-management education/training.",
+   "htmlSnippet": "Learn more about our effort to expand access to \u003cb\u003ediabetes education\u003c/b\u003e by becoming \u003cbr\u003e  an accrediting body for diabetes self-management education/training.",
+   "cacheId": "E6jeHpwHsocJ",
+   "formattedUrl": "https://www.diabeteseducator.org/ProfessionalResources/",
+   "htmlFormattedUrl": "https://www.\u003cb\u003ediabeteseducator\u003c/b\u003e.org/ProfessionalResources/",
+   "pagemap": {
+    "metatags": [
+     {
+      "nonmember": "1"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Patient Resources - American Association of Diabetes Educators",
+   "htmlTitle": "Patient Resources - American Association of \u003cb\u003eDiabetes Educators\u003c/b\u003e",
+   "link": "http://www.diabeteseducator.org/DiabetesEducation/Patient_Resources/",
+   "displayLink": "www.diabeteseducator.org",
+   "snippet": "Patient Resources. Taking good care of yourself can seem daunting when you   have diabetes - whether you've just learned you have the disease or you've had it ...",
+   "htmlSnippet": "Patient Resources. Taking good care of yourself can seem daunting when you \u003cbr\u003e  have \u003cb\u003ediabetes\u003c/b\u003e - whether you&#39;ve just learned you have the disease or you&#39;ve had it \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "WlSMEqFGbeUJ",
+   "formattedUrl": "www.diabeteseducator.org/DiabetesEducation/Patient_Resources/",
+   "htmlFormattedUrl": "www.\u003cb\u003ediabeteseducator\u003c/b\u003e.org/\u003cb\u003eDiabetesEducation\u003c/b\u003e/Patient_Resources/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.diabeteseducator.org/export/sites/aade/_resources/images/general/Summer_Plate_Sm.jpg",
+      "type": "1",
+      "width": "160",
+      "height": "209"
+     }
+    ],
+    "metatags": [
+     {
+      "nonmember": "1"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "4 Steps to Control Your Diabetes. For Life. | NDEP",
+   "htmlTitle": "4 Steps to Control Your \u003cb\u003eDiabetes\u003c/b\u003e. For Life. | NDEP",
+   "link": "http://ndep.nih.gov/diabetes/control/4Steps.htm",
+   "displayLink": "ndep.nih.gov",
+   "snippet": "May 1, 2011 ... This patient education sheet explains the link between diabetes and heart   disease. It encourages patients to work with their health care team to ...",
+   "htmlSnippet": "May 1, 2011 \u003cb\u003e...\u003c/b\u003e This patient \u003cb\u003eeducation\u003c/b\u003e sheet explains the link between \u003cb\u003ediabetes\u003c/b\u003e and heart \u003cbr\u003e  disease. It encourages patients to work with their health care team to \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "Hor8IfoEtCcJ",
+   "formattedUrl": "ndep.nih.gov/diabetes/control/4Steps.htm",
+   "htmlFormattedUrl": "ndep.nih.gov/\u003cb\u003ediabetes\u003c/b\u003e/control/4Steps.htm",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://ndep.nih.gov/publications/html/NDEP-67/images/1.jpg",
+      "type": "1",
+      "width": "144",
+      "height": "110"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "AADE7™ - American Association of Diabetes Educators",
+   "htmlTitle": "AADE7™ - American Association of \u003cb\u003eDiabetes Educators\u003c/b\u003e",
+   "link": "http://www.diabeteseducator.org/ProfessionalResources/AADE7/",
+   "displayLink": "www.diabeteseducator.org",
+   "snippet": "Diabetes education classes can assist people with diabetes in gaining   knowledge about the effect of food on blood glucose, sources of carbohydrates   and fat, ...",
+   "htmlSnippet": "\u003cb\u003eDiabetes education\u003c/b\u003e classes can assist people with diabetes in gaining \u003cbr\u003e  knowledge about the effect of food on blood glucose, sources of carbohydrates \u003cbr\u003e  and fat, \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "36fiGClIFGgJ",
+   "formattedUrl": "www.diabeteseducator.org/ProfessionalResources/AADE7/",
+   "htmlFormattedUrl": "www.\u003cb\u003ediabeteseducator\u003c/b\u003e.org/ProfessionalResources/AADE7/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.diabeteseducator.org/export/sites/aade/_resources/images/AADE7LogoTM.jpg",
+      "type": "1",
+      "width": "148",
+      "height": "44"
+     }
+    ],
+    "metatags": [
+     {
+      "nonmember": "1"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Education Recognition Programs - DiabetesPro - American ...",
+   "htmlTitle": "\u003cb\u003eEducation\u003c/b\u003e Recognition Programs - DiabetesPro - American \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://professional.diabetes.org/Recognition.aspx?typ=15&cid=84040",
+   "displayLink": "professional.diabetes.org",
+   "snippet": "If you are seeking reimbursement for diabetes education, it is appropriate to   apply for ADA Recognition of your diabetes education program or service.",
+   "htmlSnippet": "If you are seeking reimbursement for \u003cb\u003ediabetes education\u003c/b\u003e, it is appropriate to \u003cbr\u003e  apply for ADA Recognition of your \u003cb\u003ediabetes education\u003c/b\u003e program or service.",
+   "cacheId": "HlYgbMYHf58J",
+   "formattedUrl": "professional.diabetes.org/Recognition.aspx?typ=15&cid=84040",
+   "htmlFormattedUrl": "professional.\u003cb\u003ediabetes\u003c/b\u003e.org/Recognition.aspx?typ=15&amp;cid=84040",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://professional.diabetes.org/admin/UserFiles/image/ERP/Edu_Recog_Prog_RGB-Web.jpg",
+      "type": "1",
+      "width": "350",
+      "height": "144"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Practice Guidelines - American Association of Diabetes Educators",
+   "htmlTitle": "Practice Guidelines - American Association of \u003cb\u003eDiabetes Educators\u003c/b\u003e",
+   "link": "http://www.diabeteseducator.org/DiabetesEducation/position/Practice_Guidelines.html",
+   "displayLink": "www.diabeteseducator.org",
+   "snippet": "The AADE Guidelines for the Practice of Diabetes Self-Management Education   and Training (DSME/T) describe the implementation of The Scope of Practice, ...",
+   "htmlSnippet": "The AADE Guidelines for the Practice of \u003cb\u003eDiabetes\u003c/b\u003e Self-Management \u003cb\u003eEducation\u003c/b\u003e \u003cbr\u003e  and Training (DSME/T) describe the implementation of The Scope of Practice, \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "EX7Df2Vy19IJ",
+   "formattedUrl": "www.diabeteseducator.org/DiabetesEducation/.../Practice_Guidelines.html",
+   "htmlFormattedUrl": "www.\u003cb\u003ediabeteseducator\u003c/b\u003e.org/\u003cb\u003eDiabetesEducation\u003c/b\u003e/.../Practice_Guidelines.html",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.diabeteseducator.org/export/sites/aade/_resources/images/leftnavigation/JoinAADE.jpg",
+      "type": "1",
+      "width": "156",
+      "height": "72"
+     }
+    ],
+    "metatags": [
+     {
+      "nonmember": "1"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Diabetes Education",
+   "htmlTitle": "\u003cb\u003eDiabetes Education\u003c/b\u003e",
+   "link": "http://www.seton.net/medical_services_and_programs/diabetes_services/",
+   "displayLink": "www.seton.net",
+   "snippet": "Seton Medical Center has been a recognized leader in diabetes Education since   1995, when the program first received national Recognition by the American ...",
+   "htmlSnippet": "Seton Medical Center has been a recognized leader in \u003cb\u003ediabetes Education\u003c/b\u003e since \u003cbr\u003e  1995, when the program first received national Recognition by the American \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "kXiFd_3tg04J",
+   "formattedUrl": "www.seton.net/medical_services_and.../diabetes_services/",
+   "htmlFormattedUrl": "www.seton.net/medical_services_and.../\u003cb\u003ediabetes\u003c/b\u003e_services/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.seton.net/medical_services_and_programs/diabetes_services/img/DB_Team.jpg",
+      "type": "1",
+      "width": "282",
+      "height": "113"
+     }
+    ]
+   }
+  }
+ ]
+}

@@ -1,0 +1,375 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "nextPage": [
+   {
+    "title": "Google Custom Search - lower heart rate",
+    "totalResults": "24300000",
+    "searchTerms": "lower heart rate",
+    "count": 10,
+    "startIndex": 11,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "017401104989814545383:mf4lavmtuva"
+   }
+  ],
+  "request": [
+   {
+    "title": "Google Custom Search - lower heart rate",
+    "totalResults": "24300000",
+    "searchTerms": "lower heart rate",
+    "count": 10,
+    "startIndex": 1,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "017401104989814545383:mf4lavmtuva"
+   }
+  ]
+ },
+ "context": {
+  "title": "College MetaSearch Comparison"
+ },
+ "searchInformation": {
+  "searchTime": 0.220577,
+  "formattedSearchTime": "0.22",
+  "totalResults": "24300000",
+  "formattedTotalResults": "24,300,000"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "How to Slow Your Heart Rate Down: 5 steps - wikiHow",
+   "htmlTitle": "How to \u003cb\u003eSlow\u003c/b\u003e Your \u003cb\u003eHeart Rate\u003c/b\u003e Down: 5 steps - wikiHow",
+   "link": "http://www.wikihow.com/Slow-Your-Heart-Rate-Down",
+   "displayLink": "www.wikihow.com",
+   "snippet": "May 1, 2012 ... How to Slow Your Heart Rate Down. Maintaining a high heart rate outside of   exercise can be stressful, painful and potentially damaging to your ...",
+   "htmlSnippet": "May 1, 2012 \u003cb\u003e...\u003c/b\u003e How to \u003cb\u003eSlow\u003c/b\u003e Your \u003cb\u003eHeart Rate\u003c/b\u003e Down. Maintaining a high \u003cb\u003eheart rate\u003c/b\u003e outside of \u003cbr\u003e  exercise can be stressful, painful and potentially damaging to your \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "S8bYBtCSj0oJ",
+   "formattedUrl": "www.wikihow.com/Slow-Your-Heart-Rate-Down",
+   "htmlFormattedUrl": "www.wikihow.com/\u003cb\u003eSlow\u003c/b\u003e-Your-\u003cb\u003eHeart\u003c/b\u003e-\u003cb\u003eRate\u003c/b\u003e-Down",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.wikihow.com/images/5/55/Polar-A5-Heart-Rate-Monitor.jpg",
+      "type": "1",
+      "width": "259",
+      "height": "194"
+     }
+    ],
+    "metatags": [
+     {
+      "msvalidate.01": "CFD80128CAD3E726220D4C2420D539BE",
+      "y_key": "1b3ab4fc6fba3ab3",
+      "og:title": "How to Slow Your Heart Rate Down",
+      "og:type": "article",
+      "og:url": "http://www.wikihow.com/Slow-Your-Heart-Rate-Down",
+      "og:site_name": "wikiHow",
+      "og:description": "Maintaining a high heart rate outside of exercise can be stressful, painful and potentially damaging to your system. If your doctor determines that this is due to stress and not to an underlying, cardiovascular, health condition -- you...",
+      "og:image": "http://www.wikihow.com/images/5/55/Polar-A5-Heart-Rate-Monitor.jpg"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Heart rate: What's normal? - MayoClinic.com",
+   "htmlTitle": "\u003cb\u003eHeart rate\u003c/b\u003e: What&#39;s normal? - MayoClinic.com",
+   "link": "http://www.mayoclinic.com/health/heart-rate/AN01906",
+   "displayLink": "www.mayoclinic.com",
+   "snippet": "For a well-trained athlete, a normal resting heart rate may be closer to 40 beats a   minute. For healthy adults, a lower heart rate at rest generally implies more ...",
+   "htmlSnippet": "For a well-trained athlete, a normal resting heart rate may be closer to 40 beats a \u003cbr\u003e  minute. For healthy adults, a \u003cb\u003elower heart rate\u003c/b\u003e at rest generally implies more \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "rA9oHh8aqhgJ",
+   "formattedUrl": "www.mayoclinic.com/health/heart-rate/AN01906",
+   "htmlFormattedUrl": "www.mayoclinic.com/health/\u003cb\u003eheart\u003c/b\u003e-\u003cb\u003erate\u003c/b\u003e/AN01906",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.mayoclinic.com/images/billboardLargeVertical/mcdc11_laskowski_bblgvert.png",
+      "type": "1",
+      "width": "128",
+      "height": "88"
+     }
+    ],
+    "metatags": [
+     {
+      "type": "mcAnswer",
+      "msvalidate.01": "B9C07153B16742CA835F69FF6DE32E49",
+      "y_key": "cda4cc66dfbc5477"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Bradycardia (Slow Heart Rate) Symptoms, Causes, and Treatment",
+   "htmlTitle": "Bradycardia (\u003cb\u003eSlow Heart Rate\u003c/b\u003e) Symptoms, Causes, and Treatment",
+   "link": "http://www.webmd.com/heart-disease/tc/bradycardia-slow-heart-rate-overview",
+   "displayLink": "www.webmd.com",
+   "snippet": "Jun 2, 2011 ... What is bradycardia?Having bradycardia (say “bray - dee - CAR - dee - uh”)   means your heart beats very slowly. For most people, a heart rate ...",
+   "htmlSnippet": "Jun 2, 2011 \u003cb\u003e...\u003c/b\u003e What is bradycardia?Having bradycardia (say “bray - dee - CAR - dee - uh”) \u003cbr\u003e  means your heart beats very slowly. For most people, a \u003cb\u003eheart rate\u003c/b\u003e \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "g-uMmpEq-QwJ",
+   "formattedUrl": "www.webmd.com/heart.../tc/bradycardia-slow-heart-rate-overview",
+   "htmlFormattedUrl": "www.webmd.com/\u003cb\u003eheart\u003c/b\u003e.../tc/bradycardia-\u003cb\u003eslow\u003c/b\u003e-\u003cb\u003eheart\u003c/b\u003e-\u003cb\u003erate\u003c/b\u003e-overview",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/media/medical/hw/card_02.jpg",
+      "type": "1",
+      "width": "104",
+      "height": "104"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Bananas and Raisins: Home Remedies Help Lower Heart Rate",
+   "htmlTitle": "Bananas and Raisins: Home Remedies Help \u003cb\u003eLower Heart Rate\u003c/b\u003e",
+   "link": "http://www.naturalnews.com/028744_raisins_heart_rate.html",
+   "displayLink": "www.naturalnews.com",
+   "snippet": "May 8, 2010 ... (NaturalNews) The heart rate, also known as pulse rate, is the number of times   the heart beats every minute. The normal heart rate for an adult ...",
+   "htmlSnippet": "May 8, 2010 \u003cb\u003e...\u003c/b\u003e (NaturalNews) The \u003cb\u003eheart rate\u003c/b\u003e, also known as pulse rate, is the number of times \u003cbr\u003e  the heart beats every minute. The normal \u003cb\u003eheart rate\u003c/b\u003e for an adult \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "NzZxNea-qpAJ",
+   "formattedUrl": "www.naturalnews.com/028744_raisins_heart_rate.html",
+   "htmlFormattedUrl": "www.naturalnews.com/028744_raisins_\u003cb\u003eheart\u003c/b\u003e_\u003cb\u003erate\u003c/b\u003e.html",
+   "pagemap": {
+    "metatags": [
+     {
+      "title": "Bananas and Raisins: Home Remedies Help Lower Heart Rate",
+      "fb:app_id": "136224268059",
+      "fb:admins": "Marie Todd"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "What's the best way to lower my resting heart rate? - lower heart rate ...",
+   "htmlTitle": "What&#39;s the best way to lower my resting heart rate? - \u003cb\u003elower heart rate\u003c/b\u003e \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://ask.metafilter.com/56722/Whats-the-best-way-to-lower-my-resting-heart-rate",
+   "displayLink": "ask.metafilter.com",
+   "snippet": "I'm slightly overweight, and exersice just a few times a week. I've read ... Have   you had a physical exam done by a doctor to determine whether ...",
+   "htmlSnippet": "I&#39;m slightly overweight, and exersice just a few times a week. I&#39;ve read \u003cb\u003e...\u003c/b\u003e Have \u003cbr\u003e  you had a physical exam done by a doctor to determine whether \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "62cl3vfiAdMJ",
+   "formattedUrl": "ask.metafilter.com/.../Whats-the-best-way-to-lower-my-resting-heart-rate",
+   "htmlFormattedUrl": "ask.metafilter.com/.../Whats-the-best-way-to-\u003cb\u003elower\u003c/b\u003e-my-resting-\u003cb\u003eheart\u003c/b\u003e-\u003cb\u003erate\u003c/b\u003e",
+   "pagemap": {
+    "metatags": [
+     {
+      "readability-verification": "DCFfHJ4UQbMnfKaS453mfXvyeqtaeZwGSKSjFmv3"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "How to Lower Heart Rate - StressEraser -",
+   "htmlTitle": "How to \u003cb\u003eLower Heart Rate\u003c/b\u003e - StressEraser -",
+   "link": "http://stresseraser.com/how-to-lower-heart-rate/",
+   "displayLink": "stresseraser.com",
+   "snippet": "Symptoms of Stress. How to Lower Your Heart Rate. Stress is an adaptive   response. It's the body's \"fight or flight\" reaction to an event that is seen as   threatening.",
+   "htmlSnippet": "Symptoms of Stress. How to \u003cb\u003eLower\u003c/b\u003e Your \u003cb\u003eHeart Rate\u003c/b\u003e. Stress is an adaptive \u003cbr\u003e  response. It&#39;s the body&#39;s &quot;fight or flight&quot; reaction to an event that is seen as \u003cbr\u003e  threatening.",
+   "cacheId": "cszMBmBOxtsJ",
+   "formattedUrl": "stresseraser.com/how-to-lower-heart-rate/",
+   "htmlFormattedUrl": "stresseraser.com/how-to-\u003cb\u003elower\u003c/b\u003e-\u003cb\u003eheart\u003c/b\u003e-\u003cb\u003erate\u003c/b\u003e/",
+   "pagemap": {
+    "metatags": [
+     {
+      "og:title": "How to Lower Heart Rate - StressEraser -"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "How To Slow Heart Rate Immediately | LIVESTRONG.COM",
+   "htmlTitle": "How To \u003cb\u003eSlow Heart Rate\u003c/b\u003e Immediately | LIVESTRONG.COM",
+   "link": "http://www.livestrong.com/article/360377-how-to-slow-heart-rate-immediately/",
+   "displayLink": "www.livestrong.com",
+   "snippet": "Jan 19, 2011 ... How To Slow Heart Rate Immediately. You may experience a rapid heart rate, or   tachycardia, for several reasons. Stress and anxiety, physical ...",
+   "htmlSnippet": "Jan 19, 2011 \u003cb\u003e...\u003c/b\u003e How To \u003cb\u003eSlow Heart Rate\u003c/b\u003e Immediately. You may experience a rapid heart rate, or \u003cbr\u003e  tachycardia, for several reasons. Stress and anxiety, physical \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "nkMPRRx4GHkJ",
+   "formattedUrl": "www.livestrong.com/.../360377-how-to-slow-heart-rate-immediately/",
+   "htmlFormattedUrl": "www.livestrong.com/.../360377-how-to-\u003cb\u003eslow\u003c/b\u003e-\u003cb\u003eheart\u003c/b\u003e-\u003cb\u003erate\u003c/b\u003e-immediately/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://photos.demandstudios.com/getty/article/142/63/86503948_XS.jpg",
+      "type": "1",
+      "width": "183",
+      "height": "275"
+     }
+    ],
+    "metatags": [
+     {
+      "application-name": "LIVESTRONG.COM",
+      "ustatus": "1",
+      "category": "Fitness",
+      "contentid": "article_360377",
+      "og:image": "http://photos.demandstudios.com/getty/article/142/63/86503948_XS.jpg",
+      "og:title": "How to Slow Heart Rate Immediately",
+      "og:type": "article",
+      "pagetype": "article",
+      "studioid": "ba52108a-3938-416d-a695-575adc7868a0",
+      "subcategory": "Heart Rate Information",
+      "subsubcat": "Slow Heart Rate",
+      "cme2_hostname": "www.livestrong.com",
+      "api_server": "api.demandmedia.com",
+      "wa_lr": "en-US",
+      "siteid": "LIVC",
+      "ltvtag": "ca-livestrong_html%3Bart_sub_top_Heart_Rate_Information%2Carticle_top_fitness%7Cca-livestrong_html%3Bart_sub_bottom_Heart_Rate_Information%2Carticle_fitness",
+      "fb:app_id": "49285624359",
+      "og:site_name": "LIVESTRONG.COM",
+      "og:url": "http://www.livestrong.com/article/360377-how-to-slow-heart-rate-immediately/",
+      "msapplication-tooltip": "Empowering Life's Healthy Achievements",
+      "msapplication-window": "width=1500;height=900",
+      "msapplication-task": "name=MyPlate;action-uri=http://www.livestrong.com/myplate/;icon-uri=/media/images/ico/myplate.ico",
+      "msvalidate.01": "5F1B06EBE88583F1C05B9114514366ED"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Slow Heartbeat (Bradycardia)",
+   "htmlTitle": "\u003cb\u003eSlow\u003c/b\u003e Heartbeat (Bradycardia)",
+   "link": "http://www.hrsonline.org/patientinfo/symptomsdiagnosis/slowheart/",
+   "displayLink": "www.hrsonline.org",
+   "snippet": "A diagnosis of bradycardia means that your heart rate is slower than 60 beats per   minute, either occasionally or all the time. While a slow heart rate might be ...",
+   "htmlSnippet": "A diagnosis of bradycardia means that your heart rate is slower than 60 beats per \u003cbr\u003e  minute, either occasionally or all the time. While a \u003cb\u003eslow heart rate\u003c/b\u003e might be \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "664xjrpkxtMJ",
+   "formattedUrl": "www.hrsonline.org/patientinfo/symptomsdiagnosis/slowheart/",
+   "htmlFormattedUrl": "www.hrsonline.org/patientinfo/symptomsdiagnosis/\u003cb\u003eslowheart\u003c/b\u003e/",
+   "pagemap": {
+    "metatags": [
+     {
+      "datemodified": "2008-07-18"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "How to Reduce Heart Rate | eHow.com",
+   "htmlTitle": "How to \u003cb\u003eReduce Heart Rate\u003c/b\u003e | eHow.com",
+   "link": "http://www.ehow.com/how_5677967_reduce-heart-rate.html",
+   "displayLink": "www.ehow.com",
+   "snippet": "How to Reduce Heart Rate. The average adult has a resting heart rate between   60 and 100 beats per minute. A trained athlete is likely to have a heart rate as ...",
+   "htmlSnippet": "How to \u003cb\u003eReduce Heart Rate\u003c/b\u003e. The average adult has a resting heart rate between \u003cbr\u003e  60 and 100 beats per minute. A trained athlete is likely to have a heart rate as \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "DRvF5xxuXIcJ",
+   "formattedUrl": "www.ehow.com/how_5677967_reduce-heart-rate.html",
+   "htmlFormattedUrl": "www.ehow.com/how_5677967_\u003cb\u003ereduce\u003c/b\u003e-\u003cb\u003eheart\u003c/b\u003e-\u003cb\u003erate\u003c/b\u003e.html",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://v5-static.ehowcdn.com/media/vendor/facebook/og-images/fb_logo.jpg"
+     }
+    ],
+    "metatags": [
+     {
+      "y_key": "4d4cb4ef1ad334cb",
+      "alexaverifyid": "xlJch1oUHrXNtOQBpiuUCV0-rlc",
+      "msvalidate.01": "5F1B06EBE88583F1C05B9114514366ED",
+      "cachetime": "201207220314",
+      "articleid": "5677967",
+      "articletype": "professional",
+      "articletypeid": "Professional",
+      "author": "Thomas King",
+      "authorid": "2e397c32-ca3d-4a39-9009-d90aa3430bfb",
+      "publishdate": "11/22/2009 16:05:49",
+      "hasimages": "False",
+      "hasvideo": "False",
+      "center": "Health",
+      "centerid": "10",
+      "centerurl": "health",
+      "list": "Conditions & Treatments",
+      "listid": "1035",
+      "listurl": "conditions-treatments",
+      "category": "Heart Disease",
+      "categoryid": "3928",
+      "categoryurl": "heart-disease",
+      "articletitleurl": "http://www.ehow.com/how_5677967_reduce-heart-rate.html",
+      "studioid": "77f7e887-a17c-4db8-85c4-c5061e21eab6",
+      "contentid": "5677967",
+      "subcategory": "Conditions & Treatments",
+      "subsubcat": "Heart Disease",
+      "subpagetype": "how_to",
+      "exp_page": "ContentCuration-Test",
+      "wa_pchn": "Health",
+      "pagetype": "article",
+      "wa_lr": "en-US",
+      "siteid": "EHWC",
+      "exp_name": "desktop:default",
+      "wa_clvl": "1",
+      "wa_lgsrc": "1",
+      "og:image": "http://v5-static.ehowcdn.com/media/vendor/facebook/og-images/fb_logo.jpg",
+      "og:url": "http://www.ehow.com/how_5677967_reduce-heart-rate.html",
+      "og:type": "article",
+      "og:title": "How to Reduce Heart Rate",
+      "og:description": "The average adult has a resting heart rate between 60 and 100 beats per minute. A trained athlete is likely to have a heart rate as low as 40 to 60 beats per minute. Generally, a lower heart rate is desirable because it indicates that your heart is functioning efficiently. There are several ways in which you can lower your heart rate.",
+      "fb:app_id": "63203377906",
+      "fb:admins": "63203377906",
+      "fb:ttl": "604800",
+      "og:site_name": "eHow",
+      "format-detection": "telephone=no"
+     }
+    ],
+    "meta": [
+     {
+      "articletype": "professional"
+     }
+    ],
+    "breadcrumb": [
+     {
+      "url": "eHow",
+      "title": "eHow"
+     },
+     {
+      "url": "Healthcare",
+      "title": "Healthcare"
+     },
+     {
+      "url": "Cardiovascular Health",
+      "title": "Cardiovascular Health"
+     },
+     {
+      "url": "Heart Rate",
+      "title": "Heart Rate"
+     },
+     {
+      "url": "How to Reduce Heart Rate",
+      "title": "How to Reduce Heart Rate"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "All About Heart Rate (Pulse)",
+   "htmlTitle": "All About \u003cb\u003eHeart Rate\u003c/b\u003e (Pulse)",
+   "link": "http://www.heart.org/HEARTORG/Conditions/More/MyHeartandStrokeNews/All-About-Heart-Rate-Pulse_UCM_438850_Article.jsp",
+   "displayLink": "www.heart.org",
+   "snippet": "Apr 4, 2012 ... But a heart rate lower than 60 doesn't usually signal a medical problem. It could   be the result of taking a drug such as a beta blocker. A lower ...",
+   "htmlSnippet": "Apr 4, 2012 \u003cb\u003e...\u003c/b\u003e But a \u003cb\u003eheart rate lower\u003c/b\u003e than 60 doesn&#39;t usually signal a medical problem. It could \u003cbr\u003e  be the result of taking a drug such as a beta blocker. A \u003cb\u003elower\u003c/b\u003e \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "KoRsqYfJRlAJ",
+   "formattedUrl": "www.heart.org/HEARTORG/.../MyHeartandStrokeNews/All-About-Heart- Rate-Pulse_UCM_438850_Article.jsp",
+   "htmlFormattedUrl": "www.\u003cb\u003eheart\u003c/b\u003e.org/\u003cb\u003eHEART\u003c/b\u003eORG/.../My\u003cb\u003eHeart\u003c/b\u003eandStrokeNews/All-About-\u003cb\u003eHeart\u003c/b\u003e- \u003cb\u003eRate\u003c/b\u003e-Pulse_UCM_438850_Article.jsp",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.heart.org/idc/groups/heart-public/@wcm/@hcm/documents/image/ucm_438852@z_extracted~1/large.jpg",
+      "type": "1",
+      "width": "328",
+      "height": "143"
+     }
+    ]
+   }
+  }
+ ]
+}

@@ -1,0 +1,386 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "nextPage": [
+   {
+    "title": "Google Custom Search - inuyasha",
+    "totalResults": "2910000",
+    "searchTerms": "inuyasha",
+    "count": 10,
+    "startIndex": 21,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "017401104989814545383:mf4lavmtuva"
+   }
+  ],
+  "request": [
+   {
+    "title": "Google Custom Search - inuyasha",
+    "totalResults": "2910000",
+    "searchTerms": "inuyasha",
+    "count": 10,
+    "startIndex": 11,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "017401104989814545383:mf4lavmtuva"
+   }
+  ],
+  "previousPage": [
+   {
+    "title": "Google Custom Search - inuyasha",
+    "totalResults": "2910000",
+    "searchTerms": "inuyasha",
+    "count": 10,
+    "startIndex": 1,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "017401104989814545383:mf4lavmtuva"
+   }
+  ]
+ },
+ "context": {
+  "title": "College MetaSearch Comparison"
+ },
+ "searchInformation": {
+  "searchTime": 0.162856,
+  "formattedSearchTime": "0.16",
+  "totalResults": "2910000",
+  "formattedTotalResults": "2,910,000"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "Inuyasha.us",
+   "htmlTitle": "\u003cb\u003eInuyasha\u003c/b\u003e.us",
+   "link": "http://www.inuyasha.us/",
+   "displayLink": "www.inuyasha.us",
+   "snippet": "Italian & English site about Inuyasha! Info, news, episodes streaming & manga   summary, lyrics mp3 free download, videos, amv, image galleries, wallpapers, gif  , ...",
+   "htmlSnippet": "Italian &amp; English site about \u003cb\u003eInuyasha\u003c/b\u003e! Info, news, episodes streaming &amp; manga \u003cbr\u003e  summary, lyrics mp3 free download, videos, amv, image galleries, wallpapers, gif\u003cbr\u003e  , \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "4DVUS9PuSI8J",
+   "formattedUrl": "www.inuyasha.us/",
+   "htmlFormattedUrl": "www.\u003cb\u003einuyasha\u003c/b\u003e.us/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.inuyasha.us/App_Themes/inu.us/images/blank.gif",
+      "type": "1",
+      "width": "1",
+      "height": "1"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Inuyasha.nu",
+   "htmlTitle": "\u003cb\u003eInuyasha\u003c/b\u003e.nu",
+   "link": "http://inuyasha.nu/",
+   "displayLink": "inuyasha.nu",
+   "snippet": "Welcome to Fukai Mori, a site is dedicated to Inuyasha, a manga and anime   series by Rumiko Takahashi. You can find info, meet other fans in our forum and ...",
+   "htmlSnippet": "Welcome to Fukai Mori, a site is dedicated to \u003cb\u003eInuyasha\u003c/b\u003e, a manga and anime \u003cbr\u003e  series by Rumiko Takahashi. You can find info, meet other fans in our forum and \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "fNH0OslvqJcJ",
+   "formattedUrl": "inuyasha.nu/",
+   "htmlFormattedUrl": "\u003cb\u003einuyasha\u003c/b\u003e.nu/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://inuyasha.nu/files/videos/fanvids/inuyasha_mikomi.jpg",
+      "type": "1",
+      "width": "300",
+      "height": "168"
+     }
+    ],
+    "metatags": [
+     {
+      "author": "Yuzuki",
+      "viewport": "width=device-width,initial-scale=1"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Inuyasha FanFiction Archive | FanFiction",
+   "htmlTitle": "\u003cb\u003eInuyasha\u003c/b\u003e FanFiction Archive | FanFiction",
+   "link": "http://www.fanfiction.net/anime/Inuyasha/",
+   "displayLink": "www.fanfiction.net",
+   "snippet": "Anime/Manga: Inuyasha fanfiction archive with over 104061 stories. Come in to   read, write, review, and interact with other fans.",
+   "htmlSnippet": "Anime/Manga: \u003cb\u003eInuyasha\u003c/b\u003e fanfiction archive with over 104061 stories. Come in to \u003cbr\u003e  read, write, review, and interact with other fans.",
+   "formattedUrl": "www.fanfiction.net/anime/Inuyasha/",
+   "htmlFormattedUrl": "www.fanfiction.net/anime/\u003cb\u003eInuyasha\u003c/b\u003e/",
+   "pagemap": {
+    "metatags": [
+     {
+      "format-detection": "telephone=no",
+      "viewport": "width=device-width"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "InuYasha - MyAnimeList.net",
+   "htmlTitle": "\u003cb\u003eInuYasha\u003c/b\u003e - MyAnimeList.net",
+   "link": "http://myanimelist.net/anime/249/InuYasha",
+   "displayLink": "myanimelist.net",
+   "snippet": "InuYasha Information, InuYasha Reviews, Synonyms: Inu Yasha.",
+   "htmlSnippet": "\u003cb\u003eInuYasha\u003c/b\u003e Information, \u003cb\u003eInuYasha\u003c/b\u003e Reviews, Synonyms: Inu Yasha.",
+   "cacheId": "CxVMQ7gXvysJ",
+   "formattedUrl": "myanimelist.net/anime/249/InuYasha",
+   "htmlFormattedUrl": "myanimelist.net/anime/249/\u003cb\u003eInuYasha\u003c/b\u003e",
+   "pagemap": {
+    "metatags": [
+     {
+      "author": "Garrett Gyssler"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Inuyasha Fan - In Search of the Shikon Jewel",
+   "htmlTitle": "\u003cb\u003eInuyasha\u003c/b\u003e Fan - In Search of the Shikon Jewel",
+   "link": "http://www.inuyasha-fan.com/",
+   "displayLink": "www.inuyasha-fan.com",
+   "snippet": "Inuyasha Fan is home to a growing community of fans of the Inuyasha anime and   manga series.",
+   "htmlSnippet": "\u003cb\u003eInuyasha\u003c/b\u003e Fan is home to a growing community of fans of the \u003cb\u003eInuyasha\u003c/b\u003e anime and \u003cbr\u003e  manga series.",
+   "cacheId": "RqkcSAf5mx0J",
+   "formattedUrl": "www.inuyasha-fan.com/",
+   "htmlFormattedUrl": "www.\u003cb\u003einuyasha\u003c/b\u003e-fan.com/",
+   "pagemap": {
+    "metatags": [
+     {
+      "copyright": "Copyright 2007 Inuyasha-Fan.com"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Inuyasha: Episode Infinity - YouTube",
+   "htmlTitle": "\u003cb\u003eInuyasha\u003c/b\u003e: Episode Infinity - YouTube",
+   "link": "http://www.youtube.com/watch?v=Vf3Ji-9tiJo",
+   "displayLink": "www.youtube.com",
+   "snippet": "Mar 2, 2009 ... http://www.youtube.com/user/FrobmanAKATillman Frobman animated this video.   Watch his videos and read his comics at ...",
+   "htmlSnippet": "Mar 2, 2009 \u003cb\u003e...\u003c/b\u003e http://www.youtube.com/user/FrobmanAKATillman Frobman animated this video. \u003cbr\u003e  Watch his videos and read his comics at \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "lUx_ldmiyUMJ",
+   "formattedUrl": "www.youtube.com/watch?v=Vf3Ji-9tiJo",
+   "htmlFormattedUrl": "www.youtube.com/watch?v=Vf3Ji-9tiJo",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://i3.ytimg.com/vi/Vf3Ji-9tiJo/mqdefault.jpg",
+      "type": "1",
+      "width": "256",
+      "height": "144"
+     }
+    ],
+    "videoobject": [
+     {
+      "url": "http://www.youtube.com/watch?v=Vf3Ji-9tiJo",
+      "name": "Inuyasha: Episode Infinity",
+      "description": "http://www.youtube.com/user/FrobmanAKATillman Frobman animated this video. Watch his videos and read his comics at http://www.coolape.org/ Seriously. Cast: I...",
+      "duration": "PT7M26S",
+      "unlisted": "False",
+      "paid": "False",
+      "thumbnailurl": "http://i3.ytimg.com/vi/Vf3Ji-9tiJo/hqdefault.jpg",
+      "embedurl": "http://www.youtube.com/v/Vf3Ji-9tiJo?version=3&autohide=1",
+      "playertype": "Flash",
+      "width": "480",
+      "height": "360"
+     }
+    ],
+    "person": [
+     {
+      "url": "http://www.youtube.com/user/GanXingba"
+     }
+    ],
+    "metatags": [
+     {
+      "title": "Inuyasha: Episode Infinity",
+      "og:url": "http://www.youtube.com/watch?v=Vf3Ji-9tiJo",
+      "og:title": "Inuyasha: Episode Infinity",
+      "og:description": "http://www.youtube.com/user/FrobmanAKATillman Frobman animated this video. Watch his videos and read his comics at http://www.coolape.org/ Seriously. Cast: I...",
+      "og:type": "video",
+      "og:image": "http://i3.ytimg.com/vi/Vf3Ji-9tiJo/mqdefault.jpg",
+      "og:video": "http://www.youtube.com/v/Vf3Ji-9tiJo?version=3&autohide=1",
+      "og:video:type": "application/x-shockwave-flash",
+      "og:video:width": "480",
+      "og:video:height": "360",
+      "og:site_name": "YouTube",
+      "fb:app_id": "87741124305",
+      "twitter:player:width": "480",
+      "twitter:player:height": "360",
+      "attribution": "youtube_none/"
+     }
+    ],
+    "imageobject": [
+     {
+      "url": "http://i3.ytimg.com/vi/Vf3Ji-9tiJo/mqdefault.jpg",
+      "width": "320",
+      "height": "180"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "List of InuYasha characters - Wikipedia, the free encyclopedia",
+   "htmlTitle": "List of \u003cb\u003eInuYasha\u003c/b\u003e characters - Wikipedia, the free encyclopedia",
+   "link": "http://en.wikipedia.org/wiki/List_of_InuYasha_characters",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "The InuYasha manga and anime series were created by Rumiko Takahashi.   Most of the series takes place in a fictional version of Japan's Warring States   period ...",
+   "htmlSnippet": "The \u003cb\u003eInuYasha\u003c/b\u003e manga and anime series were created by Rumiko Takahashi. \u003cbr\u003e  Most of the series takes place in a fictional version of Japan&#39;s Warring States \u003cbr\u003e  period \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "ZrHOiWQJfskJ",
+   "formattedUrl": "en.wikipedia.org/wiki/List_of_InuYasha_characters",
+   "htmlFormattedUrl": "en.wikipedia.org/wiki/List_of_\u003cb\u003eInuYasha\u003c/b\u003e_characters",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://upload.wikimedia.org/wikipedia/en/thumb/2/2c/InuyashaGroup1.PNG/300px-InuyashaGroup1.PNG",
+      "type": "1",
+      "width": "240",
+      "height": "180"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "InuYasha - TV.com",
+   "htmlTitle": "\u003cb\u003eInuYasha\u003c/b\u003e - TV.com",
+   "link": "http://www.tv.com/shows/inuyasha/",
+   "displayLink": "www.tv.com",
+   "snippet": "InuYasha: Watch full length episodes & video clips. Read the latest InuYasha   episode guides & recaps, fan reviews, news, and much more.",
+   "htmlSnippet": "\u003cb\u003eInuYasha\u003c/b\u003e: Watch full length episodes &amp; video clips. Read the latest \u003cb\u003eInuYasha\u003c/b\u003e \u003cbr\u003e  episode guides &amp; recaps, fan reviews, news, and much more.",
+   "cacheId": "mse8hUi5wu4J",
+   "formattedUrl": "www.tv.com/shows/inuyasha/",
+   "htmlFormattedUrl": "www.tv.com/shows/\u003cb\u003einuyasha\u003c/b\u003e/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://static.tvtome.com/images/genie_images/gumballs/2006/s/starblazers_gum.jpg",
+      "type": "1",
+      "width": "112",
+      "height": "64"
+     }
+    ],
+    "tvepisode": [
+     {
+      "episodenumber": "26",
+      "url": "Toward Tomorrow",
+      "name": "Toward Tomorrow"
+     }
+    ],
+    "aggregaterating": [
+     {
+      "ratingvalue": "8.8",
+      "bestrating": "10",
+      "ratingcount": "6,031 votes"
+     }
+    ],
+    "tvseries": [
+     {
+      "name": "InuYasha",
+      "image": "http://im0n.clkimg.com/i/sm/015/15558.jpg",
+      "description": "Kagome Higurashi is a modern day young girl who lives with her family by the old Higure shrine. Unbeknownst to Kagome, she is the reincarnation of priestess Kikyo and possesses the \"Jewel of..."
+     }
+    ],
+    "metatags": [
+     {
+      "author": "TV.com",
+      "copyright": "© 2010 TV.com",
+      "og:site_name": "TV.com",
+      "fb:app_id": "63749637650",
+      "og:url": "http://www.tv.com/shows/inuyasha/",
+      "og:image": "http://im0n.clkimg.com/i/sm/015/15558.jpg",
+      "og:title": "InuYasha",
+      "og:type": "tv_show"
+     }
+    ],
+    "moviereview": [
+     {
+      "ratingstars": "4.5",
+      "best": "10",
+      "originalrating": "8.8",
+      "votes": "6,031 votes",
+      "image_href": "http://im0n.clkimg.com/i/sm/015/15558.jpg",
+      "name": "InuYasha",
+      "summary": "Kagome Higurashi is a modern day young girl who lives with her family by the old Higure shrine. Unbeknownst to Kagome, she is the reincarnation of priestess..."
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Inuyasha - InuYasha Wiki - a Wikia wiki",
+   "htmlTitle": "\u003cb\u003eInuyasha\u003c/b\u003e - \u003cb\u003eInuYasha\u003c/b\u003e Wiki - a Wikia wiki",
+   "link": "http://inuyasha.wikia.com/wiki/Inuyasha",
+   "displayLink": "inuyasha.wikia.com",
+   "snippet": "was the title character and one of the main protagonists of the InuYasha series.   As the son of a...",
+   "htmlSnippet": "was the title character and one of the main protagonists of the \u003cb\u003eInuYasha\u003c/b\u003e series. \u003cbr\u003e  As the son of a...",
+   "cacheId": "AIkAxCQcYAUJ",
+   "formattedUrl": "inuyasha.wikia.com/wiki/Inuyasha",
+   "htmlFormattedUrl": "\u003cb\u003einuyasha\u003c/b\u003e.wikia.com/wiki/\u003cb\u003eInuyasha\u003c/b\u003e",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://images3.wikia.nocookie.net/__cb56859/inuyasha/images/thumb/b/bb/Mrs_Ikeda.png/100px-81,562,0,480-Mrs_Ikeda.png",
+      "type": "1",
+      "width": "80",
+      "height": "80"
+     }
+    ],
+    "article": [
+     {
+      "type": "article",
+      "site_name": "InuYasha",
+      "title": "Inuyasha",
+      "image": "http://images3.wikia.nocookie.net/__cb20120523064440/inuyasha/images/thumb/4/41/InuYasha.png/178px-InuYasha.png",
+      "description": "was the title character and one of the main protagonists of the InuYasha series. As the son of a...",
+      "url": "http://inuyasha.wikia.com/wiki/Inuyasha",
+      "app_id": "112328095453510"
+     }
+    ],
+    "metatags": [
+     {
+      "viewport": "width=1200",
+      "og:type": "article",
+      "og:site_name": "InuYasha",
+      "og:title": "Inuyasha",
+      "og:image": "http://images3.wikia.nocookie.net/__cb20120523064440/inuyasha/images/thumb/4/41/InuYasha.png/178px-InuYasha.png",
+      "og:description": "was the title character and one of the main protagonists of the InuYasha series. As the son of a...",
+      "og:url": "http://inuyasha.wikia.com/wiki/Inuyasha",
+      "fb:app_id": "112328095453510"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Baka-Updates Manga - InuYasha",
+   "htmlTitle": "Baka-Updates Manga - \u003cb\u003eInuYasha\u003c/b\u003e",
+   "link": "http://www.mangaupdates.com/series.html?id=1048",
+   "displayLink": "www.mangaupdates.com",
+   "snippet": "InuYasha. Login to add items to your list, keep track of your progress, and rate ...   In 2002 Inuyasha won the Shogakukan Manga Award for best shōnen title of the ...",
+   "htmlSnippet": "\u003cb\u003eInuYasha\u003c/b\u003e. Login to add items to your list, keep track of your progress, and rate \u003cb\u003e...\u003c/b\u003e \u003cbr\u003e  In 2002 \u003cb\u003eInuyasha\u003c/b\u003e won the Shogakukan Manga Award for best shōnen title of the \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "JqPVUiY0cUQJ",
+   "formattedUrl": "www.mangaupdates.com/series.html?id=1048",
+   "htmlFormattedUrl": "www.mangaupdates.com/series.html?id=1048",
+   "pagemap": {
+    "metatags": [
+     {
+      "author": "Manick(Code&Html)JYT(Design)"
+     }
+    ]
+   }
+  }
+ ]
+}

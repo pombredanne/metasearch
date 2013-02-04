@@ -1,0 +1,289 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "nextPage": [
+   {
+    "title": "Google Custom Search - diversity",
+    "totalResults": "21900000",
+    "searchTerms": "diversity",
+    "count": 10,
+    "startIndex": 91,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "017401104989814545383:mf4lavmtuva"
+   }
+  ],
+  "request": [
+   {
+    "title": "Google Custom Search - diversity",
+    "totalResults": "21900000",
+    "searchTerms": "diversity",
+    "count": 10,
+    "startIndex": 81,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "017401104989814545383:mf4lavmtuva"
+   }
+  ],
+  "previousPage": [
+   {
+    "title": "Google Custom Search - diversity",
+    "totalResults": "21900000",
+    "searchTerms": "diversity",
+    "count": 10,
+    "startIndex": 71,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "017401104989814545383:mf4lavmtuva"
+   }
+  ]
+ },
+ "context": {
+  "title": "College MetaSearch Comparison"
+ },
+ "searchInformation": {
+  "searchTime": 0.323728,
+  "formattedSearchTime": "0.32",
+  "totalResults": "21900000",
+  "formattedTotalResults": "21,900,000"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "Dante Lee International | Diversity City Media",
+   "htmlTitle": "Dante Lee International | \u003cb\u003eDiversity\u003c/b\u003e City Media",
+   "link": "http://www.dantelee.com/",
+   "displayLink": "www.dantelee.com",
+   "snippet": "Formerly known as Diversity City Media, the company is an award-winning   marketing and PR firm that owns and produces various web properties including ...",
+   "htmlSnippet": "Formerly known as \u003cb\u003eDiversity\u003c/b\u003e City Media, the company is an award-winning \u003cbr\u003e  marketing and PR firm that owns and produces various web properties including \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "87a7BL6_9SQJ",
+   "formattedUrl": "www.dantelee.com/",
+   "htmlFormattedUrl": "www.dantelee.com/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.dantelee.com/images/fa_properties.gif",
+      "type": "1",
+      "width": "225",
+      "height": "148"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Vault/MCCA Law Firm Diversity Database",
+   "htmlTitle": "Vault/MCCA Law Firm \u003cb\u003eDiversity\u003c/b\u003e Database",
+   "link": "http://mcca.vault.com/",
+   "displayLink": "mcca.vault.com",
+   "snippet": "Law Firm Diversity Database. Vault is proud to partner with the Minority   Corporate Counsel Association (MCCA) — a leading advocate for the expanded   hiring, ...",
+   "htmlSnippet": "Law Firm \u003cb\u003eDiversity\u003c/b\u003e Database. Vault is proud to partner with the Minority \u003cbr\u003e  Corporate Counsel Association (MCCA) — a leading advocate for the expanded \u003cbr\u003e  hiring, \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "OLjRV-fKlKoJ",
+   "formattedUrl": "mcca.vault.com/",
+   "htmlFormattedUrl": "mcca.vault.com/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://mcca.vault.com/images/header-vault-logo.jpg",
+      "type": "1",
+      "width": "119",
+      "height": "49"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "AMERICAN DIVERSITY REPORT",
+   "htmlTitle": "AMERICAN \u003cb\u003eDIVERSITY\u003c/b\u003e REPORT",
+   "link": "http://www.americandiversityreport.com/",
+   "displayLink": "www.americandiversityreport.com",
+   "snippet": "American Diversity Report is a creative resource for cultural diversity and global   leadership.",
+   "htmlSnippet": "American \u003cb\u003eDiversity\u003c/b\u003e Report is a creative resource for cultural \u003cb\u003ediversity\u003c/b\u003e and global \u003cbr\u003e  leadership.",
+   "cacheId": "BaJA2ieE7ekJ",
+   "formattedUrl": "www.americandiversityreport.com/",
+   "htmlFormattedUrl": "www.american\u003cb\u003ediversity\u003c/b\u003ereport.com/",
+   "pagemap": {
+    "metatags": [
+     {
+      "alexaverifyid": "Shvj2GGJPeHkrzWuR_W4homKiVs",
+      "msvalidate.01": "5EEA2119A9835A9CD471E07872226502"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Welcome to the Diversity Alliance for Science Organization",
+   "htmlTitle": "Welcome to the \u003cb\u003eDiversity\u003c/b\u003e Alliance for Science Organization",
+   "link": "http://www.diversityallianceforscience.com/",
+   "displayLink": "www.diversityallianceforscience.com",
+   "snippet": "The DA4S focuses on identifying, developing and increase spend with certified   minority suppliers in the following and/or relevant areas:Clinical research ...",
+   "htmlSnippet": "The DA4S focuses on identifying, developing and increase spend with certified \u003cbr\u003e  minority suppliers in the following and/or relevant areas:Clinical research \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "OCWzMhYDsmEJ",
+   "formattedUrl": "www.diversityallianceforscience.com/",
+   "htmlFormattedUrl": "www.\u003cb\u003ediversity\u003c/b\u003eallianceforscience.com/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.diversityallianceforscience.com/images/HOMEPAGE/BretMichaelsGuitar.jpg",
+      "type": "1",
+      "width": "187",
+      "height": "240"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Diversity index - Wikipedia, the free encyclopedia",
+   "htmlTitle": "\u003cb\u003eDiversity\u003c/b\u003e index - Wikipedia, the free encyclopedia",
+   "link": "http://en.wikipedia.org/wiki/Diversity_index",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "A diversity index is a quantitative measure that increases when the number of   types into which a set of entities has been classified increases, and obtains its ...",
+   "htmlSnippet": "A \u003cb\u003ediversity\u003c/b\u003e index is a quantitative measure that increases when the number of \u003cbr\u003e  types into which a set of entities has been classified increases, and obtains its \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "oiw8bhpIJy4J",
+   "formattedUrl": "en.wikipedia.org/wiki/Diversity_index",
+   "htmlFormattedUrl": "en.wikipedia.org/wiki/\u003cb\u003eDiversity\u003c/b\u003e_index",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://upload.wikimedia.org/wikipedia/en/math/4/e/4/4e4329a23e0cf7d3cfa15c2911524bc5.png",
+      "type": "1",
+      "width": "142",
+      "height": "44"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Amazon.com: Readings for Diversity and Social Justice: An ...",
+   "htmlTitle": "Amazon.com: Readings for \u003cb\u003eDiversity\u003c/b\u003e and Social Justice: An \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://www.amazon.com/Readings-Diversity-Social-Justice-Antisemitism/dp/0415926343",
+   "displayLink": "www.amazon.com",
+   "snippet": "Readings for Diversity and Social Justice: An Anthology on Racism, Antisemitism,   Sexism, Heterosexism, Ableism, and Classism [Maurianne Adams, Warren J.",
+   "htmlSnippet": "Readings for \u003cb\u003eDiversity\u003c/b\u003e and Social Justice: An Anthology on Racism, Antisemitism, \u003cbr\u003e  Sexism, Heterosexism, Ableism, and Classism [Maurianne Adams, Warren J.",
+   "cacheId": "yyjQGH6bVXEJ",
+   "formattedUrl": "www.amazon.com/Readings-Diversity-Social-Justice.../0415926343",
+   "htmlFormattedUrl": "www.amazon.com/Readings-\u003cb\u003eDiversity\u003c/b\u003e-Social-Justice.../0415926343",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://ecx.images-amazon.com/images/I/51aaluef92L._BO2,204,203,200_PIsitb-sticker-arrow-click,TopRight,35,-76_AA300_SH20_OU01_.jpg"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "225",
+      "height": "225",
+      "src": "https://encrypted-tbn3.google.com/images?q=tbn:ANd9GcQSu97wDu1BDDk0ml9PDXrBqut3u4RTp6hYC7xqk1hECZiZ1AEH_a1YBAUI"
+     }
+    ],
+    "scraped": [
+     {
+      "image_link": "http://ecx.images-amazon.com/images/I/51aaluef92L._BO2,204,203,200_PIsitb-sticker-arrow-click,TopRight,35,-76_AA300_SH20_OU01_.jpg"
+     }
+    ],
+    "metatags": [
+     {
+      "title": "Amazon.com: Readings for Diversity and Social Justice: An Anthology on Racism, Antisemitism, Sexism, Heterosexism, Ableism, and Classism (9780415926348): Maurianne Adams, Warren J. Blumenfeld, Carmelita (Rosie) Castañeda, Heather W. Hackman, Madeline L. Peters, Ximena Zúñiga: Books"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Diversity Jobs USA",
+   "htmlTitle": "\u003cb\u003eDiversity\u003c/b\u003e Jobs USA",
+   "link": "http://www.diversityjobsusa.com/",
+   "displayLink": "www.diversityjobsusa.com",
+   "snippet": "Building on the Promise of Diversity: How We Can Move to the Next Level in Our   Workplaces, Our Communities, and Our Society. Executives are realizing that a ...",
+   "htmlSnippet": "Building on the Promise of \u003cb\u003eDiversity\u003c/b\u003e: How We Can Move to the Next Level in Our \u003cbr\u003e  Workplaces, Our Communities, and Our Society. Executives are realizing that a \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "ZmjWzTptQogJ",
+   "formattedUrl": "www.diversityjobsusa.com/",
+   "htmlFormattedUrl": "www.\u003cb\u003ediversity\u003c/b\u003ejobsusa.com/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.diversityjobsusa.com/images/home-job-expos.jpg",
+      "type": "1",
+      "width": "208",
+      "height": "132"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Diversity Associates",
+   "htmlTitle": "\u003cb\u003eDiversity\u003c/b\u003e Associates",
+   "link": "http://www.diversityassociates.com/",
+   "displayLink": "www.diversityassociates.com",
+   "snippet": "Our success has been in the placement of Software, Hardware, Networking,   Technical Sales $ Marketing, and Manufacturing professionals since 1981.",
+   "htmlSnippet": "Our success has been in the placement of Software, Hardware, Networking, \u003cbr\u003e  Technical Sales $ Marketing, and Manufacturing professionals since 1981.",
+   "cacheId": "EkRX9HAyy_oJ",
+   "formattedUrl": "www.diversityassociates.com/",
+   "htmlFormattedUrl": "www.\u003cb\u003ediversity\u003c/b\u003eassociates.com/",
+   "pagemap": {
+    "metatags": [
+     {
+      "progid": "Word.Document",
+      "originator": "Microsoft Word 11"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "DiversityWeb - A Resource Hub for Higher Education",
+   "htmlTitle": "DiversityWeb - A Resource Hub for Higher Education",
+   "link": "http://www.diversityweb.org/",
+   "displayLink": "www.diversityweb.org",
+   "snippet": "compendium of resources on diversity in higher education.",
+   "htmlSnippet": "compendium of resources on \u003cb\u003ediversity\u003c/b\u003e in higher education.",
+   "cacheId": "16PC1pKoj_cJ",
+   "formattedUrl": "www.diversityweb.org/",
+   "htmlFormattedUrl": "www.\u003cb\u003ediversity\u003c/b\u003eweb.org/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.diversityweb.org/images/front_page_photos/1.jpg",
+      "type": "1",
+      "width": "175",
+      "height": "288"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Earth Floor: Diversity",
+   "htmlTitle": "Earth Floor: \u003cb\u003eDiversity\u003c/b\u003e",
+   "link": "http://www.cotf.edu/ete/modules/msese/earthsysflr/diversity.html",
+   "displayLink": "www.cotf.edu",
+   "snippet": "Scientists use the words \"diversity,\" or \"biodiversity,\" to describe different aspects   of the variety of life forms all around us. Species diversity describes the number ...",
+   "htmlSnippet": "Scientists use the words &quot;\u003cb\u003ediversity\u003c/b\u003e,&quot; or &quot;biodiversity,&quot; to describe different aspects \u003cbr\u003e  of the variety of life forms all around us. Species \u003cb\u003ediversity\u003c/b\u003e describes the number \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "P8QmNBpPEqoJ",
+   "formattedUrl": "www.cotf.edu/ete/modules/msese/earthsysflr/diversity.html",
+   "htmlFormattedUrl": "www.cotf.edu/ete/modules/msese/earthsysflr/\u003cb\u003ediversity\u003c/b\u003e.html",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.cotf.edu/ete/images/modules/msese/earthsysflr/EFDiversityP1.jpg",
+      "type": "1",
+      "width": "100",
+      "height": "98"
+     }
+    ]
+   }
+  }
+ ]
+}

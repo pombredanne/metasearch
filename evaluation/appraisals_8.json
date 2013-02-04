@@ -1,0 +1,260 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "nextPage": [
+   {
+    "title": "Google Custom Search - appraisals",
+    "totalResults": "15400000",
+    "searchTerms": "appraisals",
+    "count": 10,
+    "startIndex": 91,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "017401104989814545383:mf4lavmtuva"
+   }
+  ],
+  "request": [
+   {
+    "title": "Google Custom Search - appraisals",
+    "totalResults": "15400000",
+    "searchTerms": "appraisals",
+    "count": 10,
+    "startIndex": 81,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "017401104989814545383:mf4lavmtuva"
+   }
+  ],
+  "previousPage": [
+   {
+    "title": "Google Custom Search - appraisals",
+    "totalResults": "15400000",
+    "searchTerms": "appraisals",
+    "count": 10,
+    "startIndex": 71,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "017401104989814545383:mf4lavmtuva"
+   }
+  ]
+ },
+ "context": {
+  "title": "College MetaSearch Comparison"
+ },
+ "searchInformation": {
+  "searchTime": 0.215746,
+  "formattedSearchTime": "0.22",
+  "totalResults": "15400000",
+  "formattedTotalResults": "15,400,000"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "Townsend Appraisals",
+   "htmlTitle": "Townsend \u003cb\u003eAppraisals\u003c/b\u003e",
+   "link": "http://townsendappraisalsinc.com/",
+   "displayLink": "townsendappraisalsinc.com",
+   "snippet": "Southwest Florida firm provides details on insurance valuations for associations,   cooperatives, and businesses; includes summary of qualifications, an overview ...",
+   "htmlSnippet": "Southwest Florida firm provides details on insurance valuations for associations, \u003cbr\u003e  cooperatives, and businesses; includes summary of qualifications, an overview \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "Yy-ouS1WhJwJ",
+   "formattedUrl": "townsendappraisalsinc.com/",
+   "htmlFormattedUrl": "townsend\u003cb\u003eappraisals\u003c/b\u003einc.com/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://townsendappraisalsinc.com/images/234_cardimage2.JPG",
+      "type": "1",
+      "width": "187",
+      "height": "158"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "New Jersey Appraisals Commercial Real Estate - Ard Appraisal ...",
+   "htmlTitle": "New Jersey \u003cb\u003eAppraisals\u003c/b\u003e Commercial Real Estate - Ard \u003cb\u003eAppraisal\u003c/b\u003e \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://www.ardappraisal.com/",
+   "displayLink": "www.ardappraisal.com",
+   "snippet": "NJ, NY & PA commercial real estate, estate and bank appraisals for attorneys,   lenders, accountants and government agencies.",
+   "htmlSnippet": "NJ, NY &amp; PA commercial real estate, estate and bank \u003cb\u003eappraisals\u003c/b\u003e for attorneys, \u003cbr\u003e  lenders, accountants and government agencies.",
+   "formattedUrl": "www.ardappraisal.com/",
+   "htmlFormattedUrl": "www.ard\u003cb\u003eappraisal\u003c/b\u003e.com/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.ardappraisal.com/images/carousel02.jpg",
+      "type": "1",
+      "width": "335",
+      "height": "150"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Welcome to Nagell Appraisal & Consulting, providing appraisal ...",
+   "htmlTitle": "Welcome to Nagell \u003cb\u003eAppraisal\u003c/b\u003e &amp; Consulting, providing \u003cb\u003eappraisal\u003c/b\u003e \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://callnagell.com/",
+   "displayLink": "callnagell.com",
+   "snippet": "Minnesota is the home of Nagell Appraisal & Consulting, where we provide a   complete range of realty services, including data, consulting and appraisals.",
+   "htmlSnippet": "Minnesota is the home of Nagell \u003cb\u003eAppraisal\u003c/b\u003e &amp; Consulting, where we provide a \u003cbr\u003e  complete range of realty services, including data, consulting and \u003cb\u003eappraisals\u003c/b\u003e.",
+   "cacheId": "gLgeEi_HKTsJ",
+   "formattedUrl": "callnagell.com/",
+   "htmlFormattedUrl": "callnagell.com/"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Corbett Auctions And Appraisals | Boise and Southwest Idaho | Real ...",
+   "htmlTitle": "Corbett Auctions And \u003cb\u003eAppraisals\u003c/b\u003e | Boise and Southwest Idaho | Real \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://www.corbettauctions.com/",
+   "displayLink": "www.corbettauctions.com",
+   "snippet": "Licensed and insured, Auctioneer, Appraiser, Real Estate professionals serving   Idaho, Oregon and Washington.",
+   "htmlSnippet": "Licensed and insured, Auctioneer, Appraiser, Real Estate professionals serving \u003cbr\u003e  Idaho, Oregon and Washington.",
+   "cacheId": "46fJUMa42K8J",
+   "formattedUrl": "www.corbettauctions.com/",
+   "htmlFormattedUrl": "www.corbettauctions.com/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.corbettauctions.com/resizer.asp?path=D:%5Chosting%5C5025809%5Chtml%5Ccorbettauctions%5CcomPics%5C139logo.jpg&width=150",
+      "type": "1",
+      "width": "120",
+      "height": "134"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Real Estate Appraisal, Atlanta, GA - Appraisals of North Atlanta",
+   "htmlTitle": "Real Estate \u003cb\u003eAppraisal\u003c/b\u003e, Atlanta, GA - \u003cb\u003eAppraisals\u003c/b\u003e of North Atlanta",
+   "link": "http://appraiserusa.com/atlantanw/",
+   "displayLink": "appraiserusa.com",
+   "snippet": "Appraisals of North Atlanta provides real estate appraisals for the 13 county   metro Atlanta, GA area.",
+   "htmlSnippet": "\u003cb\u003eAppraisals\u003c/b\u003e of North Atlanta provides real estate \u003cb\u003eappraisals\u003c/b\u003e for the 13 county \u003cbr\u003e  metro Atlanta, GA area.",
+   "cacheId": "NYhgOL9kBuEJ",
+   "formattedUrl": "appraiserusa.com/atlantanw/",
+   "htmlFormattedUrl": "appraiserusa.com/atlantanw/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://appraiserusa.com/atlantanw/photo.jpg",
+      "type": "1",
+      "width": "140",
+      "height": "104"
+     }
+    ],
+    "metatags": [
+     {
+      "author": "Wayne McKerley, All Rights Reserved, Copyright 1998"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Estate Sales & Appraisals",
+   "htmlTitle": "Estate Sales &amp; \u003cb\u003eAppraisals\u003c/b\u003e",
+   "link": "http://www.okcestatesales.com/",
+   "displayLink": "www.okcestatesales.com",
+   "snippet": "Ours is a full service estate liquidation and personal property appraisal company   based in central Oklahoma.",
+   "htmlSnippet": "Ours is a full service estate liquidation and personal property \u003cb\u003eappraisal\u003c/b\u003e company \u003cbr\u003e  based in central Oklahoma.",
+   "cacheId": "Cvd_laf31_8J",
+   "formattedUrl": "www.okcestatesales.com/",
+   "htmlFormattedUrl": "www.okcestatesales.com/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.okcestatesales.com/wp-content/uploads/2010/10/home.png",
+      "type": "1",
+      "width": "391",
+      "height": "129"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Brandlin Appraisal Service - Home",
+   "htmlTitle": "Brandlin \u003cb\u003eAppraisal\u003c/b\u003e Service - Home",
+   "link": "http://www.brandlinappraisals.com/",
+   "displayLink": "www.brandlinappraisals.com",
+   "snippet": "Brandlin Appraisal Service is a Professional Real Estate Appraisal Firm   specializing in residential properties including large custom homes and estates   in the ...",
+   "htmlSnippet": "Brandlin \u003cb\u003eAppraisal\u003c/b\u003e Service is a Professional Real Estate \u003cb\u003eAppraisal\u003c/b\u003e Firm \u003cbr\u003e  specializing in residential properties including large custom homes and estates \u003cbr\u003e  in the \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "Qh9VhMb4ucAJ",
+   "formattedUrl": "www.brandlinappraisals.com/",
+   "htmlFormattedUrl": "www.brandlin\u003cb\u003eappraisals\u003c/b\u003e.com/",
+   "pagemap": {
+    "metatags": [
+     {
+      "author": "Jeremy"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "National Aircraft Appraisers Association",
+   "htmlTitle": "National Aircraft Appraisers Association",
+   "link": "http://www.plane-values.com/",
+   "displayLink": "www.plane-values.com",
+   "snippet": "The primary mission of NAAA members is to provide you with a prompt, accurate   aircraft appraisal at a reasonable price. The Association's computer software ...",
+   "htmlSnippet": "The primary mission of NAAA members is to provide you with a prompt, accurate \u003cbr\u003e  aircraft \u003cb\u003eappraisal\u003c/b\u003e at a reasonable price. The Association&#39;s computer software \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "3aEukm3Is_gJ",
+   "formattedUrl": "www.plane-values.com/",
+   "htmlFormattedUrl": "www.plane-values.com/"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "PPC Appraisals",
+   "htmlTitle": "PPC \u003cb\u003eAppraisals\u003c/b\u003e",
+   "link": "http://www.ppcappraisals.com/",
+   "displayLink": "www.ppcappraisals.com",
+   "snippet": "Estate Sale and Appraisal Specialists. ... Let Personal Property Consultants'   answer your questions regarding appraisals and help you determine the true   value ...",
+   "htmlSnippet": "Estate Sale and \u003cb\u003eAppraisal\u003c/b\u003e Specialists. \u003cb\u003e...\u003c/b\u003e Let Personal Property Consultants&#39; \u003cbr\u003e  answer your questions regarding \u003cb\u003eappraisals\u003c/b\u003e and help you determine the true \u003cbr\u003e  value \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "CnZ5ysQEH84J",
+   "formattedUrl": "www.ppcappraisals.com/",
+   "htmlFormattedUrl": "www.ppc\u003cb\u003eappraisals\u003c/b\u003e.com/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.ppcappraisals.com/images/Mansion.jpg",
+      "type": "1",
+      "width": "136",
+      "height": "104"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Foss Appraisal Service -Seattle's Choice for Antique Appraisals ...",
+   "htmlTitle": "Foss \u003cb\u003eAppraisal\u003c/b\u003e Service -Seattle&#39;s Choice for Antique \u003cb\u003eAppraisals\u003c/b\u003e \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://fossappraisal.com/",
+   "displayLink": "fossappraisal.com",
+   "snippet": "Foss Appraisal Service offers antique appraisals for antique furniture, fine art,   antique silver in the Seattle, Bellevue, Mercer Island, Tacoma, Kirkland, Issaquah ...",
+   "htmlSnippet": "Foss \u003cb\u003eAppraisal\u003c/b\u003e Service offers antique \u003cb\u003eappraisals\u003c/b\u003e for antique furniture, fine art, \u003cbr\u003e  antique silver in the Seattle, Bellevue, Mercer Island, Tacoma, Kirkland, Issaquah \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "QhTDjJkdMJsJ",
+   "formattedUrl": "fossappraisal.com/",
+   "htmlFormattedUrl": "foss\u003cb\u003eappraisal\u003c/b\u003e.com/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://fossappraisal.com/square-silver.jpg",
+      "type": "1",
+      "width": "201",
+      "height": "150"
+     }
+    ]
+   }
+  }
+ ]
+}

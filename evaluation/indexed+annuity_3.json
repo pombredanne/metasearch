@@ -1,0 +1,258 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "nextPage": [
+   {
+    "title": "Google Custom Search - indexed annuity",
+    "totalResults": "82400",
+    "searchTerms": "indexed annuity",
+    "count": 10,
+    "startIndex": 41,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "017401104989814545383:mf4lavmtuva"
+   }
+  ],
+  "request": [
+   {
+    "title": "Google Custom Search - indexed annuity",
+    "totalResults": "82400",
+    "searchTerms": "indexed annuity",
+    "count": 10,
+    "startIndex": 31,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "017401104989814545383:mf4lavmtuva"
+   }
+  ],
+  "previousPage": [
+   {
+    "title": "Google Custom Search - indexed annuity",
+    "totalResults": "82400",
+    "searchTerms": "indexed annuity",
+    "count": 10,
+    "startIndex": 21,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "017401104989814545383:mf4lavmtuva"
+   }
+  ]
+ },
+ "context": {
+  "title": "College MetaSearch Comparison"
+ },
+ "searchInformation": {
+  "searchTime": 0.133278,
+  "formattedSearchTime": "0.13",
+  "totalResults": "82400",
+  "formattedTotalResults": "82,400"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "Equity-Indexed Annuities: A Costly Way To Limit Your Losses ...",
+   "htmlTitle": "Equity-\u003cb\u003eIndexed Annuities\u003c/b\u003e: A Costly Way To Limit Your Losses \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://www.forbes.com/2009/06/05/equity-indexed-annuities-personal-finance.html",
+   "displayLink": "www.forbes.com",
+   "snippet": "Jun 5, 2009 ... Their unsexy name aside, there's something undeniably seductive about equity-  indexed annuities (EIA). Sold by insurance companies, these ...",
+   "htmlSnippet": "Jun 5, 2009 \u003cb\u003e...\u003c/b\u003e Their unsexy name aside, there&#39;s something undeniably seductive about equity-\u003cbr\u003e  \u003cb\u003eindexed annuities\u003c/b\u003e (EIA). Sold by insurance companies, these \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "TRBHZo9nTxkJ",
+   "formattedUrl": "www.forbes.com/.../equity-indexed-annuities-personal-finance.html",
+   "htmlFormattedUrl": "www.forbes.com/.../equity-\u003cb\u003eindexed\u003c/b\u003e-\u003cb\u003eannuities\u003c/b\u003e-personal-finance.html",
+   "pagemap": {
+    "metatags": [
+     {
+      "hidden": "no",
+      "time": "05:35:38",
+      "headline": "Equity-Indexed Annuities: A Costly Way To Limit Your Losses",
+      "channel": "personalFinance",
+      "strap": "Personal Finance",
+      "pub_date": "20090605",
+      "mediatype": "story",
+      "author": "Scott Woolley"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Lincoln Financial - Financial Products - Fixed Indexed Annuities",
+   "htmlTitle": "Lincoln Financial - Financial Products - Fixed \u003cb\u003eIndexed Annuities\u003c/b\u003e",
+   "link": "http://www.lfg.com/lfg/acc/fprod/ann/indann/index.html",
+   "displayLink": "www.lfg.com",
+   "snippet": "Fixed indexed annuities from Lincoln offer a stable return based on a fixed   interest rate or tied to the performance of an outside index, or some combination   of ...",
+   "htmlSnippet": "Fixed \u003cb\u003eindexed annuities\u003c/b\u003e from Lincoln offer a stable return based on a fixed \u003cbr\u003e  interest rate or tied to the performance of an outside index, or some combination \u003cbr\u003e  of \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "kg1qHeGDhykJ",
+   "formattedUrl": "www.lfg.com/lfg/acc/fprod/ann/indann/index.html",
+   "htmlFormattedUrl": "www.lfg.com/lfg/acc/fprod/ann/indann/\u003cb\u003eindex\u003c/b\u003e.html",
+   "pagemap": {
+    "metatags": [
+     {
+      "clienttype": "acc",
+      "view": "acc"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Indexed Annuities",
+   "htmlTitle": "\u003cb\u003eIndexed Annuities\u003c/b\u003e",
+   "link": "http://www.annuityadvantage.com/in/indexed-annuities.htm",
+   "displayLink": "www.annuityadvantage.com",
+   "snippet": "Indexed annuities rates and quotes from over 40 different indexed annuities   insurance companies.",
+   "htmlSnippet": "\u003cb\u003eIndexed annuities\u003c/b\u003e rates and quotes from over 40 different \u003cb\u003eindexed annuities\u003c/b\u003e \u003cbr\u003e  insurance companies.",
+   "cacheId": "fBh5YC8wYW4J",
+   "formattedUrl": "www.annuityadvantage.com/in/indexed-annuities.htm",
+   "htmlFormattedUrl": "www.\u003cb\u003eannuity\u003c/b\u003eadvantage.com/in/\u003cb\u003eindexed\u003c/b\u003e-\u003cb\u003eannuities\u003c/b\u003e.htm",
+   "pagemap": {
+    "metatags": [
+     {
+      "progid": "FrontPage.Editor.Document",
+      "microsoft theme": "corporate2 000, default",
+      "microsoft border": "tl"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Equity Indexed Annuities: The Smart Consumer's Guide",
+   "htmlTitle": "Equity \u003cb\u003eIndexed Annuities\u003c/b\u003e: The Smart Consumer&#39;s Guide",
+   "link": "http://www.eiabook.com/",
+   "displayLink": "www.eiabook.com",
+   "snippet": "Equity-Indexed Annuities are a Fixed Annuity that Link to a Stock Index by a   Predetermined Formula.",
+   "htmlSnippet": "Equity-\u003cb\u003eIndexed Annuities\u003c/b\u003e are a Fixed Annuity that Link to a Stock Index by a \u003cbr\u003e  Predetermined Formula.",
+   "cacheId": "EQSILLevhosJ",
+   "formattedUrl": "www.eiabook.com/",
+   "htmlFormattedUrl": "www.eiabook.com/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.eiabook.com/images/EIA_Book.jpg",
+      "type": "1",
+      "width": "105",
+      "height": "160"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Equity-Indexed Annuities: The Magic Bullet? - The Smarter Investor ...",
+   "htmlTitle": "Equity-\u003cb\u003eIndexed Annuities\u003c/b\u003e: The Magic Bullet? - The Smarter Investor \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://money.usnews.com/money/blogs/the-smarter-mutual-fund-investor/2012/02/22/equity-indexed-annuities-the-magic-bullet",
+   "displayLink": "money.usnews.com",
+   "snippet": "Feb 22, 2012 ... My major beef with Equity-Indexed Annuities (EIAs) and related products with   similar names is the way they are sold. This often involves ...",
+   "htmlSnippet": "Feb 22, 2012 \u003cb\u003e...\u003c/b\u003e My major beef with Equity-\u003cb\u003eIndexed Annuities\u003c/b\u003e (EIAs) and related products with \u003cbr\u003e  similar names is the way they are sold. This often involves \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "Dy1jP7FD8EkJ",
+   "formattedUrl": "money.usnews.com/.../equity-indexed-annuities-the-magic-bullet",
+   "htmlFormattedUrl": "money.usnews.com/.../equity-\u003cb\u003eindexed\u003c/b\u003e-\u003cb\u003eannuities\u003c/b\u003e-the-magic-bullet",
+   "pagemap": {
+    "metatags": [
+     {
+      "authors": "Roger Wohlner",
+      "social_id": "http://t.usnews.com/bADB6",
+      "site": "money-news",
+      "zone": "blogs/the-smarter-investor/blogentries",
+      "usn-content-type": "article",
+      "usn-comments-mode": "classic",
+      "fb:page_id": "5834919267",
+      "msvalidate.01": "A8E47FA91124063A4A9C78AD5273DC0F"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Buyer's Guide To Equity-Indexed Annuities",
+   "htmlTitle": "Buyer&#39;s Guide To Equity-\u003cb\u003eIndexed Annuities\u003c/b\u003e",
+   "link": "http://insurance.illinois.gov/life_annuities/equityindex.asp",
+   "displayLink": "insurance.illinois.gov",
+   "snippet": "An equity-indexed annuity is a fixed annuity, either immediate or deferred, that   earns interest or provides benefits that are linked to an external equity reference ...",
+   "htmlSnippet": "An equity-\u003cb\u003eindexed annuity\u003c/b\u003e is a fixed annuity, either immediate or deferred, that \u003cbr\u003e  earns interest or provides benefits that are linked to an external equity reference \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "2exYHhBXLnsJ",
+   "formattedUrl": "insurance.illinois.gov/life_annuities/equityindex.asp",
+   "htmlFormattedUrl": "insurance.illinois.gov/life_\u003cb\u003eannuities\u003c/b\u003e/equity\u003cb\u003eindex\u003c/b\u003e.asp"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Indexed Annuities Pros and Cons",
+   "htmlTitle": "\u003cb\u003eIndexed Annuities\u003c/b\u003e Pros and Cons",
+   "link": "http://www.freeannuityrates.com/annuities/article.php?title=Indexed-Annuities-Pros-and-Cons",
+   "displayLink": "www.freeannuityrates.com",
+   "snippet": "Like fixed annuities, indexed annuities will guarantee that an investor's account   will not fall below his or her initial investment. To learn more about indexed ...",
+   "htmlSnippet": "Like fixed annuities, \u003cb\u003eindexed annuities\u003c/b\u003e will guarantee that an investor&#39;s account \u003cbr\u003e  will not fall below his or her initial investment. To learn more about indexed \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "lFf45OurT-AJ",
+   "formattedUrl": "www.freeannuityrates.com/annuities/article.php?...Indexed-Annuities...",
+   "htmlFormattedUrl": "www.free\u003cb\u003eannuity\u003c/b\u003erates.com/\u003cb\u003eannuities\u003c/b\u003e/article.php?...\u003cb\u003eIndexed\u003c/b\u003e-\u003cb\u003eAnnuities\u003c/b\u003e..."
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Annuities – Annuity Calculator | AllThingsAnnuity.com",
+   "htmlTitle": "\u003cb\u003eAnnuities\u003c/b\u003e – \u003cb\u003eAnnuity\u003c/b\u003e Calculator | AllThingsAnnuity.com",
+   "link": "http://www.allthingsannuity.com/",
+   "displayLink": "www.allthingsannuity.com",
+   "snippet": "Obtain the annuity information you need from top professionals. Learn about   fixed annuities, indexed annuities, receive annuity quotes and more!",
+   "htmlSnippet": "Obtain the annuity information you need from top professionals. Learn about \u003cbr\u003e  fixed annuities, \u003cb\u003eindexed annuities\u003c/b\u003e, receive annuity quotes and more!",
+   "cacheId": "NnS42kqK_AQJ",
+   "formattedUrl": "www.allthingsannuity.com/",
+   "htmlFormattedUrl": "www.allthings\u003cb\u003eannuity\u003c/b\u003e.com/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.allthingsannuity.com/images/slide3.jpg",
+      "type": "1",
+      "width": "413",
+      "height": "122"
+     }
+    ],
+    "metatags": [
+     {
+      "msvalidate.01": "29D5C838D338D49817E954417078100B"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Index Annuity Features - Common Features of Index Annuities",
+   "htmlTitle": "\u003cb\u003eIndex Annuity\u003c/b\u003e Features - Common Features of \u003cb\u003eIndex Annuities\u003c/b\u003e",
+   "link": "http://www.freeannuityrates.com/annuities/index/index-annuity-features.php",
+   "displayLink": "www.freeannuityrates.com",
+   "snippet": "Index annuities allow you to invest in a market index like the S&P 500 without   risking principle. Learn about the common features of indexed annnuities.",
+   "htmlSnippet": "\u003cb\u003eIndex annuities\u003c/b\u003e allow you to invest in a market index like the S&amp;P 500 without \u003cbr\u003e  risking principle. Learn about the common features of indexed annnuities.",
+   "cacheId": "FgFGTW9qPPUJ",
+   "formattedUrl": "www.freeannuityrates.com/annuities/index/index-annuity-features.php",
+   "htmlFormattedUrl": "www.free\u003cb\u003eannuity\u003c/b\u003erates.com/\u003cb\u003eannuities\u003c/b\u003e/\u003cb\u003eindex\u003c/b\u003e/\u003cb\u003eindex\u003c/b\u003e-\u003cb\u003eannuity\u003c/b\u003e-features.php"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Index Annuity",
+   "htmlTitle": "\u003cb\u003eIndex Annuity\u003c/b\u003e",
+   "link": "http://www.annuityadvantage.com/in/index-annuity.htm",
+   "displayLink": "www.annuityadvantage.com",
+   "snippet": "Index annuity rates and index annuity quotes from over 40 different annuity   insurance companies. Compare over 300 index annuities, fixed annuities and ...",
+   "htmlSnippet": "\u003cb\u003eIndex annuity\u003c/b\u003e rates and \u003cb\u003eindex annuity\u003c/b\u003e quotes from over 40 different annuity \u003cbr\u003e  insurance companies. Compare over 300 \u003cb\u003eindex annuities\u003c/b\u003e, fixed annuities and \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "o4Ur-Py16lYJ",
+   "formattedUrl": "www.annuityadvantage.com/in/index-annuity.htm",
+   "htmlFormattedUrl": "www.\u003cb\u003eannuity\u003c/b\u003eadvantage.com/in/\u003cb\u003eindex\u003c/b\u003e-\u003cb\u003eannuity\u003c/b\u003e.htm",
+   "pagemap": {
+    "metatags": [
+     {
+      "progid": "FrontPage.Editor.Document",
+      "microsoft theme": "corporate2 000, default",
+      "microsoft border": "tl"
+     }
+    ]
+   }
+  }
+ ]
+}

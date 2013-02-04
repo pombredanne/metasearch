@@ -1,0 +1,231 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "nextPage": [
+   {
+    "title": "Google Custom Search - arizona game and fish",
+    "totalResults": "1710000",
+    "searchTerms": "arizona game and fish",
+    "count": 10,
+    "startIndex": 31,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "017401104989814545383:mf4lavmtuva"
+   }
+  ],
+  "request": [
+   {
+    "title": "Google Custom Search - arizona game and fish",
+    "totalResults": "1710000",
+    "searchTerms": "arizona game and fish",
+    "count": 10,
+    "startIndex": 21,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "017401104989814545383:mf4lavmtuva"
+   }
+  ],
+  "previousPage": [
+   {
+    "title": "Google Custom Search - arizona game and fish",
+    "totalResults": "1710000",
+    "searchTerms": "arizona game and fish",
+    "count": 10,
+    "startIndex": 11,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "017401104989814545383:mf4lavmtuva"
+   }
+  ]
+ },
+ "context": {
+  "title": "College MetaSearch Comparison"
+ },
+ "searchInformation": {
+  "searchTime": 0.288305,
+  "formattedSearchTime": "0.29",
+  "totalResults": "1710000",
+  "formattedTotalResults": "1,710,000"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "Off-Highway Vehicles Arizona ATV",
+   "htmlTitle": "Off-Highway Vehicles \u003cb\u003eArizona\u003c/b\u003e ATV",
+   "link": "http://www.azgfd.gov/ohv",
+   "displayLink": "www.azgfd.gov",
+   "snippet": "The Arizona Game and Fish Department's all terrain / off highway vehicle (OHV)   safety education course includes instruction on the basic skills required to safely ...",
+   "htmlSnippet": "The \u003cb\u003eArizona Game and Fish\u003c/b\u003e Department&#39;s all terrain / off highway vehicle (OHV) \u003cbr\u003e  safety education course includes instruction on the basic skills required to safely \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "qJVoDpLCX64J",
+   "formattedUrl": "www.azgfd.gov/ohv",
+   "htmlFormattedUrl": "www.azgfd.gov/ohv",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.azgfd.gov/outdoor_recreation/images/PictureforHomePage2.jpg",
+      "type": "1",
+      "width": "240",
+      "height": "152"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Arizona Revised Statutes Title 17",
+   "htmlTitle": "\u003cb\u003eArizona\u003c/b\u003e Revised Statutes Title 17",
+   "link": "http://www.azleg.gov/arizonarevisedstatutes.asp?title=17",
+   "displayLink": "www.azleg.gov",
+   "snippet": "17-201, Game and fish department and game and fish commission members;   appointment; removal; meetings. 17-202, Arizona game and fish commission ...",
+   "htmlSnippet": "17-201, Game and fish department and game and fish commission members; \u003cbr\u003e  appointment; removal; meetings. 17-202, \u003cb\u003eArizona game and fish\u003c/b\u003e commission \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "NILB7cvuIGIJ",
+   "formattedUrl": "www.azleg.gov/arizonarevisedstatutes.asp?title=17",
+   "htmlFormattedUrl": "www.azleg.gov/\u003cb\u003earizona\u003c/b\u003erevisedstatutes.asp?title=17"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Employment",
+   "htmlTitle": "Employment",
+   "link": "http://www.azgfd.gov/inside_azgfd/employment.shtml",
+   "displayLink": "www.azgfd.gov",
+   "snippet": "Arizona Game and FIsh Department - Managing Today for Wildlife ... Thank you   for your interest in working with the Arizona Game and Fish Department. Learn ...",
+   "htmlSnippet": "\u003cb\u003eArizona Game and FIsh\u003c/b\u003e Department - Managing Today for Wildlife \u003cb\u003e...\u003c/b\u003e Thank you \u003cbr\u003e  for your interest in working with the \u003cb\u003eArizona Game and Fish\u003c/b\u003e Department. Learn \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "SdwogNomDEAJ",
+   "formattedUrl": "www.azgfd.gov/inside_azgfd/employment.shtml",
+   "htmlFormattedUrl": "www.azgfd.gov/inside_azgfd/employment.shtml"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "The Wildlife Center at Adobe Mountain, Phoenix, Arizona",
+   "htmlTitle": "The Wildlife Center at Adobe Mountain, Phoenix, \u003cb\u003eArizona\u003c/b\u003e",
+   "link": "http://www.azwildlifecenter.net/",
+   "displayLink": "www.azwildlifecenter.net",
+   "snippet": "The Wildlife Center at Adobe Mountain works in cooperation with The Arizona   Game and Fish Department to provide rehabilitative care for sick or injured   wildlife ...",
+   "htmlSnippet": "The Wildlife Center at Adobe Mountain works in cooperation with The \u003cb\u003eArizona\u003c/b\u003e \u003cbr\u003e  \u003cb\u003eGame and Fish\u003c/b\u003e Department to provide rehabilitative care for sick or injured \u003cbr\u003e  wildlife \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "Ksr_xMz8_OsJ",
+   "formattedUrl": "www.azwildlifecenter.net/",
+   "htmlFormattedUrl": "www.azwildlifecenter.net/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://badge.facebook.com/badge/125487710832967.1010.1363741366.png",
+      "type": "1",
+      "width": "96",
+      "height": "131"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Watercraft Rules & Regulations",
+   "htmlTitle": "Watercraft Rules &amp; Regulations",
+   "link": "http://www.azgfd.gov/outdoor_recreation/boating_rules.shtml",
+   "displayLink": "www.azgfd.gov",
+   "snippet": "Arizona Boating Laws and Regulations [PDF]. -, Arizona Game and Fish   Commission Rules (Arizona Secretary of State Web Site). -, Arizona Game and   Fish ...",
+   "htmlSnippet": "Arizona Boating Laws and Regulations [PDF]. -, \u003cb\u003eArizona Game and Fish\u003c/b\u003e \u003cbr\u003e  Commission Rules (Arizona Secretary of State Web Site). -, \u003cb\u003eArizona Game and\u003c/b\u003e \u003cbr\u003e  \u003cb\u003eFish\u003c/b\u003e \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "J8y3sVKXvicJ",
+   "formattedUrl": "www.azgfd.gov/outdoor_recreation/boating_rules.shtml",
+   "htmlFormattedUrl": "www.azgfd.gov/outdoor_recreation/boating_rules.shtml"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Arizona Wildlife News The Official Blog of the Arizona Game and ...",
+   "htmlTitle": "Arizona Wildlife News The Official Blog of the \u003cb\u003eArizona Game and\u003c/b\u003e \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://www.azgfd.net/wildlife/",
+   "displayLink": "www.azgfd.net",
+   "snippet": "Arizona Game and Fish Department officers participated in a joint law   enforcement checkpoint on Nov. 29 in the Rincon Mountains that screened 163   vehicles, ...",
+   "htmlSnippet": "\u003cb\u003eArizona Game and Fish\u003c/b\u003e Department officers participated in a joint law \u003cbr\u003e  enforcement checkpoint on Nov. 29 in the Rincon Mountains that screened 163 \u003cbr\u003e  vehicles, \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "upJPpK1ydS0J",
+   "formattedUrl": "www.azgfd.net/wildlife/",
+   "htmlFormattedUrl": "www.azgfd.net/wildlife/"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Arizona Shooting Range and Sports | Arizona Shooting Range ...",
+   "htmlTitle": "\u003cb\u003eArizona\u003c/b\u003e Shooting Range and Sports | \u003cb\u003eArizona\u003c/b\u003e Shooting Range \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://www.azgfd.gov/shootingsports",
+   "displayLink": "www.azgfd.gov",
+   "snippet": "Arizona Game and FIsh Department - Managing Today for Wildlife Tomorrow:   azgfd.gov ... The range is owned by the Arizona Game and Fish Commission and ...",
+   "htmlSnippet": "\u003cb\u003eArizona Game and FIsh\u003c/b\u003e Department - Managing Today for Wildlife Tomorrow: \u003cbr\u003e  azgfd.gov \u003cb\u003e...\u003c/b\u003e The range is owned by the \u003cb\u003eArizona Game and Fish\u003c/b\u003e Commission and \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "bWKaxql82z8J",
+   "formattedUrl": "www.azgfd.gov/shootingsports",
+   "htmlFormattedUrl": "www.azgfd.gov/shootingsports",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.azgfd.gov/images/outdoor_recreation/shooting/ArizonaShootingSports.jpg",
+      "type": "1",
+      "width": "340",
+      "height": "148"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "AZGFD.gov Arizona Game and Fish Commission amends Mexican ...",
+   "htmlTitle": "AZGFD.gov \u003cb\u003eArizona Game and Fish\u003c/b\u003e Commission amends Mexican \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://azgfd.net/artman/publish/NewsMedia/Arizona-s-Game-and-Fish-Commission-amends-Mexican-wolf-release-policy.shtml",
+   "displayLink": "azgfd.net",
+   "snippet": "Jan 13, 2012 ... PHOENIX - During a routine update on the Game and Fish Department's   nongame program activities, the Arizona Game and Fish Commission ...",
+   "htmlSnippet": "Jan 13, 2012 \u003cb\u003e...\u003c/b\u003e PHOENIX - During a routine update on the Game and Fish Department&#39;s \u003cbr\u003e  nongame program activities, the \u003cb\u003eArizona Game and Fish\u003c/b\u003e Commission \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "KnzI1C-JIaoJ",
+   "formattedUrl": "azgfd.net/.../Arizona-s-Game-and-Fish-Commission-amends-Mexican-wolf- release-policy.shtml",
+   "htmlFormattedUrl": "azgfd.net/.../\u003cb\u003eArizona\u003c/b\u003e-s-\u003cb\u003eGame-and-Fish\u003c/b\u003e-Commission-amends-Mexican-wolf- release-policy.shtml"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "California Condor Recovery",
+   "htmlTitle": "California Condor Recovery",
+   "link": "http://www.azgfd.gov/condor",
+   "displayLink": "www.azgfd.gov",
+   "snippet": "Beginning in 1985, discussions began in The Arizona Game and Fish   Department's Nongame Branch to determine the feasibility of reintroducing   California ...",
+   "htmlSnippet": "Beginning in 1985, discussions began in The \u003cb\u003eArizona Game and Fish\u003c/b\u003e \u003cbr\u003e  Department&#39;s Nongame Branch to determine the feasibility of reintroducing \u003cbr\u003e  California \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "8oGIYoSEFNgJ",
+   "formattedUrl": "www.azgfd.gov/condor",
+   "htmlFormattedUrl": "www.azgfd.gov/condor",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.azgfd.gov/images/w_c/inline_condor_ScottFrier.jpg",
+      "type": "1",
+      "width": "160",
+      "height": "140"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Arizona Game and Fish Commission Rules",
+   "htmlTitle": "\u003cb\u003eArizona Game and Fish\u003c/b\u003e Commission Rules",
+   "link": "http://www.100thmeridian.org/laws/pdfs/Arizona%20Game%20and%20Fish%20Laws%20and%20Rules%20(R12-4-402).pdf",
+   "displayLink": "www.100thmeridian.org",
+   "snippet": "Arizona Game and Fish. Commission Rules. The rules contained in this   publication are printed as supplied to LexisNexis by the Arizona Office of   Secretary of ...",
+   "htmlSnippet": "\u003cb\u003eArizona Game and Fish\u003c/b\u003e. Commission Rules. The rules contained in this \u003cbr\u003e  publication are printed as supplied to LexisNexis by the Arizona Office of \u003cbr\u003e  Secretary of \u003cb\u003e...\u003c/b\u003e",
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat",
+   "formattedUrl": "www.100thmeridian.org/.../ Arizona%20Game%20and%20Fish%20Laws%20and%20Rules%20(R12-4- ...",
+   "htmlFormattedUrl": "www.100thmeridian.org/.../ \u003cb\u003eArizona\u003c/b\u003e%20\u003cb\u003eGame\u003c/b\u003e%20and%20\u003cb\u003eFish\u003c/b\u003e%20Laws%20and%20Rules%20(R12-4- ...",
+   "pagemap": {
+    "metatags": [
+     {
+      "moddate": "D:20060717142334-05'00'",
+      "creationdate": "D:20050304145909-05'00'",
+      "title": "No Job Name",
+      "creator": "XyEnterprise XPP 7.2C.1  Patch #9",
+      "producer": "Adobe Servers p026"
+     }
+    ]
+   }
+  }
+ ]
+}

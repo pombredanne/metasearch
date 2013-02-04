@@ -1,0 +1,284 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "nextPage": [
+   {
+    "title": "Google Custom Search - gmat prep classes",
+    "totalResults": "569000",
+    "searchTerms": "gmat prep classes",
+    "count": 10,
+    "startIndex": 41,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "017401104989814545383:mf4lavmtuva"
+   }
+  ],
+  "request": [
+   {
+    "title": "Google Custom Search - gmat prep classes",
+    "totalResults": "569000",
+    "searchTerms": "gmat prep classes",
+    "count": 10,
+    "startIndex": 31,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "017401104989814545383:mf4lavmtuva"
+   }
+  ],
+  "previousPage": [
+   {
+    "title": "Google Custom Search - gmat prep classes",
+    "totalResults": "569000",
+    "searchTerms": "gmat prep classes",
+    "count": 10,
+    "startIndex": 21,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "017401104989814545383:mf4lavmtuva"
+   }
+  ]
+ },
+ "context": {
+  "title": "College MetaSearch Comparison"
+ },
+ "searchInformation": {
+  "searchTime": 0.276323,
+  "formattedSearchTime": "0.28",
+  "totalResults": "569000",
+  "formattedTotalResults": "569,000"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "Toronto GMAT | The Best GMAT Prep in Toronto | Veritas Prep",
+   "htmlTitle": "Toronto GMAT | The Best \u003cb\u003eGMAT Prep\u003c/b\u003e in Toronto | Veritas Prep",
+   "link": "http://www.veritasprep.com/toronto-gmat-prep-courses/",
+   "displayLink": "www.veritasprep.com",
+   "snippet": "Our Toronto GMAT classes are located in the heart of Toronto. Veritas Prep has   hosted more students in its Toronto GMAT classes than any other Canadian city.",
+   "htmlSnippet": "Our Toronto \u003cb\u003eGMAT classes\u003c/b\u003e are located in the heart of Toronto. Veritas \u003cb\u003ePrep\u003c/b\u003e has \u003cbr\u003e  hosted more students in its Toronto \u003cb\u003eGMAT classes\u003c/b\u003e than any other Canadian city.",
+   "cacheId": "xidZHE4HowIJ",
+   "formattedUrl": "www.veritasprep.com/toronto-gmat-prep-courses/",
+   "htmlFormattedUrl": "www.veritas\u003cb\u003eprep\u003c/b\u003e.com/toronto-\u003cb\u003egmat\u003c/b\u003e-\u003cb\u003eprep\u003c/b\u003e-\u003cb\u003ecourses\u003c/b\u003e/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://d3scmz9sa6n2x2.cloudfront.net/images/billboards/gmat-prep.png",
+      "type": "1",
+      "width": "198",
+      "height": "254"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "UH GMAT® Preparation Courses - Houston, Texas",
+   "htmlTitle": "UH \u003cb\u003eGMAT\u003c/b\u003e® \u003cb\u003ePreparation Courses\u003c/b\u003e - Houston, Texas",
+   "link": "http://www.uh.edu/academics/dce/programs/test-prep/GMAT.htm",
+   "displayLink": "www.uh.edu",
+   "snippet": "Prepare for the GMAT® with the only GMAT® Test Prep Course offered by The   University of Houston. Our GMAT® Test Prep course includes expert instruction, ...",
+   "htmlSnippet": "Prepare for the \u003cb\u003eGMAT\u003c/b\u003e® with the only \u003cb\u003eGMAT\u003c/b\u003e® Test \u003cb\u003ePrep\u003c/b\u003e Course offered by The \u003cbr\u003e  University of Houston. Our \u003cb\u003eGMAT\u003c/b\u003e® Test \u003cb\u003ePrep\u003c/b\u003e course includes expert instruction, \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "7mDDcHyPGP0J",
+   "formattedUrl": "www.uh.edu/academics/dce/programs/test-prep/GMAT.htm",
+   "htmlFormattedUrl": "www.uh.edu/academics/dce/programs/test-\u003cb\u003eprep\u003c/b\u003e/\u003cb\u003eGMAT\u003c/b\u003e.htm",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.uh.edu/continuingeducation/images/gmat-hero.jpg",
+      "type": "1",
+      "width": "346",
+      "height": "145"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Elite GMAT Preparation and Admissions Consulting | Veritas Prep",
+   "htmlTitle": "Elite \u003cb\u003eGMAT Preparation\u003c/b\u003e and Admissions Consulting | Veritas Prep",
+   "link": "http://www.veritasprep.com/",
+   "displayLink": "www.veritasprep.com",
+   "snippet": "GMAT prep courses, online GMAT preparation, tutoring, and law school and MBA   admissions consulting.",
+   "htmlSnippet": "\u003cb\u003eGMAT prep courses\u003c/b\u003e, online GMAT preparation, tutoring, and law school and MBA \u003cbr\u003e  admissions consulting.",
+   "cacheId": "ZqBNlkRaD3wJ",
+   "formattedUrl": "www.veritasprep.com/",
+   "htmlFormattedUrl": "www.veritas\u003cb\u003eprep\u003c/b\u003e.com/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://d3scmz9sa6n2x2.cloudfront.net/images/billboards/veritas-prep-new-home.png",
+      "type": "1",
+      "width": "354",
+      "height": "142"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Utah GMAT Course | Provo GMAT Practice Test | GMAT Test Prep ...",
+   "htmlTitle": "Utah \u003cb\u003eGMAT\u003c/b\u003e Course | Provo \u003cb\u003eGMAT\u003c/b\u003e Practice Test | \u003cb\u003eGMAT\u003c/b\u003e Test \u003cb\u003ePrep\u003c/b\u003e \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://ce.byu.edu/cw/testprep/gmat.cfm",
+   "displayLink": "ce.byu.edu",
+   "snippet": "BYU Test Prep offers live GMAT courses, GMAT practice tests, GMAT test prep   and GMAT classes in Utah on BYU campus.",
+   "htmlSnippet": "BYU Test \u003cb\u003ePrep\u003c/b\u003e offers live \u003cb\u003eGMAT courses\u003c/b\u003e, \u003cb\u003eGMAT\u003c/b\u003e practice tests, \u003cb\u003eGMAT\u003c/b\u003e test \u003cb\u003eprep\u003c/b\u003e \u003cbr\u003e  and \u003cb\u003eGMAT classes\u003c/b\u003e in Utah on BYU campus.",
+   "cacheId": "fvVStpH_OUkJ",
+   "formattedUrl": "ce.byu.edu/cw/testprep/gmat.cfm",
+   "htmlFormattedUrl": "ce.byu.edu/cw/test\u003cb\u003eprep\u003c/b\u003e/\u003cb\u003egmat\u003c/b\u003e.cfm",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://ce.byu.edu/cw/testprep/images/chart2GMAT.jpg",
+      "type": "1",
+      "width": "270",
+      "height": "114"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "London GMAT Prep Courses | Veritas Prep",
+   "htmlTitle": "London \u003cb\u003eGMAT Prep Courses\u003c/b\u003e | Veritas Prep",
+   "link": "http://www.veritasprep.com/london-gmat-prep-courses/",
+   "displayLink": "www.veritasprep.com",
+   "snippet": "No Veritas Prep city has more GMAT class options than does London, and   Veritas Prep London is uniquely equipped to offer these courses with two   Worldwide ...",
+   "htmlSnippet": "No Veritas \u003cb\u003ePrep\u003c/b\u003e city has more \u003cb\u003eGMAT class\u003c/b\u003e options than does London, and \u003cbr\u003e  Veritas \u003cb\u003ePrep\u003c/b\u003e London is uniquely equipped to offer these \u003cb\u003ecourses\u003c/b\u003e with two \u003cbr\u003e  Worldwide \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "-XgMtfhIU4kJ",
+   "formattedUrl": "www.veritasprep.com/london-gmat-prep-courses/",
+   "htmlFormattedUrl": "www.veritas\u003cb\u003eprep\u003c/b\u003e.com/london-\u003cb\u003egmat\u003c/b\u003e-\u003cb\u003eprep\u003c/b\u003e-\u003cb\u003ecourses\u003c/b\u003e/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://d3scmz9sa6n2x2.cloudfront.net/images/instructors/kakkad.jpg",
+      "type": "1",
+      "width": "112",
+      "height": "112"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Test Preparation Classes - Events Management - George Mason ...",
+   "htmlTitle": "Test \u003cb\u003ePreparation Classes\u003c/b\u003e - Events Management - George Mason \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://events.gmu.edu/testprep.html",
+   "displayLink": "events.gmu.edu",
+   "snippet": "Contact the Test Prep Office at 703-993-2124 or oemprep@gmu.edu. Fees for   the GMAT and GRE Test Preparation classes are as follows: Math Review: $425 ...",
+   "htmlSnippet": "Contact the Test \u003cb\u003ePrep\u003c/b\u003e Office at 703-993-2124 or \u003cb\u003eoemprep\u003c/b\u003e@gmu.edu. Fees for \u003cbr\u003e  the \u003cb\u003eGMAT\u003c/b\u003e and GRE Test \u003cb\u003ePreparation classes\u003c/b\u003e are as follows: Math Review: $425 \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "WT3l0EjhN-MJ",
+   "formattedUrl": "events.gmu.edu/testprep.html",
+   "htmlFormattedUrl": "events.gmu.edu/test\u003cb\u003eprep\u003c/b\u003e.html",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://events.gmu.edu/images/masonlogo.gif",
+      "type": "1",
+      "width": "115",
+      "height": "75"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Boston GMAT | The Best GMAT Prep in Boston | Veritas Prep",
+   "htmlTitle": "Boston GMAT | The Best \u003cb\u003eGMAT Prep\u003c/b\u003e in Boston | Veritas Prep",
+   "link": "http://www.veritasprep.com/boston-gmat-prep-courses/",
+   "displayLink": "www.veritasprep.com",
+   "snippet": "Veritas Prep has helped tens of thousands of Boston GMAT students prepare for   the GMAT. No other company offers a more effective GMAT course in Boston.",
+   "htmlSnippet": "Veritas \u003cb\u003ePrep\u003c/b\u003e has helped tens of thousands of Boston \u003cb\u003eGMAT\u003c/b\u003e students prepare for \u003cbr\u003e  the \u003cb\u003eGMAT\u003c/b\u003e. No other company offers a more effective \u003cb\u003eGMAT\u003c/b\u003e course in Boston.",
+   "cacheId": "rYf2Pbg8qsUJ",
+   "formattedUrl": "www.veritasprep.com/boston-gmat-prep-courses/",
+   "htmlFormattedUrl": "www.veritas\u003cb\u003eprep\u003c/b\u003e.com/boston-\u003cb\u003egmat\u003c/b\u003e-\u003cb\u003eprep\u003c/b\u003e-\u003cb\u003ecourses\u003c/b\u003e/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://d3scmz9sa6n2x2.cloudfront.net/images/billboards/gmat-tutors.png",
+      "type": "1",
+      "width": "295",
+      "height": "171"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "GMAT NYC Prep | GMAT Prep Courses, Tutoring, GMAT Practice ...",
+   "htmlTitle": "GMAT NYC Prep | \u003cb\u003eGMAT Prep Courses\u003c/b\u003e, Tutoring, GMAT Practice \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://www.manhattangmat.com/gmat-prep-new-york-home.cfm",
+   "displayLink": "www.manhattangmat.com",
+   "snippet": "A specialized focus, a content-based curriculum, and teaching excellence give   students enrolled in our GMAT prep courses an edge other test prep companies ...",
+   "htmlSnippet": "A specialized focus, a content-based curriculum, and teaching excellence give \u003cbr\u003e  students enrolled in our \u003cb\u003eGMAT prep courses\u003c/b\u003e an edge other test prep companies \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "lzB1jIaXt4MJ",
+   "formattedUrl": "www.manhattangmat.com/gmat-prep-new-york-home.cfm",
+   "htmlFormattedUrl": "www.manhattan\u003cb\u003egmat\u003c/b\u003e.com/\u003cb\u003egmat\u003c/b\u003e-\u003cb\u003eprep\u003c/b\u003e-new-york-home.cfm",
+   "pagemap": {
+    "metatags": [
+     {
+      "viewport": "width=device-width, initial-scale=1.0",
+      "y_key": "b77edc7f12089ef9",
+      "fb:page_id": "39761815456"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "GMAT, GRE, MAT Prep Courses",
+   "htmlTitle": "\u003cb\u003eGMAT\u003c/b\u003e, GRE, MAT \u003cb\u003ePrep Courses\u003c/b\u003e",
+   "link": "http://www.belmont.edu/business/graduatebusiness/GMAT_GRE_Prep_Courses/index.html",
+   "displayLink": "www.belmont.edu",
+   "snippet": "The Jack C. Massey Graduate School of Business is pleased to offer preparation   courses for GMAT and GRE exams. The Massey Graduate School of Business ...",
+   "htmlSnippet": "The Jack C. Massey Graduate School of Business is pleased to offer \u003cb\u003epreparation\u003c/b\u003e \u003cbr\u003e  \u003cb\u003ecourses\u003c/b\u003e for \u003cb\u003eGMAT\u003c/b\u003e and GRE exams. The Massey Graduate School of Business \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "1OyOLv0WiJoJ",
+   "formattedUrl": "www.belmont.edu/business/.../GMAT_GRE_Prep_Courses/index.html",
+   "htmlFormattedUrl": "www.belmont.edu/business/.../\u003cb\u003eGMAT\u003c/b\u003e_GRE_\u003cb\u003ePrep\u003c/b\u003e_\u003cb\u003eCourses\u003c/b\u003e/index.html",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.belmont.edu/images/business/headers/banner-masseyschool-building.jpg",
+      "type": "1",
+      "width": "375",
+      "height": "135"
+     }
+    ],
+    "metatags": [
+     {
+      "msvalidate.01": "98AAFC0390442058812771F75857903E",
+      "date": "Thu, 19 Jul 2012 04:32:16 -0500"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "GRE & GMAT Prep Courses | CGCE",
+   "htmlTitle": "GRE &amp; \u003cb\u003eGMAT Prep Courses\u003c/b\u003e | CGCE",
+   "link": "http://www.rowan.edu/colleges/cgce/initiatives/gre_gmat.php",
+   "displayLink": "www.rowan.edu",
+   "snippet": "GRE & GMAT PREP COURSES. The College of Graduate & Continuing   Education (CGCE) will be offering a six-session preparation course to prepare for   the ...",
+   "htmlSnippet": "GRE &amp; \u003cb\u003eGMAT PREP COURSES\u003c/b\u003e. The College of Graduate &amp; Continuing \u003cbr\u003e  Education (CGCE) will be offering a six-session preparation course to prepare for \u003cbr\u003e  the \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "43aw5tuVcfIJ",
+   "formattedUrl": "www.rowan.edu/colleges/cgce/initiatives/gre_gmat.php",
+   "htmlFormattedUrl": "www.rowan.edu/colleges/cgce/initiatives/gre_\u003cb\u003egmat\u003c/b\u003e.php",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.rowan.edu/colleges/cgce/initiatives/images/gre_gmat.jpg",
+      "type": "1",
+      "width": "198",
+      "height": "132"
+     }
+    ]
+   }
+  }
+ ]
+}

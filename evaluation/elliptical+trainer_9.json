@@ -1,0 +1,366 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "nextPage": [
+   {
+    "title": "Google Custom Search - elliptical trainer",
+    "totalResults": "761000",
+    "searchTerms": "elliptical trainer",
+    "count": 10,
+    "startIndex": 101,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "017401104989814545383:mf4lavmtuva"
+   }
+  ],
+  "request": [
+   {
+    "title": "Google Custom Search - elliptical trainer",
+    "totalResults": "761000",
+    "searchTerms": "elliptical trainer",
+    "count": 10,
+    "startIndex": 91,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "017401104989814545383:mf4lavmtuva"
+   }
+  ],
+  "previousPage": [
+   {
+    "title": "Google Custom Search - elliptical trainer",
+    "totalResults": "761000",
+    "searchTerms": "elliptical trainer",
+    "count": 10,
+    "startIndex": 81,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "017401104989814545383:mf4lavmtuva"
+   }
+  ]
+ },
+ "context": {
+  "title": "College MetaSearch Comparison"
+ },
+ "searchInformation": {
+  "searchTime": 0.206059,
+  "formattedSearchTime": "0.21",
+  "totalResults": "761000",
+  "formattedTotalResults": "761,000"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "Body Rider Magnetic Elliptical Trainer: Amazon.com: Sports ...",
+   "htmlTitle": "Body Rider Magnetic \u003cb\u003eElliptical Trainer\u003c/b\u003e: Amazon.com: Sports \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://www.amazon.com/Body-Rider-Magnetic-Elliptical-Trainer/dp/B002JB40LI",
+   "displayLink": "www.amazon.com",
+   "snippet": "Utilizing a patented design which allows you to exercise with a smooth, no-  impact motion, this elliptical trainer from Body Rider offers the benefits of a cardio ...",
+   "htmlSnippet": "Utilizing a patented design which allows you to exercise with a smooth, no-\u003cbr\u003e  impact motion, this \u003cb\u003eelliptical trainer\u003c/b\u003e from Body Rider offers the benefits of a cardio \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "0bw5A8Gi1CgJ",
+   "formattedUrl": "www.amazon.com/Body-Rider...Elliptical-Trainer/dp/B002JB40LI",
+   "htmlFormattedUrl": "www.amazon.com/Body-Rider...\u003cb\u003eElliptical\u003c/b\u003e-\u003cb\u003eTrainer\u003c/b\u003e/dp/B002JB40LI",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://ecx.images-amazon.com/images/I/41gIiSH4CqL._SL500_AA300_.jpg"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "225",
+      "height": "225",
+      "src": "https://encrypted-tbn0.google.com/images?q=tbn:ANd9GcRXgzoltP-8cgbFIdy0_QyQmbXfxVOBU4irYAWA6VbZ5GuPtpbdDH7RxbA"
+     }
+    ],
+    "scraped": [
+     {
+      "image_link": "http://ecx.images-amazon.com/images/I/41gIiSH4CqL._SL500_AA300_.jpg"
+     }
+    ],
+    "metatags": [
+     {
+      "title": "Body Rider Magnetic Elliptical Trainer: Amazon.com: Sports & Outdoors"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Quantum Elliptical Trainers / Reviews - Center-Drive Technology",
+   "htmlTitle": "Quantum \u003cb\u003eElliptical Trainers\u003c/b\u003e / Reviews - Center-Drive Technology",
+   "link": "http://www.allellipticals.com/quantum-elliptical-trainers.html",
+   "displayLink": "www.allellipticals.com",
+   "snippet": "Quantum elliptical trainers – quality components, attractive design and one of the   best warranties in the business. Our review of Quantum's center-drive ...",
+   "htmlSnippet": "Quantum \u003cb\u003eelliptical trainers\u003c/b\u003e – quality components, attractive design and one of the \u003cbr\u003e  best warranties in the business. Our review of Quantum&#39;s center-drive \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "PvF-IhgRYBwJ",
+   "formattedUrl": "www.allellipticals.com/quantum-elliptical-trainers.html",
+   "htmlFormattedUrl": "www.all\u003cb\u003eelliptical\u003c/b\u003es.com/quantum-\u003cb\u003eelliptical\u003c/b\u003e-\u003cb\u003etrainers\u003c/b\u003e.html",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.allellipticals.com/images/quantum-elliptical-trainers.jpg",
+      "type": "1",
+      "width": "171",
+      "height": "280"
+     }
+    ],
+    "metatags": [
+     {
+      "skype_toolbar": "SKYPE_TOOLBAR_PARSER_COMPATIBLE",
+      "fb:app_id": "243667088985851"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Before You Buy an Elliptical Trainer",
+   "htmlTitle": "Before You Buy an \u003cb\u003eElliptical Trainer\u003c/b\u003e",
+   "link": "http://walking.about.com/od/treadmilling/bb/ellipticals.htm",
+   "displayLink": "walking.about.com",
+   "snippet": "Jul 7, 2012 ... What to look for in an elliptical trainer as you decide which one to buy. What   features do you want in the machine?",
+   "htmlSnippet": "Jul 7, 2012 \u003cb\u003e...\u003c/b\u003e What to look for in an \u003cb\u003eelliptical trainer\u003c/b\u003e as you decide which one to buy. What \u003cbr\u003e  features do you want in the machine?",
+   "cacheId": "WrP87IFRnZ0J",
+   "formattedUrl": "walking.about.com/od/treadmilling/bb/ellipticals.htm",
+   "htmlFormattedUrl": "walking.about.com/od/treadmilling/bb/\u003cb\u003eelliptical\u003c/b\u003es.htm",
+   "pagemap": {
+    "metatags": [
+     {
+      "pd": "Wednesday, 18-Jul-2012 18:04:51 UTC",
+      "og:title": "Before you Buy an Elliptical Trainer",
+      "og:type": "article",
+      "og:url": "http://walking.about.com/od/treadmilling/bb/ellipticals.htm",
+      "og:site_name": "About.com Walking",
+      "fb:app_id": "121030274606741"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Buy Smooth Fitness Elliptical Machines Online",
+   "htmlTitle": "Buy Smooth Fitness \u003cb\u003eElliptical\u003c/b\u003e Machines Online",
+   "link": "http://www.smoothfitness.com/ellipticals-machines/",
+   "displayLink": "www.smoothfitness.com",
+   "snippet": "The Smooth CE 7.4 Elliptical is gym quality elliptical machine that supports up to   ... The Smooth CE 8.0LC elliptical trainers are commercial grade, stable, heavy ...",
+   "htmlSnippet": "The Smooth CE 7.4 Elliptical is gym quality \u003cb\u003eelliptical machine\u003c/b\u003e that supports up to \u003cbr\u003e  \u003cb\u003e...\u003c/b\u003e The Smooth CE 8.0LC \u003cb\u003eelliptical trainers\u003c/b\u003e are commercial grade, stable, heavy \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "DoyNP7O5dkUJ",
+   "formattedUrl": "www.smoothfitness.com/ellipticals-machines/",
+   "htmlFormattedUrl": "www.smoothfitness.com/\u003cb\u003eelliptical\u003c/b\u003es-\u003cb\u003emachine\u003c/b\u003es/",
+   "pagemap": {
+    "product": [
+     {
+      "brand": "Smooth Fitness",
+      "category": "Elliptical Trainers",
+      "url": "Smooth CE 7.4 Elliptical Trainer",
+      "name": "Smooth CE 7.4 Elliptical Trainer",
+      "descriptionellp": "The Smooth CE 7.4 Elliptical is gym quality elliptical machine that supports up to 350 lbs and has 16 levels of resistance for multiple users. 21\" stride length Magnetic Braking System LED..."
+     },
+     {
+      "brand": "Smooth Fitness",
+      "category": "Elliptical Trainers",
+      "url": "Smooth CE 8.0LC Commercial Elliptical",
+      "name": "Smooth CE 8.0LC Commercial Elliptical",
+      "descriptionellp": "The Smooth CE 8.0LC elliptical trainers are commercial grade, stable, heavy duty elliptical machines available at an affordable price. 21\" stride length Magnetic Braking System Blue BackLit..."
+     },
+     {
+      "brand": "Smooth Fitness",
+      "category": "Elliptical Trainers",
+      "url": "Smooth Agile DMT X2 Elliptical",
+      "name": "Smooth Agile DMT X2 Elliptical",
+      "descriptionellp": "The Agile DMT X2 elliptical motion trainer offers 12 motions and 16 levels of intensity giving you the most intense full body workout. Dynamic Motion Control iPod Station & MP3 Connection with..."
+     },
+     {
+      "brand": "Smooth Fitness",
+      "category": "Elliptical Trainers",
+      "url": "Smooth CE 3.6 Elliptical",
+      "name": "Smooth CE 3.6 Elliptical",
+      "descriptionellp": "The Smooth Fitness CE 3.6 Elliptical Machine is the best in home elliptical machine at an affordable price. 18\" stride length Electromagnetic Braking System LCD Display Ergonomic, Pivoting Foot Pedal"
+     },
+     {
+      "brand": "Smooth Fitness",
+      "category": "Elliptical Trainers",
+      "url": "Smooth CE 3.0DS Compact Elliptical",
+      "name": "Smooth CE 3.0DS Compact Elliptical",
+      "descriptionellp": "The Smooth CE 3.0DS Elliptical Machine is a top quality dual motion compact elliptical trainer at an affordable price. 21\" stride length Dual Motion - Elliptical & Stepper Motion Dual Color..."
+     },
+     {
+      "brand": "Smooth Fitness",
+      "category": "Elliptical Trainers",
+      "url": "Smooth Agile DMT Elliptical",
+      "name": "Smooth Agile DMT Elliptical",
+      "descriptionellp": "Smooth Fitness offers the Agile DMT adjustable motion elliptical with 12 adjustable motions that will help you build the body you've been looking for but unable to achieve with an ordinary..."
+     },
+     {
+      "brand": "Smooth Fitness",
+      "category": "Elliptical Trainers",
+      "url": "Smooth E4250 Vertical Trainer",
+      "name": "Smooth E4250 Vertical Trainer",
+      "descriptionellp": "The Smooth Fitness E4250 features a vertical stepper motion combining the workout of a stair stepper with the motion of an elliptical trainer. Orthopedic Cushioned Foot Pedals 21\" stride length..."
+     },
+     {
+      "brand": "Smooth Fitness",
+      "category": "Elliptical Trainers",
+      "url": "V2300 Elliptical Exercise Bike",
+      "name": "V2300 Elliptical Exercise Bike",
+      "descriptionellp": "Look no further for an elliptical exercise bike. The V2300 Elliptical Bike has a unique sitting stepper motion combined with a special comfort design. Bi-Motion: Elliptical Bike 17\" Ergonomic..."
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "http://www.smoothfitness.com/images/general/logo_black_wide.png",
+      "type": "1",
+      "width": "195",
+      "height": "30"
+     }
+    ],
+    "Organization": [
+     {
+      "name": "Smooth Fitness™"
+     }
+    ],
+    "metatags": [
+     {
+      "og:title": "Buy Smooth Fitness Elliptical Machines Online",
+      "og:type": "website",
+      "og:url": "http://www.smoothfitness.com/ellipticals-machines/index.htm",
+      "og:image": "http://www.smoothfitness.com/images/general/logo_black_wide.png",
+      "og:description": "Smooth Fitness ellipticals machines offer industry leading warranties and Free Shipping. For elliptical machines for your home gym, call 888-554-3624.",
+      "og:site_name": "Smooth Fitness",
+      "fb:admins": "852024420",
+      "fb:app_id": "290846324337393"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Sole E95 Elliptical Trainer by Sole Fitness",
+   "htmlTitle": "Sole E95 \u003cb\u003eElliptical Trainer\u003c/b\u003e by Sole Fitness",
+   "link": "http://www.treadmillscentral.com/sole-e95-elliptical.html",
+   "displayLink": "www.treadmillscentral.com",
+   "snippet": "Sole Fitness E95 Elliptical Trainer - Lowest price guaranteed.",
+   "htmlSnippet": "Sole Fitness E95 \u003cb\u003eElliptical Trainer\u003c/b\u003e - Lowest price guaranteed.",
+   "cacheId": "muoB3AzkwGUJ",
+   "formattedUrl": "www.treadmillscentral.com/sole-e95-elliptical.html",
+   "htmlFormattedUrl": "www.treadmillscentral.com/sole-e95-\u003cb\u003eelliptical\u003c/b\u003e.html",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.treadmillscentral.com/images/soleE95elliptical2011-100x80.jpg",
+      "type": "1",
+      "width": "87",
+      "height": "69"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Landice – Best Treadmills / Best Elliptical Trainers",
+   "htmlTitle": "Landice – Best Treadmills / Best \u003cb\u003eElliptical Trainers\u003c/b\u003e",
+   "link": "http://www.landice.com/",
+   "displayLink": "www.landice.com",
+   "snippet": "Landice manufactures top rated treadmills and ellipticals. Made in the USA,   Landice continues to receive #1 treadmill reviews from top consumer magazines.",
+   "htmlSnippet": "Landice manufactures top rated treadmills and ellipticals. Made in the USA, \u003cbr\u003e  Landice continues to receive #1 treadmill reviews from top consumer magazines.",
+   "cacheId": "8_Pgr9XiDK0J",
+   "formattedUrl": "www.landice.com/",
+   "htmlFormattedUrl": "www.landice.com/"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Elliptical Machine Reviews | Best elliptical Trainer Elliptical Machine ...",
+   "htmlTitle": "\u003cb\u003eElliptical Machine\u003c/b\u003e Reviews | Best \u003cb\u003eelliptical Trainer Elliptical Machine\u003c/b\u003e \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://ellipticalmachine-reviews.com/",
+   "displayLink": "ellipticalmachine-reviews.com",
+   "snippet": "At Elliptical Machine Reviews, we selected the best performed elliptical trainers   in the past year. We high rated these elliptical trainers at the \"best\" based on ...",
+   "htmlSnippet": "At \u003cb\u003eElliptical Machine\u003c/b\u003e Reviews, we selected the best performed \u003cb\u003eelliptical trainers\u003c/b\u003e \u003cbr\u003e  in the past year. We high rated these \u003cb\u003eelliptical trainers\u003c/b\u003e at the &quot;best&quot; based on \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "fSxs_wjKlUcJ",
+   "formattedUrl": "ellipticalmachine-reviews.com/",
+   "htmlFormattedUrl": "\u003cb\u003eellipticalmachine\u003c/b\u003e-reviews.com/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://ellipticalmachine-reviews.com/wp-content/uploads/2011/09/horizon-fitness-ex59.jpg",
+      "type": "1",
+      "width": "181",
+      "height": "241"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Elliptical Trainer Comparison Chart $3000-$4000+",
+   "htmlTitle": "\u003cb\u003eElliptical Trainer\u003c/b\u003e Comparison Chart $3000-$4000+",
+   "link": "http://www.allellipticals.com/elliptical-trainer-comparison-chart-5.html",
+   "displayLink": "www.allellipticals.com",
+   "snippet": "At-a-glance elliptical trainer comparison chart. Compare top brands and read our   reviews covering popular models all in one place.",
+   "htmlSnippet": "At-a-glance \u003cb\u003eelliptical trainer\u003c/b\u003e comparison chart. Compare top brands and read our \u003cbr\u003e  reviews covering popular models all in one place.",
+   "cacheId": "HikBDSdUqDYJ",
+   "formattedUrl": "www.allellipticals.com/elliptical-trainer-comparison-chart-5.html",
+   "htmlFormattedUrl": "www.all\u003cb\u003eelliptical\u003c/b\u003es.com/\u003cb\u003eelliptical\u003c/b\u003e-\u003cb\u003etrainer\u003c/b\u003e-comparison-chart-5.html",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.allellipticals.com/image-files/cybex-360a-elliptical-trainer_small.jpg",
+      "type": "1",
+      "width": "80",
+      "height": "80"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Compact Elliptical Trainer | Sears.com",
+   "htmlTitle": "Compact \u003cb\u003eElliptical Trainer\u003c/b\u003e | Sears.com",
+   "link": "http://www.sears.com/shc/s/t_10153_12605?tName=compact-elliptical-trainer.html",
+   "displayLink": "www.sears.com",
+   "snippet": "Elliptical machine with compact design that allows placement into even the most   space restrictive rooms and the roller wheels makes it easier to move to any ...",
+   "htmlSnippet": "\u003cb\u003eElliptical machine\u003c/b\u003e with compact design that allows placement into even the most \u003cbr\u003e  space restrictive rooms and the roller wheels makes it easier to move to any \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "cHHxWBXWxqgJ",
+   "formattedUrl": "www.sears.com/shc/s/t_10153_12605?tName...elliptical-trainer.html",
+   "htmlFormattedUrl": "www.sears.com/shc/s/t_10153_12605?tName...\u003cb\u003eelliptical\u003c/b\u003e-\u003cb\u003etrainer\u003c/b\u003e.html",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://s.shld.net/is/image/Sears/00680354000?wid=140&hei=140",
+      "type": "1",
+      "width": "112",
+      "height": "112"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Precor Elliptical Trainer Review - See How Precor Ellipticals Compare",
+   "htmlTitle": "Precor \u003cb\u003eElliptical Trainer\u003c/b\u003e Review - See How Precor Ellipticals Compare",
+   "link": "http://www.fitness-equipment-source.com/elliptical-reviews/precor-elliptical-review.htm",
+   "displayLink": "www.fitness-equipment-source.com",
+   "snippet": "The Precor Elliptical Trainers get a Best Buy Rating. A bit pricey, but the quality is   unsurpassed. See how it compares.",
+   "htmlSnippet": "The Precor \u003cb\u003eElliptical Trainers\u003c/b\u003e get a Best Buy Rating. A bit pricey, but the quality is \u003cbr\u003e  unsurpassed. See how it compares.",
+   "cacheId": "vJCYJYJS_NUJ",
+   "formattedUrl": "www.fitness-equipment-source.com/elliptical.../precor-elliptical-review.htm",
+   "htmlFormattedUrl": "www.fitness-equipment-source.com/\u003cb\u003eelliptical\u003c/b\u003e.../precor-\u003cb\u003eelliptical\u003c/b\u003e-review.htm",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.fitness-equipment-source.com/images/models/precor-efx-525.jpg",
+      "type": "1",
+      "width": "144",
+      "height": "160"
+     }
+    ]
+   }
+  }
+ ]
+}

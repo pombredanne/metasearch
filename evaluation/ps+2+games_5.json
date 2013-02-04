@@ -1,0 +1,382 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "nextPage": [
+   {
+    "title": "Google Custom Search - ps 2 games",
+    "totalResults": "53800000",
+    "searchTerms": "ps 2 games",
+    "count": 10,
+    "startIndex": 61,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "017401104989814545383:mf4lavmtuva"
+   }
+  ],
+  "request": [
+   {
+    "title": "Google Custom Search - ps 2 games",
+    "totalResults": "53800000",
+    "searchTerms": "ps 2 games",
+    "count": 10,
+    "startIndex": 51,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "017401104989814545383:mf4lavmtuva"
+   }
+  ],
+  "previousPage": [
+   {
+    "title": "Google Custom Search - ps 2 games",
+    "totalResults": "53800000",
+    "searchTerms": "ps 2 games",
+    "count": 10,
+    "startIndex": 41,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "017401104989814545383:mf4lavmtuva"
+   }
+  ]
+ },
+ "context": {
+  "title": "College MetaSearch Comparison"
+ },
+ "searchInformation": {
+  "searchTime": 0.210667,
+  "formattedSearchTime": "0.21",
+  "totalResults": "53800000",
+  "formattedTotalResults": "53,800,000"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "100 PS2 games - YouTube",
+   "htmlTitle": "100 \u003cb\u003ePS2 games\u003c/b\u003e - YouTube",
+   "link": "http://www.youtube.com/watch?v=YoLJ7p1aqf4",
+   "displayLink": "www.youtube.com",
+   "snippet": "Jan 19, 2008 ... In order to allow this vid to be viewable in other countries again, I used Youtube   Audio swap. Sorry if you hate the song I picked, but it fits the ...",
+   "htmlSnippet": "Jan 19, 2008 \u003cb\u003e...\u003c/b\u003e In order to allow this vid to be viewable in other countries again, I used Youtube \u003cbr\u003e  Audio swap. Sorry if you hate the song I picked, but it fits the \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "4EcIgvcTC_UJ",
+   "formattedUrl": "www.youtube.com/watch?v=YoLJ7p1aqf4",
+   "htmlFormattedUrl": "www.youtube.com/watch?v=YoLJ7p1aqf4",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://i2.ytimg.com/vi/YoLJ7p1aqf4/mqdefault.jpg",
+      "type": "1",
+      "width": "256",
+      "height": "144"
+     }
+    ],
+    "videoobject": [
+     {
+      "url": "http://www.youtube.com/watch?v=YoLJ7p1aqf4",
+      "name": "100 PS2 games",
+      "description": "In order to allow this vid to be viewable in other countries again, I used Youtube Audio swap. Sorry if you hate the song I picked, but it fits the time limi...",
+      "duration": "PT10M2S",
+      "unlisted": "False",
+      "paid": "False",
+      "thumbnailurl": "http://i2.ytimg.com/vi/YoLJ7p1aqf4/hqdefault.jpg",
+      "embedurl": "http://www.youtube.com/v/YoLJ7p1aqf4?version=3&autohide=1",
+      "playertype": "Flash",
+      "width": "480",
+      "height": "360"
+     }
+    ],
+    "person": [
+     {
+      "url": "http://www.youtube.com/user/teh2Dgamer"
+     }
+    ],
+    "metatags": [
+     {
+      "title": "100 PS2 games",
+      "og:url": "http://www.youtube.com/watch?v=YoLJ7p1aqf4",
+      "og:title": "100 PS2 games",
+      "og:description": "In order to allow this vid to be viewable in other countries again, I used Youtube Audio swap. Sorry if you hate the song I picked, but it fits the time limi...",
+      "og:type": "video",
+      "og:image": "http://i2.ytimg.com/vi/YoLJ7p1aqf4/mqdefault.jpg",
+      "og:video": "http://www.youtube.com/v/YoLJ7p1aqf4?version=3&autohide=1",
+      "og:video:type": "application/x-shockwave-flash",
+      "og:video:width": "480",
+      "og:video:height": "360",
+      "og:site_name": "YouTube",
+      "fb:app_id": "87741124305",
+      "twitter:player:width": "480",
+      "twitter:player:height": "360",
+      "attribution": "youtube_multi/"
+     }
+    ],
+    "imageobject": [
+     {
+      "url": "http://i2.ytimg.com/vi/YoLJ7p1aqf4/mqdefault.jpg",
+      "width": "320",
+      "height": "180"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Best PS2 games of all time | GamesRadar",
+   "htmlTitle": "Best \u003cb\u003ePS2 games\u003c/b\u003e of all time | GamesRadar",
+   "link": "http://www.gamesradar.com/best-ps2-games-all-time/",
+   "displayLink": "www.gamesradar.com",
+   "snippet": "Apr 19, 2012 ... The PS2 was the biggest system of the early 2000s, hosting not only the best   third party games of the day. That same era also saw ...",
+   "htmlSnippet": "Apr 19, 2012 \u003cb\u003e...\u003c/b\u003e The \u003cb\u003ePS2\u003c/b\u003e was the biggest system of the early 2000s, hosting not only the best \u003cbr\u003e  third party \u003cb\u003egames\u003c/b\u003e of the day. That same era also saw \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "0iUPTysqABIJ",
+   "formattedUrl": "www.gamesradar.com/best-ps2-games-all-time/",
+   "htmlFormattedUrl": "www.\u003cb\u003egames\u003c/b\u003eradar.com/best-\u003cb\u003eps2-games\u003c/b\u003e-all-time/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://c3333424.r24.cf0.rackcdn.com/3c3f1e5b7bd4590517e72ef5a1d79d38f487b04a.jpg__0x100_q85.jpg",
+      "type": "1",
+      "width": "141",
+      "height": "80"
+     }
+    ],
+    "metatags": [
+     {
+      "y_key": "e356672a839ee7e1",
+      "slurp": "NOYDIR",
+      "msvalidate.01": "218A71223DF55DAC2D154CE6EC00DC71",
+      "thumbnail_url": "http://c3333424.r24.cf0.rackcdn.com/3c3f1e5b7bd4590517e72ef5a1d79d38f487b04a.jpg__0x100_q85.jpg",
+      "fb:app_id": "296158467252",
+      "og:title": "Best PS2 games of all time | GamesRadar",
+      "og:type": "article",
+      "og:url": "http://www.gamesradar.com/best-ps2-games-all-time/",
+      "og:image": "http://c3333424.r24.cf0.rackcdn.com/3c3f1e5b7bd4590517e72ef5a1d79d38f487b04a.jpg__0x100_q85.jpg"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "can you play playstation 2 games on playstation 3?",
+   "htmlTitle": "can you play \u003cb\u003eplaystation 2 games\u003c/b\u003e on playstation 3?",
+   "link": "http://askville.amazon.com/play-playstation-games/AnswerViewer.do?requestId=8154104",
+   "displayLink": "askville.amazon.com",
+   "snippet": "In the US, there have been three releases of the Playstation 3: The original 60GB   version had hardware compatibility with PS2 games -- they effectively had all the ...",
+   "htmlSnippet": "In the US, there have been three releases of the Playstation 3: The original 60GB \u003cbr\u003e  version had hardware compatibility with \u003cb\u003ePS2 games\u003c/b\u003e -- they effectively had all the \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "5vS8y31sG6gJ",
+   "formattedUrl": "askville.amazon.com/play-playstation-games/AnswerViewer.do?...",
+   "htmlFormattedUrl": "askville.amazon.com/play-\u003cb\u003eplaystation\u003c/b\u003e-\u003cb\u003egames\u003c/b\u003e/AnswerViewer.do?..."
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "High-definition remasters for PlayStation consoles - Wikipedia, the ...",
+   "htmlTitle": "High-definition remasters for \u003cb\u003ePlayStation\u003c/b\u003e consoles - Wikipedia, the \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://en.wikipedia.org/wiki/High-definition_remasters_for_PlayStation_consoles",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "Sony has released a series of PlayStation 2 and PlayStation Portable video   games, remastered in high-definition (HD), for PlayStation 3 and PlayStation Vita.",
+   "htmlSnippet": "Sony has released a series of \u003cb\u003ePlayStation 2\u003c/b\u003e and PlayStation Portable video \u003cbr\u003e  \u003cb\u003egames\u003c/b\u003e, remastered in high-definition (HD), for PlayStation 3 and PlayStation Vita.",
+   "cacheId": "ZmW6xCYNGHAJ",
+   "formattedUrl": "en.wikipedia.org/.../High-definition_remasters_for_PlayStation_consoles",
+   "htmlFormattedUrl": "en.wikipedia.org/.../High-definition_remasters_for_\u003cb\u003ePlayStation\u003c/b\u003e_consoles"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Used Playstation 2 Games For Sale",
+   "htmlTitle": "Used \u003cb\u003ePlaystation 2 Games\u003c/b\u003e For Sale",
+   "link": "http://www.lukiegames.com/playstation-2-games",
+   "displayLink": "www.lukiegames.com",
+   "snippet": "Playstation 2 games on sale. Thousands of games in stock all ...",
+   "htmlSnippet": "\u003cb\u003ePlaystation 2 games\u003c/b\u003e on sale. Thousands of games in stock all \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "1I6CXFjAi-oJ",
+   "formattedUrl": "www.lukiegames.com/playstation-2-games",
+   "htmlFormattedUrl": "www.lukie\u003cb\u003egames\u003c/b\u003e.com/\u003cb\u003eplaystation\u003c/b\u003e-\u003cb\u003e2\u003c/b\u003e-\u003cb\u003egames\u003c/b\u003e"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "100 More PS2 Games - YouTube",
+   "htmlTitle": "100 More \u003cb\u003ePS2 Games\u003c/b\u003e - YouTube",
+   "link": "http://www.youtube.com/watch?v=mTTlNa4S7ZY",
+   "displayLink": "www.youtube.com",
+   "snippet": "Jan 24, 2009 ... This is a response to my original 100 PS2 games vid. ... That's right, the only two   sports games I have in my entire PS2 collection are Madden ...",
+   "htmlSnippet": "Jan 24, 2009 \u003cb\u003e...\u003c/b\u003e This is a response to my original 100 \u003cb\u003ePS2 games\u003c/b\u003e vid. \u003cb\u003e...\u003c/b\u003e That&#39;s right, the only two \u003cbr\u003e  sports games I have in my entire PS2 collection are Madden \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "P1zzesojXmUJ",
+   "formattedUrl": "www.youtube.com/watch?v=mTTlNa4S7ZY",
+   "htmlFormattedUrl": "www.youtube.com/watch?v=mTTlNa4S7ZY",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://i2.ytimg.com/vi/mTTlNa4S7ZY/mqdefault.jpg",
+      "type": "1",
+      "width": "256",
+      "height": "144"
+     }
+    ],
+    "videoobject": [
+     {
+      "url": "http://www.youtube.com/watch?v=mTTlNa4S7ZY",
+      "name": "100 More PS2 Games",
+      "description": "NOTE: Sorry for the crappy music, but I got a copyright claim on my vid, consider the current song as a filler until I find something better. It's hard to fi...",
+      "duration": "PT10M1S",
+      "unlisted": "False",
+      "paid": "False",
+      "thumbnailurl": "http://i2.ytimg.com/vi/mTTlNa4S7ZY/hqdefault.jpg",
+      "embedurl": "http://www.youtube.com/v/mTTlNa4S7ZY?version=3&autohide=1",
+      "playertype": "Flash",
+      "width": "640",
+      "height": "480"
+     }
+    ],
+    "person": [
+     {
+      "url": "http://www.youtube.com/user/teh2Dgamer"
+     }
+    ],
+    "metatags": [
+     {
+      "title": "100 More PS2 Games",
+      "og:url": "http://www.youtube.com/watch?v=mTTlNa4S7ZY",
+      "og:title": "100 More PS2 Games",
+      "og:description": "NOTE: Sorry for the crappy music, but I got a copyright claim on my vid, consider the current song as a filler until I find something better. It's hard to fi...",
+      "og:type": "video",
+      "og:image": "http://i2.ytimg.com/vi/mTTlNa4S7ZY/mqdefault.jpg",
+      "og:video": "http://www.youtube.com/v/mTTlNa4S7ZY?version=3&autohide=1",
+      "og:video:type": "application/x-shockwave-flash",
+      "og:video:width": "640",
+      "og:video:height": "480",
+      "og:site_name": "YouTube",
+      "fb:app_id": "87741124305",
+      "twitter:player:width": "640",
+      "twitter:player:height": "480",
+      "attribution": "youtube_none/"
+     }
+    ],
+    "imageobject": [
+     {
+      "url": "http://i2.ytimg.com/vi/mTTlNa4S7ZY/mqdefault.jpg",
+      "width": "320",
+      "height": "180"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Playstation 2 Game Walkthroughs, FAQs, and Guides By Title: index",
+   "htmlTitle": "\u003cb\u003ePlaystation 2 Game\u003c/b\u003e Walkthroughs, FAQs, and Guides By Title: index",
+   "link": "http://www.neoseeker.com/Games/faqs/PS2/",
+   "displayLink": "www.neoseeker.com",
+   "snippet": "Game FAQs, Guides and walkthroughs for Playstation 2 games.",
+   "htmlSnippet": "Game FAQs, Guides and walkthroughs for \u003cb\u003ePlaystation 2 games\u003c/b\u003e.",
+   "cacheId": "2OA83vE9PZEJ",
+   "formattedUrl": "www.neoseeker.com/Games/faqs/PS2/",
+   "htmlFormattedUrl": "www.neoseeker.com/\u003cb\u003eGames\u003c/b\u003e/faqs/\u003cb\u003ePS2\u003c/b\u003e/",
+   "pagemap": {
+    "metatags": [
+     {
+      "og:title": "Playstation 2 Game Walkthroughs, FAQs, and Guides By Title: index",
+      "og:type": "article",
+      "og:site_name": "Neoseeker",
+      "fb:admins": "100000871437313"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Action RPG",
+   "htmlTitle": "Action RPG",
+   "link": "http://ps2.ign.com/index/games.html?constraint.game_genre_name.game_genre_1.game_genre_2=Action%3ARPG&constraint.return_all=is_true",
+   "displayLink": "ps2.ign.com",
+   "snippet": "IGN PS2 is the ultimate resource for PlayStation 2 trailers, screenshots, cheats,   walkthroughs, release dates, previews, reviews, soundtracks, guides, news and ...",
+   "htmlSnippet": "IGN \u003cb\u003ePS2\u003c/b\u003e is the ultimate resource for \u003cb\u003ePlayStation 2\u003c/b\u003e trailers, screenshots, cheats, \u003cbr\u003e  walkthroughs, release dates, previews, reviews, soundtracks, guides, news and \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "LSCoE_ukH0sJ",
+   "formattedUrl": "ps2.ign.com/index/games.html?...game...game...game...2...",
+   "htmlFormattedUrl": "\u003cb\u003eps2\u003c/b\u003e.ign.com/index/\u003cb\u003egames\u003c/b\u003e.html?...\u003cb\u003egame\u003c/b\u003e...\u003cb\u003egame\u003c/b\u003e...\u003cb\u003egame\u003c/b\u003e...\u003cb\u003e2\u003c/b\u003e...",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://oystatic.ignimgs.com/src/core/img/widgets/global/page/ign-logo-100x100.jpg"
+     }
+    ],
+    "metatags": [
+     {
+      "og:type": "article",
+      "og:image": "http://oystatic.ignimgs.com/src/core/img/widgets/global/page/ign-logo-100x100.jpg",
+      "og:site_name": "IGN",
+      "fb:app_id": "115982828429116"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "All PlayStation 2 Games, List of All PlayStation 2 Games",
+   "htmlTitle": "All \u003cb\u003ePlayStation 2 Games\u003c/b\u003e, List of All \u003cb\u003ePlayStation 2 Games\u003c/b\u003e",
+   "link": "http://www.gamespot.com/games.html?category=racing&platform=7",
+   "displayLink": "www.gamespot.com",
+   "snippet": "PlayStation 2 Games - GamesSpot is your source for the most comprehensive list   of all PlayStation 2 games available.",
+   "htmlSnippet": "\u003cb\u003ePlayStation 2 Games\u003c/b\u003e - GamesSpot is your source for the most comprehensive list \u003cbr\u003e  of all \u003cb\u003ePlayStation 2 games\u003c/b\u003e available.",
+   "cacheId": "W680UHRKUOMJ",
+   "formattedUrl": "www.gamespot.com/games.html?category=racing&platform=7",
+   "htmlFormattedUrl": "www.\u003cb\u003egames\u003c/b\u003epot.com/\u003cb\u003egames\u003c/b\u003e.html?category=racing&amp;platform=7",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://image.gamespotcdn.net/gamespot/images/misc/movies/gsm_nfsmostwanted_vr_m_111705_140.jpg",
+      "type": "1",
+      "width": "112",
+      "height": "64"
+     }
+    ],
+    "metatags": [
+     {
+      "viewport": "width=1024",
+      "dw-page-params": "{'siteid':'6','sid':'6','ptid':'6069','onid':'4359','PD':'0','edid':'107','ts':'1342953940','oid':'6069-4359_6-0-0','pguid':'1IwnrQoPCRsAAB@ObSwAAAAI','ld':'www.gamespot.com','clgf':'','globid':'','url':'http://www.gamespot.com/games.html?category=racing&platform=7'}",
+      "dw-reg-silo": "2"
+     }
+    ],
+    "siteSearch": [
+     {
+      "pageType": "games"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Buy.com - PlayStation 2 Controllers, PS2 Memory Cards, and more ...",
+   "htmlTitle": "Buy.com - \u003cb\u003ePlayStation 2\u003c/b\u003e Controllers, \u003cb\u003ePS2\u003c/b\u003e Memory Cards, and more \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://www.buy.com/cat/playstation-2-controllers-ps2-memory-cards-and-more-accessories/62483.html",
+   "displayLink": "www.buy.com",
+   "snippet": "With hundreds of accessories available for the PlayStation 2 System, it's no   wonder that that the PS2 System has become one of the greatest selling video   game ...",
+   "htmlSnippet": "With hundreds of accessories available for the \u003cb\u003ePlayStation 2\u003c/b\u003e System, it&#39;s no \u003cbr\u003e  wonder that that the \u003cb\u003ePS2\u003c/b\u003e System has become one of the greatest selling video \u003cbr\u003e  \u003cb\u003egame\u003c/b\u003e \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "ySWiw9whH0cJ",
+   "formattedUrl": "www.buy.com/cat/playstation-2-controllers-ps2.../62483.html",
+   "htmlFormattedUrl": "www.buy.com/cat/\u003cb\u003eplaystation\u003c/b\u003e-\u003cb\u003e2\u003c/b\u003e-controllers-\u003cb\u003eps2\u003c/b\u003e.../62483.html",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://ak.buy.com/PI/0/225/207932547.jpg",
+      "type": "1",
+      "width": "180",
+      "height": "180"
+     }
+    ],
+    "metatags": [
+     {
+      "buy:user_agent": "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)",
+      "buy:web": "140",
+      "buy:server": "BWEB312",
+      "buy:time": "7/23/2012 12:48:08 AM",
+      "buy:cache": "10.12.11.140",
+      "og:site_name": "Buy.com",
+      "fb:app_id": "126281410751693"
+     }
+    ]
+   }
+  }
+ ]
+}

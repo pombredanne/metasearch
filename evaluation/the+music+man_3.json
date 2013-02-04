@@ -1,0 +1,413 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "nextPage": [
+   {
+    "title": "Google Custom Search - the music man",
+    "totalResults": "830000000",
+    "searchTerms": "the music man",
+    "count": 10,
+    "startIndex": 41,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "017401104989814545383:mf4lavmtuva"
+   }
+  ],
+  "request": [
+   {
+    "title": "Google Custom Search - the music man",
+    "totalResults": "830000000",
+    "searchTerms": "the music man",
+    "count": 10,
+    "startIndex": 31,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "017401104989814545383:mf4lavmtuva"
+   }
+  ],
+  "previousPage": [
+   {
+    "title": "Google Custom Search - the music man",
+    "totalResults": "830000000",
+    "searchTerms": "the music man",
+    "count": 10,
+    "startIndex": 21,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "017401104989814545383:mf4lavmtuva"
+   }
+  ]
+ },
+ "context": {
+  "title": "College MetaSearch Comparison"
+ },
+ "searchInformation": {
+  "searchTime": 0.273509,
+  "formattedSearchTime": "0.27",
+  "totalResults": "830000000",
+  "formattedTotalResults": "830,000,000"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "Amazon.com: The Music Man [VHS]: Robert Preston, Shirley Jones ...",
+   "htmlTitle": "Amazon.com: \u003cb\u003eThe Music Man\u003c/b\u003e [VHS]: Robert Preston, Shirley Jones \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://www.amazon.com/The-Music-Man-Robert-Preston/dp/0790738074",
+   "displayLink": "www.amazon.com",
+   "snippet": "The Music Man was one of the last great movie musicals from any studio, and it   proved to be that rarest of events: a Broadway show that was measurably ...",
+   "htmlSnippet": "\u003cb\u003eThe Music Man\u003c/b\u003e was one of the last great movie musicals from any studio, and it \u003cbr\u003e  proved to be that rarest of events: a Broadway show that was measurably \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "fa3NCDP72zwJ",
+   "formattedUrl": "www.amazon.com/The-Music-Man-Robert-Preston/.../0790738074",
+   "htmlFormattedUrl": "www.amazon.com/The-\u003cb\u003eMusic\u003c/b\u003e-\u003cb\u003eMan\u003c/b\u003e-Robert-Preston/.../0790738074",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://ecx.images-amazon.com/images/I/51B0KF94QDL._SL500_AA300_.jpg"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "225",
+      "height": "225",
+      "src": "https://encrypted-tbn2.google.com/images?q=tbn:ANd9GcRFx_8rK5wGDzjVWjvItvSqSYhO76IlL8cpdZ7JQqoy_SwRDpF1nHFISd-i"
+     }
+    ],
+    "scraped": [
+     {
+      "image_link": "http://ecx.images-amazon.com/images/I/51B0KF94QDL._SL500_AA300_.jpg"
+     }
+    ],
+    "metatags": [
+     {
+      "title": "Amazon.com: The Music Man [VHS]: Robert Preston, Shirley Jones, Buddy Hackett, Hermione Gingold, Paul Ford, Pert Kelton, The Buffalo Bills, Timmy Everett, Susan Luckey, Ron Howard, Harry Hickox, Charles Lane, Morton DaCosta, Scott Benson, Joel Freeman, Franklin Lacey, Marion Hargrove, Meredith Willson, Tom Edwards: Movies & TV"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "The Music Man",
+   "htmlTitle": "\u003cb\u003eThe Music Man\u003c/b\u003e",
+   "link": "http://www.osfashland.org/browse/production.aspx?prod=161",
+   "displayLink": "www.osfashland.org",
+   "snippet": "Why The Music Man at OSF? (2:45) Thoughts on the production (4:33) Need   more info? For age recommendations, synopsis, related articles, videos and   more, ...",
+   "htmlSnippet": "Why \u003cb\u003eThe Music Man\u003c/b\u003e at OSF? (2:45) Thoughts on the production (4:33) Need \u003cbr\u003e  more info? For age recommendations, synopsis, related articles, videos and \u003cbr\u003e  more, \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "GjnUqS9mpBYJ",
+   "formattedUrl": "www.osfashland.org/browse/production.aspx?prod=161",
+   "htmlFormattedUrl": "www.osfashland.org/browse/production.aspx?prod=161",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.osfashland.org/_img/browse/music-man.jpg",
+      "type": "1",
+      "width": "392",
+      "height": "105"
+     }
+    ],
+    "metatags": [
+     {
+      "author": "POP, http://www.pop.us/"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Amazon.com: The Music Man (1957 Original Broadway Cast): Music",
+   "htmlTitle": "Amazon.com: \u003cb\u003eThe Music Man\u003c/b\u003e (1957 Original Broadway Cast): Music",
+   "link": "http://www.amazon.com/Music-1957-Original-Broadway-Cast/dp/B00000DQTY",
+   "displayLink": "www.amazon.com",
+   "snippet": "FREE Two-Day Shipping is available to Amazon Prime members. To join, select \"  Yes, I want FREE Two-Day Shipping with Amazon Prime\" above the Add to ...",
+   "htmlSnippet": "FREE Two-Day Shipping is available to Amazon Prime members. To join, select &quot;\u003cbr\u003e  Yes, I want FREE Two-Day Shipping with Amazon Prime&quot; above the Add to \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "cXNuyuxHrVsJ",
+   "formattedUrl": "www.amazon.com/Music-1957-Original...Cast/dp/B00000DQTY",
+   "htmlFormattedUrl": "www.amazon.com/\u003cb\u003eMusic\u003c/b\u003e-1957-Original...Cast/dp/B00000DQTY",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://ecx.images-amazon.com/images/I/419XJKXEE2L._SL500_AA300_.jpg"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "225",
+      "height": "225",
+      "src": "https://encrypted-tbn2.google.com/images?q=tbn:ANd9GcSx7y5tw9rbDFfir58L4L6eOn2ecTMv0Srz5Wy2iqe7o2-pWIYmk4bs6e3y"
+     }
+    ],
+    "scraped": [
+     {
+      "image_link": "http://ecx.images-amazon.com/images/I/419XJKXEE2L._SL500_AA300_.jpg"
+     }
+    ],
+    "metatags": [
+     {
+      "title": "Amazon.com: The Music Man (1957 Original Broadway Cast): Music"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Redwood City Community Theater Proudly Presents....",
+   "htmlTitle": "Redwood City Community Theater Proudly Presents....",
+   "link": "http://www.rwctheatre.org/",
+   "displayLink": "www.rwctheatre.org",
+   "snippet": "Make sure to go to the Redwood City Community Theatre's production of Legally   Blonde - the Musical. Want to make this summer even better yet? BE A PART ...",
+   "htmlSnippet": "Make sure to go to the Redwood City Community Theatre&#39;s production of Legally \u003cbr\u003e  Blonde - \u003cb\u003ethe Musical\u003c/b\u003e. Want to make this summer even better yet? BE A PART \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "_tW0AxAgXQwJ",
+   "formattedUrl": "www.rwctheatre.org/",
+   "htmlFormattedUrl": "www.rwctheatre.org/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.rwctheatre.org/Welcome_files/shapeimage_5.png",
+      "type": "1",
+      "width": "252",
+      "height": "168"
+     }
+    ],
+    "metatags": [
+     {
+      "iweb-build": "local-build-20120706",
+      "viewport": "width=700"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "The Music Man Shirley Jones \"Till There Was You\" - YouTube",
+   "htmlTitle": "\u003cb\u003eThe Music Man\u003c/b\u003e Shirley Jones &quot;Till There Was You&quot; - YouTube",
+   "link": "http://www.youtube.com/watch?v=JLDsLeVxOaU",
+   "displayLink": "www.youtube.com",
+   "snippet": "May 10, 2007 ... lyrics here.... There were bells on the hill, But I never heard them ringing, No, I   never heard them at all Till there was you.There were birds in the ...",
+   "htmlSnippet": "May 10, 2007 \u003cb\u003e...\u003c/b\u003e lyrics here.... There were bells on the hill, But I never heard them ringing, No, I \u003cbr\u003e  never heard them at all Till there was you.There were birds in the \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "7HZkgXLtSiwJ",
+   "formattedUrl": "www.youtube.com/watch?v=JLDsLeVxOaU",
+   "htmlFormattedUrl": "www.youtube.com/watch?v=JLDsLeVxOaU",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://i3.ytimg.com/vi/JLDsLeVxOaU/mqdefault.jpg",
+      "type": "1",
+      "width": "256",
+      "height": "144"
+     }
+    ],
+    "videoobject": [
+     {
+      "url": "http://www.youtube.com/watch?v=JLDsLeVxOaU",
+      "name": "The Music Man Shirley Jones \"Till There Was You\"",
+      "description": "lyrics here.... There were bells on the hill, But I never heard them ringing, No, I never heard them at all Till there was you.There were birds in the sky Bu...",
+      "duration": "PT4M16S",
+      "unlisted": "False",
+      "paid": "False",
+      "thumbnailurl": "http://i3.ytimg.com/vi/JLDsLeVxOaU/hqdefault.jpg",
+      "embedurl": "http://www.youtube.com/v/JLDsLeVxOaU?version=3&autohide=1",
+      "playertype": "Flash",
+      "width": "480",
+      "height": "360"
+     }
+    ],
+    "person": [
+     {
+      "url": "http://www.youtube.com/user/BravoDivine"
+     }
+    ],
+    "metatags": [
+     {
+      "title": "The Music Man Shirley Jones \"Till There Was You\"",
+      "og:url": "http://www.youtube.com/watch?v=JLDsLeVxOaU",
+      "og:title": "The Music Man Shirley Jones \"Till There Was You\"",
+      "og:description": "lyrics here.... There were bells on the hill, But I never heard them ringing, No, I never heard them at all Till there was you.There were birds in the sky Bu...",
+      "og:type": "video",
+      "og:image": "http://i3.ytimg.com/vi/JLDsLeVxOaU/mqdefault.jpg",
+      "og:video": "http://www.youtube.com/v/JLDsLeVxOaU?version=3&autohide=1",
+      "og:video:type": "application/x-shockwave-flash",
+      "og:video:width": "480",
+      "og:video:height": "360",
+      "og:site_name": "YouTube",
+      "fb:app_id": "87741124305",
+      "twitter:player:width": "480",
+      "twitter:player:height": "360",
+      "attribution": "youtube_none/"
+     }
+    ],
+    "imageobject": [
+     {
+      "url": "http://i3.ytimg.com/vi/JLDsLeVxOaU/mqdefault.jpg",
+      "width": "320",
+      "height": "180"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Rick Rubin - Recording Industry - Rock Music - NYTimes.com",
+   "htmlTitle": "Rick Rubin - Recording Industry - Rock \u003cb\u003eMusic\u003c/b\u003e - NYTimes.com",
+   "link": "http://www.nytimes.com/2007/09/02/magazine/02rubin.t.html?pagewanted=all",
+   "displayLink": "www.nytimes.com",
+   "snippet": "Sep 2, 2007 ... The Music Man. By LYNN HIRSCHBERG ... A song by a new band called the   Gossip is playing, and he is concentrating. He appears to be in a ...",
+   "htmlSnippet": "Sep 2, 2007 \u003cb\u003e...\u003c/b\u003e \u003cb\u003eThe Music Man\u003c/b\u003e. By LYNN HIRSCHBERG \u003cb\u003e...\u003c/b\u003e A song by a new band called the \u003cbr\u003e  Gossip is playing, and he is concentrating. He appears to be in a \u003cb\u003e...\u003c/b\u003e",
+   "formattedUrl": "www.nytimes.com/2007/09/02/magazine/02rubin.t.html?pagewanted=all",
+   "htmlFormattedUrl": "www.nytimes.com/2007/09/02/magazine/02rubin.t.html?pagewanted=all",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://graphics8.nytimes.com/images/2007/08/28/magazine/02rubin75.jpg"
+     }
+    ],
+    "thumbnail": [
+     {
+      "src": "images/2007/08/28/magazine/02rubin75.jpg",
+      "width": "75",
+      "height": "75"
+     }
+    ],
+    "article": [
+     {
+      "url": "http://www.nytimes.com/2007/09/02/magazine/02rubin.t.html?pagewanted=all",
+      "type": "article",
+      "title": "Rick Rubin - Recording Industry - Rock Music",
+      "image": "http://graphics8.nytimes.com/images/2007/08/28/magazine/02rubin75.jpg"
+     }
+    ],
+    "metatags": [
+     {
+      "displaydate": "September 2, 2007",
+      "hdl": "Rick Rubin - Recording Industry - Rock Music",
+      "hdl_p": "The Music Man",
+      "byl": "By LYNN HIRSCHBERG",
+      "lp": "Columbia didn’t hire producer Rick Rubin to punch a clock. It wants him to save the company. And just maybe the record business.",
+      "cre": "The New York Times",
+      "edt": "NewYork",
+      "pdate": "20070902",
+      "des": "Recordings and Downloads (Audio)",
+      "dat": "September 2, 2007",
+      "tom": "News",
+      "dsk": "Magazine",
+      "articleid": "1154688035296",
+      "article_template_version": "700",
+      "hdr_img": "/images/article/header/sect_magazine.gif",
+      "thumbnail": "images/2007/08/28/magazine/02rubin75.jpg",
+      "thumbnail_height": "75",
+      "thumbnail_width": "75",
+      "sectionfront_jsonp": "http://json8.nytimes.com/pages/magazine/index.jsonp",
+      "cg": "magazine",
+      "pt": "Article",
+      "pst": "News",
+      "og:url": "http://www.nytimes.com/2007/09/02/magazine/02rubin.t.html?pagewanted=all",
+      "og:type": "article",
+      "og:title": "Rick Rubin - Recording Industry - Rock Music",
+      "og:image": "http://graphics8.nytimes.com/images/2007/08/28/magazine/02rubin75.jpg"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Music Man - Wikipedia, the free encyclopedia",
+   "htmlTitle": "\u003cb\u003eMusic Man\u003c/b\u003e - Wikipedia, the free encyclopedia",
+   "link": "http://en.wikipedia.org/wiki/Music_Man",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "Music Man can refer to: The Music Man, a Broadway musical play by Meredith   Willson. The Music Man (1962 film), a feature film adaptation; The Music Man ...",
+   "htmlSnippet": "\u003cb\u003eMusic Man\u003c/b\u003e can refer to: \u003cb\u003eThe Music Man\u003c/b\u003e, a Broadway musical play by Meredith \u003cbr\u003e  Willson. \u003cb\u003eThe Music Man\u003c/b\u003e (1962 film), a feature film adaptation; \u003cb\u003eThe Music Man\u003c/b\u003e \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "k9D1_pVQv1kJ",
+   "formattedUrl": "en.wikipedia.org/wiki/Music_Man",
+   "htmlFormattedUrl": "en.wikipedia.org/wiki/\u003cb\u003eMusic\u003c/b\u003e_\u003cb\u003eMan\u003c/b\u003e"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Arena Stage | The Music Man",
+   "htmlTitle": "Arena Stage | \u003cb\u003eThe Music Man\u003c/b\u003e",
+   "link": "http://tickets.arenastage.org/single/psDetail.aspx?psn=13383",
+   "displayLink": "tickets.arenastage.org",
+   "snippet": "Giant American Musical The Music Man book, music and lyrics by Meredith   Willson story by Meredith Willson and Franklin Lacey directed by Molly Smith ...",
+   "htmlSnippet": "Giant American Musical \u003cb\u003eThe Music Man\u003c/b\u003e book, music and lyrics by Meredith \u003cbr\u003e  Willson story by Meredith Willson and Franklin Lacey directed by Molly Smith \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "Mt6-TbXRqSYJ",
+   "formattedUrl": "tickets.arenastage.org/single/psDetail.aspx?psn=13383",
+   "htmlFormattedUrl": "tickets.arenastage.org/single/psDetail.aspx?psn=13383",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.arenastage.org/shows-tickets/images/img-the-music-man.jpg",
+      "type": "1",
+      "width": "112",
+      "height": "174"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Amazon.com: The Music Man: Robert Preston, Shirley Jones, Buddy ...",
+   "htmlTitle": "Amazon.com: \u003cb\u003eThe Music Man\u003c/b\u003e: Robert Preston, Shirley Jones, Buddy \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://www.amazon.com/The-Music-Man/dp/B002M87V0A",
+   "displayLink": "www.amazon.com",
+   "snippet": "US Theatrical Release Date: July 06, 1962; Production Company: Warner Bros.   Pictures; Also Known As: Meredith Willson's The Music Man; Filming Locations: ...",
+   "htmlSnippet": "US Theatrical Release Date: July 06, 1962; Production Company: Warner Bros. \u003cbr\u003e  Pictures; Also Known As: Meredith Willson&#39;s \u003cb\u003eThe Music Man\u003c/b\u003e; Filming Locations: \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "yOBZpVVW3xYJ",
+   "formattedUrl": "www.amazon.com/The-Music-Man/dp/B002M87V0A",
+   "htmlFormattedUrl": "www.amazon.com/The-\u003cb\u003eMusic\u003c/b\u003e-\u003cb\u003eMan\u003c/b\u003e/dp/B002M87V0A",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://ecx.images-amazon.com/images/I/51Z0phjJqVL._SX500_.jpg",
+      "type": "1",
+      "width": "194",
+      "height": "259"
+     }
+    ],
+    "metatags": [
+     {
+      "title": "Amazon.com: The Music Man: Robert Preston, Shirley Jones, Buddy Hackett, Hermione Gingold: Amazon Instant Video"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "The Music Man (1962) - Memorable quotes",
+   "htmlTitle": "\u003cb\u003eThe Music Man\u003c/b\u003e (1962) - Memorable quotes",
+   "link": "http://www.imdb.com/title/tt0056262/quotes",
+   "displayLink": "www.imdb.com",
+   "snippet": "The Music Man Quotes on IMDb: Movies, TV, Celebs, and more...",
+   "htmlSnippet": "\u003cb\u003eThe Music Man\u003c/b\u003e Quotes on IMDb: Movies, TV, Celebs, and more...",
+   "cacheId": "ZO57Xtw_kTYJ",
+   "formattedUrl": "www.imdb.com/title/tt0056262/quotes",
+   "htmlFormattedUrl": "www.imdb.com/title/tt0056262/quotes",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://ia.media-imdb.com/images/M/MV5BMTIwMjQ3NDc5Ml5BMl5BanBnXkFtZTcwODY5NzIyMQ@@._V1._SX82_SY140_.jpg",
+      "type": "1",
+      "width": "65",
+      "height": "112"
+     }
+    ],
+    "metatags": [
+     {
+      "og:url": "http://www.imdb.com/title/tt0056262/quotes",
+      "title": "The Music Man (1962) - Memorable quotes",
+      "application-name": "IMDb",
+      "msapplication-tooltip": "IMDb Web App",
+      "msapplication-window": "width=1500;height=900",
+      "msapplication-task": "name=Find Movie Showtimes;action-uri=/showtimes/;icon-uri=http://i.media-imdb.com/images/SFff39adb4d259f3c3fd166853a6714a32/favicon.ico",
+      "fb:app_id": "115109575169727",
+      "og:title": "The Music Man (1962) - Memorable quotes",
+      "og:site_name": "IMDb"
+     }
+    ]
+   }
+  }
+ ]
+}

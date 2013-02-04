@@ -1,0 +1,264 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "nextPage": [
+   {
+    "title": "Google Custom Search - wilson antenna",
+    "totalResults": "623000",
+    "searchTerms": "wilson antenna",
+    "count": 10,
+    "startIndex": 51,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "017401104989814545383:mf4lavmtuva"
+   }
+  ],
+  "request": [
+   {
+    "title": "Google Custom Search - wilson antenna",
+    "totalResults": "623000",
+    "searchTerms": "wilson antenna",
+    "count": 10,
+    "startIndex": 41,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "017401104989814545383:mf4lavmtuva"
+   }
+  ],
+  "previousPage": [
+   {
+    "title": "Google Custom Search - wilson antenna",
+    "totalResults": "623000",
+    "searchTerms": "wilson antenna",
+    "count": 10,
+    "startIndex": 31,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "017401104989814545383:mf4lavmtuva"
+   }
+  ]
+ },
+ "context": {
+  "title": "College MetaSearch Comparison"
+ },
+ "searchInformation": {
+  "searchTime": 0.151146,
+  "formattedSearchTime": "0.15",
+  "totalResults": "623000",
+  "formattedTotalResults": "623,000"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "Technical Support | Wilson Antennas",
+   "htmlTitle": "Technical Support | \u003cb\u003eWilson Antennas\u003c/b\u003e",
+   "link": "http://www.wilsonantenna.com/technical_support.php",
+   "displayLink": "www.wilsonantenna.com",
+   "snippet": "Contact Support. Phone: 1-800-542-6263. Email: techsupport@roadprobrands.  com. Know Before You Call. If you need additional assistance, please have the ...",
+   "htmlSnippet": "Contact Support. Phone: 1-800-542-6263. Email: techsupport@roadprobrands.\u003cbr\u003e  com. Know Before You Call. If you need additional assistance, please have the \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "702eIQzB2EkJ",
+   "formattedUrl": "www.wilsonantenna.com/technical_support.php",
+   "htmlFormattedUrl": "www.\u003cb\u003ewilsonantenna\u003c/b\u003e.com/technical_support.php"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Wilson Silver Load FGT CB Antenna | Right Channel Radios",
+   "htmlTitle": "\u003cb\u003eWilson\u003c/b\u003e Silver Load FGT CB \u003cb\u003eAntenna\u003c/b\u003e | Right Channel Radios",
+   "link": "http://www.rightchannelradios.com/wilson-silver-load-fgt-cb-antenna.html",
+   "displayLink": "www.rightchannelradios.com",
+   "snippet": "The Wilson Silver Load is proven and guaranteed to work better than your current   CB antenna! Fast Shipping, 120% Satisfaction Guarantee!",
+   "htmlSnippet": "The \u003cb\u003eWilson\u003c/b\u003e Silver Load is proven and guaranteed to work better than your current \u003cbr\u003e  CB \u003cb\u003eantenna\u003c/b\u003e! Fast Shipping, 120% Satisfaction Guarantee!",
+   "cacheId": "PZOcPld86e4J",
+   "formattedUrl": "www.rightchannelradios.com/wilson-silver-load-fgt-cb-antenna.html",
+   "htmlFormattedUrl": "www.rightchannelradios.com/\u003cb\u003ewilson\u003c/b\u003e-silver-load-fgt-cb-\u003cb\u003eantenna\u003c/b\u003e.html",
+   "pagemap": {
+    "Offering": [
+     {
+      "validFrom": "2012-07-22T00:00:00-07:00",
+      "validThrough": "2012-10-22T02:01:21-07:00",
+      "eligibleRegions": "AL",
+      "name": "Wilson Silver Load FGT CB Antenna",
+      "description": "The FGT line of Wilson antennas has several attractive features and is guaranteed to work better than any other fiberglass antenna in its class. Wilson designed this antenna with an exclusive..."
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "wpsantennas.com - Cellular Antenna and Amplifier Reception ...",
+   "htmlTitle": "wpsantennas.com - Cellular \u003cb\u003eAntenna\u003c/b\u003e and Amplifier Reception \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://www.wpsantennas.com/antenna-adapter-cables.aspx",
+   "displayLink": "www.wpsantennas.com",
+   "snippet": "Wilson Cellular / Wilson Electronics Antenna Adapters (Phone ...",
+   "htmlSnippet": "\u003cb\u003eWilson\u003c/b\u003e Cellular / \u003cb\u003eWilson\u003c/b\u003e Electronics \u003cb\u003eAntenna\u003c/b\u003e Adapters (Phone \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "7pEDt3SN-fYJ",
+   "formattedUrl": "www.wpsantennas.com/antenna-adapter-cables.aspx",
+   "htmlFormattedUrl": "www.wps\u003cb\u003eantennas\u003c/b\u003e.com/\u003cb\u003eantenna\u003c/b\u003e-adapter-cables.aspx",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.wpsantennas.com/ProductImages/phoneadapters/Thumb_GenericAdapter.JPG",
+      "type": "1",
+      "width": "77",
+      "height": "73"
+     }
+    ],
+    "metatags": [
+     {
+      "og:description": "Wilson Cellular / Wilson Electronics Antenna Adapters (Phone Adapter Cables). Phone adapter cables are used to connect Wilson Cellular Antennas to a particular phone. Also referred to as External Antenna Adapter Cables, Cell Phone Adapter Cable, Cell Phone Antenna Adapter",
+      "og:image": "http://www.wpsantennas.com/themes/migration-1/images/layout/site_logo.gif",
+      "og:title": "wpsantennas.com - Cellular Antenna and Amplifier Reception Solutions",
+      "og:site_name": "wpsantennas.com - Cellular Antenna and Amplifier Reception Solutions",
+      "og:url": "http://www.wpsantennas.com/"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "wpsantennas.com - Cell Phone Antennas Boost Your Cellular Signal",
+   "htmlTitle": "wpsantennas.com - Cell Phone \u003cb\u003eAntennas\u003c/b\u003e Boost Your Cellular Signal",
+   "link": "http://www.wpsantennas.com/cell-phone-antennas.aspx",
+   "displayLink": "www.wpsantennas.com",
+   "snippet": "Results 1 - 30 of 108 ... Wilson Cellular / Wilson Electronics Dual-Band and ...",
+   "htmlSnippet": "Results 1 - 30 of 108 \u003cb\u003e...\u003c/b\u003e \u003cb\u003eWilson\u003c/b\u003e Cellular / \u003cb\u003eWilson\u003c/b\u003e Electronics Dual-Band and \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "lZolbx4Wo5UJ",
+   "formattedUrl": "www.wpsantennas.com/cell-phone-antennas.aspx",
+   "htmlFormattedUrl": "www.wps\u003cb\u003eantennas\u003c/b\u003e.com/cell-phone-\u003cb\u003eantennas\u003c/b\u003e.aspx",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.wpsantennas.com/images/categories/LTE.jpg",
+      "type": "1",
+      "width": "77",
+      "height": "73"
+     }
+    ],
+    "metatags": [
+     {
+      "og:description": "Wilson Cellular / Wilson Electronics Dual-Band and iDEN/Nextel Cellular Antennas. A phone adapter cable is required to connect a Wilson Cellular Antenna to a particular phone. Also referred to as Cell Antenna, Cell Antennas, Cell Phone Antenna, Cell Phone Antennas, Cellular Antenna, Cellular Antennas, Nextel Antenna, Nextel Antennas",
+      "og:image": "http://www.wpsantennas.com/themes/migration-1/images/layout/site_logo.gif",
+      "og:title": "wpsantennas.com - Cellular Antenna and Amplifier Reception Solutions",
+      "og:site_name": "wpsantennas.com - Cellular Antenna and Amplifier Reception Solutions",
+      "og:url": "http://www.wpsantennas.com/"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Ask the Antenna Doctor | Wilson Antennas",
+   "htmlTitle": "Ask the Antenna Doctor | \u003cb\u003eWilson Antennas\u003c/b\u003e",
+   "link": "http://www.wilsonantenna.com/ask.php",
+   "displayLink": "www.wilsonantenna.com",
+   "snippet": "For more information on how to properly set your SWR with a Wilson Antenna,   click here. -Antenna Doctor. I have a 2006 dodge ram 1500 and I have a Wilson ...",
+   "htmlSnippet": "For more information on how to properly set your SWR with a \u003cb\u003eWilson Antenna\u003c/b\u003e, \u003cbr\u003e  click here. -Antenna Doctor. I have a 2006 dodge ram 1500 and I have a Wilson \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "cDDMVcjfwXMJ",
+   "formattedUrl": "www.wilsonantenna.com/ask.php",
+   "htmlFormattedUrl": "www.\u003cb\u003ewilsonantenna\u003c/b\u003e.com/ask.php"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Dealers | Wilson Antennas",
+   "htmlTitle": "Dealers | \u003cb\u003eWilson Antennas\u003c/b\u003e",
+   "link": "http://www.wilsonantenna.com/dealers.php?state=CA",
+   "displayLink": "www.wilsonantenna.com",
+   "snippet": "Wilson antennas can be found at many truck stops and travel ...",
+   "htmlSnippet": "\u003cb\u003eWilson antennas\u003c/b\u003e can be found at many truck stops and travel \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "jW5rz8l1a9UJ",
+   "formattedUrl": "www.wilsonantenna.com/dealers.php?state=CA",
+   "htmlFormattedUrl": "www.\u003cb\u003ewilsonantenna\u003c/b\u003e.com/dealers.php?state=CA"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Mt. Wilson, California",
+   "htmlTitle": "Mt. \u003cb\u003eWilson\u003c/b\u003e, California",
+   "link": "http://www.well.com/~dmsml/wilson.html",
+   "displayLink": "www.well.com",
+   "snippet": "Mt. Wilson Antenna Farms Angeles National Forest Los Angeles County,   California. This electronic site has some very high-power FM stations, including   the ...",
+   "htmlSnippet": "Mt. \u003cb\u003eWilson Antenna\u003c/b\u003e Farms Angeles National Forest Los Angeles County, \u003cbr\u003e  California. This electronic site has some very high-power FM stations, including \u003cbr\u003e  the \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "1PatbS49oRAJ",
+   "formattedUrl": "www.well.com/~dmsml/wilson.html",
+   "htmlFormattedUrl": "www.well.com/~dmsml/\u003cb\u003ewilson\u003c/b\u003e.html",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.well.com/~dmsml/wilson4.jpg",
+      "type": "1",
+      "width": "278",
+      "height": "181"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Testimonials | Wilson Antennas",
+   "htmlTitle": "Testimonials | \u003cb\u003eWilson Antennas\u003c/b\u003e",
+   "link": "http://www.wilsonantenna.com/testimonials.php?id=3",
+   "displayLink": "www.wilsonantenna.com",
+   "snippet": "Wilson Antenna Testimonial Videos. ... Wilson is the #1 selling antenna in the   trucking industry because of our high-quality standards and power handling ...",
+   "htmlSnippet": "\u003cb\u003eWilson Antenna\u003c/b\u003e Testimonial Videos. \u003cb\u003e...\u003c/b\u003e Wilson is the #1 selling antenna in the \u003cbr\u003e  trucking industry because of our high-quality standards and power handling \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "CkSFuhUMXckJ",
+   "formattedUrl": "www.wilsonantenna.com/testimonials.php?id=3",
+   "htmlFormattedUrl": "www.\u003cb\u003ewilsonantenna\u003c/b\u003e.com/testimonials.php?id=3",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.wilsonantenna.com/testimonials/thumb2.jpg",
+      "type": "1",
+      "width": "74",
+      "height": "74"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "A Top Provider Of Wilson Cell Phone Repeaters, Cell Phone Signal ...",
+   "htmlTitle": "A Top Provider Of \u003cb\u003eWilson\u003c/b\u003e Cell Phone Repeaters, Cell Phone Signal \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://www.unwiredsignal.com/",
+   "displayLink": "www.unwiredsignal.com",
+   "snippet": "Antenna Adapters. Wilson Electronics UnwiredSignal.com. Jeff Brackenridge,   Operations Marilu Castro, Office Manager. David Jones, Founder Dallas, Texas ...",
+   "htmlSnippet": "\u003cb\u003eAntenna\u003c/b\u003e Adapters. \u003cb\u003eWilson\u003c/b\u003e Electronics UnwiredSignal.com. Jeff Brackenridge, \u003cbr\u003e  Operations Marilu Castro, Office Manager. David Jones, Founder Dallas, Texas \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "dP5hfOTJ6J4J",
+   "formattedUrl": "www.unwiredsignal.com/",
+   "htmlFormattedUrl": "www.unwiredsignal.com/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.unwiredsignal.com/data/shopcart7/image_db/thm_ez1662.jpg",
+      "type": "1",
+      "width": "120",
+      "height": "120"
+     }
+    ],
+    "metatags": [
+     {
+      "author": "Unwired Signal",
+      "alexaverifyid": "noxqPOB46xgj7ffQ_VyQC-WSVuw"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Miscellaneous Accessories | Wilson Antennas",
+   "htmlTitle": "Miscellaneous Accessories | \u003cb\u003eWilson Antennas\u003c/b\u003e",
+   "link": "http://www.wilsonantenna.com/misc.php",
+   "displayLink": "www.wilsonantenna.com",
+   "snippet": "Item #, Description. 305-900905, 49\" 2000-5000 Trucker Whip ...",
+   "htmlSnippet": "Item #, Description. 305-900905, 49&quot; 2000-5000 Trucker Whip \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "aIRmvFTRqtEJ",
+   "formattedUrl": "www.wilsonantenna.com/misc.php",
+   "htmlFormattedUrl": "www.\u003cb\u003ewilsonantenna\u003c/b\u003e.com/misc.php"
+  }
+ ]
+}

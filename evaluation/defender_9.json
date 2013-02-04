@@ -1,0 +1,259 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "nextPage": [
+   {
+    "title": "Google Custom Search - defender",
+    "totalResults": "19600000",
+    "searchTerms": "defender",
+    "count": 10,
+    "startIndex": 101,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "017401104989814545383:mf4lavmtuva"
+   }
+  ],
+  "request": [
+   {
+    "title": "Google Custom Search - defender",
+    "totalResults": "19600000",
+    "searchTerms": "defender",
+    "count": 10,
+    "startIndex": 91,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "017401104989814545383:mf4lavmtuva"
+   }
+  ],
+  "previousPage": [
+   {
+    "title": "Google Custom Search - defender",
+    "totalResults": "19600000",
+    "searchTerms": "defender",
+    "count": 10,
+    "startIndex": 81,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "017401104989814545383:mf4lavmtuva"
+   }
+  ]
+ },
+ "context": {
+  "title": "College MetaSearch Comparison"
+ },
+ "searchInformation": {
+  "searchTime": 0.165664,
+  "formattedSearchTime": "0.17",
+  "totalResults": "19600000",
+  "formattedTotalResults": "19,600,000"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "State Public Defender",
+   "htmlTitle": "State Public \u003cb\u003eDefender\u003c/b\u003e",
+   "link": "http://www.ospd.ca.gov/",
+   "displayLink": "www.ospd.ca.gov",
+   "snippet": "The Office of the State Public Defender was created by the California Legislature   in 1976 to represent indigent criminal defendants on appeal. The office was ...",
+   "htmlSnippet": "The Office of the State Public \u003cb\u003eDefender\u003c/b\u003e was created by the California Legislature \u003cbr\u003e  in 1976 to represent indigent criminal defendants on appeal. The office was \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "m_aCnwKQxmAJ",
+   "formattedUrl": "www.ospd.ca.gov/",
+   "htmlFormattedUrl": "www.ospd.ca.gov/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.ospd.ca.gov/images/amberlogo2.gif",
+      "type": "1",
+      "width": "160",
+      "height": "56"
+     }
+    ],
+    "metatags": [
+     {
+      "author": "State of California Office of the State Public Defender"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Public Defender Corps | Equal Justice Works",
+   "htmlTitle": "Public \u003cb\u003eDefender\u003c/b\u003e Corps | Equal Justice Works",
+   "link": "http://www.equaljusticeworks.org/post-grad/public-defender-corps/",
+   "displayLink": "www.equaljusticeworks.org",
+   "snippet": "Across the country, public defender offices are underfunded, understaffed and   burdened with insurmountable caseloads. With too few public defenders   handling ...",
+   "htmlSnippet": "Across the country, public \u003cb\u003edefender\u003c/b\u003e offices are underfunded, understaffed and \u003cbr\u003e  burdened with insurmountable caseloads. With too few public \u003cb\u003edefenders\u003c/b\u003e \u003cbr\u003e  handling \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "vDhw68bp9wwJ",
+   "formattedUrl": "www.equaljusticeworks.org/post-grad/public-defender-corps/",
+   "htmlFormattedUrl": "www.equaljusticeworks.org/post-grad/public-\u003cb\u003edefender\u003c/b\u003e-corps/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.equaljusticeworks.org/sites/default/files/u5/pdc_logo.png",
+      "type": "1",
+      "width": "293",
+      "height": "172"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Welcome to WDA — Washington Defender Association",
+   "htmlTitle": "Welcome to WDA — Washington \u003cb\u003eDefender\u003c/b\u003e Association",
+   "link": "http://www.defensenet.org/",
+   "displayLink": "www.defensenet.org",
+   "snippet": "WDA is an association of Washington State criminal defense attorneys and public   defender, social workers, investigators and those committed to improving ...",
+   "htmlSnippet": "WDA is an association of Washington State criminal defense attorneys and public \u003cbr\u003e  \u003cb\u003edefender\u003c/b\u003e, social workers, investigators and those committed to improving \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "fG2IhvUv5nQJ",
+   "formattedUrl": "www.defensenet.org/",
+   "htmlFormattedUrl": "www.defensenet.org/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.defensenet.org/WDAblack.jpg/image_preview",
+      "type": "1",
+      "width": "228",
+      "height": "221"
+     }
+    ],
+    "hcard": [
+     {
+      "fn": "Washington Defender Association"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Mac Defender - Wikipedia, the free encyclopedia",
+   "htmlTitle": "Mac \u003cb\u003eDefender\u003c/b\u003e - Wikipedia, the free encyclopedia",
+   "link": "http://en.wikipedia.org/wiki/Mac_Defender",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "Mac Defender (also known as Mac Protector, Mac Security,Mac Guard, and Mac   Shield) is an internet rogue security program that can be installed by unwitting ...",
+   "htmlSnippet": "Mac \u003cb\u003eDefender\u003c/b\u003e (also known as Mac Protector, Mac Security,Mac Guard, and Mac \u003cbr\u003e  Shield) is an internet rogue security program that can be installed by unwitting \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "GG8zEyfUmbMJ",
+   "formattedUrl": "en.wikipedia.org/wiki/Mac_Defender",
+   "htmlFormattedUrl": "en.wikipedia.org/wiki/Mac_\u003cb\u003eDefender\u003c/b\u003e"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Office of the Public Defender — Department of Budget and Finance ...",
+   "htmlTitle": "Office of the Public \u003cb\u003eDefender\u003c/b\u003e — Department of Budget and Finance \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://hawaii.gov/budget/pd/",
+   "displayLink": "hawaii.gov",
+   "snippet": "The Office of the Public Defender was established pursuant to Section 802-B,   Hawai`i Revised Statutes, implementing Federal and State constitutional ...",
+   "htmlSnippet": "The Office of the Public \u003cb\u003eDefender\u003c/b\u003e was established pursuant to Section 802-B, \u003cbr\u003e  Hawai`i Revised Statutes, implementing Federal and State constitutional \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "7oL2q580c7IJ",
+   "formattedUrl": "hawaii.gov/budget/pd/",
+   "htmlFormattedUrl": "hawaii.gov/budget/pd/"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "National Juvenile Defender Center",
+   "htmlTitle": "National Juvenile \u003cb\u003eDefender\u003c/b\u003e Center",
+   "link": "http://www.njdc.info/",
+   "displayLink": "www.njdc.info",
+   "snippet": "The National Juvenile Defender Center (NJDC) was created in 1999 to respond   to the critical need to build the capacity of the juvenile defense bar and to ...",
+   "htmlSnippet": "The National Juvenile \u003cb\u003eDefender\u003c/b\u003e Center (NJDC) was created in 1999 to respond \u003cbr\u003e  to the critical need to build the capacity of the juvenile defense bar and to \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "XzQgt_81_C0J",
+   "formattedUrl": "www.njdc.info/",
+   "htmlFormattedUrl": "www.njdc.info/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.njdc.info/images/home_img_left.jpg",
+      "type": "1",
+      "width": "76",
+      "height": "212"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Welcome to the Office of the Public Defender",
+   "htmlTitle": "Welcome to the Office of the Public \u003cb\u003eDefender\u003c/b\u003e",
+   "link": "http://www.state.nj.us/defender/",
+   "displayLink": "www.state.nj.us",
+   "snippet": "Joseph Krakora was sworn in as Public Defender on June 28, 2011. He joined   the Office of the Public Defender in 1986 and has held numerous positions in the ...",
+   "htmlSnippet": "Joseph Krakora was sworn in as Public \u003cb\u003eDefender\u003c/b\u003e on June 28, 2011. He joined \u003cbr\u003e  the Office of the Public \u003cb\u003eDefender\u003c/b\u003e in 1986 and has held numerous positions in the \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "BcPMc8fKPPIJ",
+   "formattedUrl": "www.state.nj.us/defender/",
+   "htmlFormattedUrl": "www.state.nj.us/\u003cb\u003edefender\u003c/b\u003e/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.state.nj.us/defender/images/jkrakora2.jpg",
+      "type": "1",
+      "width": "120",
+      "height": "149"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Georgia Public Defender Standards Council",
+   "htmlTitle": "Georgia Public \u003cb\u003eDefender\u003c/b\u003e Standards Council",
+   "link": "http://www.gpdsc.com/",
+   "displayLink": "www.gpdsc.com",
+   "snippet": "Independent agency within the judicial branch that sets professional standards   and provides administrative support for the 49 circuit defender offices in Georgia.",
+   "htmlSnippet": "Independent agency within the judicial branch that sets professional standards \u003cbr\u003e  and provides administrative support for the 49 circuit \u003cb\u003edefender\u003c/b\u003e offices in Georgia.",
+   "cacheId": "dB_Rrn6zHc0J",
+   "formattedUrl": "www.gpdsc.com/",
+   "htmlFormattedUrl": "www.gpdsc.com/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.gpdsc.org/wp-content/uploads/2011/12/seal-200.png",
+      "type": "1",
+      "width": "160",
+      "height": "164"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "PUBLIC DEFENDERS",
+   "htmlTitle": "PUBLIC \u003cb\u003eDEFENDERS\u003c/b\u003e",
+   "link": "http://www.flpda.org/",
+   "displayLink": "www.flpda.org",
+   "snippet": "Founded in 1974, The Florida Public Defender Association, Inc. and the Florida   Public Defenders Coordination Office has been proudly providing training, ...",
+   "htmlSnippet": "Founded in 1974, The Florida Public \u003cb\u003eDefender\u003c/b\u003e Association, Inc. and the Florida \u003cbr\u003e  Public \u003cb\u003eDefenders\u003c/b\u003e Coordination Office has been proudly providing training, \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "i-Gop911CKMJ",
+   "formattedUrl": "www.flpda.org/",
+   "htmlFormattedUrl": "www.flpda.org/"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "State of Wisconsin SPD: Homepage",
+   "htmlTitle": "State of Wisconsin SPD: Homepage",
+   "link": "http://www.wisspd.org/",
+   "displayLink": "www.wisspd.org",
+   "snippet": "The Wisconsin State Public Defender's Office – home page ... The Wisconsin   Defender blog is an on-line resource of the Wisconsin State Public Defender's ...",
+   "htmlSnippet": "The Wisconsin State Public \u003cb\u003eDefender&#39;s\u003c/b\u003e Office – home page \u003cb\u003e...\u003c/b\u003e The Wisconsin \u003cbr\u003e  \u003cb\u003eDefender\u003c/b\u003e blog is an on-line resource of the Wisconsin State Public \u003cb\u003eDefender&#39;s\u003c/b\u003e \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "yAsXmejoW1AJ",
+   "formattedUrl": "www.wisspd.org/",
+   "htmlFormattedUrl": "www.wisspd.org/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.wisspd.org/Image/1.jpg",
+      "type": "1",
+      "width": "322",
+      "height": "156"
+     }
+    ]
+   }
+  }
+ ]
+}

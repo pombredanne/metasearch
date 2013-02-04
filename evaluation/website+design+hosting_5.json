@@ -1,0 +1,310 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "nextPage": [
+   {
+    "title": "Google Custom Search - website design hosting",
+    "totalResults": "35000000",
+    "searchTerms": "website design hosting",
+    "count": 10,
+    "startIndex": 61,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "017401104989814545383:mf4lavmtuva"
+   }
+  ],
+  "request": [
+   {
+    "title": "Google Custom Search - website design hosting",
+    "totalResults": "35000000",
+    "searchTerms": "website design hosting",
+    "count": 10,
+    "startIndex": 51,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "017401104989814545383:mf4lavmtuva"
+   }
+  ],
+  "previousPage": [
+   {
+    "title": "Google Custom Search - website design hosting",
+    "totalResults": "35000000",
+    "searchTerms": "website design hosting",
+    "count": 10,
+    "startIndex": 41,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "017401104989814545383:mf4lavmtuva"
+   }
+  ]
+ },
+ "context": {
+  "title": "College MetaSearch Comparison"
+ },
+ "searchInformation": {
+  "searchTime": 0.163411,
+  "formattedSearchTime": "0.16",
+  "totalResults": "35000000",
+  "formattedTotalResults": "35,000,000"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "Desiant, LLC | Columbus Ohio Web Design and Website ...",
+   "htmlTitle": "Desiant, LLC | Columbus Ohio \u003cb\u003eWeb Design\u003c/b\u003e and Website \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://www.desiant.com/",
+   "displayLink": "www.desiant.com",
+   "snippet": "Web Design with Measurable Results! Custom work catering to YOUR business.   Web design, content management, hosting, web site development, search ...",
+   "htmlSnippet": "\u003cb\u003eWeb Design\u003c/b\u003e with Measurable Results! Custom work catering to YOUR business. \u003cbr\u003e  \u003cb\u003eWeb design\u003c/b\u003e, content management, \u003cb\u003ehosting\u003c/b\u003e, web site development, search \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "S0zHmqdxxW4J",
+   "formattedUrl": "www.desiant.com/",
+   "htmlFormattedUrl": "www.desiant.com/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.desiant.com/images/clients/small/midohiopediatrics_com.jpg",
+      "type": "1",
+      "width": "120",
+      "height": "106"
+     }
+    ],
+    "metatags": [
+     {
+      "desctiption": "Desiant, LLC designs web sites for businesses in Columbus Ohio. We specialize in custom web development and quality web site design."
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Orlando Web Design, Hosting, Search Engine Optimization, Website ...",
+   "htmlTitle": "Orlando \u003cb\u003eWeb Design\u003c/b\u003e, \u003cb\u003eHosting\u003c/b\u003e, Search Engine Optimization, Website \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://imperialwebsolutions.net/",
+   "displayLink": "imperialwebsolutions.net",
+   "snippet": "Orlando Web Design. We offer Professional custom web design, hosting, SEO   and Internet marketing services. Orlando Web Development.",
+   "htmlSnippet": "Orlando Web Design. We offer Professional custom \u003cb\u003eweb design\u003c/b\u003e, \u003cb\u003ehosting\u003c/b\u003e, SEO \u003cbr\u003e  and Internet marketing services. Orlando Web Development.",
+   "cacheId": "6uzcbXLjXFQJ",
+   "formattedUrl": "imperialwebsolutions.net/",
+   "htmlFormattedUrl": "imperial\u003cb\u003eweb\u003c/b\u003esolutions.net/",
+   "pagemap": {
+    "metatags": [
+     {
+      "y_key": "28ec3bc376188f9c"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Christian Web Design-Hosting Plans: New Christian Web Design ...",
+   "htmlTitle": "Christian \u003cb\u003eWeb Design\u003c/b\u003e-\u003cb\u003eHosting\u003c/b\u003e Plans: New Christian Web Design \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://www.webtechdg.com/",
+   "displayLink": "www.webtechdg.com",
+   "snippet": "Christian web design-hosting since 1996. Affordable Christian web design-  hosting plans from only $119. Christian SEO. Christian web design-hosting client ...",
+   "htmlSnippet": "Christian \u003cb\u003eweb design\u003c/b\u003e-\u003cb\u003ehosting\u003c/b\u003e since 1996. Affordable Christian \u003cb\u003eweb design\u003c/b\u003e-\u003cbr\u003e  \u003cb\u003ehosting\u003c/b\u003e plans from only $119. Christian SEO. Christian \u003cb\u003eweb design\u003c/b\u003e-\u003cb\u003ehosting\u003c/b\u003e client \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "bNUl3Jf6GJMJ",
+   "formattedUrl": "www.webtechdg.com/",
+   "htmlFormattedUrl": "www.\u003cb\u003eweb\u003c/b\u003etechdg.com/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.webtechdg.com/images/ban/click-build-sm.jpg",
+      "type": "1",
+      "width": "152",
+      "height": "184"
+     }
+    ],
+    "metatags": [
+     {
+      "author": "Christian web design - WebTech Design Group Christian web site Design company",
+      "allow-search": "yes",
+      "audience": "all",
+      "rating": "General",
+      "language": "en-us",
+      "distribution": "Global",
+      "classification": "Christian web design and Christian website hosting",
+      "resource-type": "document"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Web Design Directory. WebSite Design, Hosting, HTML, Site ...",
+   "htmlTitle": "Web Design Directory. \u003cb\u003eWebSite Design\u003c/b\u003e, \u003cb\u003eHosting\u003c/b\u003e, HTML, Site \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://www.designdir.net/",
+   "displayLink": "www.designdir.net",
+   "snippet": "DesignDir.net is an industry leading web design, web hosting and development   directory. We bring together the best website designers and their customers.",
+   "htmlSnippet": "DesignDir.net is an industry leading \u003cb\u003eweb design\u003c/b\u003e, web \u003cb\u003ehosting\u003c/b\u003e and development \u003cbr\u003e  directory. We bring together the best website designers and their customers.",
+   "cacheId": "s_fkxcSbp3QJ",
+   "formattedUrl": "www.designdir.net/",
+   "htmlFormattedUrl": "www.\u003cb\u003edesign\u003c/b\u003edir.net/",
+   "pagemap": {
+    "metatags": [
+     {
+      "author": "Business Address Network"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "WordPress Web Hosting | Maine Hosting Solutions | Design and SEO",
+   "htmlTitle": "WordPress \u003cb\u003eWeb Hosting\u003c/b\u003e | Maine \u003cb\u003eHosting\u003c/b\u003e Solutions | \u003cb\u003eDesign\u003c/b\u003e and SEO",
+   "link": "http://mainehost.com/",
+   "displayLink": "mainehost.com",
+   "snippet": "Maine web hosting, web design, search engine optimization and social media   marketing services, custom WordPress website and plugin development.",
+   "htmlSnippet": "Maine web \u003cb\u003ehosting\u003c/b\u003e, \u003cb\u003eweb design\u003c/b\u003e, search engine optimization and social media \u003cbr\u003e  marketing services, custom WordPress website and plugin development.",
+   "cacheId": "9yAqztukrwcJ",
+   "formattedUrl": "mainehost.com/",
+   "htmlFormattedUrl": "maine\u003cb\u003ehost\u003c/b\u003e.com/",
+   "pagemap": {
+    "metatags": [
+     {
+      "msvalidate.01": "0F8BA33DE697F8FCB8A2479752D06205",
+      "alexaverifyid": "ClVp9tIHvqSEbB1fS2Kfnh9kus0",
+      "twitter:card": "summary",
+      "twitter:site": "@mainehostcom",
+      "twitter:title": "WordPress Web Hosting | Maine Hosting Solutions | Design and SEO",
+      "twitter:description": "Maine web hosting, web design, search engine optimization and social media marketing services, custom WordPress website and plugin development.",
+      "twitter:url": "http://mainehost.com/"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Website Design Website Management and Hosting Peoria Arizona",
+   "htmlTitle": "\u003cb\u003eWebsite Design\u003c/b\u003e Website Management and \u003cb\u003eHosting\u003c/b\u003e Peoria Arizona",
+   "link": "http://www.seemybiz.com/",
+   "displayLink": "www.seemybiz.com",
+   "snippet": "Website designs for the 21st century. SeeMyBiz can create a unique and   dramatic website for your visitors, no matter what your field of service or product.",
+   "htmlSnippet": "\u003cb\u003eWebsite\u003c/b\u003e designs for the 21st century. SeeMyBiz can create a unique and \u003cbr\u003e  dramatic \u003cb\u003ewebsite\u003c/b\u003e for your visitors, no matter what your field of service or product.",
+   "cacheId": "SOaiI5I_bEUJ",
+   "formattedUrl": "www.seemybiz.com/",
+   "htmlFormattedUrl": "www.seemybiz.com/",
+   "pagemap": {
+    "metatags": [
+     {
+      "classification": "Website Design",
+      "distribution": "global",
+      "rating": "safe for kids",
+      "copyright": "Copyright 2006 SeeMyBiz Website Design and Management",
+      "author": "Brad Penrod",
+      "language": "English",
+      "doc-rights": "Copyrighted Work"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Alaska Web Design - Ecommerce, Website design, Hosting",
+   "htmlTitle": "Alaska Web Design - Ecommerce, \u003cb\u003eWebsite design\u003c/b\u003e, \u003cb\u003eHosting\u003c/b\u003e",
+   "link": "http://www.alaskawebdesigns.com/",
+   "displayLink": "www.alaskawebdesigns.com",
+   "snippet": "Alaska Web Designs is designing affordable award winning professional web   sites of any size to fit your needs. We work with each client individually to ensure ...",
+   "htmlSnippet": "Alaska \u003cb\u003eWeb\u003c/b\u003e Designs is \u003cb\u003edesigning\u003c/b\u003e affordable award winning professional \u003cb\u003eweb\u003c/b\u003e \u003cbr\u003e  sites of any size to fit your needs. We work with each client individually to ensure \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "XaRQZ3Xnkb4J",
+   "formattedUrl": "www.alaskawebdesigns.com/",
+   "htmlFormattedUrl": "www.alaska\u003cb\u003ewebdesign\u003c/b\u003es.com/",
+   "pagemap": {
+    "metatags": [
+     {
+      "author": "Alaska Web Designs",
+      "copyright": "Copyright 2001 ©Alaska Web Designs, Anchorage, Alaska"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Affordable Web Design Hosting, PC Products, and Services by ...",
+   "htmlTitle": "Affordable \u003cb\u003eWeb Design Hosting\u003c/b\u003e, PC Products, and Services by \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://www.waltbren.com/",
+   "displayLink": "www.waltbren.com",
+   "snippet": "Affordable web design, hosting and domain registration. Products, services,   networking and instruction for computers and Internet users. Software and free ...",
+   "htmlSnippet": "Affordable \u003cb\u003eweb design\u003c/b\u003e, \u003cb\u003ehosting\u003c/b\u003e and domain registration. Products, services, \u003cbr\u003e  networking and instruction for computers and Internet users. Software and free \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "-1pLn52gMhcJ",
+   "formattedUrl": "www.waltbren.com/",
+   "htmlFormattedUrl": "www.waltbren.com/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.waltbren.com/images/MCP_logo_old.gif",
+      "type": "1",
+      "width": "110",
+      "height": "49"
+     }
+    ],
+    "metatags": [
+     {
+      "progid": "FrontPage.Editor.Document",
+      "author": "Walt Dimmock",
+      "copyright": "2000-2004 WaltBren Computing, LLC",
+      "reply-to": "webmaster@waltbren.com",
+      "language": "en",
+      "classification": "Computers",
+      "distribution": "Global"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Website Design & Hosting | Winona Graphic Designer, Print Design ...",
+   "htmlTitle": "\u003cb\u003eWebsite Design\u003c/b\u003e &amp; \u003cb\u003eHosting\u003c/b\u003e | Winona Graphic Designer, Print Design \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://www.visiondesign.com/",
+   "displayLink": "www.visiondesign.com",
+   "snippet": "Vision Design Group is a creative services agency in Winona, Minnesota offering   print design services, photography, website design, custom programming, web ...",
+   "htmlSnippet": "Vision Design Group is a creative services agency in Winona, Minnesota offering \u003cbr\u003e  print design services, photography, \u003cb\u003ewebsite design\u003c/b\u003e, custom programming, web \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "dAgxx_8BNQYJ",
+   "formattedUrl": "www.visiondesign.com/",
+   "htmlFormattedUrl": "www.vision\u003cb\u003edesign\u003c/b\u003e.com/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.visiondesign.com/wp-content/uploads/2011/11/business-portraits.jpg",
+      "type": "1",
+      "width": "372",
+      "height": "135"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Bay Area Web Design, Development, and Hosting | SEO + PPC ...",
+   "htmlTitle": "Bay Area \u003cb\u003eWeb Design\u003c/b\u003e, Development, and \u003cb\u003eHosting\u003c/b\u003e | SEO + PPC \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://www.websightdesign.com/",
+   "displayLink": "www.websightdesign.com",
+   "snippet": "Since 1995, WebSight Design has offered professional web design, web   development, web hosting, SEO, and PPC management in the San Francisco   Bay Area ...",
+   "htmlSnippet": "Since 1995, WebSight Design has offered professional \u003cb\u003eweb design\u003c/b\u003e, web \u003cbr\u003e  development, web \u003cb\u003ehosting\u003c/b\u003e, SEO, and PPC management in the San Francisco \u003cbr\u003e  Bay Area \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "07yfdWVl58gJ",
+   "formattedUrl": "www.websightdesign.com/",
+   "htmlFormattedUrl": "www.\u003cb\u003eweb\u003c/b\u003esight\u003cb\u003edesign\u003c/b\u003e.com/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.websightdesign.com/views/images/hosting_redrocker.jpg",
+      "type": "1",
+      "width": "393",
+      "height": "128"
+     }
+    ],
+    "metatags": [
+     {
+      "author": "WebSight Design"
+     }
+    ]
+   }
+  }
+ ]
+}

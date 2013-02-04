@@ -1,0 +1,314 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "nextPage": [
+   {
+    "title": "Google Custom Search - starbucks",
+    "totalResults": "12500000",
+    "searchTerms": "starbucks",
+    "count": 10,
+    "startIndex": 101,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "017401104989814545383:mf4lavmtuva"
+   }
+  ],
+  "request": [
+   {
+    "title": "Google Custom Search - starbucks",
+    "totalResults": "12500000",
+    "searchTerms": "starbucks",
+    "count": 10,
+    "startIndex": 91,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "017401104989814545383:mf4lavmtuva"
+   }
+  ],
+  "previousPage": [
+   {
+    "title": "Google Custom Search - starbucks",
+    "totalResults": "12500000",
+    "searchTerms": "starbucks",
+    "count": 10,
+    "startIndex": 81,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "017401104989814545383:mf4lavmtuva"
+   }
+  ]
+ },
+ "context": {
+  "title": "College MetaSearch Comparison"
+ },
+ "searchInformation": {
+  "searchTime": 0.192383,
+  "formattedSearchTime": "0.19",
+  "totalResults": "12500000",
+  "formattedTotalResults": "12,500,000"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "Starbucks VIA® Taste Promise",
+   "htmlTitle": "\u003cb\u003eStarbucks\u003c/b\u003e VIA® Taste Promise",
+   "link": "http://starbucksvia.young-america.com/",
+   "displayLink": "starbucksvia.young-america.com",
+   "snippet": "Close. House Blend. Thank you for your interest in the. Starbucks VIA® Taste   Promise. This promotion ended on 6/30/12.",
+   "htmlSnippet": "Close. House Blend. Thank you for your interest in the. \u003cb\u003eStarbucks\u003c/b\u003e VIA® Taste \u003cbr\u003e  Promise. This promotion ended on 6/30/12.",
+   "cacheId": "dS7O0oUHpAMJ",
+   "formattedUrl": "starbucksvia.young-america.com/",
+   "htmlFormattedUrl": "\u003cb\u003estarbucks\u003c/b\u003evia.young-america.com/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://starbucksvia.young-america.com/images/TY-back_img.jpg",
+      "type": "1",
+      "width": "259",
+      "height": "194"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Responsible Sourcing Strategies - Starbucks C.A.F.E. Practices ...",
+   "htmlTitle": "Responsible Sourcing Strategies - \u003cb\u003eStarbucks\u003c/b\u003e C.A.F.E. Practices \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://www.scscertified.com/retail/rss_starbucks.php",
+   "displayLink": "www.scscertified.com",
+   "snippet": "Starbucks Coffee Company initiated C.A.F.E. (Coffee and Farmer Equity)   Practices to evaluate, recognize, and reward producers of high-quality   sustainably ...",
+   "htmlSnippet": "\u003cb\u003eStarbucks\u003c/b\u003e Coffee Company initiated C.A.F.E. (Coffee and Farmer Equity) \u003cbr\u003e  Practices to evaluate, recognize, and reward producers of high-quality \u003cbr\u003e  sustainably \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "Ql0gstbh048J",
+   "formattedUrl": "www.scscertified.com/retail/rss_starbucks.php",
+   "htmlFormattedUrl": "www.scscertified.com/retail/rss_\u003cb\u003estarbucks\u003c/b\u003e.php",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.scscertified.com/retail/images/Starbucks-tm_2011_0418.png",
+      "type": "1",
+      "width": "108",
+      "height": "94"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Explore our Menu | Starbucks Coffee Company",
+   "htmlTitle": "Explore our Menu | \u003cb\u003eStarbucks\u003c/b\u003e Coffee Company",
+   "link": "http://www.starbucks.com/menu/nutrition/drink",
+   "displayLink": "www.starbucks.com",
+   "snippet": "Starbucks Doubleshot® Energy Vanilla Light Drink ... Starbucks Doubleshot®   Energy White Chocolate Drink ... Starbucks Doubleshot® Light Espresso Drink ...",
+   "htmlSnippet": "\u003cb\u003eStarbucks\u003c/b\u003e Doubleshot® Energy Vanilla Light Drink \u003cb\u003e...\u003c/b\u003e \u003cb\u003eStarbucks\u003c/b\u003e Doubleshot® \u003cbr\u003e  Energy White Chocolate Drink \u003cb\u003e...\u003c/b\u003e \u003cb\u003eStarbucks\u003c/b\u003e Doubleshot® Light Espresso Drink \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "ISR0LYV2J50J",
+   "formattedUrl": "www.starbucks.com/menu/nutrition/drink",
+   "htmlFormattedUrl": "www.\u003cb\u003estarbucks\u003c/b\u003e.com/menu/nutrition/drink",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.starbucks.com/static/images/global/logo.png"
+     }
+    ],
+    "metatags": [
+     {
+      "viewport": "width=device-width, initial-scale=1",
+      "og:title": "Explore our Menu",
+      "og:type": "company",
+      "og:url": "http://www.starbucks.com/menu/catalog/nutrition?drink=all",
+      "og:image": "http://www.starbucks.com/static/images/global/logo.png",
+      "og:site_name": "Starbucks Coffee Company",
+      "fb:app_id": "338375791266"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "@starbucks - Starbucks Coffee's Instagram photos | Statigr.am",
+   "htmlTitle": "@\u003cb\u003estarbucks\u003c/b\u003e - \u003cb\u003eStarbucks\u003c/b\u003e Coffee&#39;s Instagram photos | Statigr.am",
+   "link": "http://statigr.am/user/starbucks",
+   "displayLink": "statigr.am",
+   "snippet": "Starbucks Coffee's Instagram photo feed (@starbucks).",
+   "htmlSnippet": "\u003cb\u003eStarbucks\u003c/b\u003e Coffee&#39;s Instagram photo feed (@\u003cb\u003estarbucks\u003c/b\u003e).",
+   "cacheId": "04b8Cu9RvPgJ",
+   "formattedUrl": "statigr.am/user/starbucks",
+   "htmlFormattedUrl": "statigr.am/user/\u003cb\u003estarbucks\u003c/b\u003e",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://images.instagram.com/profiles/profile_1034466_75sq_1299544628.jpg",
+      "type": "1",
+      "width": "120",
+      "height": "120"
+     }
+    ],
+    "metatags": [
+     {
+      "author": "Tripnity",
+      "og:title": "Starbucks Coffee's Instagram feed",
+      "og:type": "website",
+      "og:image": "http://images.instagram.com/profiles/profile_1034466_75sq_1299544628.jpg",
+      "og:url": "http://statigr.am/user/starbucks",
+      "og:site_name": "Statigr.am",
+      "og:description": "This Instagram public page is provided by Statigram. It helps you share your Instagram photos with all your friends who are not on Instagram yet. Join Statigram to create yours.",
+      "fb:admins": "gaetan.houssin"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Get a coffee, give a coffee - Jonathan's Card",
+   "htmlTitle": "Get a coffee, give a coffee - Jonathan&#39;s Card",
+   "link": "http://jonathanstark.com/card/",
+   "displayLink": "jonathanstark.com",
+   "snippet": "PLEASE NOTE: Starbucks was forced to shut down Jonathan's Card on August   12, 2011. My announcement of the shutdown is available here, and GOOD ...",
+   "htmlSnippet": "PLEASE NOTE: \u003cb\u003eStarbucks\u003c/b\u003e was forced to shut down Jonathan&#39;s Card on August \u003cbr\u003e  12, 2011. My announcement of the shutdown is available here, and GOOD \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "7qpKPGFHxG4J",
+   "formattedUrl": "jonathanstark.com/card/",
+   "htmlFormattedUrl": "jonathanstark.com/card/",
+   "pagemap": {
+    "metatags": [
+     {
+      "author": "Jonathan Stark"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Starbucks doesn't support the war in Iraq-Fiction!",
+   "htmlTitle": "\u003cb\u003eStarbucks\u003c/b\u003e doesn&#39;t support the war in Iraq-Fiction!",
+   "link": "http://www.truthorfiction.com/rumors/s/starbucks-iraq.htm",
+   "displayLink": "www.truthorfiction.com",
+   "snippet": "Starbucks Refused to Send Donated Coffee to Marines In Iraq and Said the ... An   email from a Marine who says some Marines wrote to Starbucks to say how ...",
+   "htmlSnippet": "\u003cb\u003eStarbucks\u003c/b\u003e Refused to Send Donated Coffee to Marines In Iraq and Said the \u003cb\u003e...\u003c/b\u003e An \u003cbr\u003e  email from a Marine who says some Marines wrote to \u003cb\u003eStarbucks\u003c/b\u003e to say how \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "yp1ITOgQGXcJ",
+   "formattedUrl": "www.truthorfiction.com/rumors/s/starbucks-iraq.htm",
+   "htmlFormattedUrl": "www.truthorfiction.com/rumors/s/\u003cb\u003estarbucks\u003c/b\u003e-iraq.htm",
+   "pagemap": {
+    "metatags": [
+     {
+      "progid": "FrontPage.Editor.Document",
+      "microsoft theme": "bubbles 111, default",
+      "microsoft border": "tlrb, default"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Starbucks Corp., SBUX Stock Quote - (NASDAQ) SBUX, Starbucks ...",
+   "htmlTitle": "\u003cb\u003eStarbucks\u003c/b\u003e Corp., SBUX Stock Quote - (NASDAQ) SBUX, \u003cb\u003eStarbucks\u003c/b\u003e \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://www.marketwatch.com/investing/stock/sbux",
+   "displayLink": "www.marketwatch.com",
+   "snippet": "SBUX Stock Quote, and financial news from the leading provider and award-  winning MarketWatch.com.",
+   "htmlSnippet": "SBUX Stock Quote, and financial news from the leading provider and award-\u003cbr\u003e  winning MarketWatch.com.",
+   "cacheId": "5Rt2VoaAOEAJ",
+   "formattedUrl": "www.marketwatch.com/investing/stock/sbux",
+   "htmlFormattedUrl": "www.marketwatch.com/investing/stock/sbux",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://s.marketwatch.com/public/resources/MWimages/MW-AE356_fb_mw__MA_20100420181620.jpg"
+     }
+    ],
+    "metatags": [
+     {
+      "medium": "video",
+      "og:type": "company",
+      "og:title": "Starbucks Corp.",
+      "og:url": "http://www.marketwatch.com/investing/stock/sbux",
+      "og:image": "http://s.marketwatch.com/public/resources/MWimages/MW-AE356_fb_mw__MA_20100420181620.jpg",
+      "fb:admins": "100000091985075",
+      "fb:app_id": "283204329838"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Starbucks Union",
+   "htmlTitle": "\u003cb\u003eStarbucks\u003c/b\u003e Union",
+   "link": "http://www.starbucksunion.org/",
+   "displayLink": "www.starbucksunion.org",
+   "snippet": "We are Starbucks Workers Coming Together for increased pay and raises,   guaranteed hours with the option of fulltime status, an end to understaffing, and a ...",
+   "htmlSnippet": "We are \u003cb\u003eStarbucks\u003c/b\u003e Workers Coming Together for increased pay and raises, \u003cbr\u003e  guaranteed hours with the option of fulltime status, an end to understaffing, and a \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "b-5vg3HhOYYJ",
+   "formattedUrl": "www.starbucksunion.org/",
+   "htmlFormattedUrl": "www.\u003cb\u003estarbucks\u003c/b\u003eunion.org/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.starbucksunion.org/sites/default/files/styles/slides/public/M17%202007%20NYC%202.jpg",
+      "type": "1",
+      "width": "343",
+      "height": "147"
+     }
+    ],
+    "Item": [
+     {
+      "title": "Sign the Petition for Good Jobs at Starbucks",
+      "encoded": "Starbucks made record profits of $1.7 billion this year, enough to give $8000 to every single Starbucks worker. But instead of compensating us fairly for our hard work, CEO Howard Schultz handed...",
+      "petition": "Share on Facebook"
+     },
+     {
+      "title": "Baristas Put Pressure on Starbucks [Wall Street Journal]",
+      "date": "2011-07-26T12:26:37-05:00",
+      "created": "2011-07-26T12:26:37-05:00",
+      "encoded": "By JULIE JARGON Baristas are putting up pressure on Starbucks Corp. to come to terms with 200 unionized workers in Chile who have been on strike for more than two weeks. Employees who belong...",
+      "baristas-put-pressure-starbucks-wall-street-journal": "Share on Facebook"
+     }
+    ],
+    "metatags": [
+     {
+      "og:site_name": "Starbucks Union",
+      "viewport": "width=device-width, initial-scale=1, maximum-scale=1, minimum-scale=1, user-scalable=no",
+      "og:url": "http://www.starbucksunion.org/",
+      "og:title": "Starbucks Union",
+      "og:type": "website"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Investor FAQ | Investor Relations | Starbucks Coffee Company",
+   "htmlTitle": "Investor FAQ | Investor Relations | \u003cb\u003eStarbucks\u003c/b\u003e Coffee Company",
+   "link": "http://investor.starbucks.com/phoenix.zhtml?c=99518&p=irol-faq",
+   "displayLink": "investor.starbucks.com",
+   "snippet": "How can I request that a Starbucks store open in my ...",
+   "htmlSnippet": "How can I request that a \u003cb\u003eStarbucks\u003c/b\u003e store open in my \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "Y1qVZiQyRjsJ",
+   "formattedUrl": "investor.starbucks.com/phoenix.zhtml?c=99518&p=irol-faq",
+   "htmlFormattedUrl": "investor.\u003cb\u003estarbucks\u003c/b\u003e.com/phoenix.zhtml?c=99518&amp;p=irol-faq"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Sites-Starbucks-Site",
+   "htmlTitle": "Sites-\u003cb\u003eStarbucks\u003c/b\u003e-Site",
+   "link": "http://www.starbucksstore.com/on/demandware.store/Sites-Starbucks-Site/default/Product-Show?pid=microsoft-zune16",
+   "displayLink": "www.starbucksstore.com",
+   "snippet": "Starbucks · Sign In / Create Account .... Starbucks Subscriptions automatically   deliver coffee, tea and more to your office. Office Coffee. Save 10% Off You Order ...",
+   "htmlSnippet": "\u003cb\u003eStarbucks\u003c/b\u003e &middot; Sign In / Create Account \u003cb\u003e....\u003c/b\u003e \u003cb\u003eStarbucks\u003c/b\u003e Subscriptions automatically \u003cbr\u003e  deliver coffee, tea and more to your office. Office Coffee. Save 10% Off You Order \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "Ox6T1vY77YcJ",
+   "formattedUrl": "www.starbucksstore.com/on/...store/...Starbucks.../Product-Show?...",
+   "htmlFormattedUrl": "www.\u003cb\u003estarbucks\u003c/b\u003estore.com/on/...store/...\u003cb\u003eStarbucks\u003c/b\u003e.../Product-Show?...",
+   "pagemap": {
+    "metatags": [
+     {
+      "handheldfriendly": "true",
+      "viewport": "width=device-width"
+     }
+    ]
+   }
+  }
+ ]
+}

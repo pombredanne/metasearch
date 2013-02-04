@@ -1,0 +1,394 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "nextPage": [
+   {
+    "title": "Google Custom Search - rick warren",
+    "totalResults": "12800000",
+    "searchTerms": "rick warren",
+    "count": 10,
+    "startIndex": 81,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "017401104989814545383:mf4lavmtuva"
+   }
+  ],
+  "request": [
+   {
+    "title": "Google Custom Search - rick warren",
+    "totalResults": "12800000",
+    "searchTerms": "rick warren",
+    "count": 10,
+    "startIndex": 71,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "017401104989814545383:mf4lavmtuva"
+   }
+  ],
+  "previousPage": [
+   {
+    "title": "Google Custom Search - rick warren",
+    "totalResults": "12800000",
+    "searchTerms": "rick warren",
+    "count": 10,
+    "startIndex": 61,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "017401104989814545383:mf4lavmtuva"
+   }
+  ]
+ },
+ "context": {
+  "title": "College MetaSearch Comparison"
+ },
+ "searchInformation": {
+  "searchTime": 0.202819,
+  "formattedSearchTime": "0.20",
+  "totalResults": "12800000",
+  "formattedTotalResults": "12,800,000"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "God's Answers to Life's Difficult Questions (Living with Purpose)",
+   "htmlTitle": "God&#39;s Answers to Life&#39;s Difficult Questions (Living with Purpose)",
+   "link": "http://www.amazon.com/Answers-Difficult-Questions-Living-Purpose/dp/0310273021",
+   "displayLink": "www.amazon.com",
+   "snippet": "Rick Warren writes, 'In each of these studies, you will discover simple ways to   apply ... Rick Warren takes you inside the Scriptures to see what they reveal   about ...",
+   "htmlSnippet": "\u003cb\u003eRick Warren\u003c/b\u003e writes, &#39;In each of these studies, you will discover simple ways to \u003cbr\u003e  apply \u003cb\u003e...\u003c/b\u003e \u003cb\u003eRick Warren\u003c/b\u003e takes you inside the Scriptures to see what they reveal \u003cbr\u003e  about \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "nrNe74huyOMJ",
+   "formattedUrl": "www.amazon.com/Answers-Difficult-Questions.../0310273021",
+   "htmlFormattedUrl": "www.amazon.com/Answers-Difficult-Questions.../0310273021",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://ecx.images-amazon.com/images/I/51Dm75AbTUL._BO2,204,203,200_PIsitb-sticker-arrow-click,TopRight,35,-76_AA300_SH20_OU01_.jpg"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "225",
+      "height": "225",
+      "src": "https://encrypted-tbn3.google.com/images?q=tbn:ANd9GcT7ddKxWhmFQwdrsjVPfDB2JJm277nXqacbkE0nVPzlzG2U7_I-_ayz2Kw8"
+     }
+    ],
+    "scraped": [
+     {
+      "image_link": "http://ecx.images-amazon.com/images/I/51Dm75AbTUL._BO2,204,203,200_PIsitb-sticker-arrow-click,TopRight,35,-76_AA300_SH20_OU01_.jpg"
+     }
+    ],
+    "metatags": [
+     {
+      "title": "Amazon.com: God's Answers to Life's Difficult Questions (Living with Purpose) (9780310273028): Rick Warren: Books"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Rick Warren",
+   "htmlTitle": "\u003cb\u003eRick Warren\u003c/b\u003e",
+   "link": "http://www.nndb.com/people/252/000104937/",
+   "displayLink": "www.nndb.com",
+   "snippet": "http://www.rickwarren.com/. Author of books: Dynamic Bible Study Methods (1981  ) The Power To Change Your Life (1990) The Purpose Driven Church: Growth ...",
+   "htmlSnippet": "http://www.\u003cb\u003erickwarren\u003c/b\u003e.com/. Author of books: Dynamic Bible Study Methods (1981\u003cbr\u003e  ) The Power To Change Your Life (1990) The Purpose Driven Church: Growth \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "2_Tp8SsZDZ0J",
+   "formattedUrl": "www.nndb.com/people/252/000104937/",
+   "htmlFormattedUrl": "www.nndb.com/people/252/000104937/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.nndb.com/people/252/000104937/rick-warren-1-sized.jpg",
+      "type": "1",
+      "width": "162",
+      "height": "248"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Rick Warren Refuses To Condemn Proposed Ugandan Law To ...",
+   "htmlTitle": "\u003cb\u003eRick Warren\u003c/b\u003e Refuses To Condemn Proposed Ugandan Law To \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://www.huffingtonpost.com/2009/11/30/rick-warren-refuses-to-co_n_373605.html",
+   "displayLink": "www.huffingtonpost.com",
+   "snippet": "Nov 30, 2009 ... UPDATE: On MSNBC's \"Rachel Maddow Show\" Monday night, The Family   author Jeff Sharlet tied efforts to make homosexuality a capital crime ...",
+   "htmlSnippet": "Nov 30, 2009 \u003cb\u003e...\u003c/b\u003e UPDATE: On MSNBC&#39;s &quot;Rachel Maddow Show&quot; Monday night, The Family \u003cbr\u003e  author Jeff Sharlet tied efforts to make homosexuality a capital crime \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "a8RDWl1hMHMJ",
+   "formattedUrl": "www.huffingtonpost.com/.../rick-warren-refuses-to-co_n_373605.html",
+   "htmlFormattedUrl": "www.huffingtonpost.com/.../\u003cb\u003erick\u003c/b\u003e-\u003cb\u003ewarren\u003c/b\u003e-refuses-to-co_n_373605.html",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://i.huffpost.com/gen/122120/thumbs/s-RICK-WARREN-small.jpg",
+      "type": "1",
+      "width": "93",
+      "height": "68"
+     }
+    ],
+    "Image": [
+     {
+      "title": "UPDATE: On MSNBC's \"Rachel Maddow Show\" Monday night, The Family author Jeff Sharlet tied efforts to make homosexuality a capital crime in Uganda to a Christian organization belonged to many...",
+      "description": "UPDATE: On MSNBC's \"Rachel Maddow Show\" Monday night, The Family author Jeff Sharlet tied efforts to make homosexuality a capital crime in Uganda to a Christian organization belonged to many..."
+     }
+    ],
+    "Agent": [
+     {
+      "name": "Video",
+      "homepage": "Video"
+     }
+    ],
+    "metatags": [
+     {
+      "og:type": "article",
+      "og:url": "http://www.huffingtonpost.com/2009/11/30/rick-warren-refuses-to-co_n_373605.html",
+      "og:description": "UPDATE: On MSNBC's \"Rachel Maddow Show\" Monday night, The Family author Jeff Sharlet tied efforts to make homosexuality a capital crime in Uganda to a Christian organization belonged to many members of Congress. Both the president of Uganda and the legislator who introduced the bill are members of the secretive group.",
+      "og:locale": "en_US",
+      "og:site_name": "The Huffington Post",
+      "og:title": "Rick Warren Refuses To Condemn Proposed Ugandan Law To Execute Gays",
+      "fb:app_id": "46744042133",
+      "category": "Politics",
+      "author": "Rachel Weiner",
+      "article:author": "http://www.huffingtonpost.com/rachel-weiner/",
+      "article:section": "Politics",
+      "publish_date": "Mon, 30 Nov 2009 08:11:27 EST",
+      "image": "http://i.huffpost.com/gen/122120/thumbs/s-RICK-WARREN-small.jpg",
+      "og:image": "http://i.huffpost.com/gen/122120/thumbs/s-RICK-WARREN-small.jpg"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Rick Warren Quotes (Author of The Purpose Driven Life)",
+   "htmlTitle": "\u003cb\u003eRick Warren\u003c/b\u003e Quotes (Author of The Purpose Driven Life)",
+   "link": "http://www.goodreads.com/author/quotes/711.Rick_Warren",
+   "displayLink": "www.goodreads.com",
+   "snippet": "77 quotes from Rick Warren: 'we are product of our past but we ...",
+   "htmlSnippet": "77 quotes from \u003cb\u003eRick Warren\u003c/b\u003e: &#39;we are product of our past but we \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "HOuRr_FNyrAJ",
+   "formattedUrl": "www.goodreads.com/author/quotes/711.Rick_Warren",
+   "htmlFormattedUrl": "www.goodreads.com/author/quotes/711.\u003cb\u003eRick\u003c/b\u003e_\u003cb\u003eWarren\u003c/b\u003e",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://i.ytimg.com/vi/cSHlOXUFFtk/0.jpg",
+      "type": "1",
+      "width": "259",
+      "height": "194"
+     }
+    ],
+    "metatags": [
+     {
+      "csrf-param": "authenticity_token",
+      "csrf-token": "8roasSPT7/fPGjb4s6OTwfnzxt3k+Kv7JRmcqIJLl+4="
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "'This Week' Transcript: Rick Warren - ABC News",
+   "htmlTitle": "&#39;This Week&#39; Transcript: \u003cb\u003eRick Warren\u003c/b\u003e - ABC News",
+   "link": "http://abcnews.go.com/Politics/week-transcript-rick-warren/story?id=16080567",
+   "displayLink": "abcnews.go.com",
+   "snippet": "Pastor Rick Warren is interviewed on 'This Week.' ... 'This Week' Transcript:   Pastor Rick Warren. WASHINGTON, April 8, 2012. PHOTO: Saddleback Church ...",
+   "htmlSnippet": "Pastor \u003cb\u003eRick Warren\u003c/b\u003e is interviewed on &#39;This Week.&#39; \u003cb\u003e...\u003c/b\u003e &#39;This Week&#39; Transcript: \u003cbr\u003e  Pastor \u003cb\u003eRick Warren\u003c/b\u003e. WASHINGTON, April 8, 2012. PHOTO: Saddleback Church \u003cb\u003e...\u003c/b\u003e",
+   "formattedUrl": "abcnews.go.com/Politics/week-transcript-rick-warren/story?id=16080567",
+   "htmlFormattedUrl": "abcnews.go.com/Politics/week-transcript-\u003cb\u003erick\u003c/b\u003e-\u003cb\u003ewarren\u003c/b\u003e/story?id=16080567",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://a.abcnews.go.com/images/Politics/abc_tw_rick_warren5_jt_120408_main.jpg"
+     }
+    ],
+    "metatags": [
+     {
+      "date": "2012-04-05",
+      "last-modified": "2012-04-08 08:18:46",
+      "author": "ABC News",
+      "copyright": "Copyright (c) 2012 ABC News Internet Ventures",
+      "fb_title": "'This Week' Transcript: Pastor Rick Warren",
+      "og:title": "'This Week' Transcript: Pastor Rick Warren",
+      "og:description": "Pastor Rick Warren is interviewed on 'This Week.'",
+      "og:url": "http://abcnews.go.com/Politics/week-transcript-rick-warren/story?id=16080567",
+      "og:image": "http://a.abcnews.go.com/images/Politics/abc_tw_rick_warren5_jt_120408_main.jpg"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Rick Warren Interview: On Gay Marriage and Divorce - Video ...",
+   "htmlTitle": "\u003cb\u003eRick Warren\u003c/b\u003e Interview: On Gay Marriage and Divorce - Video \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://www.beliefnet.com/Video/Beliefnet-Interviews/Rick-Warren/Rick-Warren-Interview-On-Gay-Marriage-And-Divorce.aspx",
+   "displayLink": "www.beliefnet.com",
+   "snippet": "Pastor Rick Warren says divorce is a bigger threat to families than gay marriage.",
+   "htmlSnippet": "Pastor \u003cb\u003eRick Warren\u003c/b\u003e says divorce is a bigger threat to families than gay marriage.",
+   "cacheId": "VSxXWdICc6gJ",
+   "formattedUrl": "www.beliefnet.com/.../Rick-Warren/Rick-Warren-Interview-On-Gay- Marriage-And-Divorce.aspx",
+   "htmlFormattedUrl": "www.beliefnet.com/.../\u003cb\u003eRick\u003c/b\u003e-\u003cb\u003eWarren\u003c/b\u003e/\u003cb\u003eRick\u003c/b\u003e-\u003cb\u003eWarren\u003c/b\u003e-Interview-On-Gay- Marriage-And-Divorce.aspx",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://brightcove.vo.llnwd.net/e1/pd/1351363375/1351363375_1416375016001_30427129001-102195469001-th-102178333001.jpg?pubId=1351363375",
+      "type": "1",
+      "width": "104",
+      "height": "58"
+     }
+    ],
+    "metatags": [
+     {
+      "sailthru.date": "Thu, 19 Jul 2012 20:41:09 -0400",
+      "sailthru.title": "Rick Warren Interview: On Gay Marriage and Divorce",
+      "sailthru.tags": "gay marriage, steven waldman, Rick Warren, divorce, Proposition 8, civil unions, rick warren interview, Marriage, Divorce  Pastor Rick Warren, threat",
+      "sailthru.image.full": "http://www.beliefnet.com/~/media/5F9A77E1AAC041CAB77AB9111ABD426A.ashx?h=400&w=300&format=png&bg=00000000",
+      "sailthru.image.thumb": "http://www.beliefnet.com/~/media/5F9A77E1AAC041CAB77AB9111ABD426A.ashx?h=50&w=50&format=png&bg=00000000",
+      "aol-te-auth": "6e5c698f-be93-4d0d-ba67-6d5ea379cfac"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Rick Warren vs. HHS Mandate: 'rather go to jail than cave' - By ...",
+   "htmlTitle": "\u003cb\u003eRick Warren\u003c/b\u003e vs. HHS Mandate: &#39;rather go to jail than cave&#39; - By \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://www.nationalreview.com/corner/290654/rick-warren-vs-hhs-mandate-rather-go-jail-cave-kathryn-jean-lopez",
+   "displayLink": "www.nationalreview.com",
+   "snippet": "Feb 9, 2012 ... Kathryn Jean Lopez writes on NRO: Evangelical pastor Rick Warren tweets: I'm   not a Catholic but I stand in 100% solidarity with my brothers ...",
+   "htmlSnippet": "Feb 9, 2012 \u003cb\u003e...\u003c/b\u003e Kathryn Jean Lopez writes on NRO: Evangelical pastor \u003cb\u003eRick Warren\u003c/b\u003e tweets: I&#39;m \u003cbr\u003e  not a Catholic but I stand in 100% solidarity with my brothers \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "gxUga4_SD3MJ",
+   "formattedUrl": "www.nationalreview.com/.../rick-warren-vs-hhs-mandate-rather-go-jail-cave- kathryn-jean-lopez",
+   "htmlFormattedUrl": "www.nationalreview.com/.../\u003cb\u003erick\u003c/b\u003e-\u003cb\u003ewarren\u003c/b\u003e-vs-hhs-mandate-rather-go-jail-cave- kathryn-jean-lopez",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.nationalreview.com/sites/default/files/nfs/uploaded/warren&obama.jpg",
+      "type": "1",
+      "width": "160",
+      "height": "160"
+     }
+    ],
+    "metatags": [
+     {
+      "fb:app_id": "129250807108374",
+      "og:title": "Rick Warren vs. HHS Mandate: ‘rather go to jail than cave’",
+      "og:url": "http://www.nationalreview.com/corner/290654/rick-warren-vs-hhs-mandate-rather-go-jail-cave-kathryn-jean-lopez",
+      "og:image": "http://www.nationalreview.com/sites/default/files/nfs/uploaded/warren&obama.jpg",
+      "title": "Rick Warren vs. HHS Mandate: ‘rather go to jail than cave’ - National Review Online",
+      "fb_title": "Rick Warren vs. HHS Mandate: ‘rather go to jail than cave’",
+      "medium": "blog"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Pastor Rick Warren urgently asks faithful for $900000 - OC ...",
+   "htmlTitle": "Pastor \u003cb\u003eRick Warren\u003c/b\u003e urgently asks faithful for $900000 - OC \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://taxdollars.ocregister.com/2009/12/30/pastor-rick-warren-urgently-asks-faithful-for-900000/48235/",
+   "displayLink": "taxdollars.ocregister.com",
+   "snippet": "Dec 30, 2009 ... Updates: Saddleback's 0000 shortfall not a management issue, Warren says; and   Saddleback members say 'amen' to pastor's plea) It's been a ...",
+   "htmlSnippet": "Dec 30, 2009 \u003cb\u003e...\u003c/b\u003e Updates: Saddleback&#39;s 0000 shortfall not a management issue, \u003cb\u003eWarren\u003c/b\u003e says; and \u003cbr\u003e  Saddleback members say &#39;amen&#39; to pastor&#39;s plea) It&#39;s been a \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "0zfgujc15TsJ",
+   "formattedUrl": "taxdollars.ocregister.com/2009/12/30/...rick-warren...for.../48235/",
+   "htmlFormattedUrl": "taxdollars.ocregister.com/2009/12/30/...\u003cb\u003erick\u003c/b\u003e-\u003cb\u003ewarren\u003c/b\u003e...for.../48235/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://taxdollars.freedomblogging.com/files/2009/12/obama-warren.jpg",
+      "type": "1",
+      "width": "263",
+      "height": "192"
+     }
+    ],
+    "metatags": [
+     {
+      "og:title": "Pastor Rick Warren urgently asks faithful for $900,000 - OC Watchdog",
+      "og:type": "article",
+      "og:url": "http://taxdollars.ocregister.com/2009/12/30/pastor-rick-warren-urgently-asks-faithful-for-900000/48235/",
+      "og:site_name": "OC Watchdog",
+      "og:image": "http://taxdollars.freedomblogging.com/files/2009/12/obama-warren.jpg",
+      "fb:app_id": "107698536003308",
+      "content_type": "blog",
+      "publication_date": "2009-12-30",
+      "content_author": "Teri Sforza, Register staff writer"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Rick Warren - Biography of Pastor Rick Warren",
+   "htmlTitle": "\u003cb\u003eRick Warren\u003c/b\u003e - Biography of Pastor \u003cb\u003eRick Warren\u003c/b\u003e",
+   "link": "http://christianity.about.com/od/christiancelebrities/p/rickwarrenbio.htm",
+   "displayLink": "christianity.about.com",
+   "snippet": "Rick Warren Biography: Get to know the life and ministry of Pastor Rick Warren,   author of the bestselling book, The Purpose Driven Life, and founder of ...",
+   "htmlSnippet": "\u003cb\u003eRick Warren\u003c/b\u003e Biography: Get to know the life and ministry of Pastor \u003cb\u003eRick Warren\u003c/b\u003e, \u003cbr\u003e  author of the bestselling book, The Purpose Driven Life, and founder of \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "Q3VK4gTzL7IJ",
+   "formattedUrl": "christianity.about.com/od/christiancelebrities/p/rickwarrenbio.htm",
+   "htmlFormattedUrl": "christianity.about.com/od/christiancelebrities/p/\u003cb\u003erickwarren\u003c/b\u003ebio.htm",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://0.tqn.com/d/christianity/1/G/s/8/WarrenBush200x196.jpg",
+      "type": "1",
+      "width": "128",
+      "height": "124"
+     }
+    ],
+    "metatags": [
+     {
+      "pd": "Tuesday, 10-Apr-2012 01:33:49 UTC",
+      "og:title": "Rick Warren Biography",
+      "og:type": "article",
+      "og:image": "http://0.tqn.com/d/christianity/1/G/s/8/WarrenBush200x196.jpg",
+      "og:url": "http://christianity.about.com/od/christiancelebrities/p/rickwarrenbio.htm",
+      "og:site_name": "About.com Christianity",
+      "fb:app_id": "121030274606741"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Rick Warren: Same-Sex Marriage Is Wrong Because God Said So ...",
+   "htmlTitle": "\u003cb\u003eRick Warren\u003c/b\u003e: Same-Sex Marriage Is Wrong Because God Said So \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://thinkprogress.org/lgbt/2012/04/09/460303/rick-warren-gay-bible/",
+   "displayLink": "thinkprogress.org",
+   "snippet": "Apr 9, 2012 ... Past Rick Warren reiterated his opposition to same-sex marriage during an   appearance on ABC's This Week on Sunday, insisting that God and ...",
+   "htmlSnippet": "Apr 9, 2012 \u003cb\u003e...\u003c/b\u003e Past \u003cb\u003eRick Warren\u003c/b\u003e reiterated his opposition to same-sex marriage during an \u003cbr\u003e  appearance on ABC&#39;s This Week on Sunday, insisting that God and \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "Asivv-o5t9gJ",
+   "formattedUrl": "thinkprogress.org/lgbt/2012/04/09/460303/rick-warren-gay-bible/",
+   "htmlFormattedUrl": "thinkprogress.org/lgbt/2012/04/09/460303/\u003cb\u003erick\u003c/b\u003e-\u003cb\u003ewarren\u003c/b\u003e-gay-bible/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://thinkprogress.org/wp-content/uploads/2012/04/Google-ChromeScreenSnapz498.png"
+     }
+    ],
+    "metatags": [
+     {
+      "fb:app_id": "144881328916524",
+      "fb:admins": "100001364918392",
+      "og:type": "article",
+      "og:title": "Rick Warren: Same-Sex Marriage Is Wrong Because God Said So",
+      "og:url": "http://thinkprogress.org/lgbt/2012/04/09/460303/rick-warren-gay-bible/",
+      "og:image": "http://thinkprogress.org/wp-content/uploads/2012/04/Google-ChromeScreenSnapz498.png",
+      "og:description": "Past Rick Warren reiterated his opposition to same-sex marriage during an appearance on ABC’s This Week on Sunday, insisting that God and the Bible “is very clear that sex is for a man and a woman in marriage only”: TAPPER: Do you think there will come a time when Saddleback Church needs to adjust its [...]",
+      "viewport": "width=device-width",
+      "elq-topic": "tp-lgbt",
+      "bitly-verification": "131cfbb2e3a1"
+     }
+    ]
+   }
+  }
+ ]
+}

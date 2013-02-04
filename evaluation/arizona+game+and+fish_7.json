@@ -1,0 +1,277 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "nextPage": [
+   {
+    "title": "Google Custom Search - arizona game and fish",
+    "totalResults": "1710000",
+    "searchTerms": "arizona game and fish",
+    "count": 10,
+    "startIndex": 81,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "017401104989814545383:mf4lavmtuva"
+   }
+  ],
+  "request": [
+   {
+    "title": "Google Custom Search - arizona game and fish",
+    "totalResults": "1710000",
+    "searchTerms": "arizona game and fish",
+    "count": 10,
+    "startIndex": 71,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "017401104989814545383:mf4lavmtuva"
+   }
+  ],
+  "previousPage": [
+   {
+    "title": "Google Custom Search - arizona game and fish",
+    "totalResults": "1710000",
+    "searchTerms": "arizona game and fish",
+    "count": 10,
+    "startIndex": 61,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "017401104989814545383:mf4lavmtuva"
+   }
+  ]
+ },
+ "context": {
+  "title": "College MetaSearch Comparison"
+ },
+ "searchInformation": {
+  "searchTime": 0.284716,
+  "formattedSearchTime": "0.28",
+  "totalResults": "1710000",
+  "formattedTotalResults": "1,710,000"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "Arizona Game and Fish Bird Projects",
+   "htmlTitle": "\u003cb\u003eArizona Game and Fish\u003c/b\u003e Bird Projects",
+   "link": "http://mirror-pole.com/apif_web/agfdproj.html",
+   "displayLink": "mirror-pole.com",
+   "snippet": "Arizona Game and Fish Bird Projects - 1995. Arizona Game and Fish Department  . PROJECT TITLE: Arizona Breeding Bird Atlas KEYWORDS: Atlas, breeding ...",
+   "htmlSnippet": "\u003cb\u003eArizona Game and Fish\u003c/b\u003e Bird Projects - 1995. \u003cb\u003eArizona Game and Fish\u003c/b\u003e Department\u003cbr\u003e  . PROJECT TITLE: Arizona Breeding Bird Atlas KEYWORDS: Atlas, breeding \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "4lj60EOxqn0J",
+   "formattedUrl": "mirror-pole.com/apif_web/agfdproj.html",
+   "htmlFormattedUrl": "mirror-pole.com/apif_web/agfdproj.html"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "AZGFD.gov Governor appoints Kurt Davis to Arizona Game and Fish ...",
+   "htmlTitle": "AZGFD.gov Governor appoints Kurt Davis to \u003cb\u003eArizona Game and Fish\u003c/b\u003e \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://azgfd.net/artman/publish/NewsMedia/Governor-appoints-Kurt-Davis-to-Arizona-Game-and-Fish-Commission.shtml",
+   "displayLink": "azgfd.net",
+   "snippet": "Dec 8, 2011 ... PHOENIX – Gov. Jan Brewer today announced the appointment of Kurt R. Davis   to the Arizona Game and Fish Commission. “Kurt possesses a ...",
+   "htmlSnippet": "Dec 8, 2011 \u003cb\u003e...\u003c/b\u003e PHOENIX – Gov. Jan Brewer today announced the appointment of Kurt R. Davis \u003cbr\u003e  to the \u003cb\u003eArizona Game and Fish\u003c/b\u003e Commission. “Kurt possesses a \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "En1wyF2Yj2wJ",
+   "formattedUrl": "azgfd.net/.../Governor-appoints-Kurt-Davis-to-Arizona-Game-and-Fish- Commission.shtml",
+   "htmlFormattedUrl": "azgfd.net/.../Governor-appoints-Kurt-Davis-to-\u003cb\u003eArizona\u003c/b\u003e-\u003cb\u003eGame-and-Fish\u003c/b\u003e- Commission.shtml"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Arizona Game and Fish Department",
+   "htmlTitle": "\u003cb\u003eArizona Game and Fish\u003c/b\u003e Department",
+   "link": "http://www.boat-ed.com/az/az_welcome.htm",
+   "displayLink": "www.boat-ed.com",
+   "snippet": "Apr 7, 2011 ... Click here to go to the latest version of the Boat Arizona course—the official   boating safety course of the Arizona Game and Fish Department.",
+   "htmlSnippet": "Apr 7, 2011 \u003cb\u003e...\u003c/b\u003e Click here to go to the latest version of the Boat Arizona course—the official \u003cbr\u003e  boating safety course of the \u003cb\u003eArizona Game and Fish\u003c/b\u003e Department.",
+   "cacheId": "Bh1H9lJCVwoJ",
+   "formattedUrl": "www.boat-ed.com/az/az_welcome.htm",
+   "htmlFormattedUrl": "www.boat-ed.com/\u003cb\u003eaz\u003c/b\u003e/\u003cb\u003eaz\u003c/b\u003e_welcome.htm",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.boat-ed.com/az/az_specific_images/graphics/AZfishgame_logo.gif",
+      "type": "1",
+      "width": "115",
+      "height": "115"
+     }
+    ],
+    "metatags": [
+     {
+      "msvalidate.01": "BE56B5ACC41B86E740A3978787AE64DE"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Arizona Game and Fish headquarters receives highest green building",
+   "htmlTitle": "\u003cb\u003eArizona Game and Fish\u003c/b\u003e headquarters receives highest green building",
+   "link": "http://www.azgfd.net/wildlife/uncategorized/arizona-game-and-fish-headquarters-receives-highest-green-building-rating/2009/06/03/",
+   "displayLink": "www.azgfd.net",
+   "snippet": "Jun 3, 2009 ... PHOENIX – The Arizona Game and Fish Department's headquarters building in   Phoenix has earned “platinum” certification—the highest ...",
+   "htmlSnippet": "Jun 3, 2009 \u003cb\u003e...\u003c/b\u003e PHOENIX – The \u003cb\u003eArizona Game and Fish\u003c/b\u003e Department&#39;s headquarters building in \u003cbr\u003e  Phoenix has earned “platinum” certification—the highest \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "_f8MGYQJzfsJ",
+   "formattedUrl": "www.azgfd.net/wildlife/.../arizona-game-and-fish...receives.../03/",
+   "htmlFormattedUrl": "www.azgfd.net/wildlife/.../\u003cb\u003earizona\u003c/b\u003e-\u003cb\u003egame-and-fish\u003c/b\u003e...receives.../03/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://azgfd.net/artman/uploads/1/GF_Headquarters_LEED_platinum_cert_web4.jpg",
+      "type": "1",
+      "width": "319",
+      "height": "105"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Arizona Game and Fish Department | White-Nose Syndrome",
+   "htmlTitle": "\u003cb\u003eArizona Game and Fish\u003c/b\u003e Department | White-Nose Syndrome",
+   "link": "http://whitenosesyndrome.org/partner/arizona-game-and-fish-department",
+   "displayLink": "whitenosesyndrome.org",
+   "snippet": "The Arizona Game and Fish Department is working with other states and federal   agencies across the U.S. to develop management strategies to prevent or slow ...",
+   "htmlSnippet": "The \u003cb\u003eArizona Game and Fish\u003c/b\u003e Department is working with other states and federal \u003cbr\u003e  agencies across the U.S. to develop management strategies to prevent or slow \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "zFHNPUbAlTAJ",
+   "formattedUrl": "whitenosesyndrome.org/partner/arizona-game-and-fish-department",
+   "htmlFormattedUrl": "whitenosesyndrome.org/partner/\u003cb\u003earizona\u003c/b\u003e-\u003cb\u003egame-and-fish\u003c/b\u003e-department",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://whitenosesyndrome.org/sites/default/files/styles/medium/public/logos/arizonagfd.png",
+      "type": "1",
+      "width": "176",
+      "height": "176"
+     }
+    ],
+    "metatags": [
+     {
+      "sioc:num_replies": "0",
+      "dc:title": "Arizona Game and Fish Department"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "AZGFD.gov Wildlife News - Dec. 3, 2011",
+   "htmlTitle": "AZGFD.gov Wildlife News - Dec. 3, 2011",
+   "link": "http://azgfd.net/artman/publish/WildlifeNews/Wildlife-News---Dec-3-2011.shtml",
+   "displayLink": "azgfd.net",
+   "snippet": "Dec 2, 2011 ... Arizona Game and Fish Department unveils HabiMap™ Arizona ... “I can't think of   a better way for the Arizona Game and Fish Department to ...",
+   "htmlSnippet": "Dec 2, 2011 \u003cb\u003e...\u003c/b\u003e \u003cb\u003eArizona Game and Fish\u003c/b\u003e Department unveils HabiMap™ Arizona \u003cb\u003e...\u003c/b\u003e “I can&#39;t think of \u003cbr\u003e  a better way for the \u003cb\u003eArizona Game and Fish\u003c/b\u003e Department to \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "swloSYpFJf8J",
+   "formattedUrl": "azgfd.net/artman/publish/.../Wildlife-News---Dec-3-2011.shtml",
+   "htmlFormattedUrl": "azgfd.net/artman/publish/.../Wildlife-News---Dec-3-2011.shtml",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://azgfd.net/artman/uploads/1/WLN_javelina_for_Hunt_deadline_2_1_.jpg",
+      "type": "1",
+      "width": "251",
+      "height": "152"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Arizona Game & Fish Department's Wildlife News",
+   "htmlTitle": "\u003cb\u003eArizona Game\u003c/b\u003e &amp; \u003cb\u003eFish\u003c/b\u003e Department&#39;s Wildlife News",
+   "link": "http://www.landbigfish.com/articles/default.cfm?ID=1326",
+   "displayLink": "www.landbigfish.com",
+   "snippet": "The Arizona Game & Fish Department's Weekly Wildlife News is packed with the   latest news and updates for the state of Arizona.",
+   "htmlSnippet": "The \u003cb\u003eArizona Game\u003c/b\u003e &amp; \u003cb\u003eFish\u003c/b\u003e Department&#39;s Weekly Wildlife News is packed with the \u003cbr\u003e  latest news and updates for the state of \u003cb\u003eArizona\u003c/b\u003e.",
+   "formattedUrl": "www.landbigfish.com/articles/default.cfm?ID=1326",
+   "htmlFormattedUrl": "www.landbig\u003cb\u003efish\u003c/b\u003e.com/articles/default.cfm?ID=1326",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.landbigfish.com/images/gallery/slider/thumbnail/thumb100_2097.jpg",
+      "type": "1",
+      "width": "100",
+      "height": "75"
+     }
+    ],
+    "metatags": [
+     {
+      "abstract": "Land Big Fish, the Ultimate Fishing Search Engine!",
+      "distribution": "Global",
+      "gogglebot": "FOLLOW,INDEX"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Hunting",
+   "htmlTitle": "Hunting",
+   "link": "http://www.azgfd.net/photos/categories.php?cat_id=1",
+   "displayLink": "www.azgfd.net",
+   "snippet": "Hunger Game (17 Bonus Points) Hunting Comments: 0, Rabbit Hunt 2012 (Joey   A) Hunting Comments: 0, Gould's Turkey - Royal Slam! (arizonahunts) Hunting ...",
+   "htmlSnippet": "Hunger \u003cb\u003eGame\u003c/b\u003e (17 Bonus Points) Hunting Comments: 0, Rabbit Hunt 2012 (Joey \u003cbr\u003e  A) Hunting Comments: 0, Gould&#39;s Turkey - Royal Slam! (\u003cb\u003earizonahunts\u003c/b\u003e) Hunting \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "ZIO6Uafpl3oJ",
+   "formattedUrl": "www.azgfd.net/photos/categories.php?cat_id=1",
+   "htmlFormattedUrl": "www.azgfd.net/photos/categories.php?cat_id=1",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.azgfd.net/photos/data/thumbnails/1/rabbit_hunt_2012_2.jpg",
+      "type": "1",
+      "width": "119",
+      "height": "89"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Arizona Wildlife Action Plan",
+   "htmlTitle": "\u003cb\u003eArizona\u003c/b\u003e Wildlife Action Plan",
+   "link": "http://www.wildlifeactionplan.org/arizona.html",
+   "displayLink": "www.wildlifeactionplan.org",
+   "snippet": "Arizona Game and Fish Department. Contact: Eric Gardner, Nongame Branch   Supervisor. 5000 N. Carefree Highway. Phoenix, AZ, 85086. Phone: 623.236.",
+   "htmlSnippet": "\u003cb\u003eArizona Game and Fish\u003c/b\u003e Department. Contact: Eric Gardner, Nongame Branch \u003cbr\u003e  Supervisor. 5000 N. Carefree Highway. Phoenix, AZ, 85086. Phone: 623.236.",
+   "cacheId": "OdfURMqVhhgJ",
+   "formattedUrl": "www.wildlifeactionplan.org/arizona.html",
+   "htmlFormattedUrl": "www.wildlifeactionplan.org/\u003cb\u003earizona\u003c/b\u003e.html",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.wildlifeactionplan.org/images/az_desert_tortoise.jpg",
+      "type": "1",
+      "width": "192",
+      "height": "128"
+     }
+    ],
+    "person": [
+     {
+      "org": "Arizona Game and Fish Department",
+      "location": "Phoenix AZ"
+     }
+    ],
+    "hcard": [
+     {
+      "fn": "Contact: Eric Gardner, Nongame Branch Supervisor"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Arizona Hunting Highlights the Official Hunting Blog of the Arizona ...",
+   "htmlTitle": "\u003cb\u003eArizona\u003c/b\u003e Hunting Highlights the Official Hunting Blog of the \u003cb\u003eArizona\u003c/b\u003e \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://www.azgfd.net/hunting/",
+   "displayLink": "www.azgfd.net",
+   "snippet": "Arizona Game and FIsh Department - Managing Today for Wildlife .... Arizona   Game and Fish offers fun shoots Step off the range and into the field and expand ...",
+   "htmlSnippet": "\u003cb\u003eArizona Game and FIsh\u003c/b\u003e Department - Managing Today for Wildlife \u003cb\u003e....\u003c/b\u003e \u003cb\u003eArizona\u003c/b\u003e \u003cbr\u003e  \u003cb\u003eGame and Fish\u003c/b\u003e offers fun shoots Step off the range and into the field and expand \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "Ve-hnI5Rfx4J",
+   "formattedUrl": "www.azgfd.net/hunting/",
+   "htmlFormattedUrl": "www.azgfd.net/hunting/"
+  }
+ ]
+}

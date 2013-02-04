@@ -1,0 +1,303 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "nextPage": [
+   {
+    "title": "Google Custom Search - hoboken",
+    "totalResults": "2070000",
+    "searchTerms": "hoboken",
+    "count": 10,
+    "startIndex": 81,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "017401104989814545383:mf4lavmtuva"
+   }
+  ],
+  "request": [
+   {
+    "title": "Google Custom Search - hoboken",
+    "totalResults": "2070000",
+    "searchTerms": "hoboken",
+    "count": 10,
+    "startIndex": 71,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "017401104989814545383:mf4lavmtuva"
+   }
+  ],
+  "previousPage": [
+   {
+    "title": "Google Custom Search - hoboken",
+    "totalResults": "2070000",
+    "searchTerms": "hoboken",
+    "count": 10,
+    "startIndex": 61,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "017401104989814545383:mf4lavmtuva"
+   }
+  ]
+ },
+ "context": {
+  "title": "College MetaSearch Comparison"
+ },
+ "searchInformation": {
+  "searchTime": 0.175166,
+  "formattedSearchTime": "0.18",
+  "totalResults": "2070000",
+  "formattedTotalResults": "2,070,000"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "City of Hoboken, NJ » Artists' Studio Tour",
+   "htmlTitle": "City of \u003cb\u003eHoboken\u003c/b\u003e, NJ » Artists&#39; Studio Tour",
+   "link": "http://www.hobokennj.org/artists-studio-tour/",
+   "displayLink": "www.hobokennj.org",
+   "snippet": "The City of Hoboken provides free regular news updates and alerts via email and   ... Swift911 is Hoboken's Emergency Notification service to inform residents in ...",
+   "htmlSnippet": "The City of \u003cb\u003eHoboken\u003c/b\u003e provides free regular news updates and alerts via email and \u003cbr\u003e  \u003cb\u003e...\u003c/b\u003e Swift911 is \u003cb\u003eHoboken&#39;s\u003c/b\u003e Emergency Notification service to inform residents in \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "hbZ7BQNM5x8J",
+   "formattedUrl": "www.hobokennj.org/artists-studio-tour/",
+   "htmlFormattedUrl": "www.\u003cb\u003ehoboken\u003c/b\u003enj.org/artists-studio-tour/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.hobokennj.org/content/wp-content/uploads/2009/09/stefanie-larry-bijou-08-300x256.jpg",
+      "type": "1",
+      "width": "240",
+      "height": "204"
+     }
+    ],
+    "metatags": [
+     {
+      "fb:page_id": "107840642570023"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Hoboken School Employees Federal Credit Union",
+   "htmlTitle": "\u003cb\u003eHoboken\u003c/b\u003e School Employees Federal Credit Union",
+   "link": "http://www.hsefcu.coop/",
+   "displayLink": "www.hsefcu.coop",
+   "snippet": "Allpoint How-to's. When using an Allpoint machine, you may be asked to accept a   surcharge to continue with your withdrawal. If so, say YES! You will not be ...",
+   "htmlSnippet": "Allpoint How-to&#39;s. When using an Allpoint machine, you may be asked to accept a \u003cbr\u003e  surcharge to continue with your withdrawal. If so, say YES! You will not be \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "jKwaP86gIHwJ",
+   "formattedUrl": "www.hsefcu.coop/",
+   "htmlFormattedUrl": "www.hsefcu.coop/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.hsefcu.coop/images/mancomputer.gif",
+      "type": "1",
+      "width": "108",
+      "height": "67"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Hoboken, NJ",
+   "htmlTitle": "\u003cb\u003eHoboken\u003c/b\u003e, NJ",
+   "link": "http://www.grimaldis.com/hoboken.htm",
+   "displayLink": "www.grimaldis.com",
+   "snippet": "There are now two Grimaldi's Pizzeria locations in Hoboken. For hours, directions  , menus, and other information, click on a location: ...",
+   "htmlSnippet": "There are now two Grimaldi&#39;s Pizzeria locations in \u003cb\u003eHoboken\u003c/b\u003e. For hours, directions\u003cbr\u003e  , menus, and other information, click on a location: \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "Jgke_-vSdxMJ",
+   "formattedUrl": "www.grimaldis.com/hoboken.htm",
+   "htmlFormattedUrl": "www.grimaldis.com/\u003cb\u003ehoboken\u003c/b\u003e.htm",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.grimaldis.com/images/making_it.gif",
+      "type": "1",
+      "width": "180",
+      "height": "120"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "City of Hoboken, NJ » Hoboken Housing Authority",
+   "htmlTitle": "City of \u003cb\u003eHoboken\u003c/b\u003e, NJ » \u003cb\u003eHoboken\u003c/b\u003e Housing Authority",
+   "link": "http://www.hobokennj.org/boards/housing-authority/",
+   "displayLink": "www.hobokennj.org",
+   "snippet": "The City of Hoboken provides free regular news updates and alerts via email and   ... Swift911 is Hoboken's Emergency Notification service to inform residents in ...",
+   "htmlSnippet": "The City of \u003cb\u003eHoboken\u003c/b\u003e provides free regular news updates and alerts via email and \u003cbr\u003e  \u003cb\u003e...\u003c/b\u003e Swift911 is \u003cb\u003eHoboken&#39;s\u003c/b\u003e Emergency Notification service to inform residents in \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "X3nBQokeKcQJ",
+   "formattedUrl": "www.hobokennj.org/boards/housing-authority/",
+   "htmlFormattedUrl": "www.\u003cb\u003ehoboken\u003c/b\u003enj.org/boards/housing-authority/",
+   "pagemap": {
+    "metatags": [
+     {
+      "fb:page_id": "107840642570023"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "HOBOKEN BAR & GRILL, Hoboken, NJ",
+   "htmlTitle": "\u003cb\u003eHOBOKEN\u003c/b\u003e BAR &amp; GRILL, \u003cb\u003eHoboken\u003c/b\u003e, NJ",
+   "link": "http://hobokenbarandgrill.net/",
+   "displayLink": "hobokenbarandgrill.net",
+   "snippet": "The Finest Bar and Grill in Hoboken Friendly fun atmosphere at the bar or make   reservations for our main dining room.",
+   "htmlSnippet": "The Finest Bar and Grill in \u003cb\u003eHoboken\u003c/b\u003e Friendly fun atmosphere at the bar or make \u003cbr\u003e  reservations for our main dining room.",
+   "cacheId": "pIku0_m13u4J",
+   "formattedUrl": "hobokenbarandgrill.net/",
+   "htmlFormattedUrl": "\u003cb\u003ehoboken\u003c/b\u003ebarandgrill.net/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://hobokenbarandgrill.net/Logo.png",
+      "type": "1",
+      "width": "260",
+      "height": "194"
+     }
+    ],
+    "metatags": [
+     {
+      "rating": "General"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "City of Hoboken, NJ » Moving to Hoboken",
+   "htmlTitle": "City of \u003cb\u003eHoboken\u003c/b\u003e, NJ » Moving to \u003cb\u003eHoboken\u003c/b\u003e",
+   "link": "http://www.hobokennj.org/moving-to-hoboken/",
+   "displayLink": "www.hobokennj.org",
+   "snippet": "The City of Hoboken provides free regular news updates and alerts via email and   ... Swift911 is Hoboken's Emergency Notification service to inform residents in ...",
+   "htmlSnippet": "The City of \u003cb\u003eHoboken\u003c/b\u003e provides free regular news updates and alerts via email and \u003cbr\u003e  \u003cb\u003e...\u003c/b\u003e Swift911 is \u003cb\u003eHoboken&#39;s\u003c/b\u003e Emergency Notification service to inform residents in \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "u1FFCz-KgwkJ",
+   "formattedUrl": "www.hobokennj.org/moving-to-hoboken/",
+   "htmlFormattedUrl": "www.\u003cb\u003ehoboken\u003c/b\u003enj.org/moving-to-\u003cb\u003ehoboken\u003c/b\u003e/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.hobokennj.org/content/images/photos/hobokenpiera.jpg",
+      "type": "1",
+      "width": "410",
+      "height": "123"
+     }
+    ],
+    "metatags": [
+     {
+      "fb:page_id": "107840642570023"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Carlo's Bakery of Cake Boss",
+   "htmlTitle": "Carlo&#39;s Bakery of Cake Boss",
+   "link": "http://www.carlosbakery.com/",
+   "displayLink": "www.carlosbakery.com",
+   "snippet": "The famous Hoboken bakery of Cake Boss, Buddy Valastro and La Famiglia.   View our cakes. Purchase items for pick up or delivery. Take a cake decorating ...",
+   "htmlSnippet": "The famous \u003cb\u003eHoboken\u003c/b\u003e bakery of Cake Boss, Buddy Valastro and La Famiglia. \u003cbr\u003e  View our cakes. Purchase items for pick up or delivery. Take a cake decorating \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "hfXHvbsRwx8J",
+   "formattedUrl": "www.carlosbakery.com/",
+   "htmlFormattedUrl": "www.carlosbakery.com/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.carlosbakery.com/images/instore.png",
+      "type": "1",
+      "width": "225",
+      "height": "225"
+     }
+    ],
+    "metatags": [
+     {
+      "viewport": "width=device-width",
+      "og:title": "Carlo's Bakery plans to ship",
+      "og:description": "What Carlo's Bakery products would you like us to ship first?",
+      "og:image": "http://www.carlosbakery.com/images/instore.png",
+      "fb:admins": "500053211,1227565541,92081037473294,100003699742013",
+      "fb:app_id": "215245486319"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "City of Hoboken, NJ » Corner Cars",
+   "htmlTitle": "City of \u003cb\u003eHoboken\u003c/b\u003e, NJ » Corner Cars",
+   "link": "http://www.hobokennj.org/departments/transportation-parking/corner-cars/",
+   "displayLink": "www.hobokennj.org",
+   "snippet": "The City of Hoboken provides free regular news updates and alerts via email .... “  Innovative, greener transportation in Hoboken” — The Daily Green, July 29, ...",
+   "htmlSnippet": "The City of \u003cb\u003eHoboken\u003c/b\u003e provides free regular news updates and alerts via email \u003cb\u003e....\u003c/b\u003e “\u003cbr\u003e  Innovative, greener transportation in \u003cb\u003eHoboken\u003c/b\u003e” — The Daily Green, July 29, \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "xsikldlwHvoJ",
+   "formattedUrl": "www.hobokennj.org/departments/transportation.../corner-cars/",
+   "htmlFormattedUrl": "www.\u003cb\u003ehoboken\u003c/b\u003enj.org/departments/transportation.../corner-cars/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.hobokennj.org/content/wp-content/uploads/2010/05/photo7-234x300.jpg",
+      "type": "1",
+      "width": "187",
+      "height": "240"
+     }
+    ],
+    "metatags": [
+     {
+      "fb:page_id": "107840642570023"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Hoboken Southwest Parks Coalition",
+   "htmlTitle": "\u003cb\u003eHoboken\u003c/b\u003e Southwest Parks Coalition",
+   "link": "http://www.hobokenspc.org/",
+   "displayLink": "www.hobokenspc.org",
+   "snippet": "Mar 28, 2012 ... Hoboken Southwest Parks Coalition is a group of residents dedicated to creating   a contiguous 6+ acre park in the southwest area of Hoboken ...",
+   "htmlSnippet": "Mar 28, 2012 \u003cb\u003e...\u003c/b\u003e \u003cb\u003eHoboken\u003c/b\u003e Southwest Parks Coalition is a group of residents dedicated to creating \u003cbr\u003e  a contiguous 6+ acre park in the southwest area of \u003cb\u003eHoboken\u003c/b\u003e \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "IVnKWiE_Xr0J",
+   "formattedUrl": "www.hobokenspc.org/",
+   "htmlFormattedUrl": "www.\u003cb\u003ehoboken\u003c/b\u003espc.org/",
+   "pagemap": {
+    "metatags": [
+     {
+      "template": "K2 1.0"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Bike Hoboken",
+   "htmlTitle": "Bike \u003cb\u003eHoboken\u003c/b\u003e",
+   "link": "http://www.bikehoboken.com/",
+   "displayLink": "www.bikehoboken.com",
+   "snippet": "Aug 20, 2011 ... Bike Hoboken wants to do all we can to garner support for passing the bike lane   ordinance in town. Please print out a few copies of the flyer ...",
+   "htmlSnippet": "Aug 20, 2011 \u003cb\u003e...\u003c/b\u003e Bike \u003cb\u003eHoboken\u003c/b\u003e wants to do all we can to garner support for passing the bike lane \u003cbr\u003e  ordinance in town. Please print out a few copies of the flyer \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "p79QD-NArb0J",
+   "formattedUrl": "www.bikehoboken.com/",
+   "htmlFormattedUrl": "www.bike\u003cb\u003ehoboken\u003c/b\u003e.com/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.bikehoboken.com/bikehobokenlogo.png",
+      "type": "1",
+      "width": "206",
+      "height": "160"
+     }
+    ]
+   }
+  }
+ ]
+}

@@ -1,0 +1,327 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "nextPage": [
+   {
+    "title": "Google Custom Search - diversity",
+    "totalResults": "21900000",
+    "searchTerms": "diversity",
+    "count": 10,
+    "startIndex": 41,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "017401104989814545383:mf4lavmtuva"
+   }
+  ],
+  "request": [
+   {
+    "title": "Google Custom Search - diversity",
+    "totalResults": "21900000",
+    "searchTerms": "diversity",
+    "count": 10,
+    "startIndex": 31,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "017401104989814545383:mf4lavmtuva"
+   }
+  ],
+  "previousPage": [
+   {
+    "title": "Google Custom Search - diversity",
+    "totalResults": "21900000",
+    "searchTerms": "diversity",
+    "count": 10,
+    "startIndex": 21,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "017401104989814545383:mf4lavmtuva"
+   }
+  ]
+ },
+ "context": {
+  "title": "College MetaSearch Comparison"
+ },
+ "searchInformation": {
+  "searchTime": 0.364956,
+  "formattedSearchTime": "0.36",
+  "totalResults": "21900000",
+  "formattedTotalResults": "21,900,000"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "IBM - Diversity 3.0™",
+   "htmlTitle": "IBM - \u003cb\u003eDiversity\u003c/b\u003e 3.0™",
+   "link": "http://www.ibm.com/diversity/",
+   "displayLink": "www.ibm.com",
+   "snippet": "IBM's employees represent a talented and diverse workforce. Achieving the full   potential of this diversity is a business priority that is fundamental to our ...",
+   "htmlSnippet": "IBM&#39;s employees represent a talented and \u003cb\u003ediverse\u003c/b\u003e workforce. Achieving the full \u003cbr\u003e  potential of this \u003cb\u003ediversity\u003c/b\u003e is a business priority that is fundamental to our \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "vq1fMtNmL-4J",
+   "formattedUrl": "www.ibm.com/diversity/",
+   "htmlFormattedUrl": "www.ibm.com/\u003cb\u003ediversity\u003c/b\u003e/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www-03.ibm.com/employment/us/diverse/images/diversity_530x200_r1.jpg",
+      "type": "1",
+      "width": "397",
+      "height": "127"
+     }
+    ],
+    "metatags": [
+     {
+      "ibm.country": "US",
+      "dc.rights": "© Copyright IBM Corporation 2007",
+      "dc.type": "CT000",
+      "security": "public",
+      "dc.language": "en-US",
+      "dc.subject": "SWB40",
+      "abstract": "IBM's belief is that Workforce Diversity is the bridge between the workplace and the marketplace, and as such, victory with the customer begins with winning in the workplace.",
+      "dc.date": "2002-05-14",
+      "owner": "mkovacs@us.ibm.com",
+      "ibm.effective": "2005-10-21",
+      "source": "v16 Template Generator, Template 16.12"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Antenna diversity - Wikipedia, the free encyclopedia",
+   "htmlTitle": "Antenna \u003cb\u003ediversity\u003c/b\u003e - Wikipedia, the free encyclopedia",
+   "link": "http://en.wikipedia.org/wiki/Antenna_diversity",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "Antenna diversity, also known as space diversity, is any one of several wireless   diversity schemes that uses two or more antennas to improve the quality and ...",
+   "htmlSnippet": "Antenna \u003cb\u003ediversity\u003c/b\u003e, also known as space \u003cb\u003ediversity\u003c/b\u003e, is any one of several wireless \u003cbr\u003e  \u003cb\u003ediversity\u003c/b\u003e schemes that uses two or more antennas to improve the quality and \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "Edkp06sD5WMJ",
+   "formattedUrl": "en.wikipedia.org/wiki/Antenna_diversity",
+   "htmlFormattedUrl": "en.wikipedia.org/wiki/Antenna_\u003cb\u003ediversity\u003c/b\u003e",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/811_10th_Av_antenna_tower_jeh.jpg/220px-811_10th_Av_antenna_tower_jeh.jpg",
+      "type": "1",
+      "width": "176",
+      "height": "255"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Institute for Diversity",
+   "htmlTitle": "Institute for \u003cb\u003eDiversity\u003c/b\u003e",
+   "link": "http://www.diversityconnection.org/",
+   "displayLink": "www.diversityconnection.org",
+   "snippet": "Matching employers with qualified minority candidates in health care   management. Links candidates to jobs, mentoring, and discussion opportunities.",
+   "htmlSnippet": "Matching employers with qualified minority candidates in health care \u003cbr\u003e  management. Links candidates to jobs, mentoring, and discussion opportunities.",
+   "cacheId": "igMtt7TpwBsJ",
+   "formattedUrl": "www.diversityconnection.org/",
+   "htmlFormattedUrl": "www.\u003cb\u003ediversity\u003c/b\u003econnection.org/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.diversityconnection.org/diversityconnection/images/business_diversity.jpg",
+      "type": "1",
+      "width": "268",
+      "height": "188"
+     }
+    ],
+    "metatags": [
+     {
+      "active_date": "08-04-2006",
+      "ranking": "1"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "PwC's diverse workforce",
+   "htmlTitle": "PwC&#39;s \u003cb\u003ediverse\u003c/b\u003e workforce",
+   "link": "http://www.pwc.com/us/en/about-us/diversity/index.jhtml",
+   "displayLink": "www.pwc.com",
+   "snippet": "At PwC, we take pride in the ever increasing diversity of our workforce. Building a   diverse workforce is a cornerstone of our Strategy and in the way we think ...",
+   "htmlSnippet": "At PwC, we take pride in the ever increasing \u003cb\u003ediversity\u003c/b\u003e of our workforce. Building a \u003cbr\u003e  \u003cb\u003ediverse\u003c/b\u003e workforce is a cornerstone of our Strategy and in the way we think \u003cb\u003e...\u003c/b\u003e",
+   "formattedUrl": "www.pwc.com/us/en/about-us/diversity/index.jhtml",
+   "htmlFormattedUrl": "www.pwc.com/us/en/about-us/\u003cb\u003ediversity\u003c/b\u003e/index.jhtml",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.pwc.com/us/en/about-us/diversity/images/home-diversity-stephen.jpg",
+      "type": "1",
+      "width": "434",
+      "height": "116"
+     }
+    ],
+    "metatags": [
+     {
+      "og:title": "PwC's diverse workforce",
+      "og:type": "article",
+      "og:url": "http://www.pwc.com/us/en/about-us/diversity/index.jhtml",
+      "og:site_name": "PwC",
+      "og:description": "At PwC, we take pride in the ever increasing diversity of our workforce. Building a diverse workforce is a cornerstone of our Strategy and in the way we think about business.",
+      "author": "PricewaterhouseCoopers",
+      "pwctitle": "PwC's diverse workforce",
+      "pwcreleasedate": "Sat Oct 02 00:00:00 EDT 2010",
+      "pwccountry": "us",
+      "pwcgeo.default": "us",
+      "pwclocale": "en_US",
+      "pwclang": "en",
+      "pwcservice": "ALLS",
+      "pwcind": "ALLI",
+      "pwcdb": "home",
+      "pwccontact": "0",
+      "pwcgeo": "US",
+      "pwchidelevel": "0,2",
+      "rvpflag": "1",
+      "rvptitle": "PwC's diverse workforce"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Diversity & Inclusion",
+   "htmlTitle": "\u003cb\u003eDiversity\u003c/b\u003e &amp; Inclusion",
+   "link": "http://www.sodexousa.com/usen/citizenship/diversity/diversity.asp",
+   "displayLink": "www.sodexousa.com",
+   "snippet": "Diversity & Inclusion. Sodexo is committed to providing a diverse and inclusive   work environment, and has received widespread recognition for its leadership in ...",
+   "htmlSnippet": "\u003cb\u003eDiversity\u003c/b\u003e &amp; Inclusion. Sodexo is committed to providing a \u003cb\u003ediverse\u003c/b\u003e and inclusive \u003cbr\u003e  work environment, and has received widespread recognition for its leadership in \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "G_5ZqeE4v7EJ",
+   "formattedUrl": "www.sodexousa.com/usen/citizenship/diversity/diversity.asp",
+   "htmlFormattedUrl": "www.sodexousa.com/usen/citizenship/\u003cb\u003ediversity\u003c/b\u003e/\u003cb\u003ediversity\u003c/b\u003e.asp",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.sodexousa.com/usen/Images/CB_TopLevel_CC_DI_tcm87-92892.jpg",
+      "type": "1",
+      "width": "96",
+      "height": "128"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Diversity Synonyms, Diversity Antonyms | Thesaurus.com",
+   "htmlTitle": "\u003cb\u003eDiversity\u003c/b\u003e Synonyms, \u003cb\u003eDiversity\u003c/b\u003e Antonyms | Thesaurus.com",
+   "link": "http://thesaurus.com/browse/diversity",
+   "displayLink": "thesaurus.com",
+   "snippet": "Synonyms for diversity at Thesaurus.com with free online thesaurus, antonyms,   and definitions. Dictionary and Word of the Day.",
+   "htmlSnippet": "Synonyms for \u003cb\u003ediversity\u003c/b\u003e at Thesaurus.com with free online thesaurus, antonyms, \u003cbr\u003e  and definitions. Dictionary and Word of the Day.",
+   "cacheId": "ltdJ-EPyjgoJ",
+   "formattedUrl": "thesaurus.com/browse/diversity",
+   "htmlFormattedUrl": "thesaurus.com/browse/\u003cb\u003ediversity\u003c/b\u003e",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://static.sfdict.com/en/i/dictionary/facebook/thesaurus_logo.png"
+     }
+    ],
+    "metatags": [
+     {
+      "msvalidate.01": "DF5542D7723770377E9ABFF59AC1DC97",
+      "og:title": "the synonyms of diversity",
+      "og:site_name": "Thesaurus.com",
+      "og:image": "http://static.sfdict.com/en/i/dictionary/facebook/thesaurus_logo.png",
+      "fb:app_id": "132731236754303",
+      "fb:admins": "100000304287730,109125464873"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Mizzou Diversity | University of Missouri",
+   "htmlTitle": "Mizzou \u003cb\u003eDiversity\u003c/b\u003e | University of Missouri",
+   "link": "http://diversity.missouri.edu/",
+   "displayLink": "diversity.missouri.edu",
+   "snippet": "Get Involved Groups & Community; Get Help Report a problem; Discuss Join a   dialogue; Learn Study & Research; About Diversity@MU ...",
+   "htmlSnippet": "Get Involved Groups &amp; Community; Get Help Report a problem; Discuss Join a \u003cbr\u003e  dialogue; Learn Study &amp; Research; About \u003cb\u003eDiversity\u003c/b\u003e@MU \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "vKDFRZeLvLkJ",
+   "formattedUrl": "diversity.missouri.edu/",
+   "htmlFormattedUrl": "\u003cb\u003ediversity\u003c/b\u003e.missouri.edu/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://diversity.missouri.edu/images/seeit-hearit-reportit.png",
+      "type": "1",
+      "width": "184",
+      "height": "126"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Diversity of fish - Wikipedia, the free encyclopedia",
+   "htmlTitle": "\u003cb\u003eDiversity\u003c/b\u003e of fish - Wikipedia, the free encyclopedia",
+   "link": "http://en.wikipedia.org/wiki/Diversity_of_fish",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "Fish are very diverse and are categorized in many ways. This article is an   overview of some of the more common types of fish. Although most fish species   have ...",
+   "htmlSnippet": "Fish are very \u003cb\u003ediverse\u003c/b\u003e and are categorized in many ways. This article is an \u003cbr\u003e  overview of some of the more common types of fish. Although most fish species \u003cbr\u003e  have \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "3S7aaNAoygQJ",
+   "formattedUrl": "en.wikipedia.org/wiki/Diversity_of_fish",
+   "htmlFormattedUrl": "en.wikipedia.org/wiki/\u003cb\u003eDiversity\u003c/b\u003e_of_fish",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Leafydragon.jpg/300px-Leafydragon.jpg",
+      "type": "1",
+      "width": "240",
+      "height": "176"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Diversity | HSBC Holdings plc",
+   "htmlTitle": "\u003cb\u003eDiversity\u003c/b\u003e | HSBC Holdings plc",
+   "link": "http://www.hsbc.com/1/2/careers/diversity",
+   "displayLink": "www.hsbc.com",
+   "snippet": "We believe the world is a rich and diverse place full of interesting cultures and   people, who should be treated with respect and from whom there is a great deal   to ...",
+   "htmlSnippet": "We believe the world is a rich and \u003cb\u003ediverse\u003c/b\u003e place full of interesting cultures and \u003cbr\u003e  people, who should be treated with respect and from whom there is a great deal \u003cbr\u003e  to \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "MEtNdJCgKDsJ",
+   "formattedUrl": "www.hsbc.com/1/2/careers/diversity",
+   "htmlFormattedUrl": "www.hsbc.com/1/2/careers/\u003cb\u003ediversity\u003c/b\u003e",
+   "pagemap": {
+    "metatags": [
+     {
+      "summary": "We believe the world is a rich and diverse place full of interesting cultures and people, who should be treated with respect and from whom there is a great deal to learn."
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Diversity scheme - Wikipedia, the free encyclopedia",
+   "htmlTitle": "\u003cb\u003eDiversity\u003c/b\u003e scheme - Wikipedia, the free encyclopedia",
+   "link": "http://en.wikipedia.org/wiki/Diversity_scheme",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "In telecommunications, a diversity scheme refers to a method for improving the   reliability of a message signal by using two or more communication channels   with ...",
+   "htmlSnippet": "In telecommunications, a \u003cb\u003ediversity\u003c/b\u003e scheme refers to a method for improving the \u003cbr\u003e  reliability of a message signal by using two or more communication channels \u003cbr\u003e  with \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "d0ZXMvMm8X0J",
+   "formattedUrl": "en.wikipedia.org/wiki/Diversity_scheme",
+   "htmlFormattedUrl": "en.wikipedia.org/wiki/\u003cb\u003eDiversity\u003c/b\u003e_scheme",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://upload.wikimedia.org/wikipedia/en/thumb/f/f3/Space_diversity.gif/120px-Space_diversity.gif",
+      "type": "1",
+      "width": "96",
+      "height": "313"
+     }
+    ]
+   }
+  }
+ ]
+}

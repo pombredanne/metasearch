@@ -1,0 +1,294 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "nextPage": [
+   {
+    "title": "Google Custom Search - alexian brothers hospital",
+    "totalResults": "27700",
+    "searchTerms": "alexian brothers hospital",
+    "count": 10,
+    "startIndex": 71,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "017401104989814545383:mf4lavmtuva"
+   }
+  ],
+  "request": [
+   {
+    "title": "Google Custom Search - alexian brothers hospital",
+    "totalResults": "27700",
+    "searchTerms": "alexian brothers hospital",
+    "count": 10,
+    "startIndex": 61,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "017401104989814545383:mf4lavmtuva"
+   }
+  ],
+  "previousPage": [
+   {
+    "title": "Google Custom Search - alexian brothers hospital",
+    "totalResults": "27700",
+    "searchTerms": "alexian brothers hospital",
+    "count": 10,
+    "startIndex": 51,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "017401104989814545383:mf4lavmtuva"
+   }
+  ]
+ },
+ "context": {
+  "title": "College MetaSearch Comparison"
+ },
+ "searchInformation": {
+  "searchTime": 0.131101,
+  "formattedSearchTime": "0.13",
+  "totalResults": "27700",
+  "formattedTotalResults": "27,700"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "St. Alexius Medical Center",
+   "htmlTitle": "St. Alexius \u003cb\u003eMedical Center\u003c/b\u003e",
+   "link": "http://jobs.alexianbrothershealth.org/careers/samc.php",
+   "displayLink": "jobs.alexianbrothershealth.org",
+   "snippet": "St. Alexius Medical Center. A 339-bed community hospital located in Hoffman   Estates, Illinois, St. Alexius Medical Center has provided outstanding healthcare   to ...",
+   "htmlSnippet": "St. Alexius \u003cb\u003eMedical Center\u003c/b\u003e. A 339-bed community \u003cb\u003ehospital\u003c/b\u003e located in Hoffman \u003cbr\u003e  Estates, Illinois, St. Alexius \u003cb\u003eMedical Center\u003c/b\u003e has provided outstanding healthcare \u003cbr\u003e  to \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "eSpkZerSMxQJ",
+   "formattedUrl": "jobs.alexianbrothershealth.org/careers/samc.php",
+   "htmlFormattedUrl": "jobs.\u003cb\u003ealexianbrothers\u003c/b\u003ehealth.org/careers/samc.php",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://jobs.alexianbrothershealth.org/careers/images/featured-icon.png",
+      "type": "1",
+      "width": "64",
+      "height": "88"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Alexian Brothers Medical Center Jobs, Employment | Indeed.com",
+   "htmlTitle": "\u003cb\u003eAlexian Brothers Medical Center\u003c/b\u003e Jobs, Employment | Indeed.com",
+   "link": "http://www.indeed.com/q-Alexian-Brothers-Medical-Center-jobs.html",
+   "displayLink": "www.indeed.com",
+   "snippet": "Jobs 1 - 10 of 46 ... 46 Alexian Brothers Medical Center Jobs available on Indeed.com. one search.   all jobs.",
+   "htmlSnippet": "Jobs 1 - 10 of 46 \u003cb\u003e...\u003c/b\u003e 46 \u003cb\u003eAlexian Brothers Medical Center\u003c/b\u003e Jobs available on Indeed.com. one search. \u003cbr\u003e  all jobs.",
+   "cacheId": "HkEFvnz2-zwJ",
+   "formattedUrl": "www.indeed.com/q-Alexian-Brothers-Medical-Center-jobs.html",
+   "htmlFormattedUrl": "www.indeed.com/q-\u003cb\u003eAlexian\u003c/b\u003e-\u003cb\u003eBrothers\u003c/b\u003e-\u003cb\u003eMedical-Center\u003c/b\u003e-jobs.html"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Alexian Brothers Behavioral Health Hospital",
+   "htmlTitle": "\u003cb\u003eAlexian Brothers\u003c/b\u003e Behavioral Health \u003cb\u003eHospital\u003c/b\u003e",
+   "link": "http://jobs.alexianbrothershealth.org/careers/abbhh.php",
+   "displayLink": "jobs.alexianbrothershealth.org",
+   "snippet": "Behavioral Health Hospital. Alexian Brothers Behavioral Health Hospital is a   spacious, 141-bed facility offering comprehensive behavioral health services,   from ...",
+   "htmlSnippet": "Behavioral Health \u003cb\u003eHospital\u003c/b\u003e. \u003cb\u003eAlexian Brothers\u003c/b\u003e Behavioral Health \u003cb\u003eHospital\u003c/b\u003e is a \u003cbr\u003e  spacious, 141-bed facility offering comprehensive behavioral health services, \u003cbr\u003e  from \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "dD71OBVJS_QJ",
+   "formattedUrl": "jobs.alexianbrothershealth.org/careers/abbhh.php",
+   "htmlFormattedUrl": "jobs.\u003cb\u003ealexianbrothers\u003c/b\u003ehealth.org/careers/abbhh.php",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://jobs.alexianbrothershealth.org/careers/images/featured-icon.png",
+      "type": "1",
+      "width": "64",
+      "height": "88"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Alexian Brothers Children's Hospital",
+   "htmlTitle": "\u003cb\u003eAlexian Brothers\u003c/b\u003e Children&#39;s \u003cb\u003eHospital\u003c/b\u003e",
+   "link": "http://www.myalexiankids.net/",
+   "displayLink": "www.myalexiankids.net",
+   "snippet": "Alexian Brothers Health System is excited to announce plans to construct our   new Alexian Brothers Women & Children's Hospital in Hoffman Estates, Illinois.",
+   "htmlSnippet": "\u003cb\u003eAlexian Brothers\u003c/b\u003e Health System is excited to announce plans to construct our \u003cbr\u003e  new \u003cb\u003eAlexian Brothers\u003c/b\u003e Women &amp; Children&#39;s \u003cb\u003eHospital\u003c/b\u003e in Hoffman Estates, Illinois.",
+   "cacheId": "fw6eLGLOlcAJ",
+   "formattedUrl": "www.myalexiankids.net/",
+   "htmlFormattedUrl": "www.my\u003cb\u003ealexian\u003c/b\u003ekids.net/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.myalexiankids.net/sites/default/files/boyWtTeddyBear_0.jpg",
+      "type": "1",
+      "width": "160",
+      "height": "220"
+     }
+    ],
+    "Item": [
+     {
+      "encoded": "A Healthy Community Begins With Alexian Brothers Alexian Brothers Health System is excited to announce plans to construct our new Alexian Brothers Women & Children’s Hospital in Hoffman Estates,..."
+     }
+    ],
+    "metatags": [
+     {
+      "dc:title": "A Healthy Community Begins With Alexian Brothers"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Doctors at Alexian Brothers Medical Center - US News Best Hospitals",
+   "htmlTitle": "Doctors at \u003cb\u003eAlexian Brothers Medical Center\u003c/b\u003e - US News Best Hospitals",
+   "link": "http://health.usnews.com/best-hospitals/alexian-brothers-medical-center-6431613/doctors",
+   "displayLink": "health.usnews.com",
+   "snippet": "There are 59 U.S. News Top Doctors at Alexian Brothers Medical Center.",
+   "htmlSnippet": "There are 59 U.S. News Top Doctors at \u003cb\u003eAlexian Brothers Medical Center\u003c/b\u003e.",
+   "cacheId": "xywgoDzOwn0J",
+   "formattedUrl": "health.usnews.com/...hospitals/alexian-brothers-medical-center.../doctors",
+   "htmlFormattedUrl": "health.usnews.com/...\u003cb\u003ehospitals\u003c/b\u003e/\u003cb\u003ealexian\u003c/b\u003e-\u003cb\u003ebrothers\u003c/b\u003e-\u003cb\u003emedical-center\u003c/b\u003e.../doctors",
+   "pagemap": {
+    "metatags": [
+     {
+      "site": "besthospitals",
+      "zone": "doctors",
+      "usn-content-type": "profile",
+      "fb:page_id": "5834919267"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Careers with Alexian Brothers Health System - Search Jobs",
+   "htmlTitle": "Careers with \u003cb\u003eAlexian Brothers\u003c/b\u003e Health System - Search Jobs",
+   "link": "http://jobs.alexianbrothershealth.org/",
+   "displayLink": "jobs.alexianbrothershealth.org",
+   "snippet": "Find and Search jobs and work for Alexian Brothers Health System. ... Alexian   Brothers Behavioral Health Hospital · Alexian Brothers Medical Center ...",
+   "htmlSnippet": "Find and Search jobs and work for Alexian Brothers Health System. \u003cb\u003e...\u003c/b\u003e Alexian \u003cbr\u003e  Brothers Behavioral Health Hospital &middot; \u003cb\u003eAlexian Brothers Medical Center\u003c/b\u003e \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "NxnYYs0TXHIJ",
+   "formattedUrl": "jobs.alexianbrothershealth.org/",
+   "htmlFormattedUrl": "jobs.\u003cb\u003ealexianbrothers\u003c/b\u003ehealth.org/",
+   "pagemap": {
+    "metatags": [
+     {
+      "revisit": "1 days",
+      "rating": "general",
+      "distribution": "global",
+      "classification": "job board",
+      "author": "OptiJob.com",
+      "copyright": "Copyright (c) 2011 by OptiJob"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "All Nursing Jobs with Alexian Brothers Health System | Nurse.com",
+   "htmlTitle": "All Nursing Jobs with \u003cb\u003eAlexian Brothers\u003c/b\u003e Health System | Nurse.com",
+   "link": "http://www.nurse.com/jobs/all-nursing-jobs-with-alexian-brothers-health-system",
+   "displayLink": "www.nurse.com",
+   "snippet": "Results 1 - 50 of 59 ... Alexian Brothers Behavioral Health Hospital. Nurse Practitioner - OPGP Req. ID:   10908 Status: Full time FTE: 1.0 / 80 hours per pp Location: ...",
+   "htmlSnippet": "Results 1 - 50 of 59 \u003cb\u003e...\u003c/b\u003e \u003cb\u003eAlexian Brothers\u003c/b\u003e Behavioral Health \u003cb\u003eHospital\u003c/b\u003e. Nurse Practitioner - OPGP Req. ID: \u003cbr\u003e  10908 Status: Full time FTE: 1.0 / 80 hours per pp Location: \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "a5l3sPUQMkkJ",
+   "formattedUrl": "www.nurse.com/.../all-nursing-jobs-with-alexian-brothers-health-system",
+   "htmlFormattedUrl": "www.nurse.com/.../all-nursing-jobs-with-\u003cb\u003ealexian\u003c/b\u003e-\u003cb\u003ebrothers\u003c/b\u003e-health-system"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Alexian Brothers Health | Jobs",
+   "htmlTitle": "\u003cb\u003eAlexian Brothers\u003c/b\u003e Health | Jobs",
+   "link": "http://jobs.alexianbrothershealth.org/careers/locations.php",
+   "displayLink": "jobs.alexianbrothershealth.org",
+   "snippet": "The hospitals, center for mental health, and medical group of Alexian Brothers   Health System are committed to treating the whole person—and to helping ...",
+   "htmlSnippet": "The \u003cb\u003ehospitals\u003c/b\u003e, center for mental health, and medical group of \u003cb\u003eAlexian Brothers\u003c/b\u003e \u003cbr\u003e  Health System are committed to treating the whole person—and to helping \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "5kPksi_71vcJ",
+   "formattedUrl": "jobs.alexianbrothershealth.org/careers/locations.php",
+   "htmlFormattedUrl": "jobs.\u003cb\u003ealexianbrothers\u003c/b\u003ehealth.org/careers/locations.php",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://jobs.alexianbrothershealth.org/careers/images/abmc-sm.png",
+      "type": "1",
+      "width": "140",
+      "height": "76"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Philip Kennedy, who ran Alexian Brothers Medical Center in Elk ...",
+   "htmlTitle": "Philip Kennedy, who ran \u003cb\u003eAlexian Brothers Medical Center\u003c/b\u003e in Elk \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://articles.chicagotribune.com/2012-05-06/news/ct-met-kennedy-obit-20120506_1_brother-philip-kennedy-health-care-hospital-administration",
+   "displayLink": "articles.chicagotribune.com",
+   "snippet": "May 6, 2012 ... Philip Kennedy, a member of the Catholic religious order of Alexian Brothers for   more than 65 years, made lasting contributions to health care ...",
+   "htmlSnippet": "May 6, 2012 \u003cb\u003e...\u003c/b\u003e Philip Kennedy, a member of the Catholic religious order of \u003cb\u003eAlexian Brothers\u003c/b\u003e for \u003cbr\u003e  more than 65 years, made lasting contributions to health care \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "UNlDoF9CmJ0J",
+   "formattedUrl": "articles.chicagotribune.com/.../ct-met-kennedy-obit-20120506_1_brother- philip-kennedy-health-care-hospital-administration",
+   "htmlFormattedUrl": "articles.chicagotribune.com/.../ct-met-kennedy-obit-20120506_1_\u003cb\u003ebrother\u003c/b\u003e- philip-kennedy-health-care-\u003cb\u003ehospital\u003c/b\u003e-administration",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.trbimg.com/img-4fa70e26/turbine/ct-met-obit-kennedy-0506-mh.jpg-20120504/600",
+      "type": "1",
+      "width": "188",
+      "height": "268"
+     }
+    ],
+    "metatags": [
+     {
+      "viewport": "width=device-width, initial-scale=1, minimum-scale=1, maximum-scale=1",
+      "fb:admins": "100001837105818",
+      "og:title": "Philip Kennedy, who ran Alexian Brothers Medical Center in Elk Grove Village for 14 years, dies",
+      "og:type": "article",
+      "og:url": "http://articles.chicagotribune.com/2012-05-06/news/ct-met-kennedy-obit-20120506_1_brother-philip-kennedy-health-care-hospital-administration",
+      "og:image": "http://www.trbimg.com/img-4fa70e26/turbine/ct-met-obit-kennedy-0506-mh.jpg-20120504/600",
+      "og:description": "Philip Kennedy, a member of the Catholic religious order of Alexian Brothers for more than 65 years, made lasting contributions to health care as he ran Alexian Brothers Medical Center in Elk Grove...",
+      "og:site_name": "Chicago Tribune"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "FAQ | Alexian Brothers Children's Hospital",
+   "htmlTitle": "FAQ | \u003cb\u003eAlexian Brothers\u003c/b\u003e Children&#39;s \u003cb\u003eHospital\u003c/b\u003e",
+   "link": "http://www.myalexiankids.net/FAQ/",
+   "displayLink": "www.myalexiankids.net",
+   "snippet": "The Alexian Brothers Hospital Network is excited to announce that we are   moving forward with plans to construct a new $117 million Alexian Brothers   Women ...",
+   "htmlSnippet": "The \u003cb\u003eAlexian Brothers Hospital\u003c/b\u003e Network is excited to announce that we are \u003cbr\u003e  moving forward with plans to construct a new $117 million Alexian Brothers \u003cbr\u003e  Women \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "7FOKgP3wUmcJ",
+   "formattedUrl": "www.myalexiankids.net/FAQ/",
+   "htmlFormattedUrl": "www.my\u003cb\u003ealexian\u003c/b\u003ekids.net/FAQ/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.myalexiankids.net/sites/default/files/Mark-Frey.jpg",
+      "type": "1",
+      "width": "120",
+      "height": "172"
+     }
+    ],
+    "Document": [
+     {
+      "title": "FAQ",
+      "encoded": "A Healthy Community begins with Alexian Brothers The Alexian Brothers Hospital Network is excited to announce that we are moving forward with plans to construct a new $117 million Alexian Brothers..."
+     }
+    ],
+    "metatags": [
+     {
+      "dc:title": "FAQ"
+     }
+    ]
+   }
+  }
+ ]
+}

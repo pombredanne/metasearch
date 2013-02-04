@@ -1,0 +1,335 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "nextPage": [
+   {
+    "title": "Google Custom Search - getting organized",
+    "totalResults": "27300000",
+    "searchTerms": "getting organized",
+    "count": 10,
+    "startIndex": 21,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "017401104989814545383:mf4lavmtuva"
+   }
+  ],
+  "request": [
+   {
+    "title": "Google Custom Search - getting organized",
+    "totalResults": "27300000",
+    "searchTerms": "getting organized",
+    "count": 10,
+    "startIndex": 11,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "017401104989814545383:mf4lavmtuva"
+   }
+  ],
+  "previousPage": [
+   {
+    "title": "Google Custom Search - getting organized",
+    "totalResults": "27300000",
+    "searchTerms": "getting organized",
+    "count": 10,
+    "startIndex": 1,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "017401104989814545383:mf4lavmtuva"
+   }
+  ]
+ },
+ "context": {
+  "title": "College MetaSearch Comparison"
+ },
+ "searchInformation": {
+  "searchTime": 0.243943,
+  "formattedSearchTime": "0.24",
+  "totalResults": "27300000",
+  "formattedTotalResults": "27,300,000"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "The Container Store \u003e Get Organized",
+   "htmlTitle": "The Container Store &gt; \u003cb\u003eGet Organized\u003c/b\u003e",
+   "link": "http://www.containerstore.com/organize/index.html",
+   "displayLink": "www.containerstore.com",
+   "snippet": "We've helped customers get organized for many years, helping them to save   space and, ultimately, valuable time. Check out our smart tips for organizing   every ...",
+   "htmlSnippet": "We&#39;ve helped customers \u003cb\u003eget organized\u003c/b\u003e for many years, helping them to save \u003cbr\u003e  space and, ultimately, valuable time. Check out our smart tips for organizing \u003cbr\u003e  every \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "ocfeVEadr3EJ",
+   "formattedUrl": "www.containerstore.com/organize/index.html",
+   "htmlFormattedUrl": "www.containerstore.com/\u003cb\u003eorganize\u003c/b\u003e/index.html"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Help Your Child Get Organized",
+   "htmlTitle": "Help Your Child \u003cb\u003eGet Organized\u003c/b\u003e",
+   "link": "http://kidshealth.org/parent/growth/learning/child_organized.html",
+   "displayLink": "kidshealth.org",
+   "snippet": "Most kids generate a little chaos and disorganization. But if you'd like yours to be   more organized and to stay focused on tasks, such as homework, here are 3 ...",
+   "htmlSnippet": "Most kids generate a little chaos and disorganization. But if you&#39;d like yours to be \u003cbr\u003e  more \u003cb\u003eorganized\u003c/b\u003e and to stay focused on tasks, such as homework, here are 3 \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "aZHaFgqoWwIJ",
+   "formattedUrl": "kidshealth.org/parent/growth/learning/child_organized.html",
+   "htmlFormattedUrl": "kidshealth.org/parent/growth/learning/child_\u003cb\u003eorganized\u003c/b\u003e.html",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://kidshealth.org/parent/growth/learning/images_89390/1125424193122.P_kids-attn-probs.gif",
+      "type": "1",
+      "width": "156",
+      "height": "163"
+     }
+    ],
+    "metatags": [
+     {
+      "notify": "N",
+      "site": "MOTHERSHIP"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Getting Organized",
+   "htmlTitle": "\u003cb\u003eGetting Organized\u003c/b\u003e",
+   "link": "http://www.ourclassweb.com/sites_for_teachers_getting_organized.htm",
+   "displayLink": "www.ourclassweb.com",
+   "snippet": "If you have suggestions for Getting Organized in the classroom that could benefit   another teacher, please send me an email. Not all suggestions will make it onto ...",
+   "htmlSnippet": "If you have suggestions for \u003cb\u003eGetting Organized\u003c/b\u003e in the classroom that could benefit \u003cbr\u003e  another teacher, please send me an email. Not all suggestions will make it onto \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "I7DLMMkLIAEJ",
+   "formattedUrl": "www.ourclassweb.com/sites_for_teachers_getting_organized.htm",
+   "htmlFormattedUrl": "www.ourclassweb.com/sites_for_teachers_\u003cb\u003egetting\u003c/b\u003e_\u003cb\u003eorganized\u003c/b\u003e.htm",
+   "pagemap": {
+    "metatags": [
+     {
+      "progid": "FrontPage.Editor.Document",
+      "author": "Karen McDavid",
+      "microsoft border": "none"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "How to Get Oragnized - 100 Organizing Tips - Woman's Day",
+   "htmlTitle": "How to \u003cb\u003eGet\u003c/b\u003e Oragnized - 100 \u003cb\u003eOrganizing\u003c/b\u003e Tips - Woman&#39;s Day",
+   "link": "http://www.womansday.com/home/organizing/100-Ways-to-Get-Organized",
+   "displayLink": "www.womansday.com",
+   "snippet": "Easy solutions for everyday organization problems.",
+   "htmlSnippet": "Easy solutions for everyday \u003cb\u003eorganization\u003c/b\u003e problems.",
+   "cacheId": "SUiqzxcm3kkJ",
+   "formattedUrl": "www.womansday.com/home/organizing/100-Ways-to-Get-Organized",
+   "htmlFormattedUrl": "www.womansday.com/home/\u003cb\u003eorganizing\u003c/b\u003e/100-Ways-to-\u003cb\u003eGet\u003c/b\u003e-\u003cb\u003eOrganized\u003c/b\u003e",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.womansday.com/cm/womansday/images/89/Losing-Weight-Saved-Our-Lives-smn.jpg",
+      "type": "1",
+      "width": "96",
+      "height": "96"
+     }
+    ],
+    "metatags": [
+     {
+      "og:type": "article",
+      "og:site_name": "Woman's Day",
+      "fb:app_id": "255628214474425",
+      "og:title": "How to Get Oragnized - 100 Organizing Tips",
+      "og:description": "Easy solutions for everyday organization problems",
+      "og:image": "http://www.womansday.com/cm/womansday/images/ZO/100-Ways-to-Get-Organized-11162011-de.jpg",
+      "og:url": "http://www.womansday.com/home/organizing/100-Ways-to-Get-Organized?src=soc_fcbk"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Home Organization | Space Savers | Get Organized",
+   "htmlTitle": "Home Organization | Space Savers | \u003cb\u003eGet Organized\u003c/b\u003e",
+   "link": "http://www.shopgetorganized.com/",
+   "displayLink": "www.shopgetorganized.com",
+   "snippet": "Specializing in home organization, Get Organized offers a complete line of space   savers and organizers, all at great prices! Find jewelry organizers, shoe ...",
+   "htmlSnippet": "Specializing in home organization, \u003cb\u003eGet Organized\u003c/b\u003e offers a complete line of space \u003cbr\u003e  savers and organizers, all at great prices! Find jewelry organizers, shoe \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "yM7IfIR26WAJ",
+   "formattedUrl": "www.shopgetorganized.com/",
+   "htmlFormattedUrl": "www.shop\u003cb\u003egetorganized\u003c/b\u003e.com/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.shopgetorganized.com/images/GO/freeShipping_triptic_1_02.jpg",
+      "type": "1",
+      "width": "160",
+      "height": "104"
+     }
+    ],
+    "metatags": [
+     {
+      "rating": "General",
+      "ncxcartid": "2012071906453716028305790"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Help Getting Organized | Get Organized with Organizational Tips ...",
+   "htmlTitle": "Help \u003cb\u003eGetting Organized\u003c/b\u003e | \u003cb\u003eGet Organized\u003c/b\u003e with Organizational Tips \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://getbuttonedup.com/",
+   "displayLink": "getbuttonedup.com",
+   "snippet": "Help getting organized. Get organized with organizational tips and tools from   organizational gurus at Buttoned Up.",
+   "htmlSnippet": "Help \u003cb\u003egetting organized\u003c/b\u003e. \u003cb\u003eGet organized\u003c/b\u003e with organizational tips and tools from \u003cbr\u003e  organizational gurus at Buttoned Up.",
+   "cacheId": "FT_p9o26xmMJ",
+   "formattedUrl": "getbuttonedup.com/",
+   "htmlFormattedUrl": "\u003cb\u003eget\u003c/b\u003ebuttonedup.com/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "https://getbuttonedup-zippykid.netdna-ssl.com/wp-content/plugins/open-graph/open_graph_protocol_logo.png",
+      "type": "1",
+      "width": "225",
+      "height": "225"
+     }
+    ],
+    "metatags": [
+     {
+      "og:type": "blog",
+      "og:title": "Buttoned Up",
+      "og:image": "https://getbuttonedup-zippykid.netdna-ssl.com/wp-content/plugins/open-graph/open_graph_protocol_logo.png",
+      "og:url": "http://getbuttonedup.com",
+      "og:description": "Welcome to Buttoned Up: Products & Tips for Organized Living",
+      "og:site_name": "Buttoned Up"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "52 Organizing Missions - Join the Movement that's Changing ...",
+   "htmlTitle": "52 \u003cb\u003eOrganizing\u003c/b\u003e Missions - Join the Movement that&#39;s Changing \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://www.getorganizedwizard.com/52missions/",
+   "displayLink": "www.getorganizedwizard.com",
+   "snippet": "52 Missions is a proven Organizing e-program that helps you get organized in   easy, bite-sized chunks. Achievable, Motivating, Proven!",
+   "htmlSnippet": "52 Missions is a proven Organizing e-program that helps you \u003cb\u003eget organized\u003c/b\u003e in \u003cbr\u003e  easy, bite-sized chunks. Achievable, Motivating, Proven!",
+   "cacheId": "nBBWLilTJNYJ",
+   "formattedUrl": "www.getorganizedwizard.com/52missions/",
+   "htmlFormattedUrl": "www.\u003cb\u003egetorganized\u003c/b\u003ewizard.com/52missions/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.getorganizedwizard.com/wp-content/uploads/images/52missions1.png",
+      "type": "1",
+      "width": "283",
+      "height": "111"
+     }
+    ],
+    "metatags": [
+     {
+      "msvalidate.01": "90D0F6616B35C78AC47442C7C268891E",
+      "fb:page_id": "153820389256",
+      "og:type": "article",
+      "og:url": "http://www.getorganizedwizard.com/52missions/",
+      "og:title": "52 Missions",
+      "og:site_name": "Get Organized Wizard",
+      "og:locale": "en_US",
+      "og:description": "52 Missions - Join the Movement that's Changing Lives \"Mission 1 – Completed !! First came relief, then joy to have wonderful space !!\" - Maria Achievable, Motivating, Proven! 52 Organizing Missions is a motivating e-program that helps you get organized...",
+      "og:image": "http://www.getorganizedwizard.com/wp-content/uploads/images/52missions1.png",
+      "fb:app_id": "212730858848900",
+      "fb:admins": "578998003"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Getting Organized",
+   "htmlTitle": "\u003cb\u003eGetting Organized\u003c/b\u003e",
+   "link": "http://www.positivelyminnesota.com/JobSeekers/Creative_Job_Search_Guide/Preparing_for_the_Job_Hunt/Getting_Organized.aspx",
+   "displayLink": "www.positivelyminnesota.com",
+   "snippet": "A successful job search requires effort. That means getting organized, scheduling   time for tasks and keeping a record of your achievements or mileposts (“made ...",
+   "htmlSnippet": "A successful job search requires effort. That means \u003cb\u003egetting organized\u003c/b\u003e, scheduling \u003cbr\u003e  time for tasks and keeping a record of your achievements or mileposts (“made \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "Zt_upN_pQJEJ",
+   "formattedUrl": "www.positivelyminnesota.com/.../Getting_Organized.aspx",
+   "htmlFormattedUrl": "www.positivelyminnesota.com/.../\u003cb\u003eGetting\u003c/b\u003e_\u003cb\u003eOrganized\u003c/b\u003e.aspx",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.positivelyminnesota.com/JobSeekers/Creative_Job_Search_Guide/Preparing_for_the_Job_Hunt/easset_upload_file650_20787_e.jpg",
+      "type": "1",
+      "width": "166",
+      "height": "108"
+     }
+    ],
+    "metatags": [
+     {
+      "alt_title": "Getting Organized"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Getting Organized: Improving Focus, Organization and Productivity",
+   "htmlTitle": "\u003cb\u003eGetting Organized\u003c/b\u003e: Improving Focus, Organization and Productivity",
+   "link": "http://www.amazon.com/Getting-Organized-Improving-Organization-Productivity/dp/0975868098",
+   "displayLink": "www.amazon.com",
+   "snippet": "Chris Crouch is the developer of the GO System training course. The course,   taught all over the country by corporate trainers and professional organizers,   helps ...",
+   "htmlSnippet": "Chris Crouch is the developer of the GO System training course. The course, \u003cbr\u003e  taught all over the country by corporate trainers and professional organizers, \u003cbr\u003e  helps \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "wVtlpmEzKI0J",
+   "formattedUrl": "www.amazon.com/Getting-Organized...Organization.../0975868098",
+   "htmlFormattedUrl": "www.amazon.com/\u003cb\u003eGetting\u003c/b\u003e-\u003cb\u003eOrganized\u003c/b\u003e...\u003cb\u003eOrganization\u003c/b\u003e.../0975868098",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://ecx.images-amazon.com/images/I/41tNAP%2Bs5BL._BO2,204,203,200_PIsitb-sticker-arrow-click,TopRight,35,-76_AA300_SH20_OU01_.jpg"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "225",
+      "height": "225",
+      "src": "https://encrypted-tbn0.google.com/images?q=tbn:ANd9GcQWpES6NSAUVCufH8siT_Kx9Z7ITr-Tvc_1N5Q5UTP4KoxShatHWh5dhRs"
+     }
+    ],
+    "scraped": [
+     {
+      "image_link": "http://ecx.images-amazon.com/images/I/41tNAP%2Bs5BL._BO2,204,203,200_PIsitb-sticker-arrow-click,TopRight,35,-76_AA300_SH20_OU01_.jpg"
+     }
+    ],
+    "metatags": [
+     {
+      "title": "Amazon.com: Getting Organized: Improving Focus, Organization and Productivity (9780975868096): Chris Crouch: Books"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "AboutOne Online Family Organizer Shows You How to Get Organized",
+   "htmlTitle": "AboutOne Online Family Organizer Shows You How to \u003cb\u003eGet Organized\u003c/b\u003e",
+   "link": "http://www.aboutone.com/",
+   "displayLink": "www.aboutone.com",
+   "snippet": "AboutOne online family organizer makes it easy to store and manage memories   and household paperwork. Rewards you for getting organized. Free to get ...",
+   "htmlSnippet": "AboutOne online family organizer makes it easy to store and manage memories \u003cbr\u003e  and household paperwork. Rewards you for \u003cb\u003egetting organized\u003c/b\u003e. Free to get \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "fNVu0B9XIl0J",
+   "formattedUrl": "www.aboutone.com/",
+   "htmlFormattedUrl": "www.aboutone.com/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.aboutone.com/files/2012/04/home_feature-3bepreapred.png",
+      "type": "1",
+      "width": "347",
+      "height": "145"
+     }
+    ]
+   }
+  }
+ ]
+}

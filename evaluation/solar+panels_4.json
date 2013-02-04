@@ -1,0 +1,321 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "nextPage": [
+   {
+    "title": "Google Custom Search - solar panels",
+    "totalResults": "32100000",
+    "searchTerms": "solar panels",
+    "count": 10,
+    "startIndex": 51,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "017401104989814545383:mf4lavmtuva"
+   }
+  ],
+  "request": [
+   {
+    "title": "Google Custom Search - solar panels",
+    "totalResults": "32100000",
+    "searchTerms": "solar panels",
+    "count": 10,
+    "startIndex": 41,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "017401104989814545383:mf4lavmtuva"
+   }
+  ],
+  "previousPage": [
+   {
+    "title": "Google Custom Search - solar panels",
+    "totalResults": "32100000",
+    "searchTerms": "solar panels",
+    "count": 10,
+    "startIndex": 31,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "017401104989814545383:mf4lavmtuva"
+   }
+  ]
+ },
+ "context": {
+  "title": "College MetaSearch Comparison"
+ },
+ "searchInformation": {
+  "searchTime": 0.171548,
+  "formattedSearchTime": "0.17",
+  "totalResults": "32100000",
+  "formattedTotalResults": "32,100,000"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "Solar Panels",
+   "htmlTitle": "\u003cb\u003eSolar Panels\u003c/b\u003e",
+   "link": "http://www.solarpanelinfo.com/",
+   "displayLink": "www.solarpanelinfo.com",
+   "snippet": "Solar Panel Info: Learn all about solar panels, solar panel installation, where to   get them and how they help the environment.",
+   "htmlSnippet": "\u003cb\u003eSolar Panel\u003c/b\u003e Info: Learn all about \u003cb\u003esolar panels\u003c/b\u003e, \u003cb\u003esolar panel\u003c/b\u003e installation, where to \u003cbr\u003e  get them and how they help the environment.",
+   "cacheId": "R8DIW1BLkJ4J",
+   "formattedUrl": "www.solarpanelinfo.com/",
+   "htmlFormattedUrl": "www.\u003cb\u003esolarpanel\u003c/b\u003einfo.com/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.solarpanelinfo.com/solar-schools/badge.aspx",
+      "type": "1",
+      "width": "120",
+      "height": "120"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Solar panels on spacecraft - Wikipedia, the free encyclopedia",
+   "htmlTitle": "\u003cb\u003eSolar panels\u003c/b\u003e on spacecraft - Wikipedia, the free encyclopedia",
+   "link": "http://en.wikipedia.org/wiki/Solar_panels_on_spacecraft",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "Spacecraft operating in the inner solar system usually rely on the use of   photovoltaic solar panels to derive electricity from sunlight. In the outer solar   system, ...",
+   "htmlSnippet": "Spacecraft operating in the inner solar system usually rely on the use of \u003cbr\u003e  photovoltaic \u003cb\u003esolar panels\u003c/b\u003e to derive electricity from sunlight. In the outer solar \u003cbr\u003e  system, \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "DIJIeKOI2MQJ",
+   "formattedUrl": "en.wikipedia.org/wiki/Solar_panels_on_spacecraft",
+   "htmlFormattedUrl": "en.wikipedia.org/wiki/\u003cb\u003eSolar\u003c/b\u003e_\u003cb\u003epanels\u003c/b\u003e_on_spacecraft",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Earth_horizon_and_International_Space_Station_solar_panel_array_(Expedition_17_crew,_August_2008).jpg/350px-Earth_horizon_and_International_Space_Station_solar_panel_array_(Expedition_17_crew,_August_2008).jpg",
+      "type": "1",
+      "width": "276",
+      "height": "183"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "JB Solar Corp | Affordable Solar Panels",
+   "htmlTitle": "JB Solar Corp | Affordable \u003cb\u003eSolar Panels\u003c/b\u003e",
+   "link": "http://www.jbsolarcorp.com/",
+   "displayLink": "www.jbsolarcorp.com",
+   "snippet": "JB Solar offers solar panels, solar kits, wholesale solar panels and solar inverters   for residential and commercial installation.",
+   "htmlSnippet": "JB Solar offers \u003cb\u003esolar panels\u003c/b\u003e, solar kits, wholesale \u003cb\u003esolar panels\u003c/b\u003e and solar inverters \u003cbr\u003e  for residential and commercial installation.",
+   "cacheId": "5czSy1h7po4J",
+   "formattedUrl": "www.jbsolarcorp.com/",
+   "htmlFormattedUrl": "www.jb\u003cb\u003esolar\u003c/b\u003ecorp.com/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.jbsolarcorp.com/images/solarpic1home.jpg",
+      "type": "1",
+      "width": "240",
+      "height": "162"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "The Energy Story - Chapter 15: Solar Energy",
+   "htmlTitle": "The Energy Story - Chapter 15: \u003cb\u003eSolar Energy\u003c/b\u003e",
+   "link": "http://www.energyquest.ca.gov/story/chapter15.html",
+   "displayLink": "www.energyquest.ca.gov",
+   "snippet": "We have always used the energy of the sun as far back as humans have existed   on this planet. As far back as 5000 years ago, people \"worshipped\" the sun.",
+   "htmlSnippet": "We have always used the \u003cb\u003eenergy\u003c/b\u003e of the sun as far back as humans have existed \u003cbr\u003e  on this planet. As far back as 5000 years ago, people &quot;worshipped&quot; the sun.",
+   "cacheId": "riRmeVtLoq4J",
+   "formattedUrl": "www.energyquest.ca.gov/story/chapter15.html",
+   "htmlFormattedUrl": "www.\u003cb\u003eenergy\u003c/b\u003equest.ca.gov/story/chapter15.html",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.energyquest.ca.gov/story/images/chap15_1.jpg",
+      "type": "1",
+      "width": "200",
+      "height": "193"
+     }
+    ],
+    "metatags": [
+     {
+      "title": "The Energy Story - Introduction",
+      "date": "2002-04-22",
+      "portal category": "Environmental and Natural Resources",
+      "creator": "California Energy Commission",
+      "web_author_id": "baldrich@energy.state.ca.us",
+      "publisher": "California Energy Commission, 1516 Ninth St. MS-29, Sacramento, CA 95814, Phone: 916-654-4989",
+      "reply-to": "baldrich@energy.state.ca.us",
+      "contributor": "Aldrich, Bob; Bilyk, Olena",
+      "format": "text/html",
+      "language": "en"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Solar Panels",
+   "htmlTitle": "\u003cb\u003eSolar Panels\u003c/b\u003e",
+   "link": "http://www.clean-energy-ideas.com/solar_panels.html",
+   "displayLink": "www.clean-energy-ideas.com",
+   "snippet": "Solar panels can be used to provide electricity or hot water for your home or   business.",
+   "htmlSnippet": "\u003cb\u003eSolar panels\u003c/b\u003e can be used to provide electricity or hot water for your home or \u003cbr\u003e  business.",
+   "cacheId": "mJf3Ul81P0sJ",
+   "formattedUrl": "www.clean-energy-ideas.com/solar_panels.html",
+   "htmlFormattedUrl": "www.clean-\u003cb\u003eenergy\u003c/b\u003e-ideas.com/\u003cb\u003esolar\u003c/b\u003e_\u003cb\u003epanels\u003c/b\u003e.html",
+   "pagemap": {
+    "metatags": [
+     {
+      "author": "Clean Energy Ideas"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Solar Panels - 100 Watt Solar Panel Charger and Kit at UL-SOLAR",
+   "htmlTitle": "\u003cb\u003eSolar Panels\u003c/b\u003e - 100 Watt \u003cb\u003eSolar Panel\u003c/b\u003e Charger and Kit at UL-SOLAR",
+   "link": "http://www.ul-solar.com/",
+   "displayLink": "www.ul-solar.com",
+   "snippet": "UL-Solar is a leading solar panel service provider in US for homes, businesses &   office, We offer solar panel, solar power, solar kits solar pumps etc at the ...",
+   "htmlSnippet": "UL-Solar is a leading \u003cb\u003esolar panel\u003c/b\u003e service provider in US for homes, businesses &amp; \u003cbr\u003e  office, We offer \u003cb\u003esolar panel\u003c/b\u003e, \u003cb\u003esolar power\u003c/b\u003e, solar kits solar pumps etc at the \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "8PHSC6xH57wJ",
+   "formattedUrl": "www.ul-solar.com/",
+   "htmlFormattedUrl": "www.ul-\u003cb\u003esolar\u003c/b\u003e.com/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.ul-solar.com/v/vspfiles/assets/images/10d.jpg",
+      "type": "1",
+      "width": "160",
+      "height": "120"
+     }
+    ],
+    "metatags": [
+     {
+      "author": "ul solar",
+      "abstract": "Solar Panel, Buy Solar Panels Online",
+      "msvalidate.01": "B851A103975E6AE10A27CAC9EEAF5591",
+      "subject": "Solar Panel, Buy Solar Panels Online",
+      "key phrases": "Solar Panel, Buy Solar Panels Online",
+      "classification": "Solar Panel,Solar Panels Online",
+      "y_key": "c1f651ac08c5d038",
+      "geo.placenament": "USA",
+      "language": "en-us"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Solar Panels | Earthtechling",
+   "htmlTitle": "\u003cb\u003eSolar Panels\u003c/b\u003e | Earthtechling",
+   "link": "http://www.earthtechling.com/tag/solar-panels/",
+   "displayLink": "www.earthtechling.com",
+   "snippet": "Center for American Progress takes a look at five myths - and their corresponding   realities - surrounding the solar panel trade dispute between the U.S. and ...",
+   "htmlSnippet": "Center for American Progress takes a look at five myths - and their corresponding \u003cbr\u003e  realities - surrounding the \u003cb\u003esolar panel\u003c/b\u003e trade dispute between the U.S. and \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "h6gEEgTdTQIJ",
+   "formattedUrl": "www.earthtechling.com/tag/solar-panels/",
+   "htmlFormattedUrl": "www.earthtechling.com/tag/\u003cb\u003esolar\u003c/b\u003e-\u003cb\u003epanels\u003c/b\u003e/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://c276521.r21.cf1.rackcdn.com/wp-content/uploads/2012/05/solarphasec-cone-150x150.png",
+      "type": "1",
+      "width": "120",
+      "height": "120"
+     }
+    ],
+    "metatags": [
+     {
+      "msvalidate.01": "4656B4279A7170E32F717F19B9B5DD4C",
+      "title": "solar panels «",
+      "verify-postrank": "5bpe9wy",
+      "blogcatalog": "9BC9723284"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Sunmodule solar panels from SolarWorld",
+   "htmlTitle": "Sunmodule \u003cb\u003esolar panels\u003c/b\u003e from SolarWorld",
+   "link": "http://www.solarworld-usa.com/solar-for-business-and-government/products-and-services/sunmodule-solar-panels.aspx",
+   "displayLink": "www.solarworld-usa.com",
+   "snippet": "Sunmodule solar panels are made in the USA, come with a 25 year performance   warranty and are plus sorted to ensure that you get the watts that you expect ...",
+   "htmlSnippet": "Sunmodule \u003cb\u003esolar panels\u003c/b\u003e are made in the USA, come with a 25 year performance \u003cbr\u003e  warranty and are plus sorted to ensure that you get the watts that you expect \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "s3rEW5fp57sJ",
+   "formattedUrl": "www.solarworld-usa.com/solar-for.../sunmodule-solar-panels.aspx",
+   "htmlFormattedUrl": "www.\u003cb\u003esolar\u003c/b\u003eworld-usa.com/\u003cb\u003esolar\u003c/b\u003e-for.../sunmodule-\u003cb\u003esolar\u003c/b\u003e-\u003cb\u003epanels\u003c/b\u003e.aspx",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.solarworld-usa.com/_resources/img/solar_world_fb_icon.png",
+      "type": "1",
+      "width": "50",
+      "height": "50"
+     }
+    ],
+    "metatags": [
+     {
+      "author": "SolarWorld",
+      "og:title": "Sunmodule solar panels from SolarWorld",
+      "og:type": "website",
+      "og:url": "http://www.solarworld-usa.com/solar-for-business-and-government/products-and-services/sunmodule-solar-panels.aspx",
+      "og:image": "http://www.solarworld-usa.com/_resources/img/solar_world_fb_icon.png",
+      "fb:app_id": "122432434470413"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Solar Panels",
+   "htmlTitle": "\u003cb\u003eSolar Panels\u003c/b\u003e",
+   "link": "http://www.partsonsale.com/",
+   "displayLink": "www.partsonsale.com",
+   "snippet": "Solar panels grid tie off grid solar power kits for home discout prices. Free tech   support.",
+   "htmlSnippet": "\u003cb\u003eSolar panels\u003c/b\u003e grid tie off grid \u003cb\u003esolar power\u003c/b\u003e kits for home discout prices. Free tech \u003cbr\u003e  support.",
+   "cacheId": "yI_u9oEltEkJ",
+   "formattedUrl": "www.partsonsale.com/",
+   "htmlFormattedUrl": "www.partsonsale.com/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.partsonsale.com/solar-home-logo-3.jpg",
+      "type": "1",
+      "width": "320",
+      "height": "100"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Space-based solar power - Wikipedia, the free encyclopedia",
+   "htmlTitle": "Space-based \u003cb\u003esolar power\u003c/b\u003e - Wikipedia, the free encyclopedia",
+   "link": "http://en.wikipedia.org/wiki/Space-based_solar_power",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "Space-based solar power (SBSP) is the concept of collecting solar power in   space for use on Earth. It has been in research since the early 1970s. SBSP   would ...",
+   "htmlSnippet": "Space-based \u003cb\u003esolar power\u003c/b\u003e (SBSP) is the concept of collecting \u003cb\u003esolar power\u003c/b\u003e in \u003cbr\u003e  space for use on Earth. It has been in research since the early 1970s. SBSP \u003cbr\u003e  would \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "9N1M6AeaYnAJ",
+   "formattedUrl": "en.wikipedia.org/wiki/Space-based_solar_power",
+   "htmlFormattedUrl": "en.wikipedia.org/wiki/Space-based_\u003cb\u003esolar\u003c/b\u003e_\u003cb\u003epower\u003c/b\u003e",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Space_solar_power.svg/220px-Space_solar_power.svg.png",
+      "type": "1",
+      "width": "176",
+      "height": "148"
+     }
+    ]
+   }
+  }
+ ]
+}

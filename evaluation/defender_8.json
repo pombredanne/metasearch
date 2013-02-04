@@ -1,0 +1,381 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "nextPage": [
+   {
+    "title": "Google Custom Search - defender",
+    "totalResults": "19600000",
+    "searchTerms": "defender",
+    "count": 10,
+    "startIndex": 91,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "017401104989814545383:mf4lavmtuva"
+   }
+  ],
+  "request": [
+   {
+    "title": "Google Custom Search - defender",
+    "totalResults": "19600000",
+    "searchTerms": "defender",
+    "count": 10,
+    "startIndex": 81,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "017401104989814545383:mf4lavmtuva"
+   }
+  ],
+  "previousPage": [
+   {
+    "title": "Google Custom Search - defender",
+    "totalResults": "19600000",
+    "searchTerms": "defender",
+    "count": 10,
+    "startIndex": 71,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "017401104989814545383:mf4lavmtuva"
+   }
+  ]
+ },
+ "context": {
+  "title": "College MetaSearch Comparison"
+ },
+ "searchInformation": {
+  "searchTime": 0.431704,
+  "formattedSearchTime": "0.43",
+  "totalResults": "19600000",
+  "formattedTotalResults": "19,600,000"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "Defender Realty - A Timeshare Resales Company",
+   "htmlTitle": "\u003cb\u003eDefender\u003c/b\u003e Realty - A Timeshare Resales Company",
+   "link": "http://www.defenderrealty.com/",
+   "displayLink": "www.defenderrealty.com",
+   "snippet": "Defender Realty offers a wide variety of sales and marketing programs to the   secondary market. We are recognized as one of the major leaders in timeshare ...",
+   "htmlSnippet": "\u003cb\u003eDefender\u003c/b\u003e Realty offers a wide variety of sales and marketing programs to the \u003cbr\u003e  secondary market. We are recognized as one of the major leaders in timeshare \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "4lQAOVhQVBcJ",
+   "formattedUrl": "www.defenderrealty.com/",
+   "htmlFormattedUrl": "www.\u003cb\u003edefender\u003c/b\u003erealty.com/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.defenderrealty.com/images/1Defender_realty_logo.jpg",
+      "type": "1",
+      "width": "100",
+      "height": "65"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Minnesota Board of Public Defenders",
+   "htmlTitle": "Minnesota Board of Public \u003cb\u003eDefenders\u003c/b\u003e",
+   "link": "http://www.pubdef.state.mn.us/",
+   "displayLink": "www.pubdef.state.mn.us",
+   "snippet": "",
+   "htmlSnippet": "",
+   "formattedUrl": "www.pubdef.state.mn.us/",
+   "htmlFormattedUrl": "www.pubdef.state.mn.us/"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Error message when you run Windows Defender: \"Error Code ...",
+   "htmlTitle": "Error message when you run Windows \u003cb\u003eDefender\u003c/b\u003e: &quot;Error Code \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://support.microsoft.com/kb/931849",
+   "displayLink": "support.microsoft.com",
+   "snippet": "Resolves a problem that may occur when Windows Defender is updated.",
+   "htmlSnippet": "Resolves a problem that may occur when Windows \u003cb\u003eDefender\u003c/b\u003e is updated.",
+   "cacheId": "Kl9jlNK_nmkJ",
+   "formattedUrl": "support.microsoft.com/kb/931849",
+   "htmlFormattedUrl": "support.microsoft.com/kb/931849",
+   "pagemap": {
+    "metatags": [
+     {
+      "dcsdir.gtrackexceptions": "no-track",
+      "ms.gsfxversion": "8.1.1.0",
+      "ms.sup_cid": "931849",
+      "ms.sup_cln": "en-us",
+      "ms.sup_ct": "kb",
+      "ms.sup_ln": "en-us",
+      "ms.sup_sd": "CRWL",
+      "dcsext.sup_cid": "931849",
+      "dcsext.sup_cln": "en-us",
+      "dcsext.sup_ct": "kb",
+      "dcsext.sup_ln": "en-us",
+      "dcsext.sup_sd": "CRWL",
+      "search.lcid": "1033",
+      "search.keywords": "kbtshoot kbexpertisebeginner kbprb KB931849",
+      "search.datemodified": "2012-07-19T18:55:00",
+      "search.description": "Resolves a problem that may occur when Windows Defender is updated.",
+      "search.kbparents": "11949 11952 8571",
+      "search.assets": "3",
+      "search.retire": "0",
+      "search.products": "456046",
+      "search.contentid": "931849",
+      "search.audiences": "kbAudGeneralUser kbAudEndUser",
+      "search.title": "Error message when you run Windows Defender: \"Error Code 0x800106ba\"",
+      "kbparents": "11949 11952 8571",
+      "search.contenttype": "kb",
+      "search.scid": "kb;en-us;931849",
+      "search.mt": "0",
+      "search.kb3": "0",
+      "ms.locale": "en"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "The Public Defender Service for the District Of Columbia",
+   "htmlTitle": "The Public \u003cb\u003eDefender\u003c/b\u003e Service for the District Of Columbia",
+   "link": "http://www.pdsdc.org/",
+   "displayLink": "www.pdsdc.org",
+   "snippet": "The Public Defender Service for the District of Columbia (PDS) provides and   promotes quality legal representation to indigent adults and children facing a loss   of ...",
+   "htmlSnippet": "The Public \u003cb\u003eDefender\u003c/b\u003e Service for the District of Columbia (PDS) provides and \u003cbr\u003e  promotes quality legal representation to indigent adults and children facing a loss \u003cbr\u003e  of \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "6IAe4SnoZugJ",
+   "formattedUrl": "www.pdsdc.org/",
+   "htmlFormattedUrl": "www.pdsdc.org/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.pdsdc.org/Images/PDSLogo.png",
+      "type": "1",
+      "width": "125",
+      "height": "172"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "The Defender (2004) - IMDb",
+   "htmlTitle": "The \u003cb\u003eDefender\u003c/b\u003e (2004) - IMDb",
+   "link": "http://www.imdb.com/title/tt0402127/",
+   "displayLink": "www.imdb.com",
+   "snippet": "Directed by Dolph Lundgren. With Dolph Lundgren, Jerry Springer, Shakara   Ledard, Thomas Lockyer. Today - the global war on terror rages on. The United ...",
+   "htmlSnippet": "Directed by Dolph Lundgren. With Dolph Lundgren, Jerry Springer, Shakara \u003cbr\u003e  Ledard, Thomas Lockyer. Today - the global war on terror rages on. The United \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "bA0coCiGilMJ",
+   "formattedUrl": "www.imdb.com/title/tt0402127/",
+   "htmlFormattedUrl": "www.imdb.com/title/tt0402127/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://ia.media-imdb.com/images/M/MV5BNDEyODM0MDMyMl5BMl5BanBnXkFtZTcwNzU5MzEzMQ@@._V1._SY317_CR8,0,214,317_.jpg",
+      "type": "1",
+      "width": "171",
+      "height": "253"
+     }
+    ],
+    "aggregaterating": [
+     {
+      "ratingvalue": "5.0",
+      "bestrating": "10",
+      "ratingcount": "1,011",
+      "reviewcount": "13"
+     }
+    ],
+    "movie": [
+     {
+      "image": "http://ia.media-imdb.com/images/M/MV5BNDEyODM0MDMyMl5BMl5BanBnXkFtZTcwNzU5MzEzMQ@@._V1._SY317_CR8,0,214,317_.jpg",
+      "name": "The Defender (2004)",
+      "description": "Today - the global war on terror rages on. The United States will not give an inch against terrorists... See full summary »",
+      "director": "Dolph Lundgren",
+      "actors": "Dolph Lundgren",
+      "genre": "Action",
+      "contentrating": "Rated R for violence and language",
+      "inlanguage": "English",
+      "duration": "PT90M"
+     }
+    ],
+    "scraped": [
+     {
+      "image_link": "http://ia.media-imdb.com/images/M/MV5BNDEyODM0MDMyMl5BMl5BanBnXkFtZTcwNzU5MzEzMQ@@._V1._SX347_SY475_.jpg"
+     }
+    ],
+    "metatags": [
+     {
+      "title": "The Defender (2004) - IMDb",
+      "application-name": "IMDb",
+      "msapplication-tooltip": "IMDb Web App",
+      "msapplication-window": "width=1500;height=900",
+      "msapplication-task": "name=Find Movie Showtimes;action-uri=/showtimes/;icon-uri=http://i.media-imdb.com/images/SFff39adb4d259f3c3fd166853a6714a32/favicon.ico",
+      "og:url": "http://www.imdb.com/title/tt0402127/",
+      "og:title": "The Defender (2004)",
+      "og:type": "video.movie",
+      "og:image": "http://ia.media-imdb.com/images/M/MV5BNDEyODM0MDMyMl5BMl5BanBnXkFtZTcwNzU5MzEzMQ@@._V1._SX100_SY137_.jpg",
+      "og:site_name": "IMDb",
+      "fb:app_id": "115109575169727"
+     }
+    ],
+    "moviereview": [
+     {
+      "ratingstars": "2.5",
+      "best": "10",
+      "originalrating": "5.0",
+      "votes": "1,011",
+      "ratingcount": "13",
+      "image_href": "http://ia.media-imdb.com/images/M/MV5BNDEyODM0MDMyMl5BMl5BanBnXkFtZTcwNzU5MzEzMQ@@._V1._SY317_CR8,0,214,317_.jpg",
+      "name": "The Defender (2004)",
+      "runtime": "PT90M",
+      "genre": "http://www.imdb.com/genre/Action",
+      "directed_by": "Dolph Lundgren",
+      "starring": "Dolph Lundgren, Jerry Springer, Shakara Ledard",
+      "summary": "Today - the global war on terror rages on. The United States will not give an inch against terrorists... See full summary »"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Defender's Quest",
+   "htmlTitle": "\u003cb\u003eDefender&#39;s\u003c/b\u003e Quest",
+   "link": "http://www.defendersquest.com/",
+   "displayLink": "www.defendersquest.com",
+   "snippet": "\"It's brilliant.\" -Adam Smith, Rock, Paper, Shotgun. A Tower Defense / RPG hybrid   that focuses on story, customization, and tactics. Just the Good Stuff.",
+   "htmlSnippet": "&quot;It&#39;s brilliant.&quot; -Adam Smith, Rock, Paper, Shotgun. A Tower Defense / RPG hybrid \u003cbr\u003e  that focuses on story, customization, and tactics. Just the Good Stuff.",
+   "cacheId": "GRi03Mz-TLQJ",
+   "formattedUrl": "www.defendersquest.com/",
+   "htmlFormattedUrl": "www.\u003cb\u003edefenders\u003c/b\u003equest.com/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.defendersquest.com/images/button_buy.gif.png",
+      "type": "1",
+      "width": "117",
+      "height": "53"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Office of the Colorado State Public Defender",
+   "htmlTitle": "Office of the Colorado State Public \u003cb\u003eDefender\u003c/b\u003e",
+   "link": "http://coloradodefenders.us/",
+   "displayLink": "coloradodefenders.us",
+   "snippet": "(C) 2009 Office of the Colorado State Public Defender, All rights reserved.",
+   "htmlSnippet": "(C) 2009 Office of the Colorado State Public \u003cb\u003eDefender\u003c/b\u003e, All rights reserved.",
+   "cacheId": "WZDhAGzidiQJ",
+   "formattedUrl": "coloradodefenders.us/",
+   "htmlFormattedUrl": "colorado\u003cb\u003edefenders\u003c/b\u003e.us/"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "National Legal Aid & Defender Association",
+   "htmlTitle": "National Legal Aid &amp; \u003cb\u003eDefender\u003c/b\u003e Association",
+   "link": "http://www.nlada.org/",
+   "displayLink": "www.nlada.org",
+   "snippet": "Non-profit membership organization devoting its resources to advocating equal   access to justice for all Americans.",
+   "htmlSnippet": "Non-profit membership organization devoting its resources to advocating equal \u003cbr\u003e  access to justice for all Americans.",
+   "cacheId": "36GpXs9TwtYJ",
+   "formattedUrl": "www.nlada.org/",
+   "htmlFormattedUrl": "www.nlada.org/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.nlada100years.org/files/images/share.png",
+      "type": "1",
+      "width": "120",
+      "height": "160"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Defender II - Android Apps on Google Play",
+   "htmlTitle": "\u003cb\u003eDefender\u003c/b\u003e II - Android Apps on Google Play",
+   "link": "https://play.google.com/store/apps/details?id=com.droidhen.defender2&hl=en",
+   "displayLink": "play.google.com",
+   "snippet": "Jul 13, 2012 ... New battle mode, new lava moat, new tower, new research center, new   crossbows! Defender II, the ultimate tower defense is coming with many ...",
+   "htmlSnippet": "Jul 13, 2012 \u003cb\u003e...\u003c/b\u003e New battle mode, new lava moat, new tower, new research center, new \u003cbr\u003e  crossbows! \u003cb\u003eDefender\u003c/b\u003e II, the ultimate tower defense is coming with many \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "0Kv0sItne3MJ",
+   "formattedUrl": "https://play.google.com/store/apps/details?id=com...defender2...",
+   "htmlFormattedUrl": "https://play.google.com/store/apps/details?id=com...\u003cb\u003edefender\u003c/b\u003e2...",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "https://lh4.ggpht.com/QwqOE957ChmmuNVVP-OEd1nF790bqZVpj3tAi6HeKOtcrKRyCxhuKtvLt6hIcQG1bq0=w705",
+      "type": "1",
+      "width": "321",
+      "height": "157"
+     }
+    ],
+    "organization": [
+     {
+      "name": "DroidHen",
+      "url": "/store/apps/developer?id=DroidHen"
+     },
+     {
+      "name": "Android"
+     }
+    ],
+    "aggregaterating": [
+     {
+      "ratingvalue": "4.6",
+      "ratingcount": "87095"
+     }
+    ],
+    "mobilesoftwareapplication": [
+     {
+      "name": "Defender II",
+      "image": "https://lh3.ggpht.com/yqRfIGgzQ3BzCnWTexBCC556YelLIG6xM8COY44PQy2yTAqyhwL2xuwCuEouLNJs6iA=w124",
+      "datepublished": "July 13, 2012",
+      "softwareversion": "1.1.9",
+      "operatingsystems": "Android",
+      "numdownloads": "1,000,000 - 5,000,000last 30 days",
+      "filesize": "8.0M",
+      "contentrating": "Low Maturity"
+     }
+    ],
+    "offer": [
+     {
+      "price": "0"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "The Defenders \u003e Home",
+   "htmlTitle": "The \u003cb\u003eDefenders\u003c/b\u003e &gt; Home",
+   "link": "http://www.sharedhope.org/TheDefenders.aspx",
+   "displayLink": "www.sharedhope.org",
+   "snippet": "A Defender is a man who makes a pledge, keeps a promise and has a plan. ...   Now available: men's and women's shirts, patches, Defenders stickers and dog ...",
+   "htmlSnippet": "A \u003cb\u003eDefender\u003c/b\u003e is a man who makes a pledge, keeps a promise and has a plan. \u003cb\u003e...\u003c/b\u003e \u003cbr\u003e  Now available: men&#39;s and women&#39;s shirts, patches, \u003cb\u003eDefenders\u003c/b\u003e stickers and dog \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "awg9mJMyg30J",
+   "formattedUrl": "www.sharedhope.org/TheDefenders.aspx",
+   "htmlFormattedUrl": "www.sharedhope.org/The\u003cb\u003eDefenders\u003c/b\u003e.aspx",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.sharedhope.org/Portals/0/Images/icon2.png",
+      "type": "1",
+      "width": "103",
+      "height": "76"
+     }
+    ],
+    "metatags": [
+     {
+      "copyright": "Copyright 2010 by DotNetNuke Corporation",
+      "author": "The Defenders",
+      "resource-type": "DOCUMENT",
+      "distribution": "GLOBAL",
+      "rating": "GENERAL"
+     }
+    ]
+   }
+  }
+ ]
+}

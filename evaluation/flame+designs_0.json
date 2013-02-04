@@ -1,0 +1,306 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "nextPage": [
+   {
+    "title": "Google Custom Search - flame designs",
+    "totalResults": "19700000",
+    "searchTerms": "flame designs",
+    "count": 10,
+    "startIndex": 11,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "017401104989814545383:mf4lavmtuva"
+   }
+  ],
+  "request": [
+   {
+    "title": "Google Custom Search - flame designs",
+    "totalResults": "19700000",
+    "searchTerms": "flame designs",
+    "count": 10,
+    "startIndex": 1,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "017401104989814545383:mf4lavmtuva"
+   }
+  ]
+ },
+ "context": {
+  "title": "College MetaSearch Comparison"
+ },
+ "searchInformation": {
+  "searchTime": 0.288079,
+  "formattedSearchTime": "0.29",
+  "totalResults": "19700000",
+  "formattedTotalResults": "19,700,000"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "Flames and Tribal Designs",
+   "htmlTitle": "\u003cb\u003eFlames\u003c/b\u003e and Tribal \u003cb\u003eDesigns\u003c/b\u003e",
+   "link": "http://www.signspecialist.com/stripes/flames/index.html",
+   "displayLink": "www.signspecialist.com",
+   "snippet": "flame decal stripes, vinyl hood accents, gas tank flames for cars ...",
+   "htmlSnippet": "\u003cb\u003eflame\u003c/b\u003e decal stripes, vinyl hood accents, gas tank \u003cb\u003eflames\u003c/b\u003e for cars \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "y0frW_-lfbQJ",
+   "formattedUrl": "www.signspecialist.com/stripes/flames/index.html",
+   "htmlFormattedUrl": "www.signspecialist.com/stripes/\u003cb\u003eflames\u003c/b\u003e/index.html",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.signspecialist.com/stripes/flames/085s.jpg",
+      "type": "1",
+      "width": "148",
+      "height": "50"
+     }
+    ],
+    "metatags": [
+     {
+      "author": "Wild Stripes"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Flame Designs, Flames Clip Art, Tribal Flames - Ultimate Flames ...",
+   "htmlTitle": "\u003cb\u003eFlame Designs\u003c/b\u003e, Flames Clip Art, Tribal Flames - Ultimate Flames \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://www.clipart-design.com/flame_designs_clipart_pro.htm",
+   "displayLink": "www.clipart-design.com",
+   "snippet": "Flame Designs, Flames Clip Art, Tribal Flames Professional collection of Vector   Clipart for vinyl cutting and screen printing.",
+   "htmlSnippet": "\u003cb\u003eFlame Designs\u003c/b\u003e, Flames Clip Art, Tribal Flames Professional collection of Vector \u003cbr\u003e  Clipart for vinyl cutting and screen printing.",
+   "cacheId": "BkpF_uA_BPkJ",
+   "formattedUrl": "www.clipart-design.com/flame_designs_clipart_pro.htm",
+   "htmlFormattedUrl": "www.clipart-\u003cb\u003edesign\u003c/b\u003e.com/\u003cb\u003eflame\u003c/b\u003e_\u003cb\u003edesigns\u003c/b\u003e_clipart_pro.htm",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.clipart-design.com/images/Ultimate_Flames_Clipart.gif",
+      "type": "1",
+      "width": "179",
+      "height": "204"
+     }
+    ],
+    "metatags": [
+     {
+      "title": "Flame Designs, Flames Clip Art, Tribal Flames - Ultimate Flames Clipart Mini Pack PRO"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Flame Decals - Official Dr. Torch's Famous Flame Decals",
+   "htmlTitle": "\u003cb\u003eFlame\u003c/b\u003e Decals - Official Dr. Torch&#39;s Famous \u003cb\u003eFlame\u003c/b\u003e Decals",
+   "link": "http://www.drtorch.com/",
+   "displayLink": "www.drtorch.com",
+   "snippet": "Dr. Torch custom designs your flame decals…Vinyl lettering, and \"custom-hot\"   bumper stickers….sizzlin' mailboxes. Spice up your clothing, shoes, and auto ...",
+   "htmlSnippet": "Dr. Torch custom \u003cb\u003edesigns\u003c/b\u003e your \u003cb\u003eflame\u003c/b\u003e decals…Vinyl lettering, and &quot;custom-hot&quot; \u003cbr\u003e  bumper stickers….sizzlin&#39; mailboxes. Spice up your clothing, shoes, and auto \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "ERoCutIIhyYJ",
+   "formattedUrl": "www.drtorch.com/",
+   "htmlFormattedUrl": "www.drtorch.com/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.drtorch.com/images/Front%20Page/Mailboxes-006.gif",
+      "type": "1",
+      "width": "252",
+      "height": "200"
+     }
+    ],
+    "metatags": [
+     {
+      "reply-to": "drtorch1@aol.com",
+      "author": "Dr.Torch",
+      "subject": "flame decals & stickers, vinyl lettering, bumper stickers, mail boxes, clothing, shoes,computer mice,skateboards,shoes,decals.",
+      "language": "English",
+      "distribution": "GLOBAL",
+      "rating": "GENERAL"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Flames Tattoo Designs",
+   "htmlTitle": "\u003cb\u003eFlames\u003c/b\u003e Tattoo \u003cb\u003eDesigns\u003c/b\u003e",
+   "link": "http://www.tattoojohnny.com/search/flames",
+   "displayLink": "www.tattoojohnny.com",
+   "snippet": "Items 1 - 24 of 3331 ... Flames Tattoo Designs. Showing Items 1 to 24 of ... tx Tattoos, texas Tattoos,   dallas Tattoos, flames Tattoos, flame Tattoos, flag. ADD TO ...",
+   "htmlSnippet": "Items 1 - 24 of 3331 \u003cb\u003e...\u003c/b\u003e \u003cb\u003eFlames\u003c/b\u003e Tattoo \u003cb\u003eDesigns\u003c/b\u003e. Showing Items 1 to 24 of \u003cb\u003e...\u003c/b\u003e tx Tattoos, texas Tattoos, \u003cbr\u003e  dallas Tattoos, \u003cb\u003eflames\u003c/b\u003e Tattoos, \u003cb\u003eflame\u003c/b\u003e Tattoos, flag. ADD TO \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "DyPQcCvzV0UJ",
+   "formattedUrl": "www.tattoojohnny.com/search/flames",
+   "htmlFormattedUrl": "www.tattoojohnny.com/search/\u003cb\u003eflames\u003c/b\u003e",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://ll.tattoojohnny.com/prod/images/products/C/C2/C2F/C2F-00129/C2F-00129_thumb.jpg",
+      "type": "1",
+      "width": "116",
+      "height": "78"
+     }
+    ],
+    "metatags": [
+     {
+      "title": "Tattoo Design Gallery - Downloadable Tattoos - Free Ideas for Tribal, Butterfly, Dragon, Fairy, Flower, Star, Celtic, Lower Back, and More Tattoos"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "INZANE DECALS HOT ROD FLAME DESIGNS",
+   "htmlTitle": "INZANE DECALS HOT ROD \u003cb\u003eFLAME DESIGNS\u003c/b\u003e",
+   "link": "http://www.inzanedecals.com/designs_hotrod.html",
+   "displayLink": "www.inzanedecals.com",
+   "snippet": "All of our current HOT ROD FLAMES designs are available below, with more   designs being added regularly. These designs work on all body shapes - not just ...",
+   "htmlSnippet": "All of our current HOT ROD \u003cb\u003eFLAMES designs\u003c/b\u003e are available below, with more \u003cbr\u003e  designs being added regularly. These designs work on all body shapes - not just \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "zYhlPzW7dBcJ",
+   "formattedUrl": "www.inzanedecals.com/designs_hotrod.html",
+   "htmlFormattedUrl": "www.inzanedecals.com/\u003cb\u003edesigns\u003c/b\u003e_hotrod.html",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.inzanedecals.com/images/decals/450_hotrod1.jpg",
+      "type": "1",
+      "width": "360",
+      "height": "131"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Flame Design",
+   "htmlTitle": "\u003cb\u003eFlame Design\u003c/b\u003e",
+   "link": "http://www.flamedesign.ca/",
+   "displayLink": "www.flamedesign.ca",
+   "snippet": "Flame Design is a family-run branding agency based in Vancouver, BC. Our   primary services are brand design and web design for Vancouver's financial ...",
+   "htmlSnippet": "\u003cb\u003eFlame Design\u003c/b\u003e is a family-run branding agency based in Vancouver, BC. Our \u003cbr\u003e  primary services are brand design and web design for Vancouver&#39;s financial \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "D2iGGwsl_KcJ",
+   "formattedUrl": "www.flamedesign.ca/",
+   "htmlFormattedUrl": "www.\u003cb\u003eflamedesign\u003c/b\u003e.ca/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.flamedesign.ca/images/facebook.png",
+      "type": "1",
+      "width": "160",
+      "height": "160"
+     }
+    ],
+    "metatags": [
+     {
+      "template": "Flame Design 1.0",
+      "author": "kyle",
+      "copyright": "Copyright (c) December 2011",
+      "revised": "Tuesday, April 3rd, 2012, 7:15 pm",
+      "fb:admins": "173500112",
+      "og:url": "http://www.flamedesign.ca",
+      "og:title": "Vancouver Brand & Web Design | Branding in Vancouver",
+      "og:site_name": "Flame Design",
+      "og:description": "Flame Design is a family-run branding agency based in Vancouver, BC. Our primary services are brand design and web design for Vancouver’s financial services industry.",
+      "og:type": "website",
+      "og:image": "http://www.flamedesign.ca/images/facebook.png",
+      "og:locale": "en_us"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Cool Blue Flame Designs",
+   "htmlTitle": "Cool Blue \u003cb\u003eFlame Designs\u003c/b\u003e",
+   "link": "http://www.coolblueflame.com/",
+   "displayLink": "www.coolblueflame.com",
+   "snippet": "Welcome to Cool Blue Flame Designs! We can bring your ideas to life! Whether   you need a business card or a complete corporate makeover, we can help!",
+   "htmlSnippet": "Welcome to Cool Blue \u003cb\u003eFlame Designs\u003c/b\u003e! We can bring your ideas to life! Whether \u003cbr\u003e  you need a business card or a complete corporate makeover, we can help!",
+   "cacheId": "pCHn738aFewJ",
+   "formattedUrl": "www.coolblueflame.com/",
+   "htmlFormattedUrl": "www.coolblue\u003cb\u003eflame\u003c/b\u003e.com/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.coolblueflame.com/images/Samples/Print/Logos/WINGS.jpg",
+      "type": "1",
+      "width": "200",
+      "height": "137"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Red Flame Designs | LinkedIn",
+   "htmlTitle": "Red \u003cb\u003eFlame Designs\u003c/b\u003e | LinkedIn",
+   "link": "http://www.linkedin.com/company/red-flame-designs",
+   "displayLink": "www.linkedin.com",
+   "snippet": "Welcome to the company profile of Red Flame Designs on LinkedIn. Red Flame   Designs do colourful and stylish web design perfect for any site wanting to take ...",
+   "htmlSnippet": "Welcome to the company profile of Red \u003cb\u003eFlame Designs\u003c/b\u003e on LinkedIn. Red \u003cb\u003eFlame\u003c/b\u003e \u003cbr\u003e  \u003cb\u003eDesigns\u003c/b\u003e do colourful and stylish web design perfect for any site wanting to take \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "WYlsUhCmZLoJ",
+   "formattedUrl": "www.linkedin.com/company/red-flame-designs",
+   "htmlFormattedUrl": "www.linkedin.com/company/red-\u003cb\u003eflame\u003c/b\u003e-\u003cb\u003edesigns\u003c/b\u003e",
+   "pagemap": {
+    "metatags": [
+     {
+      "pageimpressionid": "f60b3056-4fbf-4daf-ad4b-efed22a4d208",
+      "pagekey": "biz-overview-public",
+      "analyticsurl": "/analytics/noauthtracker"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Fan The Flame Designs",
+   "htmlTitle": "Fan The \u003cb\u003eFlame Designs\u003c/b\u003e",
+   "link": "http://www.fantheflamedesigns.com/",
+   "displayLink": "www.fantheflamedesigns.com",
+   "snippet": "May 6, 2003 ... Fan the Flame Designs is committed to excellence! From basic logo creation to   digital photo art and photography, offering diversity in the ...",
+   "htmlSnippet": "May 6, 2003 \u003cb\u003e...\u003c/b\u003e Fan the \u003cb\u003eFlame Designs\u003c/b\u003e is committed to excellence! From basic logo creation to \u003cbr\u003e  digital photo art and photography, offering diversity in the \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "BP-6ob0kRcQJ",
+   "formattedUrl": "www.fantheflamedesigns.com/",
+   "htmlFormattedUrl": "www.fanthe\u003cb\u003eflamedesigns\u003c/b\u003e.com/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.fantheflamedesigns.com/images/nav_bar_tabs3a.jpg",
+      "type": "1",
+      "width": "157",
+      "height": "320"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Flame Designs",
+   "htmlTitle": "\u003cb\u003eFlame Designs\u003c/b\u003e",
+   "link": "http://www.sicskinz.com/install/index.php?app=ecom&ns=catshow&ref=Flames",
+   "displayLink": "www.sicskinz.com",
+   "snippet": "Here is a collection of Flame Designs from either photographs or created using   Illustrator and Photoshop.",
+   "htmlSnippet": "Here is a collection of \u003cb\u003eFlame Designs\u003c/b\u003e from either photographs or created using \u003cbr\u003e  Illustrator and Photoshop.",
+   "cacheId": "NDYbD1vPVeQJ",
+   "formattedUrl": "www.sicskinz.com/install/index.php?app=ecom&ns...Flames",
+   "htmlFormattedUrl": "www.sicskinz.com/install/index.php?app=ecom&amp;ns...\u003cb\u003eFlames\u003c/b\u003e",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.sicskinz.com/install/media/ecom/prodsm/RealFlame_2.jpg",
+      "type": "1",
+      "width": "133",
+      "height": "44"
+     }
+    ]
+   }
+  }
+ ]
+}

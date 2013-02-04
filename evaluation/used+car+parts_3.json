@@ -1,0 +1,262 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "nextPage": [
+   {
+    "title": "Google Custom Search - used car parts",
+    "totalResults": "557000000",
+    "searchTerms": "used car parts",
+    "count": 10,
+    "startIndex": 41,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "017401104989814545383:mf4lavmtuva"
+   }
+  ],
+  "request": [
+   {
+    "title": "Google Custom Search - used car parts",
+    "totalResults": "557000000",
+    "searchTerms": "used car parts",
+    "count": 10,
+    "startIndex": 31,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "017401104989814545383:mf4lavmtuva"
+   }
+  ],
+  "previousPage": [
+   {
+    "title": "Google Custom Search - used car parts",
+    "totalResults": "557000000",
+    "searchTerms": "used car parts",
+    "count": 10,
+    "startIndex": 21,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "017401104989814545383:mf4lavmtuva"
+   }
+  ]
+ },
+ "context": {
+  "title": "College MetaSearch Comparison"
+ },
+ "searchInformation": {
+  "searchTime": 0.202089,
+  "formattedSearchTime": "0.20",
+  "totalResults": "557000000",
+  "formattedTotalResults": "557,000,000"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "JunKYard Used Auto Parts Orlando FL Cash For Junk Car",
+   "htmlTitle": "JunKYard \u003cb\u003eUsed Auto Parts\u003c/b\u003e Orlando FL Cash For Junk Car",
+   "link": "http://www.usedautopartsfl.com/",
+   "displayLink": "www.usedautopartsfl.com",
+   "snippet": "ABC Used Auto Parts 407-287-5100 located in East Orlando. We Sell Used Auto   Parts! Used Engines and Transmissions, Engine/Transmission All Years, ...",
+   "htmlSnippet": "ABC \u003cb\u003eUsed Auto Parts\u003c/b\u003e 407-287-5100 located in East Orlando. We Sell \u003cb\u003eUsed Auto\u003c/b\u003e \u003cbr\u003e  \u003cb\u003eParts\u003c/b\u003e! Used Engines and Transmissions, Engine/Transmission All Years, \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "AWR0piyMamoJ",
+   "formattedUrl": "www.usedautopartsfl.com/",
+   "htmlFormattedUrl": "www.\u003cb\u003eusedautoparts\u003c/b\u003efl.com/"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Georgia Used Parts Atlanta Used Auto Parts Marietta Used Car Parts",
+   "htmlTitle": "Georgia Used Parts Atlanta \u003cb\u003eUsed Auto Parts\u003c/b\u003e Marietta \u003cb\u003eUsed Car Parts\u003c/b\u003e",
+   "link": "http://www.salvagehunter.net/",
+   "displayLink": "www.salvagehunter.net",
+   "snippet": "Salvage Hunter Auto Parts offers Georgia Used Parts Atlanta Used Auto Parts   Marietta Used Car Parts Austell GA Used Automobile Parts Doors Engines ...",
+   "htmlSnippet": "Salvage Hunter Auto Parts offers Georgia Used Parts Atlanta \u003cb\u003eUsed Auto Parts\u003c/b\u003e \u003cbr\u003e  Marietta \u003cb\u003eUsed Car Parts\u003c/b\u003e Austell GA \u003cb\u003eUsed Automobile Parts\u003c/b\u003e Doors Engines \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "ix0Ze_LvuosJ",
+   "formattedUrl": "www.salvagehunter.net/",
+   "htmlFormattedUrl": "www.salvagehunter.net/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.salvagehunter.net/ss5.jpg",
+      "type": "1",
+      "width": "421",
+      "height": "120"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Car-Part.com--Used Auto Parts Market",
+   "htmlTitle": "Car-Part.com--\u003cb\u003eUsed Auto Parts\u003c/b\u003e Market",
+   "link": "http://www.car-part.com/help2.htm",
+   "displayLink": "www.car-part.com",
+   "snippet": "Car Part Search Engine Featuring Auto Recycler Inventory.",
+   "htmlSnippet": "\u003cb\u003eCar Part\u003c/b\u003e Search Engine Featuring \u003cb\u003eAuto\u003c/b\u003e Recycler Inventory.",
+   "cacheId": "T3Iqcx4QrDcJ",
+   "formattedUrl": "www.car-part.com/help2.htm",
+   "htmlFormattedUrl": "www.\u003cb\u003ecar\u003c/b\u003e-\u003cb\u003epart\u003c/b\u003e.com/help2.htm",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.car-part.com/help_ss1.gif",
+      "type": "1",
+      "width": "233",
+      "height": "173"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Southern Used Car Parts and Truck Parts Auto Salvage - Since ...",
+   "htmlTitle": "Southern \u003cb\u003eUsed Car Parts\u003c/b\u003e and Truck Parts Auto Salvage - Since \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://www.southernautoparts.net/",
+   "displayLink": "www.southernautoparts.net",
+   "snippet": "Southern Used Auto Parts specializing in foreign car parts and light trucks and   suv's parts.",
+   "htmlSnippet": "Southern \u003cb\u003eUsed Auto Parts\u003c/b\u003e specializing in foreign car parts and light trucks and \u003cbr\u003e  suv&#39;s parts.",
+   "cacheId": "Y9pUZBA9NwwJ",
+   "formattedUrl": "www.southernautoparts.net/",
+   "htmlFormattedUrl": "www.southern\u003cb\u003eautoparts\u003c/b\u003e.net/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.southernautoparts.net/thanks2.jpg",
+      "type": "1",
+      "width": "158",
+      "height": "134"
+     }
+    ],
+    "metatags": [
+     {
+      "title": "Southern Used Car Parts and Truck Parts Auto Salvage Foreign Parts",
+      "progid": "FrontPage.Editor.Document",
+      "microsoft theme": "copy-of-tp-retro-green 1010, default",
+      "microsoft border": "tlb, default"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Car-Part.com --Used Auto Parts Market",
+   "htmlTitle": "Car-Part.com --\u003cb\u003eUsed Auto Parts\u003c/b\u003e Market",
+   "link": "http://www.car-part.com/email.htm",
+   "displayLink": "www.car-part.com",
+   "snippet": "If you need help locating parts using Car-Part.com, you can contact us: ... If you   are a recycler and would like help with other Car-Part products, please visit our ...",
+   "htmlSnippet": "If you need help locating \u003cb\u003eparts\u003c/b\u003e using \u003cb\u003eCar\u003c/b\u003e-\u003cb\u003ePart\u003c/b\u003e.com, you can contact us: \u003cb\u003e...\u003c/b\u003e If you \u003cbr\u003e  are a recycler and would like help with other \u003cb\u003eCar\u003c/b\u003e-\u003cb\u003ePart\u003c/b\u003e products, please visit our \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "l_UkbnL0v88J",
+   "formattedUrl": "www.car-part.com/email.htm",
+   "htmlFormattedUrl": "www.\u003cb\u003ecar\u003c/b\u003e-\u003cb\u003epart\u003c/b\u003e.com/email.htm"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Atlanta Used Auto Parts | Recycled Auto Parts Atlanta",
+   "htmlTitle": "Atlanta \u003cb\u003eUsed Auto Parts\u003c/b\u003e | Recycled Auto Parts Atlanta",
+   "link": "http://www.sandwauto.com/",
+   "displayLink": "www.sandwauto.com",
+   "snippet": "S & W Automotive Parts in Dekalb & Atlanta, GA specializes in used & recycled   auto parts, engines, transmissions for cars, vans &",
+   "htmlSnippet": "S &amp; W \u003cb\u003eAutomotive Parts\u003c/b\u003e in Dekalb &amp; Atlanta, GA specializes in \u003cb\u003eused\u003c/b\u003e &amp; recycled \u003cbr\u003e  \u003cb\u003eauto parts\u003c/b\u003e, engines, transmissions for \u003cb\u003ecars\u003c/b\u003e, vans &amp;",
+   "cacheId": "eZSIW5MlCrMJ",
+   "formattedUrl": "www.sandwauto.com/",
+   "htmlFormattedUrl": "www.sandw\u003cb\u003eauto\u003c/b\u003e.com/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.sandwauto.com/images/main_left.jpg",
+      "type": "1",
+      "width": "224",
+      "height": "224"
+     }
+    ],
+    "metatags": [
+     {
+      "author": "Elegant Image Studios"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Freds Auto - Used Truck and Car Parts Syracuse NY",
+   "htmlTitle": "Freds \u003cb\u003eAuto\u003c/b\u003e - \u003cb\u003eUsed\u003c/b\u003e Truck and \u003cb\u003eCar Parts\u003c/b\u003e Syracuse NY",
+   "link": "http://fredsautoparts.com/",
+   "displayLink": "fredsautoparts.com",
+   "snippet": "Freds Auto Parts oswego ny. Discount Auto Salvage specializing in Southern   Parts for Used Cars. Online inventory search | Quality and affordable southern ...",
+   "htmlSnippet": "Freds Auto \u003cb\u003eParts\u003c/b\u003e oswego ny. Discount Auto Salvage specializing in Southern \u003cbr\u003e  \u003cb\u003eParts\u003c/b\u003e for \u003cb\u003eUsed Cars\u003c/b\u003e. Online inventory search | Quality and affordable southern \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "8yh4wG72zAAJ",
+   "formattedUrl": "fredsautoparts.com/",
+   "htmlFormattedUrl": "freds\u003cb\u003eautoparts\u003c/b\u003e.com/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://fredsautoparts.com/sign2.jpg",
+      "type": "1",
+      "width": "168",
+      "height": "154"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "used auto parts louisville, used car parts louisville, scrap metal ...",
+   "htmlTitle": "\u003cb\u003eused auto parts\u003c/b\u003e louisville, \u003cb\u003eused car parts\u003c/b\u003e louisville, scrap metal \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://www.gradeaautoparts.com/",
+   "displayLink": "www.gradeaautoparts.com",
+   "snippet": "Grade A and Amen Auto parts have the car parts you are looking for in Louisville.   We sell used car parts, new car parts, buy wrecked or junked cars and we'll ...",
+   "htmlSnippet": "Grade A and Amen Auto parts have the car parts you are looking for in Louisville. \u003cbr\u003e  We sell \u003cb\u003eused car parts\u003c/b\u003e, new car parts, buy wrecked or junked cars and we&#39;ll \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "eD43NrxlkzIJ",
+   "formattedUrl": "www.gradeaautoparts.com/",
+   "htmlFormattedUrl": "www.gradea\u003cb\u003eautoparts\u003c/b\u003e.com/"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Post Road Auto - Junk Car & Used Parts Boston",
+   "htmlTitle": "Post Road \u003cb\u003eAuto\u003c/b\u003e - Junk \u003cb\u003eCar\u003c/b\u003e &amp; \u003cb\u003eUsed Parts\u003c/b\u003e Boston",
+   "link": "http://www.postroadusedautoparts.com/",
+   "displayLink": "www.postroadusedautoparts.com",
+   "snippet": "Post Road Auto recyclers offer quality used green car parts and great prices. If   you need car parts or are looking to sell your car for cash in the Boston area then ...",
+   "htmlSnippet": "Post Road \u003cb\u003eAuto\u003c/b\u003e recyclers offer quality \u003cb\u003eused\u003c/b\u003e green \u003cb\u003ecar parts\u003c/b\u003e and great prices. If \u003cbr\u003e  you need \u003cb\u003ecar parts\u003c/b\u003e or are looking to sell your \u003cb\u003ecar\u003c/b\u003e for cash in the Boston area then \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "lcTECJ3SIOwJ",
+   "formattedUrl": "www.postroadusedautoparts.com/",
+   "htmlFormattedUrl": "www.postroad\u003cb\u003eusedautoparts\u003c/b\u003e.com/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.postroadusedautoparts.com/pics/streetview.jpg",
+      "type": "1",
+      "width": "284",
+      "height": "177"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Jeff Canter's Car World - Used Auto Parts New Hampshire",
+   "htmlTitle": "Jeff Canter&#39;s Car World - \u003cb\u003eUsed Auto Parts\u003c/b\u003e New Hampshire",
+   "link": "http://carworldused.com/",
+   "displayLink": "carworldused.com",
+   "snippet": "Sells foreign and domestic auto parts. Inventory search, hours and travel   directions.",
+   "htmlSnippet": "Sells foreign and domestic \u003cb\u003eauto parts\u003c/b\u003e. Inventory search, hours and travel \u003cbr\u003e  directions.",
+   "cacheId": "bMY54a3ADHMJ",
+   "formattedUrl": "carworldused.com/",
+   "htmlFormattedUrl": "\u003cb\u003ecar\u003c/b\u003eworld\u003cb\u003eused\u003c/b\u003e.com/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://carworldused.com/skiboylink.jpg",
+      "type": "1",
+      "width": "164",
+      "height": "308"
+     }
+    ]
+   }
+  }
+ ]
+}

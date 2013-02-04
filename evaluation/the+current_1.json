@@ -1,0 +1,328 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "nextPage": [
+   {
+    "title": "Google Custom Search - the current",
+    "totalResults": "1650000000",
+    "searchTerms": "the current",
+    "count": 10,
+    "startIndex": 21,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "017401104989814545383:mf4lavmtuva"
+   }
+  ],
+  "request": [
+   {
+    "title": "Google Custom Search - the current",
+    "totalResults": "1650000000",
+    "searchTerms": "the current",
+    "count": 10,
+    "startIndex": 11,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "017401104989814545383:mf4lavmtuva"
+   }
+  ],
+  "previousPage": [
+   {
+    "title": "Google Custom Search - the current",
+    "totalResults": "1650000000",
+    "searchTerms": "the current",
+    "count": 10,
+    "startIndex": 1,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "017401104989814545383:mf4lavmtuva"
+   }
+  ]
+ },
+ "context": {
+  "title": "College MetaSearch Comparison"
+ },
+ "searchInformation": {
+  "searchTime": 0.220943,
+  "formattedSearchTime": "0.22",
+  "totalResults": "1650000000",
+  "formattedTotalResults": "1,650,000,000"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "Keep Me Current: Hometown Newspapers serving local communities",
+   "htmlTitle": "Keep Me \u003cb\u003eCurrent\u003c/b\u003e: Hometown Newspapers serving local communities",
+   "link": "http://www.keepmecurrent.com/",
+   "displayLink": "www.keepmecurrent.com",
+   "snippet": "Hometown Newspapers serving local communities.",
+   "htmlSnippet": "Hometown Newspapers serving local communities.",
+   "formattedUrl": "www.keepmecurrent.com/",
+   "htmlFormattedUrl": "www.keepme\u003cb\u003ecurrent\u003c/b\u003e.com/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://bloximages.chicago2.vip.townnews.com/keepmecurrent.com/content/tncms/assets/v3/editorial/d/f2/df29da72-d023-11e1-8a07-001a4bcf887a/5005844c700bd.preview-300.jpg",
+      "type": "1",
+      "width": "226",
+      "height": "223"
+     }
+    ],
+    "metatags": [
+     {
+      "og:title": "Keep Me Current",
+      "og:site_name": "Keep Me Current",
+      "fb:app_id": "160891933927903"
+     }
+    ],
+    "hcard": [
+     {
+      "fn": "Keep Me Current",
+      "url": "http://www.keepmecurrent.com/",
+      "url_text": "Keep Me Current"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "The Current-Online |",
+   "htmlTitle": "\u003cb\u003eThe Current\u003c/b\u003e-Online |",
+   "link": "http://thecurrent-online.com/",
+   "displayLink": "thecurrent-online.com",
+   "snippet": "Weekly student newspaper of the University of Missouri at St. Louis.",
+   "htmlSnippet": "Weekly student newspaper of the University of Missouri at St. Louis.",
+   "cacheId": "YO3AhtoPlJoJ",
+   "formattedUrl": "thecurrent-online.com/",
+   "htmlFormattedUrl": "\u003cb\u003ethecurrent\u003c/b\u003e-online.com/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://thecurrent-online.com/wp-content/themes/news-magazine-theme-640/cropper.php?src=/wp-content/uploads/2012/07/12slfs_poster.jpg&h=142&w=200&zc=1&q=95",
+      "type": "1",
+      "width": "160",
+      "height": "113"
+     }
+    ],
+    "metatags": [
+     {
+      "og:site_name": "The Current-Online",
+      "og:title": "The Current-Online",
+      "og:url": "http://thecurrent-online.com",
+      "og:type": "article"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "The Current - Operated by Connecticut River Transit",
+   "htmlTitle": "\u003cb\u003eThe Current\u003c/b\u003e - Operated by Connecticut River Transit",
+   "link": "http://www.crtransit.org/",
+   "displayLink": "www.crtransit.org",
+   "snippet": "Private, non-profit personal mobility specialist servicing the Windham and   Southern Windsor County areas.",
+   "htmlSnippet": "Private, non-profit personal mobility specialist servicing the Windham and \u003cbr\u003e  Southern Windsor County areas.",
+   "cacheId": "adAbXBg4gdEJ",
+   "formattedUrl": "www.crtransit.org/",
+   "htmlFormattedUrl": "www.crtransit.org/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.crtransit.org/images/home/passenger400px.gif",
+      "type": "1",
+      "width": "292",
+      "height": "172"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "The Current Newspapers",
+   "htmlTitle": "\u003cb\u003eThe Current\u003c/b\u003e Newspapers",
+   "link": "http://www.currentnewspapers.com/",
+   "displayLink": "www.currentnewspapers.com",
+   "snippet": "The Current Newspaper, serving Washington DC's Northwest, Georgetown and   DC neighborhoods keep our readership informed so they can make intelligent ...",
+   "htmlSnippet": "\u003cb\u003eThe Current\u003c/b\u003e Newspaper, serving Washington DC&#39;s Northwest, Georgetown and \u003cbr\u003e  DC neighborhoods keep our readership informed so they can make intelligent \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "NJL63zvHjcgJ",
+   "formattedUrl": "www.currentnewspapers.com/",
+   "htmlFormattedUrl": "www.\u003cb\u003ecurrent\u003c/b\u003enewspapers.com/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.currentnewspapers.com/images/img9.jpg",
+      "type": "1",
+      "width": "132",
+      "height": "136"
+     }
+    ],
+    "metatags": [
+     {
+      "resource-type": "document",
+      "distribution": "global",
+      "copyright": "The Current Newspapers, All Right Reserved"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Recent News | The Florida Current",
+   "htmlTitle": "Recent News | The Florida \u003cb\u003eCurrent\u003c/b\u003e",
+   "link": "http://www.thefloridacurrent.com/",
+   "displayLink": "www.thefloridacurrent.com",
+   "snippet": "The Florida Current - Smartly Covering Florida Politics & Policy · Subscribe to   The Current Morning Edition Email · Home · Health Care · State & Local ...",
+   "htmlSnippet": "The Florida \u003cb\u003eCurrent\u003c/b\u003e - Smartly Covering Florida Politics &amp; Policy &middot; Subscribe to \u003cbr\u003e  \u003cb\u003eThe Current\u003c/b\u003e Morning Edition Email &middot; Home &middot; Health Care &middot; State &amp; Local \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "0Kq_ssz6An0J",
+   "formattedUrl": "www.thefloridacurrent.com/",
+   "htmlFormattedUrl": "www.theflorida\u003cb\u003ecurrent\u003c/b\u003e.com/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.thefloridacurrent.com/images/current_logo_white.png",
+      "type": "1",
+      "width": "200",
+      "height": "61"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "The Current (newspaper) - Wikipedia, the free encyclopedia",
+   "htmlTitle": "\u003cb\u003eThe Current\u003c/b\u003e (newspaper) - Wikipedia, the free encyclopedia",
+   "link": "http://en.wikipedia.org/wiki/The_Current_(newspaper)",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "For forty years, The Current has been the official student newspaper of the   University of Missouri–St. Louis. The Current is a tabloid published weekly on ...",
+   "htmlSnippet": "For forty years, \u003cb\u003eThe Current\u003c/b\u003e has been the official student newspaper of the \u003cbr\u003e  University of Missouri–St. Louis. \u003cb\u003eThe Current\u003c/b\u003e is a tabloid published weekly on \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "KrB0OYLjR_kJ",
+   "formattedUrl": "en.wikipedia.org/wiki/The_Current_(newspaper)",
+   "htmlFormattedUrl": "en.wikipedia.org/wiki/\u003cb\u003eThe_Current\u003c/b\u003e_(newspaper)"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "The Current Presents | Programs | The Current from Minnesota ...",
+   "htmlTitle": "\u003cb\u003eThe Current\u003c/b\u003e Presents | Programs | \u003cb\u003eThe Current\u003c/b\u003e from Minnesota \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://minnesota.publicradio.org/radio/programs/current-presents/",
+   "displayLink": "minnesota.publicradio.org",
+   "snippet": "Back in the fall we had this idea: We believe that everyone who works at the   Current (and most people who don't) have in them at least one great idea for a   radio ...",
+   "htmlSnippet": "Back in the fall we had this idea: We believe that everyone who works at \u003cb\u003ethe\u003c/b\u003e \u003cbr\u003e  \u003cb\u003eCurrent\u003c/b\u003e (and most people who don&#39;t) have in them at least one great idea for a \u003cbr\u003e  radio \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "A1WPpDrvIaUJ",
+   "formattedUrl": "minnesota.publicradio.org/radio/programs/current-presents/",
+   "htmlFormattedUrl": "minnesota.publicradio.org/radio/programs/\u003cb\u003ecurrent\u003c/b\u003e-presents/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://minnesota.publicradio.org/radio/services/cms/images/mn_legacy_tile.gif",
+      "type": "1",
+      "width": "162",
+      "height": "311"
+     }
+    ],
+    "metatags": [
+     {
+      "author": "Minnesota Public Radio",
+      "mpr-site": "the-current",
+      "mpr-program": "The Current Presents",
+      "mpr-media": "audio",
+      "wt.cg_n": "Current Schedules and Programs",
+      "og:site_name": "The Current from Minnesota Public Radio"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Against the Current | Solidarity",
+   "htmlTitle": "Against \u003cb\u003ethe Current\u003c/b\u003e | Solidarity",
+   "link": "http://www.solidarity-us.org/atc",
+   "displayLink": "www.solidarity-us.org",
+   "snippet": "Against the Current is our bi-monthly analytical journal. As part of our larger   project of regroupment and dialogue within the U.S. Left, the journal presents ...",
+   "htmlSnippet": "Against \u003cb\u003ethe Current\u003c/b\u003e is our bi-monthly analytical journal. As part of our larger \u003cbr\u003e  project of regroupment and dialogue within the U.S. Left, the journal presents \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "JQAJ7N_sgRwJ",
+   "formattedUrl": "www.solidarity-us.org/atc",
+   "htmlFormattedUrl": "www.solidarity-us.org/atc",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.solidarity-us.org/site/images/ATC159.200.jpg",
+      "type": "1",
+      "width": "160",
+      "height": "205"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Hot Chip perform in The Current studio | The Current from Minnesota ...",
+   "htmlTitle": "Hot Chip perform in \u003cb\u003eThe Current\u003c/b\u003e studio | \u003cb\u003eThe Current\u003c/b\u003e from Minnesota \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://minnesota.publicradio.org/display/web/2012/07/13/hot-chip-perform-in-the-current-studio/",
+   "displayLink": "minnesota.publicradio.org",
+   "snippet": "Jul 13, 2012 ... British band Hot Chip has made a career out of exploring the collision point   between heart-rending indie rock, cleverly self-aware pop and ...",
+   "htmlSnippet": "Jul 13, 2012 \u003cb\u003e...\u003c/b\u003e British band Hot Chip has made a career out of exploring the collision point \u003cbr\u003e  between heart-rending indie rock, cleverly self-aware pop and \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "ribMaE3o1GwJ",
+   "formattedUrl": "minnesota.publicradio.org/.../hot-chip-perform-in-the-current-studio/",
+   "htmlFormattedUrl": "minnesota.publicradio.org/.../hot-chip-perform-in-\u003cb\u003ethe-current\u003c/b\u003e-studio/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://images.publicradio.org/content/2012/07/13/20120713_hot_chip_45.jpg",
+      "type": "1",
+      "width": "275",
+      "height": "183"
+     }
+    ],
+    "metatags": [
+     {
+      "title": "Hot Chip perform in The Current studio",
+      "date": "2012-07-13",
+      "author": "Minnesota Public Radio",
+      "fb:admins": "517623060",
+      "og:title": "Hot Chip perform in The Current studio",
+      "og:site_name": "The Current from Minnesota Public Radio",
+      "og:image": "http://images.publicradio.org/content/2012/07/13/20120713_hot_chip_45.jpg",
+      "og:type": "video.other",
+      "og:video": "http://www.youtube.com/v/icLeIpUs1iI?version=3&autohide=1",
+      "og:video:height": "340",
+      "og:video:width": "596",
+      "og:video:type": "application/x-shockwave-flash",
+      "mpr-site": "the-current",
+      "wt.z_mpr-site": "the-current",
+      "mpr-collection": "Arts & Culture",
+      "wt.cg_n": "Current Arts & Culture",
+      "mpr-media": "audio"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Current.org | For people in public media",
+   "htmlTitle": "\u003cb\u003eCurrent\u003c/b\u003e.org | For people in public media",
+   "link": "http://www.current.org/",
+   "displayLink": "www.current.org",
+   "snippet": "The web service of \"Current\", the biweekly newspaper about Public Television   and Public Radio in the United States.",
+   "htmlSnippet": "The web service of &quot;\u003cb\u003eCurrent\u003c/b\u003e&quot;, the biweekly newspaper about Public Television \u003cbr\u003e  and Public Radio in the United States.",
+   "cacheId": "ZNzyy4HarPEJ",
+   "formattedUrl": "www.current.org/",
+   "htmlFormattedUrl": "www.\u003cb\u003ecurrent\u003c/b\u003e.org/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.current.org/audience/aud1213arnold-crossoverchart.jpg",
+      "type": "1",
+      "width": "276",
+      "height": "183"
+     }
+    ]
+   }
+  }
+ ]
+}

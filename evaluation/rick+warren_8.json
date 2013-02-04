@@ -1,0 +1,423 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "nextPage": [
+   {
+    "title": "Google Custom Search - rick warren",
+    "totalResults": "12800000",
+    "searchTerms": "rick warren",
+    "count": 10,
+    "startIndex": 91,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "017401104989814545383:mf4lavmtuva"
+   }
+  ],
+  "request": [
+   {
+    "title": "Google Custom Search - rick warren",
+    "totalResults": "12800000",
+    "searchTerms": "rick warren",
+    "count": 10,
+    "startIndex": 81,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "017401104989814545383:mf4lavmtuva"
+   }
+  ],
+  "previousPage": [
+   {
+    "title": "Google Custom Search - rick warren",
+    "totalResults": "12800000",
+    "searchTerms": "rick warren",
+    "count": 10,
+    "startIndex": 71,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "017401104989814545383:mf4lavmtuva"
+   }
+  ]
+ },
+ "context": {
+  "title": "College MetaSearch Comparison"
+ },
+ "searchInformation": {
+  "searchTime": 0.323752,
+  "formattedSearchTime": "0.32",
+  "totalResults": "12800000",
+  "formattedTotalResults": "12,800,000"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "Rick Warren: 9/11 National Prayer Day Planned 2 Blocks From Ground",
+   "htmlTitle": "\u003cb\u003eRick Warren\u003c/b\u003e: 9/11 National Prayer Day Planned 2 Blocks From Ground",
+   "link": "http://www.christianpost.com/news/rick-warren-9-11-national-prayer-day-planned-2-blocks-from-ground-zero-54810/",
+   "displayLink": "www.christianpost.com",
+   "snippet": "Aug 30, 2011 ... A church located two blocks from New York City's ground zero, which was   planted in Manhattan shortly after the 9/11 terrorist attacks on the ...",
+   "htmlSnippet": "Aug 30, 2011 \u003cb\u003e...\u003c/b\u003e A church located two blocks from New York City&#39;s ground zero, which was \u003cbr\u003e  planted in Manhattan shortly after the 9/11 terrorist attacks on the \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "XpIuL9sftOcJ",
+   "formattedUrl": "www.christianpost.com/.../rick-warren-9-11-national-prayer-day-planned-2- blocks-from-ground-zero-54810/",
+   "htmlFormattedUrl": "www.christianpost.com/.../\u003cb\u003erick\u003c/b\u003e-\u003cb\u003ewarren\u003c/b\u003e-9-11-national-prayer-day-planned-2- blocks-from-ground-zero-54810/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://images.christianpost.com/thumb/47421/wtc.jpg",
+      "type": "1",
+      "width": "92",
+      "height": "80"
+     }
+    ],
+    "metatags": [
+     {
+      "author": "Christian Post",
+      "copyright": "2012 Christian Post",
+      "title": "Rick Warren: 9/11 National Prayer Day Planned 2 Blocks From Ground Zero",
+      "googlebot-news": "index, follow",
+      "og:site_name": "Christian Post",
+      "og:url": "http://www.christianpost.com/news/rick-warren-9-11-national-prayer-day-planned-2-blocks-from-ground-zero-54810/",
+      "og:type": "article",
+      "og:title": "Rick Warren: 9/11 National Prayer Day Planned 2 Blocks From Ground Zero",
+      "og:image": "http://images.christianpost.com/thumb/47421/wtc.jpg",
+      "og:description": "A church located two blocks from New York City’s ground zero, which was planted in Manhattan shortly after the 9/11 terrorist attacks on the U.S., will be part of the live webcast memorial services led by Orange County, Calif., megachurch pastor Rick Warren.",
+      "fb:app_id": "201239059893766",
+      "fb:page_id": "41093998634",
+      "syndication-source": "http://www.christianpost.com/news/rick-warren-9-11-national-prayer-day-planned-2-blocks-from-ground-zero-54810/"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Rick Warren pulls anti-gay language from his Web site",
+   "htmlTitle": "\u003cb\u003eRick Warren\u003c/b\u003e pulls anti-gay language from his Web site",
+   "link": "http://www.americablog.com/2008/12/rick-warren-pulls-anti-gay-language.html",
+   "displayLink": "www.americablog.com",
+   "snippet": "Dec 22, 2008 ... So Rick Warren pulled the anti-gay language from his church Web site. The site   used to explicitly ban gays from membership in the church.",
+   "htmlSnippet": "Dec 22, 2008 \u003cb\u003e...\u003c/b\u003e So \u003cb\u003eRick Warren\u003c/b\u003e pulled the anti-gay language from his church Web site. The site \u003cbr\u003e  used to explicitly ban gays from membership in the church.",
+   "formattedUrl": "www.americablog.com/2008/12/rick-warren-pulls-anti-gay-language.html",
+   "htmlFormattedUrl": "www.americablog.com/2008/12/\u003cb\u003erick\u003c/b\u003e-\u003cb\u003ewarren\u003c/b\u003e-pulls-anti-gay-language.html",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://1.bp.blogspot.com/_1xQeOPE9ePU/SUv9WdHa8EI/AAAAAAAADBg/rjsnxsln4gY/s400/warrenchurchbansgays.jpg",
+      "type": "1",
+      "width": "282",
+      "height": "178"
+     }
+    ],
+    "article": [
+     {
+      "title": "Rick Warren pulls anti-gay language from his Web site",
+      "type": "article",
+      "url": "http://www.americablog.com/2008/12/rick-warren-pulls-anti-gay-language.html",
+      "image": "http://1.bp.blogspot.com/_1xQeOPE9ePU/ScWid4bsU-I/AAAAAAAADVQ/FTit0ViINwA/s400/apple-touch-icon.png",
+      "admins": "504024627",
+      "site_name": "US Politics | AMERICAblog News"
+     }
+    ],
+    "metatags": [
+     {
+      "og:title": "Rick Warren pulls anti-gay language from his Web site",
+      "og:type": "article",
+      "og:url": "http://www.americablog.com/2008/12/rick-warren-pulls-anti-gay-language.html",
+      "og:image": "http://1.bp.blogspot.com/_1xQeOPE9ePU/ScWid4bsU-I/AAAAAAAADVQ/FTit0ViINwA/s400/apple-touch-icon.png",
+      "fb:admins": "504024627",
+      "og:site_name": "US Politics | AMERICAblog News"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Picard's response to Rick Warren - YouTube",
+   "htmlTitle": "Picard&#39;s response to \u003cb\u003eRick Warren\u003c/b\u003e - YouTube",
+   "link": "http://www.youtube.com/watch?v=Jj-TlRi_uj4",
+   "displayLink": "www.youtube.com",
+   "snippet": "Jan 20, 2009 ... He's just saying what we're all thinking. Comments have been disabled as I am   tired of the ramblings of idiots popping up in my inbox.",
+   "htmlSnippet": "Jan 20, 2009 \u003cb\u003e...\u003c/b\u003e He&#39;s just saying what we&#39;re all thinking. Comments have been disabled as I am \u003cbr\u003e  tired of the ramblings of idiots popping up in my inbox.",
+   "cacheId": "3sFlg4DIafcJ",
+   "formattedUrl": "www.youtube.com/watch?v=Jj-TlRi_uj4",
+   "htmlFormattedUrl": "www.youtube.com/watch?v=Jj-TlRi_uj4",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://i3.ytimg.com/vi/Jj-TlRi_uj4/mqdefault.jpg",
+      "type": "1",
+      "width": "256",
+      "height": "144"
+     }
+    ],
+    "videoobject": [
+     {
+      "url": "http://www.youtube.com/watch?v=Jj-TlRi_uj4",
+      "name": "Picard's response to Rick Warren",
+      "description": "He's just saying what we're all thinking. Comments have been disabled as I am tired of the ramblings of idiots popping up in my inbox.",
+      "duration": "PT0M6S",
+      "unlisted": "False",
+      "paid": "False",
+      "thumbnailurl": "http://i3.ytimg.com/vi/Jj-TlRi_uj4/hqdefault.jpg",
+      "embedurl": "http://www.youtube.com/v/Jj-TlRi_uj4?version=3&autohide=1",
+      "playertype": "Flash",
+      "width": "640",
+      "height": "480"
+     }
+    ],
+    "person": [
+     {
+      "url": "http://www.youtube.com/user/stevenc123"
+     }
+    ],
+    "metatags": [
+     {
+      "title": "Picard's response to Rick Warren",
+      "og:url": "http://www.youtube.com/watch?v=Jj-TlRi_uj4",
+      "og:title": "Picard's response to Rick Warren",
+      "og:description": "He's just saying what we're all thinking. Comments have been disabled as I am tired of the ramblings of idiots popping up in my inbox.",
+      "og:type": "video",
+      "og:image": "http://i3.ytimg.com/vi/Jj-TlRi_uj4/mqdefault.jpg",
+      "og:video": "http://www.youtube.com/v/Jj-TlRi_uj4?version=3&autohide=1",
+      "og:video:type": "application/x-shockwave-flash",
+      "og:video:width": "640",
+      "og:video:height": "480",
+      "og:site_name": "YouTube",
+      "fb:app_id": "87741124305",
+      "twitter:player:width": "640",
+      "twitter:player:height": "480",
+      "attribution": "youtube_none/"
+     }
+    ],
+    "imageobject": [
+     {
+      "url": "http://i3.ytimg.com/vi/Jj-TlRi_uj4/mqdefault.jpg",
+      "width": "320",
+      "height": "180"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Rick Warren Interview on Muslims, Evangelism & Missions",
+   "htmlTitle": "\u003cb\u003eRick Warren\u003c/b\u003e Interview on Muslims, Evangelism &amp; Missions",
+   "link": "http://www.edstetzer.com/2012/03/rick-warren-interview-on-musli.html",
+   "displayLink": "www.edstetzer.com",
+   "snippet": "Mar 2, 2012 ... Once again, watchbloggers are accusing Rick Warren of heresy. Why? Because,   Warren explains, a secular Orange County newspaper got ...",
+   "htmlSnippet": "Mar 2, 2012 \u003cb\u003e...\u003c/b\u003e Once again, watchbloggers are accusing \u003cb\u003eRick Warren\u003c/b\u003e of heresy. Why? Because, \u003cbr\u003e  Warren explains, a secular Orange County newspaper got \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "lh6ElHZJZ4EJ",
+   "formattedUrl": "www.edstetzer.com/2012/03/rick-warren-interview-on-musli.html",
+   "htmlFormattedUrl": "www.edstetzer.com/2012/03/\u003cb\u003erick\u003c/b\u003e-\u003cb\u003ewarren\u003c/b\u003e-interview-on-musli.html",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.lifeway.com/images/ed3e2fe2-c59b-4a21-b728-12b638777718?width=68",
+      "type": "1",
+      "width": "63",
+      "height": "84"
+     }
+    ],
+    "metatags": [
+     {
+      "fb:page_id": "209732195441"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Rick Warren Endorses Prop 8 - YouTube",
+   "htmlTitle": "\u003cb\u003eRick Warren\u003c/b\u003e Endorses Prop 8 - YouTube",
+   "link": "http://www.youtube.com/watch?v=7o4QqGbQmU0",
+   "displayLink": "www.youtube.com",
+   "snippet": "Oct 24, 2008 ... http://www.rightwingwatch.org/content/rick-warren-surprises-nobody-his-support-  prop-8 \"New Evangelical\" leader Rick Warren comes out ...",
+   "htmlSnippet": "Oct 24, 2008 \u003cb\u003e...\u003c/b\u003e http://www.rightwingwatch.org/content/\u003cb\u003erick\u003c/b\u003e-\u003cb\u003ewarren\u003c/b\u003e-surprises-nobody-his-support-\u003cbr\u003e  prop-8 &quot;New Evangelical&quot; leader \u003cb\u003eRick Warren\u003c/b\u003e comes out \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "6qFcXm5DnzYJ",
+   "formattedUrl": "www.youtube.com/watch?v=7o4QqGbQmU0",
+   "htmlFormattedUrl": "www.youtube.com/watch?v=7o4QqGbQmU0",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://i4.ytimg.com/vi/7o4QqGbQmU0/mqdefault.jpg",
+      "type": "1",
+      "width": "256",
+      "height": "144"
+     }
+    ],
+    "videoobject": [
+     {
+      "url": "http://www.youtube.com/watch?v=7o4QqGbQmU0",
+      "name": "Rick Warren Endorses Prop 8",
+      "description": "http://www.rightwingwatch.org/content/rick-warren-surprises-nobody-his-support-prop-8 \"New Evangelical\" leader Rick Warren comes out forcefully in support of...",
+      "duration": "PT2M15S",
+      "unlisted": "False",
+      "paid": "False",
+      "thumbnailurl": "http://i4.ytimg.com/vi/7o4QqGbQmU0/hqdefault.jpg",
+      "embedurl": "http://www.youtube.com/v/7o4QqGbQmU0?version=3&autohide=1",
+      "playertype": "Flash",
+      "width": "480",
+      "height": "360"
+     }
+    ],
+    "person": [
+     {
+      "url": "http://www.youtube.com/user/RightWingWatchdotorg"
+     }
+    ],
+    "metatags": [
+     {
+      "title": "Rick Warren Endorses Prop 8",
+      "og:url": "http://www.youtube.com/watch?v=7o4QqGbQmU0",
+      "og:title": "Rick Warren Endorses Prop 8",
+      "og:description": "http://www.rightwingwatch.org/content/rick-warren-surprises-nobody-his-support-prop-8 \"New Evangelical\" leader Rick Warren comes out forcefully in support of...",
+      "og:type": "video",
+      "og:image": "http://i4.ytimg.com/vi/7o4QqGbQmU0/mqdefault.jpg",
+      "og:video": "http://www.youtube.com/v/7o4QqGbQmU0?version=3&autohide=1",
+      "og:video:type": "application/x-shockwave-flash",
+      "og:video:width": "480",
+      "og:video:height": "360",
+      "og:site_name": "YouTube",
+      "fb:app_id": "87741124305",
+      "twitter:player:width": "480",
+      "twitter:player:height": "360",
+      "attribution": "youtube_none/"
+     }
+    ],
+    "imageobject": [
+     {
+      "url": "http://i4.ytimg.com/vi/7o4QqGbQmU0/mqdefault.jpg",
+      "width": "320",
+      "height": "180"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "The Faith Divide: Rick Warren, Interfaith Activist - On Faith at ...",
+   "htmlTitle": "The Faith Divide: \u003cb\u003eRick Warren\u003c/b\u003e, Interfaith Activist - On Faith at \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://onfaith.washingtonpost.com/onfaith/eboo_patel/2008/09/rick_warren_interfaith_activis.html",
+   "displayLink": "onfaith.washingtonpost.com",
+   "snippet": "Sep 29, 2008 ... Rick Warren is our new Billy Graham - at the center of not only his own ... There   has been a lot of talk about the risks that Warren has taken ...",
+   "htmlSnippet": "Sep 29, 2008 \u003cb\u003e...\u003c/b\u003e \u003cb\u003eRick Warren\u003c/b\u003e is our new Billy Graham - at the center of not only his own \u003cb\u003e...\u003c/b\u003e There \u003cbr\u003e  has been a lot of talk about the risks that Warren has taken \u003cb\u003e...\u003c/b\u003e",
+   "formattedUrl": "onfaith.washingtonpost.com/onfaith/.../rick_warren_interfaith_activis.html",
+   "htmlFormattedUrl": "onfaith.washingtonpost.com/onfaith/.../\u003cb\u003erick\u003c/b\u003e_\u003cb\u003ewarren\u003c/b\u003e_interfaith_activis.html"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Rick Warren Gives Easter Message in 3D?",
+   "htmlTitle": "\u003cb\u003eRick Warren\u003c/b\u003e Gives Easter Message in 3D?",
+   "link": "http://www.christianpost.com/news/rick-warren-gives-easter-message-in-3d-72819/",
+   "displayLink": "www.christianpost.com",
+   "snippet": "Apr 7, 2012 ... Perhaps the reason many people don't get excited about Easter is that they do   not know the full meaning of Jesus' resurrection and are not ...",
+   "htmlSnippet": "Apr 7, 2012 \u003cb\u003e...\u003c/b\u003e Perhaps the reason many people don&#39;t get excited about Easter is that they do \u003cbr\u003e  not know the full meaning of Jesus&#39; resurrection and are not \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "ysRzWy5P96sJ",
+   "formattedUrl": "www.christianpost.com/.../rick-warren-gives-easter-message-in-3d-72819/",
+   "htmlFormattedUrl": "www.christianpost.com/.../\u003cb\u003erick\u003c/b\u003e-\u003cb\u003ewarren\u003c/b\u003e-gives-easter-message-in-3d-72819/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://images.christianpost.com/thumb/52286/rick-warren.jpg",
+      "type": "1",
+      "width": "92",
+      "height": "80"
+     }
+    ],
+    "metatags": [
+     {
+      "author": "Christian Post",
+      "copyright": "2012 Christian Post",
+      "title": "Rick Warren Gives Easter Message in 3D?",
+      "googlebot-news": "index, follow",
+      "og:site_name": "Christian Post",
+      "og:url": "http://www.christianpost.com/news/rick-warren-gives-easter-message-in-3d-72819/",
+      "og:type": "article",
+      "og:title": "Rick Warren Gives Easter Message in 3D?",
+      "og:image": "http://images.christianpost.com/thumb/52286/rick-warren.jpg",
+      "og:description": "Perhaps the reason many people don't get excited about Easter is that they do not know the full meaning of Jesus' resurrection and are not viewing the holy day in \"3D,\" said Saddleback Church Pastor Rick Warren during one of the first of his weekend service messages Friday.",
+      "fb:app_id": "201239059893766",
+      "fb:page_id": "41093998634",
+      "syndication-source": "http://www.christianpost.com/news/rick-warren-gives-easter-message-in-3d-72819/"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "And So It's Begun – Pastor Rick Warren Puts Romney's Religion On ...",
+   "htmlTitle": "And So It&#39;s Begun – Pastor \u003cb\u003eRick Warren\u003c/b\u003e Puts Romney&#39;s Religion On \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://www.addictinginfo.org/2012/04/08/and-so-its-begun-pastor-rick-warren-puts-romneys-religion-on-display-evangelicals-starting-to-support-obama-video/",
+   "displayLink": "www.addictinginfo.org",
+   "snippet": "Apr 8, 2012 ... Pastor Rick Warren of the evangelical Saddleback Church doesn't believe that   Romney is a “real” Christian. On a Sunday interview with ABC, ...",
+   "htmlSnippet": "Apr 8, 2012 \u003cb\u003e...\u003c/b\u003e Pastor \u003cb\u003eRick Warren\u003c/b\u003e of the evangelical Saddleback Church doesn&#39;t believe that \u003cbr\u003e  Romney is a “real” Christian. On a Sunday interview with ABC, \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "2ZdTNc_k9psJ",
+   "formattedUrl": "www.addictinginfo.org/.../and-so-its-begun-pastor-rick-warren-puts-romneys -religion-on-display-evangelicals-starting-to-support-obama-video/",
+   "htmlFormattedUrl": "www.addictinginfo.org/.../and-so-its-begun-pastor-\u003cb\u003erick\u003c/b\u003e-\u003cb\u003ewarren\u003c/b\u003e-puts-romneys -religion-on-display-evangelicals-starting-to-support-obama-video/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.addictinginfo.org/wp-content/uploads/2012/04/Unknown-16-150x150.jpg",
+      "type": "1",
+      "width": "120",
+      "height": "120"
+     }
+    ],
+    "metatags": [
+     {
+      "og:title": "And So It’s Begun – Pastor Rick Warren Puts Romney’s Religion On Display, Evangelicals Starting To Support Obama (VIDEO)",
+      "og:site_name": "Addicting Info",
+      "og:url": "http://www.addictinginfo.org/2012/04/08/and-so-its-begun-pastor-rick-warren-puts-romneys-religion-on-display-evangelicals-starting-to-support-obama-video/",
+      "og:type": "article",
+      "fb:app_id": "243464372356630",
+      "og:image": "http://www.addictinginfo.org/wp-content/uploads/2012/04/Unknown-16-150x150.jpg",
+      "og:description": "This year's Presidential election will prove to be an interesting one for the evangelical Christian base of the Republican party. Presuming Mitt Romney wins the GOP nomination, voters are going to have to choose between two candidates whose American birthrights and religion are being scrutinized, by those on the right."
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Rick Warren's Dissertation Advisor Leads Network Promoting Uganda",
+   "htmlTitle": "\u003cb\u003eRick Warren&#39;s\u003c/b\u003e Dissertation Advisor Leads Network Promoting Uganda",
+   "link": "http://www.talk2action.org/story/2009/12/4/134435/084/",
+   "displayLink": "www.talk2action.org",
+   "snippet": "Dec 4, 2009 ... In 2008 Rick Warren declared that, following Rwanda, Uganda was the world's   second official \"Purpose Driven\" nation. Uganda is currently in ...",
+   "htmlSnippet": "Dec 4, 2009 \u003cb\u003e...\u003c/b\u003e In 2008 \u003cb\u003eRick Warren\u003c/b\u003e declared that, following Rwanda, Uganda was the world&#39;s \u003cbr\u003e  second official &quot;Purpose Driven&quot; nation. Uganda is currently in \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "vR1CCNEidn8J",
+   "formattedUrl": "www.talk2action.org/story/2009/12/4/134435/084/",
+   "htmlFormattedUrl": "www.talk2action.org/story/2009/12/4/134435/084/"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Rick Warren: Stopping Gay Marriage 'Very Low' on Priority List - God ...",
+   "htmlTitle": "\u003cb\u003eRick Warren\u003c/b\u003e: Stopping Gay Marriage &#39;Very Low&#39; on Priority List - God \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://www.usnews.com/news/blogs/god-and-country/2009/04/07/rick-warren-stopping-gay-marriage-very-low-on-priority-list",
+   "displayLink": "www.usnews.com",
+   "snippet": "Apr 7, 2009 ... The evangelical pastor says that he has never been an anti-gay-marriage activist.",
+   "htmlSnippet": "Apr 7, 2009 \u003cb\u003e...\u003c/b\u003e The evangelical pastor says that he has never been an anti-gay-marriage activist.",
+   "cacheId": "Tz4XIg1DH_8J",
+   "formattedUrl": "www.usnews.com/.../rick-warren-stopping-gay-marriage-very-low-on- priority-list",
+   "htmlFormattedUrl": "www.usnews.com/.../\u003cb\u003erick\u003c/b\u003e-\u003cb\u003ewarren\u003c/b\u003e-stopping-gay-marriage-very-low-on- priority-list",
+   "pagemap": {
+    "metatags": [
+     {
+      "authors": "Dan Gilgoff",
+      "social_id": "http://t.usnews.com/b5AD6",
+      "site": "news",
+      "zone": "god-and-country/blogentries",
+      "usn-content-type": "article",
+      "usn-comments-mode": "classic",
+      "fb:page_id": "5834919267",
+      "msvalidate.01": "A8E47FA91124063A4A9C78AD5273DC0F"
+     }
+    ]
+   }
+  }
+ ]
+}

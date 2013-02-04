@@ -1,0 +1,259 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "nextPage": [
+   {
+    "title": "Google Custom Search - diabetes education",
+    "totalResults": "27000000",
+    "searchTerms": "diabetes education",
+    "count": 10,
+    "startIndex": 101,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "017401104989814545383:mf4lavmtuva"
+   }
+  ],
+  "request": [
+   {
+    "title": "Google Custom Search - diabetes education",
+    "totalResults": "27000000",
+    "searchTerms": "diabetes education",
+    "count": 10,
+    "startIndex": 91,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "017401104989814545383:mf4lavmtuva"
+   }
+  ],
+  "previousPage": [
+   {
+    "title": "Google Custom Search - diabetes education",
+    "totalResults": "27000000",
+    "searchTerms": "diabetes education",
+    "count": 10,
+    "startIndex": 81,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "017401104989814545383:mf4lavmtuva"
+   }
+  ]
+ },
+ "context": {
+  "title": "College MetaSearch Comparison"
+ },
+ "searchInformation": {
+  "searchTime": 0.200021,
+  "formattedSearchTime": "0.20",
+  "totalResults": "27000000",
+  "formattedTotalResults": "27,000,000"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "Diabetes Education: Why It's so Crucial to Care | Joslin Diabetes ...",
+   "htmlTitle": "\u003cb\u003eDiabetes Education\u003c/b\u003e: Why It&#39;s so Crucial to Care | Joslin Diabetes \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://www.joslin.org/info/diabetes_education_why_its_so_crucial_to_care.html",
+   "displayLink": "www.joslin.org",
+   "snippet": "Diabetes education is the cornerstone of diabetes management, because   diabetes requires day-to-day knowledge of nutrition, exercise, monitoring, and ...",
+   "htmlSnippet": "\u003cb\u003eDiabetes education\u003c/b\u003e is the cornerstone of diabetes management, because \u003cbr\u003e  diabetes requires day-to-day knowledge of nutrition, exercise, monitoring, and \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "XU-xWfpPT-sJ",
+   "formattedUrl": "www.joslin.org/.../diabetes_education_why_its_so_crucial_to_care.html",
+   "htmlFormattedUrl": "www.joslin.org/.../\u003cb\u003ediabetes\u003c/b\u003e_\u003cb\u003eeducation\u003c/b\u003e_why_its_so_crucial_to_care.html",
+   "pagemap": {
+    "metatags": [
+     {
+      "title": "Joslin Diabetes Center | Diabetes Education: Why It’s so Crucial to Care",
+      "author": "Joslin Diabetes Center www.joslin.org",
+      "author-email": "webmaster@joslin.harvard.edu",
+      "classification": "Medical",
+      "distribution": "global",
+      "reply-to": "webmaster@joslin.harvard.edu",
+      "copyright": "2006",
+      "language": "English",
+      "toc": "purl=;title=index.asp",
+      "rating": "General",
+      "document-class": "Living Document",
+      "document-classification": "Medical",
+      "document-rights": "Public",
+      "document-type": "Public",
+      "document-rating": "General",
+      "document-distribution": "Global",
+      "cache-control": "Public"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Diabetes Education | Feather River Hospital",
+   "htmlTitle": "\u003cb\u003eDiabetes Education\u003c/b\u003e | Feather River Hospital",
+   "link": "http://www.frhosp.org/medical/diabetes.php",
+   "displayLink": "www.frhosp.org",
+   "snippet": "Diabetes Education. Feeding tired or blue? Do your legs and feet burn, tingle or   ache? Having problems with intimacy? Feeling guilty when you eat desserts or ...",
+   "htmlSnippet": "\u003cb\u003eDiabetes Education\u003c/b\u003e. Feeding tired or blue? Do your legs and feet burn, tingle or \u003cbr\u003e  ache? Having problems with intimacy? Feeling guilty when you eat desserts or \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "rqEX61bBGUYJ",
+   "formattedUrl": "www.frhosp.org/medical/diabetes.php",
+   "htmlFormattedUrl": "www.frhosp.org/medical/\u003cb\u003ediabetes\u003c/b\u003e.php"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Diabetes Patient Education Materials from BD",
+   "htmlTitle": "\u003cb\u003eDiabetes\u003c/b\u003e Patient \u003cb\u003eEducation\u003c/b\u003e Materials from BD",
+   "link": "http://www.bd.com/us/diabetes/hcp/main.aspx?cat=3066",
+   "displayLink": "www.bd.com",
+   "snippet": "Literature, slide sets, and training tools to train diabetes patients on injection   therapy.",
+   "htmlSnippet": "Literature, slide sets, and training tools to train \u003cb\u003ediabetes\u003c/b\u003e patients on injection \u003cbr\u003e  therapy.",
+   "cacheId": "iPC4dMk8jB0J",
+   "formattedUrl": "www.bd.com/us/diabetes/hcp/main.aspx?cat=3066",
+   "htmlFormattedUrl": "www.bd.com/us/\u003cb\u003ediabetes\u003c/b\u003e/hcp/main.aspx?cat=3066",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.bd.com/resource.aspx?IDX=23658",
+      "type": "1",
+      "width": "120",
+      "height": "109"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Diabetes Education",
+   "htmlTitle": "\u003cb\u003eDiabetes Education\u003c/b\u003e",
+   "link": "http://www.parknicollet.com/for-health-professionals/continuing-medical-education/diabetes-education",
+   "displayLink": "www.parknicollet.com",
+   "snippet": "Approximately 25.8 million people in the United States have diabetes. Of these, 7   million are unaware that they even have the disease. These numbers continue ...",
+   "htmlSnippet": "Approximately 25.8 million people in the United States have \u003cb\u003ediabetes\u003c/b\u003e. Of these, 7 \u003cbr\u003e  million are unaware that they even have the disease. These numbers continue \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "1S7bhzFoCf4J",
+   "formattedUrl": "www.parknicollet.com/for-health...education/diabetes-education",
+   "htmlFormattedUrl": "www.parknicollet.com/for-health...\u003cb\u003eeducation\u003c/b\u003e/\u003cb\u003ediabetes\u003c/b\u003e-\u003cb\u003eeducation\u003c/b\u003e"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "CDC - Diabetes Public Health Resource - Diabetes DDT",
+   "htmlTitle": "CDC - \u003cb\u003eDiabetes\u003c/b\u003e Public Health Resource - \u003cb\u003eDiabetes\u003c/b\u003e DDT",
+   "link": "http://www.cdc.gov/diabetes/",
+   "displayLink": "www.cdc.gov",
+   "snippet": "Basic Information, Frequently Asked Questions, Prevent Diabetes... NDEP   Education Resources. Partner Information, Community Intervention Tools,   Education.",
+   "htmlSnippet": "Basic Information, Frequently Asked Questions, Prevent \u003cb\u003eDiabetes\u003c/b\u003e... NDEP \u003cbr\u003e  \u003cb\u003eEducation\u003c/b\u003e Resources. Partner Information, Community Intervention Tools, \u003cbr\u003e  \u003cb\u003eEducation\u003c/b\u003e.",
+   "cacheId": "KEQQh-xGw4kJ",
+   "formattedUrl": "www.cdc.gov/diabetes/",
+   "htmlFormattedUrl": "www.cdc.gov/\u003cb\u003ediabetes\u003c/b\u003e/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.cdc.gov/diabetes/prevention/images/ndpp_logo.jpg",
+      "type": "1",
+      "width": "128",
+      "height": "57"
+     }
+    ],
+    "metatags": [
+     {
+      "dc.language": "eng",
+      "template.version": "2.4.0"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Diabetes Education",
+   "htmlTitle": "\u003cb\u003eDiabetes Education\u003c/b\u003e",
+   "link": "http://www.claxtonhepburn.org/Services/Diabetes_Education/",
+   "displayLink": "www.claxtonhepburn.org",
+   "snippet": "This program is recognized by the American Diabetes Association. Our Diabetes   Education Program creates a learning environment for our diabetes population ...",
+   "htmlSnippet": "This program is recognized by the American Diabetes Association. Our \u003cb\u003eDiabetes\u003c/b\u003e \u003cbr\u003e  \u003cb\u003eEducation\u003c/b\u003e Program creates a learning environment for our diabetes population \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "AeolFO3BOvAJ",
+   "formattedUrl": "www.claxtonhepburn.org/Services/Diabetes_Education/",
+   "htmlFormattedUrl": "www.claxtonhepburn.org/Services/\u003cb\u003eDiabetes\u003c/b\u003e_\u003cb\u003eEducation\u003c/b\u003e/"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Integrated Diabetes Services",
+   "htmlTitle": "Integrated \u003cb\u003eDiabetes\u003c/b\u003e Services",
+   "link": "http://www.integrateddiabetes.com/",
+   "displayLink": "www.integrateddiabetes.com",
+   "snippet": "Looking for advanced diabetes education from the comfort of your home/office, at   a time that's convenient for you? TYPE-1 UNIVERSITY is the only web-based ...",
+   "htmlSnippet": "Looking for advanced \u003cb\u003ediabetes education\u003c/b\u003e from the comfort of your home/office, at \u003cbr\u003e  a time that&#39;s convenient for you? TYPE-1 UNIVERSITY is the only web-based \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "kQoC3JLgtCQJ",
+   "formattedUrl": "www.integrateddiabetes.com/",
+   "htmlFormattedUrl": "www.integrated\u003cb\u003ediabetes\u003c/b\u003e.com/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.integrateddiabetes.com/cms/uploads/Now.gif",
+      "type": "1",
+      "width": "144",
+      "height": "208"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Diabetes Education | Goshen | IU Health",
+   "htmlTitle": "\u003cb\u003eDiabetes Education\u003c/b\u003e | Goshen | IU Health",
+   "link": "http://iuhealth.org/goshen/diabetes-education/",
+   "displayLink": "iuhealth.org",
+   "snippet": "Despite all of the advances in diabetes treatment, education remains the   cornerstone of diabetes management. Differences in diet, exercise levels, stress   and ...",
+   "htmlSnippet": "Despite all of the advances in \u003cb\u003ediabetes\u003c/b\u003e treatment, \u003cb\u003eeducation\u003c/b\u003e remains the \u003cbr\u003e  cornerstone of \u003cb\u003ediabetes\u003c/b\u003e management. Differences in diet, exercise levels, stress \u003cbr\u003e  and \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "zXavEWI8iLEJ",
+   "formattedUrl": "iuhealth.org/goshen/diabetes-education/",
+   "htmlFormattedUrl": "iuhealth.org/goshen/\u003cb\u003ediabetes\u003c/b\u003e-\u003cb\u003eeducation\u003c/b\u003e/"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Role of the Diabetes Educator",
+   "htmlTitle": "Role of the \u003cb\u003eDiabetes Educator\u003c/b\u003e",
+   "link": "http://www.diabeteseducator.org/export/sites/aade/_resources/pdf/Definition_Diabetes_Educator.pdf",
+   "displayLink": "www.diabeteseducator.org",
+   "snippet": "Diabetes educators are healthcare professionals who focus on helping people ...   Diabetes educators apply in-depth knowledge and skills in the biological and ...",
+   "htmlSnippet": "\u003cb\u003eDiabetes educators\u003c/b\u003e are healthcare professionals who focus on helping people \u003cb\u003e...\u003c/b\u003e \u003cbr\u003e  \u003cb\u003eDiabetes educators\u003c/b\u003e apply in-depth knowledge and skills in the biological and \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "cLaOxbIJQsEJ",
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat",
+   "formattedUrl": "www.diabeteseducator.org/export/.../Definition_Diabetes_Educator.pdf",
+   "htmlFormattedUrl": "www.\u003cb\u003ediabeteseducator\u003c/b\u003e.org/export/.../Definition_\u003cb\u003eDiabetes\u003c/b\u003e_\u003cb\u003eEducator\u003c/b\u003e.pdf",
+   "pagemap": {
+    "metatags": [
+     {
+      "producer": "AFPL Ghostscript 8.53",
+      "creationdate": "D:20080206120517-06'00'",
+      "moddate": "D:20080206120517-06'00'",
+      "title": "Definition_Diabetes_Educator",
+      "creator": "PDFCreator Version 0.9.0",
+      "author": "dpihos"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Diabetes Education | Good Samaritan Health System",
+   "htmlTitle": "\u003cb\u003eDiabetes Education\u003c/b\u003e | Good Samaritan Health System",
+   "link": "http://www.gshleb.org/Main/DiabetesEducation.aspx",
+   "displayLink": "www.gshleb.org",
+   "snippet": "Our Diabetes Education program is designed for people who want to learn more   about their diabetes and how to keep themselves well. We focus on what is ...",
+   "htmlSnippet": "Our \u003cb\u003eDiabetes Education\u003c/b\u003e program is designed for people who want to learn more \u003cbr\u003e  about their diabetes and how to keep themselves well. We focus on what is \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "7r-JfOHDm0wJ",
+   "formattedUrl": "www.gshleb.org/Main/DiabetesEducation.aspx",
+   "htmlFormattedUrl": "www.gshleb.org/Main/\u003cb\u003eDiabetesEducation\u003c/b\u003e.aspx",
+   "pagemap": {
+    "metatags": [
+     {
+      "rating": "GENERAL"
+     }
+    ]
+   }
+  }
+ ]
+}

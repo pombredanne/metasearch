@@ -1,0 +1,351 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "nextPage": [
+   {
+    "title": "Google Custom Search - lower heart rate",
+    "totalResults": "24300000",
+    "searchTerms": "lower heart rate",
+    "count": 10,
+    "startIndex": 101,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "017401104989814545383:mf4lavmtuva"
+   }
+  ],
+  "request": [
+   {
+    "title": "Google Custom Search - lower heart rate",
+    "totalResults": "24300000",
+    "searchTerms": "lower heart rate",
+    "count": 10,
+    "startIndex": 91,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "017401104989814545383:mf4lavmtuva"
+   }
+  ],
+  "previousPage": [
+   {
+    "title": "Google Custom Search - lower heart rate",
+    "totalResults": "24300000",
+    "searchTerms": "lower heart rate",
+    "count": 10,
+    "startIndex": 81,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "017401104989814545383:mf4lavmtuva"
+   }
+  ]
+ },
+ "context": {
+  "title": "College MetaSearch Comparison"
+ },
+ "searchInformation": {
+  "searchTime": 0.195595,
+  "formattedSearchTime": "0.20",
+  "totalResults": "24300000",
+  "formattedTotalResults": "24,300,000"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "Lower heart rate variability is associated with higher plasma ...",
+   "htmlTitle": "\u003cb\u003eLower heart rate\u003c/b\u003e variability is associated with higher plasma \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://www.ncbi.nlm.nih.gov/pubmed/17609399",
+   "displayLink": "www.ncbi.nlm.nih.gov",
+   "snippet": "Lower heart rate variability is associated with higher plasma concentrations of IL-  6 in type 1 diabetes. González-Clemente JM, Vilardell C, Broch M, Megia A, ...",
+   "htmlSnippet": "\u003cb\u003eLower heart rate\u003c/b\u003e variability is associated with higher plasma concentrations of IL-\u003cbr\u003e  6 in type 1 diabetes. González-Clemente JM, Vilardell C, Broch M, Megia A, \u003cb\u003e...\u003c/b\u003e",
+   "formattedUrl": "www.ncbi.nlm.nih.gov/pubmed/17609399",
+   "htmlFormattedUrl": "www.ncbi.nlm.nih.gov/pubmed/17609399",
+   "pagemap": {
+    "metatags": [
+     {
+      "citation_title": "Lower heart rate variability is associated with higher plasma concentrations of IL-6 in type 1 diabetes.",
+      "citation_authors": "González-Clemente JM; Vilardell C; Broch M; Megia A; Caixàs A; Giménez-Palop O; Richart C; Simón I; Martínez-Riquelme A; Arroyo J; Mauricio D; Vendrell J",
+      "citation_date": "7/2007",
+      "citation_publisher": "Eur J Endocrinol",
+      "citation_journal_title": "European journal of endocrinology / European Federation of Endocrine Societies",
+      "citation_pmid": "17609399",
+      "citation_abstract_html_url": "http://www.ncbi.nlm.nih.gov/pubmed/17609399",
+      "citation_volume": "157",
+      "citation_issue": "1",
+      "citation_firstpage": "31",
+      "citation_doi": "10.1530/EJE-07-0090",
+      "citation_issn": "0804-4643"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Amazon.com: Impact Sports ePulse Strapless Heart Rate Monitor ...",
+   "htmlTitle": "Amazon.com: Impact Sports ePulse Strapless \u003cb\u003eHeart Rate\u003c/b\u003e Monitor \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://www.amazon.com/Impact-Sports-Strapless-Monitor-Calorimeter/dp/B0019ZDIOK",
+   "displayLink": "www.amazon.com",
+   "snippet": "When I went back to a lower heart rate in the 145-150 bpm range, the watch   started calculating calories burned much more accurately. I have spoken with the ...",
+   "htmlSnippet": "When I went back to a \u003cb\u003elower heart rate\u003c/b\u003e in the 145-150 bpm range, the watch \u003cbr\u003e  started calculating calories burned much more accurately. I have spoken with the \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "GpN-tgAC8FQJ",
+   "formattedUrl": "www.amazon.com/Impact-Sports-Strapless.../dp/B0019ZDIOK",
+   "htmlFormattedUrl": "www.amazon.com/Impact-Sports-Strapless.../dp/B0019ZDIOK",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://ecx.images-amazon.com/images/I/51X7fAbR4FL._SL500_SS500_.jpg",
+      "type": "1",
+      "width": "225",
+      "height": "225"
+     }
+    ],
+    "scraped": [
+     {
+      "image_link": "http://ecx.images-amazon.com/images/I/51X7fAbR4FL._SL500_AA300_.jpg"
+     }
+    ],
+    "metatags": [
+     {
+      "title": "Amazon.com: Impact Sports ePulse Strapless Heart Rate Monitor Watch and Calorimeter: Sports & Outdoors"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "KETTLEBELL FITNESS NEWS: Healthy Ways to a Lower Heart Rate",
+   "htmlTitle": "KETTLEBELL FITNESS NEWS: Healthy Ways to a \u003cb\u003eLower Heart Rate\u003c/b\u003e",
+   "link": "http://www.kbmike.com/2008/12/healthy-ways-to-lower-your-heart-rate.html",
+   "displayLink": "www.kbmike.com",
+   "snippet": "Controlling heart rate is something I've become very familiar with while training   firefighters and kettlebell athletes. In both situations a lower heart rate translates ...",
+   "htmlSnippet": "Controlling heart rate is something I&#39;ve become very familiar with while training \u003cbr\u003e  firefighters and kettlebell athletes. In both situations a \u003cb\u003elower heart rate\u003c/b\u003e translates \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "1jNnKURlHzEJ",
+   "formattedUrl": "www.kbmike.com/2008/.../healthy-ways-to-lower-your-heart-rate.html",
+   "htmlFormattedUrl": "www.kbmike.com/2008/.../healthy-ways-to-\u003cb\u003elower\u003c/b\u003e-your-\u003cb\u003eheart\u003c/b\u003e-\u003cb\u003erate\u003c/b\u003e.html",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://firefightersworkout.com/anfy/summer95x95.jpg",
+      "type": "1",
+      "width": "79",
+      "height": "79"
+     }
+    ],
+    "metatags": [
+     {
+      "viewport": "width=1100"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Calculate Your Target Heart Rate - Exercise.com",
+   "htmlTitle": "Calculate Your Target \u003cb\u003eHeart Rate\u003c/b\u003e - Exercise.com",
+   "link": "http://www.exercise.com/tools/target-heart-rate-calculator",
+   "displayLink": "www.exercise.com",
+   "snippet": "What should I do? If you're resting heart rate is higher than normal, there are   simple steps you can take it lower it. Learn More ▸. View All. Routines ...",
+   "htmlSnippet": "What should I do? If you&#39;re resting \u003cb\u003eheart rate\u003c/b\u003e is higher than normal, there are \u003cbr\u003e  simple steps you can take it \u003cb\u003elower\u003c/b\u003e it. Learn More ▸. View All. Routines \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "PzpGKDq9r8AJ",
+   "formattedUrl": "www.exercise.com/tools/target-heart-rate-calculator",
+   "htmlFormattedUrl": "www.exercise.com/tools/target-\u003cb\u003eheart\u003c/b\u003e-\u003cb\u003erate\u003c/b\u003e-calculator",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://d3vs5ss8iow0ry.cloudfront.net/release-233/images/find-a-program.jpg",
+      "type": "1",
+      "width": "240",
+      "height": "200"
+     }
+    ],
+    "metatags": [
+     {
+      "fb:app_id": "171477416202996",
+      "og:title": "Calculate Your Target Heart Rate",
+      "og:type": "article",
+      "og:url": "http://www.exercise.com/tools/target-heart-rate-calculator",
+      "og:image": "http://www.exercise.com/images/logo-75x75.png",
+      "og:site_name": "Exercise.com",
+      "og:description": "Determine your target heart rate zones for fat loss and exercise"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Bradycardia - Slow or Irregular Heart Rate - Symptoms, Causes ...",
+   "htmlTitle": "Bradycardia - \u003cb\u003eSlow\u003c/b\u003e or Irregular \u003cb\u003eHeart Rate\u003c/b\u003e - Symptoms, Causes \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://www.medtronic.co.uk/your-health/bradycardia/index.htm",
+   "displayLink": "www.medtronic.co.uk",
+   "snippet": "Sep 22, 2010 ... A pacemaker is the most effective treatment for Bradycardia, a slow heart rate.   Information on Bradycardia symptoms, causes, & risk factors and ...",
+   "htmlSnippet": "Sep 22, 2010 \u003cb\u003e...\u003c/b\u003e A pacemaker is the most effective treatment for Bradycardia, a \u003cb\u003eslow heart rate\u003c/b\u003e. \u003cbr\u003e  Information on Bradycardia symptoms, causes, &amp; risk factors and \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "UxNYsar5o90J",
+   "formattedUrl": "www.medtronic.co.uk/your-health/bradycardia/index.htm",
+   "htmlFormattedUrl": "www.medtronic.co.uk/your-health/bradycardia/index.htm",
+   "pagemap": {
+    "metatags": [
+     {
+      "language": "en",
+      "contentid": "UK-_PROD008387",
+      "revision": "1",
+      "y_key": "8a6bd8c13130919c"
+     }
+    ],
+    "hcard": [
+     {
+      "fn": "Medtronic"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Amazon.com: Suunto M4 Heart Rate Monitor: Sports & Outdoors",
+   "htmlTitle": "Amazon.com: Suunto M4 \u003cb\u003eHeart Rate\u003c/b\u003e Monitor: Sports &amp; Outdoors",
+   "link": "http://www.amazon.com/Suunto-M4-Heart-Rate-Monitor/dp/B003X2JQQQ",
+   "displayLink": "www.amazon.com",
+   "snippet": "For example you can't set your own upper/lower heartrate threshold. As an   endurance mountainbike racer my heartrate is relatively low, despite being 30 I ...",
+   "htmlSnippet": "For example you can&#39;t set your own upper/\u003cb\u003elower heartrate\u003c/b\u003e threshold. As an \u003cbr\u003e  endurance mountainbike racer my heartrate is relatively low, despite being 30 I \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "q-muoaL_RlIJ",
+   "formattedUrl": "www.amazon.com/Suunto-M4-Heart-Rate-Monitor/.../B003X2JQQQ",
+   "htmlFormattedUrl": "www.amazon.com/Suunto-M4-\u003cb\u003eHeart\u003c/b\u003e-\u003cb\u003eRate\u003c/b\u003e-Monitor/.../B003X2JQQQ",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://ecx.images-amazon.com/images/I/41B%2BCHoaY%2BL._AA300_.jpg"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "225",
+      "height": "225",
+      "src": "https://encrypted-tbn0.google.com/images?q=tbn:ANd9GcTHretU37I54FY9vUTN-t_xKA-tlrgchYByBt2KHUvM96673Xo_4m7vyGfr"
+     }
+    ],
+    "scraped": [
+     {
+      "image_link": "http://ecx.images-amazon.com/images/I/41B%2BCHoaY%2BL._AA300_.jpg"
+     }
+    ],
+    "metatags": [
+     {
+      "title": "Amazon.com: Suunto M4 Heart Rate Monitor: Sports & Outdoors"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Is low or high-intensity cardio better for burning fat? - Sharecare",
+   "htmlTitle": "Is \u003cb\u003elow\u003c/b\u003e or high-intensity cardio better for burning fat? - Sharecare",
+   "link": "http://www.sharecare.com/question/low-high-intensity-cardio-burning",
+   "displayLink": "www.sharecare.com",
+   "snippet": "Technically, the charts you see at the gym and on exercise machines are right:   With a low heart rate, your body likes to fuel activity by using fat. When you work ...",
+   "htmlSnippet": "Technically, the charts you see at the gym and on exercise machines are right: \u003cbr\u003e  With a \u003cb\u003elow heart rate\u003c/b\u003e, your body likes to fuel activity by using fat. When you work \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "Ossn4tXuCSAJ",
+   "formattedUrl": "www.sharecare.com/question/low-high-intensity-cardio-burning",
+   "htmlFormattedUrl": "www.sharecare.com/question/\u003cb\u003elow\u003c/b\u003e-high-intensity-cardio-burning",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.sharecare.com/images/sc_heart.png"
+     }
+    ],
+    "metatags": [
+     {
+      "title": "Is low or high-intensity cardio better for burning fat? - Sharecare",
+      "og:image": "http://www.sharecare.com/images/sc_heart.png",
+      "og:title": "Is low or high-intensity cardio better for burning fat? - Sharecare",
+      "og:type": "article",
+      "og:url": "http://sharecare.to/lcaw7Z",
+      "og:site_name": "Sharecare",
+      "fb:app_id": "211481248877321"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "More frequent partner hugs and higher oxytocin levels are linked to ...",
+   "htmlTitle": "More frequent partner hugs and higher oxytocin levels are linked to \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://www.ncbi.nlm.nih.gov/pubmed/15740822",
+   "displayLink": "www.ncbi.nlm.nih.gov",
+   "snippet": "More frequent partner hugs and higher oxytocin levels are linked to lower blood   pressure and heart rate in premenopausal women. Light KC, Grewen KM, Amico ...",
+   "htmlSnippet": "More frequent partner hugs and higher oxytocin levels are linked to \u003cb\u003elower\u003c/b\u003e blood \u003cbr\u003e  pressure and \u003cb\u003eheart rate\u003c/b\u003e in premenopausal women. Light KC, Grewen KM, Amico \u003cb\u003e...\u003c/b\u003e",
+   "formattedUrl": "www.ncbi.nlm.nih.gov/pubmed/15740822",
+   "htmlFormattedUrl": "www.ncbi.nlm.nih.gov/pubmed/15740822",
+   "pagemap": {
+    "metatags": [
+     {
+      "citation_title": "More frequent partner hugs and higher oxytocin levels are linked to lower blood pressure and heart rate in premenopausal women.",
+      "citation_authors": "Light KC; Grewen KM; Amico JA",
+      "citation_date": "4/2005",
+      "citation_publisher": "Biol Psychol",
+      "citation_journal_title": "Biological psychology",
+      "citation_pmid": "15740822",
+      "citation_abstract_html_url": "http://www.ncbi.nlm.nih.gov/pubmed/15740822",
+      "citation_volume": "69",
+      "citation_issue": "1",
+      "citation_firstpage": "5",
+      "citation_doi": "10.1016/j.biopsycho.2004.11.002",
+      "citation_issn": "0301-0511"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "aspirin lower heart rate List Of Recommended… on DailyBooth",
+   "htmlTitle": "aspirin \u003cb\u003elower heart rate\u003c/b\u003e List Of Recommended… on DailyBooth",
+   "link": "http://dailybooth.com/emdore/26009791",
+   "displayLink": "dailybooth.com",
+   "snippet": "May 22, 2012 ... Aspirin Lower Heart Rate: Mispredicting affective and educational neoplasms to   condition. If you represent to be dying already or well when ...",
+   "htmlSnippet": "May 22, 2012 \u003cb\u003e...\u003c/b\u003e Aspirin \u003cb\u003eLower Heart Rate\u003c/b\u003e: Mispredicting affective and educational neoplasms to \u003cbr\u003e  condition. If you represent to be dying already or well when \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "8IOBjdc4GwUJ",
+   "formattedUrl": "dailybooth.com/emdore/26009791",
+   "htmlFormattedUrl": "dailybooth.com/emdore/26009791",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://d1oi94rh653f1l.cloudfront.net/11/pictures/large/58e25c60a75eb824a6393f37537744bf_26009791.jpg",
+      "type": "1",
+      "width": "318",
+      "height": "159"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Heart Rhythm Disorders",
+   "htmlTitle": "\u003cb\u003eHeart\u003c/b\u003e Rhythm Disorders",
+   "link": "http://www.hrsonline.org/patientinfo/heartrhythmdisorders/",
+   "displayLink": "www.hrsonline.org",
+   "snippet": "The following arrhythmias originate in the heart's lower chambers,or ventricles.   Ventricular Tachycardia (VT) Characterized by a very fast heart rate, VT usually is ...",
+   "htmlSnippet": "The following arrhythmias originate in the heart&#39;s \u003cb\u003elower\u003c/b\u003e chambers,or ventricles. \u003cbr\u003e  Ventricular Tachycardia (VT) Characterized by a very fast \u003cb\u003eheart rate\u003c/b\u003e, VT usually is \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "MW9PJpEL6NgJ",
+   "formattedUrl": "www.hrsonline.org/patientinfo/heartrhythmdisorders/",
+   "htmlFormattedUrl": "www.hrsonline.org/patientinfo/\u003cb\u003eheart\u003c/b\u003erhythmdisorders/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.hrsonline.org/shared/figleaf/hrsui/images/sections/patient_info.gif",
+      "type": "1",
+      "width": "300",
+      "height": "77"
+     }
+    ],
+    "metatags": [
+     {
+      "datemodified": "2009-09-28"
+     }
+    ]
+   }
+  }
+ ]
+}

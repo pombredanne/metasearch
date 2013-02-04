@@ -1,0 +1,511 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "nextPage": [
+   {
+    "title": "Google Custom Search - pampered chef",
+    "totalResults": "992000",
+    "searchTerms": "pampered chef",
+    "count": 10,
+    "startIndex": 71,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "017401104989814545383:mf4lavmtuva"
+   }
+  ],
+  "request": [
+   {
+    "title": "Google Custom Search - pampered chef",
+    "totalResults": "992000",
+    "searchTerms": "pampered chef",
+    "count": 10,
+    "startIndex": 61,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "017401104989814545383:mf4lavmtuva"
+   }
+  ],
+  "previousPage": [
+   {
+    "title": "Google Custom Search - pampered chef",
+    "totalResults": "992000",
+    "searchTerms": "pampered chef",
+    "count": 10,
+    "startIndex": 51,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "017401104989814545383:mf4lavmtuva"
+   }
+  ]
+ },
+ "context": {
+  "title": "College MetaSearch Comparison"
+ },
+ "searchInformation": {
+  "searchTime": 0.170479,
+  "formattedSearchTime": "0.17",
+  "totalResults": "992000",
+  "formattedTotalResults": "992,000"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "The Pampered Chef Easy Accent Decorator: Amazon.com: Home ...",
+   "htmlTitle": "The \u003cb\u003ePampered Chef\u003c/b\u003e Easy Accent Decorator: Amazon.com: Home \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://www.amazon.com/The-Pampered-Chef-Accent-Decorator/dp/B000IAGUNS",
+   "displayLink": "www.amazon.com",
+   "snippet": "Would you like to give feedback on images? Product Description. Product was   purchased at a Pampered Chef Party and never used. Customer Reviews. (4) ...",
+   "htmlSnippet": "Would you like to give feedback on images? Product Description. Product was \u003cbr\u003e  purchased at a \u003cb\u003ePampered Chef\u003c/b\u003e Party and never used. Customer Reviews. (4) \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "Sk80jI3tKa4J",
+   "formattedUrl": "www.amazon.com/The-Pampered-Chef-Accent.../B000IAGUNS",
+   "htmlFormattedUrl": "www.amazon.com/The-\u003cb\u003ePampered\u003c/b\u003e-\u003cb\u003eChef\u003c/b\u003e-Accent.../B000IAGUNS",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://ecx.images-amazon.com/images/I/41mDoGbc%2BDL._SL500_AA300_.jpg"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "225",
+      "height": "225",
+      "src": "https://encrypted-tbn0.google.com/images?q=tbn:ANd9GcR0UIc8-tmJPqjjwoD8OF82SS-kqwymWX2mK_mEEbAKGemYaJ0EIR1wwPI"
+     }
+    ],
+    "scraped": [
+     {
+      "image_link": "http://ecx.images-amazon.com/images/I/41mDoGbc%2BDL._SL500_AA300_.jpg"
+     }
+    ],
+    "metatags": [
+     {
+      "title": "The Pampered Chef Easy Accent Decorator: Amazon.com: Home & Kitchen"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Ashley Moore - Pampered Chef | Facebook",
+   "htmlTitle": "Ashley Moore - \u003cb\u003ePampered Chef\u003c/b\u003e | Facebook",
+   "link": "http://www.facebook.com/AshleyMoorePamperedChef",
+   "displayLink": "www.facebook.com",
+   "snippet": "Ashley Moore - Pampered Chef is on Facebook. To connect with Ashley Moore -   Pampered Chef, sign up for Facebook today. Sign UpLog In · Cover Photo · Like ...",
+   "htmlSnippet": "Ashley Moore - \u003cb\u003ePampered Chef\u003c/b\u003e is on Facebook. To connect with Ashley Moore - \u003cbr\u003e  \u003cb\u003ePampered Chef\u003c/b\u003e, sign up for Facebook today. Sign UpLog In &middot; Cover Photo &middot; Like \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "LToFGNwA524J",
+   "formattedUrl": "www.facebook.com/AshleyMoorePamperedChef",
+   "htmlFormattedUrl": "www.facebook.com/AshleyMoore\u003cb\u003ePamperedChef\u003c/b\u003e",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://profile.ak.fbcdn.net/hprofile-ak-snc4/161900_144866895568094_4229369_n.jpg",
+      "type": "1",
+      "width": "160",
+      "height": "160"
+     }
+    ],
+    "organization": [
+     {
+      "photo": "http://profile.ak.fbcdn.net/hprofile-ak-snc4/161900_144866895568094_4229369_n.jpg",
+      "name": "Ashley Moore - Pampered Chef",
+      "tel": "1 (641) 740-0277"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "The Pampered Chef: All The Best From our Kitchens to Yours: The",
+   "htmlTitle": "The \u003cb\u003ePampered Chef\u003c/b\u003e: All The Best From our Kitchens to Yours: The",
+   "link": "http://www.amazon.com/The-Pampered-Chef-Kitchens-Yours/dp/B000EH52SO",
+   "displayLink": "www.amazon.com",
+   "snippet": "The Pampered Chef: All The Best From our Kitchens to Yours [The Pampered   Chef] on Amazon.com. *FREE* super saver shipping on qualifying offers.",
+   "htmlSnippet": "The \u003cb\u003ePampered Chef\u003c/b\u003e: All The Best From our Kitchens to Yours [The \u003cb\u003ePampered\u003c/b\u003e \u003cbr\u003e  \u003cb\u003eChef\u003c/b\u003e] on Amazon.com. *FREE* super saver shipping on qualifying offers.",
+   "cacheId": "wib2CZ058rgJ",
+   "formattedUrl": "www.amazon.com/The-Pampered-Chef-Kitchens.../B000EH52SO",
+   "htmlFormattedUrl": "www.amazon.com/The-\u003cb\u003ePampered\u003c/b\u003e-\u003cb\u003eChef\u003c/b\u003e-Kitchens.../B000EH52SO",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://ecx.images-amazon.com/images/I/61WVH5N134L._SL500_AA300_.jpg"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "225",
+      "height": "225",
+      "src": "https://encrypted-tbn3.google.com/images?q=tbn:ANd9GcQCBWyFEJfARpIkuuQu0myP6UBNjXJEgmBgasrLgFvgqi0N6NMnQG4DgL0"
+     }
+    ],
+    "scraped": [
+     {
+      "image_link": "http://ecx.images-amazon.com/images/I/61WVH5N134L._SL500_AA300_.jpg"
+     }
+    ],
+    "metatags": [
+     {
+      "title": "Amazon.com: The Pampered Chef:  All The Best From our Kitchens to Yours: The Pampered Chef: Books"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Pampered Chef Chicken Broccoli Braid Recipe",
+   "htmlTitle": "\u003cb\u003ePampered Chef\u003c/b\u003e Chicken Broccoli Braid Recipe",
+   "link": "http://recipes.sparkpeople.com/recipe-detail.asp?recipe=212714",
+   "displayLink": "recipes.sparkpeople.com",
+   "snippet": "Pampered Chef Chicken Broccoli Braid. Submitted by: ROOKIERIDER Use low   cal cheese, rolls and mayo Use low cal cheese, rolls and mayo. Minutes to ...",
+   "htmlSnippet": "\u003cb\u003ePampered Chef\u003c/b\u003e Chicken Broccoli Braid. Submitted by: ROOKIERIDER Use low \u003cbr\u003e  cal cheese, rolls and mayo Use low cal cheese, rolls and mayo. Minutes to \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "3ywH90m24SwJ",
+   "formattedUrl": "recipes.sparkpeople.com/recipe-detail.asp?recipe=212714",
+   "htmlFormattedUrl": "recipes.sparkpeople.com/recipe-detail.asp?recipe=212714",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://photos.sparkpeople.com/4/2/l429856835.jpg"
+     }
+    ],
+    "nutrition": [
+     {
+      "calories": "Calories: 215.9",
+      "fat": "7.2 g",
+      "cholesterol": "26.9 mg",
+      "fiber": "1.3 g",
+      "protein": "11.0 g"
+     }
+    ],
+    "review-aggregate": [
+     {
+      "rating": "4.3",
+      "count": "3"
+     }
+    ],
+    "recipe": [
+     {
+      "preptime": "25 min",
+      "cooktime": "25 min",
+      "calories": "Calories: 215.9",
+      "ratingcount": "3",
+      "ratingstars": "4.5",
+      "image_url": "http://photos.sparkpeople.com/4/2/l429856835.jpg"
+     },
+     {
+      "name": "Pampered Chef Chicken Broccoli Braid",
+      "photo": "http://photos.sparkpeople.com/4/2/l429856835.jpg",
+      "summary": "Use low cal cheese, rolls and mayo",
+      "preptime": "PT25M",
+      "cooktime": "PT25M",
+      "instructions": "Preheat oven to 375 degrees. Place Chicken, broccoli, bell pepper in mixing bowl. Add pressed garlic. Add shredded cheese and mix. Add mayonnaise, dill mix, salt then mix. Unroll crescent rolls...",
+      "recipetype": "Poultry | Dinner | Poultry Dinner |"
+     }
+    ],
+    "recipeingredient": [
+     {
+      "name": "2 cups cooked chicken, chopped"
+     }
+    ],
+    "metatags": [
+     {
+      "fb:app_id": "49203228906",
+      "og:title": "Pampered Chef Chicken Broccoli Braid Recipe",
+      "og:type": "article",
+      "og:image": "http://photos.sparkpeople.com/4/2/l429856835.jpg",
+      "og:url": "http://recipes.sparkpeople.com/recipe-detail.asp?recipe=212714",
+      "og:site_name": "SparkRecipes",
+      "og:description": "Use low cal cheese, rolls and mayo"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "PAMPERED CHEF GARLIC PRESS: Amazon.com: Kitchen & Dining",
+   "htmlTitle": "\u003cb\u003ePAMPERED CHEF\u003c/b\u003e GARLIC PRESS: Amazon.com: Kitchen &amp; Dining",
+   "link": "http://www.amazon.com/PAMPERED-CHEF-GARLIC-PRESS/dp/B001UC4VAW",
+   "displayLink": "www.amazon.com",
+   "snippet": "No need to Peel Garlic. Ergonomically designed. Use for more than just garlic,   works for Ginger. Customers Who Viewed This Item Also Viewed. Page of (Start ...",
+   "htmlSnippet": "No need to Peel Garlic. Ergonomically designed. Use for more than just garlic, \u003cbr\u003e  works for Ginger. Customers Who Viewed This Item Also Viewed. Page of (Start \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "7yj2ph7ayhEJ",
+   "formattedUrl": "www.amazon.com/PAMPERED-CHEF-GARLIC.../B001UC4VAW",
+   "htmlFormattedUrl": "www.amazon.com/\u003cb\u003ePAMPERED\u003c/b\u003e-\u003cb\u003eCHEF\u003c/b\u003e-GARLIC.../B001UC4VAW",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://ecx.images-amazon.com/images/I/41-0ELY9MpL._SL500_AA300_.jpg"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "225",
+      "height": "225",
+      "src": "https://encrypted-tbn0.google.com/images?q=tbn:ANd9GcSLgIp3dT5v2KxJx8ZMeByUoGtyW6acWFCVEn1mjkppfKB668BrosP8pCw"
+     }
+    ],
+    "scraped": [
+     {
+      "image_link": "http://ecx.images-amazon.com/images/I/41-0ELY9MpL._SL500_AA300_.jpg"
+     }
+    ],
+    "metatags": [
+     {
+      "title": "PAMPERED CHEF GARLIC PRESS: Amazon.com: Kitchen & Dining"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Pampered Chef Crinkle Cutter Reviews. Buying Guides & Consumer ...",
+   "htmlTitle": "\u003cb\u003ePampered Chef\u003c/b\u003e Crinkle Cutter Reviews. Buying Guides &amp; Consumer \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://www.epinions.com/reviews/Pampered_Chef_Crinkle_Cutter",
+   "displayLink": "www.epinions.com",
+   "snippet": "Epinions.com - Read product reviews on Pampered Chef Crinkle Cutter -   Cooking Tools. Overall Rating: 5 stars from 12 consumer reviews at Epinions.  com.",
+   "htmlSnippet": "Epinions.com - Read product reviews on \u003cb\u003ePampered Chef\u003c/b\u003e Crinkle Cutter - \u003cbr\u003e  Cooking Tools. Overall Rating: 5 stars from 12 consumer reviews at Epinions.\u003cbr\u003e  com.",
+   "cacheId": "w0IBkTBmEwIJ",
+   "formattedUrl": "www.epinions.com/reviews/Pampered_Chef_Crinkle_Cutter",
+   "htmlFormattedUrl": "www.epinions.com/reviews/\u003cb\u003ePampered\u003c/b\u003e_\u003cb\u003eChef\u003c/b\u003e_Crinkle_Cutter",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://di1.shopping.com/images/pi/af/d5/fe/44793841-200x200-0-0.jpg?p=p4.478d66078533e48084ce&a=2&c=1&l=8071320&t=120718120821&r=1"
+     }
+    ],
+    "metatags": [
+     {
+      "fb:app_id": "333446043377600",
+      "og:type": "epinions:review",
+      "og:url": "http://www.epinions.com/reviews/Pampered_Chef_Crinkle_Cutter",
+      "og:title": "Pampered Chef Crinkle Cutter Reviews. Buying Guides & Consumer Product Reviews - Epinions.com",
+      "og:image": "http://di1.shopping.com/images/pi/af/d5/fe/44793841-200x200-0-0.jpg?p=p4.478d66078533e48084ce&a=2&c=1&l=8071320&t=120718120821&r=1",
+      "og:description": "Epinions.com - Read product reviews on Pampered Chef Crinkle Cutter - Cooking Tools. Overall Rating: 5 stars from 12 consumer reviews at Epinions.com."
+     }
+    ],
+    "hproduct": [
+     {
+      "category": "Cooking Tools",
+      "fn": "Pampered Chef Crinkle Cutter",
+      "price": "$0.00"
+     }
+    ],
+    "hreviewaggregate": [
+     {
+      "pricerange": "$0.00 - $0.00",
+      "count": "12"
+     }
+    ],
+    "review": [
+     {
+      "ratingstars": "5.0",
+      "ratingcount": "12",
+      "pricerange": "$0.00 - $0.00"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "The Pampered Chef Coupon Codes: Get $9 Off w/ July 2012 ...",
+   "htmlTitle": "The \u003cb\u003ePampered Chef\u003c/b\u003e Coupon Codes: Get $9 Off w/ July 2012 \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://www.retailmenot.com/view/pamperedchef.com",
+   "displayLink": "www.retailmenot.com",
+   "snippet": "Discounts average $9 off with a The Pampered Chef promo code or coupon. 42   The Pampered Chef coupons now on RetailMeNot. July 2012 coupon codes ...",
+   "htmlSnippet": "Discounts average $9 off with a The \u003cb\u003ePampered Chef\u003c/b\u003e promo code or coupon. 42 \u003cbr\u003e  The \u003cb\u003ePampered Chef\u003c/b\u003e coupons now on RetailMeNot. July 2012 coupon codes \u003cb\u003e...\u003c/b\u003e",
+   "formattedUrl": "www.retailmenot.com/view/pamperedchef.com",
+   "htmlFormattedUrl": "www.retailmenot.com/view/\u003cb\u003epamperedchef\u003c/b\u003e.com",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://t.rmncdn.com/logos/l/pamperedchef.com-coupons.jpg"
+     }
+    ],
+    "metatags": [
+     {
+      "fb:app_id": "199633336744629",
+      "fb:admins": "100001343531499",
+      "og:title": "The Pampered Chef Coupons",
+      "og:type": "rmn_site:coupon_brand",
+      "og:url": "http://www.retailmenot.com/view/pamperedchef.com",
+      "og:image": "http://t.rmncdn.com/logos/l/pamperedchef.com-coupons.jpg",
+      "og:site_name": "RetailMeNot.com",
+      "og:description": "Find and share the latest The Pampered Chef coupon codes and deals today!"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "The Pampered Chef - Notes | Facebook",
+   "htmlTitle": "The \u003cb\u003ePampered Chef\u003c/b\u003e - Notes | Facebook",
+   "link": "http://www.facebook.com/ThePamperedChef/notes",
+   "displayLink": "www.facebook.com",
+   "snippet": "The Pampered Chef's Notes ... On Jan 23, I chatted with The Pampered Chef   Facebook fans and shared cooking tips and recipe ideas that keep our waist and ...",
+   "htmlSnippet": "The \u003cb\u003ePampered Chef&#39;s\u003c/b\u003e Notes \u003cb\u003e...\u003c/b\u003e On Jan 23, I chatted with The \u003cb\u003ePampered Chef\u003c/b\u003e \u003cbr\u003e  Facebook fans and shared cooking tips and recipe ideas that keep our waist and \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "XBMngVKh7_UJ",
+   "formattedUrl": "www.facebook.com/ThePamperedChef/notes",
+   "htmlFormattedUrl": "www.facebook.com/The\u003cb\u003ePamperedChef\u003c/b\u003e/notes",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://photos-h.ak.fbcdn.net/hphotos-ak-ash4/426912_10150543557432341_294240166_a.jpg",
+      "type": "1",
+      "width": "144",
+      "height": "216"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Pampered Chef Reviews | Glassdoor",
+   "htmlTitle": "\u003cb\u003ePampered Chef\u003c/b\u003e Reviews | Glassdoor",
+   "link": "http://www.glassdoor.com/Reviews/Pampered-Chef-Reviews-E3905.htm",
+   "displayLink": "www.glassdoor.com",
+   "snippet": "6 days ago ... 16 Pampered Chef reviews. A free inside look at company reviews and salaries   posted anonymously by employees.",
+   "htmlSnippet": "6 days ago \u003cb\u003e...\u003c/b\u003e 16 \u003cb\u003ePampered Chef\u003c/b\u003e reviews. A free inside look at company reviews and salaries \u003cbr\u003e  posted anonymously by employees.",
+   "cacheId": "39GoqvWK_X4J",
+   "formattedUrl": "www.glassdoor.com/Reviews/Pampered-Chef-Reviews-E3905.htm",
+   "htmlFormattedUrl": "www.glassdoor.com/Reviews/\u003cb\u003ePampered\u003c/b\u003e-\u003cb\u003eChef\u003c/b\u003e-Reviews-E3905.htm",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://img.glassdoor.com/static/img/partners/facebook/logo-130.png?rev=53153"
+     }
+    ],
+    "organization": [
+     {
+      "name": "Pampered Chef"
+     }
+    ],
+    "aggregaterating": [
+     {
+      "reviewcount": "16 ratings"
+     }
+    ],
+    "rating": [
+     {
+      "ratingvalue": "3.2",
+      "average": "3.2",
+      "best": "5"
+     }
+    ],
+    "metatags": [
+     {
+      "viewport": "width=device-width",
+      "apple-mobile-web-app-capable": "yes",
+      "apple-mobile-web-app-status-bar-style": "black-translucent",
+      "title": "Pampered Chef Reviews | Glassdoor",
+      "og:title": "Pampered Chef Reviews",
+      "og:type": "website",
+      "og:site_name": "Glassdoor",
+      "fb:app_id": "129253937150340",
+      "og:url": "http://www.glassdoor.com/Reviews/Pampered-Chef-Reviews-E3905.htm",
+      "og:image": "http://img.glassdoor.com/static/img/partners/facebook/logo-130.png?rev=53153",
+      "og:description": "16 Pampered Chef reviews. A free inside look at company reviews and salaries posted anonymously by employees.",
+      "glassdoor:total_connections": "14818"
+     }
+    ],
+    "hreviewaggregate": [
+     {
+      "summary": "“Opportunities are limitless!”",
+      "dtreviewed": "2012-02-16",
+      "description": "Pros – Flexible Schedule and Unlimited Earnings potential are the reasons I worked as an independent consultant. Other perks include free and discounted products. Cons – Most parties are...",
+      "count": "16"
+     }
+    ],
+    "review": [
+     {
+      "reviewdate": "2012-02-16",
+      "ratingstars": "3.0",
+      "ratingcount": "16"
+     },
+     {
+      "name": "Opportunities are limitless!",
+      "datepublished": "– Reviewed Feb 16, 2012",
+      "reviewbody": "Pros – Flexible Schedule and Unlimited Earnings potential are the reasons I worked as an independent consultant. Other perks include free and discounted products. Cons – Most parties are..."
+     },
+     {
+      "name": "positive",
+      "datepublished": "– Reviewed Apr 24, 2012",
+      "reviewbody": "Pros – flexible schedule, and the ability to work from home Cons – to be very successful you must push the sales and make lots of phone calls MoreLess Current Pampered Chef employee Work/Life..."
+     },
+     {
+      "name": "10+ years ( wonderful), last 2+ years (train wreck)",
+      "datepublished": "– Reviewed Mar 16, 2012",
+      "reviewbody": "Pros – Sales Department have competent knowledge in direct sales IT CIO has a vision and Goal for technology (Oracle) Benefits are good Cons – IT management is a survival of the fittest..."
+     },
+     {
+      "name": "Great products, great support from upline, great service.",
+      "datepublished": "– Reviewed Nov 14, 2011",
+      "reviewbody": "Pros – Household name. Product sells itself. Cons – Cumbersome carrying the kitchenware to shows. Advice to Senior Management – N/A MoreLess Current Pampered Chef employee Work/Life Balance..."
+     },
+     {
+      "name": "It's Like High School All Over!",
+      "datepublished": "– Reviewed Nov 21, 2011",
+      "reviewbody": "Pros – Working at the corporate HQ is great for your resume. TPC has a lot of name recognition and a strong brand. The company started by humble beginnings and makes a great story. Benefits..."
+     },
+     {
+      "name": "Supervisor was horrible - made day to day work environment impossible.",
+      "datepublished": "– Reviewed Sep 06, 2011",
+      "reviewbody": "Pros – -Wide Scope of Responsibilities -Competetive Salary -Excellent Benefits Cons – -Micro-Managing the smallest details by Sr. Management MoreLess Former Pampered Chef employee Work/Life..."
+     },
+     {
+      "name": "Good vision, bad management",
+      "datepublished": "– Reviewed Nov 08, 2010",
+      "reviewbody": "Pros – Corporate giving is superb, empowers women, good quality products Cons – Micromanagement is an understatement, punitive environment Advice to Senior Management – Empower others..."
+     },
+     {
+      "name": "Fantastic Opportunity awaits self starters",
+      "datepublished": "– Reviewed 2 weeks ago",
+      "reviewbody": "Pros – Flexibility, Support, Opportunities, You determine your salary, hours, environment--work from home, no long hours or commutes!! Cons – No guaranteed salary, but commissions are better..."
+     },
+     {
+      "name": "Senior Director",
+      "datepublished": "– Reviewed 3 weeks ago",
+      "reviewbody": "Pros – Incredible training opportunities through Homeoffice, quality training resources, top tier brand, set your own pace without any pressure. great opportunity to travel Cons – If you're..."
+     },
+     {
+      "name": "Going downhill",
+      "datepublished": "– Reviewed 4 days ago",
+      "reviewbody": "Pros – Potentially a good way for stay at home mom's to make a bit of extra money and get out of the house once in a while Most people have heard of the company Cons – Over priced merchandise,..."
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "The Pampered Chef | Facebook",
+   "htmlTitle": "The \u003cb\u003ePampered Chef\u003c/b\u003e | Facebook",
+   "link": "http://www.facebook.com/ThePamperedChef?rf=114204151924740",
+   "displayLink": "www.facebook.com",
+   "snippet": "To connect with The Pampered Chef, sign up for Facebook today. Sign UpLog In   ... Redirected from The Pampered Chef · 436852 likes · 14691 talking about this ...",
+   "htmlSnippet": "To connect with The \u003cb\u003ePampered Chef\u003c/b\u003e, sign up for Facebook today. Sign UpLog In \u003cbr\u003e  \u003cb\u003e...\u003c/b\u003e Redirected from The \u003cb\u003ePampered Chef\u003c/b\u003e · 436852 likes · 14691 talking about this \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "zbrQ-MxT5dkJ",
+   "formattedUrl": "www.facebook.com/ThePamperedChef?rf=114204151924740",
+   "htmlFormattedUrl": "www.facebook.com/The\u003cb\u003ePamperedChef\u003c/b\u003e?rf=114204151924740",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://sphotos-a.xx.fbcdn.net/hphotos-prn1/c0.0.403.403/p403x403/534638_10150945512942341_1353799225_n.jpg",
+      "type": "1",
+      "width": "225",
+      "height": "225"
+     }
+    ],
+    "organization": [
+     {
+      "photo": "http://profile.ak.fbcdn.net/hprofile-ak-snc4/372901_109690427340_770329416_n.jpg",
+      "name": "The Pampered Chef"
+     }
+    ]
+   }
+  }
+ ]
+}

@@ -1,0 +1,326 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "nextPage": [
+   {
+    "title": "Google Custom Search - diversity",
+    "totalResults": "21900000",
+    "searchTerms": "diversity",
+    "count": 10,
+    "startIndex": 11,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "017401104989814545383:mf4lavmtuva"
+   }
+  ],
+  "request": [
+   {
+    "title": "Google Custom Search - diversity",
+    "totalResults": "21900000",
+    "searchTerms": "diversity",
+    "count": 10,
+    "startIndex": 1,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "017401104989814545383:mf4lavmtuva"
+   }
+  ]
+ },
+ "context": {
+  "title": "College MetaSearch Comparison"
+ },
+ "searchInformation": {
+  "searchTime": 0.279723,
+  "formattedSearchTime": "0.28",
+  "totalResults": "21900000",
+  "formattedTotalResults": "21,900,000"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "Diversity | Define Diversity at Dictionary.com",
+   "htmlTitle": "\u003cb\u003eDiversity\u003c/b\u003e | Define \u003cb\u003eDiversity\u003c/b\u003e at Dictionary.com",
+   "link": "http://dictionary.reference.com/browse/diversity",
+   "displayLink": "dictionary.reference.com",
+   "snippet": "Diversity definition at Dictionary.com, a free online dictionary with pronunciation,   synonyms and translation. Look it up now!",
+   "htmlSnippet": "\u003cb\u003eDiversity\u003c/b\u003e definition at Dictionary.com, a free online dictionary with pronunciation, \u003cbr\u003e  synonyms and translation. Look it up now!",
+   "cacheId": "DifZmwpYQDgJ",
+   "formattedUrl": "dictionary.reference.com/browse/diversity",
+   "htmlFormattedUrl": "dictionary.reference.com/browse/\u003cb\u003ediversity\u003c/b\u003e",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://static.sfdict.com/en/i/dictionary/facebook/dictionary_logo.png"
+     }
+    ],
+    "metatags": [
+     {
+      "msvalidate.01": "DF5542D7723770377E9ABFF59AC1DC97",
+      "og:title": "the definition of diversity",
+      "og:site_name": "Dictionary.com",
+      "og:image": "http://static.sfdict.com/en/i/dictionary/facebook/dictionary_logo.png",
+      "fb:app_id": "127444090629600",
+      "fb:admins": "100000304287730,109125464873"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Diversity - Definition and More from the Free Merriam-Webster ...",
+   "htmlTitle": "\u003cb\u003eDiversity\u003c/b\u003e - Definition and More from the Free Merriam-Webster \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://www.merriam-webster.com/dictionary/diversity",
+   "displayLink": "www.merriam-webster.com",
+   "snippet": "the condition of having or being composed of differing elements : variety;   especially : the inclusion of different types of people (as people of different races   or ...",
+   "htmlSnippet": "the condition of having or being composed of differing elements : variety; \u003cbr\u003e  especially : the inclusion of different types of people (as people of different races \u003cbr\u003e  or \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "mujJ6yi64xIJ",
+   "formattedUrl": "www.merriam-webster.com/dictionary/diversity",
+   "htmlFormattedUrl": "www.merriam-webster.com/dictionary/\u003cb\u003ediversity\u003c/b\u003e",
+   "pagemap": {
+    "metatags": [
+     {
+      "fb:app_id": "178450008855735"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Diversity - Wikipedia, the free encyclopedia",
+   "htmlTitle": "\u003cb\u003eDiversity\u003c/b\u003e - Wikipedia, the free encyclopedia",
+   "link": "http://en.wikipedia.org/wiki/Diversity",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "[edit] Science and technology. Biodiversity, the degree of variation of life forms   within a given ecosystem, biome, or an entire planet. Diversity Index, a statistic ...",
+   "htmlSnippet": "[edit] Science and technology. Biodiversity, the degree of variation of life forms \u003cbr\u003e  within a given ecosystem, biome, or an entire planet. \u003cb\u003eDiversity\u003c/b\u003e Index, a statistic \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "9owK-PEZ1GQJ",
+   "formattedUrl": "en.wikipedia.org/wiki/Diversity",
+   "htmlFormattedUrl": "en.wikipedia.org/wiki/\u003cb\u003eDiversity\u003c/b\u003e"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "DiversityInc",
+   "htmlTitle": "DiversityInc",
+   "link": "http://diversityinc.com/",
+   "displayLink": "diversityinc.com",
+   "snippet": "4 days ago ... An on-line magazine that provides news, resources and commentary on the role   of diversity in strengthening the corporate bottom line.",
+   "htmlSnippet": "4 days ago \u003cb\u003e...\u003c/b\u003e An on-line magazine that provides news, resources and commentary on the role \u003cbr\u003e  of \u003cb\u003ediversity\u003c/b\u003e in strengthening the corporate bottom line.",
+   "cacheId": "vLtJQumtQJUJ",
+   "formattedUrl": "diversityinc.com/",
+   "htmlFormattedUrl": "\u003cb\u003ediversity\u003c/b\u003einc.com/",
+   "pagemap": {
+    "metatags": [
+     {
+      "viewport": "width=device-width, initial-scale=1.0",
+      "msvalidate.01": "1DBE21FB7EDD414935427CC305ADA3E3",
+      "alexaverifyid": "anOleYbDgqHyE4AkJj4-32bRc5k"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Find Jobs Recruit Diversity Job Seekers | Diversity.com",
+   "htmlTitle": "Find Jobs Recruit \u003cb\u003eDiversity\u003c/b\u003e Job Seekers | \u003cb\u003eDiversity\u003c/b\u003e.com",
+   "link": "http://www.diversity.com/",
+   "displayLink": "www.diversity.com",
+   "snippet": "Diversity.com is America's most trusted and affordable source for recruiting /   hiring minority executives, managers and professionals. Diverse job seekers post ...",
+   "htmlSnippet": "\u003cb\u003eDiversity\u003c/b\u003e.com is America&#39;s most trusted and affordable source for recruiting / \u003cbr\u003e  hiring minority executives, managers and professionals. \u003cb\u003eDiverse\u003c/b\u003e job seekers post \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "QbeLsPhX7xYJ",
+   "formattedUrl": "www.diversity.com/",
+   "htmlFormattedUrl": "www.\u003cb\u003ediversity\u003c/b\u003e.com/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.diversity.com/uploads/news/211/ef5a1d05f0cab51ef8408be20dc63a8ba7c79bdd.jpg",
+      "type": "1",
+      "width": "160",
+      "height": "258"
+     }
+    ],
+    "metatags": [
+     {
+      "msvalidate.01": "4936725508A4FA31F15CC0A66513EBFE",
+      "title": "Find Jobs Recruit Diversity Job Seekers | Diversity.com",
+      "language": "en",
+      "spas cholakov": "Developed by cholakovIT EOOD"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Definition of Diversity",
+   "htmlTitle": "Definition of \u003cb\u003eDiversity\u003c/b\u003e",
+   "link": "http://gladstone.uoregon.edu/~asuomca/diversityinit/definition.html",
+   "displayLink": "gladstone.uoregon.edu",
+   "snippet": "Definition of Diversity. The concept of diversity encompasses acceptance and   respect. It means understanding that each individual is unique, and recognizing ...",
+   "htmlSnippet": "Definition of \u003cb\u003eDiversity\u003c/b\u003e. The concept of \u003cb\u003ediversity\u003c/b\u003e encompasses acceptance and \u003cbr\u003e  respect. It means understanding that each individual is unique, and recognizing \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "C0I9Cbh0pV0J",
+   "formattedUrl": "gladstone.uoregon.edu/~asuomca/diversityinit/definition.html",
+   "htmlFormattedUrl": "gladstone.uoregon.edu/~asuomca/\u003cb\u003ediversity\u003c/b\u003einit/definition.html",
+   "pagemap": {
+    "metatags": [
+     {
+      "author": "Missy Rock"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Why Diversity Matters | Human Resources at UC Berkeley",
+   "htmlTitle": "Why \u003cb\u003eDiversity\u003c/b\u003e Matters | Human Resources at UC Berkeley",
+   "link": "http://hrweb.berkeley.edu/diversity/why-diversity",
+   "displayLink": "hrweb.berkeley.edu",
+   "snippet": "\"Diversity refers to human qualities that are different from our own and those of   groups to which we belong; but that are manifested in other individuals and ...",
+   "htmlSnippet": "&quot;\u003cb\u003eDiversity\u003c/b\u003e refers to human qualities that are different from our own and those of \u003cbr\u003e  groups to which we belong; but that are manifested in other individuals and \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "yYRLDs9xf_EJ",
+   "formattedUrl": "hrweb.berkeley.edu/diversity/why-diversity",
+   "htmlFormattedUrl": "hrweb.berkeley.edu/\u003cb\u003ediversity\u003c/b\u003e/why-\u003cb\u003ediversity\u003c/b\u003e",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://hrweb.berkeley.edu/sites/all/themes/hrweb/images/campanile-nt.jpg",
+      "type": "1",
+      "width": "176",
+      "height": "130"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Diversity: Dance Group - Britain's Got Talent 2009 - The Final ...",
+   "htmlTitle": "\u003cb\u003eDiversity\u003c/b\u003e: Dance Group - Britain&#39;s Got Talent 2009 - The Final \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://www.youtube.com/watch?v=PtwVfJqBfms",
+   "displayLink": "www.youtube.com",
+   "snippet": "May 30, 2009 ... Britain's Got Talent 2009: With plenty of competition in the same category this   evening, the pressure is certainly on this group of dancers.",
+   "htmlSnippet": "May 30, 2009 \u003cb\u003e...\u003c/b\u003e Britain&#39;s Got Talent 2009: With plenty of competition in the same category this \u003cbr\u003e  evening, the pressure is certainly on this group of dancers.",
+   "cacheId": "Ux4VMcT15aYJ",
+   "formattedUrl": "www.youtube.com/watch?v=PtwVfJqBfms",
+   "htmlFormattedUrl": "www.youtube.com/watch?v=PtwVfJqBfms",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://i1.ytimg.com/vi/PtwVfJqBfms/mqdefault.jpg"
+     }
+    ],
+    "videoobject": [
+     {
+      "url": "http://www.youtube.com/watch?v=PtwVfJqBfms",
+      "name": "Diversity: Dance Group - Britain's Got Talent 2009 - The Final",
+      "description": "Britain's Got Talent 2009: With plenty of competition in the same category this evening, the pressure is certainly on this group of dancers. What can Diversi...",
+      "duration": "PT4M58S",
+      "unlisted": "False",
+      "paid": "False",
+      "thumbnailurl": "http://i1.ytimg.com/vi/PtwVfJqBfms/hqdefault.jpg",
+      "embedurl": "http://www.youtube.com/v/PtwVfJqBfms?version=3&autohide=1",
+      "playertype": "Flash",
+      "width": "640",
+      "height": "360"
+     }
+    ],
+    "person": [
+     {
+      "url": "http://www.youtube.com/user/BritainsGotTalent09"
+     }
+    ],
+    "metatags": [
+     {
+      "title": "Diversity: Dance Group - Britain's Got Talent 2009 - The Final",
+      "og:url": "http://www.youtube.com/watch?v=PtwVfJqBfms",
+      "og:title": "Diversity: Dance Group - Britain's Got Talent 2009 - The Final",
+      "og:description": "Britain's Got Talent 2009: With plenty of competition in the same category this evening, the pressure is certainly on this group of dancers. What can Diversi...",
+      "og:type": "video",
+      "og:image": "http://i1.ytimg.com/vi/PtwVfJqBfms/mqdefault.jpg",
+      "og:video": "http://www.youtube.com/v/PtwVfJqBfms?version=3&autohide=1",
+      "og:video:type": "application/x-shockwave-flash",
+      "og:video:width": "640",
+      "og:video:height": "360",
+      "og:site_name": "YouTube",
+      "fb:app_id": "87741124305",
+      "twitter:player:width": "640",
+      "twitter:player:height": "360",
+      "attribution": "fremantlebgt/"
+     }
+    ],
+    "imageobject": [
+     {
+      "url": "http://i1.ytimg.com/vi/PtwVfJqBfms/mqdefault.jpg",
+      "width": "320",
+      "height": "180"
+     }
+    ],
+    "video": [
+     {
+      "url": "http://www.youtube.com/watch?v=PtwVfJqBfms",
+      "title": "Diversity: Dance Group - Britain's Got Talent 2009 - The Final",
+      "description": "Britain's Got Talent 2009: With plenty of competition in the same category this evening, the pressure is certainly on this group of dancers. What can Diversi...",
+      "type": "video",
+      "image": "http://i1.ytimg.com/vi/PtwVfJqBfms/mqdefault.jpg",
+      "video": "http://www.youtube.com/v/PtwVfJqBfms?version=3&autohide=1",
+      "video:type": "application/x-shockwave-flash",
+      "video:width": "640",
+      "video:height": "360",
+      "site_name": "YouTube",
+      "app_id": "87741124305",
+      "link-type-author": "BritainsGotTalent09"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Diversity | An Open Access Journal from MDPI",
+   "htmlTitle": "\u003cb\u003eDiversity\u003c/b\u003e | An Open Access Journal from MDPI",
+   "link": "http://www.mdpi.com/journal/diversity",
+   "displayLink": "www.mdpi.com",
+   "snippet": "Diversity (ISSN 1424-2818; CODEN: DIVEC6), an open access journal of the   science of biodiversity, is published by MDPI online quarterly. Open Access ...",
+   "htmlSnippet": "\u003cb\u003eDiversity\u003c/b\u003e (ISSN 1424-2818; CODEN: DIVEC6), an open access journal of the \u003cbr\u003e  science of biodiversity, is published by MDPI online quarterly. Open Access \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "C00b9VqunG4J",
+   "formattedUrl": "www.mdpi.com/journal/diversity",
+   "htmlFormattedUrl": "www.mdpi.com/journal/\u003cb\u003ediversity\u003c/b\u003e",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://img.mdpi.org/img/journals/diversity-logo.png?f03ceaa814503b72",
+      "type": "1",
+      "width": "176",
+      "height": "56"
+     }
+    ],
+    "metatags": [
+     {
+      "title": "Diversity"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Workplace Diversity",
+   "htmlTitle": "Workplace \u003cb\u003eDiversity\u003c/b\u003e",
+   "link": "http://www.ilr.cornell.edu/library/research/subjectguides/workplacediversity.html",
+   "displayLink": "www.ilr.cornell.edu",
+   "snippet": "Workplace diversity is a people issue, focused on the differences and similarities   that people bring to an organization. It is usually defined broadly to include ...",
+   "htmlSnippet": "Workplace \u003cb\u003ediversity\u003c/b\u003e is a people issue, focused on the differences and similarities \u003cbr\u003e  that people bring to an organization. It is usually defined broadly to include \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "SKcBvfgYpR0J",
+   "formattedUrl": "www.ilr.cornell.edu/library/research/.../workplacediversity.html",
+   "htmlFormattedUrl": "www.ilr.cornell.edu/library/research/.../workplace\u003cb\u003ediversity\u003c/b\u003e.html",
+   "pagemap": {
+    "metatags": [
+     {
+      "author": "ILR Web Studios, Cornell University",
+      "copyright": "Copyright (c) 2012 Cornell University"
+     }
+    ]
+   }
+  }
+ ]
+}

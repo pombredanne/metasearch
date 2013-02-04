@@ -1,0 +1,313 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "nextPage": [
+   {
+    "title": "Google Custom Search - pampered chef",
+    "totalResults": "992000",
+    "searchTerms": "pampered chef",
+    "count": 10,
+    "startIndex": 11,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "017401104989814545383:mf4lavmtuva"
+   }
+  ],
+  "request": [
+   {
+    "title": "Google Custom Search - pampered chef",
+    "totalResults": "992000",
+    "searchTerms": "pampered chef",
+    "count": 10,
+    "startIndex": 1,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "017401104989814545383:mf4lavmtuva"
+   }
+  ]
+ },
+ "context": {
+  "title": "College MetaSearch Comparison"
+ },
+ "searchInformation": {
+  "searchTime": 0.1907,
+  "formattedSearchTime": "0.19",
+  "totalResults": "992000",
+  "formattedTotalResults": "992,000"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "Start Your Own Business and plan kitchen shows at PamperedChef ...",
+   "htmlTitle": "Start Your Own Business and plan kitchen shows at \u003cb\u003ePamperedChef\u003c/b\u003e \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://www.pamperedchef.com/",
+   "displayLink": "www.pamperedchef.com",
+   "snippet": "With the Pampered Chef, you can start your own business planning cooking   parties, while getting product discounts!",
+   "htmlSnippet": "With the \u003cb\u003ePampered Chef\u003c/b\u003e, you can start your own business planning cooking \u003cbr\u003e  parties, while getting product discounts!",
+   "cacheId": "c4R6kDp2LDkJ",
+   "formattedUrl": "www.pamperedchef.com/",
+   "htmlFormattedUrl": "www.\u003cb\u003epamperedchef\u003c/b\u003e.com/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.pamperedchef.com/images/public/us/homepage/ss_12/home-newsite-jun.png",
+      "type": "1",
+      "width": "202",
+      "height": "227"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Wedding Registry : The Pampered Chef, Ltd.",
+   "htmlTitle": "Wedding Registry : The \u003cb\u003ePampered Chef\u003c/b\u003e, Ltd.",
+   "link": "https://www.pamperedchef.com/registry/public/weddingRegistryHome.tpc",
+   "displayLink": "www.pamperedchef.com",
+   "snippet": "The Pampered Chef® Home · Wedding Registry Home · The Pampered Chef®   Home · Wedding Registry Home. Manage Your Registry, Put more love and less ...",
+   "htmlSnippet": "The \u003cb\u003ePampered Chef\u003c/b\u003e® Home &middot; Wedding Registry Home &middot; The \u003cb\u003ePampered Chef\u003c/b\u003e® \u003cbr\u003e  Home &middot; Wedding Registry Home. Manage Your Registry, Put more love and less \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "y9Or-y9u12EJ",
+   "formattedUrl": "https://www.pamperedchef.com/registry/.../weddingRegistryHome.tpc",
+   "htmlFormattedUrl": "https://www.\u003cb\u003epamperedchef\u003c/b\u003e.com/registry/.../weddingRegistryHome.tpc",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "https://www.pamperedchef.com/images/wedding_registry/wsk_home2.jpg",
+      "type": "1",
+      "width": "270",
+      "height": "187"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Shop Online",
+   "htmlTitle": "Shop Online",
+   "link": "http://www.pamperedchef.com/ordering/shopOnline.tpc",
+   "displayLink": "www.pamperedchef.com",
+   "snippet": "... SITE MAP | LEGAL/PRIVACY · facebook; twitter; you tube; The Pampered Chef,   Ltd, Kitchen Accessories, Addison, IL. © 2012 The Pampered Chef used under ...",
+   "htmlSnippet": "\u003cb\u003e...\u003c/b\u003e SITE MAP | LEGAL/PRIVACY &middot; facebook; twitter; you tube; The \u003cb\u003ePampered Chef\u003c/b\u003e, \u003cbr\u003e  Ltd, Kitchen Accessories, Addison, IL. © 2012 The \u003cb\u003ePampered Chef\u003c/b\u003e used under \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "1KQ8XWoiDXUJ",
+   "formattedUrl": "www.pamperedchef.com/ordering/shopOnline.tpc",
+   "htmlFormattedUrl": "www.\u003cb\u003epamperedchef\u003c/b\u003e.com/ordering/shopOnline.tpc",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.pamperedchef.com/images/clear.gif",
+      "type": "1",
+      "width": "1",
+      "height": "1"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "The Pampered Chef - Wikipedia, the free encyclopedia",
+   "htmlTitle": "The \u003cb\u003ePampered Chef\u003c/b\u003e - Wikipedia, the free encyclopedia",
+   "link": "http://en.wikipedia.org/wiki/The_Pampered_Chef",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "The Pampered Chef, Ltd. a global company that offers a line of kitchen tools, food   products, and cookbooks aimed for preparing food in the home with a ...",
+   "htmlSnippet": "The \u003cb\u003ePampered Chef\u003c/b\u003e, Ltd. a global company that offers a line of kitchen tools, food \u003cbr\u003e  products, and cookbooks aimed for preparing food in the home with a \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "EFw7sFEN1ggJ",
+   "formattedUrl": "en.wikipedia.org/wiki/The_Pampered_Chef",
+   "htmlFormattedUrl": "en.wikipedia.org/wiki/The_\u003cb\u003ePampered\u003c/b\u003e_\u003cb\u003eChef\u003c/b\u003e",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://upload.wikimedia.org/wikipedia/en/3/3d/Pamperedchief.png",
+      "type": "1",
+      "width": "160",
+      "height": "72"
+     }
+    ],
+    "hcard": [
+     {
+      "fn": "Pampered Chef",
+      "label": "Addison, Illinois",
+      "category": "wholly owned subsidiary"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Quick And Easy Recipes to download at PamperedChef.com",
+   "htmlTitle": "Quick And Easy Recipes to download at \u003cb\u003ePamperedChef\u003c/b\u003e.com",
+   "link": "http://www.pamperedchef.com/recipe_search/main.jsp",
+   "displayLink": "www.pamperedchef.com",
+   "snippet": "Download hundreds of quick and easy recipes you can make at home for friends   and family.",
+   "htmlSnippet": "Download hundreds of quick and easy recipes you can make at home for friends \u003cbr\u003e  and family.",
+   "cacheId": "OqiRWQhW1KsJ",
+   "formattedUrl": "www.pamperedchef.com/recipe_search/main.jsp",
+   "htmlFormattedUrl": "www.\u003cb\u003epamperedchef\u003c/b\u003e.com/recipe_search/main.jsp",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.pamperedchef.com/images/public/recipe/rec_dyk_image2.jpg",
+      "type": "1",
+      "width": "135",
+      "height": "111"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Stick Your Pampered Chef Up Your Ass",
+   "htmlTitle": "Stick Your \u003cb\u003ePampered Chef\u003c/b\u003e Up Your Ass",
+   "link": "http://queenofspainblog.com/2007/01/22/stick-your-pampered-chef-up-your-ass/",
+   "displayLink": "queenofspainblog.com",
+   "snippet": "Jan 22, 2007 ... Pampered Chef, like most of these party businesses, has to make the % they pay   their people somewhere. I've found identical products to each ...",
+   "htmlSnippet": "Jan 22, 2007 \u003cb\u003e...\u003c/b\u003e \u003cb\u003ePampered Chef\u003c/b\u003e, like most of these party businesses, has to make the % they pay \u003cbr\u003e  their people somewhere. I&#39;ve found identical products to each \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "HEsI0f7gU7QJ",
+   "formattedUrl": "queenofspainblog.com/.../stick-your-pampered-chef-up-your-ass/",
+   "htmlFormattedUrl": "queenofspainblog.com/.../stick-your-\u003cb\u003epampered\u003c/b\u003e-\u003cb\u003echef\u003c/b\u003e-up-your-ass/",
+   "pagemap": {
+    "hcard": [
+     {
+      "fn": "LateToTheParty",
+      "nickname": "LateToTheParty",
+      "photo": "http://0.gravatar.com/avatar/a091b981d47db4587c1a3d0635f45902?s=48&d=monsterid&r=X"
+     },
+     {
+      "fn": "Jim",
+      "nickname": "Jim",
+      "photo": "http://1.gravatar.com/avatar/37ebe5175ecfb65ec9254b3b23e71688?s=48&d=monsterid&r=X"
+     },
+     {
+      "fn": "Jill",
+      "nickname": "Jill",
+      "photo": "http://1.gravatar.com/avatar/362b8f3d10a17aa173d5b630a7e389da?s=48&d=monsterid&r=X"
+     },
+     {
+      "fn": "Eliana",
+      "nickname": "Eliana",
+      "photo": "http://0.gravatar.com/avatar/821b8b30ce0c2a2f50e261f91e66d932?s=48&d=monsterid&r=X"
+     },
+     {
+      "fn": "Stantheman",
+      "nickname": "Stantheman",
+      "photo": "http://1.gravatar.com/avatar/57fe74100bd594bbeaa3ff3e0ed65f1c?s=48&d=monsterid&r=X"
+     },
+     {
+      "fn": "adipex without a prescription",
+      "url": "http://adipexonline.blisshost.net/",
+      "url_text": "adipex without a prescription"
+     },
+     {
+      "fn": "idea regalo festa mamma",
+      "url": "http://snukos.eu/shop/images/i/10/idea-regalo-festa-mamma.html",
+      "url_text": "idea regalo festa mamma"
+     },
+     {
+      "fn": "Pampered Chef Party Mishaps : Party Plan Pat Fix-Ups! | home party plan success tips",
+      "url": "http://homepartyplansuccesstips.com/2008/11/11/pampered-chef-party-mishaps-party-plan-pat-fix-ups/",
+      "url_text": "Pampered Chef Party Mishaps : Party Plan Pat Fix-Ups! | home party plan success tips"
+     },
+     {
+      "fn": "What Would Alton Say About Pampered Chef? « caitlinomara.com",
+      "url": "http://caitlinomara.com/2009/07/what-would-alton-say-about-pampered-chef/",
+      "url_text": "What Would Alton Say About Pampered Chef? « caitlinomara.com"
+     },
+     {
+      "fn": "Direct Sales Companies For Women « thejerp",
+      "url": "http://thejerp.wordpress.com/2011/08/04/direct-sales-companies-for-women/",
+      "url_text": "Direct Sales Companies For Women « thejerp"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Everyday",
+   "htmlTitle": "Everyday",
+   "link": "http://www.pamperedchef.com/our_products/catalog/catalog.jsp",
+   "displayLink": "www.pamperedchef.com",
+   "snippet": "Specialty Cutting Tools · The Pampered Pantry ... facebook; twitter; you tube; The   Pampered Chef, Ltd, Kitchen Accessories, Addison, IL. © 2012 The Pampered ...",
+   "htmlSnippet": "Specialty Cutting Tools &middot; The Pampered Pantry \u003cb\u003e...\u003c/b\u003e facebook; twitter; you tube; The \u003cbr\u003e  \u003cb\u003ePampered Chef\u003c/b\u003e, Ltd, Kitchen Accessories, Addison, IL. © 2012 The Pampered \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "ASxnA_Wl0xoJ",
+   "formattedUrl": "www.pamperedchef.com/our_products/catalog/catalog.jsp",
+   "htmlFormattedUrl": "www.\u003cb\u003epamperedchef\u003c/b\u003e.com/our_products/catalog/catalog.jsp"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "The Pampered Chef | Facebook",
+   "htmlTitle": "The \u003cb\u003ePampered Chef\u003c/b\u003e | Facebook",
+   "link": "http://www.facebook.com/ThePamperedChef",
+   "displayLink": "www.facebook.com",
+   "snippet": "is on Facebook. To connect with The Pampered Chef, sign up for Facebook today  . ... Welcome to the official Pampered Chef® Facebook page! Take time to ...",
+   "htmlSnippet": "is on Facebook. To connect with The \u003cb\u003ePampered Chef\u003c/b\u003e, sign up for Facebook today\u003cbr\u003e  . \u003cb\u003e...\u003c/b\u003e Welcome to the official \u003cb\u003ePampered Chef\u003c/b\u003e® Facebook page! Take time to \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "aPJ9w71zfdwJ",
+   "formattedUrl": "www.facebook.com/ThePamperedChef",
+   "htmlFormattedUrl": "www.facebook.com/The\u003cb\u003ePamperedChef\u003c/b\u003e",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://sphotos-b.xx.fbcdn.net/hphotos-snc6/c46.0.403.403/p403x403/182163_10150958085547341_1836613906_n.jpg",
+      "type": "1",
+      "width": "225",
+      "height": "225"
+     }
+    ],
+    "organization": [
+     {
+      "photo": "http://profile.ak.fbcdn.net/hprofile-ak-snc4/372901_109690427340_770329416_n.jpg",
+      "name": "The Pampered Chef"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Pampered Chef Review and Company Profile",
+   "htmlTitle": "\u003cb\u003ePampered Chef\u003c/b\u003e Review and Company Profile",
+   "link": "http://www.npros.com/dir/pampered_chef/",
+   "displayLink": "www.npros.com",
+   "snippet": "Pampered Chef Review and Profile at Npros.com. Pampered Chef Overview,   Product Info, and Rep / Consultant Listings at Npros. The online resource for   work ...",
+   "htmlSnippet": "\u003cb\u003ePampered Chef\u003c/b\u003e Review and Profile at Npros.com. \u003cb\u003ePampered Chef\u003c/b\u003e Overview, \u003cbr\u003e  Product Info, and Rep / Consultant Listings at Npros. The online resource for \u003cbr\u003e  work \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "5P54ypDX4wEJ",
+   "formattedUrl": "www.npros.com/dir/pampered_chef/",
+   "htmlFormattedUrl": "www.npros.com/dir/\u003cb\u003epampered\u003c/b\u003e_\u003cb\u003echef\u003c/b\u003e/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.npros.com/assets/envelope_120.gif",
+      "type": "1",
+      "width": "96",
+      "height": "106"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Pampered Chef Consultant Resource Community - Chef Success",
+   "htmlTitle": "\u003cb\u003ePampered Chef\u003c/b\u003e Consultant Resource Community - Chef Success",
+   "link": "http://www.chefsuccess.com/",
+   "displayLink": "www.chefsuccess.com",
+   "snippet": "Pampered Chef community for consultants. Hosts Pampered Chef product   reviews, consultant directories and flyers. Discuss tips on making more money at ...",
+   "htmlSnippet": "\u003cb\u003ePampered Chef\u003c/b\u003e community for consultants. Hosts \u003cb\u003ePampered Chef\u003c/b\u003e product \u003cbr\u003e  reviews, consultant directories and flyers. Discuss tips on making more money at \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "9jf2hNUqW04J",
+   "formattedUrl": "www.chefsuccess.com/",
+   "htmlFormattedUrl": "www.\u003cb\u003echefs\u003c/b\u003euccess.com/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.chefsuccess.com/images/misc/vbulletin3_logo_white.gif",
+      "type": "1",
+      "width": "241",
+      "height": "81"
+     }
+    ]
+   }
+  }
+ ]
+}

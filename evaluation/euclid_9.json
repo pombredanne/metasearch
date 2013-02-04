@@ -1,0 +1,245 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "nextPage": [
+   {
+    "title": "Google Custom Search - euclid",
+    "totalResults": "1640000",
+    "searchTerms": "euclid",
+    "count": 10,
+    "startIndex": 101,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "017401104989814545383:mf4lavmtuva"
+   }
+  ],
+  "request": [
+   {
+    "title": "Google Custom Search - euclid",
+    "totalResults": "1640000",
+    "searchTerms": "euclid",
+    "count": 10,
+    "startIndex": 91,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "017401104989814545383:mf4lavmtuva"
+   }
+  ],
+  "previousPage": [
+   {
+    "title": "Google Custom Search - euclid",
+    "totalResults": "1640000",
+    "searchTerms": "euclid",
+    "count": 10,
+    "startIndex": 81,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "017401104989814545383:mf4lavmtuva"
+   }
+  ]
+ },
+ "context": {
+  "title": "College MetaSearch Comparison"
+ },
+ "searchInformation": {
+  "searchTime": 0.159709,
+  "formattedSearchTime": "0.16",
+  "totalResults": "1640000",
+  "formattedTotalResults": "1,640,000"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "Euclid Self Storage Euclid Ohio",
+   "htmlTitle": "\u003cb\u003eEuclid\u003c/b\u003e Self Storage \u003cb\u003eEuclid\u003c/b\u003e Ohio",
+   "link": "http://www.euclidstorage.com/",
+   "displayLink": "www.euclidstorage.com",
+   "snippet": "First Month rent is FREE. We will beat our local competitors guaranteed lowest   monthly rent by $5.00 per month.",
+   "htmlSnippet": "First Month rent is FREE. We will beat our local competitors guaranteed lowest \u003cbr\u003e  monthly rent by $5.00 per month.",
+   "cacheId": "0gHmVBTf-z4J",
+   "formattedUrl": "www.euclidstorage.com/",
+   "htmlFormattedUrl": "www.\u003cb\u003eeuclids\u003c/b\u003etorage.com/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.euclidstorage.com/sitebuildercontent/sitebuilderpictures/DSCN3109.JPG",
+      "type": "1",
+      "width": "259",
+      "height": "194"
+     }
+    ],
+    "metatags": [
+     {
+      "trellix_builder_ver": "1.0",
+      "trellix_open_site_command": "http://www.sitedelux.com:80SiteBuilderServlet?fUrl=f_error.html&sUrl=f_edit_page.html&Command=OpenSite&FileName=971912471577823752/site.xml"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Euclid Consortium - Wikipedia, the free encyclopedia",
+   "htmlTitle": "\u003cb\u003eEuclid\u003c/b\u003e Consortium - Wikipedia, the free encyclopedia",
+   "link": "http://en.wikipedia.org/wiki/Euclid_Consortium",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "The Euclid Consortium is a distance learning educational consortium created in   2005 by the University of Bangui (Central African Republic), the Université Libre ...",
+   "htmlSnippet": "The \u003cb\u003eEuclid\u003c/b\u003e Consortium is a distance learning educational consortium created in \u003cbr\u003e  2005 by the University of Bangui (Central African Republic), the Université Libre \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "c3CSS8nZYl8J",
+   "formattedUrl": "en.wikipedia.org/wiki/Euclid_Consortium",
+   "htmlFormattedUrl": "en.wikipedia.org/wiki/\u003cb\u003eEuclid\u003c/b\u003e_Consortium"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Euclid–Mullin sequence - Wikipedia, the free encyclopedia",
+   "htmlTitle": "\u003cb\u003eEuclid\u003c/b\u003e–Mullin sequence - Wikipedia, the free encyclopedia",
+   "link": "http://en.wikipedia.org/wiki/Euclid%E2%80%93Mullin_sequence",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "The Euclid–Mullin sequence is an infinite sequence of distinct prime numbers, in   which each element is the least prime factor of one plus the product of all ...",
+   "htmlSnippet": "The \u003cb\u003eEuclid\u003c/b\u003e–Mullin sequence is an infinite sequence of distinct prime numbers, in \u003cbr\u003e  which each element is the least prime factor of one plus the product of all \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "o83wWfoScS0J",
+   "formattedUrl": "en.wikipedia.org/wiki/Euclid–Mullin_sequence",
+   "htmlFormattedUrl": "en.wikipedia.org/wiki/\u003cb\u003eEuclid\u003c/b\u003e–Mullin_sequence",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://upload.wikimedia.org/wikipedia/en/math/f/a/8/fa868227eccc7f0492e76e003f5bf84d.png",
+      "type": "1",
+      "width": "103",
+      "height": "48"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Euclid Motel",
+   "htmlTitle": "\u003cb\u003eEuclid\u003c/b\u003e Motel",
+   "link": "http://euclidmotel.com/",
+   "displayLink": "euclidmotel.com",
+   "snippet": "Here at Euclid Motel, we look forward to serving you whether you are in the   Midwest on a family vacation or a business trip. Our unique open courtyard   provides ...",
+   "htmlSnippet": "Here at \u003cb\u003eEuclid\u003c/b\u003e Motel, we look forward to serving you whether you are in the \u003cbr\u003e  Midwest on a family vacation or a business trip. Our unique open courtyard \u003cbr\u003e  provides \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "Uq0HlfL_HkMJ",
+   "formattedUrl": "euclidmotel.com/",
+   "htmlFormattedUrl": "\u003cb\u003eeuclid\u003c/b\u003emotel.com/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://euclidmotel.com/images/gal1.jpg",
+      "type": "1",
+      "width": "100",
+      "height": "71"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "City of Euclid: Pools",
+   "htmlTitle": "City of \u003cb\u003eEuclid\u003c/b\u003e: Pools",
+   "link": "http://www.cityofeuclid.com/recreation/Pools",
+   "displayLink": "www.cityofeuclid.com",
+   "snippet": "POOL ADMISSION POLICY FOR 2012 A Euclid Recreation Season Swim Pass   OR a Euclid Recreation Daily Discount Pass is REQUIRED for admission to ALL ...",
+   "htmlSnippet": "POOL ADMISSION POLICY FOR 2012 A \u003cb\u003eEuclid\u003c/b\u003e Recreation Season Swim Pass \u003cbr\u003e  OR a \u003cb\u003eEuclid\u003c/b\u003e Recreation Daily Discount Pass is REQUIRED for admission to ALL \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "Hq4hypTCG1IJ",
+   "formattedUrl": "www.cityofeuclid.com/recreation/Pools",
+   "htmlFormattedUrl": "www.cityof\u003cb\u003eeuclid\u003c/b\u003e.com/recreation/Pools"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "City of Euclid: History",
+   "htmlTitle": "City of \u003cb\u003eEuclid\u003c/b\u003e: History",
+   "link": "http://www.cityofeuclid.com/about/history",
+   "displayLink": "www.cityofeuclid.com",
+   "snippet": "The Township of Euclid, was one of the first communities to be established in the   Western Reserve. A contract between Superintendent Moses Cleaveland and ...",
+   "htmlSnippet": "The Township of \u003cb\u003eEuclid\u003c/b\u003e, was one of the first communities to be established in the \u003cbr\u003e  Western Reserve. A contract between Superintendent Moses Cleaveland and \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "DZ15L563bAYJ",
+   "formattedUrl": "www.cityofeuclid.com/about/history",
+   "htmlFormattedUrl": "www.cityof\u003cb\u003eeuclid\u003c/b\u003e.com/about/history"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Euclid - definition of Euclid by the Free Online Dictionary, Thesaurus ...",
+   "htmlTitle": "\u003cb\u003eEuclid\u003c/b\u003e - definition of \u003cb\u003eEuclid\u003c/b\u003e by the Free Online Dictionary, Thesaurus \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://www.thefreedictionary.com/Euclid",
+   "displayLink": "www.thefreedictionary.com",
+   "snippet": "Eu·clid 1 (y kl d) Third century b.c.. Greek mathematician who applied the   deductive principles of logic to geometry, thereby deriving statements from clearly ...",
+   "htmlSnippet": "Eu·clid 1 (y kl d) Third century b.c.. Greek mathematician who applied the \u003cbr\u003e  deductive principles of logic to geometry, thereby deriving statements from clearly \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "Ye_AkNuKnE0J",
+   "formattedUrl": "www.thefreedictionary.com/Euclid",
+   "htmlFormattedUrl": "www.thefreedictionary.com/\u003cb\u003eEuclid\u003c/b\u003e",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://img.tfd.com/wn/7E/69D26-euclid.png",
+      "type": "1",
+      "width": "103",
+      "height": "108"
+     }
+    ],
+    "metatags": [
+     {
+      "og:url": "http://www.thefreedictionary.com/Euclid",
+      "og:description": "Definition of Euclid by TheFreeDictionary.com",
+      "og:title": "Euclid",
+      "og:image": "http://img.tfd.com/TFDlogo198x65.gif",
+      "og:type": "article",
+      "og:site_name": "TheFreeDictionary.com"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Euclid City Schools: Central Middle",
+   "htmlTitle": "\u003cb\u003eEuclid\u003c/b\u003e City Schools: Central Middle",
+   "link": "http://www.euclidschools.org/schools/k8/central/",
+   "displayLink": "www.euclidschools.org",
+   "snippet": "Welcome to Euclid Central Middle School.The staff at Euclid Central is very   excited to work with your child. If you would like to work with your child to prepare ...",
+   "htmlSnippet": "Welcome to \u003cb\u003eEuclid\u003c/b\u003e Central Middle School.The staff at \u003cb\u003eEuclid\u003c/b\u003e Central is very \u003cbr\u003e  excited to work with your child. If you would like to work with your child to prepare \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "v9gQGNnrzbMJ",
+   "formattedUrl": "www.euclidschools.org/schools/k8/central/",
+   "htmlFormattedUrl": "www.\u003cb\u003eeuclids\u003c/b\u003echools.org/schools/k8/central/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.euclidschools.org/media/uploads/pagecontent/images/School%20Images/IMG_1289.jpg",
+      "type": "1",
+      "width": "198",
+      "height": "132"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Euclid and his Modern Rivals - Wikipedia, the free encyclopedia",
+   "htmlTitle": "\u003cb\u003eEuclid\u003c/b\u003e and his Modern Rivals - Wikipedia, the free encyclopedia",
+   "link": "http://en.wikipedia.org/wiki/Euclid_and_his_Modern_Rivals",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "Euclid and his Modern Rivals is a mathematical book published in 1879 by the   English mathematician Charles Lutwidge Dodgson (1832–1898), better known ...",
+   "htmlSnippet": "\u003cb\u003eEuclid\u003c/b\u003e and his Modern Rivals is a mathematical book published in 1879 by the \u003cbr\u003e  English mathematician Charles Lutwidge Dodgson (1832–1898), better known \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "zPTpHxvaEcQJ",
+   "formattedUrl": "en.wikipedia.org/wiki/Euclid_and_his_Modern_Rivals",
+   "htmlFormattedUrl": "en.wikipedia.org/wiki/\u003cb\u003eEuclid\u003c/b\u003e_and_his_Modern_Rivals"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Euclid",
+   "htmlTitle": "\u003cb\u003eEuclid\u003c/b\u003e",
+   "link": "http://kevingong.com/Euclid/index.html",
+   "displayLink": "kevingong.com",
+   "snippet": "Euclid is a calculator and so much more. One of its unique features is that it   preserves numbers in their natural state, rather than forcing everything into   decimal ...",
+   "htmlSnippet": "\u003cb\u003eEuclid\u003c/b\u003e is a calculator and so much more. One of its unique features is that it \u003cbr\u003e  preserves numbers in their natural state, rather than forcing everything into \u003cbr\u003e  decimal \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "o_zL2aC4lBoJ",
+   "formattedUrl": "kevingong.com/Euclid/index.html",
+   "htmlFormattedUrl": "kevingong.com/\u003cb\u003eEuclid\u003c/b\u003e/index.html"
+  }
+ ]
+}

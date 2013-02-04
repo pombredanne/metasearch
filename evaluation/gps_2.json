@@ -1,0 +1,291 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "nextPage": [
+   {
+    "title": "Google Custom Search - gps",
+    "totalResults": "111000000",
+    "searchTerms": "gps",
+    "count": 10,
+    "startIndex": 31,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "017401104989814545383:mf4lavmtuva"
+   }
+  ],
+  "request": [
+   {
+    "title": "Google Custom Search - gps",
+    "totalResults": "111000000",
+    "searchTerms": "gps",
+    "count": 10,
+    "startIndex": 21,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "017401104989814545383:mf4lavmtuva"
+   }
+  ],
+  "previousPage": [
+   {
+    "title": "Google Custom Search - gps",
+    "totalResults": "111000000",
+    "searchTerms": "gps",
+    "count": 10,
+    "startIndex": 11,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "017401104989814545383:mf4lavmtuva"
+   }
+  ]
+ },
+ "context": {
+  "title": "College MetaSearch Comparison"
+ },
+ "searchInformation": {
+  "searchTime": 0.15764,
+  "formattedSearchTime": "0.16",
+  "totalResults": "111000000",
+  "formattedTotalResults": "111,000,000"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "GPS navigation device - Wikipedia, the free encyclopedia",
+   "htmlTitle": "\u003cb\u003eGPS\u003c/b\u003e navigation device - Wikipedia, the free encyclopedia",
+   "link": "http://en.wikipedia.org/wiki/GPS_navigation_device",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "A GPS navigation device is any device that receives Global Positioning System (  GPS) signals for the purpose of determining the device's current location on ...",
+   "htmlSnippet": "A \u003cb\u003eGPS\u003c/b\u003e navigation device is any device that receives Global Positioning System (\u003cbr\u003e  \u003cb\u003eGPS\u003c/b\u003e) signals for the purpose of determining the device&#39;s current location on \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "rfgAQErlWtQJ",
+   "formattedUrl": "en.wikipedia.org/wiki/GPS_navigation_device",
+   "htmlFormattedUrl": "en.wikipedia.org/wiki/\u003cb\u003eGPS\u003c/b\u003e_navigation_device",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Gosmore_in_berlin_with_winCE_on_transonic_6000.jpg/220px-Gosmore_in_berlin_with_winCE_on_transonic_6000.jpg",
+      "type": "1",
+      "width": "176",
+      "height": "136"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "GPS reviews, handheld GPS systems, mapping software and more ...",
+   "htmlTitle": "\u003cb\u003eGPS\u003c/b\u003e reviews, handheld \u003cb\u003eGPS\u003c/b\u003e systems, mapping software and more \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://reviews.cnet.com/gps/",
+   "displayLink": "reviews.cnet.com",
+   "snippet": "GPS and portable GPS reviews and ratings, video reviews, user opinions, most   popular portable navigation systems, GPS buying guides, prices, and ...",
+   "htmlSnippet": "\u003cb\u003eGPS\u003c/b\u003e and portable \u003cb\u003eGPS\u003c/b\u003e reviews and ratings, video reviews, user opinions, most \u003cbr\u003e  popular portable navigation systems, \u003cb\u003eGPS\u003c/b\u003e buying guides, prices, and \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "y56C5nPMYSMJ",
+   "formattedUrl": "reviews.cnet.com/gps/",
+   "htmlFormattedUrl": "reviews.cnet.com/\u003cb\u003egps\u003c/b\u003e/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://asset0.cbsistatic.com/cnwk.1d/i/tim/2011/09/20/gpsFinder_220x157.jpg",
+      "type": "1",
+      "width": "176",
+      "height": "125"
+     }
+    ],
+    "metatags": [
+     {
+      "fb:app_id": "16995676698",
+      "fb:admins": "100001036810388",
+      "og:site_name": "CNET"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Navigation Services - Global Navigation Satellite System",
+   "htmlTitle": "Navigation Services - Global Navigation Satellite System",
+   "link": "http://gps.faa.gov/",
+   "displayLink": "gps.faa.gov",
+   "snippet": "The Federal Aviation Administration is responsible for the safety of civil aviation.",
+   "htmlSnippet": "The Federal Aviation Administration is responsible for the safety of civil aviation.",
+   "cacheId": "P3tS27kxA80J",
+   "formattedUrl": "gps.faa.gov/",
+   "htmlFormattedUrl": "\u003cb\u003egps\u003c/b\u003e.faa.gov/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.faa.gov/about/office_org/headquarters_offices/ato/service_units/techops/navservices/gnss/media/satnavnewsNew.jpg",
+      "type": "1",
+      "width": "112",
+      "height": "104"
+     }
+    ],
+    "metatags": [
+     {
+      "pagedate": "May 30, 2012 2:22 pm ET",
+      "intemplate": "1"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Streets & Trips",
+   "htmlTitle": "Streets &amp; Trips",
+   "link": "http://www.microsoft.com/streets/",
+   "displayLink": "www.microsoft.com",
+   "snippet": "Comes with all the same powerful mapping features of Streets & Trips plus a   sleek, powerful GPS device. Get clear turn-by-turn directions, spoken driving ...",
+   "htmlSnippet": "Comes with all the same powerful mapping features of Streets &amp; Trips plus a \u003cbr\u003e  sleek, powerful \u003cb\u003eGPS\u003c/b\u003e device. Get clear turn-by-turn directions, spoken driving \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "-At6FHN2RisJ",
+   "formattedUrl": "www.microsoft.com/streets/",
+   "htmlFormattedUrl": "www.microsoft.com/streets/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.microsoft.com/streets/en-us/assets/images/StreetsTrips2013_Logo_boxshot_HOME.png",
+      "type": "1",
+      "width": "68",
+      "height": "81"
+     }
+    ],
+    "metatags": [
+     {
+      "wt.sp": "_streets_"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "App Store - MotionX GPS Drive",
+   "htmlTitle": "App Store - MotionX \u003cb\u003eGPS\u003c/b\u003e Drive",
+   "link": "http://itunes.apple.com/us/app/motionx-gps-drive/id328095974?mt=8",
+   "displayLink": "itunes.apple.com",
+   "snippet": "Feb 16, 2012 ... Read reviews, get customer ratings, see screenshots, and learn more about   MotionX GPS Drive on the App Store. Download MotionX GPS ...",
+   "htmlSnippet": "Feb 16, 2012 \u003cb\u003e...\u003c/b\u003e Read reviews, get customer ratings, see screenshots, and learn more about \u003cbr\u003e  MotionX \u003cb\u003eGPS\u003c/b\u003e Drive on the App Store. Download MotionX \u003cb\u003eGPS\u003c/b\u003e \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "wa66rYQq61sJ",
+   "formattedUrl": "itunes.apple.com/us/app/motionx-gps-drive/id328095974?mt=8",
+   "htmlFormattedUrl": "itunes.apple.com/us/app/motionx-\u003cb\u003egps\u003c/b\u003e-drive/id328095974?mt=8",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://a5.mzstatic.com/us/r1000/075/Purple/d2/b4/31/mzl.vtfhqmeq.320x480-75.jpg",
+      "type": "1",
+      "width": "187",
+      "height": "269"
+     }
+    ],
+    "metatags": [
+     {
+      "og:title": "MotionX GPS Drive",
+      "og:description": "Get MotionX GPS Drive on the App Store. See screenshots and ratings, and read customer reviews.",
+      "og:site_name": "App Store",
+      "og:image": "http://a1.mzstatic.com/us/r1000/069/Purple/fe/56/96/mzl.jecfsjvr.tif",
+      "og:image:type": "image/tiff"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "GPS Time Series",
+   "htmlTitle": "\u003cb\u003eGPS\u003c/b\u003e Time Series",
+   "link": "http://sideshow.jpl.nasa.gov/mbh/series.html",
+   "displayLink": "sideshow.jpl.nasa.gov",
+   "snippet": "Measurements made with the Global Positioning System are sensitive enough to   detect motion of the Earth's tectonic plates.",
+   "htmlSnippet": "Measurements made with the Global Positioning System are sensitive enough to \u003cbr\u003e  detect motion of the Earth&#39;s tectonic plates.",
+   "cacheId": "qIdC0ozg3vsJ",
+   "formattedUrl": "sideshow.jpl.nasa.gov/mbh/series.html",
+   "htmlFormattedUrl": "sideshow.jpl.nasa.gov/mbh/series.html"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Factsheets : Global Positioning Systems Directorate",
+   "htmlTitle": "Factsheets : Global Positioning Systems Directorate",
+   "link": "http://gps.losangeles.af.mil/",
+   "displayLink": "gps.losangeles.af.mil",
+   "snippet": "Jan 13, 2012 ... The Global Positioning Systems Directorate is a joint service effort directed by the   US Air Force and managed at the Space and Missile Systems ...",
+   "htmlSnippet": "Jan 13, 2012 \u003cb\u003e...\u003c/b\u003e The Global Positioning Systems Directorate is a joint service effort directed by the \u003cbr\u003e  US Air Force and managed at the Space and Missile Systems \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "wHLkv0bYIVsJ",
+   "formattedUrl": "gps.losangeles.af.mil/",
+   "htmlFormattedUrl": "\u003cb\u003egps\u003c/b\u003e.losangeles.af.mil/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.losangeles.af.mil/shared/media/ggallery/webgraphic/AFG-101123-014.jpg",
+      "type": "1",
+      "width": "227",
+      "height": "223"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "USNO NAVSTAR Global Positioning System",
+   "htmlTitle": "USNO NAVSTAR \u003cb\u003eGlobal Positioning System\u003c/b\u003e",
+   "link": "http://tycho.usno.navy.mil/gpsinfo.html",
+   "displayLink": "tycho.usno.navy.mil",
+   "snippet": "USNO NAVSTAR Global Positioning System. The following Global Positioning   System (GPS) information is obtained from the 1994 Federal Radionavigation ...",
+   "htmlSnippet": "USNO NAVSTAR \u003cb\u003eGlobal Positioning System\u003c/b\u003e. The following \u003cb\u003eGlobal Positioning\u003c/b\u003e \u003cbr\u003e  \u003cb\u003eSystem\u003c/b\u003e (\u003cb\u003eGPS\u003c/b\u003e) information is obtained from the 1994 Federal Radionavigation \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "a4szXU39bCQJ",
+   "formattedUrl": "tycho.usno.navy.mil/gpsinfo.html",
+   "htmlFormattedUrl": "tycho.usno.navy.mil/\u003cb\u003egps\u003c/b\u003einfo.html"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "How Does GPS Work?",
+   "htmlTitle": "How Does \u003cb\u003eGPS\u003c/b\u003e Work?",
+   "link": "http://airandspace.si.edu/gps/work.html",
+   "displayLink": "airandspace.si.edu",
+   "snippet": "Each GPS satellite transmits data that indicates its location and the current time.   All GPS satellites synchronize operations so that these repeating signals are ...",
+   "htmlSnippet": "Each \u003cb\u003eGPS\u003c/b\u003e satellite transmits data that indicates its location and the current time. \u003cbr\u003e  All \u003cb\u003eGPS\u003c/b\u003e satellites synchronize operations so that these repeating signals are \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "KnmXDpy3doAJ",
+   "formattedUrl": "airandspace.si.edu/gps/work.html",
+   "htmlFormattedUrl": "airandspace.si.edu/\u003cb\u003egps\u003c/b\u003e/work.html",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://airandspace.si.edu/gps/120-L2.jpg",
+      "type": "1",
+      "width": "200",
+      "height": "200"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "GPS (band) - Wikipedia, the free encyclopedia",
+   "htmlTitle": "\u003cb\u003eGPS\u003c/b\u003e (band) - Wikipedia, the free encyclopedia",
+   "link": "http://en.wikipedia.org/wiki/GPS_(band)",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "GPS is a progressive rock group formed in 2006 by John Payne (vocals, bass,   guitar), Guthrie Govan (guitars) and Jay Schellen (drums, percussion).",
+   "htmlSnippet": "\u003cb\u003eGPS\u003c/b\u003e is a progressive rock group formed in 2006 by John Payne (vocals, bass, \u003cbr\u003e  guitar), Guthrie Govan (guitars) and Jay Schellen (drums, percussion).",
+   "cacheId": "KqO76XeNIjEJ",
+   "formattedUrl": "en.wikipedia.org/wiki/GPS_(band)",
+   "htmlFormattedUrl": "en.wikipedia.org/wiki/\u003cb\u003eGPS\u003c/b\u003e_(band)",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://upload.wikimedia.org/wikipedia/commons/thumb/b/be/GPS_2006.jpg/220px-GPS_2006.jpg",
+      "type": "1",
+      "width": "176",
+      "height": "116"
+     }
+    ],
+    "hcard": [
+     {
+      "fn": "GPS"
+     }
+    ]
+   }
+  }
+ ]
+}

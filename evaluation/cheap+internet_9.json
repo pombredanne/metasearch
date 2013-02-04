@@ -1,0 +1,255 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "nextPage": [
+   {
+    "title": "Google Custom Search - cheap internet",
+    "totalResults": "180000000",
+    "searchTerms": "cheap internet",
+    "count": 10,
+    "startIndex": 101,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "017401104989814545383:mf4lavmtuva"
+   }
+  ],
+  "request": [
+   {
+    "title": "Google Custom Search - cheap internet",
+    "totalResults": "180000000",
+    "searchTerms": "cheap internet",
+    "count": 10,
+    "startIndex": 91,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "017401104989814545383:mf4lavmtuva"
+   }
+  ],
+  "previousPage": [
+   {
+    "title": "Google Custom Search - cheap internet",
+    "totalResults": "180000000",
+    "searchTerms": "cheap internet",
+    "count": 10,
+    "startIndex": 81,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "017401104989814545383:mf4lavmtuva"
+   }
+  ]
+ },
+ "context": {
+  "title": "College MetaSearch Comparison"
+ },
+ "searchInformation": {
+  "searchTime": 0.204002,
+  "formattedSearchTime": "0.20",
+  "totalResults": "180000000",
+  "formattedTotalResults": "180,000,000"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "Mortgage Leads at eLeadz.com: Internet Mortgage Leads, FHA ...",
+   "htmlTitle": "Mortgage Leads at eLeadz.com: \u003cb\u003eInternet\u003c/b\u003e Mortgage Leads, FHA \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://www.eleadz.com/",
+   "displayLink": "www.eleadz.com",
+   "snippet": "Buy residential Mortgage Lead Generation at eLeadz.com. Specializing in   Internet mortgage prospect refinance leads, FHA marketing mortgage broker   leads, ...",
+   "htmlSnippet": "Buy residential Mortgage Lead Generation at eLeadz.com. Specializing in \u003cbr\u003e  \u003cb\u003eInternet\u003c/b\u003e mortgage prospect refinance leads, FHA marketing mortgage broker \u003cbr\u003e  leads, \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "ktUY_Bn7P-EJ",
+   "formattedUrl": "www.eleadz.com/",
+   "htmlFormattedUrl": "www.eleadz.com/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "https://www.eleadz.com/images/home/leads.gif",
+      "type": "1",
+      "width": "216",
+      "height": "176"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Cheap High-Speed Internet Service Providers - 6 Simple Ways to ...",
+   "htmlTitle": "\u003cb\u003eCheap\u003c/b\u003e High-Speed \u003cb\u003eInternet\u003c/b\u003e Service Providers - 6 Simple Ways to \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://www.moneycrashers.com/cheap-high-speed-internet-service-providers-save/",
+   "displayLink": "www.moneycrashers.com",
+   "snippet": "Feb 8, 2011 ... You're overpaying for your Internet service! Learn how you can save on your   monthly high-speed Internet service bill by utilizing these 6 savvy ...",
+   "htmlSnippet": "Feb 8, 2011 \u003cb\u003e...\u003c/b\u003e You&#39;re overpaying for your \u003cb\u003eInternet\u003c/b\u003e service! Learn how you can save on your \u003cbr\u003e  monthly high-speed \u003cb\u003eInternet\u003c/b\u003e service bill by utilizing these 6 savvy \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "SAQaQIqA0lQJ",
+   "formattedUrl": "www.moneycrashers.com/cheap-high-speed-internet-service-providers-save/",
+   "htmlFormattedUrl": "www.moneycrashers.com/\u003cb\u003echeap\u003c/b\u003e-high-speed-\u003cb\u003einternet\u003c/b\u003e-service-providers-save/",
+   "pagemap": {
+    "metatags": [
+     {
+      "framework": "Alkivia Framework 0.8"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Cheap internet! - ISP neworleans bandwidth | Ask MetaFilter",
+   "htmlTitle": "\u003cb\u003eCheap internet\u003c/b\u003e! - ISP neworleans bandwidth | Ask MetaFilter",
+   "link": "http://ask.metafilter.com/214508/Cheap-internet",
+   "displayLink": "ask.metafilter.com",
+   "snippet": "Ms. Scientist and I just signed a lease on a fabulous new apartment ... I think   AT&T's the only other game in town. Good luck. ... Well, they do seem ...",
+   "htmlSnippet": "Ms. Scientist and I just signed a lease on a fabulous new apartment \u003cb\u003e...\u003c/b\u003e I think \u003cbr\u003e  AT&amp;T&#39;s the only other game in town. Good luck. \u003cb\u003e...\u003c/b\u003e Well, they do seem \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "DtIEQzwhjM0J",
+   "formattedUrl": "ask.metafilter.com/214508/Cheap-internet",
+   "htmlFormattedUrl": "ask.metafilter.com/214508/\u003cb\u003eCheap\u003c/b\u003e-\u003cb\u003einternet\u003c/b\u003e",
+   "pagemap": {
+    "metatags": [
+     {
+      "readability-verification": "DCFfHJ4UQbMnfKaS453mfXvyeqtaeZwGSKSjFmv3"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "#1 – Buy cheap viagra internet. FDA Approved Pharmacy. Excellent ...",
+   "htmlTitle": "#1 – Buy \u003cb\u003echeap\u003c/b\u003e viagra \u003cb\u003einternet\u003c/b\u003e. FDA Approved Pharmacy. Excellent \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://www.blackfeetnation.com/calendar/day/date/2033-07-25/6.html",
+   "displayLink": "www.blackfeetnation.com",
+   "snippet": "Apr 27, 2012 ... Buy cheap viagra internet. FDA Approved Pharmacy. Free samples for all orders!   Top-quality medicine at lowest prices.",
+   "htmlSnippet": "Apr 27, 2012 \u003cb\u003e...\u003c/b\u003e Buy \u003cb\u003echeap\u003c/b\u003e viagra \u003cb\u003einternet\u003c/b\u003e. FDA Approved Pharmacy. Free samples for all orders! \u003cbr\u003e  Top-quality medicine at lowest prices.",
+   "formattedUrl": "www.blackfeetnation.com/calendar/day/date/2033-07-25/6.html",
+   "htmlFormattedUrl": "www.blackfeetnation.com/calendar/day/date/2033-07-25/6.html"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "How to Make Use of Cheap Internet Banner Advertising | Internet ...",
+   "htmlTitle": "How to Make Use of \u003cb\u003eCheap Internet\u003c/b\u003e Banner Advertising | Internet \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://egruyere.org/79/how-to-make-use-of-cheap-internet-banner-advertising.html",
+   "displayLink": "egruyere.org",
+   "snippet": "For years now, internet banner advertising has captured the World Wide Web for   it has become a large help in saving an amount of money while reaching ...",
+   "htmlSnippet": "For years now, \u003cb\u003einternet\u003c/b\u003e banner advertising has captured the World Wide Web for \u003cbr\u003e  it has become a large help in saving an amount of money while reaching \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "D9Dyg8tsGgoJ",
+   "formattedUrl": "egruyere.org/.../how-to-make-use-of-cheap-internet-banner-advertising.html",
+   "htmlFormattedUrl": "egruyere.org/.../how-to-make-use-of-\u003cb\u003echeap\u003c/b\u003e-\u003cb\u003einternet\u003c/b\u003e-banner-advertising.html",
+   "pagemap": {
+    "metatags": [
+     {
+      "viewport": "width=device-width, initial-scale=1.0"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "FCC, tech companies launch cheap Internet program - The Hill's ...",
+   "htmlTitle": "FCC, tech companies launch \u003cb\u003echeap Internet\u003c/b\u003e program - The Hill&#39;s \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://thehill.com/blogs/hillicon-valley/technology/192673-fcc-tech-companies-launch-cheap-internet-program",
+   "displayLink": "thehill.com",
+   "snippet": "Nov 9, 2011 ... The Federal Communications Commission announced a partnership with   technology companies on Wednesday to provide cheap Internet ...",
+   "htmlSnippet": "Nov 9, 2011 \u003cb\u003e...\u003c/b\u003e The Federal Communications Commission announced a partnership with \u003cbr\u003e  technology companies on Wednesday to provide \u003cb\u003echeap Internet\u003c/b\u003e \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "JftrgY6h0N8J",
+   "formattedUrl": "thehill.com/.../192673-fcc-tech-companies-launch-cheap-internet-program",
+   "htmlFormattedUrl": "thehill.com/.../192673-fcc-tech-companies-launch-\u003cb\u003echeap\u003c/b\u003e-\u003cb\u003einternet\u003c/b\u003e-program",
+   "pagemap": {
+    "metatags": [
+     {
+      "title": "FCC, tech companies launch cheap Internet program",
+      "author": "Brendan Sasso",
+      "fbtagtype": "article",
+      "fbtagurl": "http://thehill.com/blogs/hillicon-valley/technology/192673-fcc-tech-companies-launch-cheap-internet-program",
+      "fbtagdescription": "The Federal Communications Commission announced a partnership with technology companies on Wednesday to provide cheap Internet access and computers to poor families. The program is aimed at expanding the number of people who have access to high-speed Internet.",
+      "publication_date": "2011-11-09",
+      "fbtagtitle": "FCC, tech companies launch cheap Internet program - The Hill's Hillicon Valley",
+      "canonical": "http://thehill.com/blogs/hillicon-valley/technology/192673-fcc-tech-companies-launch-cheap-internet-program"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Cheap Idaho High Speed Internet Service - Cheap ID Broadband ...",
+   "htmlTitle": "\u003cb\u003eCheap\u003c/b\u003e Idaho High Speed \u003cb\u003eInternet\u003c/b\u003e Service - \u003cb\u003eCheap\u003c/b\u003e ID Broadband \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://isp1.us/state/idaho/",
+   "displayLink": "isp1.us",
+   "snippet": "Compare Cheap Idaho High Speed Broadband Internet service providers. Our   discount prices are the lowest you'll find in Idaho. ISP 1 compares Broadband ...",
+   "htmlSnippet": "Compare \u003cb\u003eCheap\u003c/b\u003e Idaho High Speed Broadband \u003cb\u003eInternet\u003c/b\u003e service providers. Our \u003cbr\u003e  discount prices are the lowest you&#39;ll find in Idaho. ISP 1 compares Broadband \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "Hray1Kw79PsJ",
+   "formattedUrl": "isp1.us/state/idaho/",
+   "htmlFormattedUrl": "isp1.us/state/idaho/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://isp1.us/img/s-id-f.gif",
+      "type": "1",
+      "width": "120",
+      "height": "64"
+     }
+    ],
+    "metatags": [
+     {
+      "classification": "Idaho High Speed Internet Service Provider ID DSL ISP",
+      "date": "2012-15-01"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Internet Sunglasses | Buy Cheap Internet Prescription Sunglasses ...",
+   "htmlTitle": "Internet Sunglasses | Buy \u003cb\u003eCheap Internet\u003c/b\u003e Prescription Sunglasses \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://www.firmoo.com/z/internet-sunglasses.html",
+   "displayLink": "www.firmoo.com",
+   "snippet": "Buy Internet sunglasses at Firmoo that offers plentiful cheap yet quality Internet   sunglasses for men & women online like Internet prescription sunglasses, ...",
+   "htmlSnippet": "Buy \u003cb\u003eInternet\u003c/b\u003e sunglasses at Firmoo that offers plentiful \u003cb\u003echeap\u003c/b\u003e yet quality \u003cb\u003eInternet\u003c/b\u003e \u003cbr\u003e  sunglasses for men &amp; women online like \u003cb\u003eInternet\u003c/b\u003e prescription sunglasses, \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "RUgDJP4kA5oJ",
+   "formattedUrl": "www.firmoo.com/z/internet-sunglasses.html",
+   "htmlFormattedUrl": "www.firmoo.com/z/\u003cb\u003einternet\u003c/b\u003e-sunglasses.html"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Cheap Oregon High Speed Internet Service - Cheap OR Broadband ...",
+   "htmlTitle": "\u003cb\u003eCheap\u003c/b\u003e Oregon High Speed \u003cb\u003eInternet\u003c/b\u003e Service - \u003cb\u003eCheap\u003c/b\u003e OR Broadband \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://isp1.us/state/oregon/",
+   "displayLink": "isp1.us",
+   "snippet": "Compare Cheap Oregon High Speed Broadband Internet service providers. Our   discount prices are the lowest you'll find in Oregon. ISP 1 compares Broadband ...",
+   "htmlSnippet": "Compare \u003cb\u003eCheap\u003c/b\u003e Oregon High Speed Broadband \u003cb\u003eInternet\u003c/b\u003e service providers. Our \u003cbr\u003e  discount prices are the lowest you&#39;ll find in Oregon. ISP 1 compares Broadband \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "zcFET5DPwEkJ",
+   "formattedUrl": "isp1.us/state/oregon/",
+   "htmlFormattedUrl": "isp1.us/state/oregon/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://isp1.us/img/s-or-f.gif",
+      "type": "1",
+      "width": "120",
+      "height": "64"
+     }
+    ],
+    "metatags": [
+     {
+      "classification": "Oregon High Speed Internet Service Provider OR DSL ISP",
+      "date": "2012-16-06"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "CNN talks about Comcast's Internet Essentials",
+   "htmlTitle": "CNN talks about Comcast&#39;s \u003cb\u003eInternet\u003c/b\u003e Essentials",
+   "link": "http://www.cheapinternet.com/cnn-talks-about-comcast-internet-essentials",
+   "displayLink": "www.cheapinternet.com",
+   "snippet": "Jan 7, 2012 ... CNN's Randi Kaye interviews Comcast Exec about the company's new Internet   Essentials program for low income Americans in this video.",
+   "htmlSnippet": "Jan 7, 2012 \u003cb\u003e...\u003c/b\u003e CNN&#39;s Randi Kaye interviews Comcast Exec about the company&#39;s new \u003cb\u003eInternet\u003c/b\u003e \u003cbr\u003e  Essentials program for low income Americans in this video.",
+   "cacheId": "cRjAgupns94J",
+   "formattedUrl": "www.cheapinternet.com/cnn-talks-about-comcast-internet-essentials",
+   "htmlFormattedUrl": "www.\u003cb\u003echeapinternet\u003c/b\u003e.com/cnn-talks-about-comcast-\u003cb\u003einternet\u003c/b\u003e-essentials"
+  }
+ ]
+}

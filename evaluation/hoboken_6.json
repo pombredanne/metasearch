@@ -1,0 +1,362 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "nextPage": [
+   {
+    "title": "Google Custom Search - hoboken",
+    "totalResults": "2070000",
+    "searchTerms": "hoboken",
+    "count": 10,
+    "startIndex": 71,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "017401104989814545383:mf4lavmtuva"
+   }
+  ],
+  "request": [
+   {
+    "title": "Google Custom Search - hoboken",
+    "totalResults": "2070000",
+    "searchTerms": "hoboken",
+    "count": 10,
+    "startIndex": 61,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "017401104989814545383:mf4lavmtuva"
+   }
+  ],
+  "previousPage": [
+   {
+    "title": "Google Custom Search - hoboken",
+    "totalResults": "2070000",
+    "searchTerms": "hoboken",
+    "count": 10,
+    "startIndex": 51,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "017401104989814545383:mf4lavmtuva"
+   }
+  ]
+ },
+ "context": {
+  "title": "College MetaSearch Comparison"
+ },
+ "searchInformation": {
+  "searchTime": 0.197255,
+  "formattedSearchTime": "0.20",
+  "totalResults": "2070000",
+  "formattedTotalResults": "2,070,000"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "Hudson Reporter - News, Events, Classifieds, and Businesses in ...",
+   "htmlTitle": "Hudson Reporter - News, Events, Classifieds, and Businesses in \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://hudsonreporter.com/",
+   "displayLink": "hudsonreporter.com",
+   "snippet": "4 days ago ... HOBOKEN -- Did you miss the St. Ann's Festival this weekend in Hoboken? ...   The popular festival takes place on the west side of Hoboken on ...",
+   "htmlSnippet": "4 days ago \u003cb\u003e...\u003c/b\u003e \u003cb\u003eHOBOKEN\u003c/b\u003e -- Did you miss the St. Ann&#39;s Festival this weekend in \u003cb\u003eHoboken\u003c/b\u003e? \u003cb\u003e...\u003c/b\u003e \u003cbr\u003e  The popular festival takes place on the west side of \u003cb\u003eHoboken\u003c/b\u003e on \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "C_agR1UYCvUJ",
+   "formattedUrl": "hudsonreporter.com/",
+   "htmlFormattedUrl": "hudsonreporter.com/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://matchbin-assets.s3.amazonaws.com/public/sites/383/assets/GE12_IMG_6349150X150.JPG",
+      "type": "1",
+      "width": "120",
+      "height": "90"
+     }
+    ],
+    "metatags": [
+     {
+      "og:type": "article",
+      "og:image": "/images/article.jpg"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Hoboken City Real Estate | HobokenNJ.com - JerseyCityNJ.com",
+   "htmlTitle": "\u003cb\u003eHoboken\u003c/b\u003e City Real Estate | HobokenNJ.com - JerseyCityNJ.com",
+   "link": "http://www.hobokennj.com/",
+   "displayLink": "www.hobokennj.com",
+   "snippet": "Hoboken City Real Estate is a professional Real Estate Broker with a wide   selection of Hoboken and Jersey City homes for sale. For Hoboken condos ...",
+   "htmlSnippet": "\u003cb\u003eHoboken\u003c/b\u003e City Real Estate is a professional Real Estate Broker with a wide \u003cbr\u003e  selection of \u003cb\u003eHoboken\u003c/b\u003e and Jersey City homes for sale. For \u003cb\u003eHoboken\u003c/b\u003e condos \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "McIdyLhJZv8J",
+   "formattedUrl": "www.hobokennj.com/",
+   "htmlFormattedUrl": "www.\u003cb\u003ehoboken\u003c/b\u003enj.com/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://hcrenj.com/june20b/slides/p_0003.jpg",
+      "type": "1",
+      "width": "358",
+      "height": "141"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Carlo's Bakery of Cake Boss",
+   "htmlTitle": "Carlo&#39;s Bakery of Cake Boss",
+   "link": "http://www.carlosbakery.com/",
+   "displayLink": "www.carlosbakery.com",
+   "snippet": "The famous Hoboken bakery of Cake Boss, Buddy Valastro and La Famiglia.   View our cakes. Purchase items for pick up or delivery. Take a cake decorating ...",
+   "htmlSnippet": "The famous \u003cb\u003eHoboken\u003c/b\u003e bakery of Cake Boss, Buddy Valastro and La Famiglia. \u003cbr\u003e  View our cakes. Purchase items for pick up or delivery. Take a cake decorating \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "hfXHvbsRwx8J",
+   "formattedUrl": "www.carlosbakery.com/",
+   "htmlFormattedUrl": "www.carlosbakery.com/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.carlosbakery.com/images/instore.png",
+      "type": "1",
+      "width": "225",
+      "height": "225"
+     }
+    ],
+    "metatags": [
+     {
+      "viewport": "width=device-width",
+      "og:title": "Carlo's Bakery plans to ship",
+      "og:description": "What Carlo's Bakery products would you like us to ship first?",
+      "og:image": "http://www.carlosbakery.com/images/instore.png",
+      "fb:admins": "500053211,1227565541,92081037473294,100003699742013",
+      "fb:app_id": "215245486319"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "\" Hoboken Social Sandbox \" (Hoboken, NJ) - Meetup",
+   "htmlTitle": "&quot; \u003cb\u003eHoboken\u003c/b\u003e Social Sandbox &quot; (\u003cb\u003eHoboken\u003c/b\u003e, NJ) - Meetup",
+   "link": "http://www.hobokensocialsandbox.com/",
+   "displayLink": "www.hobokensocialsandbox.com",
+   "snippet": "If you are new to Hoboken or just looking to make some new friends, we will be   hosting lots of events for your mingling pleasure. Meeting people at events is the ...",
+   "htmlSnippet": "If you are new to \u003cb\u003eHoboken\u003c/b\u003e or just looking to make some new friends, we will be \u003cbr\u003e  hosting lots of events for your mingling pleasure. Meeting people at events is the \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "StpluTbXguIJ",
+   "formattedUrl": "www.hobokensocialsandbox.com/",
+   "htmlFormattedUrl": "www.\u003cb\u003ehoboken\u003c/b\u003esocialsandbox.com/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://photos3.meetupstatic.com/photos/event/5/5/3/4/thumb_73221812.jpeg",
+      "type": "1",
+      "width": "79",
+      "height": "54"
+     }
+    ],
+    "organization": [
+     {
+      "name": "\" Hoboken Social Sandbox \"",
+      "url": "http://www.hobokensocialsandbox.com/",
+      "image": "http://photos4.meetupstatic.com/photos/event/5/5/3/4/global_73221812.jpeg",
+      "foundingdate": "20070926"
+     }
+    ],
+    "postaladdress": [
+     {
+      "addresslocality": "Hoboken",
+      "addressregion": "NJ",
+      "postalcode": "07030"
+     }
+    ],
+    "event": [
+     {
+      "dtstart": "2012-07-25T19:30:00-04:00",
+      "summary": "BINGO Night",
+      "location": "Black Bear Bar and Grill 205 Washington St, Hoboken, NJ (map)",
+      "url": "http://www.hobokensocialsandbox.com/events/69074112/"
+     },
+     {
+      "eventtype": "Meetup",
+      "url": "BINGO Night",
+      "summary": "BINGO Night",
+      "startdate": "2012-07-25T19:30:00-04:00",
+      "location": "Black Bear Bar and Grill 205 Washington St, Hoboken, NJ (map)",
+      "description": "Join the Hoboken Social Sandbox for Bingo Night at Black Bear on Wed July 25 at 7:30 p.m. Food/Drink Specials Include: 5 mini burgers and 20oz Stella Mug for $9.99 $3... Learn more"
+     },
+     {
+      "eventtype": "Meetup",
+      "url": "Monthly Game Night Happy Hour at Pilsner Haus Beer Garden",
+      "summary": "Monthly Game Night Happy Hour at Pilsner Haus Beer Garden",
+      "startdate": "2012-07-31T19:00:00-04:00",
+      "location": "Pilsener Haus & Biergarten 1422 Grand Street, Hoboken, NJ (map)",
+      "description": "Put down your iphones and ipads and forget Words with Friends and join the Hoboken Social Sandbox for an old fashioned Game Night Happy Hour on Tuesday, July 31 at 7 p.m... Learn more"
+     },
+     {
+      "eventtype": "Meetup",
+      "url": "It's time to Karaoke...",
+      "summary": "It's time to Karaoke...",
+      "startdate": "2012-08-02T19:00:00-04:00",
+      "location": "Oddfellows 80 River St, Hoboken, NJ (map)",
+      "description": "It's a time to KARAOKE and have some fun... C'mon you ROCKSTARS let's see who is number 1! Learn more"
+     },
+     {
+      "eventtype": "Meetup",
+      "url": "New Member Happy Hour at Trinity",
+      "summary": "New Member Happy Hour at Trinity",
+      "startdate": "2012-08-09T19:30:00-04:00",
+      "location": "Trinity Restaurant * Bar* Lounge 306 Sinatra Drive, Hoboken, NJ (map)",
+      "description": "When moving to a new town, it can be difficult to make new friends. This is especially true of Hoboken and we have new members joining every week. This event is... Learn more"
+     },
+     {
+      "eventtype": "Meetup",
+      "url": "Pizza Party Fundraiser",
+      "summary": "Pizza Party Fundraiser",
+      "startdate": "2012-08-14T19:00:00-04:00",
+      "location": "Johnny Pepperoni 219 11th Street, Hoboken, NJ (map)",
+      "description": "Join us for a Pizza Party to benefit the Hoboken Shelter! Cost is $20 which includes pizza, beer, soda. A portion of the proceeds will be donated to the Hoboken Shelter.... Learn more"
+     }
+    ],
+    "metatags": [
+     {
+      "icbm": "40.75,-74.03",
+      "geo.position": "40.75;-74.03",
+      "geo.placename": "Hoboken, New Jersey, USA",
+      "geo.region": "US-NJ",
+      "og:site_name": "Meetup",
+      "og:title": "\" Hoboken Social Sandbox \"",
+      "og:type": "activity",
+      "og:description": "If you are new to Hoboken or just looking to make some new friends, we will be hosting lots of events for your mingling pleasure. Meeting people at events is the best way to broaden your social circle",
+      "og:locality": "Hoboken",
+      "og:country-name": "us",
+      "og:region": "NJ",
+      "og:postal-code": "07030",
+      "og:latitude": "40.75",
+      "og:longitude": "-74.03",
+      "og:image": "http://photos3.meetupstatic.com/photos/event/5/5/3/4/thumb_73221812.jpeg"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Hoboken Real Estate | Hoboken Brownstones | Jersey City ...",
+   "htmlTitle": "\u003cb\u003eHoboken\u003c/b\u003e Real Estate | \u003cb\u003eHoboken\u003c/b\u003e Brownstones | Jersey City \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://www.hbrownstone.com/",
+   "displayLink": "www.hbrownstone.com",
+   "snippet": "Since it's formation in 1980, the Hoboken Brownstone Company has   distinguished itself by the artistic re-creation of suburban neighborhoods from   Hoboken, ...",
+   "htmlSnippet": "Since it&#39;s formation in 1980, the \u003cb\u003eHoboken\u003c/b\u003e Brownstone Company has \u003cbr\u003e  distinguished itself by the artistic re-creation of suburban neighborhoods from \u003cbr\u003e  \u003cb\u003eHoboken\u003c/b\u003e, \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "NZ2BTmVh2CUJ",
+   "formattedUrl": "www.hbrownstone.com/",
+   "htmlFormattedUrl": "www.hbrownstone.com/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.hbrownstone.com/images/flash_piece.jpg",
+      "type": "1",
+      "width": "397",
+      "height": "127"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Hoboken Prenatal Massage",
+   "htmlTitle": "\u003cb\u003eHoboken\u003c/b\u003e Prenatal Massage",
+   "link": "http://www.hobokenprenatalmassage.com/",
+   "displayLink": "www.hobokenprenatalmassage.com",
+   "snippet": "Hoboken Prenatal Massage specializes in prenatal, labor support and postnatal   massage. The on-line store offers a full line if items for moms to be, dads and ...",
+   "htmlSnippet": "\u003cb\u003eHoboken\u003c/b\u003e Prenatal Massage specializes in prenatal, labor support and postnatal \u003cbr\u003e  massage. The on-line store offers a full line if items for moms to be, dads and \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "egFEwr354KQJ",
+   "formattedUrl": "www.hobokenprenatalmassage.com/",
+   "htmlFormattedUrl": "www.\u003cb\u003ehoboken\u003c/b\u003eprenatalmassage.com/"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Hoboken Real Estate & Homes for Sale, Hoboken Houses - Yahoo ...",
+   "htmlTitle": "\u003cb\u003eHoboken\u003c/b\u003e Real Estate &amp; Homes for Sale, \u003cb\u003eHoboken\u003c/b\u003e Houses - Yahoo \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://realestate.yahoo.com/search/New_Jersey/Hoboken/homes-for-sale",
+   "displayLink": "realestate.yahoo.com",
+   "snippet": "Yahoo! Homes - Find Hoboken, NJ homes for sale. View pictures, research home   values & local information, and map houses for sale in Hoboken.",
+   "htmlSnippet": "Yahoo! Homes - Find \u003cb\u003eHoboken\u003c/b\u003e, NJ homes for sale. View pictures, research home \u003cbr\u003e  values &amp; local information, and map houses for sale in \u003cb\u003eHoboken\u003c/b\u003e.",
+   "cacheId": "lIeg4a5Ek4UJ",
+   "formattedUrl": "realestate.yahoo.com/search/New_Jersey/Hoboken/homes-for-sale",
+   "htmlFormattedUrl": "realestate.yahoo.com/search/New_Jersey/\u003cb\u003eHoboken\u003c/b\u003e/homes-for-sale",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://l.yimg.com/qf/re301/eb39af10a7c20e31c4d2e36f130fa/2d306b09ba2d70ef376a1f3482a26699.jpg",
+      "type": "1",
+      "width": "111",
+      "height": "84"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Stevens Institute of Technology",
+   "htmlTitle": "Stevens Institute of Technology",
+   "link": "http://www.stevens.edu/",
+   "displayLink": "www.stevens.edu",
+   "snippet": "Hoboken, N.J. – Stevens Institute of Technology, Rutgers University and New ...   Hoboken, N.J. – Through an affiliation agreement signed on June 20, 2012, ...",
+   "htmlSnippet": "\u003cb\u003eHoboken\u003c/b\u003e, N.J. – Stevens Institute of Technology, Rutgers University and New \u003cb\u003e...\u003c/b\u003e \u003cbr\u003e  \u003cb\u003eHoboken\u003c/b\u003e, N.J. – Through an affiliation agreement signed on June 20, 2012, \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "PUxWqWLSjO0J",
+   "formattedUrl": "www.stevens.edu/",
+   "htmlFormattedUrl": "www.stevens.edu/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.stevens.edu/sit/sites/all/themes/sit_default/css/images/postscript/shield.png",
+      "type": "1",
+      "width": "206",
+      "height": "153"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Hoboken Dog Association",
+   "htmlTitle": "\u003cb\u003eHoboken\u003c/b\u003e Dog Association",
+   "link": "http://www.hobokendogs.org/",
+   "displayLink": "www.hobokendogs.org",
+   "snippet": "A local non-profit organization providing information on responsible dog   ownership. Features event schedules and press releases. [Requires Flash]",
+   "htmlSnippet": "A local non-profit organization providing information on responsible dog \u003cbr\u003e  ownership. Features event schedules and press releases. [Requires Flash]",
+   "cacheId": "2audSgNIyaIJ",
+   "formattedUrl": "www.hobokendogs.org/",
+   "htmlFormattedUrl": "www.\u003cb\u003ehoboken\u003c/b\u003edogs.org/"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "City of Hoboken, NJ » Artists' Studio Tour",
+   "htmlTitle": "City of \u003cb\u003eHoboken\u003c/b\u003e, NJ » Artists&#39; Studio Tour",
+   "link": "http://www.hobokennj.org/artists-studio-tour/",
+   "displayLink": "www.hobokennj.org",
+   "snippet": "The City of Hoboken provides free regular news updates and alerts via email and   ... Swift911 is Hoboken's Emergency Notification service to inform residents in ...",
+   "htmlSnippet": "The City of \u003cb\u003eHoboken\u003c/b\u003e provides free regular news updates and alerts via email and \u003cbr\u003e  \u003cb\u003e...\u003c/b\u003e Swift911 is \u003cb\u003eHoboken&#39;s\u003c/b\u003e Emergency Notification service to inform residents in \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "hbZ7BQNM5x8J",
+   "formattedUrl": "www.hobokennj.org/artists-studio-tour/",
+   "htmlFormattedUrl": "www.\u003cb\u003ehoboken\u003c/b\u003enj.org/artists-studio-tour/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.hobokennj.org/content/wp-content/uploads/2009/09/stefanie-larry-bijou-08-300x256.jpg",
+      "type": "1",
+      "width": "240",
+      "height": "204"
+     }
+    ],
+    "metatags": [
+     {
+      "fb:page_id": "107840642570023"
+     }
+    ]
+   }
+  }
+ ]
+}

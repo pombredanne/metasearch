@@ -1,0 +1,615 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "nextPage": [
+   {
+    "title": "Google Custom Search - pampered chef",
+    "totalResults": "992000",
+    "searchTerms": "pampered chef",
+    "count": 10,
+    "startIndex": 21,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "017401104989814545383:mf4lavmtuva"
+   }
+  ],
+  "request": [
+   {
+    "title": "Google Custom Search - pampered chef",
+    "totalResults": "992000",
+    "searchTerms": "pampered chef",
+    "count": 10,
+    "startIndex": 11,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "017401104989814545383:mf4lavmtuva"
+   }
+  ],
+  "previousPage": [
+   {
+    "title": "Google Custom Search - pampered chef",
+    "totalResults": "992000",
+    "searchTerms": "pampered chef",
+    "count": 10,
+    "startIndex": 1,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "017401104989814545383:mf4lavmtuva"
+   }
+  ]
+ },
+ "context": {
+  "title": "College MetaSearch Comparison"
+ },
+ "searchInformation": {
+  "searchTime": 0.199329,
+  "formattedSearchTime": "0.20",
+  "totalResults": "992000",
+  "formattedTotalResults": "992,000"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "pampered chef | eBay",
+   "htmlTitle": "\u003cb\u003epampered chef\u003c/b\u003e | eBay",
+   "link": "http://www.ebay.com/sch/Kitchen-Dining-Bar-/20625/i.html?_nkw=pampered+chef",
+   "displayLink": "www.ebay.com",
+   "snippet": "3369 results ... Find pampered chef and pampered chef egg slicer from a vast ...",
+   "htmlSnippet": "3369 results \u003cb\u003e...\u003c/b\u003e Find \u003cb\u003epampered chef\u003c/b\u003e and \u003cb\u003epampered chef\u003c/b\u003e egg slicer from a vast \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "m8g4E7KNGmgJ",
+   "formattedUrl": "www.ebay.com/sch/Kitchen-Dining.../i.html?_nkw=pampered+chef",
+   "htmlFormattedUrl": "www.ebay.com/sch/Kitchen-Dining.../i.html?_nkw=\u003cb\u003epampered\u003c/b\u003e+\u003cb\u003echef\u003c/b\u003e",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://thumbs2.ebaystatic.com/m/mlJvVrwx3y1l-a_Y4Yic7dA/140.jpg",
+      "type": "1",
+      "width": "112",
+      "height": "112"
+     }
+    ],
+    "searchresultspage": [
+     {
+      "description": "3,369 results found for pampered chef"
+     }
+    ],
+    "offer": [
+     {
+      "url": "http://www.ebay.com/itm/PAMPERED-CHEF-ice-cream-scoop-item-2731-NEW-IN-PACKAGE-/271020258225?pt=LH_DefaultDomain_0&hash=item3f1a10f3b1",
+      "image": "http://thumbs2.ebaystatic.com/m/mEsjN3DmvG2s-4rjKMPlH5w/140.jpg",
+      "name": "PAMPERED CHEF ice cream scoop item 2731 NEW IN PACKAGE",
+      "price": "$11.93"
+     },
+     {
+      "url": "http://www.ebay.com/itm/The-Pampered-Chef-Food-Chopper-2585-/221073736341?pt=LH_DefaultDomain_0&hash=item3379058295",
+      "image": "http://thumbs2.ebaystatic.com/m/mVBwcwrjTLNiN-GZaXEM8yw/140.jpg",
+      "name": "The Pampered Chef Food Chopper #2585",
+      "price": "$15.50"
+     },
+     {
+      "url": "http://www.ebay.com/itm/Pampered-Chef-Rectangle-Baking-Stone-12-x-15-Family-Heritage-Collection-/400310141645?pt=LH_DefaultDomain_0&hash=item5d345802cd",
+      "image": "http://thumbs2.ebaystatic.com/m/mUUfLmyqIgCkJlTjC0zCMmQ/140.jpg",
+      "name": "Pampered Chef Rectangle Baking Stone 12\" x 15\" Family Heritage Collection",
+      "price": "$7.99"
+     },
+     {
+      "url": "http://www.ebay.com/itm/PAMPERED-CHEF-Small-Micro-Cooker-Item-2776-NEW-Great-for-Microwave-Cooking-/160820852811?pt=LH_DefaultDomain_0&hash=item2571ab784b",
+      "image": "http://thumbs4.ebaystatic.com/m/mqBdHP_egkoAjrV4ZwpupiA/140.jpg",
+      "name": "PAMPERED CHEF Small Micro Cooker Item #2776 NEW Great for Microwave Cooking",
+      "price": "$9.50"
+     },
+     {
+      "url": "http://www.ebay.com/itm/New-in-Box-Pampered-Chef-Ultimate-Slice-Grate-/300744440604?pt=LH_DefaultDomain_0&hash=item4605c3fb1c",
+      "image": "http://thumbs1.ebaystatic.com/m/mDBoNoWBTYkcelR6deVaQfA/140.jpg",
+      "name": "New in Box Pampered Chef Ultimate Slice & Grate",
+      "price": "$20.00"
+     },
+     {
+      "url": "http://www.ebay.com/itm/Pampered-Chef-Nylon-Pan-Scrapers-SET-OF-3-/261047943246?pt=LH_DefaultDomain_0&hash=item3cc7ab804e",
+      "image": "http://thumbs3.ebaystatic.com/m/mDROagO6JOJBzOfm6XnRPMQ/140.jpg",
+      "name": "Pampered Chef Nylon Pan Scrapers SET OF 3",
+      "price": "$7.99"
+     },
+     {
+      "url": "http://www.ebay.com/itm/PAMPERED-CHEF-MEDIUM-SCOOP-NEW-IN-BOX-COOKIES-/160846127937?pt=LH_DefaultDomain_0&hash=item25732d2341",
+      "image": "http://thumbs2.ebaystatic.com/m/m7BCxfMwVWA8YJXnT8T2oaQ/140.jpg",
+      "name": "PAMPERED CHEF MEDIUM SCOOP NEW IN BOX COOKIES",
+      "price": "$13.50"
+     },
+     {
+      "url": "http://www.ebay.com/itm/Pampered-Chef-Quick-Stir-Gallon-Pitcher-2275-NEW-/271020834947?pt=LH_DefaultDomain_0&hash=item3f1a19c083",
+      "image": "http://thumbs4.ebaystatic.com/m/mJeqodNYu5aABfi4oiDaZ9g/140.jpg",
+      "name": "Pampered Chef - Quick Stir Gallon Pitcher - #2275 - NEW",
+      "price": "$23.55"
+     },
+     {
+      "url": "http://www.ebay.com/itm/PAMPERED-CHEF-Digital-Pocket-Thermometer-2242-NEW-/280923993335?pt=LH_DefaultDomain_0&hash=item41685ff4f7",
+      "image": "http://thumbs4.ebaystatic.com/m/mlWzxH4xw5IZ9UW4RA679iw/140.jpg",
+      "name": "PAMPERED CHEF Digital Pocket Thermometer 2242 NEW",
+      "price": "$17.99"
+     },
+     {
+      "url": "http://www.ebay.com/itm/Pampered-Chef-Carrying-Case-/150860368134?pt=LH_DefaultDomain_0&hash=item231ffa8906",
+      "image": "http://thumbs3.ebaystatic.com/m/mYy4bE5aCilCgW4Wy0aqK4A/140.jpg",
+      "name": "Pampered Chef Carrying Case",
+      "price": "$12.00"
+     },
+     {
+      "url": "http://www.ebay.com/itm/PAMPERED-CHEF-Mini-Serving-Spatula-Item-2622-Nice-size-Beveled-Edge-Server-/150858390283?pt=LH_DefaultDomain_0&hash=item231fdc5b0b",
+      "image": "http://thumbs4.ebaystatic.com/m/mCYAaztmJK2MKW443n01S5A/140.jpg",
+      "name": "PAMPERED CHEF Mini Serving Spatula Item #2622 Nice size - Beveled Edge Server",
+      "price": "$9.25"
+     },
+     {
+      "url": "http://www.ebay.com/itm/NEW-NIB-PAMPERED-CHEF-ULTIMATE-MANDOLINE-SLICER-/261068989123?pt=LH_DefaultDomain_0&hash=item3cc8eca2c3",
+      "image": "http://thumbs4.ebaystatic.com/m/mAw7swKPvOaMKpy1BWz2L1g/140.jpg",
+      "name": "NEW NIB PAMPERED CHEF ULTIMATE MANDOLINE SLICER",
+      "price": "$23.50"
+     },
+     {
+      "url": "http://www.ebay.com/itm/garlic-press-pampered-chef-/130732075873?pt=LH_DefaultDomain_0&hash=item1e703d2b61",
+      "image": "http://thumbs2.ebaystatic.com/m/mXZZLGwLUCLjKezThG1UVng/140.jpg",
+      "name": "garlic press pampered chef",
+      "price": "$11.49"
+     },
+     {
+      "url": "http://www.ebay.com/itm/Pampered-Chef-Medium-Scoop-Brand-New-/120936426293?pt=LH_DefaultDomain_0&hash=item1c285f6b35",
+      "image": "http://thumbs2.ebaystatic.com/m/mnw3QVeaNKojvngGoFzg2BQ/140.jpg",
+      "name": "Pampered Chef Medium Scoop Brand New",
+      "price": "$15.15"
+     },
+     {
+      "url": "http://www.ebay.com/itm/Pampered-Chef-Simple-Additions-Pumpkin-Dish-2082-Serving-Bowl-NEW-/271020826959?pt=LH_DefaultDomain_0&hash=item3f1a19a14f",
+      "image": "http://thumbs4.ebaystatic.com/m/mmBHob5BYZ2mEWqnZHrV0pw/140.jpg",
+      "name": "Pampered Chef - Simple Additions Pumpkin Dish - #2082 - Serving Bowl - NEW",
+      "price": "$7.99"
+     },
+     {
+      "url": "http://www.ebay.com/itm/PAMPERED-CHEF-Garlic-Press-Item-2576-New-in-Box-/160845529881?pt=LH_DefaultDomain_0&hash=item2573240319",
+      "image": "http://thumbs2.ebaystatic.com/m/mp31NaEgU_cBJuXWz_0wobw/140.jpg",
+      "name": "PAMPERED CHEF Garlic Press Item #2576 - New in Box",
+      "price": "$20.95"
+     },
+     {
+      "url": "http://www.ebay.com/itm/PAMPERED-CHEF-CORN-BUTTERER-NEW-SEALED-2460-/251109754094?pt=LH_DefaultDomain_0&hash=item3a774ec4ee",
+      "image": "http://thumbs3.ebaystatic.com/m/m8uHD-WWq7ITaZw317wQBlg/140.jpg",
+      "name": "PAMPERED CHEF CORN BUTTERER NEW SEALED 2460",
+      "price": "$3.99"
+     },
+     {
+      "url": "http://www.ebay.com/itm/Pampered-Chef-Stainless-Steel-Mixing-Bowls-w-Lids-Set-of-3-BRAND-NEW-IN-BOX-/251109721969?pt=LH_DefaultDomain_0&hash=item3a774e4771",
+      "image": "http://thumbs2.ebaystatic.com/m/mlJvVrwx3y1l-a_Y4Yic7dA/140.jpg",
+      "name": "Pampered Chef Stainless Steel Mixing Bowls w/ Lids-Set of 3-BRAND NEW IN BOX",
+      "price": "$65.99"
+     },
+     {
+      "url": "http://www.ebay.com/itm/Pampered-Chef-Mix-N-Chop-New-in-Package-Unopened-/160838940437?pt=LH_DefaultDomain_0&hash=item2572bf7715",
+      "image": "http://thumbs2.ebaystatic.com/m/mn6dGmzxIWznMV76zhbK5nw/140.jpg",
+      "name": "Pampered Chef Mix 'N Chop New in Package Unopened",
+      "price": "$12.74"
+     },
+     {
+      "url": "http://www.ebay.com/itm/2-NEW-PAMPERED-CHEF-STACKABLE-COOLING-RACK-1587-/251112691483?pt=LH_DefaultDomain_0&hash=item3a777b971b",
+      "image": "http://thumbs4.ebaystatic.com/m/mOW2JnFMa5uOxxFeRY6ZItQ/140.jpg",
+      "name": "2 NEW!! PAMPERED CHEF STACKABLE COOLING RACK #1587",
+      "price": "$11.01"
+     },
+     {
+      "url": "http://www.ebay.com/itm/PAMPERED-CHEF-Kernel-Cutter-Item-1114-Serrated-Blade-with-Protective-Cover-/160845549442?pt=LH_DefaultDomain_0&hash=item2573244f82",
+      "image": "http://thumbs3.ebaystatic.com/m/miDl1RMNns6c-BlKHLRcbcA/140.jpg",
+      "name": "PAMPERED CHEF Kernel Cutter - Item # 1114 - Serrated Blade with Protective Cover",
+      "price": "$12.25"
+     },
+     {
+      "url": "http://www.ebay.com/itm/Pampered-Chef-Microwave-Chip-Maker-Set-of-2-/120953577447?pt=LH_DefaultDomain_0&hash=item1c29651fe7",
+      "image": "http://thumbs4.ebaystatic.com/m/mVCD0OcPn0Qr66Pq3D73SIg/140.jpg",
+      "name": "Pampered Chef Microwave Chip Maker Set of 2",
+      "price": "$15.50"
+     },
+     {
+      "url": "http://www.ebay.com/itm/Pampered-Chef-wine-plugger-pourer-/120953356361?pt=LH_DefaultDomain_0&hash=item1c2961c049",
+      "image": "http://thumbs2.ebaystatic.com/m/mQzY72Yqv6fWpOyrVorPuDQ/140.jpg",
+      "name": "Pampered Chef wine plugger/pourer",
+      "price": "$2.25"
+     },
+     {
+      "url": "http://www.ebay.com/itm/PAMPERED-CHEF-Vegetable-Peeler-contoured-handle-NEW-/271020101561?pt=LH_DefaultDomain_0&hash=item3f1a0e8fb9",
+      "image": "http://thumbs2.ebaystatic.com/m/mbB3gYo73OQBB805ceQveaw/140.jpg",
+      "name": "PAMPERED CHEF Vegetable Peeler contoured handle NEW",
+      "price": "$9.75"
+     },
+     {
+      "url": "http://www.ebay.com/itm/PAMPERED-CHEF-GARLIC-PRESS-NEW-IN-PACKAGE-KITCHEN-TOOL-/360474114205?pt=LH_DefaultDomain_0&hash=item53edee789d",
+      "image": "http://thumbs2.ebaystatic.com/m/mOdJIl6rgJpRQJDM5QCWE5A/140.jpg",
+      "name": "PAMPERED CHEF GARLIC PRESS NEW IN PACKAGE KITCHEN TOOL",
+      "price": "$10.03"
+     },
+     {
+      "url": "http://www.ebay.com/itm/PAMPERED-CHEF-Petite-Bamboo-Spoon-Set-2307-NEW-/280925937796?pt=LH_DefaultDomain_0&hash=item41687da084",
+      "image": "http://thumbs1.ebaystatic.com/m/msdcTQgKbA3QwdftvEKdRxA/140.jpg",
+      "name": "PAMPERED CHEF Petite Bamboo Spoon Set 2307 NEW",
+      "price": "$6.89"
+     },
+     {
+      "url": "http://www.ebay.com/itm/PAMPERED-CHEF-FOOD-CHOPPER-/261068252582?pt=LH_DefaultDomain_0&hash=item3cc8e165a6",
+      "image": "http://thumbs3.ebaystatic.com/m/m9JVoYtJYCIFMrpKc7-S7Mw/140.jpg",
+      "name": "PAMPERED CHEF FOOD CHOPPER",
+      "price": "$4.99"
+     },
+     {
+      "url": "http://www.ebay.com/itm/NIB-PAMPERED-CHEF-DELUXE-CHEESE-GRATER-WITH-2-GRATERS-AND-INSTRUCTIONS-/330764999387?pt=LH_DefaultDomain_0&hash=item4d03215adb",
+      "image": "http://thumbs4.ebaystatic.com/m/mvuo1FVw9otC-NRLa_clBTA/140.jpg",
+      "name": "NIB PAMPERED CHEF DELUXE CHEESE GRATER WITH 2 GRATERS AND INSTRUCTIONS!",
+      "price": "$8.50"
+     },
+     {
+      "url": "http://www.ebay.com/itm/PAMPERED-CHEF-Quick-Stir-Pitcher-2-quarts-2272-NEW-/271020106805?pt=LH_DefaultDomain_0&hash=item3f1a0ea435",
+      "image": "http://thumbs2.ebaystatic.com/m/mmsH3plaGiZfgT_VcRmhalQ/140.jpg",
+      "name": "PAMPERED CHEF Quick Stir Pitcher 2 quarts 2272 NEW",
+      "price": "$23.48"
+     },
+     {
+      "url": "http://www.ebay.com/itm/Pampered-Chef-Food-Chopper-/230825955820?pt=LH_DefaultDomain_0&hash=item35be4c91ec",
+      "image": "http://thumbs1.ebaystatic.com/m/mfSq3o1poZuRaK3utncsGDQ/140.jpg",
+      "name": "Pampered Chef Food Chopper",
+      "price": "$19.01"
+     },
+     {
+      "url": "http://www.ebay.com/itm/Pampered-Chef-KITCHEN-NEW-Petite-Bamboo-Set-Small-Spoon-1-2307-1-2047-/221076148408?pt=LH_DefaultDomain_0&hash=item33792a50b8",
+      "image": "http://thumbs1.ebaystatic.com/m/m8WsJGjmE8vQdylvAHgv68w/140.jpg",
+      "name": "Pampered Chef KITCHEN NEW* Petite Bamboo Set Small Spoon 1- # 2307 & 1-2047",
+      "price": "$11.43"
+     },
+     {
+      "url": "http://www.ebay.com/itm/Pampered-Chef-grinder-holder-salt-and-pepper-caddy-/170879876512?pt=LH_DefaultDomain_0&hash=item27c93bfda0",
+      "image": "http://thumbs1.ebaystatic.com/m/mZWPrfrPYQI1VQeM7gvZb2g/140.jpg",
+      "name": "Pampered Chef grinder holder salt and pepper caddy",
+      "price": "$11.00"
+     },
+     {
+      "url": "http://www.ebay.com/itm/Pampered-Chef-Smooth-Edge-can-opener-right-or-left-handed-/251110783385?pt=LH_DefaultDomain_0&hash=item3a775e7999",
+      "image": "http://thumbs2.ebaystatic.com/m/mj2v97yspvgvbtbvabCiX2Q/140.jpg",
+      "name": "Pampered Chef Smooth Edge can opener right or left handed",
+      "price": "$11.99"
+     },
+     {
+      "url": "http://www.ebay.com/itm/Pampered-Chef-Twix-it-Clips-NIP-2651-/330761865023?pt=LH_DefaultDomain_0&hash=item4d02f1873f",
+      "image": "http://thumbs4.ebaystatic.com/m/mAio2IvcpCbCpOsVjH_eUng/140.jpg",
+      "name": "Pampered Chef Twix it Clips NIP #2651",
+      "price": "$6.00"
+     },
+     {
+      "url": "http://www.ebay.com/itm/Pampered-Chef-Stoneware-Rectangular-Lid-Bowl-Roaster-/400310164091?pt=LH_DefaultDomain_0&hash=item5d34585a7b",
+      "image": "http://thumbs4.ebaystatic.com/m/mTVaofaE1wIL57kj7r70JyA/140.jpg",
+      "name": "Pampered Chef Stoneware Rectangular Lid / Bowl Roaster",
+      "price": "$22.99"
+     },
+     {
+      "url": "http://www.ebay.com/itm/New-5-pc-Nylon-Pampered-Chef-Spoons-Servers-/221070624223?pt=LH_DefaultDomain_0&hash=item3378d605df",
+      "image": "http://thumbs4.ebaystatic.com/m/mP11uxvlkRjajU4lmy3BPvw/140.jpg",
+      "name": "New - 5 pc Nylon Pampered Chef - Spoons & Servers",
+      "price": "$17.95"
+     },
+     {
+      "url": "http://www.ebay.com/itm/PAMPERED-CHEF-13-CLASSIC-ROUND-PIZZA-STONE-1340-BRAND-NEW-/251109780534?pt=LH_DefaultDomain_0&hash=item3a774f2c36",
+      "image": "http://thumbs3.ebaystatic.com/m/m9co_PjxXCngshZNdBud2JQ/140.jpg",
+      "name": "PAMPERED CHEF 13\" CLASSIC ROUND PIZZA STONE 1340 BRAND NEW",
+      "price": "$9.99"
+     },
+     {
+      "url": "http://www.ebay.com/itm/PAMPERED-CHEF-ITEMS-/290745768379?pt=LH_DefaultDomain_0&hash=item43b1cc59bb",
+      "image": "http://thumbs4.ebaystatic.com/m/m-1FXuJfvLZatbD2IEvv-FA/140.jpg",
+      "name": "PAMPERED CHEF ITEMS",
+      "price": "$125.00"
+     },
+     {
+      "url": "http://www.ebay.com/itm/Pampered-Chef-NEW-Twixit-Clip-Combo-Pack-2651-Chip-Clips-FREE-SHIPPING-/380451173718?pt=LH_DefaultDomain_0&hash=item5894a83556",
+      "image": "http://thumbs3.ebaystatic.com/m/m2Yp2N9QuGsyFcMbQa_J9jQ/140.jpg",
+      "name": "Pampered Chef NEW* Twixit Clip Combo Pack # 2651 Chip Clips FREE SHIPPING",
+      "price": "$8.79"
+     },
+     {
+      "url": "http://www.ebay.com/itm/PAMPERED-CHEF-FOOD-CHOPPER-/280924033396?pt=LH_DefaultDomain_0&hash=item4168609174",
+      "image": "http://thumbs1.ebaystatic.com/m/mTdO3_2mTCmhgjkAp-_eKhg/140.jpg",
+      "name": "PAMPERED CHEF FOOD CHOPPER",
+      "price": "$9.99"
+     },
+     {
+      "url": "http://www.ebay.com/itm/PAMPERED-CHEF-Smooth-Edge-Can-Opener-Item-2759-Right-or-Left-Hand-Users-/160845525459?pt=LH_DefaultDomain_0&hash=item257323f1d3",
+      "image": "http://thumbs4.ebaystatic.com/m/moOitv9A7ChF5l-M6r8eeQw/140.jpg",
+      "name": "PAMPERED CHEF Smooth Edge Can Opener Item # 2759 - Right or Left Hand Users",
+      "price": "$22.95"
+     },
+     {
+      "url": "http://www.ebay.com/itm/PAMPERED-CHEF-CONSULTANT-Lot-Aprons-Tablecloths-Flags-Nice-/230828681243?pt=LH_DefaultDomain_0&hash=item35be76281b",
+      "image": "http://thumbs4.ebaystatic.com/m/mhxPCQ_g8nGNSbS8IIADoKw/140.jpg",
+      "name": "PAMPERED CHEF CONSULTANT Lot - Aprons, Tablecloths, Flags Nice!",
+      "price": "$19.99"
+     },
+     {
+      "url": "http://www.ebay.com/itm/Pampered-Chef-Garlic-Press-New-/200793859001?pt=LH_DefaultDomain_0&hash=item2ec03f23b9",
+      "image": "http://thumbs2.ebaystatic.com/m/mQzYCeGqeNewjTso_oyxtzA/140.jpg",
+      "name": "Pampered Chef Garlic Press New",
+      "price": "$14.50"
+     },
+     {
+      "url": "http://www.ebay.com/itm/PAMPERED-CHEF-stackable-cooling-racks-SET-OF-2-new-NEW-/280925942751?pt=LH_DefaultDomain_0&hash=item41687db3df",
+      "image": "http://thumbs4.ebaystatic.com/m/m_XipWmpzd-fdnGoxxmXskg/140.jpg",
+      "name": "PAMPERED CHEF stackable cooling racks SET OF 2 new NEW",
+      "price": "$35.79"
+     },
+     {
+      "url": "http://www.ebay.com/itm/NEW-PAMPERED-CHEF-CORN-COB-NOBS-KNOBS-NEW-IN-PACKAGE-/251109749094?pt=LH_DefaultDomain_0&hash=item3a774eb166",
+      "image": "http://thumbs3.ebaystatic.com/m/mc0Q1iBzUGNnAh0yfBuqokA/140.jpg",
+      "name": "NEW PAMPERED CHEF CORN COB NOBS KNOBS NEW IN PACKAGE",
+      "price": "$5.99"
+     },
+     {
+      "url": "http://www.ebay.com/itm/New-PAMPERED-CHEF-Small-Nylon-Turner-2340-/221070630363?pt=LH_DefaultDomain_0&hash=item3378d61ddb",
+      "image": "http://thumbs4.ebaystatic.com/m/mTIkPJXQK68BSO5vITs6kSg/140.jpg",
+      "name": "New PAMPERED CHEF Small Nylon Turner #2340",
+      "price": "$4.95"
+     },
+     {
+      "url": "http://www.ebay.com/itm/Pampered-Chef-BBQ-Pizza-Pan-Grilling-Recipe-Cook-Book-and-Flexible-Turner-/230829241312?pt=LH_DefaultDomain_0&hash=item35be7eb3e0",
+      "image": "http://thumbs1.ebaystatic.com/m/mO_hf0Y59Bj18Gwg5cyfvLg/140.jpg",
+      "name": "Pampered Chef BBQ Pizza Pan, Grilling Recipe Cook Book and Flexible Turner",
+      "price": "$17.51"
+     },
+     {
+      "url": "http://www.ebay.com/itm/THE-PAMPERED-CHEF-COATING-TRAYS-AND-TOOL-FOOD-PREPARATION-UNUSED-IN-BOX-/261067992369?pt=LH_DefaultDomain_0&hash=item3cc8dd6d31",
+      "image": "http://thumbs2.ebaystatic.com/m/mXMQ-VE2_nHZUBE3evMUcrw/140.jpg",
+      "name": "THE PAMPERED CHEF COATING TRAYS AND TOOL FOOD PREPARATION UNUSED IN BOX",
+      "price": "$4.50"
+     },
+     {
+      "url": "http://www.ebay.com/itm/PINK-BREAST-CANCER-AWARENESS-PAMPERED-CHEF-HOUSEHOLD-GLOVES-/261070920789?pt=LH_DefaultDomain_0&hash=item3cc90a1c55",
+      "image": "http://thumbs2.ebaystatic.com/m/mbOPyOZqikQJYvDwIcFCwpg/140.jpg",
+      "name": "PINK BREAST CANCER AWARENESS PAMPERED CHEF HOUSEHOLD GLOVES",
+      "price": "$2.80"
+     },
+     {
+      "url": "http://www.ebay.com/itm/Pampered-Chef-Stonwware-Large-Bar-Pan-10-x-15-5-inches-/170881164094?pt=LH_DefaultDomain_0&hash=item27c94fa33e",
+      "image": "http://thumbs3.ebaystatic.com/m/mFiw4NlaHLK5jZsqPzBfx7Q/140.jpg",
+      "name": "Pampered Chef Stonwware Large Bar Pan 10 x 15.5 inches",
+      "price": "$17.99"
+     }
+    ],
+    "metatags": [
+     {
+      "title": "pampered chef | eBay",
+      "msvalidate.01": "31154A785F516EC9842FC3BA2A70FB1A"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Trattoria Pampered Chef",
+   "htmlTitle": "Trattoria \u003cb\u003ePampered Chef\u003c/b\u003e",
+   "link": "http://trattoriapamperedchef.com/",
+   "displayLink": "trattoriapamperedchef.com",
+   "snippet": "... image2, image3. image4, image5, image6. ©2008 Trattotia Pampered Cheff.   Home | Menus | Catering | Location | Contact Us. Designed by: MacImpressions.",
+   "htmlSnippet": "\u003cb\u003e...\u003c/b\u003e image2, image3. image4, image5, image6. ©2008 Trattotia \u003cb\u003ePampered\u003c/b\u003e Cheff. \u003cbr\u003e  Home | Menus | Catering | Location | Contact Us. Designed by: MacImpressions.",
+   "cacheId": "ir7ZnMfr9W0J",
+   "formattedUrl": "trattoriapamperedchef.com/",
+   "htmlFormattedUrl": "trattoria\u003cb\u003epamperedchef\u003c/b\u003e.com/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://trattoriapamperedchef.com/Images/bellaitalia_lambshank.jpg",
+      "type": "1",
+      "width": "160",
+      "height": "90"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "The Pampered Chef Recalls Ice Cream Dippers Due to Impact Injury ...",
+   "htmlTitle": "The \u003cb\u003ePampered Chef\u003c/b\u003e Recalls Ice Cream Dippers Due to Impact Injury \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://www.cpsc.gov/cpscpub/prerel/prhtml12/12062.html",
+   "displayLink": "www.cpsc.gov",
+   "snippet": "Dec 20, 2011 ... Incidents/Injuries: The Pampered Chef has received 16 reports including damage   to kitchen items and six reports of personal injuries including ...",
+   "htmlSnippet": "Dec 20, 2011 \u003cb\u003e...\u003c/b\u003e Incidents/Injuries: The \u003cb\u003ePampered Chef\u003c/b\u003e has received 16 reports including damage \u003cbr\u003e  to kitchen items and six reports of personal injuries including \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "QETjk0yVL-IJ",
+   "formattedUrl": "www.cpsc.gov/cpscpub/prerel/prhtml12/12062.html",
+   "htmlFormattedUrl": "www.cpsc.gov/cpscpub/prerel/prhtml12/12062.html",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.cpsc.gov/cpscpub/prerel/prhtml12/12062.jpg"
+     }
+    ],
+    "metatags": [
+     {
+      "og:title": "The Pampered Chef Recalls Ice Cream Dippers Due to Impact Injury Hazard",
+      "og:type": "website",
+      "og:url": "http://www.cpsc.gov/cpscpub/prerel/prhtml12/12062.html",
+      "og:image": "http://www.cpsc.gov/cpscpub/prerel/prhtml12/12062.jpg",
+      "og:description": "When the liquid-filled ice cream scoop is exposed to warm water, the cap and seal at the end of the scoop handle can fly off with substantial force, posing an impact injury hazard to nearby consumers."
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Amazon.com: The Pampered Chef Cutting Edge Food Chopper ...",
+   "htmlTitle": "Amazon.com: The \u003cb\u003ePampered Chef\u003c/b\u003e Cutting Edge Food Chopper \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://www.amazon.com/Pampered-Chef-Cutting-Edge-Chopper/dp/B000GU49HY",
+   "displayLink": "www.amazon.com",
+   "snippet": "One of the best choppers on the market. It completely comes apart and cleans   easily. The blades never dull and when chopping onions, no odor creeps into   your ...",
+   "htmlSnippet": "One of the best choppers on the market. It completely comes apart and cleans \u003cbr\u003e  easily. The blades never dull and when chopping onions, no odor creeps into \u003cbr\u003e  your \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "BoRJRDCPy9UJ",
+   "formattedUrl": "www.amazon.com/Pampered-Chef-Cutting-Edge.../B000GU49HY",
+   "htmlFormattedUrl": "www.amazon.com/\u003cb\u003ePampered\u003c/b\u003e-\u003cb\u003eChef\u003c/b\u003e-Cutting-Edge.../B000GU49HY",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://ecx.images-amazon.com/images/I/41LBhTmRnRL._SL500_AA300_.jpg"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "225",
+      "height": "225",
+      "src": "https://encrypted-tbn3.google.com/images?q=tbn:ANd9GcS_EeYWnjHAPdMkT_Ai8Z8vOahL8Zc9ULkmg0qnYDDpz8-6ia_TXQHYA3gs"
+     }
+    ],
+    "scraped": [
+     {
+      "image_link": "http://ecx.images-amazon.com/images/I/41LBhTmRnRL._SL500_AA300_.jpg"
+     }
+    ],
+    "metatags": [
+     {
+      "title": "Amazon.com: The Pampered Chef Cutting Edge Food Chopper: Everything Else"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Cutlery",
+   "htmlTitle": "Cutlery",
+   "link": "https://www.pamperedchef.com/ordering/shopOnline.tpc?categoryCode=CE",
+   "displayLink": "www.pamperedchef.com",
+   "snippet": "8\" Chef's. $75.00 · 8\" Chef's Knife with Honing Case. $32.00 · 9\" Bread ...   facebook; twitter; you tube; The Pampered Chef, Ltd, Kitchen Accessories,   Addison, IL ...",
+   "htmlSnippet": "8&quot; Chef&#39;s. $75.00 &middot; 8&quot; Chef&#39;s Knife with Honing Case. $32.00 &middot; 9&quot; Bread \u003cb\u003e...\u003c/b\u003e \u003cbr\u003e  facebook; twitter; you tube; The \u003cb\u003ePampered Chef\u003c/b\u003e, Ltd, Kitchen Accessories, \u003cbr\u003e  Addison, IL \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "8qTFxb4p6FAJ",
+   "formattedUrl": "https://www.pamperedchef.com/ordering/shopOnline.tpc?...CE",
+   "htmlFormattedUrl": "https://www.\u003cb\u003epamperedchef\u003c/b\u003e.com/ordering/shopOnline.tpc?...CE",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "https://www.pamperedchef.com/images/product/resized/1051_thumbnail.jpg",
+      "type": "1",
+      "width": "80",
+      "height": "80"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Pampered Chef",
+   "htmlTitle": "\u003cb\u003ePampered Chef\u003c/b\u003e",
+   "link": "http://www.mlmrankings.com/pampered%20chef/",
+   "displayLink": "www.mlmrankings.com",
+   "snippet": "Pampered Chef Company Info and Popularity Ranking at MLMRankings.com.   Pampered Chef Ranking is based on monthly internet interest expressed through ...",
+   "htmlSnippet": "\u003cb\u003ePampered Chef\u003c/b\u003e Company Info and Popularity Ranking at MLMRankings.com. \u003cbr\u003e  \u003cb\u003ePampered Chef\u003c/b\u003e Ranking is based on monthly internet interest expressed through \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "ius2kxbKFdcJ",
+   "formattedUrl": "www.mlmrankings.com/pampered%20chef/",
+   "htmlFormattedUrl": "www.mlmrankings.com/\u003cb\u003epampered\u003c/b\u003e%20\u003cb\u003echef\u003c/b\u003e/",
+   "pagemap": {
+    "metatags": [
+     {
+      "title": "Pampered Chef Rank at MLMRankings.com"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Host A Cooking Party with help from the PamperedChef.com",
+   "htmlTitle": "Host A Cooking Party with help from the \u003cb\u003ePamperedChef\u003c/b\u003e.com",
+   "link": "http://www.pamperedchef.com/host-a-cooking-party.jsp",
+   "displayLink": "www.pamperedchef.com",
+   "snippet": "Sign up to host a cooking party with help from one of our expert Pampered Chef   Consultants.",
+   "htmlSnippet": "Sign up to host a cooking party with help from one of our expert \u003cb\u003ePampered Chef\u003c/b\u003e \u003cbr\u003e  Consultants.",
+   "cacheId": "eh2UTm5G_IsJ",
+   "formattedUrl": "www.pamperedchef.com/host-a-cooking-party.jsp",
+   "htmlFormattedUrl": "www.\u003cb\u003epamperedchef\u003c/b\u003e.com/host-a-cooking-party.jsp",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.pamperedchef.com/images/public/us/host-a-show/host-play-btn.png",
+      "type": "1",
+      "width": "92",
+      "height": "86"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "New!Spring/Summer Products",
+   "htmlTitle": "New!Spring/Summer Products",
+   "link": "https://www.pamperedchef.com/ordering/shopOnline.tpc?categoryCode=NEW",
+   "displayLink": "www.pamperedchef.com",
+   "snippet": "$39.50. The Pampered Chef® Great Grilling Recipes Cookbook. $14.75. The   Pampered Chef® Season's Best® Recipe Collection (Spring/Summer 2012).   $1.00 ...",
+   "htmlSnippet": "$39.50. The \u003cb\u003ePampered Chef\u003c/b\u003e® Great Grilling Recipes Cookbook. $14.75. The \u003cbr\u003e  \u003cb\u003ePampered Chef\u003c/b\u003e® Season&#39;s Best® Recipe Collection (Spring/Summer 2012). \u003cbr\u003e  $1.00 \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "8w_e2BfrQpIJ",
+   "formattedUrl": "https://www.pamperedchef.com/ordering/shopOnline.tpc?...NEW",
+   "htmlFormattedUrl": "https://www.\u003cb\u003epamperedchef\u003c/b\u003e.com/ordering/shopOnline.tpc?...NEW",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "https://www.pamperedchef.com/images/product/resized/2711_thumbnail.jpg",
+      "type": "1",
+      "width": "80",
+      "height": "80"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Pampered Chef contact information at PamperedChef.com",
+   "htmlTitle": "\u003cb\u003ePampered Chef\u003c/b\u003e contact information at \u003cb\u003ePamperedChef\u003c/b\u003e.com",
+   "link": "http://www.pamperedchef.com/cooking-party/pampered-chef.jsp",
+   "displayLink": "www.pamperedchef.com",
+   "snippet": "Get all the important contact information you'll need to get in touch with the   Pampered Chef.",
+   "htmlSnippet": "Get all the important contact information you&#39;ll need to get in touch with the \u003cbr\u003e  \u003cb\u003ePampered Chef\u003c/b\u003e.",
+   "cacheId": "jtdeiUzooLcJ",
+   "formattedUrl": "www.pamperedchef.com/cooking-party/pampered-chef.jsp",
+   "htmlFormattedUrl": "www.\u003cb\u003epamperedchef\u003c/b\u003e.com/cooking-party/\u003cb\u003epampered\u003c/b\u003e-\u003cb\u003echef\u003c/b\u003e.jsp",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.pamperedchef.com/images/public/us/homepage/tpc_public_logo.gif",
+      "type": "1",
+      "width": "165",
+      "height": "54"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Pampered Chef Consultant - Carol's Corner | Facebook",
+   "htmlTitle": "\u003cb\u003ePampered Chef\u003c/b\u003e Consultant - Carol&#39;s Corner | Facebook",
+   "link": "http://www.facebook.com/PamperedChefConsultantCarolsCorner",
+   "displayLink": "www.facebook.com",
+   "snippet": "To connect with Pampered Chef Consultant - Carol's Corner, sign up for   Facebook ... Check out our awesome products www.pamperedchef.biz/  carolbryant ...",
+   "htmlSnippet": "To connect with \u003cb\u003ePampered Chef\u003c/b\u003e Consultant - Carol&#39;s Corner, sign up for \u003cbr\u003e  Facebook \u003cb\u003e...\u003c/b\u003e Check out our awesome products www.\u003cb\u003epamperedchef\u003c/b\u003e.biz/\u003cbr\u003e  carolbryant \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "ZKMMcI5gRrkJ",
+   "formattedUrl": "www.facebook.com/PamperedChefConsultantCarolsCorner",
+   "htmlFormattedUrl": "www.facebook.com/\u003cb\u003ePamperedChef\u003c/b\u003eConsultantCarolsCorner",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://profile.ak.fbcdn.net/hprofile-ak-snc4/373412_200522346646930_1680569100_n.jpg",
+      "type": "1",
+      "width": "144",
+      "height": "116"
+     }
+    ],
+    "organization": [
+     {
+      "photo": "http://profile.ak.fbcdn.net/hprofile-ak-snc4/373412_200522346646930_1680569100_n.jpg",
+      "name": "Pampered Chef Consultant - Carol's Corner"
+     }
+    ]
+   }
+  }
+ ]
+}

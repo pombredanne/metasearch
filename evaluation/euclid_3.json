@@ -1,0 +1,273 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "nextPage": [
+   {
+    "title": "Google Custom Search - euclid",
+    "totalResults": "1640000",
+    "searchTerms": "euclid",
+    "count": 10,
+    "startIndex": 41,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "017401104989814545383:mf4lavmtuva"
+   }
+  ],
+  "request": [
+   {
+    "title": "Google Custom Search - euclid",
+    "totalResults": "1640000",
+    "searchTerms": "euclid",
+    "count": 10,
+    "startIndex": 31,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "017401104989814545383:mf4lavmtuva"
+   }
+  ],
+  "previousPage": [
+   {
+    "title": "Google Custom Search - euclid",
+    "totalResults": "1640000",
+    "searchTerms": "euclid",
+    "count": 10,
+    "startIndex": 21,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "017401104989814545383:mf4lavmtuva"
+   }
+  ]
+ },
+ "context": {
+  "title": "College MetaSearch Comparison"
+ },
+ "searchInformation": {
+  "searchTime": 0.147171,
+  "formattedSearchTime": "0.15",
+  "totalResults": "1640000",
+  "formattedTotalResults": "1,640,000"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "Euclid (programming language) - Wikipedia, the free encyclopedia",
+   "htmlTitle": "\u003cb\u003eEuclid\u003c/b\u003e (programming language) - Wikipedia, the free encyclopedia",
+   "link": "http://en.wikipedia.org/wiki/Euclid_(programming_language)",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "Euclid is an imperative programming language for writing verifiable programs. It   was designed by Butler Lampson and associates at the Xerox PARC lab in the ...",
+   "htmlSnippet": "\u003cb\u003eEuclid\u003c/b\u003e is an imperative programming language for writing verifiable programs. It \u003cbr\u003e  was designed by Butler Lampson and associates at the Xerox PARC lab in the \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "fiTYMXGi2gQJ",
+   "formattedUrl": "en.wikipedia.org/wiki/Euclid_(programming_language)",
+   "htmlFormattedUrl": "en.wikipedia.org/wiki/\u003cb\u003eEuclid\u003c/b\u003e_(programming_language)",
+   "pagemap": {
+    "RTO": [
+     {
+      "format": "image",
+      "group_impression_tag": "prbx_kr_rto_term_enc",
+      "Opt::max_rank_top": "0",
+      "Opt::threshold_override": "3",
+      "Opt::disallow_same_domain": "1",
+      "Output::title": "\u003cb\u003eEuclid\u003c/b\u003e",
+      "Output::want_title_on_right": "true",
+      "Output::num_lines1": "3",
+      "Output::text1": "Euclid is an imperative programming language for writing Formal verification verifiable programs. It was designed by Butler Lampson and associates at the Xerox PARC lab in the mid 1970s. The implementation was led by Ric Holt at the University of Toronto and James Cordy was the principal programmer for the first implementation of the compiler. It was originally designed for the Motorola 6809 microprocessor. It was considered innovative for the time; the compiler development team had a...",
+      "Output::gray1b": "- 위키백과 (영문)",
+      "Output::no_clip1b": "true",
+      "UrlOutput::url2": "http://en.wikipedia.org/wiki/Euclid_(programming_language)",
+      "Output::link2": "위키백과 (영문)",
+      "result_group_header": "백과사전",
+      "Output::image_url": "/images/icons/onebox/dictionary-40.gif",
+      "image_size": "40x40",
+      "Output::inline_image_width": "40",
+      "Output::inline_image_height": "40"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Euclid's theorem - Wikipedia, the free encyclopedia",
+   "htmlTitle": "\u003cb\u003eEuclid&#39;s\u003c/b\u003e theorem - Wikipedia, the free encyclopedia",
+   "link": "http://en.wikipedia.org/wiki/Euclid's_theorem",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "Euclid's theorem is a fundamental statement in number theory that asserts that   there are infinitely many prime numbers. There are several well-known proofs of ...",
+   "htmlSnippet": "\u003cb\u003eEuclid&#39;s\u003c/b\u003e theorem is a fundamental statement in number theory that asserts that \u003cbr\u003e  there are infinitely many prime numbers. There are several well-known proofs of \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "TVME6n9woGMJ",
+   "formattedUrl": "en.wikipedia.org/wiki/Euclid's_theorem",
+   "htmlFormattedUrl": "en.wikipedia.org/wiki/\u003cb\u003eEuclid&#39;s\u003c/b\u003e_theorem"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Euclid Police Department",
+   "htmlTitle": "\u003cb\u003eEuclid\u003c/b\u003e Police Department",
+   "link": "http://www.euclidpd.org/",
+   "displayLink": "www.euclidpd.org",
+   "snippet": "City of Euclid, Division of Police Official Web Site. Headquarters: 545 East 222nd   Street, Euclid Ohio 44123, Contact: (216) 731-1234.",
+   "htmlSnippet": "City of \u003cb\u003eEuclid\u003c/b\u003e, Division of Police Official Web Site. Headquarters: 545 East 222nd \u003cbr\u003e  Street, \u003cb\u003eEuclid\u003c/b\u003e Ohio 44123, Contact: (216) 731-1234.",
+   "cacheId": "gD8KrEtX8ygJ",
+   "formattedUrl": "www.euclidpd.org/",
+   "htmlFormattedUrl": "www.\u003cb\u003eeuclid\u003c/b\u003epd.org/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.euclidpd.org/Pictures/chief_brickman.jpg",
+      "type": "1",
+      "width": "120",
+      "height": "181"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Euclid Trucks - Wikipedia, the free encyclopedia",
+   "htmlTitle": "\u003cb\u003eEuclid\u003c/b\u003e Trucks - Wikipedia, the free encyclopedia",
+   "link": "http://en.wikipedia.org/wiki/Euclid_Trucks",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "The Euclid Company of Ohio was a company specialized in heavy equipment for   earthmoving, namely dump trucks and wheel tractor-scrapers, that operated ...",
+   "htmlSnippet": "The \u003cb\u003eEuclid\u003c/b\u003e Company of Ohio was a company specialized in heavy equipment for \u003cbr\u003e  earthmoving, namely dump trucks and wheel tractor-scrapers, that operated \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "GfSFEyIxRz4J",
+   "formattedUrl": "en.wikipedia.org/wiki/Euclid_Trucks",
+   "htmlFormattedUrl": "en.wikipedia.org/wiki/\u003cb\u003eEuclid\u003c/b\u003e_Trucks",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Chuqui001.jpg/220px-Chuqui001.jpg",
+      "type": "1",
+      "width": "176",
+      "height": "114"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Project Euclid Home Page",
+   "htmlTitle": "Project \u003cb\u003eEuclid\u003c/b\u003e Home Page",
+   "link": "http://projecteuclid.org/Dienst/UI/1.0/Home",
+   "displayLink": "projecteuclid.org",
+   "snippet": "Project Euclid has recently upgraded its system, and some older URLs will no   longer work. To find what you are looking for, here are some useful links: ...",
+   "htmlSnippet": "Project \u003cb\u003eEuclid\u003c/b\u003e has recently upgraded its system, and some older URLs will no \u003cbr\u003e  longer work. To find what you are looking for, here are some useful links: \u003cb\u003e...\u003c/b\u003e",
+   "formattedUrl": "projecteuclid.org/Dienst/UI/1.0/Home",
+   "htmlFormattedUrl": "project\u003cb\u003eeuclid\u003c/b\u003e.org/Dienst/UI/1.0/Home"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Euclid Managers - Home",
+   "htmlTitle": "\u003cb\u003eEuclid\u003c/b\u003e Managers - Home",
+   "link": "http://www.euclidmanagers.com/",
+   "displayLink": "www.euclidmanagers.com",
+   "snippet": "Euclid Managers underwrites, administers and markets a wide variety of   insurance programs and products. We are privately-held, family-owned operation ...",
+   "htmlSnippet": "\u003cb\u003eEuclid\u003c/b\u003e Managers underwrites, administers and markets a wide variety of \u003cbr\u003e  insurance programs and products. We are privately-held, family-owned operation \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "8jOSOaLaNZMJ",
+   "formattedUrl": "www.euclidmanagers.com/",
+   "htmlFormattedUrl": "www.\u003cb\u003eeuclid\u003c/b\u003emanagers.com/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.euclidmanagers.com/images/individual.jpg",
+      "type": "1",
+      "width": "179",
+      "height": "68"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Euclid's Kilns and Elements",
+   "htmlTitle": "\u003cb\u003eEuclid&#39;s\u003c/b\u003e Kilns and Elements",
+   "link": "http://www.euclids.com/",
+   "displayLink": "www.euclids.com",
+   "snippet": "Canada. Supplies wide range of hobby and industrial kilns, elements, vents,   parts, and accessories. Product information, detailed operations manual, and ...",
+   "htmlSnippet": "Canada. Supplies wide range of hobby and industrial kilns, elements, vents, \u003cbr\u003e  parts, and accessories. Product information, detailed operations manual, and \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "1WWGXYmYt1QJ",
+   "formattedUrl": "www.euclids.com/",
+   "htmlFormattedUrl": "www.\u003cb\u003eeuclids\u003c/b\u003e.com/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.euclids.com/kiln-glass1.jpg",
+      "type": "1",
+      "width": "171",
+      "height": "121"
+     }
+    ],
+    "metatags": [
+     {
+      "author": "Geoff Farrow",
+      "desription": "Kilns and Elements, parts and accessories, Euclid's Choice tools and equipment"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Welcome to Euclid Hall Bar and Kitchen!",
+   "htmlTitle": "Welcome to \u003cb\u003eEuclid\u003c/b\u003e Hall Bar and Kitchen!",
+   "link": "http://euclidhall.com/",
+   "displayLink": "euclidhall.com",
+   "snippet": "Euclid Hall Bar and Kitchen is the third restaurant from the team of Jennifer   Jasinski and Beth Gruitch, owners of the award winning Rioja and Bistro   Vendôme ...",
+   "htmlSnippet": "\u003cb\u003eEuclid\u003c/b\u003e Hall Bar and Kitchen is the third restaurant from the team of Jennifer \u003cbr\u003e  Jasinski and Beth Gruitch, owners of the award winning Rioja and Bistro \u003cbr\u003e  Vendôme \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "pN657oH9GGIJ",
+   "formattedUrl": "euclidhall.com/",
+   "htmlFormattedUrl": "\u003cb\u003eeuclid\u003c/b\u003ehall.com/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://euclidhall.com/images/ground-level.jpg",
+      "type": "1",
+      "width": "236",
+      "height": "214"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Euclid Public Library",
+   "htmlTitle": "\u003cb\u003eEuclid\u003c/b\u003e Public Library",
+   "link": "http://www.euclidlibrary.org/",
+   "displayLink": "www.euclidlibrary.org",
+   "snippet": "Provides information on resources, programs, and services.",
+   "htmlSnippet": "Provides information on resources, programs, and services.",
+   "cacheId": "pCBPl3uLQBYJ",
+   "formattedUrl": "www.euclidlibrary.org/",
+   "htmlFormattedUrl": "www.\u003cb\u003eeuclid\u003c/b\u003elibrary.org/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.euclidlibrary.org/Sitefinity/WebsiteTemplates/EPL/App_Themes/BlueTheme/Global/Images/webbackground.jpg",
+      "type": "1",
+      "width": "252",
+      "height": "200"
+     }
+    ],
+    "metatags": [
+     {
+      "viewport": "width=device-width,initial-scale=1"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Euclid's Elements of Geometry",
+   "htmlTitle": "\u003cb\u003eEuclid&#39;s\u003c/b\u003e Elements of Geometry",
+   "link": "http://farside.ph.utexas.edu/euclid.html",
+   "displayLink": "farside.ph.utexas.edu",
+   "snippet": "Feb 2, 2011 ... Most of the theorems appearing in the Elements were not discovered by Euclid   himself, but were the work of earlier Greek mathematicians such ...",
+   "htmlSnippet": "Feb 2, 2011 \u003cb\u003e...\u003c/b\u003e Most of the theorems appearing in the Elements were not discovered by \u003cb\u003eEuclid\u003c/b\u003e \u003cbr\u003e  himself, but were the work of earlier Greek mathematicians such \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "DoOrmKNsfaEJ",
+   "formattedUrl": "farside.ph.utexas.edu/euclid.html",
+   "htmlFormattedUrl": "farside.ph.utexas.edu/\u003cb\u003eeuclid\u003c/b\u003e.html"
+  }
+ ]
+}

@@ -1,0 +1,265 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "nextPage": [
+   {
+    "title": "Google Custom Search - diabetes education",
+    "totalResults": "27000000",
+    "searchTerms": "diabetes education",
+    "count": 10,
+    "startIndex": 41,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "017401104989814545383:mf4lavmtuva"
+   }
+  ],
+  "request": [
+   {
+    "title": "Google Custom Search - diabetes education",
+    "totalResults": "27000000",
+    "searchTerms": "diabetes education",
+    "count": 10,
+    "startIndex": 31,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "017401104989814545383:mf4lavmtuva"
+   }
+  ],
+  "previousPage": [
+   {
+    "title": "Google Custom Search - diabetes education",
+    "totalResults": "27000000",
+    "searchTerms": "diabetes education",
+    "count": 10,
+    "startIndex": 21,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "017401104989814545383:mf4lavmtuva"
+   }
+  ]
+ },
+ "context": {
+  "title": "College MetaSearch Comparison"
+ },
+ "searchInformation": {
+  "searchTime": 0.134434,
+  "formattedSearchTime": "0.13",
+  "totalResults": "27000000",
+  "formattedTotalResults": "27,000,000"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "Diabetes Education in Tribal Schools",
+   "htmlTitle": "\u003cb\u003eDiabetes Education\u003c/b\u003e in Tribal Schools",
+   "link": "http://www2.niddk.nih.gov/OMHRC/HealthEducation/OMHRCDETS.htm",
+   "displayLink": "www2.niddk.nih.gov",
+   "snippet": "Message from the NIDDK Director. On behalf of the National Institute of Diabetes   and Digestive and Kidney Diseases (NIDDK) at the Department of Health and ...",
+   "htmlSnippet": "Message from the NIDDK Director. On behalf of the National Institute of \u003cb\u003eDiabetes\u003c/b\u003e \u003cbr\u003e  and Digestive and Kidney Diseases (NIDDK) at the Department of Health and \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "PlgE2BcYJywJ",
+   "formattedUrl": "www2.niddk.nih.gov/OMHRC/HealthEducation/OMHRCDETS.htm",
+   "htmlFormattedUrl": "www2.niddk.nih.gov/OMHRC/Health\u003cb\u003eEducation\u003c/b\u003e/OMHRCDETS.htm"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "National Diabetes Education Program - Wikipedia, the free ...",
+   "htmlTitle": "National \u003cb\u003eDiabetes Education\u003c/b\u003e Program - Wikipedia, the free \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://en.wikipedia.org/wiki/National_Diabetes_Education_Program",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "National Diabetes Education Program (NDEP) was started by the NIH and CDC   in 1997 to educate the public about the risks of diabetes. NDEP's goal is to ...",
+   "htmlSnippet": "National \u003cb\u003eDiabetes Education\u003c/b\u003e Program (NDEP) was started by the NIH and CDC \u003cbr\u003e  in 1997 to educate the public about the risks of diabetes. NDEP&#39;s goal is to \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "ZqG5bDCNVWQJ",
+   "formattedUrl": "en.wikipedia.org/wiki/National_Diabetes_Education_Program",
+   "htmlFormattedUrl": "en.wikipedia.org/wiki/National_\u003cb\u003eDiabetes\u003c/b\u003e_\u003cb\u003eEducation\u003c/b\u003e_Program",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://upload.wikimedia.org/wikipedia/commons/thumb/3/32/US-NIH-NDEP-Logo.svg/140px-US-NIH-NDEP-Logo.svg.png",
+      "type": "1",
+      "width": "112",
+      "height": "175"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Professional Education and Continuing Education Opportunities ...",
+   "htmlTitle": "Professional \u003cb\u003eEducation\u003c/b\u003e and Continuing \u003cb\u003eEducation\u003c/b\u003e Opportunities \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://professional.diabetes.org/ce",
+   "displayLink": "professional.diabetes.org",
+   "snippet": "Continuing education credits are available for physicians, nurses, nurse   practitioners, dietitians, pharmacists, certified diabetes educators and other   health care ...",
+   "htmlSnippet": "Continuing education credits are available for physicians, nurses, nurse \u003cbr\u003e  practitioners, dietitians, pharmacists, certified \u003cb\u003ediabetes educators\u003c/b\u003e and other \u003cbr\u003e  health care \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "mqVJtJb8s_cJ",
+   "formattedUrl": "professional.diabetes.org/ce",
+   "htmlFormattedUrl": "professional.\u003cb\u003ediabetes\u003c/b\u003e.org/ce",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://professional.diabetes.org/admin/UserFiles/CE/CE%20Home/CE---Alt-Banner.jpg",
+      "type": "1",
+      "width": "426",
+      "height": "118"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "American Diabetes Association Home Page - American Diabetes ...",
+   "htmlTitle": "American \u003cb\u003eDiabetes\u003c/b\u003e Association Home Page - American \u003cb\u003eDiabetes\u003c/b\u003e \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://www.diabetes.org/",
+   "displayLink": "www.diabetes.org",
+   "snippet": "Donate Today to Stop Diabetes®. Your gift will help support the vital diabetes   research, education and advocacy programs that Americans need and rely on ...",
+   "htmlSnippet": "Donate Today to Stop \u003cb\u003eDiabetes\u003c/b\u003e®. Your gift will help support the vital \u003cb\u003ediabetes\u003c/b\u003e \u003cbr\u003e  research, \u003cb\u003eeducation\u003c/b\u003e and advocacy programs that Americans need and rely on \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "pMGyj5w32SIJ",
+   "formattedUrl": "www.diabetes.org/",
+   "htmlFormattedUrl": "www.\u003cb\u003ediabetes\u003c/b\u003e.org/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.diabetes.org/assets/images/carousel-homepage/evergreen_help_670x320_final_1.jpg",
+      "type": "1",
+      "width": "325",
+      "height": "155"
+     }
+    ],
+    "metatags": [
+     {
+      "msvalidate.01": "D81555EDCD24C9657BD5785D3F037CA8"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Definitions and Fact Sheets - American Association of Diabetes ...",
+   "htmlTitle": "Definitions and Fact Sheets - American Association of \u003cb\u003eDiabetes\u003c/b\u003e \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://www.diabeteseducator.org/DiabetesEducation/Definitions.html",
+   "displayLink": "www.diabeteseducator.org",
+   "snippet": "Diabetes education, also known as diabetes self-management training (DSMT)   or diabetes self-management education (DSME), is defined as a collaborative ...",
+   "htmlSnippet": "\u003cb\u003eDiabetes education\u003c/b\u003e, also known as diabetes self-management training (DSMT) \u003cbr\u003e  or diabetes self-management education (DSME), is defined as a collaborative \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "d5aZxEGXl38J",
+   "formattedUrl": "www.diabeteseducator.org/DiabetesEducation/Definitions.html",
+   "htmlFormattedUrl": "www.\u003cb\u003ediabeteseducator\u003c/b\u003e.org/\u003cb\u003eDiabetesEducation\u003c/b\u003e/Definitions.html",
+   "pagemap": {
+    "metatags": [
+     {
+      "nonmember": "1"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Recognition Programs - DiabetesPro - American Diabetes Association",
+   "htmlTitle": "Recognition Programs - DiabetesPro - American \u003cb\u003eDiabetes\u003c/b\u003e Association",
+   "link": "http://professional.diabetes.org/Recognition.aspx",
+   "displayLink": "professional.diabetes.org",
+   "snippet": "Joint Statement Regarding the Diabetes Recognition Program. Education   Recognition Program Diabetes Education Programs. Inpatient Diabetes   Certification ...",
+   "htmlSnippet": "Joint Statement Regarding the Diabetes Recognition Program. Education \u003cbr\u003e  Recognition Program \u003cb\u003eDiabetes Education\u003c/b\u003e Programs. Inpatient Diabetes \u003cbr\u003e  Certification \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "VApbG40nX8EJ",
+   "formattedUrl": "professional.diabetes.org/Recognition.aspx",
+   "htmlFormattedUrl": "professional.\u003cb\u003ediabetes\u003c/b\u003e.org/Recognition.aspx"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Diabetes education modules | International Diabetes Federation",
+   "htmlTitle": "\u003cb\u003eDiabetes education\u003c/b\u003e modules | International Diabetes Federation",
+   "link": "http://www.idf.org/diabetes-education-modules",
+   "displayLink": "www.idf.org",
+   "snippet": "Diabetes education modules. Education modules cover. The Diabetes Education   Modules (2011) contain more than 800 slides and detailed speaker notes to ...",
+   "htmlSnippet": "\u003cb\u003eDiabetes education\u003c/b\u003e modules. Education modules cover. The \u003cb\u003eDiabetes Education\u003c/b\u003e \u003cbr\u003e  Modules (2011) contain more than 800 slides and detailed speaker notes to \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "_CT6SBxcabAJ",
+   "formattedUrl": "www.idf.org/diabetes-education-modules",
+   "htmlFormattedUrl": "www.idf.org/\u003cb\u003ediabetes\u003c/b\u003e-\u003cb\u003eeducation\u003c/b\u003e-modules",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.idf.org/sites/default/files/Edu-modules-2011-cover_0.jpg",
+      "type": "1",
+      "width": "197",
+      "height": "208"
+     }
+    ],
+    "metatags": [
+     {
+      "sioc:num_replies": "0",
+      "dc:title": "Diabetes education modules"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Competencies for Diabetes Educators - American Association of ...",
+   "htmlTitle": "Competencies for \u003cb\u003eDiabetes Educators\u003c/b\u003e - American Association of \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://www.diabeteseducator.org/DiabetesEducation/position/competencies.html",
+   "displayLink": "www.diabeteseducator.org",
+   "snippet": "Competencies for Diabetes Educators: A Companion Document to the   Guidelines for the Practice of Diabetes Education provides a master list of the   knowledge ...",
+   "htmlSnippet": "Competencies for \u003cb\u003eDiabetes Educators\u003c/b\u003e: A Companion Document to the \u003cbr\u003e  Guidelines for the Practice of \u003cb\u003eDiabetes Education\u003c/b\u003e provides a master list of the \u003cbr\u003e  knowledge \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "lXjuctqoOq8J",
+   "formattedUrl": "www.diabeteseducator.org/DiabetesEducation/.../competencies.html",
+   "htmlFormattedUrl": "www.\u003cb\u003ediabeteseducator\u003c/b\u003e.org/\u003cb\u003eDiabetesEducation\u003c/b\u003e/.../competencies.html",
+   "pagemap": {
+    "metatags": [
+     {
+      "nonmember": "1"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Diabetes Education and Management Program — UVA Health",
+   "htmlTitle": "\u003cb\u003eDiabetes Education\u003c/b\u003e and Management Program — UVA Health",
+   "link": "http://uvahealth.com/directions-locations/clinics/copy_of_diabetes-education-and-management-program",
+   "displayLink": "uvahealth.com",
+   "snippet": "Maps and directions, contact information and overview for the program, which   offers educational programs about managing diabetes, including nutrition ...",
+   "htmlSnippet": "Maps and directions, contact information and overview for the program, which \u003cbr\u003e  offers \u003cb\u003eeducational\u003c/b\u003e programs about managing \u003cb\u003ediabetes\u003c/b\u003e, including nutrition \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "9XbA4V4SeRkJ",
+   "formattedUrl": "uvahealth.com/.../copy_of_diabetes-education-and-management-program",
+   "htmlFormattedUrl": "uvahealth.com/.../copy_of_\u003cb\u003ediabetes\u003c/b\u003e-\u003cb\u003eeducation\u003c/b\u003e-and-management-program",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://uvahealth.com/directions-locations/clinics/images-and-docs/clinic-location-images/415_fontaine.jpg/image_preview",
+      "type": "1",
+      "width": "289",
+      "height": "174"
+     }
+    ],
+    "metatags": [
+     {
+      "dc.creator": "admin",
+      "dc.format": "text/plain",
+      "dc.date.modified": "2012-06-20 11:01:23",
+      "dc.date.created": "2009-07-08 15:01:17",
+      "dc.type": "Clinical Profile",
+      "dc.distribution": "Global",
+      "distribution": "Global"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Diabetes and Prediabetes Statistics and Facts | NDEP",
+   "htmlTitle": "\u003cb\u003eDiabetes\u003c/b\u003e and Prediabetes Statistics and Facts | NDEP",
+   "link": "http://ndep.nih.gov/diabetes-facts/index.aspx",
+   "displayLink": "ndep.nih.gov",
+   "snippet": "National Diabetes Education Program · CDC - Centers for Disease Control and   Prevention NIDDK - National Institute of Diabetes and Digestive and Kidney ...",
+   "htmlSnippet": "National \u003cb\u003eDiabetes Education\u003c/b\u003e Program &middot; CDC - Centers for Disease Control and \u003cbr\u003e  Prevention NIDDK - National Institute of Diabetes and Digestive and Kidney \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "JyZoYhAP-kcJ",
+   "formattedUrl": "ndep.nih.gov/diabetes-facts/index.aspx",
+   "htmlFormattedUrl": "ndep.nih.gov/\u003cb\u003ediabetes\u003c/b\u003e-facts/index.aspx"
+  }
+ ]
+}

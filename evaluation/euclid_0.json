@@ -1,0 +1,254 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "nextPage": [
+   {
+    "title": "Google Custom Search - euclid",
+    "totalResults": "1640000",
+    "searchTerms": "euclid",
+    "count": 10,
+    "startIndex": 11,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "017401104989814545383:mf4lavmtuva"
+   }
+  ],
+  "request": [
+   {
+    "title": "Google Custom Search - euclid",
+    "totalResults": "1640000",
+    "searchTerms": "euclid",
+    "count": 10,
+    "startIndex": 1,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "017401104989814545383:mf4lavmtuva"
+   }
+  ]
+ },
+ "context": {
+  "title": "College MetaSearch Comparison"
+ },
+ "searchInformation": {
+  "searchTime": 0.225192,
+  "formattedSearchTime": "0.23",
+  "totalResults": "1640000",
+  "formattedTotalResults": "1,640,000"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "Euclid - Wikipedia, the free encyclopedia",
+   "htmlTitle": "\u003cb\u003eEuclid\u003c/b\u003e - Wikipedia, the free encyclopedia",
+   "link": "http://en.wikipedia.org/wiki/Euclid",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "Euclid fl. 300 BC, also known as Euclid of Alexandria, was a Greek   mathematician, often referred to as the \"Father of Geometry\". He was active in   Alexandria ...",
+   "htmlSnippet": "\u003cb\u003eEuclid\u003c/b\u003e fl. 300 BC, also known as \u003cb\u003eEuclid\u003c/b\u003e of Alexandria, was a Greek \u003cbr\u003e  mathematician, often referred to as the &quot;Father of Geometry&quot;. He was active in \u003cbr\u003e  Alexandria \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "nh6JvV0-YqkJ",
+   "formattedUrl": "en.wikipedia.org/wiki/Euclid",
+   "htmlFormattedUrl": "en.wikipedia.org/wiki/\u003cb\u003eEuclid\u003c/b\u003e",
+   "pagemap": {
+    "RTO": [
+     {
+      "format": "image",
+      "group_impression_tag": "prbx_kr_rto_term_enc",
+      "Opt::max_rank_top": "0",
+      "Opt::threshold_override": "3",
+      "Opt::disallow_same_domain": "1",
+      "Output::title": "\u003cb\u003e에우클레이데스 (Euclid)\u003c/b\u003e",
+      "Output::want_title_on_right": "true",
+      "Output::num_lines1": "3",
+      "Output::text1": "알렉산드리아의 에우클레이데스는 헬레니즘 헬레니즘 시대 알렉산드리아 의 수학자이다. 영어 이름인 유클리드로도 불린다. \" 기하학 에 왕도는 없다\"는 말을 했다. 유클리드의 가장 유명한 저서는 《스토이케이아》 13권으로 한국어로는 《기하학 원본》 또는 《 원론 유클리드 원론 》으로 불린다. 기하학 과 정수론...",
+      "Output::gray1b": "- 위키백과",
+      "Output::no_clip1b": "true",
+      "UrlOutput::url2": "http://en.wikipedia.org/wiki/Euclid",
+      "Output::link2": "위키백과 (영문)",
+      "Output::text2b": "&nbsp;&nbsp;&nbsp;",
+      "UrlOutput::url2c": "http://ko.wikipedia.org/wiki/에우클레이데스",
+      "Output::link2c": "위키백과",
+      "result_group_header": "백과사전",
+      "Output::image_url": "http://www.gstatic.com/richsnippets/b/685a8c78dbb84df2.jpg",
+      "image_size": "80x80",
+      "Output::inline_image_width": "80",
+      "Output::inline_image_height": "80",
+      "Output::image_border": "1"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Euclid Chemical - Concrete and Masonry Admixtures",
+   "htmlTitle": "\u003cb\u003eEuclid\u003c/b\u003e Chemical - Concrete and Masonry Admixtures",
+   "link": "http://www.euclidchemical.com/",
+   "displayLink": "www.euclidchemical.com",
+   "snippet": "The Euclid Chemical Company markets and distributes concrete and masonry   products and additives.",
+   "htmlSnippet": "The \u003cb\u003eEuclid\u003c/b\u003e Chemical Company markets and distributes concrete and masonry \u003cbr\u003e  products and additives.",
+   "cacheId": "LTafcZIrRDgJ",
+   "formattedUrl": "www.euclidchemical.com/",
+   "htmlFormattedUrl": "www.\u003cb\u003eeuclid\u003c/b\u003echemical.com/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.euclidchemical.com/images/viapol.png",
+      "type": "1",
+      "width": "200",
+      "height": "81"
+     }
+    ],
+    "metatags": [
+     {
+      "author": "RPM International Inc.",
+      "copyright": "2007 The Euclid Chemical Company"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Euclid - math word definition - Math Open Reference",
+   "htmlTitle": "\u003cb\u003eEuclid\u003c/b\u003e - math word definition - Math Open Reference",
+   "link": "http://www.mathopenref.com/euclid.html",
+   "displayLink": "www.mathopenref.com",
+   "snippet": "A biography of Euclid. A short description of his life and contributions to the study   of geometry. Links to other resources.",
+   "htmlSnippet": "A biography of \u003cb\u003eEuclid\u003c/b\u003e. A short description of his life and contributions to the study \u003cbr\u003e  of geometry. Links to other resources.",
+   "cacheId": "IkrSJ_VJgPsJ",
+   "formattedUrl": "www.mathopenref.com/euclid.html",
+   "htmlFormattedUrl": "www.mathopenref.com/\u003cb\u003eeuclid\u003c/b\u003e.html",
+   "pagemap": {
+    "metatags": [
+     {
+      "fb:page_id": "104123119549",
+      "wp": "euclid",
+      "defines": "euclid"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "City of Euclid: Welcome",
+   "htmlTitle": "City of \u003cb\u003eEuclid\u003c/b\u003e: Welcome",
+   "link": "http://www.cityofeuclid.com/",
+   "displayLink": "www.cityofeuclid.com",
+   "snippet": "Official site providing information on the community.",
+   "htmlSnippet": "Official site providing information on the community.",
+   "cacheId": "FmdLD4pfwmoJ",
+   "formattedUrl": "www.cityofeuclid.com/",
+   "htmlFormattedUrl": "www.cityof\u003cb\u003eeuclid\u003c/b\u003e.com/"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Euclid summary",
+   "htmlTitle": "\u003cb\u003eEuclid\u003c/b\u003e summary",
+   "link": "http://www-groups.dcs.st-and.ac.uk/history/Mathematicians/Euclid.html",
+   "displayLink": "www-groups.dcs.st-and.ac.uk",
+   "snippet": "Euclid was a Greek mathematician best known for his treatise on geometry: The   Elements . This influenced the development of Western mathematics for more ...",
+   "htmlSnippet": "\u003cb\u003eEuclid\u003c/b\u003e was a Greek mathematician best known for his treatise on geometry: The \u003cbr\u003e  Elements . This influenced the development of Western mathematics for more \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "CsCULYmGNEIJ",
+   "formattedUrl": "www-groups.dcs.st-and.ac.uk/history/Mathematicians/Euclid.html",
+   "htmlFormattedUrl": "www-groups.dcs.st-and.ac.uk/history/Mathematicians/\u003cb\u003eEuclid\u003c/b\u003e.html"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "ESA Science & Technology: Euclid",
+   "htmlTitle": "ESA Science &amp; Technology: \u003cb\u003eEuclid\u003c/b\u003e",
+   "link": "http://sci.esa.int/euclid/",
+   "displayLink": "sci.esa.int",
+   "snippet": "Jun 20, 2012 ... Cosmic Vision 2015-2025, the future of ESA's Science Programme.",
+   "htmlSnippet": "Jun 20, 2012 \u003cb\u003e...\u003c/b\u003e Cosmic Vision 2015-2025, the future of ESA&#39;s Science Programme.",
+   "cacheId": "fapg7h-04joJ",
+   "formattedUrl": "sci.esa.int/euclid/",
+   "htmlFormattedUrl": "sci.esa.int/\u003cb\u003eeuclid\u003c/b\u003e/",
+   "pagemap": {
+    "metatags": [
+     {
+      "dc.keywords": "Euclid, Cosmic Vision; ESA; European Space Agency; ESA science; ESA scientific programme; ESA missions; ESA science projects; space science; technology; ESTEC;",
+      "dc.description": "Cosmic Vision 2015-2025, the future of ESA's Science Programme",
+      "dc.title": "Euclid",
+      "dc.language": "EN",
+      "dc.publisher": "European Space Agency",
+      "section": "ESA Science & Technology"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Euclid",
+   "htmlTitle": "\u003cb\u003eEuclid\u003c/b\u003e",
+   "link": "http://www.euclid.info/",
+   "displayLink": "www.euclid.info",
+   "snippet": "",
+   "htmlSnippet": "",
+   "formattedUrl": "www.euclid.info/",
+   "htmlFormattedUrl": "www.\u003cb\u003eeuclid\u003c/b\u003e.info/"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "EUCLID EUropean Cooperation for LIghtning Detection",
+   "htmlTitle": "\u003cb\u003eEUCLID\u003c/b\u003e EUropean Cooperation for LIghtning Detection",
+   "link": "http://www.euclid.org/",
+   "displayLink": "www.euclid.org",
+   "snippet": "Information and links to lightning detection networks across Europe. View real-  time maps of lightning activity in Germany, France, Italy, Switzerland, Slovakia, ...",
+   "htmlSnippet": "Information and links to lightning detection networks across Europe. View real-\u003cbr\u003e  time maps of lightning activity in Germany, France, Italy, Switzerland, Slovakia, \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "-WcFa5MY6FkJ",
+   "formattedUrl": "www.euclid.org/",
+   "htmlFormattedUrl": "www.\u003cb\u003eeuclid\u003c/b\u003e.org/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.euclid.org/images/euclidmap2-dno.gif",
+      "type": "1",
+      "width": "298",
+      "height": "169"
+     }
+    ],
+    "metatags": [
+     {
+      "author": "1A INTERNET d.o.o."
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Euclid Network",
+   "htmlTitle": "\u003cb\u003eEuclid\u003c/b\u003e Network",
+   "link": "http://www.euclidnetwork.eu/",
+   "displayLink": "www.euclidnetwork.eu",
+   "snippet": "Joomla! - the dynamic portal engine and content management system.",
+   "htmlSnippet": "Joomla! - the dynamic portal engine and content management system.",
+   "cacheId": "ZMR95Tr1hykJ",
+   "formattedUrl": "www.euclidnetwork.eu/",
+   "htmlFormattedUrl": "www.\u003cb\u003eeuclid\u003c/b\u003enetwork.eu/"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Project Euclid - mathematics and statistics resources online",
+   "htmlTitle": "Project \u003cb\u003eEuclid\u003c/b\u003e - mathematics and statistics resources online",
+   "link": "http://projecteuclid.org/",
+   "displayLink": "projecteuclid.org",
+   "snippet": "Full text access to the journal Annals of Mathematics; a limited number of other   journals available through paid subscriptions to Project Euclid.",
+   "htmlSnippet": "Full text access to the journal Annals of Mathematics; a limited number of other \u003cbr\u003e  journals available through paid subscriptions to Project \u003cb\u003eEuclid\u003c/b\u003e.",
+   "formattedUrl": "projecteuclid.org/",
+   "htmlFormattedUrl": "project\u003cb\u003eeuclid\u003c/b\u003e.org/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://projecteuclid.org/collection/euclid/images/logo.gif",
+      "type": "1",
+      "width": "160",
+      "height": "56"
+     }
+    ]
+   }
+  }
+ ]
+}

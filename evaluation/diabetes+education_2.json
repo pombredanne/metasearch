@@ -1,0 +1,277 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "nextPage": [
+   {
+    "title": "Google Custom Search - diabetes education",
+    "totalResults": "27000000",
+    "searchTerms": "diabetes education",
+    "count": 10,
+    "startIndex": 31,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "017401104989814545383:mf4lavmtuva"
+   }
+  ],
+  "request": [
+   {
+    "title": "Google Custom Search - diabetes education",
+    "totalResults": "27000000",
+    "searchTerms": "diabetes education",
+    "count": 10,
+    "startIndex": 21,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "017401104989814545383:mf4lavmtuva"
+   }
+  ],
+  "previousPage": [
+   {
+    "title": "Google Custom Search - diabetes education",
+    "totalResults": "27000000",
+    "searchTerms": "diabetes education",
+    "count": 10,
+    "startIndex": 11,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "017401104989814545383:mf4lavmtuva"
+   }
+  ]
+ },
+ "context": {
+  "title": "College MetaSearch Comparison"
+ },
+ "searchInformation": {
+  "searchTime": 0.152744,
+  "formattedSearchTime": "0.15",
+  "totalResults": "27000000",
+  "formattedTotalResults": "27,000,000"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "Free Diabetes Resources: Articles, Fact Sheets, Presentations ...",
+   "htmlTitle": "Free \u003cb\u003eDiabetes\u003c/b\u003e Resources: Articles, Fact Sheets, Presentations \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://ndep.nih.gov/resources/",
+   "displayLink": "ndep.nih.gov",
+   "snippet": "National Diabetes Education Program · CDC - Centers for Disease Control and   Prevention NIDDK - National Institute of Diabetes and Digestive and Kidney ...",
+   "htmlSnippet": "National \u003cb\u003eDiabetes Education\u003c/b\u003e Program &middot; CDC - Centers for Disease Control and \u003cbr\u003e  Prevention NIDDK - National Institute of Diabetes and Digestive and Kidney \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "nWXOvtxP594J",
+   "formattedUrl": "ndep.nih.gov/resources/",
+   "htmlFormattedUrl": "ndep.nih.gov/resources/"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "the Foundation for Diabetes Education",
+   "htmlTitle": "the Foundation for \u003cb\u003eDiabetes Education\u003c/b\u003e",
+   "link": "http://www.thefde.com/",
+   "displayLink": "www.thefde.com",
+   "snippet": "The Foundation for Diabetes Education is a not-for-profit organization whose   mission is to identify and educate children with Type 2 Diabetes. The FDE   provides ...",
+   "htmlSnippet": "The Foundation for \u003cb\u003eDiabetes Education\u003c/b\u003e is a not-for-profit organization whose \u003cbr\u003e  mission is to identify and educate children with Type 2 Diabetes. The FDE \u003cbr\u003e  provides \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "gV_Q5L11mkoJ",
+   "formattedUrl": "www.thefde.com/",
+   "htmlFormattedUrl": "www.thefde.com/",
+   "pagemap": {
+    "metatags": [
+     {
+      "progid": "FrontPage.Editor.Document",
+      "microsoft border": "tlb, default"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Diabetes Education for Children With Type 1 Diabetes Mellitus and ...",
+   "htmlTitle": "\u003cb\u003eDiabetes Education\u003c/b\u003e for Children With Type 1 Diabetes Mellitus and \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://www.ahrq.gov/downloads/pub/evidence/pdf/diabetesed/diabetesed.pdf",
+   "displayLink": "www.ahrq.gov",
+   "snippet": "Objectives: To determine the effectiveness of diabetes education on ...   knowledge scores included diabetes camp, general diabetes education, and   cognitive ...",
+   "htmlSnippet": "Objectives: To determine the effectiveness of \u003cb\u003ediabetes education\u003c/b\u003e on \u003cb\u003e...\u003c/b\u003e \u003cbr\u003e  knowledge scores included diabetes camp, general \u003cb\u003ediabetes education\u003c/b\u003e, and \u003cbr\u003e  cognitive \u003cb\u003e...\u003c/b\u003e",
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat",
+   "formattedUrl": "www.ahrq.gov/downloads/pub/evidence/pdf/diabetesed/diabetesed.pdf",
+   "htmlFormattedUrl": "www.ahrq.gov/downloads/pub/evidence/pdf/\u003cb\u003ediabetes\u003c/b\u003eed/\u003cb\u003ediabetes\u003c/b\u003eed.pdf",
+   "pagemap": {
+    "metatags": [
+     {
+      "creationdate": "D:20080411085446-04'00'",
+      "author": "Agency for Healthcare Research and Quality",
+      "creator": "PScript5.dll Version 5.2",
+      "producer": "Acrobat Distiller 8.1.0 (Windows)",
+      "moddate": "D:20080411103318-04'00'",
+      "title": "Diabetes Education for Children With Type 1 Diabetes Mellitus and Their Families: Evidence Report/Technology Assessment, No. 166"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Recognized Education Programs– DiabetesPro – American ...",
+   "htmlTitle": "Recognized \u003cb\u003eEducation\u003c/b\u003e Programs– DiabetesPro – American \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://professional.diabetes.org/ERP_List.aspx",
+   "displayLink": "professional.diabetes.org",
+   "snippet": "http://professional.diabetes.org. Diabetes Pro. ADA American Diabetes   Association. Search ... Find a Recognized Education Program in your area by   State ...",
+   "htmlSnippet": "http://professional.\u003cb\u003ediabetes\u003c/b\u003e.org. \u003cb\u003eDiabetes\u003c/b\u003e Pro. ADA American \u003cb\u003eDiabetes\u003c/b\u003e \u003cbr\u003e  Association. Search \u003cb\u003e...\u003c/b\u003e Find a Recognized \u003cb\u003eEducation\u003c/b\u003e Program in your area by \u003cbr\u003e  State \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "4R5xUCy-OtcJ",
+   "formattedUrl": "professional.diabetes.org/ERP_List.aspx",
+   "htmlFormattedUrl": "professional.\u003cb\u003ediabetes\u003c/b\u003e.org/ERP_List.aspx"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Diabetes Education Fund",
+   "htmlTitle": "\u003cb\u003eDiabetes Education\u003c/b\u003e Fund",
+   "link": "http://www.thedef.org/",
+   "displayLink": "www.thedef.org",
+   "snippet": "Apr 22, 2007 ... The Diabetes Education Fund (DEF) is a 501 (c) (3) tax exempt, non-profit   corporation that was established in November, Diabetes Awareness ...",
+   "htmlSnippet": "Apr 22, 2007 \u003cb\u003e...\u003c/b\u003e The \u003cb\u003eDiabetes Education\u003c/b\u003e Fund (DEF) is a 501 (c) (3) tax exempt, non-profit \u003cbr\u003e  corporation that was established in November, Diabetes Awareness \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "6Q-LFxRE1mEJ",
+   "formattedUrl": "www.thedef.org/",
+   "htmlFormattedUrl": "www.thedef.org/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.thedef.org/images/stamp1.jpg",
+      "type": "1",
+      "width": "214",
+      "height": "139"
+     }
+    ],
+    "metatags": [
+     {
+      "author": "Diabetes Education Fund",
+      "publisher": "David A. Perdue",
+      "created": "20020602",
+      "expires": "Never",
+      "review": "20070422"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Certification - American Association of Diabetes Educators",
+   "htmlTitle": "Certification - American Association of \u003cb\u003eDiabetes Educators\u003c/b\u003e",
+   "link": "http://www.diabeteseducator.org/ProfessionalResources/Certification/",
+   "displayLink": "www.diabeteseducator.org",
+   "snippet": "Diabetes educators are educated and licensed healthcare professionals   including registered nurses, registered dietitians, pharmacists, or work in any one   of a ...",
+   "htmlSnippet": "\u003cb\u003eDiabetes educators\u003c/b\u003e are educated and licensed healthcare professionals \u003cbr\u003e  including registered nurses, registered dietitians, pharmacists, or work in any one \u003cbr\u003e  of a \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "BndgUV3gjeIJ",
+   "formattedUrl": "www.diabeteseducator.org/ProfessionalResources/Certification/",
+   "htmlFormattedUrl": "www.\u003cb\u003ediabeteseducator\u003c/b\u003e.org/ProfessionalResources/Certification/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.diabeteseducator.org/export/sites/aade/_resources/images/leftnavigation/JoinAADE.jpg",
+      "type": "1",
+      "width": "156",
+      "height": "72"
+     }
+    ],
+    "metatags": [
+     {
+      "nonmember": "1"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "YMCA CAPE COD Diabetes Education Center",
+   "htmlTitle": "YMCA CAPE COD \u003cb\u003eDiabetes Education\u003c/b\u003e Center",
+   "link": "http://www.diabetescapecod.org/",
+   "displayLink": "www.diabetescapecod.org",
+   "snippet": "According to the National Institute of Diabetes and Kidney Diseases, 17 million   people suffer with diabetes in the United States and almost six million people ...",
+   "htmlSnippet": "According to the National Institute of \u003cb\u003eDiabetes\u003c/b\u003e and Kidney Diseases, 17 million \u003cbr\u003e  people suffer with \u003cb\u003ediabetes\u003c/b\u003e in the United States and almost six million people \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "AZ7_-5yvFNwJ",
+   "formattedUrl": "www.diabetescapecod.org/",
+   "htmlFormattedUrl": "www.\u003cb\u003ediabetes\u003c/b\u003ecapecod.org/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.diabetescapecod.org/sitebuildercontent/sitebuilderpictures/DECCC/drcweb.JPG",
+      "type": "1",
+      "width": "257",
+      "height": "196"
+     }
+    ],
+    "metatags": [
+     {
+      "trellix_builder_ver": "1.0",
+      "trellix_open_site_command": "http://sitebuilder.myregisteredsite.com:80SiteBuilderServlet?fUrl=f_error.html&sUrl=f_edit_page.html&Command=OpenSite&FileName=7316923758175380125/site.xml"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Barton Center for Diabetes Education - Wikipedia, the free ...",
+   "htmlTitle": "Barton Center for \u003cb\u003eDiabetes Education\u003c/b\u003e - Wikipedia, the free \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://en.wikipedia.org/wiki/Barton_Center_for_Diabetes_Education",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "The Barton Center for Diabetes Education is an independent, non-profit 501(c)(3)   organization, located in North Oxford, Massachusetts, dedicated to the ...",
+   "htmlSnippet": "The Barton Center for \u003cb\u003eDiabetes Education\u003c/b\u003e is an independent, non-profit 501(c)(3) \u003cbr\u003e  organization, located in North Oxford, Massachusetts, dedicated to the \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "Z7_KLp2GT80J",
+   "formattedUrl": "en.wikipedia.org/wiki/Barton_Center_for_Diabetes_Education",
+   "htmlFormattedUrl": "en.wikipedia.org/wiki/Barton_Center_for_\u003cb\u003eDiabetes\u003c/b\u003e_\u003cb\u003eEducation\u003c/b\u003e",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Chabot.JPG/220px-Chabot.JPG",
+      "type": "1",
+      "width": "176",
+      "height": "112"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Diabetes Educational Services | Become a Certified Diabetes ...",
+   "htmlTitle": "\u003cb\u003eDiabetes Educational\u003c/b\u003e Services | Become a Certified Diabetes \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://www.diabetesed.net/",
+   "displayLink": "www.diabetesed.net",
+   "snippet": "You are a health care professional and/or Certified Diabetes Educator (CDE)   who needs continuing education hours to renew your license or CDE.",
+   "htmlSnippet": "You are a health care professional and/or Certified \u003cb\u003eDiabetes Educator\u003c/b\u003e (CDE) \u003cbr\u003e  who needs continuing education hours to renew your license or CDE.",
+   "cacheId": "D-SOW4rZArMJ",
+   "formattedUrl": "www.diabetesed.net/",
+   "htmlFormattedUrl": "www.\u003cb\u003ediabetes\u003c/b\u003eed.net/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.diabetesed.net/designs/diabetes/images/homepage-image7.jpg",
+      "type": "1",
+      "width": "354",
+      "height": "142"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "AADE Diabetes Education Accreditation Program - American ...",
+   "htmlTitle": "AADE \u003cb\u003eDiabetes Education\u003c/b\u003e Accreditation Program - American \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://www.diabeteseducator.org/ProfessionalResources/accred/",
+   "displayLink": "www.diabeteseducator.org",
+   "snippet": "AADE's Diabetes Education Accreditation Program is based on the National   Standards for Diabetes Self-Management Education. View the standards and   learn ...",
+   "htmlSnippet": "AADE&#39;s \u003cb\u003eDiabetes Education\u003c/b\u003e Accreditation Program is based on the National \u003cbr\u003e  Standards for Diabetes Self-Management Education. View the standards and \u003cbr\u003e  learn \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "islEV6IHDHYJ",
+   "formattedUrl": "www.diabeteseducator.org/ProfessionalResources/accred/",
+   "htmlFormattedUrl": "www.\u003cb\u003ediabeteseducator\u003c/b\u003e.org/ProfessionalResources/accred/",
+   "pagemap": {
+    "metatags": [
+     {
+      "nonmember": "1"
+     }
+    ]
+   }
+  }
+ ]
+}

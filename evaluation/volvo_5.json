@@ -1,0 +1,450 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "nextPage": [
+   {
+    "title": "Google Custom Search - volvo",
+    "totalResults": "38300000",
+    "searchTerms": "volvo",
+    "count": 10,
+    "startIndex": 61,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "017401104989814545383:mf4lavmtuva"
+   }
+  ],
+  "request": [
+   {
+    "title": "Google Custom Search - volvo",
+    "totalResults": "38300000",
+    "searchTerms": "volvo",
+    "count": 10,
+    "startIndex": 51,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "017401104989814545383:mf4lavmtuva"
+   }
+  ],
+  "previousPage": [
+   {
+    "title": "Google Custom Search - volvo",
+    "totalResults": "38300000",
+    "searchTerms": "volvo",
+    "count": 10,
+    "startIndex": 41,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "017401104989814545383:mf4lavmtuva"
+   }
+  ]
+ },
+ "context": {
+  "title": "College MetaSearch Comparison"
+ },
+ "searchInformation": {
+  "searchTime": 0.15644,
+  "formattedSearchTime": "0.16",
+  "totalResults": "38300000",
+  "formattedTotalResults": "38,300,000"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "Volvo Forums - Volvo Enthusiasts Forum - Powered by vBulletin",
+   "htmlTitle": "\u003cb\u003eVolvo\u003c/b\u003e Forums - \u003cb\u003eVolvo\u003c/b\u003e Enthusiasts Forum - Powered by vBulletin",
+   "link": "http://volvoforums.com/",
+   "displayLink": "volvoforums.com",
+   "snippet": "Volvo Forums- Discussion for Volvo Forum Enthusiasts.",
+   "htmlSnippet": "\u003cb\u003eVolvo\u003c/b\u003e Forums- Discussion for \u003cb\u003eVolvo\u003c/b\u003e Forum Enthusiasts.",
+   "cacheId": "m7wu9PL86zUJ",
+   "formattedUrl": "volvoforums.com/",
+   "htmlFormattedUrl": "\u003cb\u003evolvo\u003c/b\u003eforums.com/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://volvoforums.com/forum/members/n1ne-26472-albums-2003-volvo-s60-awd-2-5t-214-picture-hpim0450-1282t.jpg",
+      "type": "1",
+      "width": "120",
+      "height": "90"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Boston Volvo Village | MA Volvo Sales, Service and Parts",
+   "htmlTitle": "Boston \u003cb\u003eVolvo\u003c/b\u003e Village | MA \u003cb\u003eVolvo\u003c/b\u003e Sales, Service and Parts",
+   "link": "http://www.bostonvolvo.com/",
+   "displayLink": "www.bostonvolvo.com",
+   "snippet": "A Volvo dealer in Brighton, Massachusetts, Boston Volvo Village offers new and   used Volvo sales, genuine parts and service to Cambridge, Brookline and ...",
+   "htmlSnippet": "A \u003cb\u003eVolvo\u003c/b\u003e dealer in Brighton, Massachusetts, Boston \u003cb\u003eVolvo\u003c/b\u003e Village offers new and \u003cbr\u003e  used \u003cb\u003eVolvo\u003c/b\u003e sales, genuine parts and service to Cambridge, Brookline and \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "54AMWfu7VeoJ",
+   "formattedUrl": "www.bostonvolvo.com/",
+   "htmlFormattedUrl": "www.boston\u003cb\u003evolvo\u003c/b\u003e.com/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "https://content.homenetiol.com/552/19898/640x480/3926b8605e1b45a7bde02100f73ad33b.jpg",
+      "type": "1",
+      "width": "259",
+      "height": "194"
+     }
+    ],
+    "metatags": [
+     {
+      "rating": "Safe for Kids",
+      "distribution": "GLOBAL",
+      "language": "English"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "San Diego CA New Volvo & Used Car Dealer | San Diego Volvo",
+   "htmlTitle": "San Diego CA New \u003cb\u003eVolvo\u003c/b\u003e &amp; Used Car Dealer | San Diego \u003cb\u003eVolvo\u003c/b\u003e",
+   "link": "http://www.sandiegovolvo.com/",
+   "displayLink": "www.sandiegovolvo.com",
+   "snippet": "San Diego County's largest Volvo dealership. We have the new or used car you   want, in stock, today! Call us at (866) 780-0403 for a prearranged test drive.",
+   "htmlSnippet": "San Diego County&#39;s largest \u003cb\u003eVolvo\u003c/b\u003e dealership. We have the new or used car you \u003cbr\u003e  want, in stock, today! Call us at (866) 780-0403 for a prearranged test drive.",
+   "cacheId": "6yj1qOxDQ68J",
+   "formattedUrl": "www.sandiegovolvo.com/",
+   "htmlFormattedUrl": "www.sandiego\u003cb\u003evolvo\u003c/b\u003e.com/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://cdn.dealerfire.com/stock/2957-YV1AS982171017879-2007-Volvo-S80/w_180/h_167/zc_4:3/YV1AS982171017879_1.jpg",
+      "type": "1",
+      "width": "144",
+      "height": "133"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "2012 Volvo S80 Sedan",
+   "htmlTitle": "2012 \u003cb\u003eVolvo\u003c/b\u003e S80 Sedan",
+   "link": "http://www.volvocars.com/us/all-cars/volvo-s80",
+   "displayLink": "www.volvocars.com",
+   "snippet": "Introducing the 2012 Volvo S80 sedan. With leather and hand-finished walnut   interior, you'd never guess the new S80 comes equipped with advanced ...",
+   "htmlSnippet": "Introducing the 2012 \u003cb\u003eVolvo\u003c/b\u003e S80 sedan. With leather and hand-finished walnut \u003cbr\u003e  interior, you&#39;d never guess the new S80 comes equipped with advanced \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "CLwe11P6m1kJ",
+   "formattedUrl": "www.volvocars.com/us/all-cars/volvo-s80",
+   "htmlFormattedUrl": "www.\u003cb\u003evolvo\u003c/b\u003ecars.com/us/all-cars/\u003cb\u003evolvo\u003c/b\u003e-s80",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.volvocars.com/us/AGIs/ModelHeaderS80_311.agi?0_Text=S80",
+      "type": "1",
+      "width": "74",
+      "height": "80"
+     }
+    ],
+    "metatags": [
+     {
+      "content-language": "en-US",
+      "keywordscustom": "s80, volvo sedan s80, s80 sedan, volovo s80, 2012 volvo s80, customize s80, volvo cross country s80, s 80 model, vovlvo s80, new s80, vovlos80, volve s80, s 80 sedan,volvo s80, s 80, s 80 volvo, new volvo s80",
+      "model": "S80",
+      "og:title": "2012 Volvo S80 Sedan",
+      "og:type": "website",
+      "og:image": "http://www.volvocars.com/_layouts/VolvoCars.SharePoint.Features.Site3/Images/Logo/ironmark-transparent.png"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Chicago Volvo Dealer in Lisle | New & Used Car Dealer in IL, near ...",
+   "htmlTitle": "Chicago \u003cb\u003eVolvo\u003c/b\u003e Dealer in Lisle | New &amp; Used Car Dealer in IL, near \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://www.volvooflisle.com/",
+   "displayLink": "www.volvooflisle.com",
+   "snippet": "Find the new or used Volvo you're looking for in the greater Chicago region at   Volvo of Lisle! Serving Chicago, Naperville and Oak Park, Illinois.",
+   "htmlSnippet": "Find the new or used \u003cb\u003eVolvo\u003c/b\u003e you&#39;re looking for in the greater Chicago region at \u003cbr\u003e  \u003cb\u003eVolvo\u003c/b\u003e of Lisle! Serving Chicago, Naperville and Oak Park, Illinois.",
+   "cacheId": "j8v2qZosma4J",
+   "formattedUrl": "www.volvooflisle.com/",
+   "htmlFormattedUrl": "www.\u003cb\u003evolvo\u003c/b\u003eoflisle.com/",
+   "pagemap": {
+    "automotivebusiness": [
+     {
+      "name": "Volvo of Lisle",
+      "description": "The Lisle Auto Plaza Group started in 1962 on Exchange Avenue in Chicago, Illinois as Volvo Sales and Service Inc. Our commitment to building long term relationships with our Chicagoland customers..."
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "http://pictures.dealer.com/v/volvooflisle/1917/2afd4698dea0e6a00321a9d2a49246ddx.jpg",
+      "type": "1",
+      "width": "259",
+      "height": "194"
+     }
+    ],
+    "metatags": [
+     {
+      "author": "Volvo Of Lisle",
+      "expires": "never",
+      "distribution": "global",
+      "og:title": "Chicago Volvo Dealer in Lisle | New & Used Car Dealer in IL, near Oak Park and Naperville",
+      "og:type": "website",
+      "og:url": "http://www.volvooflisle.com/index.htm",
+      "og:description": "Find the new or used Volvo you're looking for in the greater Chicago region at Volvo of Lisle! Serving Chicago, Naperville and Oak Park, Illinois.",
+      "locale": "en_US"
+     }
+    ],
+    "hproduct": [
+     {
+      "description": "Transmission: Automatic, Mileage: 60,710 miles, Exterior Color: Electric Silver, Interior Color: Black Leather, Doors: 4 door, Model: XC70, Year: 2008, Trim: 3.2, Bodystyle: Station Wagon, Make: Volvo",
+      "fn": "2008 Volvo XC70 3.2 Station Wagon",
+      "photo": "http://pictures.dealer.com/v/volvooflisle/1963/b2135a6aa8b380f94c9582f2ec3a25b8x.jpg",
+      "url": "http://www.volvooflisle.com/certified/Volvo/2008-Volvo-XC70-Chicago-4245293d0a0d048e00d60f6ed0071f52.htm",
+      "price": "$22,500",
+      "currency": "USD",
+      "currency_iso4217": "840"
+     },
+     {
+      "description": "Transmission: Automatic, Mileage: 48,963 miles, Exterior Color: Barents Blue, Interior Color: Tan Leather, Doors: 4 door, Model: XC70, Year: 2008, Trim: 3.2, Bodystyle: Station Wagon, Make: Volvo",
+      "fn": "2008 Volvo XC70 3.2 Station Wagon",
+      "photo": "http://pictures.dealer.com/v/volvooflisle/0806/78423f77859d4c4c2a5cf22666e402f6x.jpg",
+      "url": "http://www.volvooflisle.com/certified/Volvo/2008-Volvo-XC70-Chicago-809c58060a0d06490190b03c7158241a.htm",
+      "price": "$23,750",
+      "currency": "USD",
+      "currency_iso4217": "840"
+     },
+     {
+      "description": "Transmission: Automatic, Mileage: 40,535 miles, Exterior Color: Willow Green, Interior Color: Tan Leather, Doors: 4 door, Model: XC90, Year: 2008, Trim: 3.2, Bodystyle: SUV, Make: Volvo",
+      "fn": "2008 Volvo XC90 3.2 SUV",
+      "photo": "http://pictures.dealer.com/v/volvooflisle/1917/2afd4698dea0e6a00321a9d2a49246ddx.jpg",
+      "url": "http://www.volvooflisle.com/certified/Volvo/2008-Volvo-XC90-Chicago-8ae918410a0a006401840f85f20b6700.htm",
+      "price": "$26,775",
+      "currency": "USD",
+      "currency_iso4217": "840"
+     },
+     {
+      "description": "Transmission: Automatic, Mileage: 99,835 miles, Exterior Color: Black, Interior Color: Gray Leather, Doors: 4 door, Model: XC90, Year: 2008, Trim: 3.2, Bodystyle: SUV, Make: Volvo",
+      "fn": "2008 Volvo XC90 3.2 SUV",
+      "photo": "http://pictures.dealer.com/v/volvooflisle/0376/9429d123c8ced3d1d5128a245b5e0c88x.jpg",
+      "url": "http://www.volvooflisle.com/certified/Volvo/2008-Volvo-XC90-Chicago-fde9ed6e0a0d064900b9e55cf7b9c059.htm",
+      "price": "$18,797",
+      "currency": "USD",
+      "currency_iso4217": "840"
+     },
+     {
+      "description": "Transmission: Automatic, Mileage: 16,217 miles, Exterior Color: E Black, Interior Color: Black Leather, Doors: 4 door, Model: S80, Year: 2011, Trim: 3.2, Bodystyle: Sedan, Make: Volvo",
+      "fn": "2011 Volvo S80 3.2 Sedan",
+      "photo": "http://pictures.dealer.com/v/volvooflisle/1456/4b6b3f8b395b7e365835b273f5e5c23ex.jpg",
+      "url": "http://www.volvooflisle.com/used/Volvo/2011-Volvo-S80-Chicago-db61a3320a0d066900f0a6e88caee2ee.htm",
+      "price": "$27,990",
+      "currency": "USD",
+      "currency_iso4217": "840"
+     },
+     {
+      "description": "Transmission: Automatic, Mileage: 48,299 miles, Exterior Color: Silver, Interior Color: Tan Leather, Doors: 4 door, Model: S60, Year: 2008, Trim: 2.5T, Bodystyle: Sedan, Make: Volvo",
+      "fn": "2008 Volvo S60 2.5T Sedan",
+      "photo": "http://pictures.dealer.com/v/volvooflisle/0636/4ccd7094f5b3ce54ee46b39b2d86225ax.jpg",
+      "url": "http://www.volvooflisle.com/used/Volvo/2008-Volvo-S60-Chicago-75deace00a0d048d016238206b2e27ad.htm",
+      "price": "$17,998",
+      "currency": "USD",
+      "currency_iso4217": "840"
+     },
+     {
+      "description": "Transmission: Automatic Mileage: 60,710 miles Exterior Color: Electric Silver Interior Color: Black Leather Doors: 4 door Model: XC70 Year: 2008 Trim: 3.2 Bodystyle: Station Wagon Make: Volvo",
+      "fn": "2008 Volvo XC70 3.2 Station Wagon",
+      "url": "http://www.volvooflisle.com/certified/Volvo/2008-Volvo-XC70-Chicago-4245293d0a0d048e00d60f6ed0071f52.htm",
+      "price": "$22,500",
+      "currency": "USD",
+      "currency_iso4217": "840"
+     },
+     {
+      "description": "Transmission: Automatic Mileage: 48,963 miles Exterior Color: Barents Blue Interior Color: Tan Leather Doors: 4 door Model: XC70 Year: 2008 Trim: 3.2 Bodystyle: Station Wagon Make: Volvo",
+      "fn": "2008 Volvo XC70 3.2 Station Wagon",
+      "url": "http://www.volvooflisle.com/certified/Volvo/2008-Volvo-XC70-Chicago-809c58060a0d06490190b03c7158241a.htm",
+      "price": "$23,750",
+      "currency": "USD",
+      "currency_iso4217": "840"
+     },
+     {
+      "description": "Transmission: Automatic Mileage: 40,535 miles Exterior Color: Willow Green Interior Color: Tan Leather Doors: 4 door Model: XC90 Year: 2008 Trim: 3.2 Bodystyle: SUV Make: Volvo",
+      "fn": "2008 Volvo XC90 3.2 SUV",
+      "url": "http://www.volvooflisle.com/certified/Volvo/2008-Volvo-XC90-Chicago-8ae918410a0a006401840f85f20b6700.htm",
+      "price": "$26,775",
+      "currency": "USD",
+      "currency_iso4217": "840"
+     }
+    ],
+    "hcard": [
+     {
+      "fn": "Volvo Of Lisle"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Almartin Volvo - Shelburne VT - with new and used cars, trucks and ...",
+   "htmlTitle": "Almartin \u003cb\u003eVolvo\u003c/b\u003e - Shelburne VT - with new and used cars, trucks and \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://www.almartin.com/",
+   "displayLink": "www.almartin.com",
+   "snippet": "New and used vehicle dealer. Includes information on new models, used vehicle   warranties, location, hours of operation and events.",
+   "htmlSnippet": "New and used vehicle dealer. Includes information on new models, used vehicle \u003cbr\u003e  warranties, location, hours of operation and events.",
+   "cacheId": "HDVwpVuzyFgJ",
+   "formattedUrl": "www.almartin.com/",
+   "htmlFormattedUrl": "www.almartin.com/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://pictures.dealer.com/a/almartin/1602/thumb_5e77e8ae0a0d02b70053aed4721b3574.jpg",
+      "type": "1",
+      "width": "91",
+      "height": "69"
+     }
+    ],
+    "metatags": [
+     {
+      "copyright": "Copyright Almartin Volvo. All rights reserved.",
+      "author": "Almartin Volvo",
+      "expires": "never",
+      "distribution": "global",
+      "og:title": "Almartin Volvo - Shelburne VT - with new and used cars, trucks and SUV's.",
+      "og:type": "website",
+      "og:url": "http://www.almartin.com/index.htm",
+      "og:description": "Almartin Volvo, of Shelburne Vermont, is a Volvo dealer with new and used cars trucks and SUVs."
+     }
+    ],
+    "hcard": [
+     {
+      "fn": "Almartin Volvo"
+     },
+     {
+      "fn": "Almartin Volvo"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Volvo - Cars.com",
+   "htmlTitle": "\u003cb\u003eVolvo\u003c/b\u003e - Cars.com",
+   "link": "http://www.cars.com/volvo/",
+   "displayLink": "www.cars.com",
+   "snippet": "New and used Volvo cars and trucks. See the latest Volvo models and find a   Volvo for sale in your area.",
+   "htmlSnippet": "New and used \u003cb\u003eVolvo\u003c/b\u003e cars and trucks. See the latest \u003cb\u003eVolvo\u003c/b\u003e models and find a \u003cbr\u003e  \u003cb\u003eVolvo\u003c/b\u003e for sale in your area.",
+   "cacheId": "XNA8xZjUM8oJ",
+   "formattedUrl": "www.cars.com/volvo/",
+   "htmlFormattedUrl": "www.cars.com/\u003cb\u003evolvo\u003c/b\u003e/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://car-pictures.cars.com/images/?IMG=08vogla1.png&width=150&height=150&AUTOTRIM=1&ACT=F",
+      "type": "1",
+      "width": "120",
+      "height": "120"
+     }
+    ],
+    "metatags": [
+     {
+      "viewport": "width=device-width"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Volvo of Houston | New and Used Volvo Cars serving Jersey Village ...",
+   "htmlTitle": "\u003cb\u003eVolvo\u003c/b\u003e of Houston | New and Used \u003cb\u003eVolvo\u003c/b\u003e Cars serving Jersey Village \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://www.volvoofhouston.com/",
+   "displayLink": "www.volvoofhouston.com",
+   "snippet": "Search Volvo of Houston's Volvo dealership and browse our comprehensive   selection of new cars, trucks and SUVs. Buy a new or used Volvo in Houston at ...",
+   "htmlSnippet": "Search \u003cb\u003eVolvo\u003c/b\u003e of Houston&#39;s \u003cb\u003eVolvo\u003c/b\u003e dealership and browse our comprehensive \u003cbr\u003e  selection of new cars, trucks and SUVs. Buy a new or used \u003cb\u003eVolvo\u003c/b\u003e in Houston at \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "Bkk7j6HMBtUJ",
+   "formattedUrl": "www.volvoofhouston.com/",
+   "htmlFormattedUrl": "www.\u003cb\u003evolvo\u003c/b\u003eofhouston.com/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://pictures.dealer.com/s/sonicvolvohouston/0457/fe514200404638720025bd56bc5d0441.png",
+      "type": "1",
+      "width": "305",
+      "height": "165"
+     }
+    ],
+    "metatags": [
+     {
+      "copyright": "Copyright Volvo of Houston. All rights reserved.",
+      "author": "Volvo of Houston",
+      "expires": "never",
+      "distribution": "global",
+      "og:title": "Volvo of Houston | New and Used Volvo Cars serving Jersey Village, Sugar Land & Pasadena TX",
+      "og:type": "website",
+      "og:url": "http://www.volvoofhouston.com/index.htm",
+      "og:description": "Search Volvo of Houston's Volvo dealership and browse our comprehensive selection of new cars, trucks and SUVs. Buy a new or used Volvo in Houston at Volvo of Houston. Serving Jersey Village, Sugar Land, and Pasadena TX."
+     }
+    ],
+    "hcard": [
+     {
+      "fn": "Volvo of Houston"
+     },
+     {
+      "fn": "Volvo of Houston"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Jim Fisher Volvo - Portland, Oregon - Oregon's Leading Volvo Sales ...",
+   "htmlTitle": "Jim Fisher \u003cb\u003eVolvo\u003c/b\u003e - Portland, Oregon - Oregon&#39;s Leading \u003cb\u003eVolvo\u003c/b\u003e Sales \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://www.jimfishervolvo.com/",
+   "displayLink": "www.jimfishervolvo.com",
+   "snippet": "Portland, Oregon - Oregon's Leading Volvo Sales, Service, Parts and Bodyshop -   Serving Oregon and Southwest Washington for Over 50 Years.",
+   "htmlSnippet": "Portland, Oregon - Oregon&#39;s Leading \u003cb\u003eVolvo\u003c/b\u003e Sales, Service, Parts and Bodyshop - \u003cbr\u003e  Serving Oregon and Southwest Washington for Over 50 Years.",
+   "cacheId": "FNMVEWTxgXEJ",
+   "formattedUrl": "www.jimfishervolvo.com/",
+   "htmlFormattedUrl": "www.jimfisher\u003cb\u003evolvo\u003c/b\u003e.com/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.jimfishervolvo.com/campaigns/2012/20120501-20120930-parts-accrebate/carousel.jpg",
+      "type": "1",
+      "width": "352",
+      "height": "143"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Volvo 200 Series - Wikipedia, the free encyclopedia",
+   "htmlTitle": "\u003cb\u003eVolvo\u003c/b\u003e 200 Series - Wikipedia, the free encyclopedia",
+   "link": "http://en.wikipedia.org/wiki/Volvo_200_Series",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "The Volvo 200 series is a range of large family cars (mid-size cars in the USA),   produced by Volvo from 1974 to 1993, with more than 2.8 million units sold ...",
+   "htmlSnippet": "The \u003cb\u003eVolvo\u003c/b\u003e 200 series is a range of large family cars (mid-size cars in the USA), \u003cbr\u003e  produced by \u003cb\u003eVolvo\u003c/b\u003e from 1974 to 1993, with more than 2.8 million units sold \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "h_F7Bl37ep4J",
+   "formattedUrl": "en.wikipedia.org/wiki/Volvo_200_Series",
+   "htmlFormattedUrl": "en.wikipedia.org/wiki/\u003cb\u003eVolvo\u003c/b\u003e_200_Series",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://upload.wikimedia.org/wikipedia/commons/thumb/d/df/1988-1991_Volvo_240_GL_station_wagon_(2011-06-15)_01.jpg/250px-1988-1991_Volvo_240_GL_station_wagon_(2011-06-15)_01.jpg",
+      "type": "1",
+      "width": "200",
+      "height": "94"
+     }
+    ],
+    "hproduct": [
+     {
+      "category": "Executive car",
+      "fn": "Volvo 200"
+     }
+    ]
+   }
+  }
+ ]
+}

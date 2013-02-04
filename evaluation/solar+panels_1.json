@@ -1,0 +1,306 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "nextPage": [
+   {
+    "title": "Google Custom Search - solar panels",
+    "totalResults": "32100000",
+    "searchTerms": "solar panels",
+    "count": 10,
+    "startIndex": 21,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "017401104989814545383:mf4lavmtuva"
+   }
+  ],
+  "request": [
+   {
+    "title": "Google Custom Search - solar panels",
+    "totalResults": "32100000",
+    "searchTerms": "solar panels",
+    "count": 10,
+    "startIndex": 11,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "017401104989814545383:mf4lavmtuva"
+   }
+  ],
+  "previousPage": [
+   {
+    "title": "Google Custom Search - solar panels",
+    "totalResults": "32100000",
+    "searchTerms": "solar panels",
+    "count": 10,
+    "startIndex": 1,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "017401104989814545383:mf4lavmtuva"
+   }
+  ]
+ },
+ "context": {
+  "title": "College MetaSearch Comparison"
+ },
+ "searchInformation": {
+  "searchTime": 0.283645,
+  "formattedSearchTime": "0.28",
+  "totalResults": "32100000",
+  "formattedTotalResults": "32,100,000"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "Solar Panels, Power and Solar Kits",
+   "htmlTitle": "\u003cb\u003eSolar Panels\u003c/b\u003e, Power and Solar Kits",
+   "link": "http://www.solarhome.org/",
+   "displayLink": "www.solarhome.org",
+   "snippet": "Solar Panels, Solar Power Kits, Fountains, Lights and more. We carry top brand   solar panels for your home.",
+   "htmlSnippet": "\u003cb\u003eSolar Panels\u003c/b\u003e, \u003cb\u003eSolar Power\u003c/b\u003e Kits, Fountains, Lights and more. We carry top brand \u003cbr\u003e  \u003cb\u003esolar panels\u003c/b\u003e for your home.",
+   "cacheId": "ivI7AyVOuGsJ",
+   "formattedUrl": "www.solarhome.org/",
+   "htmlFormattedUrl": "www.\u003cb\u003esolar\u003c/b\u003ehome.org/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.solarhome.org/assets/images/solarhome-homepage-banner.jpg",
+      "type": "1",
+      "width": "403",
+      "height": "125"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Solar Power | Inhabitat - Sustainable Design Innovation, Eco ...",
+   "htmlTitle": "\u003cb\u003eSolar Power\u003c/b\u003e | Inhabitat - Sustainable Design Innovation, Eco \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://inhabitat.com/category/solar-power/",
+   "displayLink": "inhabitat.com",
+   "snippet": "Solar power station photo from Shutterstock Germany has set yet another   impressive record for solar power consumption! As solar power usage in   Germany has ...",
+   "htmlSnippet": "\u003cb\u003eSolar power\u003c/b\u003e station photo from Shutterstock Germany has set yet another \u003cbr\u003e  impressive record for \u003cb\u003esolar power\u003c/b\u003e consumption! As \u003cb\u003esolar power\u003c/b\u003e usage in \u003cbr\u003e  Germany has \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "kd7oBGG1ukgJ",
+   "formattedUrl": "inhabitat.com/category/solar-power/",
+   "htmlFormattedUrl": "inhabitat.com/category/\u003cb\u003esolar\u003c/b\u003e-\u003cb\u003epower\u003c/b\u003e/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://assets.inhabitat.com/wp-content/blogs.dir/1/files/2012/07/Firefly-Dan-Baker-140x120.jpg",
+      "type": "1",
+      "width": "112",
+      "height": "96"
+     }
+    ],
+    "metatags": [
+     {
+      "og:title": "Harmony House Cat Shelter is Chicago’s First Net-Zero Commercial Building",
+      "og:type": "article",
+      "og:url": "http://inhabitat.com/harmony-house-cat-shelter-is-chicagos-first-net-zero-commercial-building/"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Solar Panels, Solar Power Energy Systems & Energy Efficiency ...",
+   "htmlTitle": "\u003cb\u003eSolar Panels\u003c/b\u003e, \u003cb\u003eSolar Power\u003c/b\u003e Energy Systems &amp; Energy Efficiency \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://www.solarcity.com/",
+   "displayLink": "www.solarcity.com",
+   "snippet": "SolarCity is a leader in full-service solar power for homes, businesses &   governments by providing engineering design, financing, installation, monitoring ...",
+   "htmlSnippet": "SolarCity is a leader in full-service \u003cb\u003esolar power\u003c/b\u003e for homes, businesses &amp; \u003cbr\u003e  governments by providing engineering design, financing, installation, monitoring \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "LgT_K_zjw7IJ",
+   "formattedUrl": "www.solarcity.com/",
+   "htmlFormattedUrl": "www.\u003cb\u003esolar\u003c/b\u003ecity.com/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.solarcity.com/images/solarcity-fb.jpg"
+     }
+    ],
+    "metatags": [
+     {
+      "copyright": "Copyright &copy; \u003c%= System.DateTime.Now.Year.ToString() %\u003e SolarCity",
+      "distribution": "GLOBAL",
+      "rating": "GENERAL",
+      "og:description": "SolarCity is a leader in full-service solar power for homes, businesses & governments by providing engineering design, financing, installation, monitoring & energy efficiency 888-978-7652",
+      "og:title": "SolarCity",
+      "og:type": "website",
+      "og:url": "http://www.solarcity.com/",
+      "og:image": "http://www.solarcity.com/images/solarcity-fb.jpg",
+      "og:site_name": "SolarCity",
+      "fb:admins": "1060915630",
+      "msvalidate.01": "6C9037DA371FCDA0BAC29738DAF8FBFD",
+      "y_key": "e92a321153f9d2ce"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Solar Panels Online - Buy Residential Solar Panels at Unlimited ...",
+   "htmlTitle": "\u003cb\u003eSolar Panels\u003c/b\u003e Online - Buy Residential \u003cb\u003eSolar Panels\u003c/b\u003e at Unlimited \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://www.unlimited-solar.com/",
+   "displayLink": "www.unlimited-solar.com",
+   "snippet": "Unlimited-Solar is one of the best Online Solar Panels provider in US. We offer   solar panel, solar power, solar fountains, solar kits, residential solar, solar pumps ...",
+   "htmlSnippet": "Unlimited-Solar is one of the best Online \u003cb\u003eSolar Panels\u003c/b\u003e provider in US. We offer \u003cbr\u003e  \u003cb\u003esolar panel\u003c/b\u003e, \u003cb\u003esolar power\u003c/b\u003e, solar fountains, solar kits, residential solar, solar pumps \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "JqJpBFTY0tIJ",
+   "formattedUrl": "www.unlimited-solar.com/",
+   "htmlFormattedUrl": "www.unlimited-\u003cb\u003esolar\u003c/b\u003e.com/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.unlimited-solar.com/v/vspfiles/assets/images/link1.jpg",
+      "type": "1",
+      "width": "98",
+      "height": "106"
+     }
+    ],
+    "metatags": [
+     {
+      "alexaverifyid": "zKP6mOvwdans_zRKusicKYGPnWw",
+      "msvalidate.01": "1B5702554911BA206C77533BB1989235"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Solar Energy International",
+   "htmlTitle": "\u003cb\u003eSolar Energy\u003c/b\u003e International",
+   "link": "http://www.solarenergy.org/",
+   "displayLink": "www.solarenergy.org",
+   "snippet": "Solar Training and Renewable Energy Education for 20 years. Solar Energy   International (SEI) has been providing hands-on and online solar training   courses ...",
+   "htmlSnippet": "Solar Training and Renewable Energy Education for 20 years. \u003cb\u003eSolar Energy\u003c/b\u003e \u003cbr\u003e  International (SEI) has been providing hands-on and online solar training \u003cbr\u003e  courses \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "tBFHRmTEb8gJ",
+   "formattedUrl": "www.solarenergy.org/",
+   "htmlFormattedUrl": "www.\u003cb\u003esolarenergy\u003c/b\u003e.org/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.solarenergy.org/files/images/SEI_SPCE_logo_0.jpg",
+      "type": "1",
+      "width": "224",
+      "height": "225"
+     }
+    ],
+    "metatags": [
+     {
+      "abstract": "Solar Training and Renewable Energy Education for 20 years. Solar Energy International (SEI) has been providing hands-on and online courses in solar training, renewable energy workshops, and hands-on courses in sustainable building technologies.",
+      "copyright": "© 2012 Solar Energy International",
+      "dc.title": "Solar Energy International | Solar Training & Renewable Energy Education for a Sustainable Future"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Solar panels and solar lights manufacturers",
+   "htmlTitle": "\u003cb\u003eSolar panels\u003c/b\u003e and solar lights manufacturers",
+   "link": "http://www.shinesolar.net/",
+   "displayLink": "www.shinesolar.net",
+   "snippet": "We are one of the largest solar panels and solar lights manufacturers.We supply   and wholesale all kinds of solar energy products.",
+   "htmlSnippet": "We are one of the largest \u003cb\u003esolar panels\u003c/b\u003e and solar lights manufacturers.We supply \u003cbr\u003e  and wholesale all kinds of \u003cb\u003esolar energy\u003c/b\u003e products.",
+   "cacheId": "lcDbB2MBfT8J",
+   "formattedUrl": "www.shinesolar.net/",
+   "htmlFormattedUrl": "www.shine\u003cb\u003esolar\u003c/b\u003e.net/"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Solar power - Wikipedia, the free encyclopedia",
+   "htmlTitle": "\u003cb\u003eSolar power\u003c/b\u003e - Wikipedia, the free encyclopedia",
+   "link": "http://en.wikipedia.org/wiki/Solar_power",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "Solar power is the conversion of sunlight into electricity, either directly using   photovoltaics (PV), or indirectly using concentrated solar power (CSP).",
+   "htmlSnippet": "\u003cb\u003eSolar power\u003c/b\u003e is the conversion of sunlight into electricity, either directly using \u003cbr\u003e  photovoltaics (PV), or indirectly using concentrated \u003cb\u003esolar power\u003c/b\u003e (CSP).",
+   "cacheId": "qIlOq8vlcWEJ",
+   "formattedUrl": "en.wikipedia.org/wiki/Solar_power",
+   "htmlFormattedUrl": "en.wikipedia.org/wiki/\u003cb\u003eSolar\u003c/b\u003e_\u003cb\u003epower\u003c/b\u003e",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/PS10_solar_power_tower.jpg/275px-PS10_solar_power_tower.jpg",
+      "type": "1",
+      "width": "220",
+      "height": "136"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "How To: Cheap or Free Solar Panels - CleanTechnica",
+   "htmlTitle": "How To: Cheap or Free \u003cb\u003eSolar Panels\u003c/b\u003e - CleanTechnica",
+   "link": "http://cleantechnica.com/2008/02/07/how-to-cheap-or-free-solar-panels/",
+   "displayLink": "cleantechnica.com",
+   "snippet": "Feb 7, 2008 ... Solar panels are ideal for electric equipment when one doesn't have access to   the power grid and are widely used for such purposes (i.e. by ...",
+   "htmlSnippet": "Feb 7, 2008 \u003cb\u003e...\u003c/b\u003e \u003cb\u003eSolar panels\u003c/b\u003e are ideal for electric equipment when one doesn&#39;t have access to \u003cbr\u003e  the power grid and are widely used for such purposes (i.e. by \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "Sbkxo0NsJh8J",
+   "formattedUrl": "cleantechnica.com/2008/02/07/how-to-cheap-or-free-solar-panels/",
+   "htmlFormattedUrl": "cleantechnica.com/2008/02/07/how-to-cheap-or-free-\u003cb\u003esolar\u003c/b\u003e-\u003cb\u003epanels\u003c/b\u003e/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://cleantechnica.com/files/2010/09/Wayne-National-Forest-Solar-Panel-Construction-150x150.jpg",
+      "type": "1",
+      "width": "120",
+      "height": "120"
+     }
+    ],
+    "metatags": [
+     {
+      "rpupostid": "14809",
+      "rpuplugin": "v2.7",
+      "repostusapikey": "f3f714ee9cf2acd587807938f513367c",
+      "og:title": "How To: Cheap or Free Solar Panels",
+      "og:type": "article",
+      "og:url": "http://cleantechnica.com/2008/02/07/how-to-cheap-or-free-solar-panels/",
+      "og:image": "http://cleantechnica.com/files/2010/09/Wayne-National-Forest-Solar-Panel-Construction-150x150.jpg",
+      "og:site_name": "CleanTechnica",
+      "og:description": "My cousin mentioned to me that her family wanted to install solar panels on their roof. She said it was a huge disappointment because it was far too expensive. It would take twenty years for them to regain the cost in energy savings, even with state solar initiatives! I decided to do some digging and",
+      "fb:app_id": "107162296009995"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Solar energy - Wikipedia, the free encyclopedia",
+   "htmlTitle": "\u003cb\u003eSolar energy\u003c/b\u003e - Wikipedia, the free encyclopedia",
+   "link": "http://en.wikipedia.org/wiki/Solar_energy",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "Solar energy, radiant light and heat from the sun, has been harnessed by   humans since ancient times using a range of ever-evolving technologies. Solar   energy ...",
+   "htmlSnippet": "\u003cb\u003eSolar energy\u003c/b\u003e, radiant light and heat from the sun, has been harnessed by \u003cbr\u003e  humans since ancient times using a range of ever-evolving technologies. \u003cb\u003eSolar\u003c/b\u003e \u003cbr\u003e  \u003cb\u003eenergy\u003c/b\u003e \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "2J11D0eOvjQJ",
+   "formattedUrl": "en.wikipedia.org/wiki/Solar_energy",
+   "htmlFormattedUrl": "en.wikipedia.org/wiki/\u003cb\u003eSolar\u003c/b\u003e_\u003cb\u003eenergy\u003c/b\u003e",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Giant_photovoltaic_array.jpg/300px-Giant_photovoltaic_array.jpg",
+      "type": "1",
+      "width": "240",
+      "height": "180"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "NREL: Learning - Solar Energy Basics",
+   "htmlTitle": "NREL: Learning - \u003cb\u003eSolar Energy\u003c/b\u003e Basics",
+   "link": "http://www.nrel.gov/learning/re_solar.html/",
+   "displayLink": "www.nrel.gov",
+   "snippet": "Oct 7, 2009 ... Solar panels installed on a home in Colorado. Solar is the Latin word for sun—a   powerful source of energy that can be used to heat, cool, and ...",
+   "htmlSnippet": "Oct 7, 2009 \u003cb\u003e...\u003c/b\u003e \u003cb\u003eSolar panels\u003c/b\u003e installed on a home in Colorado. Solar is the Latin word for sun—a \u003cbr\u003e  powerful source of energy that can be used to heat, cool, and \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "Obh08mzqy3AJ",
+   "formattedUrl": "www.nrel.gov/learning/re_solar.html/",
+   "htmlFormattedUrl": "www.nrel.gov/learning/re_\u003cb\u003esolar\u003c/b\u003e.html/"
+  }
+ ]
+}

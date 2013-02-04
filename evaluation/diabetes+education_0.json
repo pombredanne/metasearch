@@ -1,0 +1,253 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "nextPage": [
+   {
+    "title": "Google Custom Search - diabetes education",
+    "totalResults": "27000000",
+    "searchTerms": "diabetes education",
+    "count": 10,
+    "startIndex": 11,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "017401104989814545383:mf4lavmtuva"
+   }
+  ],
+  "request": [
+   {
+    "title": "Google Custom Search - diabetes education",
+    "totalResults": "27000000",
+    "searchTerms": "diabetes education",
+    "count": 10,
+    "startIndex": 1,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "017401104989814545383:mf4lavmtuva"
+   }
+  ]
+ },
+ "context": {
+  "title": "College MetaSearch Comparison"
+ },
+ "searchInformation": {
+  "searchTime": 0.215598,
+  "formattedSearchTime": "0.22",
+  "totalResults": "27000000",
+  "formattedTotalResults": "27,000,000"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "National Diabetes Education Program - Free Information to Prevent ...",
+   "htmlTitle": "National \u003cb\u003eDiabetes Education\u003c/b\u003e Program - Free Information to Prevent \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://ndep.nih.gov/",
+   "displayLink": "ndep.nih.gov",
+   "snippet": "NDEP is a partnership of the National Institutes of Health, the Centers for Disease   Control and Prevention, and more than 200 public and private organizations.",
+   "htmlSnippet": "NDEP is a partnership of the National Institutes of Health, the Centers for Disease \u003cbr\u003e  Control and Prevention, and more than 200 public and private organizations.",
+   "cacheId": "xZFEJSJuJxcJ",
+   "formattedUrl": "ndep.nih.gov/",
+   "htmlFormattedUrl": "ndep.nih.gov/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://ndep.nih.gov/media/NDEP_15th_button_179x179.png",
+      "type": "1",
+      "width": "143",
+      "height": "143"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "American Association of Diabetes Educators - American Association ...",
+   "htmlTitle": "American Association of \u003cb\u003eDiabetes Educators\u003c/b\u003e - American Association \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://www.diabeteseducator.org/",
+   "displayLink": "www.diabeteseducator.org",
+   "snippet": "Helping to advance the practice of diabetes self-management training as an   integral component of health care for persons with diabetes, including lifestyle ...",
+   "htmlSnippet": "Helping to advance the practice of \u003cb\u003ediabetes\u003c/b\u003e self-management training as an \u003cbr\u003e  integral component of health care for persons with \u003cb\u003ediabetes\u003c/b\u003e, including lifestyle \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "DDD0_WEK6KcJ",
+   "formattedUrl": "www.diabeteseducator.org/",
+   "htmlFormattedUrl": "www.\u003cb\u003ediabeteseducator\u003c/b\u003e.org/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.diabeteseducator.org/export/sites/aade/_resources/images/general/CMacfarlane_small.jpg",
+      "type": "1",
+      "width": "65",
+      "height": "88"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "CDC - National Diabetes Education Program NDEP - Diabetes DDT",
+   "htmlTitle": "CDC - National \u003cb\u003eDiabetes Education\u003c/b\u003e Program NDEP - Diabetes DDT",
+   "link": "http://www.cdc.gov/diabetes/ndep/",
+   "displayLink": "www.cdc.gov",
+   "snippet": "Jan 11, 2012 ... The National Diabetes Education Program (NDEP) is jointly sponsored by the   Centers for Disease Control and Prevention and the National ...",
+   "htmlSnippet": "Jan 11, 2012 \u003cb\u003e...\u003c/b\u003e The National \u003cb\u003eDiabetes Education\u003c/b\u003e Program (NDEP) is jointly sponsored by the \u003cbr\u003e  Centers for Disease Control and Prevention and the National \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "85DeT2TsfIwJ",
+   "formattedUrl": "www.cdc.gov/diabetes/ndep/",
+   "htmlFormattedUrl": "www.cdc.gov/\u003cb\u003ediabetes\u003c/b\u003e/ndep/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.cdc.gov/diabetes/ndep/images/NDEPlogosm.jpg",
+      "type": "1",
+      "width": "99",
+      "height": "149"
+     }
+    ],
+    "metatags": [
+     {
+      "dc.language": "eng",
+      "template.version": "2.4.0"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Diabetes Education Online",
+   "htmlTitle": "\u003cb\u003eDiabetes Education\u003c/b\u003e Online",
+   "link": "http://dtc.ucsf.edu/",
+   "displayLink": "dtc.ucsf.edu",
+   "snippet": "UCSF Diabetes Teaching Center provides comprehensive online diabetes   information including self assessment quizzes. Topics from diagnosis to   treatment for ...",
+   "htmlSnippet": "UCSF \u003cb\u003eDiabetes\u003c/b\u003e Teaching Center provides comprehensive online \u003cb\u003ediabetes\u003c/b\u003e \u003cbr\u003e  information including self assessment quizzes. Topics from diagnosis to \u003cbr\u003e  treatment for \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "2nvgwyGClk0J",
+   "formattedUrl": "dtc.ucsf.edu/",
+   "htmlFormattedUrl": "dtc.ucsf.edu/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://dtc.ucsf.edu/wp-content/themes/dtc/images/graphics/causes-treatments-support.jpg",
+      "type": "1",
+      "width": "180",
+      "height": "103"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Find a Diabetes Educator - American Association of Diabetes ...",
+   "htmlTitle": "Find a \u003cb\u003eDiabetes Educator\u003c/b\u003e - American Association of Diabetes \u003cb\u003e...\u003c/b\u003e",
+   "link": "https://www.diabeteseducator.org/find",
+   "displayLink": "www.diabeteseducator.org",
+   "snippet": "Diabetes education (also called diabetes self-management training) is a covered   Medicare benefit and is covered by some private insurance plans. It requires a ...",
+   "htmlSnippet": "\u003cb\u003eDiabetes education\u003c/b\u003e (also called diabetes self-management training) is a covered \u003cbr\u003e  Medicare benefit and is covered by some private insurance plans. It requires a \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "9bSZAhdhcMYJ",
+   "formattedUrl": "https://www.diabeteseducator.org/find",
+   "htmlFormattedUrl": "https://www.\u003cb\u003ediabeteseducator\u003c/b\u003e.org/find",
+   "pagemap": {
+    "metatags": [
+     {
+      "nonmember": "1"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "BD - Diabetes Education",
+   "htmlTitle": "BD - \u003cb\u003eDiabetes Education\u003c/b\u003e",
+   "link": "http://www.bd.com/diabetes/",
+   "displayLink": "www.bd.com",
+   "snippet": "Diabetes education: information about diabetes, blood glucose testing and   insulin injection from BD, a worldwide leader in innovative diabetes products.",
+   "htmlSnippet": "\u003cb\u003eDiabetes education\u003c/b\u003e: information about diabetes, blood glucose testing and \u003cbr\u003e  insulin injection from BD, a worldwide leader in innovative diabetes products.",
+   "cacheId": "c-fsgg1lGycJ",
+   "formattedUrl": "www.bd.com/diabetes/",
+   "htmlFormattedUrl": "www.bd.com/\u003cb\u003ediabetes\u003c/b\u003e/",
+   "pagemap": {
+    "metatags": [
+     {
+      "viewport": "width=device-width; initial-scale=1.0; maximum-scale=1.0;"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Diabetes Education, Certification, Examination, Diabetes Self ...",
+   "htmlTitle": "\u003cb\u003eDiabetes Education\u003c/b\u003e, Certification, Examination, Diabetes Self \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://www.ncbde.org/",
+   "displayLink": "www.ncbde.org",
+   "snippet": "NCBDE was established in 1986 as an independent organization to promote the   interests of diabetes educators and the public at large by granting certification ...",
+   "htmlSnippet": "NCBDE was established in 1986 as an independent organization to promote the \u003cbr\u003e  interests of \u003cb\u003ediabetes educators\u003c/b\u003e and the public at large by granting certification \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "UDhNKJtER3AJ",
+   "formattedUrl": "www.ncbde.org/",
+   "htmlFormattedUrl": "www.ncbde.org/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.ncbde.org/assets/1/13/SlideShowDimensionMain/family1.jpg",
+      "type": "1",
+      "width": "322",
+      "height": "157"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "DiabetesPro | Find a Recognized Education Program near you",
+   "htmlTitle": "DiabetesPro | Find a Recognized \u003cb\u003eEducation\u003c/b\u003e Program near you",
+   "link": "http://professional.diabetes.org/erp_zip_search.aspx",
+   "displayLink": "professional.diabetes.org",
+   "snippet": "http://professional.diabetes.org ... ADA American Diabetes Association ... To find   your nearest recognized education program enter your ZIP code and select the ...",
+   "htmlSnippet": "http://professional.\u003cb\u003ediabetes\u003c/b\u003e.org \u003cb\u003e...\u003c/b\u003e ADA American \u003cb\u003eDiabetes\u003c/b\u003e Association \u003cb\u003e...\u003c/b\u003e To find \u003cbr\u003e  your nearest recognized \u003cb\u003eeducation\u003c/b\u003e program enter your ZIP code and select the \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "SeYiOCALjSgJ",
+   "formattedUrl": "professional.diabetes.org/erp_zip_search.aspx",
+   "htmlFormattedUrl": "professional.\u003cb\u003ediabetes\u003c/b\u003e.org/erp_zip_search.aspx"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Diabetes Education and Research Center",
+   "htmlTitle": "\u003cb\u003eDiabetes Education\u003c/b\u003e and Research Center",
+   "link": "http://www.diabeteseducationandresearchcenter.org/",
+   "displayLink": "www.diabeteseducationandresearchcenter.org",
+   "snippet": "Philadelphia-based, non-profit organization supporting diabetes education and   research since 1967.",
+   "htmlSnippet": "Philadelphia-based, non-profit organization supporting \u003cb\u003ediabetes education\u003c/b\u003e and \u003cbr\u003e  research since 1967.",
+   "cacheId": "sF3jE5HkrakJ",
+   "formattedUrl": "www.diabeteseducationandresearchcenter.org/",
+   "htmlFormattedUrl": "www.\u003cb\u003ediabeteseducation\u003c/b\u003eandresearchcenter.org/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.diabeteseducationandresearchcenter.org/imgs/d1.gif",
+      "type": "1",
+      "width": "94",
+      "height": "83"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Diabetes education: MedlinePlus Medical Encyclopedia",
+   "htmlTitle": "\u003cb\u003eDiabetes education\u003c/b\u003e: MedlinePlus Medical Encyclopedia",
+   "link": "http://www.nlm.nih.gov/medlineplus/ency/article/003996.htm",
+   "displayLink": "www.nlm.nih.gov",
+   "snippet": "Diabetes self-management education is an important part of a treatment plan.   Diabetes self-management education shows you how to incorporate disease ...",
+   "htmlSnippet": "\u003cb\u003eDiabetes\u003c/b\u003e self-management \u003cb\u003eeducation\u003c/b\u003e is an important part of a treatment plan. \u003cbr\u003e  \u003cb\u003eDiabetes\u003c/b\u003e self-management \u003cb\u003eeducation\u003c/b\u003e shows you how to incorporate disease \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "YPn442ESY9cJ",
+   "formattedUrl": "www.nlm.nih.gov/medlineplus/ency/article/003996.htm",
+   "htmlFormattedUrl": "www.nlm.nih.gov/medlineplus/ency/article/003996.htm",
+   "pagemap": {
+    "metatags": [
+     {
+      "ac-dictionary": "medlineplus-ac-dictionary"
+     }
+    ]
+   }
+  }
+ ]
+}

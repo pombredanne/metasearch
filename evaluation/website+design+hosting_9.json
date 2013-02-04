@@ -1,0 +1,312 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "nextPage": [
+   {
+    "title": "Google Custom Search - website design hosting",
+    "totalResults": "33600000",
+    "searchTerms": "website design hosting",
+    "count": 10,
+    "startIndex": 101,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "017401104989814545383:mf4lavmtuva"
+   }
+  ],
+  "request": [
+   {
+    "title": "Google Custom Search - website design hosting",
+    "totalResults": "33600000",
+    "searchTerms": "website design hosting",
+    "count": 10,
+    "startIndex": 91,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "017401104989814545383:mf4lavmtuva"
+   }
+  ],
+  "previousPage": [
+   {
+    "title": "Google Custom Search - website design hosting",
+    "totalResults": "33600000",
+    "searchTerms": "website design hosting",
+    "count": 10,
+    "startIndex": 81,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "017401104989814545383:mf4lavmtuva"
+   }
+  ]
+ },
+ "context": {
+  "title": "College MetaSearch Comparison"
+ },
+ "searchInformation": {
+  "searchTime": 0.200053,
+  "formattedSearchTime": "0.20",
+  "totalResults": "33600000",
+  "formattedTotalResults": "33,600,000"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "NJ Web Design, Business Website Services, New Jersey Corporate ...",
+   "htmlTitle": "NJ \u003cb\u003eWeb Design\u003c/b\u003e, Business Website Services, New Jersey Corporate \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://graphicvisionary.com/",
+   "displayLink": "graphicvisionary.com",
+   "snippet": "New Jersey's Best Graphic Design site Host as well as the nj business website   design, nj graphic design web hosting, nj graphic web design, nj business web ...",
+   "htmlSnippet": "New Jersey&#39;s Best Graphic Design site \u003cb\u003eHost\u003c/b\u003e as well as the nj business \u003cb\u003ewebsite\u003c/b\u003e \u003cbr\u003e  \u003cb\u003edesign\u003c/b\u003e, nj graphic design web \u003cb\u003ehosting\u003c/b\u003e, nj graphic \u003cb\u003eweb design\u003c/b\u003e, nj business web \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "VK_JZyqMEJkJ",
+   "formattedUrl": "graphicvisionary.com/",
+   "htmlFormattedUrl": "graphicvisionary.com/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://graphicvisionary.com/wp-content/themes/purevision/sliders/cycle/cycle1/images/corporate-identity-logo-design.jpg",
+      "type": "1",
+      "width": "344",
+      "height": "146"
+     }
+    ],
+    "metatags": [
+     {
+      "show-menu-auto-arrows": "1",
+      "show-menu-drop-shadows": "0",
+      "og:locale": "en_us",
+      "og:title": "NJ Web Design, Business Website Services, New Jersey Corporate Logo and Graphic Designer | Graphic Visions Communications",
+      "og:description": "Graphic Visions Communications is a professional, experienced company in website design of New Jersey business websites. We specialize in all graphic communications for small to mid-size forward thinking companies in the creation, development, website re-design, search engine optimization, maintenance of web sites presence, Content management systems, Wordpress Joomla CMS and Paypal, ecommerce.",
+      "og:url": "http://graphicvisionary.com/",
+      "og:type": "website"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Naples Florida Web Designers, Marco Island & Bonita Springs",
+   "htmlTitle": "Naples Florida \u003cb\u003eWeb\u003c/b\u003e Designers, Marco Island &amp; Bonita Springs",
+   "link": "http://rgbinternet.com/",
+   "displayLink": "rgbinternet.com",
+   "snippet": "A Naples web design company since 2001- Web, Logo, Hosting, Email, SEO &   Marketing. Dedicated, Experienced & Friendly Team!",
+   "htmlSnippet": "A Naples \u003cb\u003eweb design\u003c/b\u003e company since 2001- Web, Logo, \u003cb\u003eHosting\u003c/b\u003e, Email, SEO &amp; \u003cbr\u003e  Marketing. Dedicated, Experienced &amp; Friendly Team!",
+   "cacheId": "gyO2JkseL3cJ",
+   "formattedUrl": "rgbinternet.com/",
+   "htmlFormattedUrl": "rgbinternet.com/",
+   "pagemap": {
+    "metatags": [
+     {
+      "title": "Naples Florida Web Designers, Marco Island & Bonita Springs",
+      "viewport": "width=1024"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Web Hosting, Development, Email, Call Tracking | Tivilon Web ...",
+   "htmlTitle": "\u003cb\u003eWeb Hosting\u003c/b\u003e, Development, Email, Call Tracking | Tivilon \u003cb\u003eWeb\u003c/b\u003e \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://www.lostbet.com/",
+   "displayLink": "www.lostbet.com",
+   "snippet": "Tivilon Web Solutions offers Website Development and Hosting, Call Tracking ...   Our services include Web Design & Development, Hosting, Call Tracking, Email ...",
+   "htmlSnippet": "Tivilon Web Solutions offers Website Development and \u003cb\u003eHosting\u003c/b\u003e, Call Tracking \u003cb\u003e...\u003c/b\u003e \u003cbr\u003e  Our services include \u003cb\u003eWeb Design\u003c/b\u003e &amp; Development, \u003cb\u003eHosting\u003c/b\u003e, Call Tracking, Email \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "LrT1ShqQqzkJ",
+   "formattedUrl": "www.lostbet.com/",
+   "htmlFormattedUrl": "www.lostbet.com/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.lostbet.com/images/ten-years.png",
+      "type": "1",
+      "width": "148",
+      "height": "64"
+     }
+    ],
+    "metatags": [
+     {
+      "og:image": "http://temp.tivilon.com/images/logo.jpg"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Jacksonville website design | Web Development ecommerce",
+   "htmlTitle": "Jacksonville \u003cb\u003ewebsite design\u003c/b\u003e | Web Development ecommerce",
+   "link": "http://www.jmcwebsitedesign.com/",
+   "displayLink": "www.jmcwebsitedesign.com",
+   "snippet": "Jedi Marketing Concepts, is a full service web design and hosting company   located in Jacksonville Florida. We understand that the first impression of your   brand ...",
+   "htmlSnippet": "Jedi Marketing Concepts, is a full service \u003cb\u003eweb design\u003c/b\u003e and \u003cb\u003ehosting\u003c/b\u003e company \u003cbr\u003e  located in Jacksonville Florida. We understand that the first impression of your \u003cbr\u003e  brand \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "aVQWDsvZApgJ",
+   "formattedUrl": "www.jmcwebsitedesign.com/",
+   "htmlFormattedUrl": "www.jmc\u003cb\u003ewebsitedesign\u003c/b\u003e.com/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.jmcwebsitedesign.com/includes/jQuerySlideshow/images/jQuerySlideshow3/image1.jpg",
+      "type": "1",
+      "width": "331",
+      "height": "152"
+     }
+    ],
+    "metatags": [
+     {
+      "author": "www.jedimarketingconcepts.com",
+      "copyright": "www.jmcwebsitedesign.com"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "webpotential.com",
+   "htmlTitle": "webpotential.com",
+   "link": "http://www.webpotential.com/",
+   "displayLink": "www.webpotential.com",
+   "snippet": "portland, oregon, PDX, portland oregon, website design hosting promotion   webmaster hosting ... Web Site Design, Promotion and Hosting Since 1995 ...",
+   "htmlSnippet": "portland, oregon, PDX, portland oregon, \u003cb\u003ewebsite design hosting\u003c/b\u003e promotion \u003cbr\u003e  webmaster hosting \u003cb\u003e...\u003c/b\u003e Web Site Design, Promotion and Hosting Since 1995 \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "H2kHiNJd0LkJ",
+   "formattedUrl": "www.webpotential.com/",
+   "htmlFormattedUrl": "www.\u003cb\u003eweb\u003c/b\u003epotential.com/",
+   "pagemap": {
+    "metatags": [
+     {
+      "progid": "FrontPage.Editor.Document",
+      "microsoft theme": "none, default",
+      "microsoft border": "tb"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Fayetteville NC Web Design Company | Website Design|SEO|Web ...",
+   "htmlTitle": "Fayetteville NC \u003cb\u003eWeb Design\u003c/b\u003e Company | \u003cb\u003eWebsite Design\u003c/b\u003e|SEO|Web \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://www.biztoolsone.com/",
+   "displayLink": "www.biztoolsone.com",
+   "snippet": "Biz Tools One is a website design and hosting company providing service in ...   We specialize in website design, hosting, SEO and Internet marketing for your ...",
+   "htmlSnippet": "Biz Tools One is a website design and hosting company providing service in \u003cb\u003e...\u003c/b\u003e \u003cbr\u003e  We specialize in \u003cb\u003ewebsite design\u003c/b\u003e, \u003cb\u003ehosting\u003c/b\u003e, SEO and Internet marketing for your \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "C6lJae9eaboJ",
+   "formattedUrl": "www.biztoolsone.com/",
+   "htmlFormattedUrl": "www.biztoolsone.com/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.biztoolsone.com/images/work/top_08.gif",
+      "type": "1",
+      "width": "271",
+      "height": "144"
+     }
+    ],
+    "metatags": [
+     {
+      "classification": "Website Design, Website Hosting, Search Engine Optimization"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Welcome | webtrix - we design and host websites that work!",
+   "htmlTitle": "Welcome | webtrix - we \u003cb\u003edesign\u003c/b\u003e and \u003cb\u003ehost websites\u003c/b\u003e that work!",
+   "link": "http://www.webtrix.com/",
+   "displayLink": "www.webtrix.com",
+   "snippet": "Webtrix has been providing website hosting, e-mail hosting, SharePoint hosting,   dedicated servers and co-located services to businesses throughout the world ...",
+   "htmlSnippet": "Webtrix has been providing \u003cb\u003ewebsite hosting\u003c/b\u003e, e-mail \u003cb\u003ehosting\u003c/b\u003e, SharePoint \u003cb\u003ehosting\u003c/b\u003e, \u003cbr\u003e  dedicated servers and co-located services to businesses throughout the world \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "vk28DaKPb0oJ",
+   "formattedUrl": "www.webtrix.com/",
+   "htmlFormattedUrl": "www.\u003cb\u003eweb\u003c/b\u003etrix.com/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.webtrix.com/images/slider-icons/wizard.png",
+      "type": "1",
+      "width": "160",
+      "height": "160"
+     }
+    ],
+    "metatags": [
+     {
+      "author": "Webtrix",
+      "zipcode": "92673",
+      "city": "San Clemente",
+      "state": "CA",
+      "metropolitan area": "Los Angeles",
+      "country": "United States",
+      "geo.region": "US-CA",
+      "geo.placename": "San Clemente",
+      "geo.position": "33.450317;-117.602526",
+      "icbm": "33.450317, -117.602526",
+      "dc.title": "webtrix - your one stop microsoft gold certified solution provider",
+      "copyright": "2012 webtrix All rights reserved.  Duplication of any content on this site is prohibited.",
+      "distribution": "global"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Web site Hosting & Design | Hosted Webmail | SEO & SEM Service",
+   "htmlTitle": "\u003cb\u003eWeb\u003c/b\u003e site \u003cb\u003eHosting\u003c/b\u003e &amp; \u003cb\u003eDesign\u003c/b\u003e | \u003cb\u003eHosted\u003c/b\u003e Webmail | SEO &amp; SEM Service",
+   "link": "http://www.blueclone.com/best/it-consultant/web-site.html",
+   "displayLink": "www.blueclone.com",
+   "snippet": "Business class web services & design: Domain names, web hosting services,   dedicated servers, email hosting, ecommerce hosting and email services from ...",
+   "htmlSnippet": "Business class \u003cb\u003eweb\u003c/b\u003e services &amp; \u003cb\u003edesign\u003c/b\u003e: Domain names, \u003cb\u003eweb hosting\u003c/b\u003e services, \u003cbr\u003e  dedicated servers, email \u003cb\u003ehosting\u003c/b\u003e, ecommerce \u003cb\u003ehosting\u003c/b\u003e and email services from \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "5h5l3o9uxAYJ",
+   "formattedUrl": "www.blueclone.com/best/it-consultant/web-site.html",
+   "htmlFormattedUrl": "www.blueclone.com/best/it-consultant/\u003cb\u003eweb\u003c/b\u003e-site.html"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Team Lightning, FL Web Design | Hosting | IT Services | SEO",
+   "htmlTitle": "Team Lightning, FL \u003cb\u003eWeb Design\u003c/b\u003e | \u003cb\u003eHosting\u003c/b\u003e | IT Services | SEO",
+   "link": "http://www.teamlightning.com/",
+   "displayLink": "www.teamlightning.com",
+   "snippet": "Team Lightning is an innovative company providing network design,   implementation, IT support, consulting and web services. Serving Hillsborough,   Pinellas ...",
+   "htmlSnippet": "Team Lightning is an innovative company providing network \u003cb\u003edesign\u003c/b\u003e, \u003cbr\u003e  implementation, IT support, consulting and \u003cb\u003eweb\u003c/b\u003e services. Serving Hillsborough, \u003cbr\u003e  Pinellas \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "QPBVLk1e0SUJ",
+   "formattedUrl": "www.teamlightning.com/",
+   "htmlFormattedUrl": "www.teamlightning.com/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.teamlightning.com/images/tab_mxlogic.jpg",
+      "type": "1",
+      "width": "236",
+      "height": "118"
+     }
+    ],
+    "metatags": [
+     {
+      "title": "Lightning Technology Group, Inc."
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Affordable Website Design, Hosting, and Promotion",
+   "htmlTitle": "Affordable \u003cb\u003eWebsite Design\u003c/b\u003e, \u003cb\u003eHosting\u003c/b\u003e, and Promotion",
+   "link": "http://seymourtex.com/",
+   "displayLink": "seymourtex.com",
+   "snippet": "Web Services of Seymour produces and hosts customized web sites with the best   cost to quality ratio in the industry.",
+   "htmlSnippet": "\u003cb\u003eWeb\u003c/b\u003e Services of Seymour produces and hosts customized \u003cb\u003eweb\u003c/b\u003e sites with the best \u003cbr\u003e  cost to quality ratio in the industry.",
+   "cacheId": "t5_9iMpBc04J",
+   "formattedUrl": "seymourtex.com/",
+   "htmlFormattedUrl": "seymourtex.com/",
+   "pagemap": {
+    "metatags": [
+     {
+      "author": "Web Services of Seymour"
+     }
+    ]
+   }
+  }
+ ]
+}

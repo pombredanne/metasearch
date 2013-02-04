@@ -1,0 +1,353 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "nextPage": [
+   {
+    "title": "Google Custom Search - defender",
+    "totalResults": "19600000",
+    "searchTerms": "defender",
+    "count": 10,
+    "startIndex": 71,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "017401104989814545383:mf4lavmtuva"
+   }
+  ],
+  "request": [
+   {
+    "title": "Google Custom Search - defender",
+    "totalResults": "19600000",
+    "searchTerms": "defender",
+    "count": 10,
+    "startIndex": 61,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "017401104989814545383:mf4lavmtuva"
+   }
+  ],
+  "previousPage": [
+   {
+    "title": "Google Custom Search - defender",
+    "totalResults": "19600000",
+    "searchTerms": "defender",
+    "count": 10,
+    "startIndex": 51,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "017401104989814545383:mf4lavmtuva"
+   }
+  ]
+ },
+ "context": {
+  "title": "College MetaSearch Comparison"
+ },
+ "searchInformation": {
+  "searchTime": 0.145488,
+  "formattedSearchTime": "0.15",
+  "totalResults": "19600000",
+  "formattedTotalResults": "19,600,000"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "Defender",
+   "htmlTitle": "\u003cb\u003eDefender\u003c/b\u003e",
+   "link": "http://thebestarcadegames.com/arcade/defender.html",
+   "displayLink": "thebestarcadegames.com",
+   "snippet": "Monster are preparing to attack your city. Your objective is to defend the city at all   costs by building defense towers to attack the monster. Place the towers ...",
+   "htmlSnippet": "Monster are preparing to attack your city. Your objective is to defend the city at all \u003cbr\u003e  costs by building defense towers to attack the monster. Place the towers \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "_52peOmXUQIJ",
+   "formattedUrl": "thebestarcadegames.com/arcade/defender.html",
+   "htmlFormattedUrl": "thebestarcadegames.com/arcade/\u003cb\u003edefender\u003c/b\u003e.html",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.thebestarcadegames.com/img/playhub002.gif",
+      "type": "1",
+      "width": "80",
+      "height": "80"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Bitdefender Antivirus Software",
+   "htmlTitle": "Bitdefender Antivirus Software",
+   "link": "http://www.bitdefender.com/",
+   "displayLink": "www.bitdefender.com",
+   "snippet": "Award-winning antivirus software from Bitdefender. Get the best real-time security   for your PC with our advanced software.",
+   "htmlSnippet": "Award-winning antivirus software from Bitdefender. Get the best real-time security \u003cbr\u003e  for your PC with our advanced software.",
+   "cacheId": "dGQN-JwxAUcJ",
+   "formattedUrl": "www.bitdefender.com/",
+   "htmlFormattedUrl": "www.bit\u003cb\u003edefender\u003c/b\u003e.com/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://download.bitdefender.com/resources/themes/red/images/produs_is_2013.png",
+      "type": "1",
+      "width": "88",
+      "height": "179"
+     }
+    ],
+    "metatags": [
+     {
+      "language": "en-US"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Defender Shooting Sports",
+   "htmlTitle": "\u003cb\u003eDefender\u003c/b\u003e Shooting Sports",
+   "link": "http://www.defenderrange.com/",
+   "displayLink": "www.defenderrange.com",
+   "snippet": "Defender Shooing Sports has the Largest Indoor Range in the Lexington-  Columbia area. With 10 wide shooting lanes and a 25 yard certified range with   over ...",
+   "htmlSnippet": "\u003cb\u003eDefender\u003c/b\u003e Shooing Sports has the Largest Indoor Range in the Lexington-\u003cbr\u003e  Columbia area. With 10 wide shooting lanes and a 25 yard certified range with \u003cbr\u003e  over \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "AjP04n1sm8EJ",
+   "formattedUrl": "www.defenderrange.com/",
+   "htmlFormattedUrl": "www.\u003cb\u003edefender\u003c/b\u003erange.com/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.defenderrange.com/assets/images/usedguns.jpg",
+      "type": "1",
+      "width": "250",
+      "height": "202"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Knee Defender - great travel gadgets accessory - airplane legroom ...",
+   "htmlTitle": "Knee \u003cb\u003eDefender\u003c/b\u003e - great travel gadgets accessory - airplane legroom \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://www.kneedefender.com/",
+   "displayLink": "www.kneedefender.com",
+   "snippet": "Sells Knee Defender, that helps protect knees and legs on airplane seats by   blocking reclining seats. How to, news and purchasing information.",
+   "htmlSnippet": "Sells Knee \u003cb\u003eDefender\u003c/b\u003e, that helps protect knees and legs on airplane seats by \u003cbr\u003e  blocking reclining seats. How to, news and purchasing information.",
+   "formattedUrl": "www.kneedefender.com/",
+   "htmlFormattedUrl": "www.knee\u003cb\u003edefender\u003c/b\u003e.com/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.kneedefender.com/images_sep/sep_scan.jpg",
+      "type": "1",
+      "width": "235",
+      "height": "172"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "What is Windows Defender Offline?",
+   "htmlTitle": "What is Windows \u003cb\u003eDefender\u003c/b\u003e Offline?",
+   "link": "http://windows.microsoft.com/en-US/windows/what-is-windows-defender-offline/",
+   "displayLink": "windows.microsoft.com",
+   "snippet": "Learn about Windows Defener Offline and how it helps remove malicious and   malicious and other potentially unwanted software.",
+   "htmlSnippet": "Learn about Windows Defener Offline and how it helps remove malicious and \u003cbr\u003e  malicious and other potentially unwanted software.",
+   "cacheId": "PIbyUAB_snUJ",
+   "formattedUrl": "windows.microsoft.com/en-US/.../what-is-windows-defender-offline/",
+   "htmlFormattedUrl": "windows.microsoft.com/en-US/.../what-is-windows-\u003cb\u003edefender\u003c/b\u003e-offline/",
+   "pagemap": {
+    "metatags": [
+     {
+      "ms.pageid": "729557",
+      "ms.pagever": "63",
+      "ms.nav.level": "1",
+      "ms.nav.channel": "Help",
+      "ms.culture": "en-US",
+      "search.os": "Windows",
+      "search.product": "eADQiWindows 7XVcnh",
+      "search.supportedos": "eADQiWindows 7XVcnh",
+      "search.appliesto": "WOL",
+      "search.pagetitle": "What is Windows Defender Offline?",
+      "search.culture": "eADQien-USXVcnh",
+      "ms.biauthstateloggingdisabled": "true"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "The Defender (1994) - IMDb",
+   "htmlTitle": "The \u003cb\u003eDefender\u003c/b\u003e (1994) - IMDb",
+   "link": "http://www.imdb.com/title/tt0111835/",
+   "displayLink": "www.imdb.com",
+   "snippet": "Directed by Corey Yuen. With Jet Li, Christy Chung, Kent Cheng, Collin Chou. A   corrupt businessman commits a murder and the only witness is the girlfriend of ...",
+   "htmlSnippet": "Directed by Corey Yuen. With Jet Li, Christy Chung, Kent Cheng, Collin Chou. A \u003cbr\u003e  corrupt businessman commits a murder and the only witness is the girlfriend of \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "i_lEyXMItmcJ",
+   "formattedUrl": "www.imdb.com/title/tt0111835/",
+   "htmlFormattedUrl": "www.imdb.com/title/tt0111835/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://ia.media-imdb.com/images/M/MV5BMTkzMjM0MjU4Ml5BMl5BanBnXkFtZTcwODkyNjMyMQ@@._V1._SY317_CR3,0,214,317_.jpg",
+      "type": "1",
+      "width": "171",
+      "height": "253"
+     }
+    ],
+    "aggregaterating": [
+     {
+      "ratingvalue": "6.2",
+      "bestrating": "10",
+      "ratingcount": "2,405",
+      "reviewcount": "26"
+     }
+    ],
+    "movie": [
+     {
+      "image": "http://ia.media-imdb.com/images/M/MV5BMTkzMjM0MjU4Ml5BMl5BanBnXkFtZTcwODkyNjMyMQ@@._V1._SY317_CR3,0,214,317_.jpg",
+      "name": "The Defender (1994) Zhong Nan Hai bao biao (original title)",
+      "description": "A corrupt businessman commits a murder and the only witness is the girlfriend of another businessman with close connections to the Chinese government... See full summary »",
+      "director": "Corey Yuen",
+      "actors": "Jet Li",
+      "genre": "Action",
+      "contentrating": "Rated R for strong violence",
+      "inlanguage": "Cantonese",
+      "datepublished": "1994-07-28",
+      "duration": "PT92M"
+     }
+    ],
+    "scraped": [
+     {
+      "image_link": "http://ia.media-imdb.com/images/M/MV5BMTkzMjM0MjU4Ml5BMl5BanBnXkFtZTcwODkyNjMyMQ@@._V1._SX347_SY475_.jpg"
+     }
+    ],
+    "metatags": [
+     {
+      "title": "The Defender (1994) - IMDb",
+      "application-name": "IMDb",
+      "msapplication-tooltip": "IMDb Web App",
+      "msapplication-window": "width=1500;height=900",
+      "msapplication-task": "name=Find Movie Showtimes;action-uri=/showtimes/;icon-uri=http://i.media-imdb.com/images/SFff39adb4d259f3c3fd166853a6714a32/favicon.ico",
+      "og:url": "http://www.imdb.com/title/tt0111835/",
+      "og:title": "The Defender (1994)",
+      "og:type": "video.movie",
+      "og:image": "http://ia.media-imdb.com/images/M/MV5BMTkzMjM0MjU4Ml5BMl5BanBnXkFtZTcwODkyNjMyMQ@@._V1._SX97_SY140_.jpg",
+      "og:site_name": "IMDb",
+      "fb:app_id": "115109575169727"
+     }
+    ],
+    "moviereview": [
+     {
+      "ratingstars": "3.0",
+      "best": "10",
+      "originalrating": "6.2",
+      "votes": "2,405",
+      "ratingcount": "26",
+      "image_href": "http://ia.media-imdb.com/images/M/MV5BMTkzMjM0MjU4Ml5BMl5BanBnXkFtZTcwODkyNjMyMQ@@._V1._SY317_CR3,0,214,317_.jpg",
+      "name": "The Defender (1994) Zhong Nan Hai bao biao (original title)",
+      "release_date": "1994-07-28",
+      "release_year": "1994",
+      "runtime": "PT92M",
+      "genre": "http://www.imdb.com/genre/Action",
+      "directed_by": "Corey Yuen",
+      "starring": "Jet Li, Christy Chung, Kent Cheng",
+      "summary": "A corrupt businessman commits a murder and the only witness is the girlfriend of another businessman with close connections to the Chinese government......"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "USS Defender (MCM-2) - Wikipedia, the free encyclopedia",
+   "htmlTitle": "USS \u003cb\u003eDefender\u003c/b\u003e (MCM-2) - Wikipedia, the free encyclopedia",
+   "link": "http://en.wikipedia.org/wiki/USS_Defender_(MCM-2)",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "USS Defender (MCM-2) is an Avenger-class mine countermeasures ship in the   service of the United States Navy. Contents. 1 Construction and commissioning ...",
+   "htmlSnippet": "USS \u003cb\u003eDefender\u003c/b\u003e (MCM-2) is an Avenger-class mine countermeasures ship in the \u003cbr\u003e  service of the United States Navy. Contents. 1 Construction and commissioning \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "4ZnBr1aRHY0J",
+   "formattedUrl": "en.wikipedia.org/wiki/USS_Defender_(MCM-2)",
+   "htmlFormattedUrl": "en.wikipedia.org/wiki/USS_\u003cb\u003eDefender\u003c/b\u003e_(MCM-2)",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/USS_Defender_(MCM-2).jpg/300px-USS_Defender_(MCM-2).jpg",
+      "type": "1",
+      "width": "240",
+      "height": "157"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Defender",
+   "htmlTitle": "\u003cb\u003eDefender\u003c/b\u003e",
+   "link": "http://www.swtor.com/holonet/starships/defender/",
+   "displayLink": "www.swtor.com",
+   "snippet": "Developed at the height of the Great War, the Defender was custom-built for the   Jedi Order. The Jedi Council commissioned the starship after determining that ...",
+   "htmlSnippet": "Developed at the height of the Great War, the \u003cb\u003eDefender\u003c/b\u003e was custom-built for the \u003cbr\u003e  Jedi Order. The Jedi Council commissioned the starship after determining that \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "2SHYeIhsBMUJ",
+   "formattedUrl": "www.swtor.com/holonet/starships/defender/",
+   "htmlFormattedUrl": "www.swtor.com/holonet/starships/\u003cb\u003edefender\u003c/b\u003e/",
+   "pagemap": {
+    "metatags": [
+     {
+      "title": "Defender"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "DEFENDER of the favicon | Mathieu 'p01' Henri | July 2008",
+   "htmlTitle": "\u003cb\u003eDEFENDER\u003c/b\u003e of the favicon | Mathieu &#39;p01&#39; Henri | July 2008",
+   "link": "http://www.p01.org/releases/DEFENDER_of_the_favicon/",
+   "displayLink": "www.p01.org",
+   "snippet": "16x16 pixels of thrilling retro shooter action in your favicon. DEFENDER of the   what ? DEFENDER of the favicon is a JavaScript remake of Eugene Jarvis' ...",
+   "htmlSnippet": "16x16 pixels of thrilling retro shooter action in your favicon. \u003cb\u003eDEFENDER\u003c/b\u003e of the \u003cbr\u003e  what ? \u003cb\u003eDEFENDER\u003c/b\u003e of the favicon is a JavaScript remake of Eugene Jarvis&#39; \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "IQKkBBf1u-wJ",
+   "formattedUrl": "www.p01.org/releases/DEFENDER_of_the_favicon/",
+   "htmlFormattedUrl": "www.p01.org/releases/\u003cb\u003eDEFENDER\u003c/b\u003e_of_the_favicon/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.p01.org/releases/DEFENDER_of_the_favicon/title.png",
+      "type": "1",
+      "width": "55",
+      "height": "16"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Federal Public Defender - Colorado and Wyoming Districts",
+   "htmlTitle": "Federal Public \u003cb\u003eDefender\u003c/b\u003e - Colorado and Wyoming Districts",
+   "link": "http://www.cofpd.org/",
+   "displayLink": "www.cofpd.org",
+   "snippet": "WELCOME to the Federal Public Defender's Office for the Districts of Colorado   and Wyoming website. EDR · \u003e\u003e webmaster.",
+   "htmlSnippet": "WELCOME to the Federal Public \u003cb\u003eDefender&#39;s\u003c/b\u003e Office for the Districts of Colorado \u003cbr\u003e  and Wyoming website. EDR &middot; &gt;&gt; webmaster.",
+   "cacheId": "wcFZW-3HhvkJ",
+   "formattedUrl": "www.cofpd.org/",
+   "htmlFormattedUrl": "www.cofpd.org/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.cofpd.org/graphics/home_type.gif",
+      "type": "1",
+      "width": "120",
+      "height": "72"
+     }
+    ],
+    "metatags": [
+     {
+      "progid": "FrontPage.Editor.Document"
+     }
+    ]
+   }
+  }
+ ]
+}

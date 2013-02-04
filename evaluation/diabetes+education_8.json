@@ -1,0 +1,273 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "nextPage": [
+   {
+    "title": "Google Custom Search - diabetes education",
+    "totalResults": "27000000",
+    "searchTerms": "diabetes education",
+    "count": 10,
+    "startIndex": 91,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "017401104989814545383:mf4lavmtuva"
+   }
+  ],
+  "request": [
+   {
+    "title": "Google Custom Search - diabetes education",
+    "totalResults": "27000000",
+    "searchTerms": "diabetes education",
+    "count": 10,
+    "startIndex": 81,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "017401104989814545383:mf4lavmtuva"
+   }
+  ],
+  "previousPage": [
+   {
+    "title": "Google Custom Search - diabetes education",
+    "totalResults": "27000000",
+    "searchTerms": "diabetes education",
+    "count": 10,
+    "startIndex": 71,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "017401104989814545383:mf4lavmtuva"
+   }
+  ]
+ },
+ "context": {
+  "title": "College MetaSearch Comparison"
+ },
+ "searchInformation": {
+  "searchTime": 0.198478,
+  "formattedSearchTime": "0.20",
+  "totalResults": "27000000",
+  "formattedTotalResults": "27,000,000"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "Diabetes Education : Virginia Hospital Center",
+   "htmlTitle": "\u003cb\u003eDiabetes Education\u003c/b\u003e : Virginia Hospital Center",
+   "link": "http://www.virginiahospitalcenter.com/programs/community/diabetes_education.aspx",
+   "displayLink": "www.virginiahospitalcenter.com",
+   "snippet": "The Virginia Hospital Center Diabetes Education Program is an American   Diabetes Association Recognized Program. We cover all comprehensive content   of ...",
+   "htmlSnippet": "The Virginia Hospital Center \u003cb\u003eDiabetes Education\u003c/b\u003e Program is an American \u003cbr\u003e  Diabetes Association Recognized Program. We cover all comprehensive content \u003cbr\u003e  of \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "UlSrr6_1bcgJ",
+   "formattedUrl": "www.virginiahospitalcenter.com/programs/.../diabetes_education.aspx",
+   "htmlFormattedUrl": "www.virginiahospitalcenter.com/programs/.../\u003cb\u003ediabetes\u003c/b\u003e_\u003cb\u003eeducation\u003c/b\u003e.aspx"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Providence Diabetes Education",
+   "htmlTitle": "Providence \u003cb\u003eDiabetes Education\u003c/b\u003e",
+   "link": "http://oregon.providence.org/patients/programs/providence-diabetes-education/pages/default.aspx",
+   "displayLink": "oregon.providence.org",
+   "snippet": "Navigate Up. This page location is: Providence Content. Patients. Programs.   Providence Diabetes Education. pages. default. Sign In ...",
+   "htmlSnippet": "Navigate Up. This page location is: Providence Content. Patients. Programs. \u003cbr\u003e  Providence \u003cb\u003eDiabetes Education\u003c/b\u003e. pages. default. Sign In \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "Av-eoWU1Lu4J",
+   "formattedUrl": "oregon.providence.org/patients/...diabetes-education/.../default.aspx",
+   "htmlFormattedUrl": "oregon.providence.org/patients/...\u003cb\u003ediabetes\u003c/b\u003e-\u003cb\u003eeducation\u003c/b\u003e/.../default.aspx",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://oregon.providence.org/SiteAssets/diabetes-education-516x150.jpg",
+      "type": "1",
+      "width": "412",
+      "height": "120"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Diabetes Education | Florida Hospital Diabetes",
+   "htmlTitle": "\u003cb\u003eDiabetes Education\u003c/b\u003e | Florida Hospital Diabetes",
+   "link": "http://www.floridahospitaldiabetes.com/en/services/diabetes-education",
+   "displayLink": "www.floridahospitaldiabetes.com",
+   "snippet": "Short Description: You can effectively manage your diabetes with changes in   your lifestyle. Page Body: The more you know – the better you'll feel. If you or ...",
+   "htmlSnippet": "Short Description: You can effectively manage your \u003cb\u003ediabetes\u003c/b\u003e with changes in \u003cbr\u003e  your lifestyle. Page Body: The more you know – the better you&#39;ll feel. If you or \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "ACpzERMaiO0J",
+   "formattedUrl": "www.floridahospitaldiabetes.com/en/services/diabetes-education",
+   "htmlFormattedUrl": "www.floridahospital\u003cb\u003ediabetes\u003c/b\u003e.com/en/services/\u003cb\u003ediabetes\u003c/b\u003e-\u003cb\u003eeducation\u003c/b\u003e",
+   "pagemap": {
+    "metatags": [
+     {
+      "dc.title": "Diabetes Education"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "The Caring for Diabetes Educational Forum",
+   "htmlTitle": "The Caring for \u003cb\u003eDiabetes Educational\u003c/b\u003e Forum",
+   "link": "http://www.caringfordiabetes.com/",
+   "displayLink": "www.caringfordiabetes.com",
+   "snippet": "CaringForDiabetes.com offers physicians and other healthcare providers on-the-  spot clinical information, education, and interactive tools to keep up to date with ...",
+   "htmlSnippet": "CaringForDiabetes.com offers physicians and other healthcare providers on-the-\u003cbr\u003e  spot clinical information, \u003cb\u003eeducation\u003c/b\u003e, and interactive tools to keep up to date with \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "vIIA47IaI1sJ",
+   "formattedUrl": "www.caringfordiabetes.com/",
+   "htmlFormattedUrl": "www.caringfor\u003cb\u003ediabetes\u003c/b\u003e.com/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.caringfordiabetes.com/4.jpg",
+      "type": "1",
+      "width": "336",
+      "height": "130"
+     }
+    ],
+    "metatags": [
+     {
+      "author": "Caring for Diabetes - www.caringfordiabetes.com"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Diabetes Education Services",
+   "htmlTitle": "\u003cb\u003eDiabetes Education\u003c/b\u003e Services",
+   "link": "http://www.inova.org/healthcare-services/diabetes/index.jsp",
+   "displayLink": "www.inova.org",
+   "snippet": "Inova Diabetes Center offers comprehensive diabetes education classes,   programs and support groups at Inova facilities throughout Northern Virginia.",
+   "htmlSnippet": "Inova Diabetes Center offers comprehensive \u003cb\u003ediabetes education\u003c/b\u003e classes, \u003cbr\u003e  programs and support groups at Inova facilities throughout Northern Virginia.",
+   "cacheId": "FeBWuk-joYQJ",
+   "formattedUrl": "www.inova.org/healthcare-services/diabetes/index.jsp",
+   "htmlFormattedUrl": "www.inova.org/healthcare-services/\u003cb\u003ediabetes\u003c/b\u003e/index.jsp",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.inova.org/upload/images/Services/diabetes/nutrition-counseling-200px.jpg",
+      "type": "1",
+      "width": "160",
+      "height": "117"
+     }
+    ],
+    "metatags": [
+     {
+      "author": "Nicole Flemming",
+      "copyright": "Copyright 2012 Inova Health System",
+      "viewport": "width=device-width"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Diabetes Prevention Education: Small Steps, Big Rewards. Prevent ...",
+   "htmlTitle": "\u003cb\u003eDiabetes\u003c/b\u003e Prevention \u003cb\u003eEducation\u003c/b\u003e: Small Steps, Big Rewards. Prevent \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://www.ndep.nih.gov/partners-community-organization/campaigns/SmallStepsBigRewards.aspx?redirect=true",
+   "displayLink": "www.ndep.nih.gov",
+   "snippet": "The good news: type 2 diabetes can be prevented or delayed. To get this   important information to those at risk, the National Diabetes Education Program ...",
+   "htmlSnippet": "The good news: type 2 diabetes can be prevented or delayed. To get this \u003cbr\u003e  important information to those at risk, the National \u003cb\u003eDiabetes Education\u003c/b\u003e Program \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "DGeLZbOStlwJ",
+   "formattedUrl": "www.ndep.nih.gov/partners.../SmallStepsBigRewards.aspx?redirect...",
+   "htmlFormattedUrl": "www.ndep.nih.gov/partners.../SmallStepsBigRewards.aspx?redirect...",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.ndep.nih.gov/images/NDEP/logo-smallsteps-big.gif",
+      "type": "1",
+      "width": "216",
+      "height": "151"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Home - NMA's Diabetes Education Program",
+   "htmlTitle": "Home - NMA&#39;s \u003cb\u003eDiabetes Education\u003c/b\u003e Program",
+   "link": "http://www.nmadiabetesnet.org/",
+   "displayLink": "www.nmadiabetesnet.org",
+   "snippet": "Oct 1, 2010 ... Noteworthy diabetes news stories from the NMA, the Diabetes ... NDEP   campaigns and messages focusing on diabetes prevention and control.",
+   "htmlSnippet": "Oct 1, 2010 \u003cb\u003e...\u003c/b\u003e Noteworthy \u003cb\u003ediabetes\u003c/b\u003e news stories from the NMA, the \u003cb\u003eDiabetes\u003c/b\u003e \u003cb\u003e...\u003c/b\u003e NDEP \u003cbr\u003e  campaigns and messages focusing on \u003cb\u003ediabetes\u003c/b\u003e prevention and control.",
+   "cacheId": "QSjrXbVtuC0J",
+   "formattedUrl": "www.nmadiabetesnet.org/",
+   "htmlFormattedUrl": "www.nma\u003cb\u003ediabetes\u003c/b\u003enet.org/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.nmadiabetesnet.org/images/img_outreach.jpg",
+      "type": "1",
+      "width": "95",
+      "height": "93"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Learn to Manage Your Diabetes | NDEP",
+   "htmlTitle": "Learn to Manage Your \u003cb\u003eDiabetes\u003c/b\u003e | NDEP",
+   "link": "http://ndep.nih.gov/i-have-diabetes/",
+   "displayLink": "ndep.nih.gov",
+   "snippet": "National Diabetes Education Program · CDC - Centers for Disease Control and   Prevention NIDDK - National Institute of Diabetes and Digestive and Kidney ...",
+   "htmlSnippet": "National \u003cb\u003eDiabetes Education\u003c/b\u003e Program &middot; CDC - Centers for Disease Control and \u003cbr\u003e  Prevention NIDDK - National Institute of Diabetes and Digestive and Kidney \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "E7DfL2dgDDcJ",
+   "formattedUrl": "ndep.nih.gov/i-have-diabetes/",
+   "htmlFormattedUrl": "ndep.nih.gov/i-have-\u003cb\u003ediabetes\u003c/b\u003e/"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "BD Diabetes Education Center - Learn About Diabetes Treatments",
+   "htmlTitle": "BD \u003cb\u003eDiabetes Education\u003c/b\u003e Center - Learn About Diabetes Treatments",
+   "link": "http://www.bd.com/us/diabetes/learning-center",
+   "displayLink": "www.bd.com",
+   "snippet": "Explains the different types of diabetes, symptoms and treatments.",
+   "htmlSnippet": "Explains the different types of \u003cb\u003ediabetes\u003c/b\u003e, symptoms and treatments.",
+   "cacheId": "5GZqAKHwBtIJ",
+   "formattedUrl": "www.bd.com/us/diabetes/learning-center",
+   "htmlFormattedUrl": "www.bd.com/us/\u003cb\u003ediabetes\u003c/b\u003e/learning-center",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.bd.com/resource.aspx?IDX=23728",
+      "type": "1",
+      "width": "405",
+      "height": "124"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Yakima Diabetes Education: Diabetes education in Yakima.",
+   "htmlTitle": "Yakima \u003cb\u003eDiabetes Education\u003c/b\u003e: \u003cb\u003eDiabetes education\u003c/b\u003e in Yakima.",
+   "link": "http://www.yakimamemorial.org/medical-services-diabetes-education.asp",
+   "displayLink": "www.yakimamemorial.org",
+   "snippet": "Yakima Diabetes Education. At Memorial, diabetes education is a key aim of The   Center for Diabetes Prevention and Control. Learn more about Diabetes ...",
+   "htmlSnippet": "Yakima \u003cb\u003eDiabetes Education\u003c/b\u003e. At Memorial, \u003cb\u003ediabetes education\u003c/b\u003e is a key aim of The \u003cbr\u003e  Center for Diabetes Prevention and Control. Learn more about Diabetes \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "lmceR6VUyR8J",
+   "formattedUrl": "www.yakimamemorial.org/medical-services-diabetes-education.asp",
+   "htmlFormattedUrl": "www.yakimamemorial.org/medical-services-\u003cb\u003ediabetes\u003c/b\u003e-\u003cb\u003eeducation\u003c/b\u003e.asp",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.yakimamemorial.org/i/pp/pp-diabetes.jpg",
+      "type": "1",
+      "width": "200",
+      "height": "131"
+     }
+    ],
+    "metatags": [
+     {
+      "distribution": "Global"
+     }
+    ]
+   }
+  }
+ ]
+}

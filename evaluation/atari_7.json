@@ -1,0 +1,278 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "nextPage": [
+   {
+    "title": "Google Custom Search - atari",
+    "totalResults": "4010000",
+    "searchTerms": "atari",
+    "count": 10,
+    "startIndex": 81,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "017401104989814545383:mf4lavmtuva"
+   }
+  ],
+  "request": [
+   {
+    "title": "Google Custom Search - atari",
+    "totalResults": "4010000",
+    "searchTerms": "atari",
+    "count": 10,
+    "startIndex": 71,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "017401104989814545383:mf4lavmtuva"
+   }
+  ],
+  "previousPage": [
+   {
+    "title": "Google Custom Search - atari",
+    "totalResults": "4010000",
+    "searchTerms": "atari",
+    "count": 10,
+    "startIndex": 61,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "017401104989814545383:mf4lavmtuva"
+   }
+  ]
+ },
+ "context": {
+  "title": "College MetaSearch Comparison"
+ },
+ "searchInformation": {
+  "searchTime": 0.183181,
+  "formattedSearchTime": "0.18",
+  "totalResults": "4010000",
+  "formattedTotalResults": "4,010,000"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "XL Search - The Atari 8-bit File Archive Search Engine",
+   "htmlTitle": "XL Search - The \u003cb\u003eAtari\u003c/b\u003e 8-bit File Archive Search Engine",
+   "link": "http://www.newbreedsoftware.com/xlsearch/",
+   "displayLink": "www.newbreedsoftware.com",
+   "snippet": "Feb 21, 2012 ... Search for, download, convert and view Atari 8-bit files and software from your   web browser. Over 15000 files indexed!",
+   "htmlSnippet": "Feb 21, 2012 \u003cb\u003e...\u003c/b\u003e Search for, download, convert and view \u003cb\u003eAtari\u003c/b\u003e 8-bit files and software from your \u003cbr\u003e  web browser. Over 15000 files indexed!",
+   "cacheId": "qxfbrLR5xsUJ",
+   "formattedUrl": "www.newbreedsoftware.com/xlsearch/",
+   "htmlFormattedUrl": "www.newbreedsoftware.com/xlsearch/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.newbreedsoftware.com/xlsearch/ready-shirt-banner.png",
+      "type": "1",
+      "width": "240",
+      "height": "120"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Atari Planet",
+   "htmlTitle": "\u003cb\u003eAtari\u003c/b\u003e Planet",
+   "link": "http://www.holyoak.com/atari/",
+   "displayLink": "www.holyoak.com",
+   "snippet": "Resource for Atari 8-bit computers with FAQs, files, and discussion board.",
+   "htmlSnippet": "Resource for \u003cb\u003eAtari\u003c/b\u003e 8-bit computers with FAQs, files, and discussion board.",
+   "cacheId": "J2GYC7hAnZsJ",
+   "formattedUrl": "www.holyoak.com/atari/",
+   "htmlFormattedUrl": "www.holyoak.com/\u003cb\u003eatari\u003c/b\u003e/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.holyoak.com/atari/atari.gif",
+      "type": "1",
+      "width": "84",
+      "height": "88"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "AtariAge - 7800 Emulation",
+   "htmlTitle": "AtariAge - 7800 Emulation",
+   "link": "http://www.atariage.com/7800/emulation/index.html",
+   "displayLink": "www.atariage.com",
+   "snippet": "Resources and links to the most popular emulators and utilities.",
+   "htmlSnippet": "Resources and links to the most popular emulators and utilities.",
+   "cacheId": "EhG_YbC6AzYJ",
+   "formattedUrl": "www.atariage.com/7800/emulation/index.html",
+   "htmlFormattedUrl": "www.\u003cb\u003eatari\u003c/b\u003eage.com/7800/emulation/index.html",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.atariage.com/7800/images/atari7800_45_ring.jpg",
+      "type": "1",
+      "width": "80",
+      "height": "80"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "The Video Game Critic's Atari 2600 Reviews",
+   "htmlTitle": "The Video Game Critic&#39;s \u003cb\u003eAtari\u003c/b\u003e 2600 Reviews",
+   "link": "http://videogamecritic.net/2600.htm",
+   "displayLink": "videogamecritic.net",
+   "snippet": "Archive of Atari 2600 video game reviews written in the critic's ...",
+   "htmlSnippet": "Archive of \u003cb\u003eAtari\u003c/b\u003e 2600 video game reviews written in the critic&#39;s \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "snl1V48xQPQJ",
+   "formattedUrl": "videogamecritic.net/2600.htm",
+   "htmlFormattedUrl": "videogamecritic.net/2600.htm",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://videogamecritic.net/images/2600/stronghold.png",
+      "type": "1",
+      "width": "277",
+      "height": "182"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "AtariAge - Atari 2600 ROMs",
+   "htmlTitle": "AtariAge - \u003cb\u003eAtari\u003c/b\u003e 2600 ROMs",
+   "link": "http://www.atariage.com/system_items.html?SystemID=2600&ItemTypeID=ROM",
+   "displayLink": "www.atariage.com",
+   "snippet": "You can download individual Atari 2600 ROM images, but since most 2600   ROMs are 4K or less we've created some bundles to make them easier to   download: ...",
+   "htmlSnippet": "You can download individual \u003cb\u003eAtari\u003c/b\u003e 2600 ROM images, but since most 2600 \u003cbr\u003e  ROMs are 4K or less we&#39;ve created some bundles to make them easier to \u003cbr\u003e  download: \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "kd5cfPQXBMAJ",
+   "formattedUrl": "www.atariage.com/system_items.html?SystemID=2600...ROM",
+   "htmlFormattedUrl": "www.\u003cb\u003eatari\u003c/b\u003eage.com/system_items.html?SystemID=2600...ROM",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.atariage.com/images/general/icon_2600.gif",
+      "type": "1",
+      "width": "140",
+      "height": "72"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "RollerCoaster Tycoon 3D",
+   "htmlTitle": "RollerCoaster Tycoon 3D",
+   "link": "http://www.rollercoastertycoon.com/",
+   "displayLink": "www.rollercoastertycoon.com",
+   "snippet": "2011 Atari Interactive, Inc. All rights reserved. RollerCoaster Tycoon® 3D ...   Marketed and distributed by Atari, Inc., New York, NY. Atari and the Atari logo are ...",
+   "htmlSnippet": "2011 \u003cb\u003eAtari\u003c/b\u003e Interactive, Inc. All rights reserved. RollerCoaster Tycoon® 3D \u003cb\u003e...\u003c/b\u003e \u003cbr\u003e  Marketed and distributed by \u003cb\u003eAtari\u003c/b\u003e, Inc., New York, NY. \u003cb\u003eAtari\u003c/b\u003e and the \u003cb\u003eAtari\u003c/b\u003e logo are \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "Gtaifx176twJ",
+   "formattedUrl": "www.rollercoastertycoon.com/",
+   "htmlFormattedUrl": "www.rollercoastertycoon.com/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.rollercoastertycoon.com/data/images/RT_Teaser_character.png",
+      "type": "1",
+      "width": "342",
+      "height": "147"
+     }
+    ],
+    "metatags": [
+     {
+      "viewport": "width=device-width; initial-scale=0.9; maximum-scale=1.0; user-scalable=0;",
+      "apple-mobile-web-app-capable": "yes"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Atari Microsoft BASIC - Wikipedia, the free encyclopedia",
+   "htmlTitle": "\u003cb\u003eAtari\u003c/b\u003e Microsoft BASIC - Wikipedia, the free encyclopedia",
+   "link": "http://en.wikipedia.org/wiki/Atari_Microsoft_BASIC",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "The Atari Microsoft BASIC and Atari Microsoft BASIC II variants of the BASIC   programming language were cartridge or floppy disk packaged versions of the ...",
+   "htmlSnippet": "The \u003cb\u003eAtari\u003c/b\u003e Microsoft BASIC and \u003cb\u003eAtari\u003c/b\u003e Microsoft BASIC II variants of the BASIC \u003cbr\u003e  programming language were cartridge or floppy disk packaged versions of the \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "SeHmxCStqysJ",
+   "formattedUrl": "en.wikipedia.org/wiki/Atari_Microsoft_BASIC",
+   "htmlFormattedUrl": "en.wikipedia.org/wiki/\u003cb\u003eAtari\u003c/b\u003e_Microsoft_BASIC",
+   "pagemap": {
+    "metatags": [
+     {
+      "last-modified-timestamp": "1293110398",
+      "last-modified-range": "0"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Harmony Cartridge for the Atari 2600",
+   "htmlTitle": "Harmony Cartridge for the \u003cb\u003eAtari\u003c/b\u003e 2600",
+   "link": "http://harmony.atariage.com/",
+   "displayLink": "harmony.atariage.com",
+   "snippet": "The Harmony Cartridge is a simple, affordable, time-saving, space-saving, hassle  -free way to play hundreds of games on your Atari 2600 console. Using a ...",
+   "htmlSnippet": "The Harmony Cartridge is a simple, affordable, time-saving, space-saving, hassle\u003cbr\u003e  -free way to play hundreds of games on your \u003cb\u003eAtari\u003c/b\u003e 2600 console. Using a \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "qTZCFzUTo2MJ",
+   "formattedUrl": "harmony.atariage.com/",
+   "htmlFormattedUrl": "harmony.\u003cb\u003eatari\u003c/b\u003eage.com/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://harmony.atariage.com/harmony.jpg",
+      "type": "1",
+      "width": "203",
+      "height": "248"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "The Atari 7800 Pro System - The Atari Museum",
+   "htmlTitle": "The \u003cb\u003eAtari\u003c/b\u003e 7800 Pro System - The \u003cb\u003eAtari\u003c/b\u003e Museum",
+   "link": "http://www.atarimuseum.com/videogames/consoles/7800/games/",
+   "displayLink": "www.atarimuseum.com",
+   "snippet": "7800 Games & Development. New homebrew developed games were very   sparse for the Atari 7800 until. the last 2-3 years due in part to efforts by Kenfused ...",
+   "htmlSnippet": "7800 Games &amp; Development. New homebrew developed games were very \u003cbr\u003e  sparse for the \u003cb\u003eAtari\u003c/b\u003e 7800 until. the last 2-3 years due in part to efforts by Kenfused \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "g7MRxlucl6MJ",
+   "formattedUrl": "www.atarimuseum.com/videogames/consoles/7800/games/",
+   "htmlFormattedUrl": "www.\u003cb\u003eatari\u003c/b\u003emuseum.com/videogames/consoles/7800/games/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.atarimuseum.com/videogames/consoles/7800/newmenu/leftnavbar2.gif",
+      "type": "1",
+      "width": "180",
+      "height": "280"
+     }
+    ],
+    "metatags": [
+     {
+      "progid": "FrontPage.Editor.Document"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Atari Flashback 3 Now In Stock",
+   "htmlTitle": "\u003cb\u003eAtari\u003c/b\u003e Flashback 3 Now In Stock",
+   "link": "http://www.blazeeurope.com/atari/atari-flashback-3-now-in-stock/prod_156.html",
+   "displayLink": "www.blazeeurope.com",
+   "snippet": "Home gaming console with 60 Atari games built in, 2 original Atari style   controllers, TV connectivity and classic limited edition Atari poster included.",
+   "htmlSnippet": "Home gaming console with 60 \u003cb\u003eAtari\u003c/b\u003e games built in, 2 original \u003cb\u003eAtari\u003c/b\u003e style \u003cbr\u003e  controllers, TV connectivity and classic limited edition \u003cb\u003eAtari\u003c/b\u003e poster included.",
+   "cacheId": "pasUYYwwlBkJ",
+   "formattedUrl": "www.blazeeurope.com/atari/atari-flashback-3...in.../prod_156.html",
+   "htmlFormattedUrl": "www.blazeeurope.com/\u003cb\u003eatari\u003c/b\u003e/\u003cb\u003eatari\u003c/b\u003e-flashback-3...in.../prod_156.html"
+  }
+ ]
+}

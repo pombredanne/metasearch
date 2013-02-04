@@ -1,0 +1,385 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "nextPage": [
+   {
+    "title": "Google Custom Search - obama family tree",
+    "totalResults": "17300000",
+    "searchTerms": "obama family tree",
+    "count": 10,
+    "startIndex": 101,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "017401104989814545383:mf4lavmtuva"
+   }
+  ],
+  "request": [
+   {
+    "title": "Google Custom Search - obama family tree",
+    "totalResults": "17300000",
+    "searchTerms": "obama family tree",
+    "count": 10,
+    "startIndex": 91,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "017401104989814545383:mf4lavmtuva"
+   }
+  ],
+  "previousPage": [
+   {
+    "title": "Google Custom Search - obama family tree",
+    "totalResults": "17300000",
+    "searchTerms": "obama family tree",
+    "count": 10,
+    "startIndex": 81,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "017401104989814545383:mf4lavmtuva"
+   }
+  ]
+ },
+ "context": {
+  "title": "College MetaSearch Comparison"
+ },
+ "searchInformation": {
+  "searchTime": 0.199929,
+  "formattedSearchTime": "0.20",
+  "totalResults": "17300000",
+  "formattedTotalResults": "17,300,000"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "NPR.org » The Complex 'Tapestry' Of Michelle Obama's Ancestry",
+   "htmlTitle": "NPR.org » The Complex &#39;Tapestry&#39; Of Michelle \u003cb\u003eObama&#39;s\u003c/b\u003e Ancestry",
+   "link": "http://m.npr.org/news/Arts+%26+Life/156000966",
+   "displayLink": "m.npr.org",
+   "snippet": "Jul 1, 2012 ... Swarns, who traced Obama's family tree back generations, has written a book   about it, American Tapestry: The Story of the Black, White and ...",
+   "htmlSnippet": "Jul 1, 2012 \u003cb\u003e...\u003c/b\u003e Swarns, who traced \u003cb\u003eObama&#39;s family tree\u003c/b\u003e back generations, has written a book \u003cbr\u003e  about it, American Tapestry: The Story of the Black, White and \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "FBaRGq-xg-YJ",
+   "formattedUrl": "m.npr.org/news/Arts+%26+Life/156000966",
+   "htmlFormattedUrl": "m.npr.org/news/Arts+%26+Life/156000966",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://m.npr.org/image/index/QFkkDfFXcHAtpG8SeG0CrMZyNnG3bq2CtGWpUmZXV7LcTO2eHeRREMoYNTIYuC1oMDFDOmAKXOP3BOlCT_pfX9IqVP3K5hso7rKlR-oaDE-KIEQysX8yX-xxZYETkG-kb_Cx52OE7Bhs664znENuswZi46jV5Bv3xxjo-4j6idqa",
+      "type": "1",
+      "width": "160",
+      "height": "120"
+     }
+    ],
+    "metatags": [
+     {
+      "layout": "main"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "What is in Michelle Obama's past? The eclectic, multi-racial ancestry ...",
+   "htmlTitle": "What is in Michelle \u003cb\u003eObama&#39;s\u003c/b\u003e past? The eclectic, multi-racial ancestry \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://blog.myheritage.com/2012/07/what-is-in-michelle-obamas-past-the-eclectic-and-multi-racial-ancestory-of-the-first-lady/",
+   "displayLink": "blog.myheritage.com",
+   "snippet": "Jul 9, 2012 ... I was able to identify the white ancestors who had remained hidden in Mrs.   Obama's family tree for more than a century as well as the ...",
+   "htmlSnippet": "Jul 9, 2012 \u003cb\u003e...\u003c/b\u003e I was able to identify the white ancestors who had remained hidden in Mrs. \u003cbr\u003e  \u003cb\u003eObama&#39;s family tree\u003c/b\u003e for more than a century as well as the \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "Dw7-GgpMjs8J",
+   "formattedUrl": "blog.myheritage.com/.../what-is-in-michelle-obamas-past-the-eclectic-and- multi-racial-ancestory-of-the-first-lady/",
+   "htmlFormattedUrl": "blog.myheritage.com/.../what-is-in-michelle-\u003cb\u003eobamas\u003c/b\u003e-past-the-eclectic-and- multi-racial-ancestory-of-the-first-lady/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://blog.mhcache.com/en/wp-content/uploads/2012/07/Rachel_Swarns_%C2%A9-2011-Scott-Robinson-133x200.jpg",
+      "type": "1",
+      "width": "106",
+      "height": "160"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "The Seeker: A rabbi on Obama family tree?",
+   "htmlTitle": "The Seeker: A rabbi on \u003cb\u003eObama family tree\u003c/b\u003e?",
+   "link": "http://newsblogs.chicagotribune.com/religion_theseeker/2008/09/a-rabbi-on-obam.html",
+   "displayLink": "newsblogs.chicagotribune.com",
+   "snippet": "Sep 17, 2008 ... If anyone questions Sen. Barack Obama's commitment to the state of Israel, just   ask the rabbi in his family. Rabbi Capers Funnye Jr., a cousin of ...",
+   "htmlSnippet": "Sep 17, 2008 \u003cb\u003e...\u003c/b\u003e If anyone questions Sen. Barack \u003cb\u003eObama&#39;s\u003c/b\u003e commitment to the state of Israel, just \u003cbr\u003e  ask the rabbi in his \u003cb\u003efamily\u003c/b\u003e. Rabbi Capers Funnye Jr., a cousin of \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "nstBk9_9K64J",
+   "formattedUrl": "newsblogs.chicagotribune.com/religion.../a-rabbi-on-obam.html",
+   "htmlFormattedUrl": "newsblogs.chicagotribune.com/religion.../a-rabbi-on-obam.html",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://newsblogs.chicagotribune.com/religion_theseeker/images/2008/09/17/rabbi_2.jpeg",
+      "type": "1",
+      "width": "160",
+      "height": "105"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Genealogy and Ancestry of Barack Obama and the Other U.S. ...",
+   "htmlTitle": "Genealogy and Ancestry of Barack \u003cb\u003eObama\u003c/b\u003e and the Other U.S. \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://genealogyofpresidents.blogspot.com/",
+   "displayLink": "genealogyofpresidents.blogspot.com",
+   "snippet": "Dec 2, 2010 ... Barack Obama is the first African-American to be elected President of the ...   Labels: ancestry, Barack Obama, family tree, genealogy, President, ...",
+   "htmlSnippet": "Dec 2, 2010 \u003cb\u003e...\u003c/b\u003e Barack Obama is the first African-American to be elected President of the \u003cb\u003e...\u003c/b\u003e \u003cbr\u003e  Labels: ancestry, Barack \u003cb\u003eObama\u003c/b\u003e, \u003cb\u003efamily tree\u003c/b\u003e, genealogy, President, \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "W277OLCHUwEJ",
+   "formattedUrl": "genealogyofpresidents.blogspot.com/",
+   "htmlFormattedUrl": "genealogyofpresidents.blogspot.com/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://4.bp.blogspot.com/_kRB0I0a_WFw/TPhyYEfJYSI/AAAAAAAAG8E/5itGv8SLI9Y/s400/44barackobama.jpg",
+      "type": "1",
+      "width": "299",
+      "height": "169"
+     }
+    ],
+    "blogposting": [
+     {
+      "name": "GENEALOGY AND ANCESTRY OF BARACK HUSSEIN OBAMA, 44TH PRESIDENT",
+      "articlebody": "Barack Obama is the first African-American to be elected President of the United States with his wife Michelle Robinson Obama being the first African-American to become First Lady. Before being...",
+      "author": "Kristin Hopper",
+      "url": "8:29 PM",
+      "datepublished": "8:29 PM"
+     },
+     {
+      "articlebody": "President Obama as a young boy with his mother, Stanley Ann Durham.",
+      "author": "Kristin Hopper",
+      "url": "8:26 PM",
+      "datepublished": "8:26 PM"
+     },
+     {
+      "articlebody": "President Obama's father, Barack Hussein Obama, Sr.",
+      "author": "Kristin Hopper",
+      "url": "8:24 PM",
+      "datepublished": "8:24 PM"
+     },
+     {
+      "articlebody": "Barack Obama with his wife Michelle and children.",
+      "author": "Kristin Hopper",
+      "url": "8:19 PM",
+      "datepublished": "8:19 PM"
+     },
+     {
+      "articlebody": "President Obama with his sister Maya Soetoro in Hawaii.",
+      "author": "Kristin Hopper",
+      "url": "8:11 PM",
+      "datepublished": "8:11 PM"
+     },
+     {
+      "name": "GENEALOGY AND ANCESTRY OF GEORGE W. BUSH, 43RD PRESIDENT",
+      "articlebody": "George W. Bush was the first business school graduate to be elected President. Before being elected President, he was Governor of Texas and before that the managing partner of the Texas Rangers...",
+      "author": "Kristin Hopper",
+      "url": "8:06 PM",
+      "datepublished": "8:06 PM"
+     },
+     {
+      "name": "GENEALOGY AND ANCESTRY OF BILL CLINTON, 42ND PRESIDENT",
+      "articlebody": "William Jefferson Clinton, known as Bill, was the first President to be a Rhodes Scholar. He was also the second President to have articles of impeachment issued against him by the U.S. House...",
+      "author": "Kristin Hopper",
+      "url": "8:01 PM",
+      "datepublished": "8:01 PM"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Obama Family Goes Christmas Tree Shopping (PHOTOS)",
+   "htmlTitle": "\u003cb\u003eObama Family\u003c/b\u003e Goes Christmas \u003cb\u003eTree\u003c/b\u003e Shopping (PHOTOS)",
+   "link": "http://www.huffingtonpost.com/2008/12/14/obama-family-goes-christm_n_150910.html",
+   "displayLink": "www.huffingtonpost.com",
+   "snippet": "Dec 14, 2008 ... President-elect Obama took his daughters, Sasha and Malia, Christmas tree   shopping on Sunday afternoon. According to the pool report by ...",
+   "htmlSnippet": "Dec 14, 2008 \u003cb\u003e...\u003c/b\u003e President-elect \u003cb\u003eObama\u003c/b\u003e took his daughters, Sasha and Malia, Christmas \u003cb\u003etree\u003c/b\u003e \u003cbr\u003e  shopping on Sunday afternoon. According to the pool report by \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "fA6oe6k-84EJ",
+   "formattedUrl": "www.huffingtonpost.com/.../obama-family-goes-christm_n_150910.html",
+   "htmlFormattedUrl": "www.huffingtonpost.com/.../\u003cb\u003eobama\u003c/b\u003e-\u003cb\u003efamily\u003c/b\u003e-goes-christm_n_150910.html",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://images.huffingtonpost.com/gen/53674/thumbs/s-OBAMA-CHRISTMAS-small.jpg",
+      "type": "1",
+      "width": "93",
+      "height": "68"
+     }
+    ],
+    "metatags": [
+     {
+      "og:type": "article",
+      "og:url": "http://www.huffingtonpost.com/2008/12/14/obama-family-goes-christm_n_150910.html",
+      "og:description": "President-elect Obama took his daughters, Sasha and Malia, Christmas tree shopping on Sunday afternoon. According to the pool report by Margaret Talev of McClatchy Newspapers:",
+      "og:locale": "en_US",
+      "og:site_name": "The Huffington Post",
+      "og:title": "Obama Family Goes Christmas Tree Shopping (PHOTOS)",
+      "fb:app_id": "46744042133",
+      "author": "Huffington Post",
+      "publish_date": "Sun, 14 Dec 2008 16:12:28 EST",
+      "image": "http://images.huffingtonpost.com/gen/53674/thumbs/s-OBAMA-CHRISTMAS-small.jpg",
+      "og:image": "http://images.huffingtonpost.com/gen/53674/thumbs/s-OBAMA-CHRISTMAS-small.jpg"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Obama family lights Washington Christmas tree | Reuters",
+   "htmlTitle": "\u003cb\u003eObama family\u003c/b\u003e lights Washington Christmas \u003cb\u003etree\u003c/b\u003e | Reuters",
+   "link": "http://www.reuters.com/article/2011/12/02/us-washington-christmastree-idUSTRE7B101L20111202",
+   "displayLink": "www.reuters.com",
+   "snippet": "Dec 1, 2011 ... WASHINGTON (Reuters) - President Barack Obama and his family lit a new   National Christmas Tree on Thursday evening as they attended a ...",
+   "htmlSnippet": "Dec 1, 2011 \u003cb\u003e...\u003c/b\u003e WASHINGTON (Reuters) - President Barack \u003cb\u003eObama\u003c/b\u003e and his \u003cb\u003efamily\u003c/b\u003e lit a new \u003cbr\u003e  National Christmas \u003cb\u003eTree\u003c/b\u003e on Thursday evening as they attended a \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "443ZHtTwtBcJ",
+   "formattedUrl": "www.reuters.com/.../us-washington-christmastree- idUSTRE7B101L20111202",
+   "htmlFormattedUrl": "www.reuters.com/.../us-washington-christmas\u003cb\u003etree\u003c/b\u003e- idUSTRE7B101L20111202",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://s1.reutersmedia.net/resources/r/?m=02&d=20111202&t=2&i=541250724&w=130&fh=&fw=&ll=&pl=&r=BTRE7B1010500",
+      "type": "1",
+      "width": "104",
+      "height": "73"
+     }
+    ],
+    "metatags": [
+     {
+      "dcsext.channellist": "domesticNews;Disaster;SafetyandInnovation;Inspiration;ToyotaPrius;everything;treasuryMarkets;Continental;Shell;Amtrak;Amtrak2;yahoo3;Adfriendly1;VerizonMap;echoActivityStream;Boston;ShellEnergy;AllianzInvestments;Goldman;everythingButHugin;SprintNow;OutloudFeed;Allianz;JPMorgan;CFA;MastercardTravel;sprintxpert2;samsung;credit-rss;Pfizersafe;barack-obama",
+      "revision_date": "Fri Dec 02 00:21:41 UTC 2011",
+      "dcsext.comments": "1",
+      "og:title": "Obama family lights Washington Christmas tree",
+      "og:type": "article",
+      "og:site_name": "Reuters",
+      "og:url": "http://www.reuters.com/article/2011/12/02/us-washington-christmastree-idUSTRE7B101L20111202",
+      "fb:app_id": "169549326390879",
+      "og:image": "http://s1.reutersmedia.net/resources/r/?m=02&d=20111202&t=2&i=541250724&w=130&fh=&fw=&ll=&pl=&r=BTRE7B1010500",
+      "dcsext.artcms": "1",
+      "dcsext.contenttype": "Text",
+      "dcsext.contentid": "USTRE7B101L20111202",
+      "dcsext.contentchannel": "domesticNews",
+      "dcsext.contentid_domesticnews": "USTRE7B101L20111202",
+      "dcsext.contentheadline": "Obama+family+lights+Washington+Christmas+tree",
+      "dcsext.pagenumber": "1",
+      "dcsext.pagetotal": "1",
+      "dcsext.rchannel": "News",
+      "dcsext.rcountry": "BETAUS",
+      "wt.cg_n": "News - US",
+      "wt.cg_s": "domesticNews",
+      "dcsext.dartzone": "us.reuters/news/us/article"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "A Family Tree Rooted In American Soil - washingtonpost.com",
+   "htmlTitle": "A \u003cb\u003eFamily Tree\u003c/b\u003e Rooted In American Soil - washingtonpost.com",
+   "link": "http://www.washingtonpost.com/wp-dyn/content/story/2008/10/01/ST2008100103245.html",
+   "displayLink": "www.washingtonpost.com",
+   "snippet": "Oct 2, 2008 ... A Family Tree Rooted In American Soil. Michelle Obama Learns About Her Slave   Ancestors, Herself and Her Country. Gallery. A Family's ...",
+   "htmlSnippet": "Oct 2, 2008 \u003cb\u003e...\u003c/b\u003e A \u003cb\u003eFamily Tree\u003c/b\u003e Rooted In American Soil. Michelle \u003cb\u003eObama\u003c/b\u003e Learns About Her Slave \u003cbr\u003e  Ancestors, Herself and Her Country. Gallery. A Family&#39;s \u003cb\u003e...\u003c/b\u003e",
+   "formattedUrl": "www.washingtonpost.com/wp-dyn/content/.../ST2008100103245.html",
+   "htmlFormattedUrl": "www.washingtonpost.com/wp-dyn/content/.../ST2008100103245.html"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "5, 4, 3, 2, 1… The Obama Family Lights The National Christmas Tree",
+   "htmlTitle": "5, 4, 3, 2, 1… The \u003cb\u003eObama Family\u003c/b\u003e Lights The National Christmas \u003cb\u003eTree\u003c/b\u003e",
+   "link": "http://www.whitehouse.gov/blog/2010/12/10/5-4-3-2-1-obama-family-lights-national-christmas-tree",
+   "displayLink": "www.whitehouse.gov",
+   "snippet": "Dec 10, 2010 ... The First Family continues a proud holiday tradition – lighting the National   Christmas Tree for the 88th time. View photos from the event and ...",
+   "htmlSnippet": "Dec 10, 2010 \u003cb\u003e...\u003c/b\u003e The First \u003cb\u003eFamily\u003c/b\u003e continues a proud holiday tradition – lighting the National \u003cbr\u003e  Christmas \u003cb\u003eTree\u003c/b\u003e for the 88th time. View photos from the event and \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "qOsquiD6TPgJ",
+   "formattedUrl": "www.whitehouse.gov/.../5-4-3-2-1-obama-family-lights-national-christmas- tree",
+   "htmlFormattedUrl": "www.whitehouse.gov/.../5-4-3-2-1-\u003cb\u003eobama\u003c/b\u003e-\u003cb\u003efamily\u003c/b\u003e-lights-national-christmas- \u003cb\u003etree\u003c/b\u003e",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.whitehouse.gov/sites/default/files/imagecache/embedded_img_full/image/image_file/1_1.jpg",
+      "type": "1",
+      "width": "275",
+      "height": "183"
+     }
+    ],
+    "metatags": [
+     {
+      "og:image": "http://img.youtube.com/vi//0.jpg",
+      "og:video": "https://wwws.whitehouse.gov/sites/all/modules/swftools/shared/flash_media_player/player5x2.swf?file=http://www.whitehouse.gov/videos/2010/December/120910_ChristmasTreeLighting.mp4&image=http://img.youtube.com/vi//0.jpg&autoStart=true",
+      "og:video:height": "243",
+      "og:type": "video",
+      "og:video:type": "application/x-shockwave-flash",
+      "og:video:width": "398",
+      "og:description": "The First Family continues a proud holiday tradition – lighting the National Christmas Tree for the 88th time. View photos from the event and watch a video of the President's remarks, the tree lighting ceremony, and a reading of \"Twas the Night Before Christmas\" by the First Lady.",
+      "og:url": "http://www.whitehouse.gov/blog/2010/12/10/5-4-3-2-1-obama-family-lights-national-christmas-tree",
+      "fb:admins": "100000095507875"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Obama explores Kansas family roots - Los Angeles Times",
+   "htmlTitle": "\u003cb\u003eObama\u003c/b\u003e explores Kansas \u003cb\u003efamily\u003c/b\u003e roots - Los Angeles Times",
+   "link": "http://articles.latimes.com/2008/jan/30/nation/na-obama30",
+   "displayLink": "articles.latimes.com",
+   "snippet": "Jan 30, 2008 ... Obama had traveled here to his grandfather's birthplace to make a point about ...   We're going through my family tree, trying to figure it all out.\" ...",
+   "htmlSnippet": "Jan 30, 2008 \u003cb\u003e...\u003c/b\u003e \u003cb\u003eObama\u003c/b\u003e had traveled here to his grandfather&#39;s birthplace to make a point about \u003cb\u003e...\u003c/b\u003e \u003cbr\u003e  We&#39;re going through my \u003cb\u003efamily tree\u003c/b\u003e, trying to figure it all out.&quot; \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "2SQvGRqSXB8J",
+   "formattedUrl": "articles.latimes.com/2008/jan/30/nation/na-obama30",
+   "htmlFormattedUrl": "articles.latimes.com/2008/jan/30/nation/na-\u003cb\u003eobama\u003c/b\u003e30",
+   "pagemap": {
+    "metatags": [
+     {
+      "fb:admins": "100001837105818",
+      "fb:app_id": "186620898040944",
+      "og:title": "Obama explores Kansas family roots",
+      "og:type": "article",
+      "og:url": "http://articles.latimes.com/2008/jan/30/nation/na-obama30",
+      "og:description": "The candidate was at a loss for words Tuesday, which in this campaign is a rare occurrence.Standing in a packed gym in wind-swept Midwest oil country, Barack Obama was trying to explain how he and...",
+      "og:site_name": "Los Angeles Times Articles"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Mormon leader presents family history to Obama",
+   "htmlTitle": "Mormon leader presents \u003cb\u003efamily\u003c/b\u003e history to \u003cb\u003eObama\u003c/b\u003e",
+   "link": "http://www.sltrib.com/faith/ci_12876149",
+   "displayLink": "www.sltrib.com",
+   "snippet": "Jul 20, 2009 ... Washington » Mormon Church leaders presented President Barack Obama with   a detailed family tree in five leather-bound volumes Monday ...",
+   "htmlSnippet": "Jul 20, 2009 \u003cb\u003e...\u003c/b\u003e Washington » Mormon Church leaders presented President Barack \u003cb\u003eObama\u003c/b\u003e with \u003cbr\u003e  a detailed \u003cb\u003efamily tree\u003c/b\u003e in five leather-bound volumes Monday \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "H0uvj58-SzkJ",
+   "formattedUrl": "www.sltrib.com/faith/ci_12876149",
+   "htmlFormattedUrl": "www.sltrib.com/faith/ci_12876149",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://archive.sltrib.com/thumbs/2009/0721/102519_obamaandmonson.jpg",
+      "type": "1",
+      "width": "120",
+      "height": "80"
+     }
+    ],
+    "metatags": [
+     {
+      "author": "http://www.sltrib.com",
+      "copyright": "The Salt Lake Tribune",
+      "y_key": "63be788a20d3f166",
+      "msvalidate.01": "85E8AB852D4D712B15132D0BCEC504B3"
+     }
+    ]
+   }
+  }
+ ]
+}

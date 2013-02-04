@@ -1,0 +1,383 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "nextPage": [
+   {
+    "title": "Google Custom Search - french lick resort and casino",
+    "totalResults": "23600",
+    "searchTerms": "french lick resort and casino",
+    "count": 10,
+    "startIndex": 71,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "017401104989814545383:mf4lavmtuva"
+   }
+  ],
+  "request": [
+   {
+    "title": "Google Custom Search - french lick resort and casino",
+    "totalResults": "23600",
+    "searchTerms": "french lick resort and casino",
+    "count": 10,
+    "startIndex": 61,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "017401104989814545383:mf4lavmtuva"
+   }
+  ],
+  "previousPage": [
+   {
+    "title": "Google Custom Search - french lick resort and casino",
+    "totalResults": "23600",
+    "searchTerms": "french lick resort and casino",
+    "count": 10,
+    "startIndex": 51,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "017401104989814545383:mf4lavmtuva"
+   }
+  ]
+ },
+ "context": {
+  "title": "College MetaSearch Comparison"
+ },
+ "searchInformation": {
+  "searchTime": 0.222563,
+  "formattedSearchTime": "0.22",
+  "totalResults": "23600",
+  "formattedTotalResults": "23,600"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "Casino Resorts in Indiana | Travel Tips - USAToday.com",
+   "htmlTitle": "\u003cb\u003eCasino Resorts\u003c/b\u003e in Indiana | Travel Tips - USAToday.com",
+   "link": "http://traveltips.usatoday.com/casino-resorts-indiana-16846.html",
+   "displayLink": "traveltips.usatoday.com",
+   "snippet": "Like Belterra, French Lick Resort takes its name from its location. The casino is   larger than Belterra's, boasting 42000 square feet of floor space, but has around ...",
+   "htmlSnippet": "Like Belterra, \u003cb\u003eFrench Lick Resort\u003c/b\u003e takes its name from its location. The \u003cb\u003ecasino\u003c/b\u003e is \u003cbr\u003e  larger than Belterra&#39;s, boasting 42000 square feet of floor space, but has around \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "bFWHe2e2PTgJ",
+   "formattedUrl": "traveltips.usatoday.com/casino-resorts-indiana-16846.html",
+   "htmlFormattedUrl": "traveltips.usatoday.com/\u003cb\u003ecasino\u003c/b\u003e-\u003cb\u003eresorts\u003c/b\u003e-indiana-16846.html",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://traveltips.usatoday.com"
+     }
+    ],
+    "article": [
+     {
+      "app_id": "136276813051780",
+      "site_name": "Travel Tips - USAToday.com",
+      "admins": "1000681207",
+      "type": "article",
+      "url": "http://traveltips.usatoday.com/casino-resorts-indiana-16846.html",
+      "description": "In Indiana, all casinos must be located on riverboats docked along a waterway. While many people are working to close the casinos, the subject is a touchy one as the gaming industry is the...",
+      "title": "Casino Resorts in Indiana",
+      "image": "http://traveltips.usatoday.com"
+     }
+    ],
+    "metatags": [
+     {
+      "wa_lr": "en-US",
+      "wa_lid": "0001",
+      "msvalidate.01": "5F1B06EBE88583F1C05B9114514366ED",
+      "fb:app_id": "136276813051780",
+      "og:site_name": "Travel Tips - USAToday.com",
+      "fb:admins": "1000681207",
+      "pagetype": "Article",
+      "studioid": "5dbbc25a-8e3f-4d68-bb70-6db613bef3d0",
+      "category": "Resorts & Lodging",
+      "subcategory": "Luxury Vacations & Resorts",
+      "subsubcategory": "Casino Resorts",
+      "og:type": "article",
+      "og:url": "http://traveltips.usatoday.com/casino-resorts-indiana-16846.html",
+      "og:description": "In Indiana, all casinos must be located on riverboats docked along a waterway. While many people are working to close the casinos, the subject is a touchy one as the gaming industry is the fifth largest in the state. Because the casinos themselves are built on water, the associated hotels and restaurants are built along the docks, in close proximity to the casino they serve.",
+      "og:title": "Casino Resorts in Indiana",
+      "og:image": "http://traveltips.usatoday.com"
+     }
+    ],
+    "breadcrumb": [
+     {
+      "url": "Travel Tips",
+      "title": "Travel Tips"
+     },
+     {
+      "url": "Resorts & Lodging",
+      "title": "Resorts & Lodging"
+     },
+     {
+      "url": "Luxury Vacations & Resorts",
+      "title": "Luxury Vacations & Resorts"
+     },
+     {
+      "url": "Casino Resorts",
+      "title": "Casino Resorts"
+     },
+     {
+      "url": "Casino Resorts in Indiana",
+      "title": "Casino Resorts in Indiana"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "French Lick Resort Careers and Employment | Indeed.com",
+   "htmlTitle": "\u003cb\u003eFrench Lick Resort\u003c/b\u003e Careers and Employment | Indeed.com",
+   "link": "http://www.indeed.com/cmp/French-Lick-Resort",
+   "displayLink": "www.indeed.com",
+   "snippet": "French Lick Resort Casino has embarked on an incredible $382 million historic   restoration and expansion. In addition to the restoration of the French Lick ...",
+   "htmlSnippet": "\u003cb\u003eFrench Lick Resort Casino\u003c/b\u003e has embarked on an incredible $382 million historic \u003cbr\u003e  restoration and expansion. In addition to the restoration of the French Lick \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "u83B9tsMFFgJ",
+   "formattedUrl": "www.indeed.com/cmp/French-Lick-Resort",
+   "htmlFormattedUrl": "www.indeed.com/cmp/\u003cb\u003eFrench\u003c/b\u003e-\u003cb\u003eLick\u003c/b\u003e-\u003cb\u003eResort\u003c/b\u003e",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://labkit.indeed.com/static/indeed_fb.png"
+     }
+    ],
+    "metatags": [
+     {
+      "fb:app_id": "115882278440564",
+      "og:type": "website",
+      "og:site_name": "Indeed.com",
+      "og:image": "http://labkit.indeed.com/static/indeed_fb.png",
+      "og:title": "What it is like to work at French Lick Resort",
+      "og:description": "Take an inside look at working for French Lick Resort as told by real employees.  Find reviews, frequently asked questions and open jobs on Indeed.com.",
+      "og:url": "http://www.indeed.com/cmp/French-Lick-Resort",
+      "viewport": "width = device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "French Lick Resort-Casino & West Baden Springs",
+   "htmlTitle": "\u003cb\u003eFrench Lick Resort-Casino\u003c/b\u003e &amp; West Baden Springs",
+   "link": "http://www.aviatorsguide.com/notm/0707/0707_east.htm",
+   "displayLink": "www.aviatorsguide.com",
+   "snippet": "The French Lick Resort and Casino, located about 50 miles northwest of   Louisville, Kentucky, is a resort property that combines two of the region's most   elegant ...",
+   "htmlSnippet": "The \u003cb\u003eFrench Lick Resort and Casino\u003c/b\u003e, located about 50 miles northwest of \u003cbr\u003e  Louisville, Kentucky, is a resort property that combines two of the region&#39;s most \u003cbr\u003e  elegant \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "rh1nfyg28JwJ",
+   "formattedUrl": "www.aviatorsguide.com/notm/0707/0707_east.htm",
+   "htmlFormattedUrl": "www.aviatorsguide.com/notm/0707/0707_east.htm",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.aviatorsguide.com/images/0707/frenchlick_lobby.jpg",
+      "type": "1",
+      "width": "160",
+      "height": "204"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "French Lick Region Resorts and Lodges - ResortsandLodges.com",
+   "htmlTitle": "\u003cb\u003eFrench Lick\u003c/b\u003e Region \u003cb\u003eResorts\u003c/b\u003e and Lodges - \u003cb\u003eResortsandLodges\u003c/b\u003e.com",
+   "link": "http://www.resortsandlodges.com/lodging/usa/indiana/french-lick.html",
+   "displayLink": "www.resortsandlodges.com",
+   "snippet": "It is close to French Lick Springs Casino & Resort, Paoli Peaks, Patoka Lake, and   the historical West Baden Springs Hotel. At the ranch you can go horseback ...",
+   "htmlSnippet": "It is close to \u003cb\u003eFrench Lick\u003c/b\u003e Springs \u003cb\u003eCasino\u003c/b\u003e &amp; \u003cb\u003eResort\u003c/b\u003e, Paoli Peaks, Patoka Lake, and \u003cbr\u003e  the historical West Baden Springs Hotel. At the ranch you can go horseback \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "NmKZ0moXX4QJ",
+   "formattedUrl": "www.resortsandlodges.com/lodging/usa/indiana/french-lick.html",
+   "htmlFormattedUrl": "www.\u003cb\u003eresorts\u003c/b\u003eandlodges.com/lodging/usa/indiana/\u003cb\u003efrench\u003c/b\u003e-\u003cb\u003elick\u003c/b\u003e.html",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://media.travelnetsolutions.com/b001a2f0a5296f4cbae177004c2e1e56/listing.jpg",
+      "type": "1",
+      "width": "96",
+      "height": "96"
+     }
+    ],
+    "metatags": [
+     {
+      "og:site_name": "ResortsandLodges.com",
+      "fb:admins": "829589463",
+      "fb:app_id": "118399168239078",
+      "viewport": "width=device-width, initial-scale=1"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Lots to Do at French Lick Resort | The Indiana Insider Blog",
+   "htmlTitle": "Lots to Do at \u003cb\u003eFrench Lick Resort\u003c/b\u003e | The Indiana Insider Blog",
+   "link": "http://www.in.gov/visitindiana/blog/index.php/2011/01/08/lots-to-do-at-french-lick-resort/",
+   "displayLink": "www.in.gov",
+   "snippet": "Jan 8, 2011 ... French Lick Resort is a Vegas-style resort with spa hotels, stables, a casino and   three golf courses. French Lick Resort is made up of two ...",
+   "htmlSnippet": "Jan 8, 2011 \u003cb\u003e...\u003c/b\u003e \u003cb\u003eFrench Lick Resort\u003c/b\u003e is a Vegas-style \u003cb\u003eresort\u003c/b\u003e with spa hotels, stables, a \u003cb\u003ecasino\u003c/b\u003e and \u003cbr\u003e  three golf courses. \u003cb\u003eFrench Lick Resort\u003c/b\u003e is made up of two \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "ohu47kYly8cJ",
+   "formattedUrl": "www.in.gov/visitindiana/blog/.../lots-to-do-at-french-lick-resort/",
+   "htmlFormattedUrl": "www.in.gov/visitindiana/blog/.../lots-to-do-at-\u003cb\u003efrench\u003c/b\u003e-\u003cb\u003elick\u003c/b\u003e-\u003cb\u003eresort\u003c/b\u003e/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.in.gov/visitindiana/blog/wp-content/uploads/2010/12/29863_425864227526_59128302526_6004956_7434206_n-300x190.jpg",
+      "type": "1",
+      "width": "240",
+      "height": "152"
+     }
+    ],
+    "metatags": [
+     {
+      "fb:app_id": "173797799339109",
+      "framework": "Alkivia Framework 0.8",
+      "og:image": "http://www.in.gov/visitindiana/blog/wp-content/uploads/2010/12/29863_425864227526_59128302526_6004956_7434206_n-300x190.jpg"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "French Lick Hotel And Casino - Casino, Resort | Facebook",
+   "htmlTitle": "\u003cb\u003eFrench Lick\u003c/b\u003e Hotel And \u003cb\u003eCasino\u003c/b\u003e - \u003cb\u003eCasino\u003c/b\u003e, \u003cb\u003eResort\u003c/b\u003e | Facebook",
+   "link": "http://www.facebook.com/pages/French-Lick-Hotel-And-Casino/162247233814817?rf=201041636599876",
+   "displayLink": "www.facebook.com",
+   "snippet": "Welcome to French Lick Hotel And Casino on Facebook. Join now to write   reviews and connect with French Lick Hotel And Casino.",
+   "htmlSnippet": "Welcome to \u003cb\u003eFrench Lick\u003c/b\u003e Hotel And \u003cb\u003eCasino\u003c/b\u003e on Facebook. Join now to write \u003cbr\u003e  reviews and connect with \u003cb\u003eFrench Lick\u003c/b\u003e Hotel And \u003cb\u003eCasino\u003c/b\u003e.",
+   "cacheId": "H7No8qobTI8J",
+   "formattedUrl": "www.facebook.com/.../French-Lick...Casino/162247233814817?rf...",
+   "htmlFormattedUrl": "www.facebook.com/.../\u003cb\u003eFrench\u003c/b\u003e-\u003cb\u003eLick\u003c/b\u003e...\u003cb\u003eCasino\u003c/b\u003e/162247233814817?rf...",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://external.ak.fbcdn.net/safe_image.php?d=AQCsfH11Utro4UJ-&url=http%3A%2F%2Ffb.ecn.api.tiles.virtualearth.net%2Fapi%2FGetMap.ashx%3Fb%3Dr%252Cmkt.en-US%252Cstl.fb%26key%3DAqSHdMNkhSvgWwMhbqyiqgW1IhMNeV56Gb0WkfgEDm6jSsfX9gDGmlOUEt3i44Jk%26td%3DD1%26h%3D249%26w%3D483%26ppl%3D54%252C%252C38.5607%252C-86.6164%26z%3D12&jq=100",
+      "type": "1",
+      "width": "313",
+      "height": "161"
+     }
+    ],
+    "organization": [
+     {
+      "photo": "http://profile.ak.fbcdn.net/static-ak/rsrc.php/v2/y4/r/Mcb8muj28a9.png",
+      "name": "French Lick Hotel And Casino"
+     }
+    ],
+    "metatags": [
+     {
+      "og:title": "French Lick Hotel And Casino",
+      "og:type": "other",
+      "og:url": "http://www.facebook.com/pages/French-Lick-Hotel-And-Casino/162247233814817",
+      "og:site_name": "Facebook",
+      "og:image": "http://profile.ak.fbcdn.net/static-ak/rsrc.php/v2/y4/r/Mcb8muj28a9.png",
+      "og:description": "Local Business",
+      "title": "French Lick Hotel And Casino - Casino, Resort | Facebook"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "KAYAK - French Lick Springs Hotel - French Lick Hotels - Search ...",
+   "htmlTitle": "KAYAK - \u003cb\u003eFrench Lick\u003c/b\u003e Springs Hotel - \u003cb\u003eFrench Lick\u003c/b\u003e Hotels - Search \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://www.kayak.com/French_Lick-Hotels.French_Lick_Springs_Hotel.36180.ksp",
+   "displayLink": "www.kayak.com",
+   "snippet": "As part of French Lick Resort Casino, guests enjoy 27 holes of championship golf  , 2 world-class spas, The French Lick Casino, riding stables, tennis, bowling ...",
+   "htmlSnippet": "As part of \u003cb\u003eFrench Lick Resort Casino\u003c/b\u003e, guests enjoy 27 holes of championship golf\u003cbr\u003e  , 2 world-class spas, The French Lick Casino, riding stables, tennis, bowling \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "Olp3rVA3xbkJ",
+   "formattedUrl": "www.kayak.com/French_Lick-Hotels.French_Lick_Springs_Hotel.36180.ksp",
+   "htmlFormattedUrl": "www.kayak.com/\u003cb\u003eFrench\u003c/b\u003e_\u003cb\u003eLick\u003c/b\u003e-Hotels.\u003cb\u003eFrench\u003c/b\u003e_\u003cb\u003eLick\u003c/b\u003e_Springs_Hotel.36180.ksp",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.kayak.com/himg/c6/a1/88/leonardo-1059853-French_Lick_Springs_Hotel3_P-th-120x120.jpg",
+      "type": "1",
+      "width": "96",
+      "height": "96"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "The French Lick Airport Serves The French Lick, Indiana And West ...",
+   "htmlTitle": "The \u003cb\u003eFrench Lick\u003c/b\u003e Airport Serves The \u003cb\u003eFrench Lick\u003c/b\u003e, Indiana And West \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://www.frenchlickairport.com/",
+   "displayLink": "www.frenchlickairport.com",
+   "snippet": "Whether you're here to experience the grandeur of the posh French Lick Resort   and Casino or the historic West Baden Springs Hotel -- or perhaps the natural ...",
+   "htmlSnippet": "Whether you&#39;re here to experience the grandeur of the posh \u003cb\u003eFrench Lick Resort\u003c/b\u003e \u003cbr\u003e  \u003cb\u003eand Casino\u003c/b\u003e or the historic West Baden Springs Hotel -- or perhaps the natural \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "XBdiXGn5xkIJ",
+   "formattedUrl": "www.frenchlickairport.com/",
+   "htmlFormattedUrl": "www.\u003cb\u003efrenchlick\u003c/b\u003eairport.com/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.frenchlickairport.com/images/pics/7186.jpg",
+      "type": "1",
+      "width": "200",
+      "height": "150"
+     }
+    ],
+    "metatags": [
+     {
+      "y_key": "2ad29a63dd6fe1c6"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "French Lick Indiana Bed and Breakfast Inns",
+   "htmlTitle": "\u003cb\u003eFrench Lick\u003c/b\u003e Indiana Bed and Breakfast Inns",
+   "link": "http://www.bbonline.com/united-states/indiana/french-lick/",
+   "displayLink": "www.bbonline.com",
+   "snippet": "The French Lick Resort Casino is the top attraction in town. The Valley of the   Springs Resort is another local resort in town. T-Berry's Cafe keeps the food   simple, ...",
+   "htmlSnippet": "The \u003cb\u003eFrench Lick Resort Casino\u003c/b\u003e is the top attraction in town. The Valley of the \u003cbr\u003e  Springs Resort is another local resort in town. T-Berry&#39;s Cafe keeps the food \u003cbr\u003e  simple, \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "YM9CxOV4acsJ",
+   "formattedUrl": "www.bbonline.com/united-states/indiana/french-lick/",
+   "htmlFormattedUrl": "www.bbonline.com/united-states/indiana/\u003cb\u003efrench\u003c/b\u003e-\u003cb\u003elick\u003c/b\u003e/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://avatars.ibsrv.net/ibsrv/res/20111205/src:images.bbonline.com/get/bigthumb/2/0/3/0/4/6/2/pix6.jpg",
+      "type": "1",
+      "width": "107",
+      "height": "80"
+     }
+    ],
+    "bedandbreakfast": [
+     {
+      "image": "http://avatars.ibsrv.net/ibsrv/res/20111205/src:images.bbonline.com/get/bigthumb/2/0/3/0/4/6/2/pix6.jpg",
+      "price": "From $79",
+      "url": "ARTIST'S INN AND COTTAGES",
+      "address": "592 South Summit Street, French Lick, Indiana",
+      "description": "Historic Artists Inn & Gallery features a magnificent view of the French Lick Springs Resort & Casino, just a short walk away",
+      "geo": "38.547555,-86.617949"
+     },
+     {
+      "image": "http://avatars.ibsrv.net/ibsrv/res/20111205/src:images.bbonline.com/get/bigthumb/2/0/3/1/5/3/7/pix1.jpg",
+      "url": "BIG LOCUST FARM BED & BREAKFAST",
+      "address": "3295 W. Co. Rd. 25 South, Paoli, Indiana",
+      "description": "Warm Victorian style inn on sixty peaceful country acres in the heart of the Hoosier National Forest!",
+      "geo": "38.5544985,-86.5206461"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Rodney Carrington Tickets at French Lick Springs Resort & Casino ...",
+   "htmlTitle": "Rodney Carrington Tickets at \u003cb\u003eFrench Lick\u003c/b\u003e Springs \u003cb\u003eResort\u003c/b\u003e &amp; \u003cb\u003eCasino\u003c/b\u003e \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://www.excite.com/events/concert-tickets/Rodney-Carrington/Rodney-Carrington-French-Lick-IN/9-28-1891640",
+   "displayLink": "www.excite.com",
+   "snippet": "If you are looking for Cheap Tickets for Rodney Carrington on 09/28/2012 7:  00PM then you are in Luck at Excite Event. Absolute Bargains for Exclusive Seats ...",
+   "htmlSnippet": "If you are looking for Cheap Tickets for Rodney Carrington on 09/28/2012 7:\u003cbr\u003e  00PM then you are in Luck at Excite Event. Absolute Bargains for Exclusive Seats \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "5Cg4oMzU13QJ",
+   "formattedUrl": "www.excite.com/events/concert...French-Lick-IN/9-28-1891640",
+   "htmlFormattedUrl": "www.excite.com/events/concert...\u003cb\u003eFrench\u003c/b\u003e-\u003cb\u003eLick\u003c/b\u003e-IN/9-28-1891640"
+  }
+ ]
+}

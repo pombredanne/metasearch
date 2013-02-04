@@ -1,0 +1,503 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "nextPage": [
+   {
+    "title": "Google Custom Search - obama family tree",
+    "totalResults": "17300000",
+    "searchTerms": "obama family tree",
+    "count": 10,
+    "startIndex": 21,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "017401104989814545383:mf4lavmtuva"
+   }
+  ],
+  "request": [
+   {
+    "title": "Google Custom Search - obama family tree",
+    "totalResults": "17300000",
+    "searchTerms": "obama family tree",
+    "count": 10,
+    "startIndex": 11,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "017401104989814545383:mf4lavmtuva"
+   }
+  ],
+  "previousPage": [
+   {
+    "title": "Google Custom Search - obama family tree",
+    "totalResults": "17300000",
+    "searchTerms": "obama family tree",
+    "count": 10,
+    "startIndex": 1,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "017401104989814545383:mf4lavmtuva"
+   }
+  ]
+ },
+ "context": {
+  "title": "College MetaSearch Comparison"
+ },
+ "searchInformation": {
+  "searchTime": 0.303411,
+  "formattedSearchTime": "0.30",
+  "totalResults": "17300000",
+  "formattedTotalResults": "17,300,000"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "People's Genealogy Presents: Barack Obama's Family Tree",
+   "htmlTitle": "People&#39;s Genealogy Presents: Barack \u003cb\u003eObama&#39;s Family Tree\u003c/b\u003e",
+   "link": "http://thepeoplescube.com/current-truth/people-s-genealogy-presents-barack-obama-s-family-tree-t8878.html",
+   "displayLink": "thepeoplescube.com",
+   "snippet": "Apr 23, 2012 ... Our friends at PeoplesGenealogy.com, in cooperation with the current interim   provisional government of Kenya and Hawaii, have published ...",
+   "htmlSnippet": "Apr 23, 2012 \u003cb\u003e...\u003c/b\u003e Our friends at PeoplesGenealogy.com, in cooperation with the current interim \u003cbr\u003e  provisional government of Kenya and Hawaii, have published \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "PD3HCu0WySAJ",
+   "formattedUrl": "thepeoplescube.com/.../people-s-genealogy-presents-barack-obama-s-family- tree-t8878.html",
+   "htmlFormattedUrl": "thepeoplescube.com/.../people-s-genealogy-presents-barack-\u003cb\u003eobama\u003c/b\u003e-s-\u003cb\u003efamily\u003c/b\u003e- \u003cb\u003etree\u003c/b\u003e-t8878.html",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://thepeoplescube.com/images/Obama_Cherry_Tree_Bush_240.jpg",
+      "type": "1",
+      "width": "192",
+      "height": "224"
+     }
+    ],
+    "metatags": [
+     {
+      "content-language": "en",
+      "title": "People's Genealogy Presents: Barack Obama's Family Tree",
+      "category": "general",
+      "distribution": "global",
+      "resource-type": "document",
+      "copyright": "ThePeoplesCube.com"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Barack Obama's Branch-y Family Tree - ABC News",
+   "htmlTitle": "Barack \u003cb\u003eObama&#39;s\u003c/b\u003e Branch-y \u003cb\u003eFamily Tree\u003c/b\u003e - ABC News",
+   "link": "http://abcnews.go.com/blogs/politics/2008/07/barack-obamas-1/",
+   "displayLink": "abcnews.go.com",
+   "snippet": "Jul 28, 2008 ... How many half-siblings do you think Sen. Barack Obama, D-Illinois, has? Two?   Three? Four? Would you believe eight? That's the official count, ...",
+   "htmlSnippet": "Jul 28, 2008 \u003cb\u003e...\u003c/b\u003e How many half-siblings do you think Sen. Barack \u003cb\u003eObama\u003c/b\u003e, D-Illinois, has? Two? \u003cbr\u003e  Three? Four? Would you believe eight? That&#39;s the official count, \u003cb\u003e...\u003c/b\u003e",
+   "formattedUrl": "abcnews.go.com/blogs/politics/2008/07/barack-obamas-1/",
+   "htmlFormattedUrl": "abcnews.go.com/blogs/politics/2008/07/barack-\u003cb\u003eobamas\u003c/b\u003e-1/",
+   "pagemap": {
+    "metatags": [
+     {
+      "copyright": "Copyright (c) 2011 ABC News Internet Ventures",
+      "author": "ABC News",
+      "og:site_name": "ABC News Blogs",
+      "og:type": "blog",
+      "og:title": "Barack Obama's Branch-y Family Tree",
+      "og:url": "http://abcnews.go.com/blogs/politics/2008/07/barack-obamas-1/",
+      "og:description": "How many half-siblings do you think Sen. Barack Obama, D-Illinois, has? Two? Three? Four? Would you believe eight? That’s the official count, at any rate, though that number seems approximate. Here’s how it shakes out. HALF-SIB #1 ONE: MOM’S SIDE — HALF-SIS MAYA The one who has been front row and center is Maya Soetoro-Ng, 37, who has campaigned on Obama’s behalf. After Obama’s parents divorced, Obama’s mother Ann Dunham — Barack Obama Sr.’s second wife — married a man named Lolo Soetoro. The whole brood, including Obama and his new little half-sister Maya, lived in Indonesia.  Maya Soetoro-Ng is…",
+      "fb:app_id": "4942312939",
+      "viewport": "width=device-width, initial-scale=1.0"
+     }
+    ],
+    "blog": [
+     {
+      "site_name": "ABC News Blogs",
+      "type": "blog",
+      "title": "Barack Obama's Branch-y Family Tree",
+      "url": "http://abcnews.go.com/blogs/politics/2008/07/barack-obamas-1/",
+      "description": "How many half-siblings do you think Sen. Barack Obama, D-Illinois, has? Two? Three? Four? Would you believe eight? That’s the official count, at any rate, though that number seems approximate....",
+      "app_id": "4942312939"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "DNA tests help reveal Michelle Obama's family tree - CBS News",
+   "htmlTitle": "DNA tests help reveal Michelle \u003cb\u003eObama&#39;s family tree\u003c/b\u003e - CBS News",
+   "link": "http://www.cbsnews.com/8301-505263_162-57455844/dna-tests-help-reveal-michelle-obamas-family-tree/",
+   "displayLink": "www.cbsnews.com",
+   "snippet": "Jun 19, 2012 ... NY Times reporter says first lady's ancestor was a slave girl who gave birth to a   biracial child with her owner's son.",
+   "htmlSnippet": "Jun 19, 2012 \u003cb\u003e...\u003c/b\u003e NY Times reporter says first lady&#39;s ancestor was a slave girl who gave birth to a \u003cbr\u003e  biracial child with her owner&#39;s son.",
+   "cacheId": "M1fnEEtIZRoJ",
+   "formattedUrl": "www.cbsnews.com/.../dna-tests-help-reveal-michelle-obamas-family-tree/",
+   "htmlFormattedUrl": "www.cbsnews.com/.../dna-tests-help-reveal-michelle-\u003cb\u003eobamas\u003c/b\u003e-\u003cb\u003efamily\u003c/b\u003e-\u003cb\u003etree\u003c/b\u003e/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://i.i.com.com/cnwk.1d/i/tim/2011/08/25/115526511_-_michelle_obama_crop_244x183.jpg",
+      "type": "1",
+      "width": "195",
+      "height": "146"
+     }
+    ],
+    "metatags": [
+     {
+      "author": "CBSNews.com",
+      "published": "Tue Jun 19 08:13:09 PDT 2012",
+      "channelid": "505263",
+      "channelname": "CBS This Morning",
+      "nodeid": "505263",
+      "nodename": "CBS This Morning",
+      "fb:app_id": "79439656165",
+      "og:type": "article",
+      "og:url": "http://www.cbsnews.com/8301-505263_162-57455844/dna-tests-help-reveal-michelle-obamas-family-tree/",
+      "og:site_name": "CBS News",
+      "og:image": "http://i.i.com.com/cnwk.1d/i/tim/2011/08/25/115526511_-_michelle_obama_crop_244x183.jpg",
+      "og:title": "DNA tests help reveal Michelle Obama's family tree",
+      "og:description": "NY Times reporter says first lady's ancestor was a slave girl who gave birth to a biracial child with her owner's son",
+      "article:section": "CBS This Morning",
+      "article:tag": "president, michelle obama, family tree, first lady, barack obama"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Obama's Family Tree: Cluttered With Crazy Aunts, Drunken Uncles ...",
+   "htmlTitle": "\u003cb\u003eObama&#39;s Family Tree\u003c/b\u003e: Cluttered With Crazy Aunts, Drunken Uncles \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://www.canadafreepress.com/index.php/article/39849",
+   "displayLink": "www.canadafreepress.com",
+   "snippet": "Aug 29, 2011 ... Obama's Family Tree: Cluttered With Crazy Aunts, Drunken Uncles, & Other   Illegal Aliens, It appears to be in the Obama family DNA to live in ...",
+   "htmlSnippet": "Aug 29, 2011 \u003cb\u003e...\u003c/b\u003e \u003cb\u003eObama&#39;s Family Tree\u003c/b\u003e: Cluttered With Crazy Aunts, Drunken Uncles, &amp; Other \u003cbr\u003e  Illegal Aliens, It appears to be in the Obama family DNA to live in \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "toBgEXDJLm4J",
+   "formattedUrl": "www.canadafreepress.com/index.php/article/39849",
+   "htmlFormattedUrl": "www.canadafreepress.com/index.php/article/39849",
+   "pagemap": {
+    "metatags": [
+     {
+      "keyword": "Obama's Family Tree: Cluttered With Crazy Aunts, Drunken Uncles, & Other Illegal Aliens, It appears to be in the Obama family DNA to live in America illegally. A trait which also applies to our community organizer president",
+      "distribution": "global",
+      "rating": "general"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Obama Genealogy - Barack Obama Family History",
+   "htmlTitle": "\u003cb\u003eObama\u003c/b\u003e Genealogy - Barack \u003cb\u003eObama Family\u003c/b\u003e History",
+   "link": "http://www.archives.com/genealogy/president-obama.html",
+   "displayLink": "www.archives.com",
+   "snippet": "The Barack Obama family tree includes an African-American father from Kenya   and a Caucasian mother from Kansas. His parents separated when Obama was ...",
+   "htmlSnippet": "The Barack \u003cb\u003eObama family tree\u003c/b\u003e includes an African-American father from Kenya \u003cbr\u003e  and a Caucasian mother from Kansas. His parents separated when Obama was \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "u4yijkGa0xAJ",
+   "formattedUrl": "www.archives.com/genealogy/president-obama.html",
+   "htmlFormattedUrl": "www.archives.com/genealogy/president-\u003cb\u003eobama\u003c/b\u003e.html",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.archives.com/genealogy/images/obama_genealogy.jpg",
+      "type": "1",
+      "width": "192",
+      "height": "262"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "iOwnTheWorld.com » Blog Archive » Michelle Obama's Family Tree",
+   "htmlTitle": "iOwnTheWorld.com » Blog Archive » Michelle \u003cb\u003eObama&#39;s Family Tree\u003c/b\u003e",
+   "link": "http://iowntheworld.com/blog/?p=138085",
+   "displayLink": "iowntheworld.com",
+   "snippet": "Jun 17, 2012 ... Michelle Obama family tree. New York Times journalist Rachel L Swarns used   DNA testing and historical documents to track down Mrs ...",
+   "htmlSnippet": "Jun 17, 2012 \u003cb\u003e...\u003c/b\u003e Michelle \u003cb\u003eObama family tree\u003c/b\u003e. New York Times journalist Rachel L Swarns used \u003cbr\u003e  DNA testing and historical documents to track down Mrs \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "UNihFtpRgYkJ",
+   "formattedUrl": "iowntheworld.com/blog/?p=138085",
+   "htmlFormattedUrl": "iowntheworld.com/blog/?p=138085",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://i.dailymail.co.uk/i/pix/2012/06/17/article-2160651-13A76763000005DC-57_634x447.jpg",
+      "type": "1",
+      "width": "267",
+      "height": "188"
+     }
+    ],
+    "person": [
+     {
+      "friends": "American Thinker, Diogenes' Middle Finger, i hate the media, Iowahawk"
+     }
+    ],
+    "metatags": [
+     {
+      "resource-type": "document",
+      "copyright": "Copyright (c)2008-2012  iOwnTheWorld.com. All Rights Reserved."
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Bush Obama Family Tree - YouTube",
+   "htmlTitle": "Bush \u003cb\u003eObama Family Tree\u003c/b\u003e - YouTube",
+   "link": "http://www.youtube.com/watch?v=M4UNG8fbYB8",
+   "displayLink": "www.youtube.com",
+   "snippet": "Apr 23, 2009 ... Scary! The richest, most famous, and most powerful people on earth all from the   same family tree? Like lab rats we never question the cage we ...",
+   "htmlSnippet": "Apr 23, 2009 \u003cb\u003e...\u003c/b\u003e Scary! The richest, most famous, and most powerful people on earth all from the \u003cbr\u003e  same \u003cb\u003efamily tree\u003c/b\u003e? Like lab rats we never question the cage we \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "oRczzoP66kIJ",
+   "formattedUrl": "www.youtube.com/watch?v=M4UNG8fbYB8",
+   "htmlFormattedUrl": "www.youtube.com/watch?v=M4UNG8fbYB8",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://i2.ytimg.com/vi/M4UNG8fbYB8/mqdefault.jpg",
+      "type": "1",
+      "width": "256",
+      "height": "144"
+     }
+    ],
+    "videoobject": [
+     {
+      "url": "http://www.youtube.com/watch?v=M4UNG8fbYB8",
+      "name": "Bush Obama Family Tree",
+      "description": "Scary! The richest, most famous, and most powerful people on earth all from the same family tree? Like lab rats we never question the cage we are born in nor...",
+      "duration": "PT2M37S",
+      "unlisted": "False",
+      "paid": "False",
+      "thumbnailurl": "http://i2.ytimg.com/vi/M4UNG8fbYB8/hqdefault.jpg",
+      "embedurl": "http://www.youtube.com/v/M4UNG8fbYB8?version=3&autohide=1",
+      "playertype": "Flash",
+      "width": "480",
+      "height": "360"
+     }
+    ],
+    "person": [
+     {
+      "url": "http://www.youtube.com/user/manasseh41"
+     }
+    ],
+    "metatags": [
+     {
+      "title": "Bush Obama Family Tree",
+      "og:url": "http://www.youtube.com/watch?v=M4UNG8fbYB8",
+      "og:title": "Bush Obama Family Tree",
+      "og:description": "Scary! The richest, most famous, and most powerful people on earth all from the same family tree? Like lab rats we never question the cage we are born in nor...",
+      "og:type": "video",
+      "og:image": "http://i2.ytimg.com/vi/M4UNG8fbYB8/mqdefault.jpg",
+      "og:video": "http://www.youtube.com/v/M4UNG8fbYB8?version=3&autohide=1",
+      "og:video:type": "application/x-shockwave-flash",
+      "og:video:width": "480",
+      "og:video:height": "360",
+      "og:site_name": "YouTube",
+      "fb:app_id": "87741124305",
+      "twitter:player:width": "480",
+      "twitter:player:height": "360",
+      "attribution": "youtube_none/"
+     }
+    ],
+    "imageobject": [
+     {
+      "url": "http://i2.ytimg.com/vi/M4UNG8fbYB8/mqdefault.jpg",
+      "width": "320",
+      "height": "180"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Moneygall, Ireland: A village of Obama family-tree huggers - Los ...",
+   "htmlTitle": "Moneygall, Ireland: A village of \u003cb\u003eObama family-tree\u003c/b\u003e huggers - Los \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://articles.latimes.com/2009/mar/13/world/fg-obama-ireland13",
+   "displayLink": "articles.latimes.com",
+   "snippet": "Mar 13, 2009 ... Until recently, Moneygall's most famous son wasn't even human. It was a horse,   Papillon, who streaked to the title as a long shot in a nail-biter ...",
+   "htmlSnippet": "Mar 13, 2009 \u003cb\u003e...\u003c/b\u003e Until recently, Moneygall&#39;s most famous son wasn&#39;t even human. It was a horse, \u003cbr\u003e  Papillon, who streaked to the title as a long shot in a nail-biter \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "KyeevH58yLQJ",
+   "formattedUrl": "articles.latimes.com/2009/mar/13/world/fg-obama-ireland13",
+   "htmlFormattedUrl": "articles.latimes.com/2009/mar/13/world/fg-\u003cb\u003eobama\u003c/b\u003e-ireland13",
+   "pagemap": {
+    "metatags": [
+     {
+      "fb:admins": "100001837105818",
+      "fb:app_id": "186620898040944",
+      "og:title": "Moneygall, Ireland: A village of Obama family-tree huggers",
+      "og:type": "article",
+      "og:url": "http://articles.latimes.com/2009/mar/13/world/fg-obama-ireland13",
+      "og:description": "Until recently, Moneygall's most famous son wasn't even human. It was a horse, Papillon, who streaked to the title as a long shot in a nail-biter at Britain's prestigious Grand National race in...",
+      "og:site_name": "Los Angeles Times Articles"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "DNA Gives New Insights Into Michelle Obama's Roots - NYTimes.com",
+   "htmlTitle": "DNA Gives New Insights Into Michelle \u003cb\u003eObama&#39;s\u003c/b\u003e Roots - NYTimes.com",
+   "link": "http://www.nytimes.com/2012/06/17/us/dna-gives-new-insights-into-michelle-obamas-roots.html?pagewanted=all",
+   "displayLink": "www.nytimes.com",
+   "snippet": "Jun 16, 2012 ... Research into Michelle Obama's white relatives underscores the history of racial   intermingling that binds countless American families decades ...",
+   "htmlSnippet": "Jun 16, 2012 \u003cb\u003e...\u003c/b\u003e Research into Michelle \u003cb\u003eObama&#39;s\u003c/b\u003e white relatives underscores the history of racial \u003cbr\u003e  intermingling that binds countless American \u003cb\u003efamilies\u003c/b\u003e decades \u003cb\u003e...\u003c/b\u003e",
+   "formattedUrl": "www.nytimes.com/.../dna-gives-new-insights-into-michelle-obamas-roots. html?...",
+   "htmlFormattedUrl": "www.nytimes.com/.../dna-gives-new-insights-into-michelle-\u003cb\u003eobamas\u003c/b\u003e-roots. html?...",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://graphics8.nytimes.com/images/2012/06/17/us/Shields/Shields-articleLarge-v2.jpg",
+      "type": "1",
+      "width": "290",
+      "height": "174"
+     }
+    ],
+    "organization": [
+     {
+      "name": "The New York Times Company",
+      "url": "http://www.nytco.com/"
+     }
+    ],
+    "person": [
+     {
+      "name": "By RACHEL L. SWARNS"
+     }
+    ],
+    "thumbnail": [
+     {
+      "src": "images/2012/06/17/us/Shields/Shields-thumbStandard-v3.jpg",
+      "width": "75",
+      "height": "75"
+     }
+    ],
+    "newsarticle": [
+     {
+      "description": "Research into Michelle Obama’s white relatives underscores the history of racial intermingling that binds countless American families decades after the Civil War.",
+      "datemodified": "2012-06-16",
+      "alternativeheadline": "Meet Your Cousin, the First Lady: A Family Story, Long Hidden",
+      "usageterms": "http://www.nytimes.com/content/help/rights/sale/terms-of-sale.html",
+      "genre": "News",
+      "articlesection": "U.S.",
+      "identifier": "100000001610905",
+      "thumbnailurl": "images/2012/06/17/us/Shields/Shields-thumbStandard-v3.jpg",
+      "headline": "Meet Your Cousin, the First Lady: A Family Story, Long Hidden",
+      "articlebody": "REX, Ga. — Joan Tribble held tightly to her cane as she ventured into the overgrown cemetery where her people were buried. There lay the pioneers who once populated north Georgia’s rugged...",
+      "printsection": "A",
+      "printpage": "1",
+      "printedition": "New York edition"
+     }
+    ],
+    "metatags": [
+     {
+      "displaydate": "June 16, 2012",
+      "hdl": "DNA Gives New Insights Into Michelle Obama’s Roots",
+      "hdl_p": "Meet Your Cousin, the First Lady: A Family Story, Long Hidden",
+      "byl": "By RACHEL L. SWARNS",
+      "lp": "Research into Michelle Obama’s white relatives underscores the history of racial intermingling that binds countless American families decades after the Civil War.",
+      "cre": "The New York Times",
+      "edt": "NewYork",
+      "pdate": "20120616",
+      "des": "Genealogy",
+      "per": "Obama, Michelle",
+      "geo": "Southern States (US)",
+      "slug": "17shields",
+      "utime": "20120622130653",
+      "ptime": "20120616130503",
+      "author": "RACHEL L. SWARNS",
+      "dat": "June 16, 2012",
+      "tom": "News",
+      "dsk": "U.S.",
+      "articleid": "100000001610905",
+      "article_template_version": "700",
+      "hdr_img": "/images/article/header/sect_us.gif",
+      "thumbnail": "images/2012/06/17/us/Shields/Shields-thumbStandard-v3.jpg",
+      "thumbnail_height": "75",
+      "thumbnail_width": "75",
+      "xlarge": "images/2012/06/17/us/Shields/Shields-articleLarge-v2.jpg",
+      "xlarge_height": "360",
+      "xlarge_width": "600",
+      "sectionfront_jsonp": "http://json8.nytimes.com/pages/national/index.jsonp",
+      "cg": "us",
+      "pt": "Article",
+      "pst": "News",
+      "msapplication-starturl": "http://www.nytimes.com/",
+      "og:url": "http://www.nytimes.com/2012/06/17/us/dna-gives-new-insights-into-michelle-obamas-roots.html?pagewanted=all",
+      "og:type": "article",
+      "og:title": "DNA Gives New Insights Into Michelle Obama’s Roots",
+      "og:image": "http://graphics8.nytimes.com/images/2012/06/17/us/Shields/Shields-thumbLarge-v3.jpg",
+      "fb:app_id": "9869919170",
+      "emailthishash": "oLpc3SWK7N0rjyUW7wSjzw"
+     }
+    ],
+    "imageobject": [
+     {
+      "url": "http://graphics8.nytimes.com/images/2012/06/17/us/Shields/Shields-articleLarge-v2.jpg",
+      "identifier": "http://graphics8.nytimes.com/images/2012/06/17/us/Shields/Shields-articleLarge-v2.jpg",
+      "height": "600",
+      "width": "360",
+      "copyrightholder": "Richard Perry/The New York Times",
+      "description": "Joan Tribble at the grave of her great-great-grandfather, Henry W. Shields, a Georgia slave owner who is also an ancestor of Michelle Obama. More Photos »"
+     },
+     {
+      "url": "http://graphics8.nytimes.com/images/2012/06/17/us/Jp-Shields-3/Jp-Shields-3-articleInline.jpg",
+      "identifier": "http://graphics8.nytimes.com/images/2012/06/17/us/Jp-Shields-3/Jp-Shields-3-articleInline.jpg",
+      "height": "190",
+      "width": "127",
+      "copyrightholder": "Richard Perry/The New York Times"
+     },
+     {
+      "url": "http://graphics8.nytimes.com/images/2012/06/17/us/Shields-1/Shields-1-articleInline.jpg",
+      "identifier": "http://graphics8.nytimes.com/images/2012/06/17/us/Shields-1/Shields-1-articleInline.jpg",
+      "height": "190",
+      "width": "277",
+      "copyrightholder": "Courtesy of Jewell Barclay"
+     },
+     {
+      "url": "http://graphics8.nytimes.com/images/2012/06/17/us/Jp-Shields-2/Jp-Shields-2-articleInline.jpg",
+      "identifier": "http://graphics8.nytimes.com/images/2012/06/17/us/Jp-Shields-2/Jp-Shields-2-articleInline.jpg",
+      "height": "190",
+      "width": "168",
+      "copyrightholder": "Richard Perry/The New York Times"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Barack Obama Family Tree",
+   "htmlTitle": "Barack \u003cb\u003eObama Family Tree\u003c/b\u003e",
+   "link": "http://www.slideshare.net/wreckieb/barack-obama-family-tree-presentation",
+   "displayLink": "www.slideshare.net",
+   "snippet": "Sep 16, 2008 ... Barack Obama's Family Tree Supreme Court Justice Obama's distant cousin,   Gabriel Duvall, was a member of the US House of ...",
+   "htmlSnippet": "Sep 16, 2008 \u003cb\u003e...\u003c/b\u003e Barack \u003cb\u003eObama&#39;s Family Tree\u003c/b\u003e Supreme Court Justice Obama&#39;s distant cousin, \u003cbr\u003e  Gabriel Duvall, was a member of the US House of \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "D91uwg7STMcJ",
+   "formattedUrl": "www.slideshare.net/wreckieb/barack-obama-family-tree-presentation",
+   "htmlFormattedUrl": "www.slideshare.net/wreckieb/barack-\u003cb\u003eobama\u003c/b\u003e-\u003cb\u003efamily\u003c/b\u003e-\u003cb\u003etree\u003c/b\u003e-presentation",
+   "pagemap": {
+    "metatags": [
+     {
+      "viewport": "width=1024",
+      "fb_app_id": "2490221586",
+      "og_type": "slideshare:presentation",
+      "og_url": "http://www.slideshare.net/wreckieb/barack-obama-family-tree-presentation",
+      "og_image": "http://cdn.slidesharecdn.com/ss_thumbnails/barack-obama-family-tree-1221579741226484-8-thumbnail-2.jpg?1221707990",
+      "og_title": "Barack Obama Family Tree",
+      "og_description": "Barack Obama&apos;s Family Tree Supreme Court Justice Obama&apos;s distant cousin, Gabriel Duvall, was a member of the US House of Representatives, from the sec",
+      "slideshow_published_time": "2008-09-16T08:44:15-05:00",
+      "slideshow_author": "http://www.slideshare.net/wreckieb",
+      "slideshow_view_count": "5463",
+      "slideshow_embed_count": "4",
+      "slideshow_comment_count": "0",
+      "slideshow_download_count": "125",
+      "slideshow_created_at": "Tue Sep 16 08:44:15 -0500 2008",
+      "slideshow_updated_at": "Wed Sep 17 22:19:50 -0500 2008",
+      "slideshow_featured_on": "Wed Sep 17 22:19:50 -0500 2008",
+      "slideshow_favorites_count": "3",
+      "slideshow_category": "Photos",
+      "twitter_player": "https://www.slideshare.net/slideshow/embed_code/601177"
+     }
+    ]
+   }
+  }
+ ]
+}

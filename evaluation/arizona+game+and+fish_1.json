@@ -1,0 +1,269 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "nextPage": [
+   {
+    "title": "Google Custom Search - arizona game and fish",
+    "totalResults": "1710000",
+    "searchTerms": "arizona game and fish",
+    "count": 10,
+    "startIndex": 21,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "017401104989814545383:mf4lavmtuva"
+   }
+  ],
+  "request": [
+   {
+    "title": "Google Custom Search - arizona game and fish",
+    "totalResults": "1710000",
+    "searchTerms": "arizona game and fish",
+    "count": 10,
+    "startIndex": 11,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "017401104989814545383:mf4lavmtuva"
+   }
+  ],
+  "previousPage": [
+   {
+    "title": "Google Custom Search - arizona game and fish",
+    "totalResults": "1710000",
+    "searchTerms": "arizona game and fish",
+    "count": 10,
+    "startIndex": 1,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "017401104989814545383:mf4lavmtuva"
+   }
+  ]
+ },
+ "context": {
+  "title": "College MetaSearch Comparison"
+ },
+ "searchInformation": {
+  "searchTime": 0.128547,
+  "formattedSearchTime": "0.13",
+  "totalResults": "1710000",
+  "formattedTotalResults": "1,710,000"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "Watercraft Boating in Arizona",
+   "htmlTitle": "Watercraft Boating in \u003cb\u003eArizona\u003c/b\u003e",
+   "link": "http://www.azgfd.gov/boating",
+   "displayLink": "www.azgfd.gov",
+   "snippet": "Watercraft Boating in Arizona Safety License Fee Boating Registration. ... Arizona   Game and FIsh Department - Managing Today for Wildlife Tomorrow: azgfd.",
+   "htmlSnippet": "Watercraft Boating in Arizona Safety License Fee Boating Registration. \u003cb\u003e...\u003c/b\u003e \u003cb\u003eArizona\u003c/b\u003e \u003cbr\u003e  \u003cb\u003eGame and FIsh\u003c/b\u003e Department - Managing Today for Wildlife Tomorrow: azgfd.",
+   "cacheId": "WXH5xezTsTkJ",
+   "formattedUrl": "www.azgfd.gov/boating",
+   "htmlFormattedUrl": "www.azgfd.gov/boating",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.azgfd.gov/outdoor_recreation/images/Angels_magazine_ad_000_000.jpg",
+      "type": "1",
+      "width": "136",
+      "height": "113"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Arizona Game & Fish (azgfd) on Twitter",
+   "htmlTitle": "\u003cb\u003eArizona Game\u003c/b\u003e &amp; \u003cb\u003eFish\u003c/b\u003e (azgfd) on Twitter",
+   "link": "http://twitter.com/azgfd/",
+   "displayLink": "twitter.com",
+   "snippet": "Arizona Game & Fish. @azgfd. The Arizona Game and Fish Department. Arizona   · http://www.azgfd.gov. Follow Following Unfollow Blocked Unblock Pending ...",
+   "htmlSnippet": "Arizona Game &amp; Fish. @azgfd. The \u003cb\u003eArizona Game and Fish\u003c/b\u003e Department. Arizona \u003cbr\u003e  · http://www.azgfd.gov. Follow Following Unfollow Blocked Unblock Pending \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "ohN-6sUMS0kJ",
+   "formattedUrl": "twitter.com/azgfd/",
+   "htmlFormattedUrl": "twitter.com/azgfd/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://a0.twimg.com/profile_images/63499149/AZGFDLogo_reasonably_small.jpg",
+      "type": "1",
+      "width": "102",
+      "height": "102"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "HabiMap™ Arizona",
+   "htmlTitle": "HabiMap™ \u003cb\u003eArizona\u003c/b\u003e",
+   "link": "http://www.habimap.org/",
+   "displayLink": "www.habimap.org",
+   "snippet": "The Arizona Game and Fish Department (Department) recently revised its State   Wildlife Action Plan that provides a framework and information to assist in setting ...",
+   "htmlSnippet": "The \u003cb\u003eArizona Game and Fish\u003c/b\u003e Department (Department) recently revised its State \u003cbr\u003e  Wildlife Action Plan that provides a framework and information to assist in setting \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "Z9a3J-XVviYJ",
+   "formattedUrl": "www.habimap.org/",
+   "htmlFormattedUrl": "www.habimap.org/",
+   "pagemap": {
+    "metatags": [
+     {
+      "author": "Arizona Game and Fish Department - Matt Bullock - Ryan Nosek - GIS Program"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "ARIZONA GAME AND FISH LAWS AND RULES",
+   "htmlTitle": "\u003cb\u003eARIZONA GAME AND FISH\u003c/b\u003e LAWS AND RULES",
+   "link": "http://www.gf.state.az.us/pdfs/inside_azgfd/all_azgfd_laws.pdf",
+   "displayLink": "www.gf.state.az.us",
+   "snippet": "The Arizona Game and Fish Department prohibits discrimination on the basis of   .... Arizona Game and Fish Commission Heritage Fund, §§ 17-296 to 17-298.01 .",
+   "htmlSnippet": "The \u003cb\u003eArizona Game and Fish\u003c/b\u003e Department prohibits discrimination on the basis of \u003cbr\u003e  \u003cb\u003e....\u003c/b\u003e \u003cb\u003eArizona Game and Fish\u003c/b\u003e Commission Heritage Fund, §§ 17-296 to 17-298.01 .",
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat",
+   "formattedUrl": "www.gf.state.az.us/pdfs/inside_azgfd/all_azgfd_laws.pdf",
+   "htmlFormattedUrl": "www.gf.state.\u003cb\u003eaz\u003c/b\u003e.us/pdfs/inside_azgfd/all_azgfd_laws.pdf",
+   "pagemap": {
+    "metatags": [
+     {
+      "moddate": "D:20080416142845-04'00'",
+      "creationdate": "D:20080416142843-04'00'",
+      "creator": "Adobe Acrobat 6.0",
+      "producer": "Adobe Acrobat 6.0"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "AZGFD.gov",
+   "htmlTitle": "AZGFD.gov",
+   "link": "http://azgfd.net/artman/publish/",
+   "displayLink": "azgfd.net",
+   "snippet": "Arizona Game and FIsh Department - Managing Today for Wildlife Tomorrow:   azgfd.gov · Operation Game Thief: 1-800-352-0700 · Customer Service ...",
+   "htmlSnippet": "\u003cb\u003eArizona Game and FIsh\u003c/b\u003e Department - Managing Today for Wildlife Tomorrow: \u003cbr\u003e  azgfd.gov &middot; Operation Game Thief: 1-800-352-0700 &middot; Customer Service \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "0KDf9_aXhjYJ",
+   "formattedUrl": "azgfd.net/artman/publish/",
+   "htmlFormattedUrl": "azgfd.net/artman/publish/"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Game & Fish Information, Pinetop, Arizona",
+   "htmlTitle": "\u003cb\u003eGame\u003c/b\u003e &amp; \u003cb\u003eFish\u003c/b\u003e Information, Pinetop, \u003cb\u003eArizona\u003c/b\u003e",
+   "link": "http://www.wmonline.com/area/gamefish/gfhome.htm",
+   "displayLink": "www.wmonline.com",
+   "snippet": "Information provided courtesy of and by permission of the Arizona Game & Fish   Department. The home page for the Arizona Game & Fish Department is located ...",
+   "htmlSnippet": "Information provided courtesy of and by permission of the \u003cb\u003eArizona Game\u003c/b\u003e &amp; \u003cb\u003eFish\u003c/b\u003e \u003cbr\u003e  Department. The home page for the \u003cb\u003eArizona Game\u003c/b\u003e &amp; \u003cb\u003eFish\u003c/b\u003e Department is located \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "xUP-Dg4scWEJ",
+   "formattedUrl": "www.wmonline.com/area/gamefish/gfhome.htm",
+   "htmlFormattedUrl": "www.wmonline.com/area/\u003cb\u003egamefish\u003c/b\u003e/gfhome.htm",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.wmonline.com/area/gamefish/photos/gamefish.gif",
+      "type": "1",
+      "width": "96",
+      "height": "92"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Agency Directory",
+   "htmlTitle": "Agency Directory",
+   "link": "http://www.azgfd.gov/inside_azgfd/agency_directory.shtml",
+   "displayLink": "www.azgfd.gov",
+   "snippet": "Arizona Game and FIsh Department - Managing Today for Wildlife Tomorrow:   azgfd.gov · Operation Game Thief: 1-800-352-0700 · Phone Number ...",
+   "htmlSnippet": "\u003cb\u003eArizona Game and FIsh\u003c/b\u003e Department - Managing Today for Wildlife Tomorrow: \u003cbr\u003e  azgfd.gov &middot; Operation Game Thief: 1-800-352-0700 &middot; Phone Number \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "nEC6fX-Pgh8J",
+   "formattedUrl": "www.azgfd.gov/inside_azgfd/agency_directory.shtml",
+   "htmlFormattedUrl": "www.azgfd.gov/inside_azgfd/agency_directory.shtml"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Arizona Game and Fish Department Outdoor Expo - Ben Avery Expo ...",
+   "htmlTitle": "\u003cb\u003eArizona Game and Fish\u003c/b\u003e Department Outdoor Expo - Ben Avery Expo \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://phoenix.about.com/od/events/a/Arizona-Game-And-Fish-Department-Outdoor-Expo.htm",
+   "displayLink": "phoenix.about.com",
+   "snippet": "The Arizona Game and Fish Department Outdoor Expo is held each spring in the   Phoenix area. Enjoy wildlife exhibits, learn to fish,learn archery and more in ...",
+   "htmlSnippet": "The \u003cb\u003eArizona Game and Fish\u003c/b\u003e Department Outdoor Expo is held each spring in the \u003cbr\u003e  Phoenix area. Enjoy wildlife exhibits, learn to fish,learn archery and more in \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "0atf_i39VLMJ",
+   "formattedUrl": "phoenix.about.com/.../Arizona-Game-And-Fish-Department-Outdoor-Expo. htm",
+   "htmlFormattedUrl": "phoenix.about.com/.../\u003cb\u003eArizona\u003c/b\u003e-\u003cb\u003eGame-And-Fish\u003c/b\u003e-Department-Outdoor-Expo. htm",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://0.tqn.com/d/phoenix/1/G/z/X/3/azgfd-expo-01sm.jpg",
+      "type": "1",
+      "width": "128",
+      "height": "136"
+     }
+    ],
+    "metatags": [
+     {
+      "pd": "Saturday, 21-Jul-2012 20:29:30 UTC",
+      "og:title": "Arizona Game and Fish Department Outdoor Expo - 2012",
+      "og:type": "article",
+      "og:image": "http://0.tqn.com/d/phoenix/1/G/z/X/3/azgfd-expo-01sm.jpg",
+      "og:url": "http://phoenix.about.com/od/events/a/Arizona-Game-And-Fish-Department-Outdoor-Expo.htm",
+      "og:site_name": "About.com Phoenix",
+      "fb:app_id": "121030274606741"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Commission",
+   "htmlTitle": "Commission",
+   "link": "http://www.azgfd.gov/inside_azgfd/commission.shtml",
+   "displayLink": "www.azgfd.gov",
+   "snippet": "Under the provisions of the Arizona Revised Statutes 17-231, the Arizona Game   and Fish Commission establishes policy for the management, preservation, and ...",
+   "htmlSnippet": "Under the provisions of the Arizona Revised Statutes 17-231, the \u003cb\u003eArizona Game\u003c/b\u003e \u003cbr\u003e  \u003cb\u003eand Fish\u003c/b\u003e Commission establishes policy for the management, preservation, and \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "M2c5lT7E1AYJ",
+   "formattedUrl": "www.azgfd.gov/inside_azgfd/commission.shtml",
+   "htmlFormattedUrl": "www.azgfd.gov/inside_azgfd/commission.shtml",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.azgfd.gov/inside_azgfd/images/elkNight.jpg",
+      "type": "1",
+      "width": "128",
+      "height": "200"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "TITLE 12. NATURAL RESOURCES",
+   "htmlTitle": "TITLE 12. NATURAL RESOURCES",
+   "link": "http://www.azsos.gov/public_services/title_12/12-04.htm",
+   "displayLink": "www.azsos.gov",
+   "snippet": "Arizona Game and Fish Department Reserve. R12-4-120. Issuance, Sale, and   Transfer of Special Big Game License Tags. R12-4-121. Big Game Permit or Tag ...",
+   "htmlSnippet": "\u003cb\u003eArizona Game and Fish\u003c/b\u003e Department Reserve. R12-4-120. Issuance, Sale, and \u003cbr\u003e  Transfer of Special Big Game License Tags. R12-4-121. Big Game Permit or Tag \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "Q8l3jvWiGYkJ",
+   "formattedUrl": "www.azsos.gov/public_services/title_12/12-04.htm",
+   "htmlFormattedUrl": "www.azsos.gov/public_services/title_12/12-04.htm",
+   "pagemap": {
+    "metatags": [
+     {
+      "title": "Arizona Secretary of State - Ken Bennett",
+      "originatorjurisdiction": "Arizona Secretary of State",
+      "govtype": "State Government",
+      "medium": "Web page",
+      "accessconstraints": "none"
+     }
+    ]
+   }
+  }
+ ]
+}

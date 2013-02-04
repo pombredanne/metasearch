@@ -1,0 +1,260 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "nextPage": [
+   {
+    "title": "Google Custom Search - getting organized",
+    "totalResults": "27000000",
+    "searchTerms": "getting organized",
+    "count": 10,
+    "startIndex": 11,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "017401104989814545383:mf4lavmtuva"
+   }
+  ],
+  "request": [
+   {
+    "title": "Google Custom Search - getting organized",
+    "totalResults": "27000000",
+    "searchTerms": "getting organized",
+    "count": 10,
+    "startIndex": 1,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "017401104989814545383:mf4lavmtuva"
+   }
+  ]
+ },
+ "context": {
+  "title": "College MetaSearch Comparison"
+ },
+ "searchInformation": {
+  "searchTime": 0.200965,
+  "formattedSearchTime": "0.20",
+  "totalResults": "27000000",
+  "formattedTotalResults": "27,000,000"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "How to Be Organized: 15 steps (with pictures) - wikiHow",
+   "htmlTitle": "How to Be \u003cb\u003eOrganized\u003c/b\u003e: 15 steps (with pictures) - wikiHow",
+   "link": "http://www.wikihow.com/Be-Organized",
+   "displayLink": "www.wikihow.com",
+   "snippet": "Jul 4, 2012 ... Organization takes time, but when you get into the habit of it, life .... Getting   organized is all about priorities, and it never hurts to get your ducks ...",
+   "htmlSnippet": "Jul 4, 2012 \u003cb\u003e...\u003c/b\u003e Organization takes time, but when you get into the habit of it, life \u003cb\u003e....\u003c/b\u003e \u003cb\u003eGetting\u003c/b\u003e \u003cbr\u003e  \u003cb\u003eorganized\u003c/b\u003e is all about priorities, and it never hurts to get your ducks \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "0s2qO984lmoJ",
+   "formattedUrl": "www.wikihow.com/Be-Organized",
+   "htmlFormattedUrl": "www.wikihow.com/Be-\u003cb\u003eOrganized\u003c/b\u003e",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.wikihow.com/images/7/72/Be-Organized-Step-1.jpg"
+     }
+    ],
+    "metatags": [
+     {
+      "msvalidate.01": "CFD80128CAD3E726220D4C2420D539BE",
+      "y_key": "1b3ab4fc6fba3ab3",
+      "og:title": "How to Be Organized",
+      "og:type": "article",
+      "og:url": "http://www.wikihow.com/Be-Organized",
+      "og:site_name": "wikiHow",
+      "og:description": "If disorganization is congesting your life and you're feeling scattered and frustrated as a result, it's time to get organized. To achieve organization on the outside, you will need to take steps too on the inside, by clarifying your...",
+      "og:image": "http://www.wikihow.com/images/7/72/Be-Organized-Step-1.jpg"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Getting Organized by Steve Pavlina",
+   "htmlTitle": "\u003cb\u003eGetting Organized\u003c/b\u003e by Steve Pavlina",
+   "link": "http://www.stevepavlina.com/articles/getting-organized.htm",
+   "displayLink": "www.stevepavlina.com",
+   "snippet": "Getting Organized. Years ago my family and I moved from a cramped two-  bedroom apartment into a spacious house. Instead of having to squeeze my   home ...",
+   "htmlSnippet": "\u003cb\u003eGetting Organized\u003c/b\u003e. Years ago my family and I moved from a cramped two-\u003cbr\u003e  bedroom apartment into a spacious house. Instead of having to squeeze my \u003cbr\u003e  home \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "B2cseAiDvTcJ",
+   "formattedUrl": "www.stevepavlina.com/articles/getting-organized.htm",
+   "htmlFormattedUrl": "www.stevepavlina.com/articles/\u003cb\u003egetting\u003c/b\u003e-\u003cb\u003eorganized\u003c/b\u003e.htm"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Get Organized: 10 Ways to Cut Clutter in Your Home",
+   "htmlTitle": "\u003cb\u003eGet Organized\u003c/b\u003e: 10 Ways to Cut Clutter in Your Home",
+   "link": "http://women.webmd.com/home-health-and-safety-9/10-ways-to-cut-clutter-in-your-home",
+   "displayLink": "women.webmd.com",
+   "snippet": "Mired in mess, fuss, and disarray? These quick hints for home organization can   help you de-clutter fast.",
+   "htmlSnippet": "Mired in mess, fuss, and disarray? These quick hints for home \u003cb\u003eorganization\u003c/b\u003e can \u003cbr\u003e  help you de-clutter fast.",
+   "cacheId": "qUJEJQLFhGoJ",
+   "formattedUrl": "women.webmd.com/home.../10-ways-to-cut-clutter-in-your-home",
+   "htmlFormattedUrl": "women.webmd.com/home.../10-ways-to-cut-clutter-in-your-home"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Get Organized Wizard - Tools & Resources for Getting Organized",
+   "htmlTitle": "\u003cb\u003eGet Organized\u003c/b\u003e Wizard - Tools &amp; Resources for \u003cb\u003eGetting Organized\u003c/b\u003e",
+   "link": "http://www.getorganizedwizard.com/",
+   "displayLink": "www.getorganizedwizard.com",
+   "snippet": "Getting organized is simple with these Home, Personal Organization & SMART   Goal Setting Tools from Get Organized Wizard.",
+   "htmlSnippet": "\u003cb\u003eGetting organized\u003c/b\u003e is simple with these Home, Personal Organization &amp; SMART \u003cbr\u003e  Goal Setting Tools from \u003cb\u003eGet Organized\u003c/b\u003e Wizard.",
+   "cacheId": "kKdZoiv_pBEJ",
+   "formattedUrl": "www.getorganizedwizard.com/",
+   "htmlFormattedUrl": "www.\u003cb\u003egetorganized\u003c/b\u003ewizard.com/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://cdn.getorganizedwizard.com/Sidebar_LifeGoalOrganizer5.png",
+      "type": "1",
+      "width": "92",
+      "height": "124"
+     }
+    ],
+    "metatags": [
+     {
+      "msvalidate.01": "90D0F6616B35C78AC47442C7C268891E",
+      "fb:page_id": "153820389256"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Get Organized Now",
+   "htmlTitle": "\u003cb\u003eGet Organized\u003c/b\u003e Now",
+   "link": "http://www.getorganizednow.com/",
+   "displayLink": "www.getorganizednow.com",
+   "snippet": "Maria Gracia shares a huge resource of clutter busting tips, time managment   ideas and thousands of effective organzing tips and concepts. There are monthly ...",
+   "htmlSnippet": "Maria Gracia shares a huge resource of clutter busting tips, time managment \u003cbr\u003e  ideas and thousands of effective organzing tips and concepts. There are monthly \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "LHVYwsMIgxYJ",
+   "formattedUrl": "www.getorganizednow.com/",
+   "htmlFormattedUrl": "www.\u003cb\u003egetorganized\u003c/b\u003enow.com/",
+   "pagemap": {
+    "metatags": [
+     {
+      "xar files": "index_html_files/xr_files.txt"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Get Organized | Organized Home",
+   "htmlTitle": "\u003cb\u003eGet Organized\u003c/b\u003e | Organized Home",
+   "link": "http://organizedhome.com/articles/get-organized/",
+   "displayLink": "organizedhome.com",
+   "snippet": "Garage sale, tag sale, yard sale--whatever you call it, the garage or yard sale is   part and parcel of the American way of life. On sunny weekend mornings, ...",
+   "htmlSnippet": "Garage sale, tag sale, yard sale--whatever you call it, the garage or yard sale is \u003cbr\u003e  part and parcel of the American way of life. On sunny weekend mornings, \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "wUoH3Pg0dAoJ",
+   "formattedUrl": "organizedhome.com/articles/get-organized/",
+   "htmlFormattedUrl": "\u003cb\u003eorganized\u003c/b\u003ehome.com/articles/\u003cb\u003eget\u003c/b\u003e-\u003cb\u003eorganized\u003c/b\u003e/",
+   "pagemap": {
+    "metatags": [
+     {
+      "readability-verification": "uSTqKkkC293hnsDYtUhxkB5pcErKAxK8XCehcZWx",
+      "copyright": "Copyright © 1993-2012 by Threadneedle Press LLC",
+      "abstract": "Clean house, cut clutter and get organized at home with articles and free printable household notebook"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Getting Organized Magazine — Treat Yourself to Some Sanity",
+   "htmlTitle": "\u003cb\u003eGetting Organized\u003c/b\u003e Magazine — Treat Yourself to Some Sanity",
+   "link": "http://www.gettingorganizedmagazine.com/",
+   "displayLink": "www.gettingorganizedmagazine.com",
+   "snippet": "Getting Organized Magazine provides simple, effective, how-to organizing tips   that will help you with home, office, time management, technology, and more!",
+   "htmlSnippet": "\u003cb\u003eGetting Organized\u003c/b\u003e Magazine provides simple, effective, how-to organizing tips \u003cbr\u003e  that will help you with home, office, time management, technology, and more!",
+   "cacheId": "c8D6m1lVBiIJ",
+   "formattedUrl": "www.gettingorganizedmagazine.com/",
+   "htmlFormattedUrl": "www.\u003cb\u003egettingorganized\u003c/b\u003emagazine.com/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.gettingorganizedmagazine.com/wp-content/uploads/2012/07/office-candy-ad.current.jpg",
+      "type": "1",
+      "width": "238",
+      "height": "160"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Organized Home | Clean House, Cut Clutter, Get Organized at Home!",
+   "htmlTitle": "Organized Home | Clean House, Cut Clutter, \u003cb\u003eGet Organized\u003c/b\u003e at Home!",
+   "link": "http://organizedhome.com/",
+   "displayLink": "organizedhome.com",
+   "snippet": "Get organized at home! Articles, tips and free printables to help you clean house,   cut clutter and organize life at home.",
+   "htmlSnippet": "\u003cb\u003eGet organized\u003c/b\u003e at home! Articles, tips and free printables to help you clean house, \u003cbr\u003e  cut clutter and organize life at home.",
+   "cacheId": "Kxx1sghom7IJ",
+   "formattedUrl": "organizedhome.com/",
+   "htmlFormattedUrl": "\u003cb\u003eorganized\u003c/b\u003ehome.com/",
+   "pagemap": {
+    "metatags": [
+     {
+      "readability-verification": "uSTqKkkC293hnsDYtUhxkB5pcErKAxK8XCehcZWx",
+      "copyright": "Copyright © 1993-2012 by Threadneedle Press LLC",
+      "abstract": "Clean house, cut clutter and get organized at home with articles and free printable household notebook"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Study Strategies - Getting Organized",
+   "htmlTitle": "Study Strategies - \u003cb\u003eGetting Organized\u003c/b\u003e",
+   "link": "http://www.nlight.com/Success/Study/3organize.html",
+   "displayLink": "www.nlight.com",
+   "snippet": "Gather your resources and get organized. In academic work, as in life, it's good to   have a plan. First, determine what resources you have and then plan to use ...",
+   "htmlSnippet": "Gather your resources and \u003cb\u003eget organized\u003c/b\u003e. In academic work, as in life, it&#39;s good to \u003cbr\u003e  have a plan. First, determine what resources you have and then plan to use \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "RGUNOH7CniEJ",
+   "formattedUrl": "www.nlight.com/Success/Study/3organize.html",
+   "htmlFormattedUrl": "www.nlight.com/Success/Study/3\u003cb\u003eorganize\u003c/b\u003e.html"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Amazon.com: Getting Organized (9780446694131): Stephanie ...",
+   "htmlTitle": "Amazon.com: \u003cb\u003eGetting Organized\u003c/b\u003e (9780446694131): Stephanie \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://www.amazon.com/Getting-Organized-Stephanie-Winston/dp/0446694134",
+   "displayLink": "www.amazon.com",
+   "snippet": "Getting Organized [Stephanie Winston] on Amazon.com. *FREE* super saver   shipping on qualifying offers. A handy guide that has been helping people   manage ...",
+   "htmlSnippet": "\u003cb\u003eGetting Organized\u003c/b\u003e [Stephanie Winston] on Amazon.com. *FREE* super saver \u003cbr\u003e  shipping on qualifying offers. A handy guide that has been helping people \u003cbr\u003e  manage \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "pKXq1VQQ5csJ",
+   "formattedUrl": "www.amazon.com/Getting-Organized-Stephanie.../dp/0446694134",
+   "htmlFormattedUrl": "www.amazon.com/\u003cb\u003eGetting\u003c/b\u003e-\u003cb\u003eOrganized\u003c/b\u003e-Stephanie.../dp/0446694134",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://ecx.images-amazon.com/images/I/517pw4aiMyL._BO2,204,203,200_PIsitb-sticker-arrow-click,TopRight,35,-76_AA300_SH20_OU01_.jpg"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "225",
+      "height": "225",
+      "src": "https://encrypted-tbn0.google.com/images?q=tbn:ANd9GcSj5HvOHVG1KCO7UZDysHpkMW8RTjasizx7zjCEBeWNtDY8XZLH9CA7hXPi"
+     }
+    ],
+    "scraped": [
+     {
+      "image_link": "http://ecx.images-amazon.com/images/I/517pw4aiMyL._BO2,204,203,200_PIsitb-sticker-arrow-click,TopRight,35,-76_AA300_SH20_OU01_.jpg"
+     }
+    ],
+    "metatags": [
+     {
+      "title": "Amazon.com: Getting Organized (9780446694131): Stephanie Winston: Books"
+     }
+    ]
+   }
+  }
+ ]
+}

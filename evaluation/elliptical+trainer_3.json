@@ -1,0 +1,351 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "nextPage": [
+   {
+    "title": "Google Custom Search - elliptical trainer",
+    "totalResults": "737000",
+    "searchTerms": "elliptical trainer",
+    "count": 10,
+    "startIndex": 41,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "017401104989814545383:mf4lavmtuva"
+   }
+  ],
+  "request": [
+   {
+    "title": "Google Custom Search - elliptical trainer",
+    "totalResults": "737000",
+    "searchTerms": "elliptical trainer",
+    "count": 10,
+    "startIndex": 31,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "017401104989814545383:mf4lavmtuva"
+   }
+  ],
+  "previousPage": [
+   {
+    "title": "Google Custom Search - elliptical trainer",
+    "totalResults": "737000",
+    "searchTerms": "elliptical trainer",
+    "count": 10,
+    "startIndex": 21,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "017401104989814545383:mf4lavmtuva"
+   }
+  ]
+ },
+ "context": {
+  "title": "College MetaSearch Comparison"
+ },
+ "searchInformation": {
+  "searchTime": 0.148869,
+  "formattedSearchTime": "0.15",
+  "totalResults": "737000",
+  "formattedTotalResults": "737,000"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "Buy an Elliptical? Reviews and Buying Guides | Smooth Fitness",
+   "htmlTitle": "Buy an \u003cb\u003eElliptical\u003c/b\u003e? Reviews and Buying Guides | Smooth Fitness",
+   "link": "http://www.smoothfitness.com/buying-guides/elliptical-buying-guide.htm",
+   "displayLink": "www.smoothfitness.com",
+   "snippet": "An elliptical trainer is a low-impact exercise machine that simulates walking or   jogging. It gets its name from the ...",
+   "htmlSnippet": "An \u003cb\u003eelliptical trainer\u003c/b\u003e is a low-impact exercise machine that simulates walking or \u003cbr\u003e  jogging. It gets its name from the \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "tD7_jj7Em-MJ",
+   "formattedUrl": "www.smoothfitness.com/buying-guides/elliptical-buying-guide.htm",
+   "htmlFormattedUrl": "www.smoothfitness.com/buying-guides/\u003cb\u003eelliptical\u003c/b\u003e-buying-guide.htm",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.smoothfitness.com/buying-guides/images/CE36_banner.jpg",
+      "type": "1",
+      "width": "192",
+      "height": "104"
+     }
+    ],
+    "Organization": [
+     {
+      "name": "Smooth Fitness™"
+     }
+    ],
+    "metatags": [
+     {
+      "og:title": "Buy an Elliptical? Reviews and Buying Guides | Smooth Fitness",
+      "og:type": "website",
+      "og:url": "http://www.smoothfitness.com/buying-guides/elliptical-buying-guide.htm",
+      "og:image": "http://www.smoothfitness.com/images/general/logo_black_wide.png",
+      "og:description": "Looking to buy an elliptical? Smooth Fitness guides you through the buying process with reviews of elliptical machine features to help you choose the best elliptical.",
+      "og:site_name": "Smooth Fitness",
+      "fb:admins": "852024420",
+      "fb:app_id": "290846324337393"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Elliptical Machine, Ellipticals, Elliptical Trainers | AFG Fitness",
+   "htmlTitle": "\u003cb\u003eElliptical Machine\u003c/b\u003e, Ellipticals, \u003cb\u003eElliptical Trainers\u003c/b\u003e | AFG Fitness",
+   "link": "http://www.afgfitness.com/category/ellipticals",
+   "displayLink": "www.afgfitness.com",
+   "snippet": "AFG Fitness offers a complete line of quality elliptical machines. An elliptical   trainer offers a low-impact workout, less stress on your joints and a full-body   workout ...",
+   "htmlSnippet": "AFG Fitness offers a complete line of quality elliptical machines. An \u003cb\u003eelliptical\u003c/b\u003e \u003cbr\u003e  \u003cb\u003etrainer\u003c/b\u003e offers a low-impact workout, less stress on your joints and a full-body \u003cbr\u003e  workout \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "QgrnUUSf80oJ",
+   "formattedUrl": "www.afgfitness.com/category/ellipticals",
+   "htmlFormattedUrl": "www.afgfitness.com/category/\u003cb\u003eelliptical\u003c/b\u003es",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.afgfitness.com/images/cache/150_150_521793-brand-site-hero.png",
+      "type": "1",
+      "width": "120",
+      "height": "120"
+     }
+    ],
+    "metatags": [
+     {
+      "title": "Elliptical Machine, Ellipticals, Elliptical Trainers",
+      "viewport": "width=device-width, target-densityDpi=device-dpi",
+      "skype_toolbar": "SKYPE_TOOLBAR_PARSER_COMPATIBLE"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Amazon.com: Figure out how to select the best elliptical trainer",
+   "htmlTitle": "Amazon.com: Figure out how to select the best \u003cb\u003eelliptical trainer\u003c/b\u003e",
+   "link": "http://www.amazon.com/gp/richpub/syltguides/fullview/R2GA94FI1SFHJV",
+   "displayLink": "www.amazon.com",
+   "snippet": "Elliptical trainers allow for an intense workout without the jarring and impact you   get running. They offer the smoothness of the bike, but with the benefits of ...",
+   "htmlSnippet": "\u003cb\u003eElliptical trainers\u003c/b\u003e allow for an intense workout without the jarring and impact you \u003cbr\u003e  get running. They offer the smoothness of the bike, but with the benefits of \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "OvKEP4W1HtUJ",
+   "formattedUrl": "www.amazon.com/gp/richpub/syltguides/.../R2GA94FI1SFHJV",
+   "htmlFormattedUrl": "www.amazon.com/gp/richpub/syltguides/.../R2GA94FI1SFHJV",
+   "pagemap": {
+    "metatags": [
+     {
+      "title": "Figure out how to select  the best elliptical trainer"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Treadmills and Elliptical trainers new and used 800-295-0377..",
+   "htmlTitle": "Treadmills and \u003cb\u003eElliptical trainers\u003c/b\u003e new and used 800-295-0377..",
+   "link": "http://www.treadmillscentral.com/",
+   "displayLink": "www.treadmillscentral.com",
+   "snippet": "We offer a full selection of commercial fitness equipment!",
+   "htmlSnippet": "We offer a full selection of commercial fitness equipment!",
+   "cacheId": "wywdMpb_6ZAJ",
+   "formattedUrl": "www.treadmillscentral.com/",
+   "htmlFormattedUrl": "www.treadmillscentral.com/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.treadmillscentral.com/userfiles/image/HGC/sole-f80-2009-treadmill-ad.jpg",
+      "type": "1",
+      "width": "71",
+      "height": "89"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Buying an Adjustable Elliptical Trainer - Agile DMT Elliptical Trainer ...",
+   "htmlTitle": "Buying an Adjustable \u003cb\u003eElliptical Trainer\u003c/b\u003e - Agile DMT \u003cb\u003eElliptical Trainer\u003c/b\u003e \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://www.smoothfitness.com/buying-guides/agile-buying-guide.htm",
+   "displayLink": "www.smoothfitness.com",
+   "snippet": "Looking to buy an Adjustable Elliptical? Smooth Fitness guides you through the   buying process with an Agile DMT buying guide to help you choose the best ...",
+   "htmlSnippet": "Looking to buy an Adjustable \u003cb\u003eElliptical\u003c/b\u003e? Smooth Fitness guides you through the \u003cbr\u003e  buying process with an Agile DMT buying guide to help you choose the best \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "hOznqObLYXQJ",
+   "formattedUrl": "www.smoothfitness.com/buying-guides/agile-buying-guide.htm",
+   "htmlFormattedUrl": "www.smoothfitness.com/buying-guides/agile-buying-guide.htm",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.smoothfitness.com/images/general/logo_black_wide.png",
+      "type": "1",
+      "width": "195",
+      "height": "30"
+     }
+    ],
+    "Organization": [
+     {
+      "name": "Smooth Fitness™"
+     }
+    ],
+    "metatags": [
+     {
+      "og:title": "Buying an Adjustable Elliptical Trainer - Agile DMT Elliptical Trainer Buying Guide | Smooth Fitness",
+      "og:type": "website",
+      "og:url": "http://www.smoothfitness.com/buying-guides/agile-buying-guide.htm",
+      "og:image": "http://www.smoothfitness.com/images/general/logo_black_wide.png",
+      "og:description": "Looking to buy an Adjustable Elliptical? Smooth Fitness guides you through the buying process with an Agile DMT buying guide to help you choose the best adjustable elliptical trainer.",
+      "og:site_name": "Smooth Fitness",
+      "fb:admins": "852024420",
+      "fb:app_id": "290846324337393"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Weslo Elliptical Trainers / Reviews - Cardio for the Budget Conscious",
+   "htmlTitle": "Weslo \u003cb\u003eElliptical Trainers\u003c/b\u003e / Reviews - Cardio for the Budget Conscious",
+   "link": "http://www.allellipticals.com/weslo-elliptical-trainer.html",
+   "displayLink": "www.allellipticals.com",
+   "snippet": "A Weslo elliptical trainer is a basic, entry-level trainer you can buy for under $300  . Are these elliptical machines a good investment in your health? Read what ...",
+   "htmlSnippet": "A Weslo \u003cb\u003eelliptical trainer\u003c/b\u003e is a basic, entry-level trainer you can buy for under $300\u003cbr\u003e  . Are these elliptical machines a good investment in your health? Read what \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "A_aH9FlwcdgJ",
+   "formattedUrl": "www.allellipticals.com/weslo-elliptical-trainer.html",
+   "htmlFormattedUrl": "www.all\u003cb\u003eelliptical\u003c/b\u003es.com/weslo-\u003cb\u003eelliptical\u003c/b\u003e-\u003cb\u003etrainer\u003c/b\u003e.html",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.allellipticals.com/images/sales.jpg",
+      "type": "1",
+      "width": "160",
+      "height": "119"
+     }
+    ],
+    "metatags": [
+     {
+      "skype_toolbar": "SKYPE_TOOLBAR_PARSER_COMPATIBLE",
+      "fb:app_id": "243667088985851"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Amazon.com: Schwinn 420 Elliptical Trainer (2012 Model): Sports ...",
+   "htmlTitle": "Amazon.com: Schwinn 420 \u003cb\u003eElliptical Trainer\u003c/b\u003e (2012 Model): Sports \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://www.amazon.com/Schwinn-420-Elliptical-Trainer-Model/dp/B0055WRYIY",
+   "displayLink": "www.amazon.com",
+   "snippet": "Schwinn Elliptical Machines are designed to deliver a comfortable workout and   maximum results. With easy to use features, simple assembly, and a unique ...",
+   "htmlSnippet": "Schwinn \u003cb\u003eElliptical\u003c/b\u003e Machines are designed to deliver a comfortable workout and \u003cbr\u003e  maximum results. With easy to use features, simple assembly, and a unique \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "rYzBpCzBANwJ",
+   "formattedUrl": "www.amazon.com/Schwinn-420-Elliptical-Trainer.../B0055WRYIY",
+   "htmlFormattedUrl": "www.amazon.com/Schwinn-420-\u003cb\u003eElliptical\u003c/b\u003e-\u003cb\u003eTrainer\u003c/b\u003e.../B0055WRYIY",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://ecx.images-amazon.com/images/I/41IIx7nKQ0L._SL500_AA300_.jpg"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "225",
+      "height": "225",
+      "src": "https://encrypted-tbn2.google.com/images?q=tbn:ANd9GcT28COncsT2iFEjnwuMbYu93MnaF6VOww5a3_QP7i6d-3Za_33L3TR8JjE"
+     }
+    ],
+    "scraped": [
+     {
+      "image_link": "http://ecx.images-amazon.com/images/I/41IIx7nKQ0L._SL500_AA300_.jpg"
+     }
+    ],
+    "metatags": [
+     {
+      "title": "Amazon.com: Schwinn 420 Elliptical Trainer (2012 Model): Sports & Outdoors"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Elliptical Trainers - Bayou Fitness, Home Gym Equipment",
+   "htmlTitle": "\u003cb\u003eElliptical Trainers\u003c/b\u003e - Bayou Fitness, Home Gym Equipment",
+   "link": "http://www.bayoufitness.com/Elliptical-Trainers.htm",
+   "displayLink": "www.bayoufitness.com",
+   "snippet": "Elliptical Trainers ... Elliptical Trainers Categories ...",
+   "htmlSnippet": "\u003cb\u003eElliptical Trainers\u003c/b\u003e \u003cb\u003e...\u003c/b\u003e \u003cb\u003eElliptical Trainers\u003c/b\u003e Categories \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "5krDbYKtXe4J",
+   "formattedUrl": "www.bayoufitness.com/Elliptical-Trainers.htm",
+   "htmlFormattedUrl": "www.bayoufitness.com/\u003cb\u003eElliptical\u003c/b\u003e-\u003cb\u003eTrainers\u003c/b\u003e.htm",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.bayoufitness.com/c/Cardio_Pulse_Set_225.jpg",
+      "type": "1",
+      "width": "180",
+      "height": "104"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Schwinn A40 Elliptical Trainer: Amazon.com: Sports & Outdoors",
+   "htmlTitle": "Schwinn A40 \u003cb\u003eElliptical Trainer\u003c/b\u003e: Amazon.com: Sports &amp; Outdoors",
+   "link": "http://www.amazon.com/Schwinn-100195-A40-Elliptical-Trainer/dp/B003UNVU1M",
+   "displayLink": "www.amazon.com",
+   "snippet": "Enjoy a low-impact, total-body, cardiovascular workout without leaving the home   with the Schwinn A40 elliptical trainer. Boasting a perimeter-weighted, ...",
+   "htmlSnippet": "Enjoy a low-impact, total-body, cardiovascular workout without leaving the home \u003cbr\u003e  with the Schwinn A40 \u003cb\u003eelliptical trainer\u003c/b\u003e. Boasting a perimeter-weighted, \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "2nKZ-QOTJigJ",
+   "formattedUrl": "www.amazon.com/Schwinn...Elliptical-Trainer/dp/B003UNVU1M",
+   "htmlFormattedUrl": "www.amazon.com/Schwinn...\u003cb\u003eElliptical\u003c/b\u003e-\u003cb\u003eTrainer\u003c/b\u003e/dp/B003UNVU1M",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://ecx.images-amazon.com/images/I/41EG%2BS3iVwL._SL500_AA300_.jpg"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "225",
+      "height": "225",
+      "src": "https://encrypted-tbn3.google.com/images?q=tbn:ANd9GcSftsvD8LyX0jRvsEDuPEaK1OXxEgNq06Ytc_fBUYCEAIWJ1vybafguW_Di"
+     }
+    ],
+    "scraped": [
+     {
+      "image_link": "http://ecx.images-amazon.com/images/I/41EG%2BS3iVwL._SL500_AA300_.jpg"
+     }
+    ],
+    "metatags": [
+     {
+      "title": "Schwinn A40 Elliptical Trainer: Amazon.com: Sports & Outdoors"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Elliptical Trainer Comparison Chart - Under $500",
+   "htmlTitle": "\u003cb\u003eElliptical Trainer\u003c/b\u003e Comparison Chart - Under $500",
+   "link": "http://www.allellipticals.com/elliptical-trainer-comparison-chart-1.html",
+   "displayLink": "www.allellipticals.com",
+   "snippet": "At-a-glance elliptical trainer comparison chart. Compare top brands and read our   reviews covering popular models all in one place.",
+   "htmlSnippet": "At-a-glance \u003cb\u003eelliptical trainer\u003c/b\u003e comparison chart. Compare top brands and read our \u003cbr\u003e  reviews covering popular models all in one place.",
+   "cacheId": "PZg26otHLX0J",
+   "formattedUrl": "www.allellipticals.com/elliptical-trainer-comparison-chart-1.html",
+   "htmlFormattedUrl": "www.all\u003cb\u003eelliptical\u003c/b\u003es.com/\u003cb\u003eelliptical\u003c/b\u003e-\u003cb\u003etrainer\u003c/b\u003e-comparison-chart-1.html",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.allellipticals.com/image-files/weslo-momentum-630-elliptical_small.jpg",
+      "type": "1",
+      "width": "80",
+      "height": "80"
+     }
+    ]
+   }
+  }
+ ]
+}

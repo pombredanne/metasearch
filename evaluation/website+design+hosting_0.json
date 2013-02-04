@@ -1,0 +1,442 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "nextPage": [
+   {
+    "title": "Google Custom Search - website design hosting",
+    "totalResults": "35000000",
+    "searchTerms": "website design hosting",
+    "count": 10,
+    "startIndex": 11,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "017401104989814545383:mf4lavmtuva"
+   }
+  ],
+  "request": [
+   {
+    "title": "Google Custom Search - website design hosting",
+    "totalResults": "35000000",
+    "searchTerms": "website design hosting",
+    "count": 10,
+    "startIndex": 1,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "017401104989814545383:mf4lavmtuva"
+   }
+  ]
+ },
+ "context": {
+  "title": "College MetaSearch Comparison"
+ },
+ "searchInformation": {
+  "searchTime": 0.212591,
+  "formattedSearchTime": "0.21",
+  "totalResults": "35000000",
+  "formattedTotalResults": "35,000,000"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "Small Business Web Hosting, Web Design & Domain Names",
+   "htmlTitle": "Small Business Web \u003cb\u003eHosting\u003c/b\u003e, \u003cb\u003eWeb Design\u003c/b\u003e &amp; Domain Names",
+   "link": "http://www.aplus.net/",
+   "displayLink": "www.aplus.net",
+   "snippet": "Web Hosting from AplusÂ® ▷ Award-winning small business services including   hosting, domain registration and professional website design.",
+   "htmlSnippet": "Web \u003cb\u003eHosting\u003c/b\u003e from AplusÂ® ▷ Award-winning small business services including \u003cbr\u003e  \u003cb\u003ehosting\u003c/b\u003e, domain registration and professional \u003cb\u003ewebsite design\u003c/b\u003e.",
+   "cacheId": "nrZqaWfMcPwJ",
+   "formattedUrl": "www.aplus.net/",
+   "htmlFormattedUrl": "www.aplus.net/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.aplus.net/sites/aplus.net/themes/custom/mjtheme1/images/website.png",
+      "type": "1",
+      "width": "312",
+      "height": "160"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Affordable Web Design and Hosting",
+   "htmlTitle": "Affordable \u003cb\u003eWeb Design\u003c/b\u003e and \u003cb\u003eHosting\u003c/b\u003e",
+   "link": "http://www.affordablewebdesign.com/",
+   "displayLink": "www.affordablewebdesign.com",
+   "snippet": "Affordable Internet Marketing, Web Design, Social Media Marketing, Search   Engine Marketing and SEO services for small and medium size businesses.",
+   "htmlSnippet": "Affordable Internet Marketing, \u003cb\u003eWeb Design\u003c/b\u003e, Social Media Marketing, Search \u003cbr\u003e  Engine Marketing and SEO services for small and medium size businesses.",
+   "cacheId": "ifhPtEpRwBwJ",
+   "formattedUrl": "www.affordablewebdesign.com/",
+   "htmlFormattedUrl": "www.affordable\u003cb\u003ewebdesign\u003c/b\u003e.com/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.affordablewebdesign.com/media/com_fpss/src/3_94d43e327d9303539cb1e2aac7032668_s.jpg?t=1337276393",
+      "type": "1",
+      "width": "339",
+      "height": "149"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Top Web Design and Web Development Company in Tampa Bay ...",
+   "htmlTitle": "Top \u003cb\u003eWeb Design\u003c/b\u003e and Web Development Company in Tampa Bay \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://www.visualedgedesign.com/",
+   "displayLink": "www.visualedgedesign.com",
+   "snippet": "Web Design & Hosting Company - What we do is simple really. 1.) We build   affordable websites that look fabulous (of course if you want to spend loads of ...",
+   "htmlSnippet": "\u003cb\u003eWeb Design\u003c/b\u003e &amp; \u003cb\u003eHosting\u003c/b\u003e Company - What we do is simple really. 1.) We build \u003cbr\u003e  affordable websites that look fabulous (of course if you want to spend loads of \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "hPbwqsrdC6oJ",
+   "formattedUrl": "www.visualedgedesign.com/",
+   "htmlFormattedUrl": "www.visualedge\u003cb\u003edesign\u003c/b\u003e.com/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.visualedgedesign.com/images/featured-ezdetailer.jpg",
+      "type": "1",
+      "width": "192",
+      "height": "132"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Domain Names, Web Hosting and Online Marketing Services ...",
+   "htmlTitle": "Domain Names, \u003cb\u003eWeb Hosting\u003c/b\u003e and Online Marketing Services \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://www.networksolutions.com/",
+   "displayLink": "www.networksolutions.com",
+   "snippet": "From web hosting, design and ecommerce solutions to online marketing, website   security and email, you'll find that we take our customers' online success ...",
+   "htmlSnippet": "From \u003cb\u003eweb hosting\u003c/b\u003e, \u003cb\u003edesign\u003c/b\u003e and ecommerce solutions to online marketing, \u003cb\u003ewebsite\u003c/b\u003e \u003cbr\u003e  security and email, you&#39;ll find that we take our customers&#39; online success \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "PEg88e3j-M8J",
+   "formattedUrl": "www.networksolutions.com/",
+   "htmlFormattedUrl": "www.networksolutions.com/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.networksolutions.com/assets/images/620x288_B_873.jpg",
+      "type": "1",
+      "width": "330",
+      "height": "153"
+     }
+    ],
+    "metatags": [
+     {
+      "msvalidate.01": "5C86E152D840B8C1963C0D5E90CFA6C7"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Free Website Design : We build a Website for You for Free ...",
+   "htmlTitle": "Free \u003cb\u003eWebsite Design\u003c/b\u003e : We build a Website for You for Free \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://www.havaweb.com/",
+   "displayLink": "www.havaweb.com",
+   "snippet": "We build a website for You for free, cheapest website design, affordable website   hosting, cheap web designers, web page design and hosting. Tired of the ...",
+   "htmlSnippet": "We build a website for You for free, cheapest \u003cb\u003ewebsite design\u003c/b\u003e, affordable website \u003cbr\u003e  \u003cb\u003ehosting\u003c/b\u003e, cheap web designers, web page design and \u003cb\u003ehosting\u003c/b\u003e. Tired of the \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "0Ht6GWwj1_4J",
+   "formattedUrl": "www.havaweb.com/",
+   "htmlFormattedUrl": "www.hava\u003cb\u003eweb\u003c/b\u003e.com/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.havaweb.com/images/footer_gallery.png",
+      "type": "1",
+      "width": "121",
+      "height": "74"
+     }
+    ],
+    "metatags": [
+     {
+      "author": "Havaweb"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Homestead | Make a FREE Website - Create a Website in Mins ...",
+   "htmlTitle": "Homestead | Make a FREE \u003cb\u003eWebsite\u003c/b\u003e - Create a \u003cb\u003eWebsite\u003c/b\u003e in Mins \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://www.homestead.com/",
+   "displayLink": "www.homestead.com",
+   "snippet": "Create a Website in Minutes w/ our Award-Winning Web Design Software. Build   Your Own Website ... Click one button to publish your site to the web (we host it).",
+   "htmlSnippet": "Create a Website in Minutes w/ our Award-Winning \u003cb\u003eWeb Design\u003c/b\u003e Software. Build \u003cbr\u003e  Your Own Website \u003cb\u003e...\u003c/b\u003e Click one button to publish your site to the web (we \u003cb\u003ehost\u003c/b\u003e it).",
+   "cacheId": "rjbNBXw_1nQJ",
+   "formattedUrl": "www.homestead.com/",
+   "htmlFormattedUrl": "www.homestead.com/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.homestead.com/~site/images/project/splash/project_pane_webadvisors_225x64.png",
+      "type": "1",
+      "width": "180",
+      "height": "51"
+     }
+    ],
+    "metatags": [
+     {
+      "msvalidate.01": "283CC05204744EAEBCD51813C9F209B5"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Website Design | Small Business Web Design | Web.com",
+   "htmlTitle": "\u003cb\u003eWebsite Design\u003c/b\u003e | Small Business \u003cb\u003eWeb Design\u003c/b\u003e | Web.com",
+   "link": "http://www.web.com/",
+   "displayLink": "www.web.com",
+   "snippet": "Let US Build Your Website for FREE. Show Me. What We Offer. Websites;   Marketing; eCommerce; Hosting; Domains; Advice & Resource. Website Design   That ...",
+   "htmlSnippet": "Let US Build Your Website for FREE. Show Me. What We Offer. Websites; \u003cbr\u003e  Marketing; eCommerce; \u003cb\u003eHosting\u003c/b\u003e; Domains; Advice &amp; Resource. \u003cb\u003eWebsite Design\u003c/b\u003e \u003cbr\u003e  That \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "E3-lspgcpJ0J",
+   "formattedUrl": "www.web.com/",
+   "htmlFormattedUrl": "www.\u003cb\u003eweb\u003c/b\u003e.com/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.web.com/images/Pages/root/default/hpboxes-facebook-page.png",
+      "type": "1",
+      "width": "156",
+      "height": "91"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Website Design : Hosting : Apps - DH WEB - Hagerstown, MD",
+   "htmlTitle": "\u003cb\u003eWebsite Design\u003c/b\u003e : \u003cb\u003eHosting\u003c/b\u003e : Apps - DH WEB - Hagerstown, MD",
+   "link": "http://www.dhwebsites.com/",
+   "displayLink": "www.dhwebsites.com",
+   "snippet": "Website Design & Hosting Services - Hagerstown, MD. Custom affordable web   development, ecommerce, apps, graphic design, marketing, video, SEM & more.",
+   "htmlSnippet": "\u003cb\u003eWebsite Design\u003c/b\u003e &amp; \u003cb\u003eHosting\u003c/b\u003e Services - Hagerstown, MD. Custom affordable web \u003cbr\u003e  development, ecommerce, apps, graphic design, marketing, video, SEM &amp; more.",
+   "cacheId": "kRg04xNp2HMJ",
+   "formattedUrl": "www.dhwebsites.com/",
+   "htmlFormattedUrl": "www.dh\u003cb\u003ewebsites\u003c/b\u003e.com/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://s3.amazonaws.com/media.dhweb.com/dhweb/m-sign.png",
+      "type": "1",
+      "width": "228",
+      "height": "194"
+     }
+    ],
+    "person": [
+     {
+      "org": "DH WEB, Inc."
+     }
+    ],
+    "metatags": [
+     {
+      "language": "English",
+      "viewport": "width=device-width",
+      "format-detection": "telephone=no",
+      "dc.creator": "WEB, DH",
+      "dc.title": "DH WEB, Inc. - Website Design, Hosting, SEO and Apps.",
+      "dc.description": "DH WEB, Inc. Located in Hagerstown, Maryland develops custom website designs, graphic design, web and email hosting services, online marketing, web apps and more - all at very affodable prices.",
+      "dc.rights": "Copyright DH WEB, Inc. 2012 - All rights reserved."
+     }
+    ],
+    "hcard": [
+     {
+      "fn": "David Hall",
+      "url": "http://dhwebsites.com/",
+      "url_text": "http://dhwebsites.com/"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Premium Web Design and Hosting",
+   "htmlTitle": "Premium \u003cb\u003eWeb Design\u003c/b\u003e and \u003cb\u003eHosting\u003c/b\u003e",
+   "link": "http://www.premiumwebdesign.com/",
+   "displayLink": "www.premiumwebdesign.com",
+   "snippet": "Since 1999, Premium Web Design and Hosting has helped hundreds of   businesses enhance their web design and search engine optimization. We   increase ...",
+   "htmlSnippet": "Since 1999, Premium \u003cb\u003eWeb Design\u003c/b\u003e and \u003cb\u003eHosting\u003c/b\u003e has helped hundreds of \u003cbr\u003e  businesses enhance their \u003cb\u003eweb design\u003c/b\u003e and search engine optimization. We \u003cbr\u003e  increase \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "mKlOSKCPDd8J",
+   "formattedUrl": "www.premiumwebdesign.com/",
+   "htmlFormattedUrl": "www.premium\u003cb\u003ewebdesign\u003c/b\u003e.com/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.premiumwebdesign.com/wordpress/wp-content/uploads/checkmark.gif",
+      "type": "1",
+      "width": "18",
+      "height": "18"
+     }
+    ],
+    "hreview": [
+     {
+      "dtreviewed": "2011-01-01"
+     },
+     {
+      "dtreviewed": "2011-12-01"
+     },
+     {
+      "dtreviewed": "2011-11-28"
+     },
+     {
+      "dtreviewed": "2012-01-26"
+     },
+     {
+      "dtreviewed": "2012-01-26"
+     },
+     {
+      "dtreviewed": "2011-10-14"
+     },
+     {
+      "dtreviewed": "2011-12-01"
+     },
+     {
+      "dtreviewed": "2011-04-01"
+     },
+     {
+      "dtreviewed": "2011-05-01"
+     },
+     {
+      "dtreviewed": "2011-09-01"
+     }
+    ],
+    "aggregaterating": [
+     {
+      "ratingvalue": "9.9",
+      "reviewcount": "10"
+     }
+    ],
+    "rating": [
+     {
+      "worstrating": "1",
+      "ratingvalue": "10",
+      "bestrating": "10"
+     },
+     {
+      "worstrating": "1",
+      "ratingvalue": "10",
+      "bestrating": "10"
+     },
+     {
+      "worstrating": "1",
+      "ratingvalue": "10",
+      "bestrating": "10"
+     },
+     {
+      "worstrating": "1",
+      "ratingvalue": "10",
+      "bestrating": "10"
+     },
+     {
+      "worstrating": "1",
+      "ratingvalue": "9",
+      "bestrating": "10"
+     },
+     {
+      "worstrating": "1",
+      "ratingvalue": "10",
+      "bestrating": "10"
+     },
+     {
+      "worstrating": "1",
+      "ratingvalue": "10",
+      "bestrating": "10"
+     },
+     {
+      "worstrating": "1",
+      "ratingvalue": "10",
+      "bestrating": "10"
+     },
+     {
+      "worstrating": "1",
+      "ratingvalue": "10",
+      "bestrating": "10"
+     },
+     {
+      "worstrating": "1",
+      "ratingvalue": "10",
+      "bestrating": "10"
+     }
+    ],
+    "metatags": [
+     {
+      "og:image": "http://www.premiumwebdesign.com/wordpress/wp-content/uploads/checkmark.gif"
+     }
+    ],
+    "review": [
+     {
+      "reviewer": "Tim Thomas",
+      "reviewdate": "2011-01-01"
+     },
+     {
+      "author": "Tim Thomas",
+      "datepublished": "2011-01-01"
+     },
+     {
+      "author": "Fred Brooks",
+      "datepublished": "2011-12-01"
+     },
+     {
+      "author": "Albany Dixie League",
+      "datepublished": "2011-11-28"
+     },
+     {
+      "author": "Pamela Adams",
+      "datepublished": "2012-01-26"
+     },
+     {
+      "author": "Lee Wilson",
+      "datepublished": "2012-01-26"
+     },
+     {
+      "author": "Alice Seba",
+      "datepublished": "2011-10-14"
+     },
+     {
+      "author": "Georgann McCrosson",
+      "datepublished": "2011-12-01"
+     },
+     {
+      "author": "Pamela Green-Jackson",
+      "datepublished": "2011-04-01"
+     },
+     {
+      "author": "Frankie Sherman",
+      "datepublished": "2011-05-01"
+     },
+     {
+      "author": "Dr. Wendy Butler",
+      "datepublished": "2011-09-01"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Design Hosting for web design, web hosting, ecommerce, ssl ...",
+   "htmlTitle": "Design \u003cb\u003eHosting\u003c/b\u003e for \u003cb\u003eweb design\u003c/b\u003e, web \u003cb\u003ehosting\u003c/b\u003e, ecommerce, ssl \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://www.designhosting.biz/",
+   "displayLink": "www.designhosting.biz",
+   "snippet": "DesignHosting.biz offers reliable and affordable web hosting, web design, ssl   certificates, domain registration, and ecommerce solutions for a personal or ...",
+   "htmlSnippet": "DesignHosting.biz offers reliable and affordable web \u003cb\u003ehosting\u003c/b\u003e, \u003cb\u003eweb design\u003c/b\u003e, ssl \u003cbr\u003e  certificates, domain registration, and ecommerce solutions for a personal or \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "3nRxcJuHbIkJ",
+   "formattedUrl": "www.designhosting.biz/",
+   "htmlFormattedUrl": "www.\u003cb\u003edesignhosting\u003c/b\u003e.biz/",
+   "pagemap": {
+    "metatags": [
+     {
+      "author": "DesignHosting.biz"
+     }
+    ]
+   }
+  }
+ ]
+}

@@ -1,0 +1,390 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "nextPage": [
+   {
+    "title": "Google Custom Search - obama family tree",
+    "totalResults": "17300000",
+    "searchTerms": "obama family tree",
+    "count": 10,
+    "startIndex": 31,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "017401104989814545383:mf4lavmtuva"
+   }
+  ],
+  "request": [
+   {
+    "title": "Google Custom Search - obama family tree",
+    "totalResults": "17300000",
+    "searchTerms": "obama family tree",
+    "count": 10,
+    "startIndex": 21,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "017401104989814545383:mf4lavmtuva"
+   }
+  ],
+  "previousPage": [
+   {
+    "title": "Google Custom Search - obama family tree",
+    "totalResults": "17300000",
+    "searchTerms": "obama family tree",
+    "count": 10,
+    "startIndex": 11,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "017401104989814545383:mf4lavmtuva"
+   }
+  ]
+ },
+ "context": {
+  "title": "College MetaSearch Comparison"
+ },
+ "searchInformation": {
+  "searchTime": 0.139788,
+  "formattedSearchTime": "0.14",
+  "totalResults": "17300000",
+  "formattedTotalResults": "17,300,000"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "Barack Obama Family Tree - YouTube",
+   "htmlTitle": "Barack \u003cb\u003eObama Family Tree\u003c/b\u003e - YouTube",
+   "link": "http://www.youtube.com/watch?v=8_oFMMp64-o",
+   "displayLink": "www.youtube.com",
+   "snippet": "May 8, 2010 ... http://www.wminow.com/?ID=niallmurray Barack Obama related to George Bush   who is also related to Madonna and Celine Dion who is also ...",
+   "htmlSnippet": "May 8, 2010 \u003cb\u003e...\u003c/b\u003e http://www.wminow.com/?ID=niallmurray Barack \u003cb\u003eObama\u003c/b\u003e related to George Bush \u003cbr\u003e  who is also related to Madonna and Celine Dion who is also \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "QB0kfM6ko8cJ",
+   "formattedUrl": "www.youtube.com/watch?v=8_oFMMp64-o",
+   "htmlFormattedUrl": "www.youtube.com/watch?v=8_oFMMp64-o",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://i1.ytimg.com/vi/8_oFMMp64-o/mqdefault.jpg",
+      "type": "1",
+      "width": "256",
+      "height": "144"
+     }
+    ],
+    "videoobject": [
+     {
+      "url": "http://www.youtube.com/watch?v=8_oFMMp64-o",
+      "name": "Barack Obama Family Tree",
+      "description": "http://www.wminow.com/?ID=niallmurray Barack Obama related to George Bush who is also related to Madonna and Celine Dion who is also related to Hillary Clint...",
+      "duration": "PT4M9S",
+      "unlisted": "False",
+      "paid": "False",
+      "thumbnailurl": "http://i1.ytimg.com/vi/8_oFMMp64-o/hqdefault.jpg",
+      "embedurl": "http://www.youtube.com/v/8_oFMMp64-o?version=3&autohide=1",
+      "playertype": "Flash",
+      "width": "640",
+      "height": "480"
+     }
+    ],
+    "person": [
+     {
+      "url": "http://www.youtube.com/user/millionaireby2012"
+     }
+    ],
+    "metatags": [
+     {
+      "title": "Barack Obama Family Tree",
+      "og:url": "http://www.youtube.com/watch?v=8_oFMMp64-o",
+      "og:title": "Barack Obama Family Tree",
+      "og:description": "http://www.wminow.com/?ID=niallmurray Barack Obama related to George Bush who is also related to Madonna and Celine Dion who is also related to Hillary Clint...",
+      "og:type": "video",
+      "og:image": "http://i1.ytimg.com/vi/8_oFMMp64-o/mqdefault.jpg",
+      "og:video": "http://www.youtube.com/v/8_oFMMp64-o?version=3&autohide=1",
+      "og:video:type": "application/x-shockwave-flash",
+      "og:video:width": "640",
+      "og:video:height": "480",
+      "og:site_name": "YouTube",
+      "fb:app_id": "87741124305",
+      "twitter:player:width": "640",
+      "twitter:player:height": "480",
+      "attribution": "youtube_none/"
+     }
+    ],
+    "imageobject": [
+     {
+      "url": "http://i1.ytimg.com/vi/8_oFMMp64-o/mqdefault.jpg",
+      "width": "320",
+      "height": "180"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Obama Family Tree",
+   "htmlTitle": "\u003cb\u003eObama Family Tree\u003c/b\u003e",
+   "link": "http://www.moneygall.com/trace-obamas-roots/obama-family-tree/",
+   "displayLink": "www.moneygall.com",
+   "snippet": "Obama Family Tree. Obama's Irish roots date back to 1850. President Barack   Hussein Obama's roots in Ireland go back to 1850, when Falmouth Kearney, the ...",
+   "htmlSnippet": "\u003cb\u003eObama Family Tree\u003c/b\u003e. Obama&#39;s Irish roots date back to 1850. President Barack \u003cbr\u003e  Hussein Obama&#39;s roots in Ireland go back to 1850, when Falmouth Kearney, the \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "aLYf9oEB-A4J",
+   "formattedUrl": "www.moneygall.com/trace-obamas-roots/obama-family-tree/",
+   "htmlFormattedUrl": "www.moneygall.com/trace-\u003cb\u003eobamas\u003c/b\u003e-roots/\u003cb\u003eobama\u003c/b\u003e-\u003cb\u003efamily\u003c/b\u003e-\u003cb\u003etree\u003c/b\u003e/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.moneygall.com/custom/public/images/gallery/.side.familytree.jpg",
+      "type": "1",
+      "width": "185",
+      "height": "272"
+     }
+    ],
+    "metatags": [
+     {
+      "copyright": "Moneygall.com",
+      "distribution": "Global"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "In First Lady's Roots, a Complex Path From Slavery - NYTimes.com",
+   "htmlTitle": "In First Lady&#39;s Roots, a Complex Path From Slavery - NYTimes.com",
+   "link": "http://www.nytimes.com/2009/10/08/us/politics/08genealogy.html?pagewanted=all",
+   "displayLink": "www.nytimes.com",
+   "snippet": "Oct 7, 2009 ... Henry Louis Gates Jr., Annette Gordon-Reed and others discuss what Michelle   Obama's family tree says about America. Post a Comment » ...",
+   "htmlSnippet": "Oct 7, 2009 \u003cb\u003e...\u003c/b\u003e Henry Louis Gates Jr., Annette Gordon-Reed and others discuss what Michelle \u003cbr\u003e  \u003cb\u003eObama&#39;s family tree\u003c/b\u003e says about America. Post a Comment » \u003cb\u003e...\u003c/b\u003e",
+   "formattedUrl": "www.nytimes.com/2009/10/08/us/politics/08genealogy.html?pagewanted...",
+   "htmlFormattedUrl": "www.nytimes.com/2009/10/08/us/politics/08genealogy.html?pagewanted...",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://graphics8.nytimes.com/images/2009/10/07/us/politics/doc.190.jpg",
+      "type": "1",
+      "width": "152",
+      "height": "100"
+     }
+    ],
+    "thumbnail": [
+     {
+      "src": "images/2009/10/07/us/michelle7575.jpg",
+      "width": "75",
+      "height": "75"
+     }
+    ],
+    "metatags": [
+     {
+      "displaydate": "October 8, 2009",
+      "hdl": "In First Lady’s Roots, a Complex Path From Slavery",
+      "hdl_p": "First Lady’s Roots Reveal Slavery’s Tangled Legacy",
+      "byl": "By RACHEL L. SWARNS and JODI KANTOR",
+      "lp": "A newly discovered story has fleshed out Michelle Obama’s family tree.",
+      "cre": "The New York Times",
+      "edt": "NewYork",
+      "pdate": "20091008",
+      "des": "Genealogy",
+      "per": "Obama, Michelle",
+      "dat": "October 8, 2009",
+      "tom": "News",
+      "dsk": "U.S. / Politics",
+      "articleid": "1247465040568",
+      "cg": "us",
+      "scg": "politics",
+      "pt": "Article",
+      "hdr_img": "/images/article/header/sect_us.gif",
+      "thumbnail": "images/2009/10/07/us/michelle7575.jpg",
+      "thumbnail_height": "75",
+      "thumbnail_width": "75",
+      "xlarge": "images/2009/10/07/us/07gene-600.jpg",
+      "xlarge_height": "331",
+      "xlarge_width": "600",
+      "article_template_version": "700",
+      "sec": "A",
+      "pg": "1",
+      "og:url": "http://www.nytimes.com/2009/10/08/us/politics/08genealogy.html?pagewanted=all"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Ancestry.com Reveals German Roots in President Obama's Family ...",
+   "htmlTitle": "Ancestry.com Reveals German Roots in President \u003cb\u003eObama&#39;s Family\u003c/b\u003e \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://corporate.ancestry.com/press/press-releases/2009/06/ancestry.com-reveals-german-roots-in-president-obamas-family-tree/",
+   "displayLink": "corporate.ancestry.com",
+   "snippet": "Ancestry.com Reveals German Roots in President Obama's Family Tree. Family   History Web Site Confirms German Ancestry Through President's Sixth Great- ...",
+   "htmlSnippet": "Ancestry.com Reveals German Roots in President \u003cb\u003eObama&#39;s Family Tree\u003c/b\u003e. Family \u003cbr\u003e  History Web Site Confirms German Ancestry Through President&#39;s Sixth Great- \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "8eHCfYlu9K8J",
+   "formattedUrl": "corporate.ancestry.com/.../ancestry.com-reveals-german-roots-in-president- obamas-family-tree/",
+   "htmlFormattedUrl": "corporate.ancestry.com/.../ancestry.com-reveals-german-roots-in-president- \u003cb\u003eobamas\u003c/b\u003e-\u003cb\u003efamily\u003c/b\u003e-\u003cb\u003etree\u003c/b\u003e/"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Barack Obama Family Tree - Sixth Generation",
+   "htmlTitle": "Barack \u003cb\u003eObama Family Tree\u003c/b\u003e - Sixth Generation",
+   "link": "http://genealogy.about.com/od/aframertrees/p/obama_five.htm",
+   "displayLink": "genealogy.about.com",
+   "snippet": "The family tree of Barack Obama includes great great great grandparents with the   following surnames - Dunham, Stroup, Kearney, Holloway, Armour, Clark, ...",
+   "htmlSnippet": "The \u003cb\u003efamily tree\u003c/b\u003e of Barack \u003cb\u003eObama\u003c/b\u003e includes great great great grandparents with the \u003cbr\u003e  following surnames - Dunham, Stroup, Kearney, Holloway, Armour, Clark, \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "AwlTwKFNYykJ",
+   "formattedUrl": "genealogy.about.com/od/aframertrees/p/obama_five.htm",
+   "htmlFormattedUrl": "genealogy.about.com/od/aframer\u003cb\u003etree\u003c/b\u003es/p/\u003cb\u003eobama\u003c/b\u003e_five.htm",
+   "pagemap": {
+    "metatags": [
+     {
+      "pd": "Monday, 09-Apr-2012 21:29:45 UTC",
+      "og:title": "Barack Obama Family Tree - Sixth Generation",
+      "og:type": "article",
+      "og:url": "http://genealogy.about.com/od/aframertrees/p/obama_five.htm",
+      "og:site_name": "About.com Genealogy",
+      "fb:app_id": "121030274606741"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Family Tree - MyHeritage Celebrities - Barack Obama - MyHeritage ...",
+   "htmlTitle": "\u003cb\u003eFamily Tree\u003c/b\u003e - MyHeritage Celebrities - Barack \u003cb\u003eObama\u003c/b\u003e - MyHeritage \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://www.myheritage.com/site-family-tree-25753681/myheritage-celebrities-barack-obama",
+   "displayLink": "www.myheritage.com",
+   "snippet": "Family tree of the MyHeritage Celebrities - Barack Obama on MyHeritage.com.   MyHeritage.com is the best place for families online.",
+   "htmlSnippet": "\u003cb\u003eFamily tree\u003c/b\u003e of the MyHeritage Celebrities - Barack \u003cb\u003eObama\u003c/b\u003e on MyHeritage.com. \u003cbr\u003e  MyHeritage.com is the best place for families online.",
+   "cacheId": "y5qERZHBztsJ",
+   "formattedUrl": "www.myheritage.com/...family-tree.../myheritage-celebrities-barack-obama",
+   "htmlFormattedUrl": "www.myheritage.com/...\u003cb\u003efamily\u003c/b\u003e-\u003cb\u003etree\u003c/b\u003e.../myheritage-celebrities-barack-\u003cb\u003eobama\u003c/b\u003e"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "origins.net - Irish Origins - Barack Obama's Irish Family",
+   "htmlTitle": "origins.net - Irish Origins - Barack \u003cb\u003eObama&#39;s\u003c/b\u003e Irish \u003cb\u003eFamily\u003c/b\u003e",
+   "link": "http://www.origins.net/html-email/ON-obama-familytree.htm",
+   "displayLink": "www.origins.net",
+   "snippet": "Barack Obama's Irish Family - The Kearneys Irish Ancestry of Barack Obama.   Irish Ancestry of Barack Obama. Barack Obama's Irish Family - The Kearneys ...",
+   "htmlSnippet": "Barack \u003cb\u003eObama&#39;s\u003c/b\u003e Irish \u003cb\u003eFamily\u003c/b\u003e - The Kearneys Irish Ancestry of Barack \u003cb\u003eObama\u003c/b\u003e. \u003cbr\u003e  Irish Ancestry of Barack \u003cb\u003eObama\u003c/b\u003e. Barack \u003cb\u003eObama&#39;s\u003c/b\u003e Irish \u003cb\u003eFamily\u003c/b\u003e - The Kearneys \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "X7vzJXgw30kJ",
+   "formattedUrl": "www.origins.net/html-email/ON-obama-familytree.htm",
+   "htmlFormattedUrl": "www.origins.net/html-email/ON-\u003cb\u003eobama\u003c/b\u003e-\u003cb\u003efamilytree\u003c/b\u003e.htm",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.origins.net/html-email/images/familytree1.gif",
+      "type": "1",
+      "width": "151",
+      "height": "333"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Obama's grandfather Stanley Armour Dunham tortured by the British ...",
+   "htmlTitle": "\u003cb\u003eObama&#39;s\u003c/b\u003e grandfather Stanley Armour Dunham tortured by the British \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://www.dailymail.co.uk/news/article-2161817/Obamas-grandfather-Stanley-Armour-Dunham-tortured-British.html",
+   "displayLink": "www.dailymail.co.uk",
+   "snippet": "Jun 19, 2012 ... Family tree: Barack Obama (centre) with his maternal grandparents Stanley   Armour Dunham, (left) and Madelyn Dunham in New York City in ...",
+   "htmlSnippet": "Jun 19, 2012 \u003cb\u003e...\u003c/b\u003e \u003cb\u003eFamily tree\u003c/b\u003e: Barack \u003cb\u003eObama\u003c/b\u003e (centre) with his maternal grandparents Stanley \u003cbr\u003e  Armour Dunham, (left) and Madelyn Dunham in New York City in \u003cb\u003e...\u003c/b\u003e",
+   "formattedUrl": "www.dailymail.co.uk/.../Obamas-grandfather-Stanley-Armour-Dunham- tortured-British.html",
+   "htmlFormattedUrl": "www.dailymail.co.uk/.../\u003cb\u003eObamas\u003c/b\u003e-grandfather-Stanley-Armour-Dunham- tortured-British.html",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://i.dailymail.co.uk/i/pix/2012/06/19/article-2161817-13B18084000005DC-177_638x421.jpg",
+      "type": "1",
+      "width": "276",
+      "height": "182"
+     }
+    ],
+    "article": [
+     {
+      "title": "Obama's grandfather tortured by the British? A fantasy (like most of the President’s own memoir)",
+      "type": "article",
+      "url": "http://www.dailymail.co.uk/news/article-2161817/Obamas-grandfather-Stanley-Armour-Dunham-tortured-British.html",
+      "image": "http://i.dailymail.co.uk/i/pix//2012/06/19/article-2161817-13B18084000005DC-107_89x86.jpg",
+      "site_name": "Mail Online",
+      "app_id": "146202712090395",
+      "description": "A new biography of Barack Obama has established that his grandfather was not, as is related in the President&#8217;s own memoir, detained by the British in Kenya and found that claims that..."
+     }
+    ],
+    "metatags": [
+     {
+      "channel": "News",
+      "msvalidate.01": "12E6B4B813EB44C9BFC8F6A21F1D01F5",
+      "y_key": "1a7e912afbfcab2f",
+      "rating": "General",
+      "doc-class": "Living Document",
+      "original-source": "http://www.dailymail.co.uk/news/article-2161817/Obamas-grandfather-Stanley-Armour-Dunham-tortured-British.html",
+      "divclassbody": "tobyharnden",
+      "articleid": "2161817",
+      "divclasspage": "articlePage",
+      "dartpagetype": "art",
+      "og:title": "Obama's grandfather tortured by the British? A fantasy (like most of the President’s own memoir)",
+      "og:type": "article",
+      "og:url": "http://www.dailymail.co.uk/news/article-2161817/Obamas-grandfather-Stanley-Armour-Dunham-tortured-British.html",
+      "og:image": "http://i.dailymail.co.uk/i/pix//2012/06/19/article-2161817-13B18084000005DC-107_89x86.jpg",
+      "og:site_name": "Mail Online",
+      "fb:app_id": "146202712090395",
+      "og:description": "A new biography of Barack Obama has established that his grandfather was not, as is related in the President&#8217;s own memoir, detained by the British in Kenya and found that claims that he was tortured were a fabrication.",
+      "article:published_time": "2012-06-19 22:15:52 UTC",
+      "article:modified_time": "2012-06-19 22:25:59 UTC",
+      "article:author": "http://www.dailymail.co.uk/home/search.html?s=&authornamef=Toby+Harnden",
+      "article:tag": "Obamas grandfather Stanley Armour Dunham tortured British",
+      "article:section": "News"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "File:Obama family tree.jpg - Wikipedia, the free encyclopedia",
+   "htmlTitle": "File:\u003cb\u003eObama family tree\u003c/b\u003e.jpg - Wikipedia, the free encyclopedia",
+   "link": "http://en.wikipedia.org/wiki/File:Obama_family_tree.jpg",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "File:Obama family tree.jpg. From Wikipedia, the free encyclopedia. Jump to:   navigation, search. File; File history; File usage. File:Obama family tree.jpg ...",
+   "htmlSnippet": "File:\u003cb\u003eObama family tree\u003c/b\u003e.jpg. From Wikipedia, the free encyclopedia. Jump to: \u003cbr\u003e  navigation, search. File; File history; File usage. File:\u003cb\u003eObama family tree\u003c/b\u003e.jpg \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "eo8qDYG23GUJ",
+   "formattedUrl": "en.wikipedia.org/wiki/File:Obama_family_tree.jpg",
+   "htmlFormattedUrl": "en.wikipedia.org/wiki/File:\u003cb\u003eObama\u003c/b\u003e_\u003cb\u003efamily\u003c/b\u003e_\u003cb\u003etree\u003c/b\u003e.jpg",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Obama_family_tree.jpg/800px-Obama_family_tree.jpg",
+      "type": "1",
+      "width": "275",
+      "height": "183"
+     }
+    ],
+    "scraped": [
+     {
+      "image_link": "//upload.wikimedia.org/wikipedia/commons/d/d0/Obama_family_tree.jpg"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "'American Tapestry' explores Michelle Obama's roots - Chicago Sun ...",
+   "htmlTitle": "&#39;American Tapestry&#39; explores Michelle \u003cb\u003eObama&#39;s\u003c/b\u003e roots - Chicago Sun \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://www.suntimes.com/entertainment/books/13274219-421/american-tapestry-explores-michelle-obamas-roots.html",
+   "displayLink": "www.suntimes.com",
+   "snippet": "Jun 18, 2012... lady's elusive family tree. Her book, “American Tapestry: The Story of Black,   White, and Multiracial Ancestors of Michelle Obama” explores a ...",
+   "htmlSnippet": "Jun 18, 2012\u003cb\u003e...\u003c/b\u003e lady&#39;s elusive \u003cb\u003efamily tree\u003c/b\u003e. Her book, “American Tapestry: The Story of Black, \u003cbr\u003e  White, and Multiracial Ancestors of Michelle \u003cb\u003eObama\u003c/b\u003e” explores a \u003cb\u003e...\u003c/b\u003e",
+   "formattedUrl": "www.suntimes.com/.../american-tapestry-explores-michelle-obamas-roots. html",
+   "htmlFormattedUrl": "www.suntimes.com/.../american-tapestry-explores-michelle-\u003cb\u003eobamas\u003c/b\u003e-roots. html",
+   "pagemap": {
+    "metatags": [
+     {
+      "author": "BILL DESOWITZ",
+      "fb:page_id": "47864940833",
+      "msvalidate.01": "BC0C8FE77749982AA355FF1D76E23F2A"
+     }
+    ]
+   }
+  }
+ ]
+}

@@ -1,0 +1,338 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "nextPage": [
+   {
+    "title": "Google Custom Search - getting organized",
+    "totalResults": "27300000",
+    "searchTerms": "getting organized",
+    "count": 10,
+    "startIndex": 101,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "017401104989814545383:mf4lavmtuva"
+   }
+  ],
+  "request": [
+   {
+    "title": "Google Custom Search - getting organized",
+    "totalResults": "27300000",
+    "searchTerms": "getting organized",
+    "count": 10,
+    "startIndex": 91,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "017401104989814545383:mf4lavmtuva"
+   }
+  ],
+  "previousPage": [
+   {
+    "title": "Google Custom Search - getting organized",
+    "totalResults": "27300000",
+    "searchTerms": "getting organized",
+    "count": 10,
+    "startIndex": 81,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "017401104989814545383:mf4lavmtuva"
+   }
+  ]
+ },
+ "context": {
+  "title": "College MetaSearch Comparison"
+ },
+ "searchInformation": {
+  "searchTime": 0.186725,
+  "formattedSearchTime": "0.19",
+  "totalResults": "27300000",
+  "formattedTotalResults": "27,300,000"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "get organized - Lisa LaPorta",
+   "htmlTitle": "\u003cb\u003eget organized\u003c/b\u003e - Lisa LaPorta",
+   "link": "http://www.lisalaporta.com/cat/get-organized",
+   "displayLink": "www.lisalaporta.com",
+   "snippet": "Facebook · Twitter · YouTube · RSS. Login. Sign Up. About.",
+   "htmlSnippet": "Facebook &middot; Twitter &middot; YouTube &middot; RSS. Login. Sign Up. About.",
+   "cacheId": "L9IyJRGLf-8J",
+   "formattedUrl": "www.lisalaporta.com/cat/get-organized",
+   "htmlFormattedUrl": "www.lisalaporta.com/cat/\u003cb\u003eget\u003c/b\u003e-\u003cb\u003eorganized\u003c/b\u003e",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://farm7.staticflickr.com/6239/6997548701_e85fcd2470.jpg",
+      "type": "1",
+      "width": "259",
+      "height": "194"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Focus on Getting Organized",
+   "htmlTitle": "Focus on \u003cb\u003eGetting Organized\u003c/b\u003e",
+   "link": "http://www.extension.purdue.edu/extmedia/CFS/CFS-727-1-W.pdf",
+   "displayLink": "www.extension.purdue.edu",
+   "snippet": "4. Focus on Financial Management, Purdue Extension. Getting Organized. Now   that you've established some goals, it is time to begin making them happen.",
+   "htmlSnippet": "4. Focus on Financial Management, Purdue Extension. \u003cb\u003eGetting Organized\u003c/b\u003e. Now \u003cbr\u003e  that you&#39;ve established some goals, it is time to begin making them happen.",
+   "cacheId": "NS2g7P1uBJYJ",
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat",
+   "formattedUrl": "www.extension.purdue.edu/extmedia/CFS/CFS-727-1-W.pdf",
+   "htmlFormattedUrl": "www.extension.purdue.edu/extmedia/CFS/CFS-727-1-W.pdf",
+   "pagemap": {
+    "metatags": [
+     {
+      "creationdate": "D:20050103073857Z",
+      "creator": "Adobe InDesign CS (3.0.1)",
+      "producer": "Adobe PDF Library 6.0",
+      "moddate": "D:20081223101809-05'00'",
+      "title": "1_Getting_Organized.indd"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Getting Organized with ADHD - RealAge",
+   "htmlTitle": "\u003cb\u003eGetting Organized\u003c/b\u003e with ADHD - RealAge",
+   "link": "http://www.realage.com/managing-adult-adhd/get-organized-despite-your-adhd",
+   "displayLink": "www.realage.com",
+   "snippet": "Having ADHD does not mean you have to live a chaotic life. Learn to organize   your thoughts, your space, your schedule, and your life.",
+   "htmlSnippet": "Having ADHD does not mean you have to live a chaotic life. Learn to \u003cb\u003eorganize\u003c/b\u003e \u003cbr\u003e  your thoughts, your space, your schedule, and your life.",
+   "cacheId": "Lm-1wgC8SIwJ",
+   "formattedUrl": "www.realage.com/managing-adult.../get-organized-despite-your-adhd",
+   "htmlFormattedUrl": "www.realage.com/managing-adult.../\u003cb\u003eget\u003c/b\u003e-\u003cb\u003eorganized\u003c/b\u003e-despite-your-adhd",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.realage.com/cm/realage/images/0n/rec-man-reading-a-book-near-shelves-md.jpg",
+      "type": "1",
+      "width": "225",
+      "height": "225"
+     }
+    ],
+    "metatags": [
+     {
+      "og:title": "Getting Organized with ADHD - RealAge",
+      "og:image": "http://www.realage.com/cm/realage/site_images/realage_v3.gif",
+      "og:site_name": "RealAge.com",
+      "og:type": "article",
+      "og:url": "http://www.realage.com/managing-adult-adhd/get-organized-despite-your-adhd",
+      "fb:app_id": "181082781949137",
+      "og:description": "Having ADHD does not mean you have to live a chaotic life. Learn to organize your thoughts, your space, your schedule, and your life."
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Let's Get Organized :: Home",
+   "htmlTitle": "Let&#39;s \u003cb\u003eGet Organized\u003c/b\u003e :: Home",
+   "link": "http://www.letsgetorganized.org/",
+   "displayLink": "www.letsgetorganized.org",
+   "snippet": "Mpls Personal Organization Services for scrapbookers to home offices | Your Life  , Work, Hobby... Simplified ... Organized.",
+   "htmlSnippet": "Mpls Personal \u003cb\u003eOrganization\u003c/b\u003e Services for scrapbookers to home offices | Your Life\u003cbr\u003e  , Work, Hobby... Simplified ... \u003cb\u003eOrganized\u003c/b\u003e.",
+   "cacheId": "3UX8rCjrOIwJ",
+   "formattedUrl": "www.letsgetorganized.org/",
+   "htmlFormattedUrl": "www.lets\u003cb\u003egetorganized\u003c/b\u003e.org/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.letsgetorganized.org/userfiles/images/IMG_0379(155)_200x200o.JPG",
+      "type": "1",
+      "width": "213",
+      "height": "160"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Frugal Order: A Tightwad's Guide To Getting Organized | Organized ...",
+   "htmlTitle": "Frugal Order: A Tightwad&#39;s Guide To \u003cb\u003eGetting Organized\u003c/b\u003e | Organized \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://organizedhome.com/time-money/tightwad-guide-getting-organized",
+   "displayLink": "organizedhome.com",
+   "snippet": "Save money on organizing and don't fall for the \"buy me\" trap of commercial   organizing. Be a frugal organizer and cut the clutter for less!",
+   "htmlSnippet": "Save money on \u003cb\u003eorganizing\u003c/b\u003e and don&#39;t fall for the &quot;buy me&quot; trap of commercial \u003cbr\u003e  \u003cb\u003eorganizing\u003c/b\u003e. Be a frugal organizer and cut the clutter for less!",
+   "cacheId": "Oatch_rItccJ",
+   "formattedUrl": "organizedhome.com/time-money/tightwad-guide-getting-organized",
+   "htmlFormattedUrl": "\u003cb\u003eorganized\u003c/b\u003ehome.com/time-money/tightwad-guide-\u003cb\u003egetting\u003c/b\u003e-\u003cb\u003eorganized\u003c/b\u003e",
+   "pagemap": {
+    "metatags": [
+     {
+      "readability-verification": "uSTqKkkC293hnsDYtUhxkB5pcErKAxK8XCehcZWx",
+      "copyright": "Copyright © 1993-2010 by Threadneedle Press LLC",
+      "abstract": "Clean house, cut clutter and get organized at home with articles and free printable household notebook"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Tip for Getting More Organized: Don't - Michael Schrage - Harvard ...",
+   "htmlTitle": "Tip for \u003cb\u003eGetting\u003c/b\u003e More \u003cb\u003eOrganized\u003c/b\u003e: Don&#39;t - Michael Schrage - Harvard \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://blogs.hbr.org/schrage/2012/01/tip-for-getting-more-organized.html",
+   "displayLink": "blogs.hbr.org",
+   "snippet": "by Michael Schrage | 11:39 AM January 12, 2012. Comments. How much time do   you spend each day getting better organized? Cut it in half. When it comes to ...",
+   "htmlSnippet": "by Michael Schrage | 11:39 AM January 12, 2012. Comments. How much time do \u003cbr\u003e  you spend each day \u003cb\u003egetting\u003c/b\u003e better \u003cb\u003eorganized\u003c/b\u003e? Cut it in half. When it comes to \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "b6IsNH9eIyEJ",
+   "formattedUrl": "blogs.hbr.org/schrage/2012/01/tip-for-getting-more-organized.html",
+   "htmlFormattedUrl": "blogs.hbr.org/schrage/2012/01/tip-for-\u003cb\u003egetting\u003c/b\u003e-more-\u003cb\u003eorganized\u003c/b\u003e.html",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://static.hbr.org/hbrg-main/resources/images/hbr_opengraph_360x185.png"
+     }
+    ],
+    "metatags": [
+     {
+      "og:site_name": "Harvard Business Review",
+      "og:url": "http://blogs.hbr.org/schrage/2012/01/tip-for-getting-more-organized.html",
+      "og:type": "blog",
+      "og:image": "http://static.hbr.org/hbrg-main/resources/images/hbr_opengraph_360x185.png",
+      "og:title": "Tip for Getting More Organized:  Don't",
+      "og:description": "How much time do you spend each day getting better organized? Cut it in half. When it comes to investing time, thought and effort into productively organizing oneself, less is more. In fact, not only is less more, research suggests it may be faster, better and cheaper. IBM researchers observed that email users who \"searched\" rather than set up files and folders for their correspondence typically found what they were looking for faster and with...",
+      "blogger": "Michael Schrage",
+      "categories": "Managing yourself, Personal effectiveness, Technology",
+      "content_origin": "blog"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "33 Ways to Get Organized with Adult ADHD",
+   "htmlTitle": "33 Ways to \u003cb\u003eGet Organized\u003c/b\u003e with Adult ADHD",
+   "link": "http://www.additudemag.com/adhd/article/729.html",
+   "displayLink": "www.additudemag.com",
+   "snippet": "Get organized with adult ADHD thanks to 33 time management tips and   organization advice for parents with attention deficit disorder. ADHD symptoms ...",
+   "htmlSnippet": "\u003cb\u003eGet organized\u003c/b\u003e with adult ADHD thanks to 33 time management tips and \u003cbr\u003e  organization advice for parents with attention deficit disorder. ADHD symptoms \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "UdSR6fM-Qa8J",
+   "formattedUrl": "www.additudemag.com/adhd/article/729.html",
+   "htmlFormattedUrl": "www.additudemag.com/adhd/article/729.html",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://add-assets.com/asset/165.jpg",
+      "type": "1",
+      "width": "160",
+      "height": "166"
+     }
+    ],
+    "thumbnail": [
+     {
+      "src": "http://add-assets.com/thumb/165.jpg"
+     }
+    ],
+    "metatags": [
+     {
+      "title": "Get Organized with Adult ADHD at Work and at Home | ADDitude - Attention Deficit Information and Resources",
+      "copyright": "Copyright (c) 1998  - 2008 New Hope Media LLC.  All rights reserved.",
+      "og:title": "33 Ways to Get Organized with Adult ADHD",
+      "og:description": "Want a clean home? An efficient office? Get organized with adult ADHD thanks to organizing guru Judith Kolberg and her 33 top strategies for work and home.",
+      "thumbnail": "http://add-assets.com/thumb/165.jpg",
+      "og:image": "http://add-assets.com/asset/165.jpg",
+      "gazette-template": "/www_additudemag_com/__templates__/MagazinePub/article.html",
+      "gazette-wrapper": "/__macros__/wrapper_magazine.html",
+      "gazette-version": "v2.5 Phoenix 3411"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "EP106 Getting Organized: Making Time for Your Community",
+   "htmlTitle": "EP106 \u003cb\u003eGetting Organized\u003c/b\u003e: Making Time for Your Community",
+   "link": "http://www.ksre.ksu.edu/library/famlf2/ep106.pdf",
+   "displayLink": "www.ksre.ksu.edu",
+   "snippet": "Getting Organized. Kansas State University Agricultural Experiment Station and   Cooperative Extension Service. Fact. Sheet. Business people, employees ...",
+   "htmlSnippet": "\u003cb\u003eGetting Organized\u003c/b\u003e. Kansas State University Agricultural Experiment Station and \u003cbr\u003e  Cooperative Extension Service. Fact. Sheet. Business people, employees \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "zZCis95xRAkJ",
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat",
+   "formattedUrl": "www.ksre.ksu.edu/library/famlf2/ep106.pdf",
+   "htmlFormattedUrl": "www.ksre.ksu.edu/library/famlf2/ep106.pdf",
+   "pagemap": {
+    "metatags": [
+     {
+      "creationdate": "D:20010716150308",
+      "producer": "Acrobat Distiller 4.05 for Macintosh",
+      "creator": "Adobe PageMaker 6.52",
+      "title": "EP106 Getting Organized: Making Time for Your Community",
+      "author": "Emily Mark",
+      "moddate": "D:20010716150404-06'00'"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Amazon.com: The Spirit of Getting Organized: 12 Skills to Find ...",
+   "htmlTitle": "Amazon.com: The Spirit of \u003cb\u003eGetting Organized\u003c/b\u003e: 12 Skills to Find \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://www.amazon.com/The-Spirit-Getting-Organized-Meaning/dp/1590030249",
+   "displayLink": "www.amazon.com",
+   "snippet": "The Spirit of Getting Organized: 12 Skills to Find Meaning and Power in Your   Stuff [Pamela Kristan] on Amazon.com. *FREE* super saver shipping on   qualifying ...",
+   "htmlSnippet": "The Spirit of \u003cb\u003eGetting Organized\u003c/b\u003e: 12 Skills to Find Meaning and Power in Your \u003cbr\u003e  Stuff [Pamela Kristan] on Amazon.com. *FREE* super saver shipping on \u003cbr\u003e  qualifying \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "TKjMSriJXqAJ",
+   "formattedUrl": "www.amazon.com/The-Spirit-Getting-Organized.../1590030249",
+   "htmlFormattedUrl": "www.amazon.com/The-Spirit-\u003cb\u003eGetting\u003c/b\u003e-\u003cb\u003eOrganized\u003c/b\u003e.../1590030249",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://ecx.images-amazon.com/images/I/41PZD8QES5L._BO2,204,203,200_PIsitb-sticker-arrow-click,TopRight,35,-76_AA300_SH20_OU01_.jpg"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "225",
+      "height": "225",
+      "src": "https://encrypted-tbn1.google.com/images?q=tbn:ANd9GcRjg_yyhGTExq6k6j5FWUvtQPL4nrtQesVRqLYxtlyjVbeBaP0FgXDbcbE"
+     }
+    ],
+    "scraped": [
+     {
+      "image_link": "http://ecx.images-amazon.com/images/I/41PZD8QES5L._BO2,204,203,200_PIsitb-sticker-arrow-click,TopRight,35,-76_AA300_SH20_OU01_.jpg"
+     }
+    ],
+    "metatags": [
+     {
+      "title": "Amazon.com: The Spirit of Getting Organized: 12 Skills to Find Meaning and Power in Your Stuff (9781590030240): Pamela Kristan: Books"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Get Organized with Cyndi Seidler - new DVD!",
+   "htmlTitle": "\u003cb\u003eGet Organized\u003c/b\u003e with Cyndi Seidler - new DVD!",
+   "link": "http://www.getorganizedwithcyndi.com/",
+   "displayLink": "www.getorganizedwithcyndi.com",
+   "snippet": "DVD Get Organized with Cyndi Seidler at stores nationwide. Featuring Organize   Clutter.",
+   "htmlSnippet": "DVD \u003cb\u003eGet Organized\u003c/b\u003e with Cyndi Seidler at stores nationwide. Featuring Organize \u003cbr\u003e  Clutter.",
+   "cacheId": "8MepOVK82RsJ",
+   "formattedUrl": "www.getorganizedwithcyndi.com/",
+   "htmlFormattedUrl": "www.\u003cb\u003egetorganized\u003c/b\u003ewithcyndi.com/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.getorganizedwithcyndi.com/images/top-getorganized3.gif",
+      "type": "1",
+      "width": "360",
+      "height": "140"
+     }
+    ]
+   }
+  }
+ ]
+}

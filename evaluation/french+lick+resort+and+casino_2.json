@@ -1,0 +1,336 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "nextPage": [
+   {
+    "title": "Google Custom Search - french lick resort and casino",
+    "totalResults": "23600",
+    "searchTerms": "french lick resort and casino",
+    "count": 10,
+    "startIndex": 31,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "017401104989814545383:mf4lavmtuva"
+   }
+  ],
+  "request": [
+   {
+    "title": "Google Custom Search - french lick resort and casino",
+    "totalResults": "23600",
+    "searchTerms": "french lick resort and casino",
+    "count": 10,
+    "startIndex": 21,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "017401104989814545383:mf4lavmtuva"
+   }
+  ],
+  "previousPage": [
+   {
+    "title": "Google Custom Search - french lick resort and casino",
+    "totalResults": "23600",
+    "searchTerms": "french lick resort and casino",
+    "count": 10,
+    "startIndex": 11,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "017401104989814545383:mf4lavmtuva"
+   }
+  ]
+ },
+ "context": {
+  "title": "College MetaSearch Comparison"
+ },
+ "searchInformation": {
+  "searchTime": 0.393588,
+  "formattedSearchTime": "0.39",
+  "totalResults": "23600",
+  "formattedTotalResults": "23,600"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "Golf | French Lick Resort | French Lick Resort",
+   "htmlTitle": "Golf | \u003cb\u003eFrench Lick Resort\u003c/b\u003e | \u003cb\u003eFrench Lick Resort\u003c/b\u003e",
+   "link": "http://www.frenchlick.com/golf/",
+   "displayLink": "www.frenchlick.com",
+   "snippet": "Quite simply French Lick Resort is two hotels, each with an historic past that has   been ... at restaurants, bowling, visiting the spa, playing in the casino and more.",
+   "htmlSnippet": "Quite simply \u003cb\u003eFrench Lick Resort\u003c/b\u003e is two hotels, each with an historic past that has \u003cbr\u003e  been \u003cb\u003e...\u003c/b\u003e at restaurants, bowling, visiting the spa, playing in the \u003cb\u003ecasino\u003c/b\u003e and more.",
+   "cacheId": "3df83VrO7igJ",
+   "formattedUrl": "www.frenchlick.com/golf/",
+   "htmlFormattedUrl": "www.\u003cb\u003efrenchlick\u003c/b\u003e.com/golf/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.frenchlick.com/sites/default/files/images/golf_root.jpg",
+      "type": "1",
+      "width": "245",
+      "height": "206"
+     }
+    ],
+    "Document": [
+     {
+      "encoded": "Play Golf French Lick Resort A golf enthusiast's paradise. Few things get the blood pumping like the mention of Donald Ross, Pete Dye and Tom Bendelow in the same sentence. Nowhere else in..."
+     }
+    ],
+    "metatags": [
+     {
+      "sioc:num_replies": "0",
+      "dc:title": "Golf | French Lick Resort"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Indiana Golf Schools - French Lick Springs Resort & Casino - French ...",
+   "htmlTitle": "Indiana Golf Schools - \u003cb\u003eFrench Lick\u003c/b\u003e Springs \u003cb\u003eResort\u003c/b\u003e &amp; \u003cb\u003eCasino\u003c/b\u003e - French \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://www.indianagolfschools.com/locations/French-Lick-Resort.asp",
+   "displayLink": "www.indianagolfschools.com",
+   "snippet": "Catch the excitement. The casino at French Lick Resort is a 51000 square foot   Vegas-style gaming facility all on one floor with soaring 27-foot ceilings. A newly ...",
+   "htmlSnippet": "Catch the excitement. The \u003cb\u003ecasino\u003c/b\u003e at \u003cb\u003eFrench Lick Resort\u003c/b\u003e is a 51000 square foot \u003cbr\u003e  Vegas-style gaming facility all on one floor with soaring 27-foot ceilings. A newly \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "_yh6FYhR-gcJ",
+   "formattedUrl": "www.indianagolfschools.com/locations/French-Lick-Resort.asp",
+   "htmlFormattedUrl": "www.indianagolfschools.com/locations/\u003cb\u003eFrench\u003c/b\u003e-\u003cb\u003eLick\u003c/b\u003e-\u003cb\u003eResort\u003c/b\u003e.asp"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Dining | French Lick Springs Hotel | French Lick Resort",
+   "htmlTitle": "Dining | \u003cb\u003eFrench Lick\u003c/b\u003e Springs Hotel | \u003cb\u003eFrench Lick Resort\u003c/b\u003e",
+   "link": "http://www.frenchlick.com/hotels/frenchlick/dining",
+   "displayLink": "www.frenchlick.com",
+   "snippet": "Quite simply French Lick Resort is two hotels, each with an historic past that has   been ... at restaurants, bowling, visiting the spa, playing in the casino and more.",
+   "htmlSnippet": "Quite simply \u003cb\u003eFrench Lick Resort\u003c/b\u003e is two hotels, each with an historic past that has \u003cbr\u003e  been \u003cb\u003e...\u003c/b\u003e at restaurants, bowling, visiting the spa, playing in the \u003cb\u003ecasino\u003c/b\u003e and more.",
+   "cacheId": "WHVTEnIP4HUJ",
+   "formattedUrl": "www.frenchlick.com/hotels/frenchlick/dining",
+   "htmlFormattedUrl": "www.\u003cb\u003efrenchlick\u003c/b\u003e.com/hotels/\u003cb\u003efrenchlick\u003c/b\u003e/dining",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.frenchlick.com/sites/default/files/images/FL_Dining_0.jpeg",
+      "type": "1",
+      "width": "245",
+      "height": "206"
+     }
+    ],
+    "Document": [
+     {
+      "encoded": "Hotel Dining Experience delightful tastes from an eclectic assortment of dining options at French Lick Springs Hotel. 1875: The Steakhouse Our elegant steakhouse has an open kitchen and a unique..."
+     }
+    ],
+    "metatags": [
+     {
+      "sioc:num_replies": "0",
+      "dc:title": "Dining | French Lick Springs Hotel"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Hotels Near French Lick Resort Casino, Hotel close to French Lick ...",
+   "htmlTitle": "Hotels Near \u003cb\u003eFrench Lick Resort Casino\u003c/b\u003e, Hotel close to French Lick \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://www.hotelplanner.com/Hotels/13103-NEAR-French-Lick-Resort-Casino",
+   "displayLink": "www.hotelplanner.com",
+   "snippet": "Hotels near or close to French Lick Resort Casino in French Lick IN Indiana. Find   deals, discounts, maps, websites, reviews, and phone numbers for cheap ...",
+   "htmlSnippet": "Hotels near or close to \u003cb\u003eFrench Lick Resort Casino\u003c/b\u003e in French Lick IN Indiana. Find \u003cbr\u003e  deals, discounts, maps, websites, reviews, and phone numbers for cheap \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "Fx2C08ZUtXkJ",
+   "formattedUrl": "www.hotelplanner.com/.../13103-NEAR-French-Lick-Resort-Casino",
+   "htmlFormattedUrl": "www.hotelplanner.com/.../13103-NEAR-\u003cb\u003eFrench\u003c/b\u003e-\u003cb\u003eLick\u003c/b\u003e-\u003cb\u003eResort\u003c/b\u003e-\u003cb\u003eCasino\u003c/b\u003e",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://cdn.hotelplanner.com/Common/Images/Landmarks/13103.jpg",
+      "type": "1",
+      "width": "121",
+      "height": "52"
+     }
+    ],
+    "metatags": [
+     {
+      "language": "english",
+      "expires": "never"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "History | French Lick Springs Hotel | French Lick Resort",
+   "htmlTitle": "History | \u003cb\u003eFrench Lick\u003c/b\u003e Springs Hotel | \u003cb\u003eFrench Lick Resort\u003c/b\u003e",
+   "link": "http://www.frenchlick.com/aboutus/history/flsh",
+   "displayLink": "www.frenchlick.com",
+   "snippet": "Quite simply French Lick Resort is two hotels, each with an historic past that has   been ... at restaurants, bowling, visiting the spa, playing in the casino and more.",
+   "htmlSnippet": "Quite simply \u003cb\u003eFrench Lick Resort\u003c/b\u003e is two hotels, each with an historic past that has \u003cbr\u003e  been \u003cb\u003e...\u003c/b\u003e at restaurants, bowling, visiting the spa, playing in the \u003cb\u003ecasino\u003c/b\u003e and more.",
+   "cacheId": "1_r5-k9euRwJ",
+   "formattedUrl": "www.frenchlick.com/aboutus/history/flsh",
+   "htmlFormattedUrl": "www.\u003cb\u003efrenchlick\u003c/b\u003e.com/aboutus/history/flsh",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.frenchlick.com/sites/default/files/images/Fl_History_0.jpg",
+      "type": "1",
+      "width": "245",
+      "height": "206"
+     }
+    ],
+    "Document": [
+     {
+      "encoded": "Hotel History For nearly 170 years there has been a lodging establishment operating at the current site of French Lick Springs Hotel. It all began in 1845, when Dr. William Bowles, a physician..."
+     }
+    ],
+    "metatags": [
+     {
+      "sioc:num_replies": "0",
+      "dc:title": "History | French Lick Springs Hotel"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "French Lick Hotels, Motels",
+   "htmlTitle": "\u003cb\u003eFrench Lick\u003c/b\u003e Hotels, Motels",
+   "link": "http://hotelguides.com/indiana/french-lick-in-hotels.html",
+   "displayLink": "hotelguides.com",
+   "snippet": "Compare discount rates for French Lick, Indiana IN hotels and motels. Plus hotel   ... Upscale, casino, spa resort 7 floors, 443 rooms and suites - AAA 4 Diamonds ...",
+   "htmlSnippet": "Compare discount rates for \u003cb\u003eFrench Lick\u003c/b\u003e, Indiana IN hotels and motels. Plus hotel \u003cbr\u003e  \u003cb\u003e...\u003c/b\u003e Upscale, \u003cb\u003ecasino\u003c/b\u003e, spa \u003cb\u003eresort\u003c/b\u003e 7 floors, 443 rooms and suites - AAA 4 Diamonds \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "rQTKEynQVqAJ",
+   "formattedUrl": "hotelguides.com/indiana/french-lick-in-hotels.html",
+   "htmlFormattedUrl": "hotelguides.com/indiana/\u003cb\u003efrench\u003c/b\u003e-\u003cb\u003elick\u003c/b\u003e-in-hotels.html",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://hotels.hotelguides.com/i/thumbs/194860.jpg",
+      "type": "1",
+      "width": "240",
+      "height": "171"
+     }
+    ],
+    "metatags": [
+     {
+      "og:image": "http://hotelguides.com/i/hg-logo-p.jpg"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "History | West Baden Springs Hotel | French Lick Resort",
+   "htmlTitle": "History | West Baden Springs Hotel | \u003cb\u003eFrench Lick Resort\u003c/b\u003e",
+   "link": "http://www.frenchlick.com/aboutus/history/wbsh",
+   "displayLink": "www.frenchlick.com",
+   "snippet": "Quite simply French Lick Resort is two hotels, each with an historic past that has   been ... at restaurants, bowling, visiting the spa, playing in the casino and more.",
+   "htmlSnippet": "Quite simply \u003cb\u003eFrench Lick Resort\u003c/b\u003e is two hotels, each with an historic past that has \u003cbr\u003e  been \u003cb\u003e...\u003c/b\u003e at restaurants, bowling, visiting the spa, playing in the \u003cb\u003ecasino\u003c/b\u003e and more.",
+   "cacheId": "l532pMYHrLsJ",
+   "formattedUrl": "www.frenchlick.com/aboutus/history/wbsh",
+   "htmlFormattedUrl": "www.\u003cb\u003efrenchlick\u003c/b\u003e.com/aboutus/history/wbsh",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.frenchlick.com/sites/default/files/images/WB_History_0.jpeg",
+      "type": "1",
+      "width": "245",
+      "height": "206"
+     }
+    ],
+    "Document": [
+     {
+      "encoded": "Hotel History Creation of \"The Eighth Wonder of the World\" In 1855 the Mile Lick Hotel was built to capitalize on the abundance of mineral springs in the area. The name was later changed to..."
+     }
+    ],
+    "metatags": [
+     {
+      "sioc:num_replies": "0",
+      "dc:title": "History | West Baden Springs Hotel"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "French Lick Resort",
+   "htmlTitle": "\u003cb\u003eFrench Lick Resort\u003c/b\u003e",
+   "link": "http://www.tripadvisor.com/Hotel_Review-g37130-d91236-Reviews-French_Lick_Resort-French_Lick_Indiana.html",
+   "displayLink": "www.tripadvisor.com",
+   "snippet": "Casino real nice, not seedy at all. Was this review helpful? Yes. Problem with this   review? FrenchLickResort, Public Relations Manager at French Lick Resort, ...",
+   "htmlSnippet": "\u003cb\u003eCasino\u003c/b\u003e real nice, not seedy at all. Was this review helpful? Yes. Problem with this \u003cbr\u003e  review? \u003cb\u003eFrenchLickResort\u003c/b\u003e, Public Relations Manager at \u003cb\u003eFrench Lick Resort\u003c/b\u003e, \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "_hLGk7bFeSwJ",
+   "formattedUrl": "www.tripadvisor.com/Hotel_Review-g37130-d91236-Reviews-French_Lick_ Resort-French_Lick_Indiana.html",
+   "htmlFormattedUrl": "www.tripadvisor.com/Hotel_Review-g37130-d91236-Reviews-\u003cb\u003eFrench\u003c/b\u003e_\u003cb\u003eLick\u003c/b\u003e_ \u003cb\u003eResort\u003c/b\u003e-\u003cb\u003eFrench\u003c/b\u003e_\u003cb\u003eLick\u003c/b\u003e_Indiana.html",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://media-cdn.tripadvisor.com/media/photo-s/01/ce/15/35/french-lick-springs-hotel.jpg",
+      "type": "1",
+      "width": "356",
+      "height": "141"
+     }
+    ],
+    "metatags": [
+     {
+      "og:image": "http://c1.tacdn.com/img2/postimg.jpg"
+     }
+    ],
+    "review": [
+     {
+      "ratingstars": "4.0",
+      "ratingcount": "223",
+      "pricerange": "$$",
+      "image_url": "http://media-cdn.tripadvisor.com/media/photo-s/01/ce/15/35/french-lick-springs-hotel.jpg"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Concerts at French Lick Resort & Casino, French Lick – Last.fm",
+   "htmlTitle": "Concerts at \u003cb\u003eFrench Lick Resort\u003c/b\u003e &amp; \u003cb\u003eCasino\u003c/b\u003e, \u003cb\u003eFrench Lick\u003c/b\u003e – Last.fm",
+   "link": "http://www.last.fm/venue/8828727+French+Lick+Resort+%2526+Casino",
+   "displayLink": "www.last.fm",
+   "snippet": "The French Lick Resort & Casino is a resort and casino complex located in the   towns of West Baden and French Lick, Indiana. The complex includes two historic ...",
+   "htmlSnippet": "The \u003cb\u003eFrench Lick\u003c/b\u003e Resort &amp; Casino is a \u003cb\u003eresort and casino\u003c/b\u003e complex located in the \u003cbr\u003e  towns of West Baden and \u003cb\u003eFrench Lick\u003c/b\u003e, Indiana. The complex includes two historic \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "cikO0ZGGjmYJ",
+   "formattedUrl": "www.last.fm/venue/8828727+French+Lick+Resort+%2526+Casino",
+   "htmlFormattedUrl": "www.last.fm/venue/8828727+\u003cb\u003eFrench\u003c/b\u003e+\u003cb\u003eLick\u003c/b\u003e+\u003cb\u003eResort\u003c/b\u003e+%2526+\u003cb\u003eCasino\u003c/b\u003e",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://userserve-ak.last.fm/serve/126/401315.jpg",
+      "type": "1",
+      "width": "100",
+      "height": "67"
+     }
+    ],
+    "metatags": [
+     {
+      "og:site_name": "Last.fm",
+      "fb:app_id": "192959324047861",
+      "og:title": "French Lick Resort & Casino",
+      "og:url": "http://www.last.fm/venue/8828727+French+Lick+Resort+%2526+Casino",
+      "og:image": "http://userserve-ak.last.fm/serve/126/401315.jpg"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "VIP French Lick Spring Resort & Casino - French Lick, IN",
+   "htmlTitle": "VIP \u003cb\u003eFrench Lick\u003c/b\u003e Spring \u003cb\u003eResort\u003c/b\u003e &amp; \u003cb\u003eCasino\u003c/b\u003e - \u003cb\u003eFrench Lick\u003c/b\u003e, IN",
+   "link": "http://indianagolfschools.com/locations/vip-french-lick.asp",
+   "displayLink": "indianagolfschools.com",
+   "snippet": "FRENCH LICK SPRINGS RESORT & CASINO – FRENCH LICK, IN. VIP   SCHOOL WITH 2 TIME TEACHER OF THE YEAR, MITCHELL A. CRUM ...",
+   "htmlSnippet": "\u003cb\u003eFRENCH LICK\u003c/b\u003e SPRINGS \u003cb\u003eRESORT\u003c/b\u003e &amp; \u003cb\u003eCASINO\u003c/b\u003e – \u003cb\u003eFRENCH LICK\u003c/b\u003e, IN. VIP \u003cbr\u003e  SCHOOL WITH 2 TIME TEACHER OF THE YEAR, MITCHELL A. CRUM \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "kaME_7QVtRwJ",
+   "formattedUrl": "indianagolfschools.com/locations/vip-french-lick.asp",
+   "htmlFormattedUrl": "indianagolfschools.com/locations/vip-\u003cb\u003efrench\u003c/b\u003e-\u003cb\u003elick\u003c/b\u003e.asp"
+  }
+ ]
+}

@@ -1,0 +1,428 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "nextPage": [
+   {
+    "title": "Google Custom Search - disneyland hotel",
+    "totalResults": "6620000",
+    "searchTerms": "disneyland hotel",
+    "count": 10,
+    "startIndex": 91,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "017401104989814545383:mf4lavmtuva"
+   }
+  ],
+  "request": [
+   {
+    "title": "Google Custom Search - disneyland hotel",
+    "totalResults": "6620000",
+    "searchTerms": "disneyland hotel",
+    "count": 10,
+    "startIndex": 81,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "017401104989814545383:mf4lavmtuva"
+   }
+  ],
+  "previousPage": [
+   {
+    "title": "Google Custom Search - disneyland hotel",
+    "totalResults": "6620000",
+    "searchTerms": "disneyland hotel",
+    "count": 10,
+    "startIndex": 71,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "017401104989814545383:mf4lavmtuva"
+   }
+  ]
+ },
+ "context": {
+  "title": "College MetaSearch Comparison"
+ },
+ "searchInformation": {
+  "searchTime": 0.211204,
+  "formattedSearchTime": "0.21",
+  "totalResults": "6620000",
+  "formattedTotalResults": "6,620,000"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "Photos of Tokyo Disneyland Hotel, Urayasu - Hotel Images ...",
+   "htmlTitle": "Photos of Tokyo \u003cb\u003eDisneyland Hotel\u003c/b\u003e, Urayasu - Hotel Images \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://www.tripadvisor.com/LocationPhotos-g298162-d1087601-Tokyo_Disneyland_Hotel-Urayasu_Chiba_Prefecture_Kanto.html",
+   "displayLink": "www.tripadvisor.com",
+   "snippet": "Tokyo Disneyland Hotel photos: Check out TripAdvisor members' 133 candid   pictures of Tokyo Disneyland Hotel in Urayasu, Chiba Prefecture.",
+   "htmlSnippet": "Tokyo \u003cb\u003eDisneyland Hotel\u003c/b\u003e photos: Check out TripAdvisor members&#39; 133 candid \u003cbr\u003e  pictures of Tokyo \u003cb\u003eDisneyland Hotel\u003c/b\u003e in Urayasu, Chiba Prefecture.",
+   "cacheId": "x-LORPYpH3wJ",
+   "formattedUrl": "www.tripadvisor.com/LocationPhotos-g298162-d1087601-Tokyo_ Disneyland_Hotel-Urayasu_Chiba_Prefecture_Kanto.html",
+   "htmlFormattedUrl": "www.tripadvisor.com/LocationPhotos-g298162-d1087601-Tokyo_ \u003cb\u003eDisneyland\u003c/b\u003e_\u003cb\u003eHotel\u003c/b\u003e-Urayasu_Chiba_Prefecture_Kanto.html",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://c1.tacdn.com/img2/postimg.jpg"
+     }
+    ],
+    "metatags": [
+     {
+      "og:image": "http://c1.tacdn.com/img2/postimg.jpg",
+      "relativepagescore": "330000"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Disneyland® Resort Hotels, Good Neighbor Hotels, Other Anaheim ...",
+   "htmlTitle": "\u003cb\u003eDisneyland\u003c/b\u003e® Resort \u003cb\u003eHotels\u003c/b\u003e, Good Neighbor \u003cb\u003eHotels\u003c/b\u003e, Other Anaheim \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://www.expedia.com/daily/vacations/disneyland/disneyland-hotels.asp",
+   "displayLink": "www.expedia.com",
+   "snippet": "It's easy to find and book your perfect Disneyland ® Anaheim hotel on Expedia.",
+   "htmlSnippet": "It&#39;s easy to find and book your perfect \u003cb\u003eDisneyland\u003c/b\u003e ® Anaheim \u003cb\u003ehotel\u003c/b\u003e on Expedia.",
+   "cacheId": "m-l3BrhNX4gJ",
+   "formattedUrl": "www.expedia.com/daily/vacations/disneyland/disneyland-hotels.asp",
+   "htmlFormattedUrl": "www.expedia.com/daily/vacations/\u003cb\u003edisneyland\u003c/b\u003e/\u003cb\u003edisneyland\u003c/b\u003e-\u003cb\u003ehotels\u003c/b\u003e.asp",
+   "pagemap": {
+    "product": [
+     {
+      "image": "http://media.expedia.com/media/content/shared/images/navigation/expedia.com.png?v=1"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "http://media.expedia.com/media/content/expus/graphics/promos/vacations/disney/Disney_Resort_Parks_Map.gif",
+      "type": "1",
+      "width": "290",
+      "height": "174"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Photos of Disneyland Hotel, Marne-la-Vallee - Hotel Images ...",
+   "htmlTitle": "Photos of \u003cb\u003eDisneyland Hotel\u003c/b\u003e, Marne-la-Vallee - Hotel Images \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://www.tripadvisor.com/LocationPhotos-g226865-d235644-Disneyland_Hotel-Marne_la_Vallee_Seine_et_Marne_Ile_de_France.html",
+   "displayLink": "www.tripadvisor.com",
+   "snippet": "Disneyland Hotel photos: Check out TripAdvisor members' 450 candid pictures of   Disneyland Hotel in Marne-la-Vallee, Seine-et-Marne.",
+   "htmlSnippet": "\u003cb\u003eDisneyland Hotel\u003c/b\u003e photos: Check out TripAdvisor members&#39; 450 candid pictures of \u003cbr\u003e  \u003cb\u003eDisneyland Hotel\u003c/b\u003e in Marne-la-Vallee, Seine-et-Marne.",
+   "cacheId": "QYH_bFXOd8gJ",
+   "formattedUrl": "www.tripadvisor.com/LocationPhotos-g226865-d235644-Disneyland_Hotel- Marne_la_Vallee_Seine_et_Marne_Ile_de_France.html",
+   "htmlFormattedUrl": "www.tripadvisor.com/LocationPhotos-g226865-d235644-\u003cb\u003eDisneyland\u003c/b\u003e_\u003cb\u003eHotel\u003c/b\u003e- Marne_la_Vallee_Seine_et_Marne_Ile_de_France.html",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://media-cdn.tripadvisor.com/media/photo-s/02/9d/96/74/filename-wp-000233-jpg.jpg",
+      "type": "1",
+      "width": "259",
+      "height": "194"
+     }
+    ],
+    "metatags": [
+     {
+      "og:image": "http://c1.tacdn.com/img2/postimg.jpg",
+      "relativepagescore": "330000"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Disneyland hotels Anaheim",
+   "htmlTitle": "\u003cb\u003eDisneyland hotels\u003c/b\u003e Anaheim",
+   "link": "http://www.yelp.com/search?find_desc=Disneyland+Hotels&find_loc=Anaheim%2C+CA",
+   "displayLink": "www.yelp.com",
+   "snippet": "Reviews on Disneyland hotels in Anaheim - Disney's Paradise Pier Hotel,   Disneyland Resort, Disneyland Hotel, Disney's Grand Californian Hotel, Fairfield   Inn ...",
+   "htmlSnippet": "Reviews on \u003cb\u003eDisneyland hotels\u003c/b\u003e in Anaheim - Disney&#39;s Paradise Pier Hotel, \u003cbr\u003e  Disneyland Resort, \u003cb\u003eDisneyland Hotel\u003c/b\u003e, Disney&#39;s Grand Californian Hotel, Fairfield \u003cbr\u003e  Inn \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "x7YC17IP_pMJ",
+   "formattedUrl": "www.yelp.com/search?find_desc=Disneyland+Hotels&find_loc...",
+   "htmlFormattedUrl": "www.yelp.com/search?find_desc=\u003cb\u003eDisneyland\u003c/b\u003e+\u003cb\u003eHotels\u003c/b\u003e&amp;find_loc...",
+   "pagemap": {
+    "metatags": [
+     {
+      "relativepagescore": "650000"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Disneyland Hotel, Anaheim Hotels",
+   "htmlTitle": "\u003cb\u003eDisneyland Hotel\u003c/b\u003e, Anaheim Hotels",
+   "link": "http://hotels.about.com/od/anaheim/p/sna_disneyland.htm",
+   "displayLink": "hotels.about.com",
+   "snippet": "The original Disneyland hotel combines an air of magic wherever you turn with   superb service, attention to detail and the best in imaginative design.",
+   "htmlSnippet": "The original \u003cb\u003eDisneyland hotel\u003c/b\u003e combines an air of magic wherever you turn with \u003cbr\u003e  superb service, attention to detail and the best in imaginative design.",
+   "cacheId": "VuyfkAujGT4J",
+   "formattedUrl": "hotels.about.com/od/anaheim/p/sna_disneyland.htm",
+   "htmlFormattedUrl": "\u003cb\u003ehotels\u003c/b\u003e.about.com/od/anaheim/p/sna_\u003cb\u003edisneyland\u003c/b\u003e.htm",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://0.tqn.com/d/hotels/1/G/M/3/PRexterior250.jpg",
+      "type": "1",
+      "width": "128",
+      "height": "86"
+     }
+    ],
+    "metatags": [
+     {
+      "pd": "Tuesday, 10-Apr-2012 01:03:33 UTC",
+      "og:title": "Disneyland Hotel",
+      "og:type": "article",
+      "og:image": "http://0.tqn.com/d/hotels/1/G/M/3/PRexterior250.jpg",
+      "og:url": "http://hotels.about.com/od/anaheim/p/sna_disneyland.htm",
+      "og:site_name": "About.com Hotels & Resorts",
+      "fb:app_id": "121030274606741"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Hong Kong Disneyland Hotel - Hong Kong, Hong Kong - Yahoo ...",
+   "htmlTitle": "Hong Kong \u003cb\u003eDisneyland Hotel\u003c/b\u003e - Hong Kong, Hong Kong - Yahoo \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://travel.yahoo.com/p-hotel-9094340-hong_kong_disneyland_hotel-i",
+   "displayLink": "travel.yahoo.com",
+   "snippet": "Hong Kong Disneyland Hotel, Hong Kong - find the best deals, reviews, photos,   rates, and availability on Yahoo! Travel.",
+   "htmlSnippet": "Hong Kong \u003cb\u003eDisneyland Hotel\u003c/b\u003e, Hong Kong - find the best deals, reviews, photos, \u003cbr\u003e  rates, and availability on Yahoo! Travel.",
+   "cacheId": "f6Ue1uylkQcJ",
+   "formattedUrl": "travel.yahoo.com/p-hotel-9094340-hong_kong_disneyland_hotel-i",
+   "htmlFormattedUrl": "travel.yahoo.com/p-\u003cb\u003ehotel\u003c/b\u003e-9094340-hong_kong_\u003cb\u003edisneyland\u003c/b\u003e_\u003cb\u003ehotel\u003c/b\u003e-i",
+   "pagemap": {
+    "Review-aggregate": [
+     {
+      "itemreviewed": "Hong Kong Disneyland Hotel",
+      "count": "5"
+     }
+    ],
+    "Review": [
+     {
+      "itemreviewed": "Hong Kong Disneyland Hotel",
+      "rating": "4",
+      "summary": "\"Bestest \" Place in the World",
+      "reviewer": "A Yahoo! Contributor",
+      "dtreviewed": "2007-01-04",
+      "description": "That was how my daughter described the hotel. We enjoyed our recent 4 night stay in this hotel. However, trip was spoilt by inadequate dining facilities as the Enchanted Garden Restaurant was..."
+     },
+     {
+      "itemreviewed": "Hong Kong Disneyland Hotel",
+      "rating": "5",
+      "summary": "Hong Kong Rox!",
+      "reviewer": "A Yahoo! Contributor",
+      "dtreviewed": "2006-06-22",
+      "description": "Just one word for it, WONDERFUL. WEll, maybe 3 words, WONDERFUL and MAGICAL. The victorian design is a bit over exagerated though. The design looked more british than victorian."
+     },
+     {
+      "itemreviewed": "Hong Kong Disneyland Hotel",
+      "rating": "5",
+      "summary": "We definitely go back",
+      "reviewer": "Nikolaos",
+      "dtreviewed": "2006-06-07",
+      "description": "The hotel it self is very nice ideal for families with small children, is close to the airport and if you want to go to town the underground takes you in less than 15min you keep everybody..."
+     },
+     {
+      "itemreviewed": "Hong Kong Disneyland Hotel",
+      "rating": "1",
+      "summary": "bad bad bad",
+      "reviewer": "A Yahoo! Contributor",
+      "dtreviewed": "2006-01-05",
+      "description": "Everything, Hong Kong is a nice place to visit, but just don't pick Disney Hotel!! The amount of money will have much more better choice!"
+     },
+     {
+      "itemreviewed": "Hong Kong Disneyland Hotel",
+      "rating": "5",
+      "summary": "a memory of elegant old hong kong v",
+      "reviewer": "A Yahoo! Contributor",
+      "dtreviewed": "2005-09-15",
+      "description": "llvery friendly and helpful staff. very legant building with beautiful interiors. outstanding view fo from all public areas and most rooms towards hong kong harbour. it has a lot of class...."
+     }
+    ],
+    "review": [
+     {
+      "ratingstars": "4.0",
+      "ratingcount": "5"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Disneyland Hotel - On Disneyland Resort Property - Hotel Reviews ...",
+   "htmlTitle": "\u003cb\u003eDisneyland Hotel\u003c/b\u003e - On Disneyland Resort Property - Hotel Reviews \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://www.expedia.com/Orange-County-Hotels-Disneyland-Hotel-On-Disneyland-Resort-Property.h15276.Hotel-Reviews",
+   "displayLink": "www.expedia.com",
+   "snippet": "Disneyland Hotel - On Disneyland Resort Property Reviews - Hotel reviews of   Disneyland Hotel - On Disneyland Resort Property, Anaheim, United States of ...",
+   "htmlSnippet": "\u003cb\u003eDisneyland Hotel\u003c/b\u003e - On Disneyland Resort Property Reviews - Hotel reviews of \u003cbr\u003e  \u003cb\u003eDisneyland Hotel\u003c/b\u003e - On Disneyland Resort Property, Anaheim, United States of \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "TRLCL_V1PMEJ",
+   "formattedUrl": "www.expedia.com/Orange-County-Hotels-Disneyland-Hotel-On-Disneyland- Resort-Property.h15276.Hotel-Reviews",
+   "htmlFormattedUrl": "www.expedia.com/Orange-County-\u003cb\u003eHotels\u003c/b\u003e-\u003cb\u003eDisneyland\u003c/b\u003e-\u003cb\u003eHotel\u003c/b\u003e-On-\u003cb\u003eDisneyland\u003c/b\u003e- Resort-Property.h15276.\u003cb\u003eHotel\u003c/b\u003e-Reviews",
+   "pagemap": {
+    "product": [
+     {
+      "image": "http://media.expedia.com/media/content/shared/images/navigation/expedia.com.png?v=1"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "http://media.expedia.com/hotels/1000000/20000/15300/15276/15276_77_t.jpg"
+     }
+    ],
+    "metatags": [
+     {
+      "language": "en_US",
+      "og:image": "http://media.expedia.com/hotels/1000000/20000/15300/15276/15276_77_t.jpg",
+      "fb:admins": "628266881,766475554,1165451480,25905117",
+      "og:site_name": "EXPEDIA",
+      "og:type": "hotel",
+      "og:url": "http://www.expedia.com/Orange-County-Hotels-Disneyland-Hotel-On-Disneyland-Resort-Property.h15276.Hotel-Reviews",
+      "og:title": "Disneyland Hotel - On Disneyland Resort Property",
+      "og:latitude": "33.81268",
+      "og:longitude": "-117.927184",
+      "og:street-address": "1150 W Magic Way",
+      "og:locality": "Anaheim",
+      "og:region": "CA",
+      "og:postal-code": "92802",
+      "og:country-name": "United States of America",
+      "og:phone_number": "1-800-391-3613",
+      "og:description": "The classic \u003cb\u003eDisneyland\u003c/b\u003e® Hotel has a sprinkling of pixie dust in everything, extending the magic, nostalgia, and fantasy of \u003cb\u003eDisneyland\u003c/b\u003e® Park with its unique theming."
+     }
+    ],
+    "hreviewaggregate": [
+     {
+      "count": "445"
+     }
+    ],
+    "review": [
+     {
+      "ratingstars": "4.0",
+      "ratingcount": "445"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Disney Hotels: Book Your Disneyland or Walt Disney World Hotel ...",
+   "htmlTitle": "Disney \u003cb\u003eHotels\u003c/b\u003e: Book Your \u003cb\u003eDisneyland\u003c/b\u003e or Walt Disney World \u003cb\u003eHotel\u003c/b\u003e \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://bookit.com/travel-ideas/disney/",
+   "displayLink": "bookit.com",
+   "snippet": "Book Your Disneyland or Disney World Hotel and Disneyland or Disney World   Vacation Online or Call Toll Free 1 (888) 782-9722. You know what to do.",
+   "htmlSnippet": "Book Your \u003cb\u003eDisneyland\u003c/b\u003e or Disney World \u003cb\u003eHotel\u003c/b\u003e and \u003cb\u003eDisneyland\u003c/b\u003e or Disney World \u003cbr\u003e  Vacation Online or Call Toll Free 1 (888) 782-9722. You know what to do.",
+   "cacheId": "7vpFNPOHKloJ",
+   "formattedUrl": "bookit.com/travel-ideas/disney/",
+   "htmlFormattedUrl": "bookit.com/travel-ideas/disney/"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Disneyland Hotel Deals in Anaheim | Disneyland Hotel Vacation ...",
+   "htmlTitle": "\u003cb\u003eDisneyland Hotel\u003c/b\u003e Deals in Anaheim | \u003cb\u003eDisneyland Hotel\u003c/b\u003e Vacation \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://www.marriott.com/hotels/hotel-deals/laxah-anaheim-marriott/",
+   "displayLink": "www.marriott.com",
+   "snippet": "See all of our great Disneyland hotel deals in Anaheim and book your perfect   vacation or weekend getaway. The Anaheim Marriott offers an array of   Disneyland ...",
+   "htmlSnippet": "See all of our great \u003cb\u003eDisneyland hotel\u003c/b\u003e deals in Anaheim and book your perfect \u003cbr\u003e  vacation or weekend getaway. The Anaheim Marriott offers an array of \u003cbr\u003e  Disneyland \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "NY7MWgUweRsJ",
+   "formattedUrl": "www.marriott.com/hotels/hotel-deals/laxah-anaheim-marriott/",
+   "htmlFormattedUrl": "www.marriott.com/\u003cb\u003ehotels\u003c/b\u003e/\u003cb\u003ehotel\u003c/b\u003e-deals/laxah-anaheim-marriott/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://cache.marriott.com/propertyimages/l/laxah/laxah_logo.gif",
+      "type": "1",
+      "width": "144",
+      "height": "144"
+     }
+    ],
+    "postaladdress": [
+     {
+      "streetaddress": "700 West Convention Way",
+      "addresslocality": "Anaheim",
+      "addressregion": "California",
+      "postalcode": "92802",
+      "addresscountry": "USA"
+     }
+    ],
+    "hotel": [
+     {
+      "branchof": "Marriott Hotels & Resorts",
+      "name": "Anaheim Marriott",
+      "maps": "MAPS & TRANSPORTATION",
+      "telephone": "1-714-750-8000",
+      "faxnumber": "1-714-750-9100",
+      "photos": "PHOTO GALLERY",
+      "url": "Anaheim Marriott®"
+     }
+    ],
+    "metatags": [
+     {
+      "geo.position": "33.799393;-117.918601",
+      "og:title": "Anaheim Marriott",
+      "og:site_name": "www.marriott.com",
+      "og:image": "/propertyimages/l/laxah/laxahe01.jpg"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "5 star hotels in Disneyland",
+   "htmlTitle": "5 star \u003cb\u003ehotels\u003c/b\u003e in \u003cb\u003eDisneyland\u003c/b\u003e",
+   "link": "http://www.hotels.com/de1648513-st5/five-star-hotels-disneyland-anaheim-california/",
+   "displayLink": "www.hotels.com",
+   "snippet": "Book your 5 Star hotel in Disneyland - Anaheim online and save. Browse through   reviews, detailed descriptions, quality photos & maps. Compare the best 5 Star ...",
+   "htmlSnippet": "Book your 5 Star \u003cb\u003ehotel\u003c/b\u003e in \u003cb\u003eDisneyland\u003c/b\u003e - Anaheim online and save. Browse through \u003cbr\u003e  reviews, detailed descriptions, quality photos &amp; maps. Compare the best 5 Star \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "vhQy7KLBoiUJ",
+   "formattedUrl": "www.hotels.com/.../five-star-hotels-disneyland-anaheim-california/",
+   "htmlFormattedUrl": "www.\u003cb\u003ehotels\u003c/b\u003e.com/.../five-star-\u003cb\u003ehotels\u003c/b\u003e-\u003cb\u003edisneyland\u003c/b\u003e-anaheim-california/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://exp.cdn-hotels.com/hotels/6000000/5320000/5311500/5311463/5311463_9_b.jpg",
+      "type": "1",
+      "width": "280",
+      "height": "175"
+     }
+    ],
+    "Breadcrumb": [
+     {
+      "title": "Hotels",
+      "url": "Hotels"
+     },
+     {
+      "title": "Hotels in United States",
+      "url": "Hotels in United States"
+     },
+     {
+      "title": "Hotels in California",
+      "url": "Hotels in California"
+     },
+     {
+      "title": "Hotels in Disneyland - Anaheim",
+      "url": "Hotels in Disneyland - Anaheim"
+     }
+    ],
+    "metatags": [
+     {
+      "title": "5 Star hotels Disneyland - Anaheim. Find & compare Disneyland - Anaheim 5 Star hotels. Book & Save - Hotels.com",
+      "skype_toolbar": "SKYPE_TOOLBAR_PARSER_COMPATIBLE",
+      "fb:app_id": "150032821718681",
+      "og:type": "website",
+      "og:title": "5 Star hotels Disneyland - Anaheim. Find & compare Disneyland - Anaheim 5 Star hotels. Book & Save - Hotels.com",
+      "og:url": "http://www.hotels.com/de1648513-st5/five-star-hotels-disneyland-anaheim-california/",
+      "og:description": "Book your 5 Star hotel in Disneyland - Anaheim online and save. Browse through reviews, detailed descriptions, quality photos & maps. Compare the best 5 Star hotels in Disneyland - Anaheim on Hotels.com.",
+      "og:image": "http://a1.cdn-hotels.com/static/common/9.0/images/common/logos/h_onebrand_119x100.png"
+     }
+    ]
+   }
+  }
+ ]
+}

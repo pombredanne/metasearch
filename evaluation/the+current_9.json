@@ -1,0 +1,303 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "nextPage": [
+   {
+    "title": "Google Custom Search - the current",
+    "totalResults": "1650000000",
+    "searchTerms": "the current",
+    "count": 10,
+    "startIndex": 101,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "017401104989814545383:mf4lavmtuva"
+   }
+  ],
+  "request": [
+   {
+    "title": "Google Custom Search - the current",
+    "totalResults": "1650000000",
+    "searchTerms": "the current",
+    "count": 10,
+    "startIndex": 91,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "017401104989814545383:mf4lavmtuva"
+   }
+  ],
+  "previousPage": [
+   {
+    "title": "Google Custom Search - the current",
+    "totalResults": "1650000000",
+    "searchTerms": "the current",
+    "count": 10,
+    "startIndex": 81,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "017401104989814545383:mf4lavmtuva"
+   }
+  ]
+ },
+ "context": {
+  "title": "College MetaSearch Comparison"
+ },
+ "searchInformation": {
+  "searchTime": 0.207993,
+  "formattedSearchTime": "0.21",
+  "totalResults": "1650000000",
+  "formattedTotalResults": "1,650,000,000"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "The Current Newspaper of Longport, Margate & Ventnor, NJ",
+   "htmlTitle": "\u003cb\u003eThe Current\u003c/b\u003e Newspaper of Longport, Margate &amp; Ventnor, NJ",
+   "link": "http://shorenewstoday.com/snt/db/",
+   "displayLink": "shorenewstoday.com",
+   "snippet": "Local Longport, Magrate, Ventnor community newspaper published weekly.   Local Sports, News & Events!",
+   "htmlSnippet": "Local Longport, Magrate, Ventnor community newspaper published weekly. \u003cbr\u003e  Local Sports, News &amp; Events!",
+   "cacheId": "IJSUZuJXUWIJ",
+   "formattedUrl": "shorenewstoday.com/snt/db/",
+   "htmlFormattedUrl": "shorenewstoday.com/snt/db/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://shorenewstoday.com/snt/db/images/DB_01.jpg",
+      "type": "1",
+      "width": "220",
+      "height": "68"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "US Current Weather",
+   "htmlTitle": "US \u003cb\u003eCurrent\u003c/b\u003e Weather",
+   "link": "http://www.weather.com/maps/maptype/currentweatherusnational/uscurrentweather_large.html",
+   "displayLink": "www.weather.com",
+   "snippet": "Large versions of the maps. Pinpoint Your Weather on Our Interactive Map. US:   Current Weather How to read this map Severe Weather Outlook Free Content ...",
+   "htmlSnippet": "Large versions of the maps. Pinpoint Your Weather on Our Interactive Map. US: \u003cbr\u003e  \u003cb\u003eCurrent\u003c/b\u003e Weather How to read this map Severe Weather Outlook Free Content \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "WJwVtjUc07UJ",
+   "formattedUrl": "www.weather.com/.../currentweatherusnational/uscurrentweather_large.html",
+   "htmlFormattedUrl": "www.weather.com/.../\u003cb\u003ecurrent\u003c/b\u003eweatherusnational/us\u003cb\u003ecurrent\u003c/b\u003eweather_large.html",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://image.weather.com/images/maps/current/curwx_600x405.jpg",
+      "type": "1",
+      "width": "273",
+      "height": "184"
+     }
+    ],
+    "metatags": [
+     {
+      "fb:app_id": "144457238950063"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Current local time in U.S.A. – Hawaii – Honolulu",
+   "htmlTitle": "\u003cb\u003eCurrent\u003c/b\u003e local time in U.S.A. – Hawaii – Honolulu",
+   "link": "http://www.timeanddate.com/worldclock/city.html?n=103",
+   "displayLink": "www.timeanddate.com",
+   "snippet": "Find out current local time in Honolulu – Hawaii – U.S.A.. Get Honolulu's weather   and area codes, time zone and DST. Explore Honolulu's sunrise and sunset, ...",
+   "htmlSnippet": "Find out \u003cb\u003ecurrent\u003c/b\u003e local time in Honolulu – Hawaii – U.S.A.. Get Honolulu&#39;s weather \u003cbr\u003e  and area codes, time zone and DST. Explore Honolulu&#39;s sunrise and sunset, \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "YBZkEVWNh30J",
+   "formattedUrl": "www.timeanddate.com/worldclock/city.html?n=103",
+   "htmlFormattedUrl": "www.timeanddate.com/worldclock/city.html?n=103"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "GMT: Greenwich Mean Time - World Time / Time in every Time Zone",
+   "htmlTitle": "GMT: Greenwich Mean Time - World Time / Time in every Time Zone",
+   "link": "http://wwp.greenwichmeantime.com/",
+   "displayLink": "wwp.greenwichmeantime.com",
+   "snippet": "Greenwich Mean Time (GMT). Greenwich Time / Zulu Time / UTC. What's the   Time in the World's Major Cities? Select a CITY to see CURRENT TIME, London, ...",
+   "htmlSnippet": "Greenwich Mean Time (GMT). Greenwich Time / Zulu Time / UTC. What&#39;s the \u003cbr\u003e  Time in the World&#39;s Major Cities? Select a CITY to see \u003cb\u003eCURRENT\u003c/b\u003e TIME, London, \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "hbHqllOCpQYJ",
+   "formattedUrl": "wwp.greenwichmeantime.com/",
+   "htmlFormattedUrl": "wwp.greenwichmeantime.com/",
+   "pagemap": {
+    "metatags": [
+     {
+      "dc.coverage.x": "0.000",
+      "dc.coverage.y": "52.477",
+      "progid": "FrontPage.Editor.Document",
+      "rating": "GENERAL",
+      "distribution": "GLOBAL",
+      "classification": "Index Site",
+      "copyright": "Greenwich 2000",
+      "microsoft border": "tlbr"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "The Current of Absecon & Pleasantville Newspaper",
+   "htmlTitle": "\u003cb\u003eThe Current\u003c/b\u003e of Absecon &amp; Pleasantville Newspaper",
+   "link": "http://shorenewstoday.com/snt/pls/",
+   "displayLink": "shorenewstoday.com",
+   "snippet": "The Current of Pleasantville & Absecon: News, Events, Sports, Dining,   Community, Classifieds | Updated every Friday.",
+   "htmlSnippet": "\u003cb\u003eThe Current\u003c/b\u003e of Pleasantville &amp; Absecon: News, Events, Sports, Dining, \u003cbr\u003e  Community, Classifieds | Updated every Friday.",
+   "cacheId": "vAYs9CPbfbYJ",
+   "formattedUrl": "shorenewstoday.com/snt/pls/",
+   "htmlFormattedUrl": "shorenewstoday.com/snt/pls/"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "The Current News Magazine, LLC",
+   "htmlTitle": "\u003cb\u003eThe Current\u003c/b\u003e News Magazine, LLC",
+   "link": "http://www.currentnewsmagazine.com/",
+   "displayLink": "www.currentnewsmagazine.com",
+   "snippet": "Current News Magazine website. We are a local community newspaper with a   focus on local news. Our newspaper is direct mailed FREE to local residents in ...",
+   "htmlSnippet": "\u003cb\u003eCurrent\u003c/b\u003e News Magazine website. We are a local community newspaper with a \u003cbr\u003e  focus on local news. Our newspaper is direct mailed FREE to local residents in \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "TGcJ81ZRhPMJ",
+   "formattedUrl": "www.currentnewsmagazine.com/",
+   "htmlFormattedUrl": "www.\u003cb\u003ecurrent\u003c/b\u003enewsmagazine.com/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.currentnewsmagazine.com/files/j0441797.png",
+      "type": "1",
+      "width": "225",
+      "height": "225"
+     }
+    ],
+    "metatags": [
+     {
+      "created": "Tue, 12 Jul 2011 21:20:42 GMT"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Global Pyrogeography: the Current and Future Distribution of Wildfire",
+   "htmlTitle": "Global Pyrogeography: \u003cb\u003ethe Current\u003c/b\u003e and Future Distribution of Wildfire",
+   "link": "http://www.plosone.org/article/info:doi/10.1371/journal.pone.0005102",
+   "displayLink": "www.plosone.org",
+   "snippet": "As a first step to quantifying potential change in global wildfire, we present a   multivariate quantification of environmental drivers for the observed, current ...",
+   "htmlSnippet": "As a first step to quantifying potential change in global wildfire, we present a \u003cbr\u003e  multivariate quantification of environmental drivers for the observed, \u003cb\u003ecurrent\u003c/b\u003e \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "mTYxKqWNmf4J",
+   "formattedUrl": "www.plosone.org/article/info:doi/10.1371/journal.pone.0005102",
+   "htmlFormattedUrl": "www.plosone.org/article/info:doi/10.1371/journal.pone.0005102",
+   "pagemap": {
+    "article": [
+     {
+      "name": "Global Pyrogeography: the Current and Future Distribution of Wildfire"
+     }
+    ],
+    "metatags": [
+     {
+      "citation_publisher": "Public Library of Science",
+      "citation_doi": "10.1371/journal.pone.0005102",
+      "citation_title": "Global Pyrogeography: the Current and Future Distribution of Wildfire",
+      "citation_author": "Meg A. Krawchuk",
+      "citation_author_institution": "Department of Environmental Science, Policy and Management, University of California, Berkeley, California, United States of America",
+      "citation_date": "2009/4/8",
+      "citation_pdf_url": "http://dx.plos.org/10.1371/journal.pone.0005102.pdf",
+      "citation_journal_title": "PLoS ONE",
+      "citation_firstpage": "e5102",
+      "citation_issue": "4",
+      "citation_volume": "4",
+      "citation_issn": "1932-6203",
+      "citation_journal_abbrev": "PLoS ONE",
+      "citation_reference": "citation_title=Vulnerability of land systems to fire: Interactions among humans, climate, the atmosphere, and ecosystems.; citation_author=S Lavorel; citation_author=MD Flannigan; citation_author=EF Lambin; citation_author=MC Scholes; citation_journal_title=Mitigation Strategies for Global Change; citation_number=1; citation_date=2006;"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "USA Population - The Current Population of the USA",
+   "htmlTitle": "USA Population - \u003cb\u003eThe Current\u003c/b\u003e Population of the USA",
+   "link": "http://geography.about.com/od/obtainpopulationdata/a/uspopulation.htm",
+   "displayLink": "geography.about.com",
+   "snippet": "The current USA population is above 300 million and expected to rise. Learn   about the population of the USA from your About.com expert Guide to Geography  .",
+   "htmlSnippet": "\u003cb\u003eThe current\u003c/b\u003e USA population is above 300 million and expected to rise. Learn \u003cbr\u003e  about the population of the USA from your About.com expert Guide to Geography\u003cbr\u003e  .",
+   "cacheId": "wPhvWoczhVoJ",
+   "formattedUrl": "geography.about.com/od/obtainpopulationdata/a/uspopulation.htm",
+   "htmlFormattedUrl": "geography.about.com/od/obtainpopulationdata/a/uspopulation.htm",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://0.tqn.com/d/geography/1/G/-/5/1/200275076-001.jpg",
+      "type": "1",
+      "width": "128",
+      "height": "128"
+     }
+    ],
+    "metatags": [
+     {
+      "pd": "Monday, 09-Apr-2012 22:48:15 UTC",
+      "og:title": "Current U.S.A. Population",
+      "og:type": "article",
+      "og:image": "http://0.tqn.com/d/geography/1/G/-/5/1/200275076-001.jpg",
+      "og:url": "http://geography.about.com/od/obtainpopulationdata/a/uspopulation.htm",
+      "og:site_name": "About.com Geography",
+      "fb:app_id": "121030274606741"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Shore News Today",
+   "htmlTitle": "Shore News Today",
+   "link": "http://shorenewstoday.com/",
+   "displayLink": "shorenewstoday.com",
+   "snippet": "Current of Galloway, Port Republic · 2010-04-12-16-05-33 Current of EHT ...   Shore News Today | Current, Gazette, Leader, Beachcomber newspapers ...",
+   "htmlSnippet": "\u003cb\u003eCurrent\u003c/b\u003e of Galloway, Port Republic &middot; 2010-04-12-16-05-33 \u003cb\u003eCurrent\u003c/b\u003e of EHT \u003cb\u003e...\u003c/b\u003e \u003cbr\u003e  Shore News Today | \u003cb\u003eCurrent\u003c/b\u003e, Gazette, Leader, Beachcomber newspapers \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "Tj3Z3QyY9SgJ",
+   "formattedUrl": "shorenewstoday.com/",
+   "htmlFormattedUrl": "shorenewstoday.com/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.shorenewstoday.com/plugins/content/linkcmp.png"
+     }
+    ],
+    "metatags": [
+     {
+      "og:description": "Catch up on all the news you missed in Atlantic and Cape May counties with shorenewstoday com s Week in Review",
+      "og:image": "http://www.shorenewstoday.com/plugins/content/linkcmp.png",
+      "og:title": "Shore News Today | Current, Gazette, Leader, Beachcomber newspapers",
+      "og:url": "http://www.shorenewstoday.com/snt/news/",
+      "og:site_name": "Shore News Today",
+      "og:locale": "en_US"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "A Synopsis of the Current Situation",
+   "htmlTitle": "A Synopsis of \u003cb\u003ethe Current\u003c/b\u003e Situation",
+   "link": "http://www.ifamericansknew.org/cur_sit/",
+   "displayLink": "www.ifamericansknew.org",
+   "snippet": "A Synopsis of the Current Situation in Israel/Palestine. Fortunately, the American   media cover many events in Israel with great detail and thoroughness.",
+   "htmlSnippet": "A Synopsis of \u003cb\u003ethe Current\u003c/b\u003e Situation in Israel/Palestine. Fortunately, the American \u003cbr\u003e  media cover many events in Israel with great detail and thoroughness.",
+   "cacheId": "A65HtGBUFYkJ",
+   "formattedUrl": "www.ifamericansknew.org/cur_sit/",
+   "htmlFormattedUrl": "www.ifamericansknew.org/cur_sit/",
+   "pagemap": {
+    "metatags": [
+     {
+      "author": "If Americans Knew"
+     }
+    ]
+   }
+  }
+ ]
+}

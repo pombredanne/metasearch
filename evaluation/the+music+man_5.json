@@ -1,0 +1,385 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "nextPage": [
+   {
+    "title": "Google Custom Search - the music man",
+    "totalResults": "411000000",
+    "searchTerms": "the music man",
+    "count": 10,
+    "startIndex": 61,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "017401104989814545383:mf4lavmtuva"
+   }
+  ],
+  "request": [
+   {
+    "title": "Google Custom Search - the music man",
+    "totalResults": "411000000",
+    "searchTerms": "the music man",
+    "count": 10,
+    "startIndex": 51,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "017401104989814545383:mf4lavmtuva"
+   }
+  ],
+  "previousPage": [
+   {
+    "title": "Google Custom Search - the music man",
+    "totalResults": "411000000",
+    "searchTerms": "the music man",
+    "count": 10,
+    "startIndex": 41,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "017401104989814545383:mf4lavmtuva"
+   }
+  ]
+ },
+ "context": {
+  "title": "College MetaSearch Comparison"
+ },
+ "searchInformation": {
+  "searchTime": 0.179931,
+  "formattedSearchTime": "0.18",
+  "totalResults": "411000000",
+  "formattedTotalResults": "411,000,000"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "Welcome to the Ernie Ball Music Man Company",
+   "htmlTitle": "Welcome to the Ernie Ball \u003cb\u003eMusic Man\u003c/b\u003e Company",
+   "link": "http://www.music-man.com/",
+   "displayLink": "www.music-man.com",
+   "snippet": "Music Man is recognized as the benchmark of modern bass guitar design and   manufacturing since introducing the Stingray bass in 1976. Music Man was ...",
+   "htmlSnippet": "\u003cb\u003eMusic Man\u003c/b\u003e is recognized as the benchmark of modern bass guitar design and \u003cbr\u003e  manufacturing since introducing the Stingray bass in 1976. \u003cb\u003eMusic Man\u003c/b\u003e was \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "Di5QPfFSM6UJ",
+   "formattedUrl": "www.music-man.com/",
+   "htmlFormattedUrl": "www.\u003cb\u003emusic\u003c/b\u003e-\u003cb\u003eman\u003c/b\u003e.com/"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "CHATA ADDY / THE MUSIC MAN - Traditional and Contemporary ...",
+   "htmlTitle": "CHATA ADDY / \u003cb\u003eTHE MUSIC MAN\u003c/b\u003e - Traditional and Contemporary \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://www.chataaddy.com/",
+   "displayLink": "www.chataaddy.com",
+   "snippet": "Chata Addy is a professional drummer, composer, dancer, and chorographer   from Ghana, West Africa. He is a member of the renowned Addy family of ...",
+   "htmlSnippet": "Chata Addy is a professional drummer, composer, dancer, and chorographer \u003cbr\u003e  from Ghana, West Africa. He is a member of the renowned Addy family of \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "DcQygGs7rV8J",
+   "formattedUrl": "www.chataaddy.com/",
+   "htmlFormattedUrl": "www.chataaddy.com/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.chataaddy.com/images/drumming_resized.jpg",
+      "type": "1",
+      "width": "203",
+      "height": "248"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Redwood City Community Theater Proudly Presents....",
+   "htmlTitle": "Redwood City Community Theater Proudly Presents....",
+   "link": "http://www.rwctheatre.org/",
+   "displayLink": "www.rwctheatre.org",
+   "snippet": "Make sure to go to the Redwood City Community Theatre's production of Legally   Blonde - the Musical. Want to make this summer even better yet? BE A PART ...",
+   "htmlSnippet": "Make sure to go to the Redwood City Community Theatre&#39;s production of Legally \u003cbr\u003e  Blonde - \u003cb\u003ethe Musical\u003c/b\u003e. Want to make this summer even better yet? BE A PART \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "_tW0AxAgXQwJ",
+   "formattedUrl": "www.rwctheatre.org/",
+   "htmlFormattedUrl": "www.rwctheatre.org/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.rwctheatre.org/Welcome_files/shapeimage_5.png",
+      "type": "1",
+      "width": "252",
+      "height": "168"
+     }
+    ],
+    "metatags": [
+     {
+      "iweb-build": "local-build-20120706",
+      "viewport": "width=700"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "marc the music man",
+   "htmlTitle": "marc \u003cb\u003ethe music man\u003c/b\u003e",
+   "link": "http://marcthemusicman.com/",
+   "displayLink": "marcthemusicman.com",
+   "snippet": "A student and performer of music for over four decades, Marc picked up the guitar   in 1969, and currently plays, mandolin, banjo, bass, piano, steel guitar and ...",
+   "htmlSnippet": "A student and performer of \u003cb\u003emusic\u003c/b\u003e for over four decades, Marc picked up the guitar \u003cbr\u003e  in 1969, and currently plays, mandolin, banjo, bass, piano, steel guitar and \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "x-dEgcti4woJ",
+   "formattedUrl": "marcthemusicman.com/",
+   "htmlFormattedUrl": "marc\u003cb\u003ethemusicman\u003c/b\u003e.com/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://marcthemusicman.com/assets/kidstuff/kidsparty2010.jpeg",
+      "type": "1",
+      "width": "251",
+      "height": "201"
+     }
+    ],
+    "metatags": [
+     {
+      "rating": "general",
+      "distribution": "global",
+      "web_author": "arnot..interactive",
+      "fb:admins": "649114340",
+      "og:title": "marc the music man",
+      "og:type": "website",
+      "og:url": "http://marcthemusicman.com/",
+      "og:image": "http://marcthemusicman.com/assets/kidstuff/kidsparty2010.jpeg",
+      "og:site_name": "marc the music man",
+      "og:description": "A student and performer of music for over four decades, Marc picked up the guitar in 1969, and currently plays, mandolin, banjo, bass, piano, steel guitar and percussion. He sings to kids, every day. In addition to a successful career as a popular recording artist with Columbia Records and other independent labels, Marc has forged a career as a children's musical enrichment specialist for 20 the past years."
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "- Gary, Indiana Lyrics from The Music Man",
+   "htmlTitle": "- Gary, Indiana Lyrics from \u003cb\u003eThe Music Man\u003c/b\u003e",
+   "link": "http://www.stlyrics.com/lyrics/themusicman/garyindiana.htm",
+   "displayLink": "www.stlyrics.com",
+   "snippet": "Harold: / Gary, Indiana! / What a wonderful name, / Named for Elbert Gary of   judiciary fame. / Gary, Indiana, as a Shakespeare would say, / Trips along softly   on ...",
+   "htmlSnippet": "Harold: / Gary, Indiana! / What a wonderful name, / Named for Elbert Gary of \u003cbr\u003e  judiciary fame. / Gary, Indiana, as a Shakespeare would say, / Trips along softly \u003cbr\u003e  on \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "AYFykW1MwNsJ",
+   "formattedUrl": "www.stlyrics.com/lyrics/themusicman/garyindiana.htm",
+   "htmlFormattedUrl": "www.stlyrics.com/lyrics/\u003cb\u003ethemusicman\u003c/b\u003e/garyindiana.htm",
+   "pagemap": {
+    "metatags": [
+     {
+      "name": "Lyrics Gary, Indiana Lyrics, Ringtone, Video"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Tickets | Broadway In The Park",
+   "htmlTitle": "Tickets | Broadway In The Park",
+   "link": "http://www.esbroadway.com/page04.html",
+   "displayLink": "www.esbroadway.com",
+   "snippet": "The Music Man. presented July 2011. Meredith Willson's The Music Man follows   fast-talking traveling salesman Harold Hill as he cons the people of River City, ...",
+   "htmlSnippet": "\u003cb\u003eThe Music Man\u003c/b\u003e. presented July 2011. Meredith Willson&#39;s \u003cb\u003eThe Music Man\u003c/b\u003e follows \u003cbr\u003e  fast-talking traveling salesman Harold Hill as he cons the people of River City, \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "c4kVQuRMDDIJ",
+   "formattedUrl": "www.esbroadway.com/page04.html",
+   "htmlFormattedUrl": "www.esbroadway.com/page04.html",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.esbroadway.com/~site/Scripts_Shapes/Shapes.dll?CMD=GetRectangleGif&r=185&g=24&b=6",
+      "type": "1",
+      "width": "1",
+      "height": "1"
+     }
+    ],
+    "metatags": [
+     {
+      "smartaddon-verification": "948ba1dc8cc4cc26e5d9d4f358660c2d"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Dan \"The Music Man\" DJ services",
+   "htmlTitle": "Dan &quot;\u003cb\u003eThe Music Man\u003c/b\u003e&quot; DJ services",
+   "link": "http://www.djbourret.com/",
+   "displayLink": "www.djbourret.com",
+   "snippet": "dj's, weddings, dj's for wedding receptions, corporate and private events dj,   school dances, DJs for any event! Servicing Massachusetts, New Hampshire ~   New ...",
+   "htmlSnippet": "dj&#39;s, weddings, dj&#39;s for wedding receptions, corporate and private events dj, \u003cbr\u003e  school dances, DJs for any event! Servicing Massachusetts, New Hampshire ~ \u003cbr\u003e  New \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "Im1N1a8RCOMJ",
+   "formattedUrl": "www.djbourret.com/",
+   "htmlFormattedUrl": "www.djbourret.com/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.djbourret.com/images/mini-professionalism.jpg",
+      "type": "1",
+      "width": "125",
+      "height": "94"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "The Music Man – Free listening, videos, concerts, stats, & pictures at ...",
+   "htmlTitle": "\u003cb\u003eThe Music Man\u003c/b\u003e – Free listening, videos, concerts, stats, &amp; pictures at \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://www.last.fm/music/The+Music+Man",
+   "displayLink": "www.last.fm",
+   "snippet": "Watch videos & listen free to The Music Man: Ya Got Trouble, Shipoopi & more,   plus 2 pictures. The Music Man is an alias of Matthew Herbert. It may also be an ...",
+   "htmlSnippet": "Watch videos &amp; listen free to \u003cb\u003eThe Music Man\u003c/b\u003e: Ya Got Trouble, Shipoopi &amp; more, \u003cbr\u003e  plus 2 pictures. \u003cb\u003eThe Music Man\u003c/b\u003e is an alias of Matthew Herbert. It may also be an \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "u7YdWS9q_ysJ",
+   "formattedUrl": "www.last.fm/music/The+Music+Man",
+   "htmlFormattedUrl": "www.last.fm/\u003cb\u003emusic\u003c/b\u003e/The+\u003cb\u003eMusic\u003c/b\u003e+\u003cb\u003eMan\u003c/b\u003e",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://userserve-ak.last.fm/serve/126/71277206.jpg",
+      "type": "1",
+      "width": "100",
+      "height": "100"
+     }
+    ],
+    "musicrecording": [
+     {
+      "url": "http://www.last.fm/music/The+Music+Man/_/Ya+Got+Trouble",
+      "interactioncount": "UserPlays:2,144",
+      "name": "Ya Got Trouble"
+     },
+     {
+      "url": "http://www.last.fm/music/The+Music+Man/_/Rock+Island",
+      "interactioncount": "UserPlays:413",
+      "name": "Rock Island"
+     },
+     {
+      "url": "http://www.last.fm/music/The+Music+Man/_/Goodnight,+My+Someone",
+      "interactioncount": "UserPlays:605",
+      "name": "Goodnight, My Someone"
+     },
+     {
+      "url": "http://www.last.fm/music/The+Music+Man/_/Till+There+Was+You",
+      "interactioncount": "UserPlays:1,632",
+      "name": "Till There Was You"
+     },
+     {
+      "url": "http://www.last.fm/music/The+Music+Man/_/Marian+The+Librarian",
+      "interactioncount": "UserPlays:1,958",
+      "name": "Marian The Librarian"
+     },
+     {
+      "url": "http://www.last.fm/music/The+Music+Man/_/Seventy+Six+Trombones+(Reprise)%2FGoodnight,+My+Someone+(Reprise)",
+      "interactioncount": "UserPlays:69",
+      "name": "Seventy Six Trombones (Reprise)/Goodnight, My Someone (Reprise)"
+     },
+     {
+      "url": "http://www.last.fm/music/The+Music+Man/_/The+Wells+Fargo+Wagon",
+      "interactioncount": "UserPlays:1,048",
+      "name": "The Wells Fargo Wagon"
+     },
+     {
+      "url": "http://www.last.fm/music/The+Music+Man/_/Seventy-Six+Trombones",
+      "interactioncount": "UserPlays:527",
+      "name": "Seventy-Six Trombones"
+     },
+     {
+      "url": "http://www.last.fm/music/The+Music+Man/_/Man+Up",
+      "interactioncount": "UserPlays:40",
+      "name": "Man Up"
+     },
+     {
+      "url": "http://www.last.fm/music/The+Music+Man/_/Iowa+Stubborn",
+      "interactioncount": "UserPlays:689",
+      "name": "Iowa Stubborn"
+     },
+     {
+      "url": "http://www.last.fm/music/The+Music+Man/_/Till+There+Was+You+(2003)",
+      "interactioncount": "UserPlays:3",
+      "name": "Till There Was You (2003)"
+     },
+     {
+      "url": "http://www.last.fm/music/The+Music+Man/_/Pick-a-Little,+Talk-a-Little(Reprise)",
+      "interactioncount": "UserPlays:40",
+      "name": "Pick-a-Little, Talk-a-Little(Reprise)"
+     },
+     {
+      "url": "http://www.last.fm/music/The+Music+Man/_/Pick-A-Little,+Talk-A-Little",
+      "interactioncount": "UserPlays:926",
+      "name": "Pick-A-Little, Talk-A-Little"
+     },
+     {
+      "url": "http://www.last.fm/music/The+Music+Man/_/Gary,+Indiana+(Reprise)",
+      "interactioncount": "UserPlays:121",
+      "name": "Gary, Indiana (Reprise)"
+     },
+     {
+      "url": "http://www.last.fm/music/The+Music+Man/_/Gary,+Indiana",
+      "interactioncount": "UserPlays:1,453",
+      "name": "Gary, Indiana"
+     }
+    ],
+    "musicgroup": [
+     {
+      "name": "The Music Man",
+      "interactioncount": "UserPlays:38743",
+      "keywords": "broadway, soundtrack, musical, musicals, show tunes"
+     }
+    ],
+    "metatags": [
+     {
+      "og:site_name": "Last.fm",
+      "fb:app_id": "192959324047861",
+      "og:title": "The Music Man",
+      "og:url": "http://www.last.fm/music/The+Music+Man",
+      "og:image": "http://userserve-ak.last.fm/serve/126/71277206.jpg",
+      "og:type": "band"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Music Man: The Movie",
+   "htmlTitle": "\u003cb\u003eMusic Man\u003c/b\u003e: The Movie",
+   "link": "http://www.greatstreets.org/MusicMan/MusicManMovie.html",
+   "displayLink": "www.greatstreets.org",
+   "snippet": "\"The Music Man\" opened at the Majestic Theatre in New York City on December   19, 1957 and ran for a sensational 1375 performances. The play was winner of ...",
+   "htmlSnippet": "&quot;\u003cb\u003eThe Music Man\u003c/b\u003e&quot; opened at the Majestic Theatre in New York City on December \u003cbr\u003e  19, 1957 and ran for a sensational 1375 performances. The play was winner of \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "xOYfAsbEskEJ",
+   "formattedUrl": "www.greatstreets.org/MusicMan/MusicManMovie.html",
+   "htmlFormattedUrl": "www.greatstreets.org/\u003cb\u003eMusicMan\u003c/b\u003e/\u003cb\u003eMusicMan\u003c/b\u003eMovie.html",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.greatstreets.org/MusicMan/MusicManImages/MakingTheMovie/01Filming.JPG",
+      "type": "1",
+      "width": "250",
+      "height": "200"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Mountain Play | Ticket Information",
+   "htmlTitle": "Mountain Play | Ticket Information",
+   "link": "http://new.mountainplay.org/tickets.html",
+   "displayLink": "new.mountainplay.org",
+   "snippet": "... Tony Award Winning Meredith Willson's The Music Man ... Book, Music and   Lyrics by: MEREDITH WILLSON Story by: ... Musical Direction by Debra   Chambliss ...",
+   "htmlSnippet": "\u003cb\u003e...\u003c/b\u003e Tony Award Winning Meredith Willson&#39;s \u003cb\u003eThe Music Man\u003c/b\u003e \u003cb\u003e...\u003c/b\u003e Book, Music and \u003cbr\u003e  Lyrics by: MEREDITH WILLSON Story by: \u003cb\u003e...\u003c/b\u003e Musical Direction by Debra \u003cbr\u003e  Chambliss \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "3XxuBw2eQCsJ",
+   "formattedUrl": "new.mountainplay.org/tickets.html",
+   "htmlFormattedUrl": "new.mountainplay.org/tickets.html",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://new.mountainplay.org/mtplay_images/8951/film_reel.png",
+      "type": "1",
+      "width": "144",
+      "height": "144"
+     }
+    ]
+   }
+  }
+ ]
+}

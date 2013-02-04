@@ -1,0 +1,301 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "nextPage": [
+   {
+    "title": "Google Custom Search - cheap internet",
+    "totalResults": "116000000",
+    "searchTerms": "cheap internet",
+    "count": 10,
+    "startIndex": 11,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "017401104989814545383:mf4lavmtuva"
+   }
+  ],
+  "request": [
+   {
+    "title": "Google Custom Search - cheap internet",
+    "totalResults": "116000000",
+    "searchTerms": "cheap internet",
+    "count": 10,
+    "startIndex": 1,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "017401104989814545383:mf4lavmtuva"
+   }
+  ]
+ },
+ "context": {
+  "title": "College MetaSearch Comparison"
+ },
+ "searchInformation": {
+  "searchTime": 0.332402,
+  "formattedSearchTime": "0.33",
+  "totalResults": "116000000",
+  "formattedTotalResults": "116,000,000"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "High Speed Internet Providers in my Area - Compare Cheap Offers",
+   "htmlTitle": "High Speed \u003cb\u003eInternet\u003c/b\u003e Providers in my Area - Compare \u003cb\u003eCheap\u003c/b\u003e Offers",
+   "link": "http://www.broadbandexpert.com/high-speed-internet/",
+   "displayLink": "www.broadbandexpert.com",
+   "snippet": "Compare High Speed Internet providers by Zip code. Find cheap internet deals in   your area. DSL, Cable, FiOS and more.",
+   "htmlSnippet": "Compare High Speed Internet providers by Zip code. Find \u003cb\u003echeap internet\u003c/b\u003e deals in \u003cbr\u003e  your area. DSL, Cable, FiOS and more.",
+   "cacheId": "9-R3ufmmjbYJ",
+   "formattedUrl": "www.broadbandexpert.com/high-speed-internet/",
+   "htmlFormattedUrl": "www.broadbandexpert.com/high-speed-\u003cb\u003einternet\u003c/b\u003e/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.broadbandexpert.com/cache/463013f7a40a2030652257821c7ada1e_w382_h315.png",
+      "type": "1",
+      "width": "247",
+      "height": "204"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Cheap Internet Service for Low Income Americans – Free Internet too",
+   "htmlTitle": "\u003cb\u003eCheap Internet\u003c/b\u003e Service for Low Income Americans – Free Internet too",
+   "link": "http://www.cheapinternet.com/",
+   "displayLink": "www.cheapinternet.com",
+   "snippet": "Cheap Internet service, the cheapest internet, is available Americans for $10/mon   through Connect to Compete, Internet Essentials and Internet Basics.",
+   "htmlSnippet": "\u003cb\u003eCheap Internet\u003c/b\u003e service, the \u003cb\u003echeapest internet\u003c/b\u003e, is available Americans for $10/mon \u003cbr\u003e  through Connect to Compete, Internet Essentials and Internet Basics.",
+   "cacheId": "i11-wzqpvpcJ",
+   "formattedUrl": "www.cheapinternet.com/",
+   "htmlFormattedUrl": "www.\u003cb\u003echeapinternet\u003c/b\u003e.com/"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Broadband Internet | 4G Mobile Broadband | DSL | Dial-Up | NetZero",
+   "htmlTitle": "Broadband \u003cb\u003eInternet\u003c/b\u003e | 4G Mobile Broadband | DSL | Dial-Up | NetZero",
+   "link": "http://www.netzero.net/",
+   "displayLink": "www.netzero.net",
+   "snippet": "Get Broadband Internet, 4G Mobile Broadband, DSL, and dial-up internet service   at affordable prices. Compare features of internet services from NetZero.",
+   "htmlSnippet": "Get Broadband \u003cb\u003eInternet\u003c/b\u003e, 4G Mobile Broadband, DSL, and dial-up \u003cb\u003einternet\u003c/b\u003e service \u003cbr\u003e  at affordable prices. Compare features of \u003cb\u003einternet\u003c/b\u003e services from NetZero.",
+   "cacheId": "_LWH_JDDjuAJ",
+   "formattedUrl": "www.netzero.net/",
+   "htmlFormattedUrl": "www.netzero.net/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.netzero.net/static/start/view/img/frontdoorblack/fast-secure.png",
+      "type": "1",
+      "width": "210",
+      "height": "240"
+     }
+    ],
+    "metatags": [
+     {
+      "title": "NetZero - Internet Service - 4G Mobile Broadband - DSL - ISP - Wireless Internet Access - Free Internet - Cheap Data Plan - Mobile Hotspot",
+      "msvalidate.01": "EC374C7116FA055B7CED2889AF53775F"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Cheap Internet Service | BasicISP",
+   "htmlTitle": "\u003cb\u003eCheap Internet\u003c/b\u003e Service | BasicISP",
+   "link": "http://www.basicisp.net/cheap-internet-service/",
+   "displayLink": "www.basicisp.net",
+   "snippet": "If you're looking for cheap internet with no contracts or cancellation fees, you've   come to the right place. As always, BasicISP is 100% American owned and ...",
+   "htmlSnippet": "If you&#39;re looking for \u003cb\u003echeap internet\u003c/b\u003e with no contracts or cancellation fees, you&#39;ve \u003cbr\u003e  come to the right place. As always, BasicISP is 100% American owned and \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "yn6caFcF8UkJ",
+   "formattedUrl": "www.basicisp.net/cheap-internet-service/",
+   "htmlFormattedUrl": "www.basicisp.net/\u003cb\u003echeap\u003c/b\u003e-\u003cb\u003einternet\u003c/b\u003e-service/"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "High Speed Internet Service Providers | Cheap Internet Services",
+   "htmlTitle": "High Speed Internet Service Providers | \u003cb\u003eCheap Internet\u003c/b\u003e Services",
+   "link": "http://www.allconnect.com/sc-internet/high-speed-internet-services.html",
+   "displayLink": "www.allconnect.com",
+   "snippet": "Compare high speed Internet service providers in your area, including Cable and   DSL providers. Choose your high speed services and order online with ...",
+   "htmlSnippet": "Compare high speed \u003cb\u003eInternet\u003c/b\u003e service providers in your area, including Cable and \u003cbr\u003e  DSL providers. Choose your high speed services and order online with \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "2IxvfW5R15UJ",
+   "formattedUrl": "www.allconnect.com/sc-internet/high-speed-internet-services.html",
+   "htmlFormattedUrl": "www.allconnect.com/sc-\u003cb\u003einternet\u003c/b\u003e/high-speed-\u003cb\u003einternet\u003c/b\u003e-services.html",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.allconnect.com/shared/img/contractors/180x250/spacer.gif",
+      "type": "1",
+      "width": "1",
+      "height": "1"
+     }
+    ],
+    "metatags": [
+     {
+      "y_key": "0936ca0fd0b1916a"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Cheap Internet Access Providers",
+   "htmlTitle": "\u003cb\u003eCheap Internet\u003c/b\u003e Access Providers",
+   "link": "http://areacodes.theispguide.com/",
+   "displayLink": "areacodes.theispguide.com",
+   "snippet": "Internet Access Directory to Find Cheap Internet Access Providers & ISP by Area   Code, State and City.",
+   "htmlSnippet": "Internet Access Directory to Find \u003cb\u003eCheap Internet\u003c/b\u003e Access Providers &amp; ISP by Area \u003cbr\u003e  Code, State and City.",
+   "cacheId": "p_dtYtin18AJ",
+   "formattedUrl": "areacodes.theispguide.com/",
+   "htmlFormattedUrl": "areacodes.theispguide.com/",
+   "pagemap": {
+    "metatags": [
+     {
+      "resource-type": "document",
+      "classification": "Internet Services",
+      "distribution": "Global",
+      "language": "English"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "cheapest internet (to buy, prices, deals) - City-Data Forum",
+   "htmlTitle": "\u003cb\u003echeapest internet\u003c/b\u003e (to buy, prices, deals) - City-Data Forum",
+   "link": "http://www.city-data.com/forum/las-vegas/1138001-cheapest-internet-buy-prices-deals.html",
+   "displayLink": "www.city-data.com",
+   "snippet": "Nov 25, 2010 ... i'm looking for cheap internet, high speed, not bundled, no more than 19.99/mo..   everything i see are \"offers\" for limited promo times.....ar.",
+   "htmlSnippet": "Nov 25, 2010 \u003cb\u003e...\u003c/b\u003e i&#39;m looking for \u003cb\u003echeap internet\u003c/b\u003e, high speed, not bundled, no more than 19.99/mo.. \u003cbr\u003e  everything i see are &quot;offers&quot; for limited promo times.....ar.",
+   "cacheId": "CEDiNhavNZQJ",
+   "formattedUrl": "www.city-data.com/.../1138001-cheapest-internet-buy-prices-deals.html",
+   "htmlFormattedUrl": "www.city-data.com/.../1138001-\u003cb\u003echeapest\u003c/b\u003e-\u003cb\u003einternet\u003c/b\u003e-buy-prices-deals.html"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Comcast offering $10 Internet for low-income families who qualify ...",
+   "htmlTitle": "Comcast offering $10 \u003cb\u003eInternet\u003c/b\u003e for low-income families who qualify \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://blog.chron.com/techblog/2011/08/comcast-offering-10-internet-for-low-income-families-who-qualify/",
+   "displayLink": "blog.chron.com",
+   "snippet": "Aug 8, 2011 ... When Comcast acquired NBC Universal earlier this year, an FCC-mandated   requirement was that the cable giant offer cheap Internet access to ...",
+   "htmlSnippet": "Aug 8, 2011 \u003cb\u003e...\u003c/b\u003e When Comcast acquired NBC Universal earlier this year, an FCC-mandated \u003cbr\u003e  requirement was that the cable giant offer \u003cb\u003echeap Internet\u003c/b\u003e access to \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "VRfVVf9FGV8J",
+   "formattedUrl": "blog.chron.com/.../comcast-offering-10-internet-for-low-income-families- who-qualify/",
+   "htmlFormattedUrl": "blog.chron.com/.../comcast-offering-10-\u003cb\u003einternet\u003c/b\u003e-for-low-income-families- who-qualify/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://blog.chron.com/techblog/files/2011/08/internetessential.png",
+      "type": "1",
+      "width": "321",
+      "height": "157"
+     }
+    ],
+    "metatags": [
+     {
+      "nextgen": "1.7.5"
+     }
+    ],
+    "hcard": [
+     {
+      "fn": "Bill in Houston"
+     },
+     {
+      "fn": "Realist",
+      "nickname": "Realist"
+     },
+     {
+      "fn": "Jason in SL"
+     },
+     {
+      "fn": "Storm14K"
+     },
+     {
+      "fn": "Bill in Houston"
+     },
+     {
+      "fn": "Jason in SL"
+     },
+     {
+      "fn": "Trent28"
+     },
+     {
+      "fn": "John",
+      "nickname": "John"
+     },
+     {
+      "fn": "eric2waters"
+     },
+     {
+      "fn": "Jason in SL"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "What is the Cheapest Internet Service in PDX? | Portland | Yelp",
+   "htmlTitle": "What is the \u003cb\u003eCheapest Internet\u003c/b\u003e Service in PDX? | Portland | Yelp",
+   "link": "http://www.yelp.com/topic/portland-what-is-the-cheapest-internet-service-in-pdx",
+   "displayLink": "www.yelp.com",
+   "snippet": "Oct 6, 2010 ... I pay $47.95 for comcast internet... Is there a cheaper service?i apologize for not   providing a more stimulating thought-provoking topic of ...",
+   "htmlSnippet": "Oct 6, 2010 \u003cb\u003e...\u003c/b\u003e I pay $47.95 for comcast \u003cb\u003einternet\u003c/b\u003e... Is there a \u003cb\u003echeaper\u003c/b\u003e service?i apologize for not \u003cbr\u003e  providing a more stimulating thought-provoking topic of \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "MhLQTe66XEkJ",
+   "formattedUrl": "www.yelp.com/.../portland-what-is-the-cheapest-internet-service-in-pdx",
+   "htmlFormattedUrl": "www.yelp.com/.../portland-what-is-the-\u003cb\u003echeapest\u003c/b\u003e-\u003cb\u003einternet\u003c/b\u003e-service-in-pdx",
+   "pagemap": {
+    "metatags": [
+     {
+      "relativepagescore": "400000"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "FCC plans cheap Internet service and computers to connect poor ...",
+   "htmlTitle": "FCC plans \u003cb\u003echeap Internet\u003c/b\u003e service and computers to connect poor \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://www.washingtonpost.com/business/economy/fcc-plans-cheap-internet-service-and-computers-to-connect-poor-americans/2011/11/08/gIQArnbp3M_story.html",
+   "displayLink": "www.washingtonpost.com",
+   "snippet": "Nov 9, 2011 ... The FCC and cable and computer firms will announce Wednesday a program to   provide low-income homes with $10 monthly broadband ...",
+   "htmlSnippet": "Nov 9, 2011 \u003cb\u003e...\u003c/b\u003e The FCC and cable and computer firms will announce Wednesday a program to \u003cbr\u003e  provide low-income homes with $10 monthly broadband \u003cb\u003e...\u003c/b\u003e",
+   "formattedUrl": "www.washingtonpost.com/...cheap-internet.../gIQArnbp3M_story.html",
+   "htmlFormattedUrl": "www.washingtonpost.com/...\u003cb\u003echeap\u003c/b\u003e-\u003cb\u003einternet\u003c/b\u003e.../gIQArnbp3M_story.html",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://media3.washingtonpost.com/wp-srv/images/twp-50x50.jpg"
+     }
+    ],
+    "metatags": [
+     {
+      "eomportal-instanceid": "55",
+      "eomportal-id": "1965828",
+      "eomportal-loid": "1000.2.3226235569",
+      "eomportal-uuid": "70d64aa8-0a47-11e1-90e0-fdc965034bc9",
+      "eomportal-lastupdate": "Sat Jul 21 10:47:25 EDT 2012",
+      "dc.title": "FCC plans cheap Internet service and computers to connect poor Americans",
+      "dc.date.issued": "2011-11-09",
+      "dc.creator": "Cecilia Kang",
+      "content-language": "en-US",
+      "resource-type": "document",
+      "fb:app_id": "41245586762",
+      "og:title": "FCC plans cheap Internet service and computers to connect poor Americans",
+      "og:type": "article",
+      "og:url": "http://www.washingtonpost.com/business/economy/fcc-plans-cheap-internet-service-and-computers-to-connect-poor-americans/2011/11/08/gIQArnbp3M_story.html",
+      "og:image": "http://media3.washingtonpost.com/wp-srv/images/twp-50x50.jpg",
+      "og:site_name": "Washington Post",
+      "og:description": "The FCC and cable and computer firms will announce Wednesday a program to provide low-income homes with $10 monthly broadband Internet service and $150 computers.",
+      "fb:admins": "1517346030,527377623,775397496,1607455980"
+     }
+    ]
+   }
+  }
+ ]
+}

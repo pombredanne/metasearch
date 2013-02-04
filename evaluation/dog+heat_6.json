@@ -1,0 +1,383 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "nextPage": [
+   {
+    "title": "Google Custom Search - dog heat",
+    "totalResults": "59400000",
+    "searchTerms": "dog heat",
+    "count": 10,
+    "startIndex": 71,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "017401104989814545383:mf4lavmtuva"
+   }
+  ],
+  "request": [
+   {
+    "title": "Google Custom Search - dog heat",
+    "totalResults": "59400000",
+    "searchTerms": "dog heat",
+    "count": 10,
+    "startIndex": 61,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "017401104989814545383:mf4lavmtuva"
+   }
+  ],
+  "previousPage": [
+   {
+    "title": "Google Custom Search - dog heat",
+    "totalResults": "59400000",
+    "searchTerms": "dog heat",
+    "count": 10,
+    "startIndex": 51,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "017401104989814545383:mf4lavmtuva"
+   }
+  ]
+ },
+ "context": {
+  "title": "College MetaSearch Comparison"
+ },
+ "searchInformation": {
+  "searchTime": 0.171821,
+  "formattedSearchTime": "0.17",
+  "totalResults": "59400000",
+  "formattedTotalResults": "59,400,000"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "What Are The Signs Of Heat Stroke In Pets?",
+   "htmlTitle": "What Are The Signs Of \u003cb\u003eHeat\u003c/b\u003e Stroke In Pets?",
+   "link": "http://vetmedicine.about.com/od/summerheathhazards/f/FAQ_heatstroke.htm",
+   "displayLink": "vetmedicine.about.com",
+   "snippet": "Dogs and cats have little choice when it comes to keeping cool in summer heat.   Recognizing the signs of heatstroke will allow for prompt treatment; and time is ...",
+   "htmlSnippet": "\u003cb\u003eDogs\u003c/b\u003e and cats have little choice when it comes to keeping cool in summer \u003cb\u003eheat\u003c/b\u003e. \u003cbr\u003e  Recognizing the signs of heatstroke will allow for prompt treatment; and time is \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "muF1RR8JsQUJ",
+   "formattedUrl": "vetmedicine.about.com/.../summerheathhazards/f/FAQ_heatstroke.htm",
+   "htmlFormattedUrl": "vetmedicine.about.com/.../summer\u003cb\u003eheat\u003c/b\u003ehhazards/f/FAQ_\u003cb\u003eheat\u003c/b\u003estroke.htm",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://0.tqn.com/d/vetmedicine/1/G/0/_/dog-panting-wheany-sm.jpg",
+      "type": "1",
+      "width": "128",
+      "height": "128"
+     }
+    ],
+    "metatags": [
+     {
+      "pd": "Tuesday, 10-Apr-2012 05:48:15 UTC",
+      "og:title": "What Are The Signs Of Heat Stroke In Pets?",
+      "og:type": "article",
+      "og:image": "http://0.tqn.com/d/vetmedicine/1/G/0/_/dog-panting-wheany-sm.jpg",
+      "og:url": "http://vetmedicine.about.com/od/summerheathhazards/f/FAQ_heatstroke.htm",
+      "og:site_name": "About.com Veterinary Medicine",
+      "fb:app_id": "121030274606741"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "11 Ways To Protect Your Pet From Heat Stroke | Webvet",
+   "htmlTitle": "11 Ways To Protect Your \u003cb\u003ePet\u003c/b\u003e From \u003cb\u003eHeat\u003c/b\u003e Stroke | Webvet",
+   "link": "http://www.webvet.com/main/2012/05/08/11-ways-protect-your-pet-heat-stroke",
+   "displayLink": "www.webvet.com",
+   "snippet": "May 8, 2012 ... As the weather starts getting warmer, don't forget that dogs and cats face   increased risk of heat stroke during the summer. Unlike people, they ...",
+   "htmlSnippet": "May 8, 2012 \u003cb\u003e...\u003c/b\u003e As the weather starts getting warmer, don&#39;t forget that \u003cb\u003edogs\u003c/b\u003e and cats face \u003cbr\u003e  increased risk of \u003cb\u003eheat\u003c/b\u003e stroke during the summer. Unlike people, they \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "vROikiVr9LIJ",
+   "formattedUrl": "www.webvet.com/main/2012/.../11-ways-protect-your-pet-heat-stroke",
+   "htmlFormattedUrl": "www.webvet.com/main/2012/.../11-ways-protect-your-\u003cb\u003epet\u003c/b\u003e-\u003cb\u003eheat\u003c/b\u003e-stroke",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.webvet.com/main/sites/default/files/images/1820090905142120Mastiffandherpuppy_0.storyimage.jpg"
+     }
+    ],
+    "metatags": [
+     {
+      "og:locale": "en_US",
+      "og:title": "11 Ways To Protect Your Pet From Heat Stroke",
+      "og:type": "article",
+      "og:url": "http://www.webvet.com/main/2012/05/08/11-ways-protect-your-pet-heat-stroke",
+      "og:image": "http://www.webvet.com/main/sites/default/files/images/1820090905142120Mastiffandherpuppy_0.storyimage.jpg",
+      "og:site_name": "Webvet",
+      "fb:admins": "656820273",
+      "viewport": "width=device-width",
+      "apple-mobile-web-app-capable": "yes"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Pet Beds | Heated | PetSafe",
+   "htmlTitle": "\u003cb\u003ePet\u003c/b\u003e Beds | \u003cb\u003eHeated\u003c/b\u003e | PetSafe",
+   "link": "http://www.petsafe.net/products/beds",
+   "displayLink": "www.petsafe.net",
+   "snippet": "PetSafe offers a full line of heated, massaging orthopedic wellness pet beds in all   sizes for your dog or cat.",
+   "htmlSnippet": "PetSafe offers a full line of \u003cb\u003eheated\u003c/b\u003e, massaging orthopedic wellness \u003cb\u003epet\u003c/b\u003e beds in all \u003cbr\u003e  sizes for your \u003cb\u003edog\u003c/b\u003e or cat.",
+   "cacheId": "27IlNGeMUvMJ",
+   "formattedUrl": "www.petsafe.net/products/beds",
+   "htmlFormattedUrl": "www.\u003cb\u003epet\u003c/b\u003esafe.net/products/beds",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.petsafe.net/getattachment/bf40035f-2bb2-4c5f-ad5e-92f5345127fb/heated-wellness-sleeper-small?maxSideSize=150&width=150&height=150",
+      "type": "1",
+      "width": "120",
+      "height": "120"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "My dog is in pain and discomfort during heat ? - Yahoo! UK & Ireland ...",
+   "htmlTitle": "My \u003cb\u003edog\u003c/b\u003e is in pain and discomfort during \u003cb\u003eheat\u003c/b\u003e ? - Yahoo! UK &amp; Ireland \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://uk.answers.yahoo.com/question/index?qid=20120125104916AAki3UK",
+   "displayLink": "uk.answers.yahoo.com",
+   "snippet": "Your dog is NOT in pain and discomfort. She is exhibiting mating behavior!!!! The   tail bending to the side is perfectly normal.",
+   "htmlSnippet": "Your \u003cb\u003edog\u003c/b\u003e is NOT in pain and discomfort. She is exhibiting mating behavior!!!! The \u003cbr\u003e  tail bending to the side is perfectly normal.",
+   "cacheId": "dzuqQAvLMcwJ",
+   "formattedUrl": "uk.answers.yahoo.com/question/index?qid...",
+   "htmlFormattedUrl": "uk.answers.yahoo.com/question/index?qid...",
+   "pagemap": {
+    "metatags": [
+     {
+      "language": "en_GB",
+      "title": "My dog is in pain and discomfort during heat ? - Yahoo! UK & Ireland Answers"
+     }
+    ],
+    "hcard": [
+     {
+      "fn": "Sasha",
+      "nickname": "Sasha",
+      "url": "http://uk.answers.yahoo.com/my/profile?show=vTFnyoFKaa",
+      "url_text": "Sasha",
+      "photo": "http://l.yimg.com/a/i/identity2/profile_48d.png"
+     },
+     {
+      "fn": "Great Dane Lover",
+      "url": "http://uk.answers.yahoo.com/my/profile?show=2be14aaeddfaa187fb19a7f9392bf657aa",
+      "url_text": "Great Dane Lover",
+      "photo": "http://socialprofiles.zenfs.com/images/f235b0e8faebac9e476c0f63072ad565_48.jpeg"
+     },
+     {
+      "fn": "Akita Lover",
+      "url": "http://uk.answers.yahoo.com/my/profile?show=tNl9eZUNaa",
+      "url_text": "Akita Lover",
+      "photo": "http://socialprofiles.zenfs.com/images/df9c1fa72fa2d369d8cbef58c194ce32_48.jpeg"
+     },
+     {
+      "fn": "Sherrie",
+      "nickname": "Sherrie",
+      "url": "http://uk.answers.yahoo.com/my/profile?show=lIiHgLO5aa",
+      "url_text": "Sherrie",
+      "photo": "http://l.yimg.com/a/i/identity2/profile_48e.png"
+     },
+     {
+      "fn": "Myself",
+      "nickname": "Myself",
+      "url": "http://uk.answers.yahoo.com/my/profile?show=UXJJX8Myaa",
+      "url_text": "Myself",
+      "photo": "http://l.yimg.com/dg/users/1PmeUBXanAAEC9oHEhDIFuBYHKQ==.medium.png"
+     },
+     {
+      "fn": "*Cara*",
+      "url": "http://uk.answers.yahoo.com/my/profile?show=b2588303cd0bf17f0993891608852540aa",
+      "url_text": "*Cara*",
+      "photo": "http://l.yimg.com/sc/28169/answers2/images/a/i/identity/nopic_48.gif"
+     },
+     {
+      "fn": "Nicole",
+      "nickname": "Nicole",
+      "url": "http://uk.answers.yahoo.com/my/profile?show=3pooUx56aa",
+      "url_text": "Nicole",
+      "photo": "http://l.yimg.com/sc/28169/answers2/images/a/i/identity/nopic_48.gif"
+     },
+     {
+      "fn": "STEPHEN",
+      "nickname": "STEPHEN",
+      "url": "http://uk.answers.yahoo.com/my/profile?show=eXdgBLcVaa",
+      "url_text": "STEPHEN",
+      "photo": "http://l.yimg.com/sc/28169/answers2/images/a/i/identity/nopic_48.gif"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "THE RUFF REPORT: For dogs, heat stroke really is no sweat ...",
+   "htmlTitle": "THE RUFF REPORT: For \u003cb\u003edogs\u003c/b\u003e, \u003cb\u003eheat\u003c/b\u003e stroke really is no sweat \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://www.patriotledger.com/topstories/x681123831/THE-RUFF-REPORT-For-dogs-heat-stroke-really-is-no-sweat",
+   "displayLink": "www.patriotledger.com",
+   "snippet": "Jun 24, 2012 ... A sunny summer day may seem perfect to you for a walk in the park or along a   sandy beach, but these kinds of seemingly delightful days can ...",
+   "htmlSnippet": "Jun 24, 2012 \u003cb\u003e...\u003c/b\u003e A sunny summer day may seem perfect to you for a walk in the park or along a \u003cbr\u003e  sandy beach, but these kinds of seemingly delightful days can \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "vbcsh_0i9MEJ",
+   "formattedUrl": "www.patriotledger.com/.../THE-RUFF-REPORT-For-dogs-heat-stroke-really- is-no-sweat",
+   "htmlFormattedUrl": "www.patriotledger.com/.../THE-RUFF-REPORT-For-\u003cb\u003edogs\u003c/b\u003e-\u003cb\u003eheat\u003c/b\u003e-stroke-really- is-no-sweat",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://patriotledger.static.ghm.zope.net/resources/deep_dish/imgs/icons/patriotledger_logo.png"
+     }
+    ],
+    "metatags": [
+     {
+      "copyright": "Copyright 2006-2012 GateHouse Media, Inc. Some Rights Reserved.",
+      "y_key": "56086d66069e9bf6",
+      "msvalidate.01": "7E15F9269E2CE66F2A488ABB04B5015E",
+      "objecttype": "Document",
+      "rating": "General",
+      "author": "GateHouse Media, Inc.",
+      "distribution": "Global",
+      "viewport": "width=device-width, user-scalable=yes",
+      "og:image": "http://patriotledger.static.ghm.zope.net/resources/deep_dish/imgs/icons/patriotledger_logo.png",
+      "og:title": "THE RUFF REPORT: For dogs, heat stroke really is no sweat",
+      "og:site_name": "http://www.patriotledger.com",
+      "og:url": "http://www.patriotledger.com/topstories/x681123831/THE-RUFF-REPORT-For-dogs-heat-stroke-really-is-no-sweat",
+      "og:type": "article",
+      "og:description": "\u003cp style=\"margin-bottom: 0in\"\u003e  A sunny summer day may seem perfect to you for a walk in the park or along a sandy beach, but these kinds of seemingly delightful days can be quickly turn into a death trap for playful dogs, a leading animal welfare agency warns.",
+      "fb:app_id": "226522794053213"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "a dog in heat - WordReference Forums",
+   "htmlTitle": "a \u003cb\u003edog\u003c/b\u003e in \u003cb\u003eheat\u003c/b\u003e - WordReference Forums",
+   "link": "http://forum.wordreference.com/showthread.php?t=219198",
+   "displayLink": "forum.wordreference.com",
+   "snippet": "Hi everybody!!! Well, I don´t know what the expression \"a dog in heat\" means, so I   would like you to help me. Thanks in advance! :D.",
+   "htmlSnippet": "Hi everybody!!! Well, I don´t know what the expression &quot;a \u003cb\u003edog\u003c/b\u003e in \u003cb\u003eheat\u003c/b\u003e&quot; means, so I \u003cbr\u003e  would like you to help me. Thanks in advance! :D.",
+   "cacheId": "ZlOroY7Gq5UJ",
+   "formattedUrl": "forum.wordreference.com/showthread.php?t=219198",
+   "htmlFormattedUrl": "forum.wordreference.com/showthread.php?t=219198",
+   "pagemap": {
+    "metatags": [
+     {
+      "vb_meta_bburl": "http://forum.wordreference.com"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Dog Breeding Timing - Breeding Heat Time for Dogs | petMD",
+   "htmlTitle": "\u003cb\u003eDog\u003c/b\u003e Breeding Timing - Breeding \u003cb\u003eHeat\u003c/b\u003e Time for \u003cb\u003eDogs\u003c/b\u003e | petMD",
+   "link": "http://www.petmd.com/dog/conditions/reproductive/c_multi_breeding_timing",
+   "displayLink": "www.petmd.com",
+   "snippet": "Breeding timing refers to the purposeful timing of insemination during the estrus (  heat) period in order to maximize fertility and the chances of conception.",
+   "htmlSnippet": "Breeding timing refers to the purposeful timing of insemination during the estrus (\u003cbr\u003e  \u003cb\u003eheat\u003c/b\u003e) period in order to maximize fertility and the chances of conception.",
+   "cacheId": "aBDTmThKf4YJ",
+   "formattedUrl": "www.petmd.com/dog/conditions/.../c_multi_breeding_timing",
+   "htmlFormattedUrl": "www.\u003cb\u003epet\u003c/b\u003emd.com/\u003cb\u003edog\u003c/b\u003e/conditions/.../c_multi_breeding_timing",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.petmd.com/themes/petmd/images/logo-petmd.png"
+     }
+    ],
+    "metatags": [
+     {
+      "msvalidate.01": "4A1303699889D46C020E26C2B9E97200",
+      "og:image": "http://www.petmd.com/themes/petmd/images/logo-petmd.png"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "ACEK9.COM By Radiotronics,Inc. Home",
+   "htmlTitle": "ACEK9.COM By Radiotronics,Inc. Home",
+   "link": "http://www.acek9.com/",
+   "displayLink": "www.acek9.com",
+   "snippet": "Welcome to Acek9.com by Radiotronics Inc.,Manufacturer of K-9 Heat Alarm(R),   K9 ... We have developed the next generation of canine products. Reviewing all ...",
+   "htmlSnippet": "Welcome to Acek9.com by Radiotronics Inc.,Manufacturer of K-9 \u003cb\u003eHeat\u003c/b\u003e Alarm(R), \u003cbr\u003e  K9 \u003cb\u003e...\u003c/b\u003e We have developed the next generation of \u003cb\u003ecanine\u003c/b\u003e products. Reviewing all \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "rRverVnKT9cJ",
+   "formattedUrl": "www.acek9.com/",
+   "htmlFormattedUrl": "www.acek9.com/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.acek9.com/hot_n_pop_pro/hp5010_320_240.jpg",
+      "type": "1",
+      "width": "256",
+      "height": "185"
+     }
+    ],
+    "metatags": [
+     {
+      "rating": "General",
+      "progid": "FrontPage.Editor.Document"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Dogs can suffer heat stroke - WTOP.com",
+   "htmlTitle": "\u003cb\u003eDogs\u003c/b\u003e can suffer \u003cb\u003eheat\u003c/b\u003e stroke - WTOP.com",
+   "link": "http://www.wtop.com/41/2932759/Dogs-can-suffer-heat-stroke",
+   "displayLink": "www.wtop.com",
+   "snippet": "Jul 6, 2012 ... Like in people, dogs can suffer from heat stroke. Watch for heavy panting and   ropy saliva.",
+   "htmlSnippet": "Jul 6, 2012 \u003cb\u003e...\u003c/b\u003e Like in people, \u003cb\u003edogs\u003c/b\u003e can suffer from \u003cb\u003eheat\u003c/b\u003e stroke. Watch for heavy panting and \u003cbr\u003e  ropy saliva.",
+   "cacheId": "Bpcnvzbx770J",
+   "formattedUrl": "www.wtop.com/41/2932759/Dogs-can-suffer-heat-stroke",
+   "htmlFormattedUrl": "www.wtop.com/41/2932759/\u003cb\u003eDogs\u003c/b\u003e-can-suffer-\u003cb\u003eheat\u003c/b\u003e-stroke",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.wtop.com/emedia/wtop/25/2541/254180.JPG",
+      "type": "1",
+      "width": "259",
+      "height": "194"
+     }
+    ],
+    "thumbnail": [
+     {
+      "src": "http://www.wtop.com/emedia/wtop/25/2541/254180.JPG"
+     }
+    ],
+    "metatags": [
+     {
+      "modify_time": "07062012",
+      "og:url": "http://www.wtop.com/41/2932759/Dogs-can-suffer-heat-stroke",
+      "og:title": "Dogs can suffer heat stroke",
+      "title": "Dogs can suffer heat stroke",
+      "og:description": "Like in people, dogs can suffer from heat  stroke. Watch for heavy panting and ropy saliva.",
+      "thumbnail": "http://www.wtop.com/emedia/wtop/25/2541/254180.JPG",
+      "og:type": "article",
+      "author": "webmaster@wtop.com",
+      "copyright": "Copyright (c) 2012 WTOP RADIO"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "like a dog on heat - Wiktionary",
+   "htmlTitle": "like a \u003cb\u003edog\u003c/b\u003e on \u003cb\u003eheat\u003c/b\u003e - Wiktionary",
+   "link": "http://en.wiktionary.org/wiki/like_a_dog_on_heat",
+   "displayLink": "en.wiktionary.org",
+   "snippet": "like a dog on heat. Definition from Wiktionary, the free dictionary. Jump to:   navigation, search ... [edit] Translations. like a dog in heat — see like a dog in   heat ...",
+   "htmlSnippet": "like a \u003cb\u003edog\u003c/b\u003e on \u003cb\u003eheat\u003c/b\u003e. Definition from Wiktionary, the free dictionary. Jump to: \u003cbr\u003e  navigation, search \u003cb\u003e...\u003c/b\u003e [edit] Translations. like a \u003cb\u003edog\u003c/b\u003e in \u003cb\u003eheat\u003c/b\u003e — see like a \u003cb\u003edog\u003c/b\u003e in \u003cbr\u003e  \u003cb\u003eheat\u003c/b\u003e \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "tztVVGoVKJYJ",
+   "formattedUrl": "en.wiktionary.org/wiki/like_a_dog_on_heat",
+   "htmlFormattedUrl": "en.wiktionary.org/wiki/like_a_\u003cb\u003edog\u003c/b\u003e_on_\u003cb\u003eheat\u003c/b\u003e"
+  }
+ ]
+}

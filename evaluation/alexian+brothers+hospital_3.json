@@ -1,0 +1,472 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "nextPage": [
+   {
+    "title": "Google Custom Search - alexian brothers hospital",
+    "totalResults": "27700",
+    "searchTerms": "alexian brothers hospital",
+    "count": 10,
+    "startIndex": 41,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "017401104989814545383:mf4lavmtuva"
+   }
+  ],
+  "request": [
+   {
+    "title": "Google Custom Search - alexian brothers hospital",
+    "totalResults": "27700",
+    "searchTerms": "alexian brothers hospital",
+    "count": 10,
+    "startIndex": 31,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "017401104989814545383:mf4lavmtuva"
+   }
+  ],
+  "previousPage": [
+   {
+    "title": "Google Custom Search - alexian brothers hospital",
+    "totalResults": "27700",
+    "searchTerms": "alexian brothers hospital",
+    "count": 10,
+    "startIndex": 21,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "017401104989814545383:mf4lavmtuva"
+   }
+  ]
+ },
+ "context": {
+  "title": "College MetaSearch Comparison"
+ },
+ "searchInformation": {
+  "searchTime": 0.150123,
+  "formattedSearchTime": "0.15",
+  "totalResults": "27700",
+  "formattedTotalResults": "27,700"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "Cancer Institute - Alexian Brothers Health System",
+   "htmlTitle": "Cancer Institute - \u003cb\u003eAlexian Brothers\u003c/b\u003e Health System",
+   "link": "http://www.alexianbrothershealth.org/cancer/",
+   "displayLink": "www.alexianbrothershealth.org",
+   "snippet": "The Cancer Institute at Alexian Brothers Health System provides comprehensive   oncology services at Alexian Brothers Medical Center, Elk Grove Village, and ...",
+   "htmlSnippet": "The Cancer Institute at Alexian Brothers Health System provides comprehensive \u003cbr\u003e  oncology services at \u003cb\u003eAlexian Brothers Medical Center\u003c/b\u003e, Elk Grove Village, and \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "f30HfPT0cHMJ",
+   "formattedUrl": "www.alexianbrothershealth.org/cancer/",
+   "htmlFormattedUrl": "www.\u003cb\u003ealexianbrothers\u003c/b\u003ehealth.org/cancer/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.alexianbrothershealth.org/img/marketing/ABHS-COC-Banner.jpg",
+      "type": "1",
+      "width": "345",
+      "height": "146"
+     }
+    ],
+    "metatags": [
+     {
+      "copyright": "(c)1998-2012 Geonetric. All Rights Reserved."
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Support Groups at Alexian - Alexian Brothers Health System",
+   "htmlTitle": "Support Groups at Alexian - \u003cb\u003eAlexian Brothers\u003c/b\u003e Health System",
+   "link": "http://www.alexianbrothershealth.org/services/support-groups/",
+   "displayLink": "www.alexianbrothershealth.org",
+   "snippet": "Learn more about Alexian Brothers Behavioral Health Hospital Eating Disorders   ... Center for Spiritual Care at Alexian Brothers Medical Center, Interfaith Parish ...",
+   "htmlSnippet": "Learn more about Alexian Brothers Behavioral Health Hospital Eating Disorders \u003cbr\u003e  \u003cb\u003e...\u003c/b\u003e Center for Spiritual Care at \u003cb\u003eAlexian Brothers Medical Center\u003c/b\u003e, Interfaith Parish \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "lUCToUDY-ZEJ",
+   "formattedUrl": "www.alexianbrothershealth.org/services/support-groups/",
+   "htmlFormattedUrl": "www.\u003cb\u003ealexianbrothers\u003c/b\u003ehealth.org/services/support-groups/",
+   "pagemap": {
+    "metatags": [
+     {
+      "copyright": "(c)1998-2012 Geonetric. All Rights Reserved."
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Alexian Brothers Pediatric Services - Alexian Brothers Health System",
+   "htmlTitle": "\u003cb\u003eAlexian Brothers\u003c/b\u003e Pediatric Services - \u003cb\u003eAlexian Brothers\u003c/b\u003e Health System",
+   "link": "http://www.alexianbrothershealth.org/services/pediatric/",
+   "displayLink": "www.alexianbrothershealth.org",
+   "snippet": "Immediate Care Centers · Alexian Brothers Medical Center · St. Alexius Medical   Center · Alexian Brothers Behavioral Health Hospital · Alexian Brothers Women ...",
+   "htmlSnippet": "Immediate Care Centers &middot; \u003cb\u003eAlexian Brothers Medical Center\u003c/b\u003e &middot; St. Alexius Medical \u003cbr\u003e  Center &middot; Alexian Brothers Behavioral Health Hospital &middot; Alexian Brothers Women \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "Clc4b9-QMOsJ",
+   "formattedUrl": "www.alexianbrothershealth.org/services/pediatric/",
+   "htmlFormattedUrl": "www.\u003cb\u003ealexianbrothers\u003c/b\u003ehealth.org/services/pediatric/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.alexianbrothershealth.org/img/marketing/WCH-Banner.jpg",
+      "type": "1",
+      "width": "345",
+      "height": "146"
+     }
+    ],
+    "metatags": [
+     {
+      "copyright": "(c)1998-2012 Geonetric. All Rights Reserved."
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Center for Self-Injury Recovery Services at the Alexian Brothers ...",
+   "htmlTitle": "Center for Self-Injury Recovery Services at the \u003cb\u003eAlexian Brothers\u003c/b\u003e \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://www.alexianbrothershealth.org/services/abbhh/ourservices/self-injury/",
+   "displayLink": "www.alexianbrothershealth.org",
+   "snippet": "Self-Injury Recovery Services at Alexian Brothers Behavioral Health Hospital   focuses on developing vital coping skills to manage your emotions and overcome ...",
+   "htmlSnippet": "Self-Injury Recovery Services at \u003cb\u003eAlexian Brothers\u003c/b\u003e Behavioral Health \u003cb\u003eHospital\u003c/b\u003e \u003cbr\u003e  focuses on developing vital coping skills to manage your emotions and overcome \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "NMn2U6P9R50J",
+   "formattedUrl": "www.alexianbrothershealth.org/services/abbhh/.../self-injury/",
+   "htmlFormattedUrl": "www.\u003cb\u003ealexianbrothers\u003c/b\u003ehealth.org/services/abbhh/.../self-injury/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.alexianbrothershealth.org/img/stock/self_injury.JPG",
+      "type": "1",
+      "width": "160",
+      "height": "240"
+     }
+    ],
+    "metatags": [
+     {
+      "copyright": "(c)1998-2012 Geonetric. All Rights Reserved."
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Alexian Brothers Behavioral Health Hospital Services - Alexian ...",
+   "htmlTitle": "\u003cb\u003eAlexian Brothers\u003c/b\u003e Behavioral Health \u003cb\u003eHospital\u003c/b\u003e Services - Alexian \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://www.alexianbrothershealth.org/services/abbhh/ourservices/",
+   "displayLink": "www.alexianbrothershealth.org",
+   "snippet": "Alexian Brothers Behavioral Health Hospital Services. The Alexian Brothers have   historically offered hope and help to those who are hurting in mind, body and ...",
+   "htmlSnippet": "\u003cb\u003eAlexian Brothers\u003c/b\u003e Behavioral Health \u003cb\u003eHospital\u003c/b\u003e Services. The \u003cb\u003eAlexian Brothers\u003c/b\u003e have \u003cbr\u003e  historically offered hope and help to those who are hurting in mind, body and \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "NxP2DBaA6NQJ",
+   "formattedUrl": "www.alexianbrothershealth.org/services/abbhh/ourservices/",
+   "htmlFormattedUrl": "www.\u003cb\u003ealexianbrothers\u003c/b\u003ehealth.org/services/abbhh/ourservices/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.alexianbrothershealth.org/img/marketing/Brochure_Download_Button.jpg",
+      "type": "1",
+      "width": "121",
+      "height": "52"
+     }
+    ],
+    "metatags": [
+     {
+      "copyright": "(c)1998-2012 Geonetric. All Rights Reserved."
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Alexian Brothers Health System Alexian Brothers Medical Center Jobs",
+   "htmlTitle": "Alexian Brothers Health System \u003cb\u003eAlexian Brothers Medical Center\u003c/b\u003e Jobs",
+   "link": "http://jobs.alexianbrothershealth.org/facilities/Alexian%20Brothers%20Medical%20Center.aspx",
+   "displayLink": "jobs.alexianbrothershealth.org",
+   "snippet": "5 days ago ... Alexian Brothers Medical Center Jobswith Alexian Brothers Health System.",
+   "htmlSnippet": "5 days ago \u003cb\u003e...\u003c/b\u003e \u003cb\u003eAlexian Brothers Medical Center\u003c/b\u003e Jobswith Alexian Brothers Health System.",
+   "cacheId": "4mKB9FPreQMJ",
+   "formattedUrl": "jobs.alexianbrothershealth.org/.../Alexian%20Brothers%20Medical%20Center .aspx",
+   "htmlFormattedUrl": "jobs.\u003cb\u003ealexianbrothers\u003c/b\u003ehealth.org/.../\u003cb\u003eAlexian\u003c/b\u003e%20\u003cb\u003eBrothers\u003c/b\u003e%20Medical%20Center .aspx",
+   "pagemap": {
+    "metatags": [
+     {
+      "revisit": "1 days",
+      "rating": "general",
+      "distribution": "global",
+      "classification": "job board",
+      "author": "OptiJob.com",
+      "copyright": "Copyright (c) 2011 by OptiJob"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Alexian Brothers Behavioral Health Hospital Center for Addiction ...",
+   "htmlTitle": "\u003cb\u003eAlexian Brothers\u003c/b\u003e Behavioral Health \u003cb\u003eHospital\u003c/b\u003e Center for Addiction \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://www.alexianbrothershealth.org/services/abbhh/center-addiction-medicine/",
+   "displayLink": "www.alexianbrothershealth.org",
+   "snippet": "The Center for Addiction Medicine offers a variety of treatment programs and   services for individuals suffering from chemical dependency and other addiction ...",
+   "htmlSnippet": "The Center for Addiction Medicine offers a variety of treatment programs and \u003cbr\u003e  services for individuals suffering from chemical dependency and other addiction \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "0p_4U-uv7BEJ",
+   "formattedUrl": "www.alexianbrothershealth.org/services/.../center-addiction-medicine/",
+   "htmlFormattedUrl": "www.\u003cb\u003ealexianbrothers\u003c/b\u003ehealth.org/services/.../center-addiction-medicine/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.alexianbrothershealth.org/img/stock/abbhh_addiction.jpg",
+      "type": "1",
+      "width": "160",
+      "height": "240"
+     }
+    ],
+    "metatags": [
+     {
+      "copyright": "(c)1998-2012 Geonetric. All Rights Reserved."
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Alexian Brothers Medical Center in Elk Grove Village, IL - US News ...",
+   "htmlTitle": "\u003cb\u003eAlexian Brothers Medical Center\u003c/b\u003e in Elk Grove Village, IL - US News \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://health.usnews.com/best-hospitals/area/il/alexian-brothers-medical-center-6431613",
+   "displayLink": "health.usnews.com",
+   "snippet": "Alexian Brothers Medical Center is a general medical and surgical hospital in Elk   Grove Village, IL. It performed nearly at the level of nationally ranked U.S. ...",
+   "htmlSnippet": "\u003cb\u003eAlexian Brothers Medical Center\u003c/b\u003e is a general medical and surgical hospital in Elk \u003cbr\u003e  Grove Village, IL. It performed nearly at the level of nationally ranked U.S. \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "a_DS9vxuagcJ",
+   "formattedUrl": "health.usnews.com/...hospitals/.../alexian-brothers-medical-center-6431613",
+   "htmlFormattedUrl": "health.usnews.com/...\u003cb\u003ehospitals\u003c/b\u003e/.../\u003cb\u003ealexian\u003c/b\u003e-\u003cb\u003ebrothers\u003c/b\u003e-\u003cb\u003emedical-center\u003c/b\u003e-6431613",
+   "pagemap": {
+    "metatags": [
+     {
+      "site": "besthospitals",
+      "zone": "listings",
+      "usn-content-type": "profile",
+      "fb:page_id": "5834919267"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Adult Partial Hospital Program & Adult Intensive Outpatient Program ...",
+   "htmlTitle": "Adult Partial \u003cb\u003eHospital\u003c/b\u003e Program &amp; Adult Intensive Outpatient Program \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://www.alexianbrothershealth.org/services/abbhh/ourservices/adult-partial-hospital/",
+   "displayLink": "www.alexianbrothershealth.org",
+   "snippet": "Adult Partial Hospital Program at Alexian Brothers Behavioral Health Hospital   provides an intensive therapeutic day program for adults with an emotional   illness.",
+   "htmlSnippet": "Adult Partial \u003cb\u003eHospital\u003c/b\u003e Program at \u003cb\u003eAlexian Brothers\u003c/b\u003e Behavioral Health \u003cb\u003eHospital\u003c/b\u003e \u003cbr\u003e  provides an intensive therapeutic day program for adults with an emotional \u003cbr\u003e  illness.",
+   "cacheId": "1LNddCsj3nYJ",
+   "formattedUrl": "www.alexianbrothershealth.org/services/.../adult-partial-hospital/",
+   "htmlFormattedUrl": "www.\u003cb\u003ealexianbrothers\u003c/b\u003ehealth.org/services/.../adult-partial-\u003cb\u003ehospital\u003c/b\u003e/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.alexianbrothershealth.org/img/stock/adult_partial.JPG",
+      "type": "1",
+      "width": "160",
+      "height": "240"
+     }
+    ],
+    "metatags": [
+     {
+      "copyright": "(c)1998-2012 Geonetric. All Rights Reserved."
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Alexian Brothers Medical Center - Elk Grove Village, IL",
+   "htmlTitle": "\u003cb\u003eAlexian Brothers Medical Center\u003c/b\u003e - Elk Grove Village, IL",
+   "link": "http://www.yelp.com/biz/alexian-brothers-medical-center-elk-grove-village",
+   "displayLink": "www.yelp.com",
+   "snippet": "14 Reviews of Alexian Brothers Medical Center \"AWESOME!!!! I have only ever   been in one other hospital, which was great, too. I stayed in this hospital for three ...",
+   "htmlSnippet": "14 Reviews of \u003cb\u003eAlexian Brothers Medical Center\u003c/b\u003e &quot;AWESOME!!!! I have only ever \u003cbr\u003e  been in one other hospital, which was great, too. I stayed in this hospital for three \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "-XP7EAnIyOcJ",
+   "formattedUrl": "www.yelp.com/biz/alexian-brothers-medical-center-elk-grove-village",
+   "htmlFormattedUrl": "www.yelp.com/biz/\u003cb\u003ealexian\u003c/b\u003e-\u003cb\u003ebrothers\u003c/b\u003e-\u003cb\u003emedical-center\u003c/b\u003e-elk-grove-village",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://media1.ak.yelpcdn.com/static/201206263223336441/img/gfx/blank_biz_medium.gif"
+     }
+    ],
+    "aggregaterating": [
+     {
+      "ratingvalue": "4.0",
+      "reviewcount": "14"
+     }
+    ],
+    "postaladdress": [
+     {
+      "streetaddress": "800 Biesterfield Rd",
+      "addresslocality": "Elk Grove Village",
+      "addressregion": "IL",
+      "postalcode": "60007"
+     }
+    ],
+    "localbusiness": [
+     {
+      "name": "Alexian Brothers Medical Center",
+      "telephone": "(847) 437-1324"
+     }
+    ],
+    "rating": [
+     {
+      "ratingvalue": "5.0"
+     },
+     {
+      "ratingvalue": "2.0"
+     },
+     {
+      "ratingvalue": "4.0"
+     },
+     {
+      "ratingvalue": "2.0"
+     },
+     {
+      "ratingvalue": "3.0"
+     },
+     {
+      "ratingvalue": "5.0"
+     },
+     {
+      "ratingvalue": "4.0"
+     },
+     {
+      "ratingvalue": "5.0"
+     },
+     {
+      "ratingvalue": "5.0"
+     },
+     {
+      "ratingvalue": "2.0"
+     },
+     {
+      "ratingvalue": "5.0"
+     },
+     {
+      "ratingvalue": "5.0"
+     },
+     {
+      "ratingvalue": "5.0"
+     },
+     {
+      "ratingvalue": "5.0"
+     }
+    ],
+    "metatags": [
+     {
+      "og:url": "http://www.yelp.com/biz/A_64i-xKJeaiyUjqsrbW2Q",
+      "og:longitude": "-88.017454",
+      "og:type": "company",
+      "og:latitude": "42.0041306",
+      "og:title": "Alexian Brothers Medical Center",
+      "fb:app_id": "97534753161",
+      "og:image": "http://media1.ak.yelpcdn.com/static/201206263223336441/img/gfx/blank_biz_medium.gif",
+      "relativepagescore": "638734"
+     }
+    ],
+    "hreviewaggregate": [
+     {
+      "count": "14"
+     }
+    ],
+    "review": [
+     {
+      "ratingstars": "4.0",
+      "ratingcount": "14"
+     },
+     {
+      "author": "Kai R.",
+      "datepublished": "2012-06-16",
+      "description": "AWESOME!!!! I have only ever been in one other hospital, which was great, too. I stayed in this hospital for three nights and was treated like a VIP. The only negative to this hospital is that..."
+     },
+     {
+      "author": "Shak K.",
+      "datepublished": "2010-12-28",
+      "description": "Took my 4yr niece to the ER as she was running a high fever. As we entered the greeter inquired why we were there and walked us to the nurse window right by the entrance. The lady kept repeatedly..."
+     },
+     {
+      "author": "Catherine P.",
+      "datepublished": "2011-06-02",
+      "description": "5th floor, baby!! Most of their nurses are the best of the best! There are a few that I could do without, but a lot of the nursing staff goes above and beyond to see patients are well taken..."
+     },
+     {
+      "author": "Kim M.",
+      "datepublished": "2009-10-09",
+      "description": "If you go to the Emergency room here, you need to know that the ER Doctors are outsourced by another company. And that other company isn't approved as in network by many insurance companies...."
+     },
+     {
+      "author": "Elizabeth W.",
+      "datepublished": "2011-06-27",
+      "description": "I have had two similar procedures done--one was here, and one was at \"Hospital X.\" Here, I got to pick my doctor, who spoke to me both before and after the procedure. At Hospital X, I was assigned..."
+     },
+     {
+      "author": "Marlo P.",
+      "datepublished": "2010-02-02",
+      "description": "I gave birth at this hospital and I have to say, compared to where my first daughter was first born, this place was heaven! The nurses were SO NICE HERE! They accommodated me with whatever..."
+     },
+     {
+      "author": "Brittany Q.",
+      "datepublished": "2010-12-14",
+      "description": "I've been here for lab tests and accompanied someone for an emergency visit. I have had a good experience. For the lab test I was guided by friendly staff to the right check in location. I..."
+     },
+     {
+      "author": "Doug M.",
+      "datepublished": "2011-06-08",
+      "description": "I consider this the best hospital in the area. My doc's are here and they are always, I mean always updating and upgrading this place. My kids were all born here, the staff are always fantastic."
+     },
+     {
+      "author": "Nicole L.",
+      "datepublished": "2007-09-16",
+      "description": "I've had more tests and procedures here than I care to admit and every single time the staff was nothing short of friendly and helpful. I've never experienced that at another hospital and it's..."
+     },
+     {
+      "author": "Chris D.",
+      "datepublished": "2007-09-17",
+      "description": "My local hospital gets mixed reviews from me. On the plus side, we had to bring a neighbor to the ER once, and everyone was highly professional, caring and attentive. And the chapel inside..."
+     },
+     {
+      "author": "Jennifer Q.",
+      "datepublished": "2009-09-26",
+      "description": "OK, I just need to add that this place has the fastest test results...EVER. I had an MRI on a Saturday and the results were ready by Monday. Then I had a Spinal Tap (ha ha funny -the procedure,..."
+     },
+     {
+      "author": "Ellen M.",
+      "datepublished": "2005-08-29",
+      "description": "Caring and highly-skilled nurses and physicians. I had a baby here, and outpatient sugery. The admitting clerks, technicians, nurses, anesthesiologists and food service staff were PERFECT!..."
+     },
+     {
+      "author": "iddells E.",
+      "datepublished": "2008-06-13",
+      "description": "So my employer changes insurances and the only way I would have everything covered would be if I went to Alexian Brothers. Problem for me since I live in the northside of the city close to..."
+     },
+     {
+      "author": "a w.",
+      "datepublished": "2005-08-29",
+      "description": "My friend had both of her babies here. They did a great job throughout her stay at the hospital. The nurses were especially friendly and caring -- they would be there at any time to help out..."
+     }
+    ],
+    "breadcrumb": [
+     {
+      "url": "Health and Medical",
+      "title": "Health and Medical"
+     },
+     {
+      "url": "Hospitals",
+      "title": "Hospitals"
+     }
+    ]
+   }
+  }
+ ]
+}

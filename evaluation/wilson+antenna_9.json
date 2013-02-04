@@ -1,0 +1,385 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "nextPage": [
+   {
+    "title": "Google Custom Search - wilson antenna",
+    "totalResults": "623000",
+    "searchTerms": "wilson antenna",
+    "count": 10,
+    "startIndex": 101,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "017401104989814545383:mf4lavmtuva"
+   }
+  ],
+  "request": [
+   {
+    "title": "Google Custom Search - wilson antenna",
+    "totalResults": "623000",
+    "searchTerms": "wilson antenna",
+    "count": 10,
+    "startIndex": 91,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "017401104989814545383:mf4lavmtuva"
+   }
+  ],
+  "previousPage": [
+   {
+    "title": "Google Custom Search - wilson antenna",
+    "totalResults": "623000",
+    "searchTerms": "wilson antenna",
+    "count": 10,
+    "startIndex": 81,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "017401104989814545383:mf4lavmtuva"
+   }
+  ]
+ },
+ "context": {
+  "title": "College MetaSearch Comparison"
+ },
+ "searchInformation": {
+  "searchTime": 0.206401,
+  "formattedSearchTime": "0.21",
+  "totalResults": "623000",
+  "formattedTotalResults": "623,000"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "AG SOHO 60 (801245)",
+   "htmlTitle": "AG SOHO 60 (801245)",
+   "link": "http://www.wilsonelectronics.com/viewproduct.php?id=6",
+   "displayLink": "www.wilsonelectronics.com",
+   "snippet": "It can be paired with a wide variety of Wilson indoor and outdoor antennas for a   truly customized system. Depending on outside signal strength, the AG SOHO 60 ...",
+   "htmlSnippet": "It can be paired with a wide variety of \u003cb\u003eWilson\u003c/b\u003e indoor and outdoor \u003cb\u003eantennas\u003c/b\u003e for a \u003cbr\u003e  truly customized system. Depending on outside signal strength, the AG SOHO 60 \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "UWBmvrOJrDwJ",
+   "formattedUrl": "www.wilsonelectronics.com/viewproduct.php?id=6",
+   "htmlFormattedUrl": "www.\u003cb\u003ewilson\u003c/b\u003eelectronics.com/viewproduct.php?id=6",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.wilsonelectronics.com/uploads/productimages/801245_Front.jpg",
+      "type": "1",
+      "width": "243",
+      "height": "160"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "DB Pro (801262)",
+   "htmlTitle": "DB Pro (801262)",
+   "link": "http://www.wilsonelectronics.com/ProductDetails.aspx?Product=38&Category=10",
+   "displayLink": "www.wilsonelectronics.com",
+   "snippet": "The DB Pro cellular signal booster is Wilson's dual-band (800 &1900 MHz)   wireless ... that eliminates researching cell tower locations and antenna   orientation.",
+   "htmlSnippet": "The DB Pro cellular signal booster is \u003cb\u003eWilson&#39;s\u003c/b\u003e dual-band (800 &amp;1900 MHz) \u003cbr\u003e  wireless \u003cb\u003e...\u003c/b\u003e that eliminates researching cell tower locations and \u003cb\u003eantenna\u003c/b\u003e \u003cbr\u003e  orientation.",
+   "cacheId": "PpPIsz78TZ4J",
+   "formattedUrl": "www.wilsonelectronics.com/ProductDetails.aspx?Product=38...10",
+   "htmlFormattedUrl": "www.\u003cb\u003ewilson\u003c/b\u003eelectronics.com/ProductDetails.aspx?Product=38...10",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.wilsonelectronics.com/uploads/productimages/DBProSignalBooster-01.jpg",
+      "type": "1",
+      "width": "243",
+      "height": "160"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "wpsantennas.com - Cellular Antenna and Amplifier Reception ...",
+   "htmlTitle": "wpsantennas.com - Cellular \u003cb\u003eAntenna\u003c/b\u003e and Amplifier Reception \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://www.wpsantennas.com/lg-cell-phone-antenna-adapters.aspx",
+   "displayLink": "www.wpsantennas.com",
+   "snippet": "Results 1 - 30 of 45 ... Wilson Cellular Antenna Adapters for LG Phones.",
+   "htmlSnippet": "Results 1 - 30 of 45 \u003cb\u003e...\u003c/b\u003e \u003cb\u003eWilson\u003c/b\u003e Cellular \u003cb\u003eAntenna\u003c/b\u003e Adapters for LG Phones.",
+   "cacheId": "kYIhJ4vZFacJ",
+   "formattedUrl": "www.wpsantennas.com/lg-cell-phone-antenna-adapters.aspx",
+   "htmlFormattedUrl": "www.wps\u003cb\u003eantennas\u003c/b\u003e.com/lg-cell-phone-\u003cb\u003eantenna\u003c/b\u003e-adapters.aspx",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.wpsantennas.com/ProductImages/phoneadapters/Thumb_wa-1025.JPG",
+      "type": "1",
+      "width": "77",
+      "height": "73"
+     }
+    ],
+    "metatags": [
+     {
+      "og:description": "Wilson Cellular Antenna Adapters for LG Phones",
+      "og:image": "http://www.wpsantennas.com/themes/migration-1/images/layout/site_logo.gif",
+      "og:title": "wpsantennas.com - Cellular Antenna and Amplifier Reception Solutions",
+      "og:site_name": "wpsantennas.com - Cellular Antenna and Amplifier Reception Solutions",
+      "og:url": "http://www.wpsantennas.com/"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Screwdriver Antenna Antennas by K4POZ - Ron Wilson - POZY",
+   "htmlTitle": "Screwdriver \u003cb\u003eAntenna Antennas\u003c/b\u003e by K4POZ - Ron \u003cb\u003eWilson\u003c/b\u003e - POZY",
+   "link": "http://k4poz.com/",
+   "displayLink": "k4poz.com",
+   "snippet": "screwdriver antenna, screwdriver antennas, k4poz, pozy, amateur radio, ham   radio, gi-7b socket, socket, ID reminder, ID timer, gi-7b, amplifier, amp, keying ...",
+   "htmlSnippet": "screwdriver \u003cb\u003eantenna\u003c/b\u003e, screwdriver \u003cb\u003eantennas\u003c/b\u003e, k4poz, pozy, amateur radio, ham \u003cbr\u003e  radio, gi-7b socket, socket, ID reminder, ID timer, gi-7b, amplifier, amp, keying \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "TBWjbbNzmHEJ",
+   "formattedUrl": "k4poz.com/",
+   "htmlFormattedUrl": "k4poz.com/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://k4poz.com/Pa144838b.jpg",
+      "type": "1",
+      "width": "194",
+      "height": "259"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Wilson Cellular Dome",
+   "htmlTitle": "\u003cb\u003eWilson\u003c/b\u003e Cellular Dome",
+   "link": "http://www.wpsantennas.com/301121-wilsoncellulardual-bandceilingmountomni-directionaldomeantennaforinterioruse.aspx",
+   "displayLink": "www.wpsantennas.com",
+   "snippet": "Dual-band cellular/PCS dome ceiling mount antenna for use as an interior   antenna in Amplifier/Repeater/BDA Systems. (Wilson 301121)",
+   "htmlSnippet": "Dual-band cellular/PCS dome ceiling mount \u003cb\u003eantenna\u003c/b\u003e for use as an interior \u003cbr\u003e  \u003cb\u003eantenna\u003c/b\u003e in Amplifier/Repeater/BDA Systems. (\u003cb\u003eWilson\u003c/b\u003e 301121)",
+   "cacheId": "og4RlzMylQcJ",
+   "formattedUrl": "www.wpsantennas.com/301121-wilsoncellulardual-bandceilingmountomni- directionaldomeantennaforinterioruse.aspx",
+   "htmlFormattedUrl": "www.wps\u003cb\u003eantennas\u003c/b\u003e.com/301121-\u003cb\u003ewilson\u003c/b\u003ecellulardual-bandceilingmountomni- directionaldome\u003cb\u003eantenna\u003c/b\u003eforinterioruse.aspx",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.wpsantennas.com/ProductImages/antennas/301121.jpg",
+      "type": "1",
+      "width": "194",
+      "height": "260"
+     }
+    ],
+    "metatags": [
+     {
+      "og:title": "301121 - Wilson Cellular Dual-Band Ceiling Mount Omni-Directional Dome Antenna (for interior use)",
+      "og:description": "Dual-band cellular/PCS dome ceiling mount antenna for use as an interior antenna in Amplifier/Repeater/BDA Systems. (Wilson 301121)",
+      "og:image": "http://www.wpsantennas.com/ProductImages/antennas/Thumb_301121.JPG",
+      "og:site_name": "wpsantennas.com - Cellular Antenna and Amplifier Reception Solutions",
+      "og:url": "http://www.wpsantennas.com/301121-wilsoncellulardual-bandceilingmountomni-directionaldomeantennaforinterioruse.aspx"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Little Wil Wilson CB Magnet Mount Antenna - YouTube",
+   "htmlTitle": "Little Wil \u003cb\u003eWilson\u003c/b\u003e CB Magnet Mount \u003cb\u003eAntenna\u003c/b\u003e - YouTube",
+   "link": "http://www.youtube.com/watch?v=XPk9Siuwj2E",
+   "displayLink": "www.youtube.com",
+   "snippet": "Nov 20, 2008 ... http://www.rightchannelradios.com/wilson-cb-antenna-109/ The Wilson Little Wil   CB antenna is a well built, affordable and popular magnet ...",
+   "htmlSnippet": "Nov 20, 2008 \u003cb\u003e...\u003c/b\u003e http://www.rightchannelradios.com/\u003cb\u003ewilson\u003c/b\u003e-cb-\u003cb\u003eantenna\u003c/b\u003e-109/ The \u003cb\u003eWilson\u003c/b\u003e Little Wil \u003cbr\u003e  CB \u003cb\u003eantenna\u003c/b\u003e is a well built, affordable and popular magnet \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "49jU0hzt82AJ",
+   "formattedUrl": "www.youtube.com/watch?v=XPk9Siuwj2E",
+   "htmlFormattedUrl": "www.youtube.com/watch?v=XPk9Siuwj2E",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://i1.ytimg.com/vi/XPk9Siuwj2E/mqdefault.jpg",
+      "type": "1",
+      "width": "256",
+      "height": "144"
+     }
+    ],
+    "videoobject": [
+     {
+      "url": "http://www.youtube.com/watch?v=XPk9Siuwj2E",
+      "name": "Little Wil Wilson CB Magnet Mount Antenna",
+      "description": "http://www.rightchannelradios.com/wilson-cb-antenna-109/ The Wilson Little Wil CB antenna is a well built, affordable and popular magnet mount antenna. Our v...",
+      "duration": "PT1M44S",
+      "unlisted": "False",
+      "paid": "False",
+      "thumbnailurl": "http://i1.ytimg.com/vi/XPk9Siuwj2E/hqdefault.jpg",
+      "embedurl": "http://www.youtube.com/v/XPk9Siuwj2E?version=3&autohide=1",
+      "playertype": "Flash",
+      "width": "480",
+      "height": "360"
+     }
+    ],
+    "person": [
+     {
+      "url": "http://www.youtube.com/user/rcradios40"
+     }
+    ],
+    "metatags": [
+     {
+      "title": "Little Wil Wilson CB Magnet Mount Antenna",
+      "og:url": "http://www.youtube.com/watch?v=XPk9Siuwj2E",
+      "og:title": "Little Wil Wilson CB Magnet Mount Antenna",
+      "og:description": "http://www.rightchannelradios.com/wilson-cb-antenna-109/ The Wilson Little Wil CB antenna is a well built, affordable and popular magnet mount antenna. Our v...",
+      "og:type": "video",
+      "og:image": "http://i1.ytimg.com/vi/XPk9Siuwj2E/mqdefault.jpg",
+      "og:video": "http://www.youtube.com/v/XPk9Siuwj2E?version=3&autohide=1",
+      "og:video:type": "application/x-shockwave-flash",
+      "og:video:width": "480",
+      "og:video:height": "360",
+      "og:site_name": "YouTube",
+      "fb:app_id": "87741124305",
+      "twitter:player:width": "480",
+      "twitter:player:height": "360",
+      "attribution": "youtube_none/"
+     }
+    ],
+    "imageobject": [
+     {
+      "url": "http://i1.ytimg.com/vi/XPk9Siuwj2E/mqdefault.jpg",
+      "width": "320",
+      "height": "180"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "A Measurement of Excess Antenna Temperature at 4080 Mc/s.",
+   "htmlTitle": "A Measurement of Excess \u003cb\u003eAntenna\u003c/b\u003e Temperature at 4080 Mc/s.",
+   "link": "http://adsabs.harvard.edu/abs/1965ApJ...142..419P",
+   "displayLink": "adsabs.harvard.edu",
+   "snippet": "SAO/NASA ADS Astronomy Abstract Service.",
+   "htmlSnippet": "SAO/NASA ADS Astronomy Abstract Service.",
+   "formattedUrl": "adsabs.harvard.edu/abs/1965ApJ...142..419P",
+   "htmlFormattedUrl": "adsabs.harvard.edu/abs/1965ApJ...142..419P",
+   "pagemap": {
+    "metatags": [
+     {
+      "citation_language": "en",
+      "citation_doi": "10.1086/148307",
+      "citation_abstract_html_url": "http://adsabs.harvard.edu/abs/1965ApJ...142..419P",
+      "citation_title": "A Measurement of Excess Antenna Temperature at 4080 Mc/s.",
+      "citation_authors": "Penzias, A. A.; Wilson, R. W.",
+      "citation_keywords": "Microwave Background, Cosmic Background Radiation",
+      "citation_issn": "0004-637X",
+      "citation_date": "07/1965",
+      "citation_journal_title": "The Astrophysical Journal",
+      "citation_volume": "142",
+      "citation_firstpage": "419",
+      "citation_lastpage": "421",
+      "prism.publicationname": "The Astrophysical Journal",
+      "prism.issn": "0004-637X",
+      "prism.volume": "142",
+      "prism.startingpage": "419",
+      "prism.endingpage": "421",
+      "dc.language": "en",
+      "dc.identifier": "doi:10.1086/148307",
+      "dc.date": "1965-07",
+      "dc.source": "Astrophysical Journal, vol. 142, p.419-421",
+      "dc.title": "A Measurement of Excess Antenna Temperature at 4080 Mc/s.",
+      "dc.creator": "Penzias, A. A."
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "wilson antennas | Tumblr",
+   "htmlTitle": "\u003cb\u003ewilson antennas\u003c/b\u003e | Tumblr",
+   "link": "http://www.tumblr.com/tagged/wilson-antennas",
+   "displayLink": "www.tumblr.com",
+   "snippet": "RF Coaxial Cable and RF Coaxial Connector: 100 Feet Ultra Low Loss Extension   Cable (Wilson 951107) RF Coaxial Cable and RF Coaxial Connector: 9913 ...",
+   "htmlSnippet": "RF Coaxial Cable and RF Coaxial Connector: 100 Feet Ultra Low Loss Extension \u003cbr\u003e  Cable (\u003cb\u003eWilson\u003c/b\u003e 951107) RF Coaxial Cable and RF Coaxial Connector: 9913 \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "z0eT9nr4J30J",
+   "formattedUrl": "www.tumblr.com/tagged/wilson-antennas",
+   "htmlFormattedUrl": "www.tumblr.com/tagged/\u003cb\u003ewilson\u003c/b\u003e-\u003cb\u003eantennas\u003c/b\u003e",
+   "pagemap": {
+    "metatags": [
+     {
+      "viewport": "width=960"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Wilson Antenna Replacement Parts",
+   "htmlTitle": "\u003cb\u003eWilson Antenna\u003c/b\u003e Replacement Parts",
+   "link": "http://cell-phone-accessories-wholesale.com/antennareplacementparts.aspx",
+   "displayLink": "cell-phone-accessories-wholesale.com",
+   "snippet": "Results 1 - 12 of 14 ... Wilson Antenna Replacement Parts. ... Wilson 991183 Replacement Rubber   Arms for Sleek Amplifier (Includes 2 Small, 2 Medium, 2 Large ...",
+   "htmlSnippet": "Results 1 - 12 of 14 \u003cb\u003e...\u003c/b\u003e \u003cb\u003eWilson Antenna\u003c/b\u003e Replacement Parts. \u003cb\u003e...\u003c/b\u003e Wilson 991183 Replacement Rubber \u003cbr\u003e  Arms for Sleek Amplifier (Includes 2 Small, 2 Medium, 2 Large \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "_Rrc6BnYJfAJ",
+   "formattedUrl": "cell-phone-accessories-wholesale.com/antennareplacementparts.aspx",
+   "htmlFormattedUrl": "cell-phone-accessories-wholesale.com/\u003cb\u003eantenna\u003c/b\u003ereplacementparts.aspx",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://cell-phone-accessories-wholesale.com/images/products/thumb/991180.jpg",
+      "type": "1",
+      "width": "120",
+      "height": "120"
+     }
+    ],
+    "metatags": [
+     {
+      "og:description": "Wilson Antenna Replacement Parts",
+      "og:image": "http://cell-phone-accessories-wholesale.com/themes/netsolcustom/images/layout/site_logo.gif",
+      "og:title": "Cell Phone Accessories Wholesale",
+      "og:site_name": "Cell Phone Accessories Wholesale",
+      "og:url": "http://cell-phone-accessories-wholesale.com/"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Wilson Antenna Pole Mounting Assembly - 901117, $14.95",
+   "htmlTitle": "\u003cb\u003eWilson Antenna\u003c/b\u003e Pole Mounting Assembly - 901117, $14.95",
+   "link": "http://sewelldirect.com/Wilson-Antenna-Pole-Mounting-Assembly.asp",
+   "displayLink": "sewelldirect.com",
+   "snippet": "Wilson Antenna Pole Mounting Assembly. We Accept Purchase Orders. 1-800-  709-1345. live chat. Products. Cables; PC To TV; HDMI; Home Theater; USB to ...",
+   "htmlSnippet": "\u003cb\u003eWilson Antenna\u003c/b\u003e Pole Mounting Assembly. We Accept Purchase Orders. 1-800-\u003cbr\u003e  709-1345. live chat. Products. Cables; PC To TV; HDMI; Home Theater; USB to \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "oI-wbX1uSgwJ",
+   "formattedUrl": "sewelldirect.com/Wilson-Antenna-Pole-Mounting-Assembly.asp",
+   "htmlFormattedUrl": "sewelldirect.com/\u003cb\u003eWilson\u003c/b\u003e-\u003cb\u003eAntenna\u003c/b\u003e-Pole-Mounting-Assembly.asp",
+   "pagemap": {
+    "product": [
+     {
+      "name": "Wilson Antenna Pole Mounting Assembly"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "http://cdn-images.sewelldirect.com/products/SW-29941/SW-29941.jpg",
+      "type": "1",
+      "width": "243",
+      "height": "160"
+     }
+    ],
+    "offer": [
+     {
+      "price": "$14.95",
+      "availability": "OutOfStock"
+     }
+    ],
+    "hproduct": [
+     {
+      "fn": "Wilson Antenna Pole Mounting Assembly",
+      "currency": "USD",
+      "currency_iso4217": "840"
+     }
+    ]
+   }
+  }
+ ]
+}

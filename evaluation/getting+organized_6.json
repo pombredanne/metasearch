@@ -1,0 +1,384 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "nextPage": [
+   {
+    "title": "Google Custom Search - getting organized",
+    "totalResults": "27000000",
+    "searchTerms": "getting organized",
+    "count": 10,
+    "startIndex": 71,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "017401104989814545383:mf4lavmtuva"
+   }
+  ],
+  "request": [
+   {
+    "title": "Google Custom Search - getting organized",
+    "totalResults": "27000000",
+    "searchTerms": "getting organized",
+    "count": 10,
+    "startIndex": 61,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "017401104989814545383:mf4lavmtuva"
+   }
+  ],
+  "previousPage": [
+   {
+    "title": "Google Custom Search - getting organized",
+    "totalResults": "27000000",
+    "searchTerms": "getting organized",
+    "count": 10,
+    "startIndex": 51,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "017401104989814545383:mf4lavmtuva"
+   }
+  ]
+ },
+ "context": {
+  "title": "College MetaSearch Comparison"
+ },
+ "searchInformation": {
+  "searchTime": 0.290242,
+  "formattedSearchTime": "0.29",
+  "totalResults": "27000000",
+  "formattedTotalResults": "27,000,000"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "Getting Organized with the Tasks API - Google Apps Developer Blog",
+   "htmlTitle": "\u003cb\u003eGetting Organized\u003c/b\u003e with the Tasks API - Google Apps Developer Blog",
+   "link": "http://googleappsdeveloper.blogspot.com/2011/05/getting-organized-with-tasks-api.html",
+   "displayLink": "googleappsdeveloper.blogspot.com",
+   "snippet": "Getting Organized with the Tasks API. Wednesday, May 11, 2011 | 10:06 AM.   Labels: Google Tasks API · Google Tasks helps many of us to remember all those ...",
+   "htmlSnippet": "\u003cb\u003eGetting Organized\u003c/b\u003e with the Tasks API. Wednesday, May 11, 2011 | 10:06 AM. \u003cbr\u003e  Labels: Google Tasks API &middot; Google Tasks helps many of us to remember all those \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "LkoMOIcXEsMJ",
+   "formattedUrl": "googleappsdeveloper.blogspot.com/.../getting-organized-with-tasks-api.html",
+   "htmlFormattedUrl": "googleappsdeveloper.blogspot.com/.../\u003cb\u003egetting\u003c/b\u003e-\u003cb\u003eorganized\u003c/b\u003e-with-tasks-api.html",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://2.bp.blogspot.com/-H5_faVaNceY/TcrCNynuurI/AAAAAAAAAJc/jYuKPjAO1Ic/s320/tasklogo.png",
+      "type": "1",
+      "width": "102",
+      "height": "102"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Tip for Getting More Organized: Don't - Michael Schrage - Harvard ...",
+   "htmlTitle": "Tip for \u003cb\u003eGetting\u003c/b\u003e More \u003cb\u003eOrganized\u003c/b\u003e: Don&#39;t - Michael Schrage - Harvard \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://blogs.hbr.org/schrage/2012/01/tip-for-getting-more-organized.html",
+   "displayLink": "blogs.hbr.org",
+   "snippet": "by Michael Schrage | 11:39 AM January 12, 2012. Comments. How much time do   you spend each day getting better organized? Cut it in half. When it comes to ...",
+   "htmlSnippet": "by Michael Schrage | 11:39 AM January 12, 2012. Comments. How much time do \u003cbr\u003e  you spend each day \u003cb\u003egetting\u003c/b\u003e better \u003cb\u003eorganized\u003c/b\u003e? Cut it in half. When it comes to \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "b6IsNH9eIyEJ",
+   "formattedUrl": "blogs.hbr.org/schrage/2012/01/tip-for-getting-more-organized.html",
+   "htmlFormattedUrl": "blogs.hbr.org/schrage/2012/01/tip-for-\u003cb\u003egetting\u003c/b\u003e-more-\u003cb\u003eorganized\u003c/b\u003e.html",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://static.hbr.org/hbrg-main/resources/images/hbr_opengraph_360x185.png"
+     }
+    ],
+    "metatags": [
+     {
+      "og:site_name": "Harvard Business Review",
+      "og:url": "http://blogs.hbr.org/schrage/2012/01/tip-for-getting-more-organized.html",
+      "og:type": "blog",
+      "og:image": "http://static.hbr.org/hbrg-main/resources/images/hbr_opengraph_360x185.png",
+      "og:title": "Tip for Getting More Organized:  Don't",
+      "og:description": "How much time do you spend each day getting better organized? Cut it in half. When it comes to investing time, thought and effort into productively organizing oneself, less is more. In fact, not only is less more, research suggests it may be faster, better and cheaper. IBM researchers observed that email users who \"searched\" rather than set up files and folders for their correspondence typically found what they were looking for faster and with...",
+      "blogger": "Michael Schrage",
+      "categories": "Managing yourself, Personal effectiveness, Technology",
+      "content_origin": "blog"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "6 Ways to Get Organized and 5 More to Bust Through Procrastination",
+   "htmlTitle": "6 Ways to \u003cb\u003eGet Organized\u003c/b\u003e and 5 More to Bust Through Procrastination",
+   "link": "http://psychcentral.com/lib/2011/6-ways-to-get-organized-and-5-more-to-bust-through-procrastination/all/1/",
+   "displayLink": "psychcentral.com",
+   "snippet": "Jul 6, 2012 ... Getting organized takes effort. It can seem impossible if your goal is to create a   space that resembles the pages of a Pottery Barn catalog.",
+   "htmlSnippet": "Jul 6, 2012 \u003cb\u003e...\u003c/b\u003e \u003cb\u003eGetting organized\u003c/b\u003e takes effort. It can seem impossible if your goal is to create a \u003cbr\u003e  space that resembles the pages of a Pottery Barn catalog.",
+   "cacheId": "zRDCitgGtAUJ",
+   "formattedUrl": "psychcentral.com/lib/2011/6-ways-to-get-organized-and.../1/",
+   "htmlFormattedUrl": "psychcentral.com/lib/2011/6-ways-to-\u003cb\u003eget\u003c/b\u003e-\u003cb\u003eorganized\u003c/b\u003e-and.../1/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://g.psychcentral.com/lib/wp-content/uploads/2011/03/Evelyn_crpd.jpg",
+      "type": "1",
+      "width": "152",
+      "height": "180"
+     }
+    ],
+    "metatags": [
+     {
+      "og:image": "http://g.psychcentral.com/lib/wp-content/uploads/2011/03/Evelyn_crpd.jpg",
+      "og:type": "article",
+      "og:title": "» 6 Ways to Get Organized and 5 More to Bust Through Procrastination  - Psych Central",
+      "og:url": "http://psychcentral.com/lib/2011/6-ways-to-get-organized-and-5-more-to-bust-through-procrastination/",
+      "og:site_name": "Psych Central.com",
+      "fb:app_id": "122386177775099"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "How To Get Organized - Articles",
+   "htmlTitle": "How To \u003cb\u003eGet Organized\u003c/b\u003e - Articles",
+   "link": "http://www.getorganizedwizard.com/articles/",
+   "displayLink": "www.getorganizedwizard.com",
+   "snippet": "Articles covering personal organization, goal setting and happiness. Includes   goal planner downloads.",
+   "htmlSnippet": "Articles covering personal \u003cb\u003eorganization\u003c/b\u003e, goal setting and happiness. Includes \u003cbr\u003e  goal planner downloads.",
+   "cacheId": "vlJJKABHGvkJ",
+   "formattedUrl": "www.getorganizedwizard.com/articles/",
+   "htmlFormattedUrl": "www.\u003cb\u003egetorganized\u003c/b\u003ewizard.com/articles/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.getorganizedwizard.com/wp-content/uploads/NewsletterImages/planets.png",
+      "type": "1",
+      "width": "241",
+      "height": "193"
+     }
+    ],
+    "metatags": [
+     {
+      "msvalidate.01": "90D0F6616B35C78AC47442C7C268891E",
+      "fb:page_id": "153820389256",
+      "og:type": "article",
+      "og:url": "http://www.getorganizedwizard.com/articles/",
+      "og:title": "Articles",
+      "og:site_name": "Get Organized Wizard",
+      "og:locale": "en_US",
+      "og:description": "Get Organized Wizard Articles Articles covering personal organization, goal setting, technology, happiness and getting organized. How To Make 2012 Your Best Year Yet Many people I've talked to lately say 2011 has not been a great year. From global...",
+      "og:image": "http://www.getorganizedwizard.com/wp-content/uploads/NewsletterImages/planets.png",
+      "fb:app_id": "212730858848900",
+      "fb:admins": "578998003"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "FlyLady.net",
+   "htmlTitle": "FlyLady.net",
+   "link": "http://flylady.net/",
+   "displayLink": "flylady.net",
+   "snippet": "FlyLady's 2013 Calendar – Keep track of your entire family with FlyLady's favorite   calendar. FlyLady has the best tools to make FLYing fun! Get started with: ...",
+   "htmlSnippet": "FlyLady&#39;s 2013 Calendar – Keep track of your entire family with FlyLady&#39;s favorite \u003cbr\u003e  calendar. FlyLady has the best tools to make FLYing fun! \u003cb\u003eGet\u003c/b\u003e started with: \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "52DfzOlA9roJ",
+   "formattedUrl": "flylady.net/",
+   "htmlFormattedUrl": "flylady.net/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://flylady.net/i/caro/31bs.jpg",
+      "type": "1",
+      "width": "100",
+      "height": "148"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Home Office | Get Organized Wizard",
+   "htmlTitle": "Home Office | \u003cb\u003eGet Organized\u003c/b\u003e Wizard",
+   "link": "http://www.getorganizedwizard.com/blog/category/home-office/",
+   "displayLink": "www.getorganizedwizard.com",
+   "snippet": "Here's something you can do to get better organized – and it'll take you just 5   minutes! Adopt OCI-OGO Decide to adopt OCI-OGO in your life. This means One ...",
+   "htmlSnippet": "Here&#39;s something you can do to \u003cb\u003eget\u003c/b\u003e better \u003cb\u003eorganized\u003c/b\u003e – and it&#39;ll take you just 5 \u003cbr\u003e  minutes! Adopt OCI-OGO Decide to adopt OCI-OGO in your life. This means One \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "-XKJQQ1vGhMJ",
+   "formattedUrl": "www.getorganizedwizard.com/blog/category/home-office/",
+   "htmlFormattedUrl": "www.\u003cb\u003egetorganized\u003c/b\u003ewizard.com/blog/category/home-office/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.getorganizedwizard.com/wp-content/uploads/images/52wlm-right-155.png",
+      "type": "1",
+      "width": "92",
+      "height": "115"
+     }
+    ],
+    "metatags": [
+     {
+      "msvalidate.01": "90D0F6616B35C78AC47442C7C268891E",
+      "fb:page_id": "153820389256"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "If You Don't Get Organized, You'll Regret It Later",
+   "htmlTitle": "If You Don&#39;t \u003cb\u003eGet Organized\u003c/b\u003e, You&#39;ll Regret It Later",
+   "link": "http://www.simpleorganizingsolutions.com/",
+   "displayLink": "www.simpleorganizingsolutions.com",
+   "snippet": "Jul 12, 2012 ... It's easy to get overwhelmed when it comes to organizing. Most people don't even   think about getting organized until it's out of control and feels ...",
+   "htmlSnippet": "Jul 12, 2012 \u003cb\u003e...\u003c/b\u003e It&#39;s easy to get overwhelmed when it comes to organizing. Most people don&#39;t even \u003cbr\u003e  think about \u003cb\u003egetting organized\u003c/b\u003e until it&#39;s out of control and feels \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "JYq6im_I7eMJ",
+   "formattedUrl": "www.simpleorganizingsolutions.com/",
+   "htmlFormattedUrl": "www.simple\u003cb\u003eorganizing\u003c/b\u003esolutions.com/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://christianacarter2.uibcsites.com/files/2012/02/To-Do-LIst.jpg",
+      "type": "1",
+      "width": "188",
+      "height": "170"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Clutter Video Tip: How to Start Getting Organized, Part 1 - YouTube",
+   "htmlTitle": "Clutter Video Tip: How to Start \u003cb\u003eGetting Organized\u003c/b\u003e, Part 1 - YouTube",
+   "link": "http://www.youtube.com/watch?v=h8JHPXeSZjk",
+   "displayLink": "www.youtube.com",
+   "snippet": "Jan 25, 2012 ... http://www.ClutterDiet.com Get organized with home organizing tips from   professional organizers at The Clutter Diet. Three is a magic number, ...",
+   "htmlSnippet": "Jan 25, 2012 \u003cb\u003e...\u003c/b\u003e http://www.ClutterDiet.com \u003cb\u003eGet organized\u003c/b\u003e with home organizing tips from \u003cbr\u003e  professional organizers at The Clutter Diet. Three is a magic number, \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "BYB-zDRX6_wJ",
+   "formattedUrl": "www.youtube.com/watch?v=h8JHPXeSZjk",
+   "htmlFormattedUrl": "www.youtube.com/watch?v=h8JHPXeSZjk",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://i1.ytimg.com/vi/h8JHPXeSZjk/mqdefault.jpg",
+      "type": "1",
+      "width": "256",
+      "height": "144"
+     }
+    ],
+    "videoobject": [
+     {
+      "url": "http://www.youtube.com/watch?v=h8JHPXeSZjk",
+      "name": "Clutter Video Tip: How to Start Getting Organized, Part 1",
+      "description": "http://www.ClutterDiet.com Get organized with home organizing tips from professional organizers at The Clutter Diet. Three is a magic number, yes it is! The ...",
+      "duration": "PT3M52S",
+      "unlisted": "False",
+      "paid": "False",
+      "thumbnailurl": "http://i1.ytimg.com/vi/h8JHPXeSZjk/hqdefault.jpg",
+      "embedurl": "http://www.youtube.com/v/h8JHPXeSZjk?version=3&autohide=1",
+      "playertype": "Flash",
+      "width": "640",
+      "height": "360"
+     }
+    ],
+    "person": [
+     {
+      "url": "http://www.youtube.com/user/clutterdiet"
+     }
+    ],
+    "metatags": [
+     {
+      "title": "Clutter Video Tip: How to Start Getting Organized, Part 1",
+      "og:url": "http://www.youtube.com/watch?v=h8JHPXeSZjk",
+      "og:title": "Clutter Video Tip: How to Start Getting Organized, Part 1",
+      "og:description": "http://www.ClutterDiet.com Get organized with home organizing tips from professional organizers at The Clutter Diet. Three is a magic number, yes it is! The ...",
+      "og:type": "video",
+      "og:image": "http://i1.ytimg.com/vi/h8JHPXeSZjk/mqdefault.jpg",
+      "og:video": "http://www.youtube.com/v/h8JHPXeSZjk?version=3&autohide=1",
+      "og:video:type": "application/x-shockwave-flash",
+      "og:video:width": "640",
+      "og:video:height": "360",
+      "og:site_name": "YouTube",
+      "fb:app_id": "87741124305",
+      "twitter:player:width": "640",
+      "twitter:player:height": "360",
+      "attribution": "youtube_none/"
+     }
+    ],
+    "imageobject": [
+     {
+      "url": "http://i1.ytimg.com/vi/h8JHPXeSZjk/mqdefault.jpg",
+      "width": "320",
+      "height": "180"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Amazon.com: 10 Minute Guide to Getting Organized (2nd Edition ...",
+   "htmlTitle": "Amazon.com: 10 Minute Guide to \u003cb\u003eGetting Organized\u003c/b\u003e (2nd Edition \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://www.amazon.com/Minute-Guide-Getting-Organized-Edition/dp/0028636139",
+   "displayLink": "www.amazon.com",
+   "snippet": "This guide is based on the philosophy that organization is a skill and, like all   skills, it can be learned. The author provides steps for creating systems that will ...",
+   "htmlSnippet": "This guide is based on the philosophy that \u003cb\u003eorganization\u003c/b\u003e is a skill and, like all \u003cbr\u003e  skills, it can be learned. The author provides steps for creating systems that will \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "J0ym2KiNr2AJ",
+   "formattedUrl": "www.amazon.com/Minute-Guide-Getting-Organized.../0028636139",
+   "htmlFormattedUrl": "www.amazon.com/Minute-Guide-\u003cb\u003eGetting\u003c/b\u003e-\u003cb\u003eOrganized\u003c/b\u003e.../0028636139",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://ecx.images-amazon.com/images/I/41KGWE5VASL._SL500_AA300_.jpg"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "225",
+      "height": "225",
+      "src": "https://encrypted-tbn3.google.com/images?q=tbn:ANd9GcTRA-LkapbrzSZAXtuXscw83cFOfR_bFwsrjQ6sXzyn-dblt-BQeTKT4qw8"
+     }
+    ],
+    "scraped": [
+     {
+      "image_link": "http://ecx.images-amazon.com/images/I/41KGWE5VASL._SL500_AA300_.jpg"
+     }
+    ],
+    "metatags": [
+     {
+      "title": "Amazon.com: 10 Minute Guide to Getting Organized (2nd Edition) (0021898636133): Janet Bernstel, Stephen Windhaus: Books"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Ten Ways to Help Your Child Get Organized - FamilyEducation.com",
+   "htmlTitle": "Ten Ways to Help Your Child \u003cb\u003eGet Organized\u003c/b\u003e - FamilyEducation.com",
+   "link": "http://life.familyeducation.com/parenting/organization/36373.html",
+   "displayLink": "life.familyeducation.com",
+   "snippet": "Find out how to bring order into your kids' lives -- help them get organized!",
+   "htmlSnippet": "Find out how to bring order into your kids&#39; lives -- help them \u003cb\u003eget organized\u003c/b\u003e!",
+   "cacheId": "rsB-NUOVp7MJ",
+   "formattedUrl": "life.familyeducation.com/parenting/organization/36373.html",
+   "htmlFormattedUrl": "life.familyeducation.com/parenting/\u003cb\u003eorganization\u003c/b\u003e/36373.html",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://i.infoplease.com/images/fe-facebk-logo.gif"
+     }
+    ],
+    "metatags": [
+     {
+      "og:url": "http://life.familyeducation.com/parenting/organization/36373.html",
+      "og:image": "http://i.infoplease.com/images/fe-facebk-logo.gif",
+      "fb:app_id": "184929428265131"
+     }
+    ]
+   }
+  }
+ ]
+}

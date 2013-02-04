@@ -1,0 +1,317 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "nextPage": [
+   {
+    "title": "Google Custom Search - yahoo",
+    "totalResults": "354000000",
+    "searchTerms": "yahoo",
+    "count": 10,
+    "startIndex": 11,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "017401104989814545383:mf4lavmtuva"
+   }
+  ],
+  "request": [
+   {
+    "title": "Google Custom Search - yahoo",
+    "totalResults": "354000000",
+    "searchTerms": "yahoo",
+    "count": 10,
+    "startIndex": 1,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "017401104989814545383:mf4lavmtuva"
+   }
+  ]
+ },
+ "context": {
+  "title": "College MetaSearch Comparison"
+ },
+ "searchInformation": {
+  "searchTime": 0.294249,
+  "formattedSearchTime": "0.29",
+  "totalResults": "354000000",
+  "formattedTotalResults": "354,000,000"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "Yahoo!",
+   "htmlTitle": "\u003cb\u003eYahoo\u003c/b\u003e!",
+   "link": "http://www.yahoo.com/",
+   "displayLink": "www.yahoo.com",
+   "snippet": "Welcome to Yahoo!, the world's most visited home page. Quickly find what you're   searching for, get in touch with friends and stay in-the-know with the latest ...",
+   "htmlSnippet": "Welcome to \u003cb\u003eYahoo\u003c/b\u003e!, the world&#39;s most visited home page. Quickly find what you&#39;re \u003cbr\u003e  searching for, get in touch with friends and stay in-the-know with the latest \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "z-LaVxkhGIoJ",
+   "formattedUrl": "www.yahoo.com/",
+   "htmlFormattedUrl": "www.\u003cb\u003eyahoo\u003c/b\u003e.com/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://l.yimg.com/cv/mntl/aut/11q3/img_ff204173.jpg",
+      "type": "1",
+      "width": "278",
+      "height": "93"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Sign in to Yahoo!",
+   "htmlTitle": "Sign in to \u003cb\u003eYahoo\u003c/b\u003e!",
+   "link": "http://mail.yahoo.com/",
+   "displayLink": "mail.yahoo.com",
+   "snippet": "Official site for the service, which features spam filters, a virus scanner, and   interfaces for international users.",
+   "htmlSnippet": "Official site for the service, which features spam filters, a virus scanner, and \u003cbr\u003e  interfaces for international users.",
+   "cacheId": "dBS56TWGGFkJ",
+   "formattedUrl": "mail.yahoo.com/",
+   "htmlFormattedUrl": "mail.\u003cb\u003eyahoo\u003c/b\u003e.com/"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Yahoo! News - Latest News & Headlines",
+   "htmlTitle": "\u003cb\u003eYahoo\u003c/b\u003e! News - Latest News &amp; Headlines",
+   "link": "http://news.yahoo.com/",
+   "displayLink": "news.yahoo.com",
+   "snippet": "The latest news and headlines from Yahoo! News. Get breaking news stories and   in-depth coverage with videos and photos.",
+   "htmlSnippet": "The latest news and headlines from \u003cb\u003eYahoo\u003c/b\u003e! News. Get breaking news stories and \u003cbr\u003e  in-depth coverage with videos and photos.",
+   "cacheId": "UBIfg2U5itIJ",
+   "formattedUrl": "news.yahoo.com/",
+   "htmlFormattedUrl": "news.\u003cb\u003eyahoo\u003c/b\u003e.com/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://l.yimg.com/bt/api/res/1.2/_4DCy95muHwMUeopXu9_xg--/YXBwaWQ9eW5ld3M7Zmk9ZmlsbDtoPTE1MDtweG9mZj01MDtweW9mZj0wO3c9MTUw/http%3A//l.yimg.com/os/mit/media/p/common/images/3d_ybang_150150.png"
+     }
+    ],
+    "metatags": [
+     {
+      "og:type": "website",
+      "og:title": "Yahoo! News",
+      "og:description": "The latest news and headlines from Yahoo! News. Get breaking news stories and in-depth coverage with videos and photos.",
+      "og:image": "http://l.yimg.com/bt/api/res/1.2/_4DCy95muHwMUeopXu9_xg--/YXBwaWQ9eW5ld3M7Zmk9ZmlsbDtoPTE1MDtweG9mZj01MDtweW9mZj0wO3c9MTUw/http%3A//l.yimg.com/os/mit/media/p/common/images/3d_ybang_150150.png",
+      "fb:app_id": "194699337231859",
+      "og:site_name": "Yahoo! News",
+      "og:url": "http://news.yahoo.com/",
+      "application-name": "Yahoo! News",
+      "msapplication-tooltip": "Yahoo! News",
+      "msapplication-navbutton-color": "purple",
+      "msapplication-starturl": "/"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Yahoo! Finance - Business Finance, Stock Market, Quotes, News",
+   "htmlTitle": "\u003cb\u003eYahoo\u003c/b\u003e! Finance - Business Finance, Stock Market, Quotes, News",
+   "link": "http://finance.yahoo.com/",
+   "displayLink": "finance.yahoo.com",
+   "snippet": "At Yahoo! Finance, you get free stock quotes, up to date news, portfolio   management resources, international market data, message boards, and   mortgage rates ...",
+   "htmlSnippet": "At \u003cb\u003eYahoo\u003c/b\u003e! Finance, you get free stock quotes, up to date news, portfolio \u003cbr\u003e  management resources, international market data, message boards, and \u003cbr\u003e  mortgage rates \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "y-nzEp3N330J",
+   "formattedUrl": "finance.yahoo.com/",
+   "htmlFormattedUrl": "finance.\u003cb\u003eyahoo\u003c/b\u003e.com/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://l.yimg.com/bt/api/res/1.2/_4DCy95muHwMUeopXu9_xg--/YXBwaWQ9eW5ld3M7Zmk9ZmlsbDtoPTE1MDtweG9mZj01MDtweW9mZj0wO3c9MTUw/http%3A//l.yimg.com/os/mit/media/p/common/images/3d_ybang_150150.png",
+      "type": "1",
+      "width": "120",
+      "height": "120"
+     }
+    ],
+    "website": [
+     {
+      "type": "website",
+      "title": "Yahoo! Finance",
+      "description": "At Yahoo! Finance, you get free stock quotes, up to date news, portfolio management resources, international market data, message boards, and mortgage rates that help you manage your financial life.",
+      "image": "http://l.yimg.com/bt/api/res/1.2/_4DCy95muHwMUeopXu9_xg--/YXBwaWQ9eW5ld3M7Zmk9ZmlsbDtoPTE1MDtweG9mZj01MDtweW9mZj0wO3c9MTUw/http%3A//l.yimg.com/os/mit/media/p/common/images/3d_ybang_150150.png",
+      "app_id": "194699337231859",
+      "site_name": "Yahoo! Finance",
+      "url": "http://finance.yahoo.com/"
+     }
+    ],
+    "metatags": [
+     {
+      "og:type": "website",
+      "og:title": "Yahoo! Finance",
+      "og:description": "At Yahoo! Finance, you get free stock quotes, up to date news, portfolio management resources, international market data, message boards, and mortgage rates that help you manage your financial life.",
+      "og:image": "http://l.yimg.com/bt/api/res/1.2/_4DCy95muHwMUeopXu9_xg--/YXBwaWQ9eW5ld3M7Zmk9ZmlsbDtoPTE1MDtweG9mZj01MDtweW9mZj0wO3c9MTUw/http%3A//l.yimg.com/os/mit/media/p/common/images/3d_ybang_150150.png",
+      "fb:app_id": "194699337231859",
+      "og:site_name": "Yahoo! Finance",
+      "og:url": "http://finance.yahoo.com/"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Yahoo! Search - Web Search",
+   "htmlTitle": "\u003cb\u003eYahoo\u003c/b\u003e! Search - Web Search",
+   "link": "http://search.yahoo.com/",
+   "displayLink": "search.yahoo.com",
+   "snippet": "The search engine that helps you find exactly what you're looking for. Find the   most relevant information, video, images, and answers from all across the Web.",
+   "htmlSnippet": "The search engine that helps you find exactly what you&#39;re looking for. Find the \u003cbr\u003e  most relevant information, video, images, and answers from all across the Web.",
+   "cacheId": "MeewQ36cJ6AJ",
+   "formattedUrl": "search.yahoo.com/",
+   "htmlFormattedUrl": "search.\u003cb\u003eyahoo\u003c/b\u003e.com/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://l.yimg.com/a/i/ydn/blog/screenshot.png",
+      "type": "1",
+      "width": "289",
+      "height": "174"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Yahoo! Sports - Sports News, Scores, Rumors, Fantasy Games, and ...",
+   "htmlTitle": "\u003cb\u003eYahoo\u003c/b\u003e! Sports - Sports News, Scores, Rumors, Fantasy Games, and \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://sports.yahoo.com/",
+   "displayLink": "sports.yahoo.com",
+   "snippet": "All the latest sports news, scores, rumors, fantasy games, and more.",
+   "htmlSnippet": "All the latest sports news, scores, rumors, fantasy games, and more.",
+   "cacheId": "8iXGX280C0QJ",
+   "formattedUrl": "sports.yahoo.com/",
+   "htmlFormattedUrl": "sports.\u003cb\u003eyahoo\u003c/b\u003e.com/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://l.yimg.com/bt/api/res/1.2/_4DCy95muHwMUeopXu9_xg--/YXBwaWQ9eW5ld3M7Zmk9ZmlsbDtoPTE1MDtweG9mZj01MDtweW9mZj0wO3c9MTUw/http%3A//l.yimg.com/os/mit/media/p/common/images/3d_ybang_150150.png",
+      "type": "1",
+      "width": "120",
+      "height": "120"
+     }
+    ],
+    "website": [
+     {
+      "type": "website",
+      "title": "Yahoo! Sports",
+      "description": "All the latest sports news, scores, rumors, fantasy games, and more",
+      "image": "http://l.yimg.com/bt/api/res/1.2/_4DCy95muHwMUeopXu9_xg--/YXBwaWQ9eW5ld3M7Zmk9ZmlsbDtoPTE1MDtweG9mZj01MDtweW9mZj0wO3c9MTUw/http%3A//l.yimg.com/os/mit/media/p/common/images/3d_ybang_150150.png",
+      "app_id": "194699337231859",
+      "site_name": "Yahoo! Sports",
+      "url": "http://sports.yahoo.com/"
+     }
+    ],
+    "metatags": [
+     {
+      "og:type": "website",
+      "og:title": "Yahoo! Sports",
+      "og:description": "All the latest sports news, scores, rumors, fantasy games, and more",
+      "og:image": "http://l.yimg.com/bt/api/res/1.2/_4DCy95muHwMUeopXu9_xg--/YXBwaWQ9eW5ld3M7Zmk9ZmlsbDtoPTE1MDtweG9mZj01MDtweW9mZj0wO3c9MTUw/http%3A//l.yimg.com/os/mit/media/p/common/images/3d_ybang_150150.png",
+      "fb:app_id": "194699337231859",
+      "og:site_name": "Yahoo! Sports",
+      "og:url": "http://sports.yahoo.com/"
+     }
+    ],
+    "hcard": [
+     {
+      "fn": "Yahoo! Sports",
+      "url": "http://twitter.com/YahooSports",
+      "url_text": "YahooSports"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Yahoo! Messenger - Chat, Instant message, SMS, Video Call, PC Calls",
+   "htmlTitle": "\u003cb\u003eYahoo\u003c/b\u003e! Messenger - Chat, Instant message, SMS, Video Call, PC Calls",
+   "link": "http://messenger.yahoo.com/",
+   "displayLink": "messenger.yahoo.com",
+   "snippet": "Yahoo! Messenger - Chat with friends for free and enjoy stealth settings, video   calls, PC calls, file sharing, photo sharing, SMS, emoticons, & more.",
+   "htmlSnippet": "\u003cb\u003eYahoo\u003c/b\u003e! Messenger - Chat with friends for free and enjoy stealth settings, video \u003cbr\u003e  calls, PC calls, file sharing, photo sharing, SMS, emoticons, &amp; more.",
+   "cacheId": "qi6-CPjgVbwJ",
+   "formattedUrl": "messenger.yahoo.com/",
+   "htmlFormattedUrl": "messenger.\u003cb\u003eyahoo\u003c/b\u003e.com/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://l.yimg.com/a/i/us/msg/site/9/scr/pico_index_us_1.jpg",
+      "type": "1",
+      "width": "215",
+      "height": "234"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Yahoo Map",
+   "htmlTitle": "\u003cb\u003eYahoo\u003c/b\u003e Map",
+   "link": "http://maps.yahoo.com/",
+   "displayLink": "maps.yahoo.com",
+   "snippet": "Yahoo!'s map facility. Street maps and driving directions for US cities.",
+   "htmlSnippet": "\u003cb\u003eYahoo\u003c/b\u003e!&#39;s map facility. Street maps and driving directions for US cities.",
+   "formattedUrl": "maps.yahoo.com/",
+   "htmlFormattedUrl": "maps.\u003cb\u003eyahoo\u003c/b\u003e.com/"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Yahoo! Games - Play Free Online Games | Download Games",
+   "htmlTitle": "\u003cb\u003eYahoo\u003c/b\u003e! Games - Play Free Online Games | Download Games",
+   "link": "http://games.yahoo.com/",
+   "displayLink": "games.yahoo.com",
+   "snippet": "Play the latest online games on Yahoo! Games. Play and download single and   multiplayer games from a wide selection of arcade, board and puzzle games.",
+   "htmlSnippet": "Play the latest online games on \u003cb\u003eYahoo\u003c/b\u003e! Games. Play and download single and \u003cbr\u003e  multiplayer games from a wide selection of arcade, board and puzzle games.",
+   "cacheId": "lY1EEjWtQLYJ",
+   "formattedUrl": "games.yahoo.com/",
+   "htmlFormattedUrl": "games.\u003cb\u003eyahoo\u003c/b\u003e.com/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://l.yimg.com/bt/api/res/1.2/_4DCy95muHwMUeopXu9_xg--/YXBwaWQ9eW5ld3M7Zmk9ZmlsbDtoPTE1MDtweG9mZj01MDtweW9mZj0wO3c9MTUw/http%3A//l.yimg.com/os/mit/media/p/common/images/3d_ybang_150150.png"
+     }
+    ],
+    "website": [
+     {
+      "type": "website",
+      "title": "Yahoo! Games",
+      "description": "Play the latest online games on Yahoo! Games. Play and download single and multiplayer games from a wide selection of arcade, board and puzzle games.",
+      "image": "http://l.yimg.com/bt/api/res/1.2/_4DCy95muHwMUeopXu9_xg--/YXBwaWQ9eW5ld3M7Zmk9ZmlsbDtoPTE1MDtweG9mZj01MDtweW9mZj0wO3c9MTUw/http%3A//l.yimg.com/os/mit/media/p/common/images/3d_ybang_150150.png",
+      "app_id": "194699337231859",
+      "site_name": "Yahoo! Games",
+      "url": "http://games.yahoo.com/"
+     }
+    ],
+    "metatags": [
+     {
+      "og:type": "website",
+      "og:title": "Yahoo! Games",
+      "og:description": "Play the latest online games on Yahoo! Games. Play and download single and multiplayer games from a wide selection of arcade, board and puzzle games.",
+      "og:image": "http://l.yimg.com/bt/api/res/1.2/_4DCy95muHwMUeopXu9_xg--/YXBwaWQ9eW5ld3M7Zmk9ZmlsbDtoPTE1MDtweG9mZj01MDtweW9mZj0wO3c9MTUw/http%3A//l.yimg.com/os/mit/media/p/common/images/3d_ybang_150150.png",
+      "fb:app_id": "194699337231859",
+      "og:site_name": "Yahoo! Games",
+      "og:url": "http://games.yahoo.com/"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Yahoo! Groups - Join or create groups, clubs, forums & communities",
+   "htmlTitle": "\u003cb\u003eYahoo\u003c/b\u003e! Groups - Join or create groups, clubs, forums &amp; communities",
+   "link": "http://groups.yahoo.com/",
+   "displayLink": "groups.yahoo.com",
+   "snippet": "Yahoo! Groups offers free mailing lists, photo & file sharing, group calendars and   more. Discuss hot topics, share interests, join online communities.",
+   "htmlSnippet": "\u003cb\u003eYahoo\u003c/b\u003e! Groups offers free mailing lists, photo &amp; file sharing, group calendars and \u003cbr\u003e  more. Discuss hot topics, share interests, join online communities.",
+   "cacheId": "XdTm7rafTroJ",
+   "formattedUrl": "groups.yahoo.com/",
+   "htmlFormattedUrl": "groups.\u003cb\u003eyahoo\u003c/b\u003e.com/"
+  }
+ ]
+}

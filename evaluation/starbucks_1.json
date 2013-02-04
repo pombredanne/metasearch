@@ -1,0 +1,357 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "nextPage": [
+   {
+    "title": "Google Custom Search - starbucks",
+    "totalResults": "12500000",
+    "searchTerms": "starbucks",
+    "count": 10,
+    "startIndex": 21,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "017401104989814545383:mf4lavmtuva"
+   }
+  ],
+  "request": [
+   {
+    "title": "Google Custom Search - starbucks",
+    "totalResults": "12500000",
+    "searchTerms": "starbucks",
+    "count": 10,
+    "startIndex": 11,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "017401104989814545383:mf4lavmtuva"
+   }
+  ],
+  "previousPage": [
+   {
+    "title": "Google Custom Search - starbucks",
+    "totalResults": "12500000",
+    "searchTerms": "starbucks",
+    "count": 10,
+    "startIndex": 1,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "017401104989814545383:mf4lavmtuva"
+   }
+  ]
+ },
+ "context": {
+  "title": "College MetaSearch Comparison"
+ },
+ "searchInformation": {
+  "searchTime": 0.145735,
+  "formattedSearchTime": "0.15",
+  "totalResults": "12500000",
+  "formattedTotalResults": "12,500,000"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "My Starbucks Rewards | Starbucks Coffee Company",
+   "htmlTitle": "My \u003cb\u003eStarbucks\u003c/b\u003e Rewards | \u003cb\u003eStarbucks\u003c/b\u003e Coffee Company",
+   "link": "http://www.starbucks.com/card/rewards/",
+   "displayLink": "www.starbucks.com",
+   "snippet": "Register your Starbucks Card and Earn Rewards like Free Drinks.",
+   "htmlSnippet": "Register your \u003cb\u003eStarbucks\u003c/b\u003e Card and Earn Rewards like Free Drinks.",
+   "cacheId": "AVQAbzhUtnYJ",
+   "formattedUrl": "www.starbucks.com/card/rewards/",
+   "htmlFormattedUrl": "www.\u003cb\u003estarbucks\u003c/b\u003e.com/card/rewards/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://bcassets.starbucks.com/1612549662/1612549662_1423994694001_MSR-Static.jpg?pubId=1612549662",
+      "type": "1",
+      "width": "300",
+      "height": "168"
+     }
+    ],
+    "metatags": [
+     {
+      "viewport": "width=device-width, initial-scale=1",
+      "og:title": "My Starbucks Rewards",
+      "og:type": "company",
+      "og:url": "http://www.starbucks.com/card/rewards/",
+      "og:image": "http://www.starbucks.com/static/images/global/logo.png",
+      "og:site_name": "Starbucks Coffee Company",
+      "og:description": "Register your Starbucks Card and Earn Rewards like Free Drinks.",
+      "fb:app_id": "338375791266"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Starbucks Corporation News - The New York Times",
+   "htmlTitle": "\u003cb\u003eStarbucks\u003c/b\u003e Corporation News - The New York Times",
+   "link": "http://topics.nytimes.com/top/news/business/companies/starbucks_corporation/index.html",
+   "displayLink": "topics.nytimes.com",
+   "snippet": "News about the Starbucks Corporation. Commentary and archival information   about the Starbucks Corporation from The New York Times.",
+   "htmlSnippet": "News about the \u003cb\u003eStarbucks\u003c/b\u003e Corporation. Commentary and archival information \u003cbr\u003e  about the \u003cb\u003eStarbucks\u003c/b\u003e Corporation from The New York Times.",
+   "cacheId": "HBSMA_Z6Vm8J",
+   "formattedUrl": "topics.nytimes.com/top/news/business/.../starbucks.../index.html",
+   "htmlFormattedUrl": "topics.nytimes.com/top/news/business/.../\u003cb\u003estarbucks\u003c/b\u003e.../index.html",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://graphics8.nytimes.com/images/2008/02/26/timestopics/starbucks.jpg",
+      "type": "1",
+      "width": "307",
+      "height": "164"
+     }
+    ],
+    "thumbnail": [
+     {
+      "src": "http://graphics8.nytimes.com/images/2008/02/26/timestopics/starbucks.jpg",
+      "width": "395",
+      "height": "211"
+     }
+    ],
+    "metatags": [
+     {
+      "name": "Starbucks Corporation",
+      "node": "Top/News/Business/Companies/Starbucks Corporation",
+      "path": "top/news/business/companies/starbucks_corporation",
+      "dsk": "Business Day",
+      "summary": "\u003cp\u003e\u003cspan class=timestamp\u003eUpdated: Jan 26, 2012 \u003c/span\u003e\u003c/p\u003e \u003cp\u003e\u003cstrong\u003e2011 Earnings: Final Quarter\u003c/strong\u003e\u003c/p\u003e \u003cp\u003eStarbucks reported that it earned $382.1 million, or 50 cents per share, for the quarter that ended Jan. 1, 2012. That’s up from $346.6 million, or 45 cents per share, in the same quarter the previous year. The company’s total revenue increased 16 percent to $3.44 billion.\u003c/p\u003e \u003cp\u003eThe company delivered major gains in its consumer products business, which makes Via instant coffee, Starbucks ice cream and other items for sale in grocery stores and other retailers. Revenue from this segment increased 72 percent. It also benefited from the addition of 241 new stores during the quarter. Starbucks now operates 17,244 stores worldwide.\u003c/p\u003e \u003cp\u003eOn Jan. 26, 2012, Starbucks shares rose 57 cents to close the day at $48.34.\u003c/p\u003e \u003cp\u003e\u003cstrong\u003eBackground\u003c/strong\u003e\u003c/p\u003e \u003cp\u003eStarbucks is an international chain of coffeehouses. The man who built the chain, Howard D. Schultz, retook the reins in an effort to revive th",
+      "k2id": "1154653902148",
+      "thumbnail": "http://graphics8.nytimes.com/images/2008/02/26/timestopics/starbucks.jpg",
+      "thumbnail_height": "211",
+      "thumbnail_width": "395",
+      "pt": "Topic",
+      "cg": "Business Day",
+      "gtn": "Starbucks Corporation",
+      "pst": "Organization"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Starbucks Gossip",
+   "htmlTitle": "\u003cb\u003eStarbucks\u003c/b\u003e Gossip",
+   "link": "http://starbucksgossip.typepad.com/",
+   "displayLink": "starbucksgossip.typepad.com",
+   "snippet": "2 days ago ... The site that monitors Starbucks -- the world's biggest drug (aka caffeine) dealer.",
+   "htmlSnippet": "2 days ago \u003cb\u003e...\u003c/b\u003e The site that monitors \u003cb\u003eStarbucks\u003c/b\u003e -- the world&#39;s biggest drug (aka caffeine) dealer.",
+   "cacheId": "vTpLzekEATYJ",
+   "formattedUrl": "starbucksgossip.typepad.com/",
+   "htmlFormattedUrl": "\u003cb\u003estarbucks\u003c/b\u003egossip.typepad.com/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://starbucksgossip.typepad.com/.a/6a00d834515c0a69e201676893abd0970b-75wi",
+      "type": "1",
+      "width": "73",
+      "height": "60"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "I Hate Starbucks",
+   "htmlTitle": "I Hate \u003cb\u003eStarbucks\u003c/b\u003e",
+   "link": "http://www.ihatestarbucks.com/",
+   "displayLink": "www.ihatestarbucks.com",
+   "snippet": "The Starbucks slam session. If you want to blow the foam off the top of your decaf.   life, let 'er rip. Stand up against the spread of global capitalism. Whinge. I Hate ...",
+   "htmlSnippet": "The \u003cb\u003eStarbucks\u003c/b\u003e slam session. If you want to blow the foam off the top of your decaf. \u003cbr\u003e  life, let &#39;er rip. Stand up against the spread of global capitalism. Whinge. I Hate \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "I3pzSCRbndoJ",
+   "formattedUrl": "www.ihatestarbucks.com/",
+   "htmlFormattedUrl": "www.ihate\u003cb\u003estarbucks\u003c/b\u003e.com/"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "App Store - Starbucks",
+   "htmlTitle": "App Store - \u003cb\u003eStarbucks\u003c/b\u003e",
+   "link": "http://itunes.apple.com/us/app/starbucks/id331177714?mt=8",
+   "displayLink": "itunes.apple.com",
+   "snippet": "Jul 12, 2012 ... Read reviews, get customer ratings, see screenshots, and learn more about   Starbucks on the App Store. Download Starbucks and enjoy it on ...",
+   "htmlSnippet": "Jul 12, 2012 \u003cb\u003e...\u003c/b\u003e Read reviews, get customer ratings, see screenshots, and learn more about \u003cbr\u003e  \u003cb\u003eStarbucks\u003c/b\u003e on the App Store. Download \u003cb\u003eStarbucks\u003c/b\u003e and enjoy it on \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "6DNJrBwD_jsJ",
+   "formattedUrl": "itunes.apple.com/us/app/starbucks/id331177714?mt=8",
+   "htmlFormattedUrl": "itunes.apple.com/us/app/\u003cb\u003estarbucks\u003c/b\u003e/id331177714?mt=8",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://a5.mzstatic.com/us/r1000/080/Purple/v4/d7/75/95/d7759562-2c44-9838-a5e4-d4293588259d/mzl.ytuvqixv.png",
+      "type": "1",
+      "width": "225",
+      "height": "225"
+     }
+    ],
+    "metatags": [
+     {
+      "og:title": "Starbucks",
+      "og:description": "Get Starbucks on the App Store. See screenshots and ratings, and read customer reviews.",
+      "og:site_name": "App Store",
+      "og:image": "http://a5.mzstatic.com/us/r1000/080/Purple/v4/d7/75/95/d7759562-2c44-9838-a5e4-d4293588259d/mzl.ytuvqixv.png",
+      "og:image:type": "image/png"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Frappuccino® Blended Beverage from Starbucks Coffee Company",
+   "htmlTitle": "Frappuccino® Blended Beverage from \u003cb\u003eStarbucks\u003c/b\u003e Coffee Company",
+   "link": "http://frappuccino.com/",
+   "displayLink": "frappuccino.com",
+   "snippet": "The official Frappuccino® blended beverage website from Starbucks Coffee   Company. Discover all of our Frappuccino® beverages, customize your own   drink, ...",
+   "htmlSnippet": "The official Frappuccino® blended beverage website from \u003cb\u003eStarbucks\u003c/b\u003e Coffee \u003cbr\u003e  Company. Discover all of our Frappuccino® beverages, customize your own \u003cbr\u003e  drink, \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "fy8Xqt3U9vAJ",
+   "formattedUrl": "frappuccino.com/",
+   "htmlFormattedUrl": "frappuccino.com/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://frappuccino.com/assets/images/frappuccino-large.png",
+      "type": "1",
+      "width": "219",
+      "height": "96"
+     }
+    ],
+    "metatags": [
+     {
+      "viewport": "width=device-width, initial-scale=1.0",
+      "og:image": "http://frappuccino.com/assets/images/frappuccino-large.png",
+      "og:image:width": "274",
+      "og:image:height": "121"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "AT&T Wi-Fi (United States) | Starbucks Coffee Company",
+   "htmlTitle": "AT&amp;T Wi-Fi (United States) | \u003cb\u003eStarbucks\u003c/b\u003e Coffee Company",
+   "link": "http://www.starbucks.com/coffeehouse/wireless-internet/",
+   "displayLink": "www.starbucks.com",
+   "snippet": "Starbucks Digital Network - ATT Free Wi-Fi Hotspot ... Starbucks offers free, one-  click, unlimited Wi-Fi at all company-owned stores in the United States, including ...",
+   "htmlSnippet": "\u003cb\u003eStarbucks\u003c/b\u003e Digital Network - ATT Free Wi-Fi Hotspot \u003cb\u003e...\u003c/b\u003e \u003cb\u003eStarbucks\u003c/b\u003e offers free, one-\u003cbr\u003e  click, unlimited Wi-Fi at all company-owned stores in the United States, including \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "pc-mwmNQieAJ",
+   "formattedUrl": "www.starbucks.com/coffeehouse/wireless-internet/",
+   "htmlFormattedUrl": "www.\u003cb\u003estarbucks\u003c/b\u003e.com/coffeehouse/wireless-internet/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://assets.starbucks.com/assets/8c22e398ec3844d5b46989689bcf056f.jpg",
+      "type": "1",
+      "width": "300",
+      "height": "168"
+     }
+    ],
+    "metatags": [
+     {
+      "viewport": "width=device-width, initial-scale=1",
+      "og:title": "AT&T Wi-Fi (United States)",
+      "og:type": "company",
+      "og:url": "http://www.starbucks.com/coffeehouse/wireless-internet/",
+      "og:image": "//assets.starbucks.com/assets/8c22e398ec3844d5b46989689bcf056f.jpg",
+      "og:site_name": "Starbucks Coffee Company",
+      "fb:app_id": "338375791266"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "SBUX: Summary for Starbucks Corporation- Yahoo! Finance",
+   "htmlTitle": "SBUX: Summary for \u003cb\u003eStarbucks\u003c/b\u003e Corporation- Yahoo! Finance",
+   "link": "http://finance.yahoo.com/q?s=SBUX",
+   "displayLink": "finance.yahoo.com",
+   "snippet": "3 hours ago ... View the basic SBUX stock chart on Yahoo! Finance. Change the date range,   chart type and compare Starbucks Corporation against other ...",
+   "htmlSnippet": "3 hours ago \u003cb\u003e...\u003c/b\u003e View the basic SBUX stock chart on Yahoo! Finance. Change the date range, \u003cbr\u003e  chart type and compare \u003cb\u003eStarbucks\u003c/b\u003e Corporation against other \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "_hSz6GJcQ3AJ",
+   "formattedUrl": "finance.yahoo.com/q?s=SBUX",
+   "htmlFormattedUrl": "finance.yahoo.com/q?s=SBUX",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://chart.finance.yahoo.com/t?s=SBUX&lang=en-US&region=US&width=300&height=180",
+      "type": "1",
+      "width": "240",
+      "height": "156"
+     }
+    ],
+    "metatags": [
+     {
+      "fb:app_id": "118155468215844",
+      "fb:admins": "503762770,100001149693905",
+      "og:type": "company",
+      "og:site_name": "Yahoo! Finance",
+      "og:title": "Starbucks Corporation",
+      "og:image": "http://l.yimg.com/a/p/fi/31/09/00.jpg",
+      "og:url": "http://finance.yahoo.com/q?s=SBUX",
+      "og:description": "View the basic SBUX stock chart on Yahoo! Finance. Change the date range, chart type and compare Starbucks Corporation against other companies."
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Responsibility | Starbucks Coffee Company",
+   "htmlTitle": "Responsibility | \u003cb\u003eStarbucks\u003c/b\u003e Coffee Company",
+   "link": "http://www.starbucks.com/responsibility/",
+   "displayLink": "www.starbucks.com",
+   "snippet": "Jul 2, 2012 ... We've always believed that businesses can - and should - have a positive impact   on the communities they serve.",
+   "htmlSnippet": "Jul 2, 2012 \u003cb\u003e...\u003c/b\u003e We&#39;ve always believed that businesses can - and should - have a positive impact \u003cbr\u003e  on the communities they serve.",
+   "cacheId": "1i_SdSRqbL0J",
+   "formattedUrl": "www.starbucks.com/responsibility/",
+   "htmlFormattedUrl": "www.\u003cb\u003estarbucks\u003c/b\u003e.com/responsibility/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://assets.starbucks.com/assets/3cb83f1176434020be089de5a8f8fc0b.jpg",
+      "type": "1",
+      "width": "242",
+      "height": "80"
+     }
+    ],
+    "metatags": [
+     {
+      "viewport": "width=device-width, initial-scale=1",
+      "og:title": "Responsibility",
+      "og:type": "company",
+      "og:url": "http://www.starbucks.com/responsibility/",
+      "og:image": "http://www.starbucks.com/static/images/global/logo.png",
+      "og:site_name": "Starbucks Coffee Company",
+      "og:description": "We've always believed that businesses can - and should - have a positive impact on the communities they serve.",
+      "fb:app_id": "338375791266"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Starbucks Newsroom: Home",
+   "htmlTitle": "\u003cb\u003eStarbucks\u003c/b\u003e Newsroom: Home",
+   "link": "http://news.starbucks.com/",
+   "displayLink": "news.starbucks.com",
+   "snippet": "Starbucks Newsroom official site for News, photos, video, audio, pr contact   information, presskits and more.",
+   "htmlSnippet": "\u003cb\u003eStarbucks\u003c/b\u003e Newsroom official site for News, photos, video, audio, pr contact \u003cbr\u003e  information, presskits and more.",
+   "cacheId": "Hh7OP-4OTYoJ",
+   "formattedUrl": "news.starbucks.com/",
+   "htmlFormattedUrl": "news.\u003cb\u003estarbucks\u003c/b\u003e.com/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://news.starbucks.com/images/10041/Refreshers_Feature.jpg",
+      "type": "1",
+      "width": "306",
+      "height": "165"
+     }
+    ]
+   }
+  }
+ ]
+}

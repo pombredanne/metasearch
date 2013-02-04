@@ -1,0 +1,349 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "nextPage": [
+   {
+    "title": "Google Custom Search - espn sports",
+    "totalResults": "66400000",
+    "searchTerms": "espn sports",
+    "count": 10,
+    "startIndex": 21,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "017401104989814545383:mf4lavmtuva"
+   }
+  ],
+  "request": [
+   {
+    "title": "Google Custom Search - espn sports",
+    "totalResults": "66400000",
+    "searchTerms": "espn sports",
+    "count": 10,
+    "startIndex": 11,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "017401104989814545383:mf4lavmtuva"
+   }
+  ],
+  "previousPage": [
+   {
+    "title": "Google Custom Search - espn sports",
+    "totalResults": "66400000",
+    "searchTerms": "espn sports",
+    "count": 10,
+    "startIndex": 1,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "017401104989814545383:mf4lavmtuva"
+   }
+  ]
+ },
+ "context": {
+  "title": "College MetaSearch Comparison"
+ },
+ "searchInformation": {
+  "searchTime": 0.237999,
+  "formattedSearchTime": "0.24",
+  "totalResults": "66400000",
+  "formattedTotalResults": "66,400,000"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "Sport Science Index - Topics - ESPN",
+   "htmlTitle": "\u003cb\u003eSport\u003c/b\u003e Science Index - Topics - \u003cb\u003eESPN\u003c/b\u003e",
+   "link": "http://espn.go.com/espn/sportscience/index",
+   "displayLink": "espn.go.com",
+   "snippet": "Bryan Clay could pole vault over an adult giraffe, while Jesse Williams can jump   clear over Sport Science's John Brenkus. What goes into achieving so much air ...",
+   "htmlSnippet": "Bryan Clay could pole vault over an adult giraffe, while Jesse Williams can jump \u003cbr\u003e  clear over \u003cb\u003eSport\u003c/b\u003e Science&#39;s John Brenkus. What goes into achieving so much air \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "7Nw2XoxoETkJ",
+   "formattedUrl": "espn.go.com/espn/sportscience/index",
+   "htmlFormattedUrl": "\u003cb\u003eespn\u003c/b\u003e.go.com/\u003cb\u003eespn\u003c/b\u003e/\u003cb\u003esports\u003c/b\u003ecience/index",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://a.espncdn.com/media/motion/2012/0719/dm_120719_sport_science_bryan_clay_decathlon.jpg",
+      "type": "1",
+      "width": "300",
+      "height": "168"
+     }
+    ],
+    "metatags": [
+     {
+      "msvalidate.01": "B1FEB7C682C46C8FCDA3130F3D18AC28",
+      "og:title": "Sport Science Index",
+      "og:type": "article",
+      "og:url": "http://espn.go.com/espn/sportscience/index",
+      "og:description": "Sport Science Index",
+      "og:image": "http://a.espncdn.com/i/espn/espn_logos/espn_red.png",
+      "og:site_name": "ESPN.com",
+      "fb:app_id": "116656161708917"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Sports - ESPN",
+   "htmlTitle": "\u003cb\u003eSports\u003c/b\u003e - \u003cb\u003eESPN\u003c/b\u003e",
+   "link": "http://m.espn.go.com/wireless/sports",
+   "displayLink": "m.espn.go.com",
+   "snippet": "Welcome to ESPN for your tablet ... SOCCER · GOLF · BOXING · MMA · NCAAW ·   NCAA · AUTOS · WNBA · HORSE · Action Sports · Poker · More Sports ...",
+   "htmlSnippet": "Welcome to \u003cb\u003eESPN\u003c/b\u003e for your tablet \u003cb\u003e...\u003c/b\u003e SOCCER &middot; GOLF &middot; BOXING &middot; MMA &middot; NCAAW &middot; \u003cbr\u003e  NCAA &middot; AUTOS &middot; WNBA &middot; HORSE &middot; Action \u003cb\u003eSports\u003c/b\u003e &middot; Poker &middot; More \u003cb\u003eSports\u003c/b\u003e \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "92KDr2W5zewJ",
+   "formattedUrl": "m.espn.go.com/wireless/sports",
+   "htmlFormattedUrl": "m.\u003cb\u003eespn\u003c/b\u003e.go.com/wireless/\u003cb\u003esports\u003c/b\u003e",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://a.espncdn.com/broadband/video/images/thumb_default.gif",
+      "type": "1",
+      "width": "83",
+      "height": "65"
+     }
+    ],
+    "metatags": [
+     {
+      "handheldfriendly": "true",
+      "mobileoptimized": "320",
+      "viewport": "width=device-width, target-densitydpi=160, initial-scale=1.0, maximum-scale=1.0, user-scalable=no",
+      "og:image": "http://a.espncdn.com/i/espn/espn_logos/espn_red.png",
+      "format-detection": "telephone=no"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "ESPN TV Listings - ESPN",
+   "htmlTitle": "\u003cb\u003eESPN\u003c/b\u003e TV Listings - \u003cb\u003eESPN\u003c/b\u003e",
+   "link": "http://espn.go.com/espntv/",
+   "displayLink": "espn.go.com",
+   "snippet": "Get the latest sports television listings on ESPN.com. ... ESPN Fútbol Center   presentado por Home Depot -. Fútbol Internacional - Gran BretaÃ±a vs. Brasil » ...",
+   "htmlSnippet": "Get the latest \u003cb\u003esports\u003c/b\u003e television listings on \u003cb\u003eESPN\u003c/b\u003e.com. \u003cb\u003e...\u003c/b\u003e \u003cb\u003eESPN\u003c/b\u003e Fútbol Center \u003cbr\u003e  presentado por Home Depot -. Fútbol Internacional - Gran BretaÃ±a vs. Brasil » \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "WhgFldA8CUkJ",
+   "formattedUrl": "espn.go.com/espntv/",
+   "htmlFormattedUrl": "\u003cb\u003eespn\u003c/b\u003e.go.com/\u003cb\u003eespn\u003c/b\u003etv/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://a.espncdn.com/photo/2011/1109/dm_111108_bahrain_new_final_288.jpg",
+      "type": "1",
+      "width": "230",
+      "height": "129"
+     }
+    ],
+    "metatags": [
+     {
+      "msvalidate.01": "B1FEB7C682C46C8FCDA3130F3D18AC28"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Bill Simmons News, Videos, Photos, and PodCasts - ESPN",
+   "htmlTitle": "Bill Simmons News, Videos, Photos, and PodCasts - \u003cb\u003eESPN\u003c/b\u003e",
+   "link": "http://search.espn.go.com/bill-simmons/",
+   "displayLink": "search.espn.go.com",
+   "snippet": "Explore the comprehensive bill simmons archive on ESPN.com, including news,   features, video clips, PodCasts, ... Sports Guy Vault: The James Dolan Theory ...",
+   "htmlSnippet": "Explore the comprehensive bill simmons archive on \u003cb\u003eESPN\u003c/b\u003e.com, including news, \u003cbr\u003e  features, video clips, PodCasts, \u003cb\u003e...\u003c/b\u003e \u003cb\u003eSports\u003c/b\u003e Guy Vault: The James Dolan Theory \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "ZLqWUk29VyYJ",
+   "formattedUrl": "search.espn.go.com/bill-simmons/",
+   "htmlFormattedUrl": "search.\u003cb\u003eespn\u003c/b\u003e.go.com/bill-simmons/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://a.espncdn.com/i/espnradio/stations/espn/podcasts/bs_report_134.jpg",
+      "type": "1",
+      "width": "107",
+      "height": "60"
+     }
+    ],
+    "metatags": [
+     {
+      "msvalidate.01": "B1FEB7C682C46C8FCDA3130F3D18AC28"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "NCAA College Football Teams, Scores, Stats, News, Standings ...",
+   "htmlTitle": "NCAA College Football Teams, Scores, Stats, News, Standings \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://espn.go.com/college-football/",
+   "displayLink": "espn.go.com",
+   "snippet": "ESPN Insider has teamed with Blue Ribbon to provide previews for all 122 FBS   teams. .... Begin your Rekall Experience for a chance to live like a Sports Anchor!",
+   "htmlSnippet": "\u003cb\u003eESPN\u003c/b\u003e Insider has teamed with Blue Ribbon to provide previews for all 122 FBS \u003cbr\u003e  teams. \u003cb\u003e....\u003c/b\u003e Begin your Rekall Experience for a chance to live like a \u003cb\u003eSports\u003c/b\u003e Anchor!",
+   "cacheId": "gJo8f-FjSPYJ",
+   "formattedUrl": "espn.go.com/college-football/",
+   "htmlFormattedUrl": "\u003cb\u003eespn\u003c/b\u003e.go.com/college-football/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://a.espncdn.com/photo/2012/0716/ncf_g_patty_cr_576.jpg",
+      "type": "1",
+      "width": "300",
+      "height": "168"
+     }
+    ],
+    "metatags": [
+     {
+      "msvalidate.01": "B1FEB7C682C46C8FCDA3130F3D18AC28"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "ESPNRadio.com - Podcenter - ESPN",
+   "htmlTitle": "ESPNRadio.com - Podcenter - \u003cb\u003eESPN\u003c/b\u003e",
+   "link": "http://espnradio.espn.go.com/espnradio/podcast/index",
+   "displayLink": "espnradio.espn.go.com",
+   "snippet": "PodCenter at ESPNRadio.com is your source for the most up to date sports   podcasts in the world. Everything from the Fantasy Focus to Bill Simmons to the   best ...",
+   "htmlSnippet": "PodCenter at ESPNRadio.com is your source for the most up to date \u003cb\u003esports\u003c/b\u003e \u003cbr\u003e  podcasts in the world. Everything from the Fantasy Focus to Bill Simmons to the \u003cbr\u003e  best \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "CcvwPm_SHaQJ",
+   "formattedUrl": "espnradio.espn.go.com/espnradio/podcast/index",
+   "htmlFormattedUrl": "\u003cb\u003eespn\u003c/b\u003eradio.\u003cb\u003eespn\u003c/b\u003e.go.com/\u003cb\u003eespn\u003c/b\u003eradio/podcast/index",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://a.espncdn.com/i/espnradio/stations/espn/podcasts/baseball_Today_ibm_288.jpg",
+      "type": "1",
+      "width": "230",
+      "height": "129"
+     }
+    ],
+    "metatags": [
+     {
+      "msvalidate.01": "B1FEB7C682C46C8FCDA3130F3D18AC28",
+      "og:image": "http://a.espncdn.com/i/espnradio/08/generic_134_white.jpg"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Free Online Sports Games - ESPN Arcade - ESPN",
+   "htmlTitle": "Free Online \u003cb\u003eSports\u003c/b\u003e Games - \u003cb\u003eESPN\u003c/b\u003e Arcade - \u003cb\u003eESPN\u003c/b\u003e",
+   "link": "http://espn.go.com/free-online-games/sports",
+   "displayLink": "espn.go.com",
+   "snippet": "Play sports games online for free on ESPNArcade.com!",
+   "htmlSnippet": "Play \u003cb\u003esports\u003c/b\u003e games online for free on ESPNArcade.com!",
+   "cacheId": "mqVEuZerSHMJ",
+   "formattedUrl": "espn.go.com/free-online-games/sports",
+   "htmlFormattedUrl": "\u003cb\u003eespn\u003c/b\u003e.go.com/free-online-games/\u003cb\u003esports\u003c/b\u003e",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://a.espncdn.com/i/espnarcade/134/smashnblast_134x75.jpg",
+      "type": "1",
+      "width": "107",
+      "height": "60"
+     }
+    ],
+    "metatags": [
+     {
+      "msvalidate.01": "980DAC91C6458F6FA90F7089E61D12B0",
+      "og:title": "ESPN Arcade",
+      "og:url": "null",
+      "og:site_name": "ESPN.com",
+      "fb:app_id": "116656161708917"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "NHL - National Hockey League Teams, Scores, Stats, News ...",
+   "htmlTitle": "NHL - National Hockey League Teams, Scores, Stats, News \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://espn.go.com/nhl/",
+   "displayLink": "espn.go.com",
+   "snippet": "Cancer knocked Sam Jacobson out of the sport he loved. Now in ... From faceoffs   to mullets, ESPN's hockey analysts break down the NHL three times a week.",
+   "htmlSnippet": "Cancer knocked Sam Jacobson out of the \u003cb\u003esport\u003c/b\u003e he loved. Now in \u003cb\u003e...\u003c/b\u003e From faceoffs \u003cbr\u003e  to mullets, \u003cb\u003eESPN&#39;s\u003c/b\u003e hockey analysts break down the NHL three times a week.",
+   "cacheId": "E8fqmcTl43YJ",
+   "formattedUrl": "espn.go.com/nhl/",
+   "htmlFormattedUrl": "\u003cb\u003eespn\u003c/b\u003e.go.com/nhl/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://a.espncdn.com/photo/2012/0719/insider_illustration1x_576.jpg",
+      "type": "1",
+      "width": "300",
+      "height": "168"
+     }
+    ],
+    "metatags": [
+     {
+      "msvalidate.01": "B1FEB7C682C46C8FCDA3130F3D18AC28"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "ESPN Sports Bar - ESPN",
+   "htmlTitle": "\u003cb\u003eESPN Sports\u003c/b\u003e Bar - ESPN",
+   "link": "http://espn.go.com/free-online-games/sports/sportsbar",
+   "displayLink": "espn.go.com",
+   "snippet": "FREE TO PLAY. BUILD. Create your own sports bar from the ground up and   customize it with flat screens, arcade games and sports memorabilia.",
+   "htmlSnippet": "FREE TO PLAY. BUILD. Create your own \u003cb\u003esports\u003c/b\u003e bar from the ground up and \u003cbr\u003e  customize it with flat screens, arcade games and \u003cb\u003esports\u003c/b\u003e memorabilia.",
+   "cacheId": "40yNx5xt6Z4J",
+   "formattedUrl": "espn.go.com/free-online-games/sports/sportsbar",
+   "htmlFormattedUrl": "\u003cb\u003eespn\u003c/b\u003e.go.com/free-online-games/\u003cb\u003esports\u003c/b\u003e/\u003cb\u003esports\u003c/b\u003ebar",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://a.espncdn.com/arcade/prod/images/sportsbar/logo.gif",
+      "type": "1",
+      "width": "206",
+      "height": "152"
+     }
+    ],
+    "metatags": [
+     {
+      "msvalidate.01": "980DAC91C6458F6FA90F7089E61D12B0",
+      "og:title": "ESPN Sports Bar",
+      "og:url": "http://apps.facebook.com/espnsportsbar/?track=ESPN-arcade-sblanding-page",
+      "og:site_name": "ESPN.com",
+      "fb:app_id": "116656161708917"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "ESPN Action Sports: The Worldwide Leader In Action Sports - ESPN",
+   "htmlTitle": "\u003cb\u003eESPN\u003c/b\u003e Action \u003cb\u003eSports\u003c/b\u003e: The Worldwide Leader In Action \u003cb\u003eSports\u003c/b\u003e - \u003cb\u003eESPN\u003c/b\u003e",
+   "link": "http://espn.go.com/action/",
+   "displayLink": "espn.go.com",
+   "snippet": "Get the latest Action Sports news, tips, rumors from the scene, and more on   ESPN.com.",
+   "htmlSnippet": "Get the latest Action \u003cb\u003eSports\u003c/b\u003e news, tips, rumors from the scene, and more on \u003cbr\u003e  \u003cb\u003eESPN\u003c/b\u003e.com.",
+   "cacheId": "tlOlaVGmLUoJ",
+   "formattedUrl": "espn.go.com/action/",
+   "htmlFormattedUrl": "\u003cb\u003eespn\u003c/b\u003e.go.com/action/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://a.espncdn.com/photo/2012/0721/as_surf_isatop_576.jpg",
+      "type": "1",
+      "width": "300",
+      "height": "168"
+     }
+    ],
+    "metatags": [
+     {
+      "msvalidate.01": "B1FEB7C682C46C8FCDA3130F3D18AC28"
+     }
+    ]
+   }
+  }
+ ]
+}

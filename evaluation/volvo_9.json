@@ -1,0 +1,484 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "nextPage": [
+   {
+    "title": "Google Custom Search - volvo",
+    "totalResults": "38300000",
+    "searchTerms": "volvo",
+    "count": 10,
+    "startIndex": 101,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "017401104989814545383:mf4lavmtuva"
+   }
+  ],
+  "request": [
+   {
+    "title": "Google Custom Search - volvo",
+    "totalResults": "38300000",
+    "searchTerms": "volvo",
+    "count": 10,
+    "startIndex": 91,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "017401104989814545383:mf4lavmtuva"
+   }
+  ],
+  "previousPage": [
+   {
+    "title": "Google Custom Search - volvo",
+    "totalResults": "38300000",
+    "searchTerms": "volvo",
+    "count": 10,
+    "startIndex": 81,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "017401104989814545383:mf4lavmtuva"
+   }
+  ]
+ },
+ "context": {
+  "title": "College MetaSearch Comparison"
+ },
+ "searchInformation": {
+  "searchTime": 0.200423,
+  "formattedSearchTime": "0.20",
+  "totalResults": "38300000",
+  "formattedTotalResults": "38,300,000"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "Weiss Brentwood Volvo | 314-644-9501 | St Louis Volvo Dealer ...",
+   "htmlTitle": "Weiss Brentwood \u003cb\u003eVolvo\u003c/b\u003e | 314-644-9501 | St Louis \u003cb\u003eVolvo\u003c/b\u003e Dealer \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://www.weissbrentwoodvolvo.com/",
+   "displayLink": "www.weissbrentwoodvolvo.com",
+   "snippet": "Contact Us At 314-644-9501. Weiss Brentwood Volvo Dealer is a St. Louis Volvo   dealership featuring one of Missouri's largest inventories of new and used ...",
+   "htmlSnippet": "Contact Us At 314-644-9501. Weiss Brentwood \u003cb\u003eVolvo\u003c/b\u003e Dealer is a St. Louis \u003cb\u003eVolvo\u003c/b\u003e \u003cbr\u003e  dealership featuring one of Missouri&#39;s largest inventories of new and used \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "5GcxJBfWYs0J",
+   "formattedUrl": "www.weissbrentwoodvolvo.com/",
+   "htmlFormattedUrl": "www.weissbrentwood\u003cb\u003evolvo\u003c/b\u003e.com/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://inventory.blusolutions.com/thumbs/144/images/inv//640x480/8d1211234fbd45528a2d232d47095426.jpg",
+      "type": "1",
+      "width": "115",
+      "height": "86"
+     }
+    ],
+    "metatags": [
+     {
+      "author": "Weiss Brentwood Volvo"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Carlsen Volvo | Palo Alto San Francisco San Jose & Bay Area Volvo ...",
+   "htmlTitle": "Carlsen \u003cb\u003eVolvo\u003c/b\u003e | Palo Alto San Francisco San Jose &amp; Bay Area \u003cb\u003eVolvo\u003c/b\u003e \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://www.carlsenvolvo.com/",
+   "displayLink": "www.carlsenvolvo.com",
+   "snippet": "Carlsen Volvo is a Palo Alto, CA Volvo dealer featuring a large inventory of new   and used Volvo cars and serving as a San Francisco Volvo dealer. Your Palo ...",
+   "htmlSnippet": "Carlsen \u003cb\u003eVolvo\u003c/b\u003e is a Palo Alto, CA \u003cb\u003eVolvo\u003c/b\u003e dealer featuring a large inventory of new \u003cbr\u003e  and used \u003cb\u003eVolvo\u003c/b\u003e cars and serving as a San Francisco \u003cb\u003eVolvo\u003c/b\u003e dealer. Your Palo \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "_H1evb9HAh0J",
+   "formattedUrl": "www.carlsenvolvo.com/",
+   "htmlFormattedUrl": "www.carlsen\u003cb\u003evolvo\u003c/b\u003e.com/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.carlsenvolvo.com/models/models_s80.jpg",
+      "type": "1",
+      "width": "160",
+      "height": "120"
+     }
+    ],
+    "metatags": [
+     {
+      "viewport": "width=1000",
+      "msvalidate.01": "0B72D1D6041CC150610A7B3F70EE67D1"
+     }
+    ],
+    "hcard": [
+     {
+      "fn": "Carlsen Volvo"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Bay Area Volvo Dealer in California | New & Used Volvo Cars near ...",
+   "htmlTitle": "Bay Area \u003cb\u003eVolvo\u003c/b\u003e Dealer in California | New &amp; Used \u003cb\u003eVolvo\u003c/b\u003e Cars near \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://www.mckevittvolvo.com/",
+   "displayLink": "www.mckevittvolvo.com",
+   "snippet": "McKevitt Volvo in San Leandro and Berkeley CA offers a full selection of new and   used Volvo cars, trucks and SUVs for Bay Area Volvo drivers near San ...",
+   "htmlSnippet": "McKevitt \u003cb\u003eVolvo\u003c/b\u003e in San Leandro and Berkeley CA offers a full selection of new and \u003cbr\u003e  used \u003cb\u003eVolvo\u003c/b\u003e cars, trucks and SUVs for Bay Area \u003cb\u003eVolvo\u003c/b\u003e drivers near San \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "KCPiceF0FoYJ",
+   "formattedUrl": "www.mckevittvolvo.com/",
+   "htmlFormattedUrl": "www.mckevitt\u003cb\u003evolvo\u003c/b\u003e.com/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://images.dealer.com/evox/color_0640_001/8078/8078_cc0640_001_019.jpg",
+      "type": "1",
+      "width": "259",
+      "height": "194"
+     }
+    ],
+    "metatags": [
+     {
+      "author": "McKevitt Volvo",
+      "expires": "never",
+      "distribution": "global",
+      "msvalidate.01": "F1D4040A94E53E35F6EC0029CBCCB9CB",
+      "y_key": "cd964fcb5afd94cb",
+      "og:title": "Bay Area Volvo Dealer in California | New & Used Volvo Cars near San Francisco | McKevitt Volvo near Oakland & Berkeley CA",
+      "og:type": "website",
+      "og:url": "http://www.mckevittvolvo.com/index.htm",
+      "og:description": "McKevitt Volvo in San Leandro and Berkeley CA offers a full selection of new and used Volvo cars, trucks and SUVs for Bay Area Volvo drivers near San Francisco California.",
+      "locale": "en_US"
+     }
+    ],
+    "hproduct": [
+     {
+      "fn": "2012 Volvo S60 T6 Sedan",
+      "photo": "http://images.dealer.com/autodata/us/stockphoto-color/2012/USC20VOC172A0/498.jpg",
+      "url": "http://www.mckevittvolvo.com/new/Volvo/2012-Volvo-S60-3d81bb150a0d064900deb65fcccea20f.htm",
+      "price": "$46,300",
+      "currency": "USD",
+      "currency_iso4217": "840"
+     },
+     {
+      "fn": "2013 Volvo XC90 3.2 SUV",
+      "photo": "http://images.dealer.com/evox/color_0640_001/8078/8078_cc0640_001_019.jpg",
+      "url": "http://www.mckevittvolvo.com/new/Volvo/2013-Volvo-XC90-8ac31b6f0a0d048d019b2f3221f9b7bb.htm",
+      "price": "$50,225",
+      "currency": "USD",
+      "currency_iso4217": "840"
+     },
+     {
+      "fn": "2012 Volvo C70 T5 Convertible",
+      "photo": "http://images.dealer.com/evox/stills_0640/7545/7545_st0640_089.jpg",
+      "url": "http://www.mckevittvolvo.com/new/Volvo/2012-Volvo-C70-9f484f0c0a0d066901661f7bbcbbc893.htm",
+      "price": "$51,870",
+      "currency": "USD",
+      "currency_iso4217": "840"
+     },
+     {
+      "fn": "2012 Volvo XC60 3.2 SUV",
+      "photo": "http://images.dealer.com/evox/color_0640_001/7515/7515_cc0640_001_019.jpg",
+      "url": "http://www.mckevittvolvo.com/new/Volvo/2012-Volvo-XC60-d2a7e51a0a0a00640059e2058f394686.htm",
+      "price": "$37,465",
+      "currency": "USD",
+      "currency_iso4217": "840"
+     },
+     {
+      "fn": "2012 Volvo XC60 3.2 Premier Plus SUV",
+      "photo": "http://images.dealer.com/evox/color_0640_001/7515/7515_cc0640_001_466.jpg",
+      "url": "http://www.mckevittvolvo.com/new/Volvo/2012-Volvo-XC60-d2a7e8350a0a00640059e2051f6a6742.htm",
+      "price": "$42,965",
+      "currency": "USD",
+      "currency_iso4217": "840"
+     },
+     {
+      "fn": "2012 Volvo XC60 3.2 Premier Plus SUV",
+      "photo": "http://images.dealer.com/evox/color_0640_001/7515/7515_cc0640_001_492.jpg",
+      "url": "http://www.mckevittvolvo.com/new/Volvo/2012-Volvo-XC60-d2a7e61f0a0a00640059e2058552b787.htm",
+      "price": "$44,340",
+      "currency": "USD",
+      "currency_iso4217": "840"
+     },
+     {
+      "fn": "2012 Volvo C30 T5 Premier Plus Hatchback",
+      "photo": "http://images.dealer.com/evox/stills_0640/7510/7510_st0640_089.jpg",
+      "url": "http://www.mckevittvolvo.com/new/Volvo/2012-Volvo-C30-d2a7fa0d0a0a00640059e20579ac0754.htm",
+      "price": "$29,995",
+      "currency": "USD",
+      "currency_iso4217": "840"
+     },
+     {
+      "fn": "2013 Volvo XC90 3.2 SUV",
+      "photo": "http://images.dealer.com/evox/stills_0640/8078/8078_st0640_089.jpg",
+      "url": "http://www.mckevittvolvo.com/new/Volvo/2013-Volvo-XC90-d2c3c3180a0d064901d593b99fd80a38.htm",
+      "price": "$43,625",
+      "currency": "USD",
+      "currency_iso4217": "840"
+     },
+     {
+      "fn": "2012 Volvo XC60 3.2 Platinum SUV",
+      "photo": "http://images.dealer.com/evox/color_0640_001/7515/7515_cc0640_001_477.jpg",
+      "url": "http://www.mckevittvolvo.com/new/Volvo/2012-Volvo-XC60-ec67bdaa0a0d048e00dc62339644baa9.htm",
+      "price": "$46,320",
+      "currency": "USD",
+      "currency_iso4217": "840"
+     }
+    ],
+    "hcard": [
+     {
+      "fn": "McKevitt Volvo"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Virginia Beach Volvo Dealer | New & Used Volvo Cars in Virginia ...",
+   "htmlTitle": "Virginia Beach \u003cb\u003eVolvo\u003c/b\u003e Dealer | New &amp; Used \u003cb\u003eVolvo\u003c/b\u003e Cars in Virginia \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://www.freedomvolvo.com/",
+   "displayLink": "www.freedomvolvo.com",
+   "snippet": "Make a trip to Freedom Volvo of Virginia Beach for a great deal on a new or used   car. For sales, car loans, parts and auto repair stop by our Virginia Beach car ...",
+   "htmlSnippet": "Make a trip to Freedom \u003cb\u003eVolvo\u003c/b\u003e of Virginia Beach for a great deal on a new or used \u003cbr\u003e  car. For sales, car loans, parts and auto repair stop by our Virginia Beach car \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "RVw5n1nvYnkJ",
+   "formattedUrl": "www.freedomvolvo.com/",
+   "htmlFormattedUrl": "www.freedom\u003cb\u003evolvo\u003c/b\u003e.com/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://pictures.dealer.com/f/freedomvolvo/1050/a0c7b9b40a0d028a00efeff81253d50c.jpg",
+      "type": "1",
+      "width": "240",
+      "height": "200"
+     }
+    ],
+    "metatags": [
+     {
+      "copyright": "Copyright Freedom Volvo. All rights reserved.",
+      "author": "Freedom Volvo",
+      "expires": "never",
+      "distribution": "global",
+      "og:title": "Virginia Beach Volvo Dealer | New & Used Volvo Cars in Virginia Beach | Freedom Volvo Near Hampton, Chesapeake & Norfolk",
+      "og:type": "website",
+      "og:url": "http://www.freedomvolvo.com/index.htm",
+      "og:description": "Make a trip to Freedom Volvo of Virginia Beach for a great deal on a new or used car.  For sales, car loans, parts and auto repair stop by our Virginia Beach car dealership today."
+     }
+    ],
+    "hcard": [
+     {
+      "fn": "Freedom Volvo"
+     },
+     {
+      "fn": "Freedom Volvo"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Carlsbad Volvo | New Volvo dealership in Carlsbad, CA 92011",
+   "htmlTitle": "Carlsbad \u003cb\u003eVolvo\u003c/b\u003e | New \u003cb\u003eVolvo\u003c/b\u003e dealership in Carlsbad, CA 92011",
+   "link": "http://www.carlsbadvolvo.com/",
+   "displayLink": "www.carlsbadvolvo.com",
+   "snippet": "Carlsbad, CA New, Carlsbad Volvo sells and services Volvo vehicles in the   greater Carlsbad.",
+   "htmlSnippet": "Carlsbad, CA New, Carlsbad \u003cb\u003eVolvo\u003c/b\u003e sells and services \u003cb\u003eVolvo\u003c/b\u003e vehicles in the \u003cbr\u003e  greater Carlsbad.",
+   "cacheId": "C3nlZ5b2bXoJ",
+   "formattedUrl": "www.carlsbadvolvo.com/",
+   "htmlFormattedUrl": "www.carlsbad\u003cb\u003evolvo\u003c/b\u003e.com/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://pictures.dealer.com/c/carlsbadvolvoca/0183/thumb_a697f7b60a0a00640183268e8e0df72f.jpg",
+      "type": "1",
+      "width": "91",
+      "height": "69"
+     }
+    ],
+    "metatags": [
+     {
+      "copyright": "Copyright Carlsbad Volvo. All rights reserved.",
+      "author": "Carlsbad Volvo",
+      "expires": "never",
+      "distribution": "global",
+      "og:title": "Carlsbad Volvo | New Volvo dealership in Carlsbad, CA 92011",
+      "og:type": "website",
+      "og:url": "http://www.carlsbadvolvo.com/index.htm",
+      "og:description": "Carlsbad, CA New, Carlsbad Volvo sells and services Volvo vehicles in the greater Carlsbad"
+     }
+    ],
+    "hcard": [
+     {
+      "fn": "Carlsbad Volvo"
+     },
+     {
+      "fn": "Carlsbad Volvo"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Volvo Dealer New Jersey East Hanover Livingston Morris County ...",
+   "htmlTitle": "\u003cb\u003eVolvo\u003c/b\u003e Dealer New Jersey East Hanover Livingston Morris County \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://www.prestigevolvo.com/",
+   "displayLink": "www.prestigevolvo.com",
+   "snippet": "Prestige Volvo of East Hanover sells new and used Volvo cars in New Jersey,   New York and Pennsylvania. View our large selection of certified pre-owned ...",
+   "htmlSnippet": "Prestige \u003cb\u003eVolvo\u003c/b\u003e of East Hanover sells new and used \u003cb\u003eVolvo\u003c/b\u003e cars in New Jersey, \u003cbr\u003e  New York and Pennsylvania. View our large selection of certified pre-owned \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "ET5bsnw3AYQJ",
+   "formattedUrl": "www.prestigevolvo.com/",
+   "htmlFormattedUrl": "www.prestige\u003cb\u003evolvo\u003c/b\u003e.com/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://pictures.dealer.com/prestigevolvo/e4eb7d3f4046383900b89bc5d146aa61.jpg",
+      "type": "1",
+      "width": "196",
+      "height": "90"
+     }
+    ],
+    "metatags": [
+     {
+      "copyright": "Copyright Prestige Volvo. All rights reserved.",
+      "author": "Prestige Volvo",
+      "expires": "never",
+      "distribution": "global",
+      "og:title": "Volvo Dealer New Jersey East Hanover Livingston Morris County | NJ Volvo Parts Service | Volvo Used Cars",
+      "og:type": "website",
+      "og:url": "http://www.prestigevolvo.com/index.htm",
+      "og:description": "Prestige Volvo of East Hanover sells new and used Volvo cars in New Jersey, New York and Pennsylvania. View our large selection of certified pre-owned Volvo cars."
+     }
+    ],
+    "hcard": [
+     {
+      "fn": "Prestige Volvo"
+     },
+     {
+      "fn": "Prestige Volvo"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Volvo S60 – Pedestrian Detection, Dynamic Driving – Volvo Cars",
+   "htmlTitle": "\u003cb\u003eVolvo\u003c/b\u003e S60 – Pedestrian Detection, Dynamic Driving – \u003cb\u003eVolvo\u003c/b\u003e Cars",
+   "link": "http://www.volvocars.com/intl/all-cars/volvo-s60/pages/5-things.aspx",
+   "displayLink": "www.volvocars.com",
+   "snippet": "Read about 5 Things to know about the all-new Volvo S60, for example the   fantastic dynamic driving properties and the pedestrian detection.",
+   "htmlSnippet": "Read about 5 Things to know about the all-new \u003cb\u003eVolvo\u003c/b\u003e S60, for example the \u003cbr\u003e  fantastic dynamic driving properties and the pedestrian detection.",
+   "cacheId": "Kh_tzCCpTA0J",
+   "formattedUrl": "www.volvocars.com/intl/all-cars/volvo-s60/pages/5-things.aspx",
+   "htmlFormattedUrl": "www.\u003cb\u003evolvo\u003c/b\u003ecars.com/intl/all-cars/\u003cb\u003evolvo\u003c/b\u003e-s60/pages/5-things.aspx",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.volvocars.com/SiteCollectionImages/Home/Fallback%20images/5-things/S60/S60_fallback.jpg",
+      "type": "1",
+      "width": "371",
+      "height": "136"
+     }
+    ],
+    "metatags": [
+     {
+      "content-language": "sv",
+      "model": "S60",
+      "og:title": "Volvo S60 – Pedestrian Detection, Dynamic Driving – Volvo Cars",
+      "og:type": "website",
+      "og:image": "http://www.volvocars.com/_layouts/VolvoCars.SharePoint.Features.Site3/Images/Logo/ironmark-transparent.png"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Volvo C30 - Wikipedia, the free encyclopedia",
+   "htmlTitle": "\u003cb\u003eVolvo\u003c/b\u003e C30 - Wikipedia, the free encyclopedia",
+   "link": "http://en.wikipedia.org/wiki/Volvo_C30",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "The Volvo C30 is a supermini-class car produced by Volvo Cars. The C30 is a   three-door, four-seat hot hatch hatchback powered by straight-4 and straight-5 ...",
+   "htmlSnippet": "The \u003cb\u003eVolvo\u003c/b\u003e C30 is a supermini-class car produced by \u003cb\u003eVolvo\u003c/b\u003e Cars. The C30 is a \u003cbr\u003e  three-door, four-seat hot hatch hatchback powered by straight-4 and straight-5 \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "GWDvYXevuA8J",
+   "formattedUrl": "en.wikipedia.org/wiki/Volvo_C30",
+   "htmlFormattedUrl": "en.wikipedia.org/wiki/\u003cb\u003eVolvo\u003c/b\u003e_C30",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Volvo_C30_RDesign_HRes.jpg/250px-Volvo_C30_RDesign_HRes.jpg",
+      "type": "1",
+      "width": "200",
+      "height": "139"
+     }
+    ],
+    "hproduct": [
+     {
+      "category": "Supermini",
+      "fn": "Volvo C30"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Volvo Dealer Dallas TX | New Volvo Cars For Sale | Volvo Parts ...",
+   "htmlTitle": "\u003cb\u003eVolvo\u003c/b\u003e Dealer Dallas TX | New \u003cb\u003eVolvo\u003c/b\u003e Cars For Sale | \u003cb\u003eVolvo\u003c/b\u003e Parts \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://www.volvoofdallas.com/",
+   "displayLink": "www.volvoofdallas.com",
+   "snippet": "Take A Look At The New & Used Cars & SUVs at Volvo of Dallas | Test Drive The   Volvo Luxury Cars & SUVs & Experience The Safe Premium Design Today.",
+   "htmlSnippet": "Take A Look At The New &amp; Used Cars &amp; SUVs at \u003cb\u003eVolvo\u003c/b\u003e of Dallas | Test Drive The \u003cbr\u003e  \u003cb\u003eVolvo\u003c/b\u003e Luxury Cars &amp; SUVs &amp; Experience The Safe Premium Design Today.",
+   "cacheId": "C40O30LYs9IJ",
+   "formattedUrl": "www.volvoofdallas.com/",
+   "htmlFormattedUrl": "www.\u003cb\u003evolvo\u003c/b\u003eofdallas.com/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://static.dealer.com/v8/global/images/franchise-shots/en_US/volvo/random-sm.jpg?1251216550000",
+      "type": "1",
+      "width": "133",
+      "height": "41"
+     }
+    ],
+    "metatags": [
+     {
+      "copyright": "Copyright Volvo of Dallas. All rights reserved.",
+      "author": "Volvo of Dallas",
+      "expires": "never",
+      "distribution": "global",
+      "msvalidate.01": "3F7CACA9EEE2F93A9CAE9D0CD97DD1FF",
+      "og:title": "Volvo Dealer Dallas TX | New Volvo Cars For Sale | Volvo Parts & Service",
+      "og:type": "website",
+      "og:url": "http://www.volvoofdallas.com/index.htm",
+      "og:description": "Take A Look At The New & Used Cars & SUVs at Volvo of Dallas | Test Drive The Volvo Luxury Cars & SUVs & Experience The Safe Premium Design Today"
+     }
+    ],
+    "hcard": [
+     {
+      "fn": "Volvo of Dallas"
+     },
+     {
+      "fn": "Volvo of Dallas"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Bob Byers Ravenna Volvo | Seattle Volvo Dealer | Volvo Dealership ...",
+   "htmlTitle": "Bob Byers Ravenna \u003cb\u003eVolvo\u003c/b\u003e | Seattle \u003cb\u003eVolvo\u003c/b\u003e Dealer | \u003cb\u003eVolvo\u003c/b\u003e Dealership \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://www.ravennavolvo.com/",
+   "displayLink": "www.ravennavolvo.com",
+   "snippet": "Bob Byers Volvo in Ravenna is a Seattle area Volvo dealership offering new,   certified used pre-owned, overseas and european delivery Volvo models,   genuine ...",
+   "htmlSnippet": "Bob Byers \u003cb\u003eVolvo\u003c/b\u003e in Ravenna is a Seattle area \u003cb\u003eVolvo\u003c/b\u003e dealership offering new, \u003cbr\u003e  certified used pre-owned, overseas and european delivery \u003cb\u003eVolvo\u003c/b\u003e models, \u003cbr\u003e  genuine \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "JjQ1Zpb_44QJ",
+   "formattedUrl": "www.ravennavolvo.com/",
+   "htmlFormattedUrl": "www.ravenna\u003cb\u003evolvo\u003c/b\u003e.com/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.ravennavolvo.com/images/homelink_overseas.jpg",
+      "type": "1",
+      "width": "246",
+      "height": "105"
+     }
+    ]
+   }
+  }
+ ]
+}

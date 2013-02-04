@@ -1,0 +1,430 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "nextPage": [
+   {
+    "title": "Google Custom Search - flame designs",
+    "totalResults": "19700000",
+    "searchTerms": "flame designs",
+    "count": 10,
+    "startIndex": 91,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "017401104989814545383:mf4lavmtuva"
+   }
+  ],
+  "request": [
+   {
+    "title": "Google Custom Search - flame designs",
+    "totalResults": "19700000",
+    "searchTerms": "flame designs",
+    "count": 10,
+    "startIndex": 81,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "017401104989814545383:mf4lavmtuva"
+   }
+  ],
+  "previousPage": [
+   {
+    "title": "Google Custom Search - flame designs",
+    "totalResults": "19700000",
+    "searchTerms": "flame designs",
+    "count": 10,
+    "startIndex": 71,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "017401104989814545383:mf4lavmtuva"
+   }
+  ]
+ },
+ "context": {
+  "title": "College MetaSearch Comparison"
+ },
+ "searchInformation": {
+  "searchTime": 0.170049,
+  "formattedSearchTime": "0.17",
+  "totalResults": "19700000",
+  "formattedTotalResults": "19,700,000"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "Tribal leather pocket belt bag Om, spiral and flame designs ...",
+   "htmlTitle": "Tribal leather pocket belt bag Om, spiral and \u003cb\u003eflame designs\u003c/b\u003e \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://www.psymusic.co.uk/forum/threads/tribal-leather-pocket-belt-bag-om-spiral-and-flame-designs.68374/",
+   "displayLink": "www.psymusic.co.uk",
+   "snippet": "Om Design Festival / Goa Trance / Hippy style fashion belt Funky Brown leather   Om design utility / multi pocket belt with rivet holes. 2 Side ...",
+   "htmlSnippet": "Om \u003cb\u003eDesign\u003c/b\u003e Festival / Goa Trance / Hippy style fashion belt Funky Brown leather \u003cbr\u003e  Om \u003cb\u003edesign\u003c/b\u003e utility / multi pocket belt with rivet holes. 2 Side \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "cbHwFev8dWoJ",
+   "formattedUrl": "www.psymusic.co.uk/.../tribal-leather-pocket-belt-bag-om-spiral-and-flame- designs.68374/",
+   "htmlFormattedUrl": "www.psymusic.co.uk/.../tribal-leather-pocket-belt-bag-om-spiral-and-\u003cb\u003eflame\u003c/b\u003e- \u003cb\u003edesigns\u003c/b\u003e.68374/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://i69.photobucket.com/albums/i48/bustawidemove/DSCF4976.jpg",
+      "type": "1",
+      "width": "259",
+      "height": "194"
+     }
+    ],
+    "person": [
+     {
+      "role": "New Member"
+     },
+     {
+      "name": "fairy angel",
+      "title": "New Member"
+     }
+    ],
+    "metatags": [
+     {
+      "og:site_name": "PsyMusic UK",
+      "og:image": "http://www.psymusic.co.uk/forum/styles/flexile/xenforo/avatars/avatar_m.png",
+      "og:type": "article",
+      "og:url": "http://www.psymusic.co.uk/forum/threads/tribal-leather-pocket-belt-bag-om-spiral-and-flame-designs.68374/",
+      "og:title": "Tribal leather pocket belt bag Om, spiral and flame designs",
+      "fb:app_id": "184504281578811"
+     }
+    ],
+    "breadcrumb": [
+     {
+      "url": "Home",
+      "title": "Home"
+     },
+     {
+      "url": "Forums",
+      "title": "Forums"
+     },
+     {
+      "url": "Links",
+      "title": "Links"
+     },
+     {
+      "url": "PsyShops",
+      "title": "PsyShops"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Flyers",
+   "htmlTitle": "Flyers",
+   "link": "http://www.coolblueflame.com/flyers.html",
+   "displayLink": "www.coolblueflame.com",
+   "snippet": "Incentive Flyer for an education company. (8.5 in. x 11 in.) picture. Flyer for an   education company. (8.5 in. x 11 in.) picture. Flyer for an education company.",
+   "htmlSnippet": "Incentive Flyer for an education company. (8.5 in. x 11 in.) picture. Flyer for an \u003cbr\u003e  education company. (8.5 in. x 11 in.) picture. Flyer for an education company.",
+   "cacheId": "TdRN3dVYy7UJ",
+   "formattedUrl": "www.coolblueflame.com/flyers.html",
+   "htmlFormattedUrl": "www.coolblue\u003cb\u003eflame\u003c/b\u003e.com/flyers.html",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.coolblueflame.com/images/Samples/Print/Flyers/WowFlyer.jpg",
+      "type": "1",
+      "width": "190",
+      "height": "266"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "SU-ARM105- Arm Sleeves - Flame Design with School Initials - A ...",
+   "htmlTitle": "SU-ARM105- Arm Sleeves - \u003cb\u003eFlame Design\u003c/b\u003e with School Initials - A \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://aftcreations.com/su-arm105-arm-sleeves-flame-design-with-school-initials/",
+   "displayLink": "aftcreations.com",
+   "snippet": "We specialize in custom bows, custom cheer bows, custom sublimated bows,   custom cheerleading bows, cheer bows, school bows, custom apparel, custom ...",
+   "htmlSnippet": "We specialize in custom bows, custom cheer bows, custom sublimated bows, \u003cbr\u003e  custom cheerleading bows, cheer bows, school bows, custom apparel, custom \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "rUuHuqTOkOEJ",
+   "formattedUrl": "aftcreations.com/su-arm105-arm-sleeves-flame-design-with-school-initials/",
+   "htmlFormattedUrl": "aftcreations.com/su-arm105-arm-sleeves-\u003cb\u003eflame\u003c/b\u003e-\u003cb\u003edesign\u003c/b\u003e-with-school-initials/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://aftcreations.com/product_images/l/479/SU_ARM105_CR__78451_std.JPG",
+      "type": "1",
+      "width": "244",
+      "height": "163"
+     }
+    ],
+    "metatags": [
+     {
+      "og:type": "product",
+      "og:title": "SU-ARM105- Arm Sleeves - Flame Design with School Initials",
+      "og:description": "We specialize in custom bows, custom cheer bows, custom sublimated bows, custom cheerleading bows, cheer bows, school bows, custom apparel, custom sublimation accessories, custom sublimation apparel, cheerleading accessories, cheerleading bows, custom school bows, custom school accessories and much more.  We do cheer bows, cheerleading competition bows, dance bows, plaid bows, and accessories.  We can supply all your custom bows, sublimation, custom cheer bow, cheer/cheerleading, dance and school needs.  Apply for a wholesale account with us today.",
+      "og:image": "http://aftcreations.com/product_images/l/479/SU_ARM105_CR__78451_std.JPG",
+      "og:url": "http://aftcreations.com/su-arm105-arm-sleeves-flame-design-with-school-initials/",
+      "og:site_name": "A Finishing Touch",
+      "fb:admins": "100000247705731"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Email Marketing",
+   "htmlTitle": "Email Marketing",
+   "link": "http://www.coolblueflame.com/emailmarketing.html",
+   "displayLink": "www.coolblueflame.com",
+   "snippet": "Back-To-School email for an education company. picture. Email ad for an   education conference. picture. Email ad for education poster packs. picture.   Email ad ...",
+   "htmlSnippet": "Back-To-School email for an education company. picture. Email ad for an \u003cbr\u003e  education conference. picture. Email ad for education poster packs. picture. \u003cbr\u003e  Email ad \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "uXe7oYx0pnAJ",
+   "formattedUrl": "www.coolblueflame.com/emailmarketing.html",
+   "htmlFormattedUrl": "www.coolblue\u003cb\u003eflame\u003c/b\u003e.com/emailmarketing.html",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.coolblueflame.com/images/Samples/Electronic/Emails/PosterPacks.jpg",
+      "type": "1",
+      "width": "190",
+      "height": "266"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Vector Clip Art by Clipart deSIGN - Flames Clipart, Vector Clipart ...",
+   "htmlTitle": "Vector Clip Art by Clipart \u003cb\u003edeSIGN\u003c/b\u003e - \u003cb\u003eFlames\u003c/b\u003e Clipart, Vector Clipart \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://www.clipart-design.com/",
+   "displayLink": "www.clipart-design.com",
+   "snippet": "Vector Clip Art, Flames Clipart, Vehicle Vector Clipart and Hot Rod Graphics and   Flames, Tribal Flames, Vinyl Ready Clip Art, Raster To Vector Vectoriozation ...",
+   "htmlSnippet": "Vector Clip Art, \u003cb\u003eFlames\u003c/b\u003e Clipart, Vehicle Vector Clipart and Hot Rod Graphics and \u003cbr\u003e  \u003cb\u003eFlames\u003c/b\u003e, Tribal \u003cb\u003eFlames\u003c/b\u003e, Vinyl Ready Clip Art, Raster To Vector Vectoriozation \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "gsaT1MvfW1sJ",
+   "formattedUrl": "www.clipart-design.com/",
+   "htmlFormattedUrl": "www.clipart-\u003cb\u003edesign\u003c/b\u003e.com/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.clipart-design.com/images/ornaments_130.gif",
+      "type": "1",
+      "width": "94",
+      "height": "104"
+     }
+    ],
+    "metatags": [
+     {
+      "title": "Clipart deSIGN - Vector Clip Art, Flames Clipart, Vector Clipart, Tribal Flames, EPS Clipart, Stock Illustrations, Flame Designs, Free Clip Art"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "CD-ROM's",
+   "htmlTitle": "CD-ROM&#39;s",
+   "link": "http://www.coolblueflame.com/cdroms.html",
+   "displayLink": "www.coolblueflame.com",
+   "snippet": "CD-ROM menu for an education conference. picture. CD-ROM menu for a   curriculum. picture. CD-ROM menu for an educational workbook. picture. CD-  ROM ...",
+   "htmlSnippet": "CD-ROM menu for an education conference. picture. CD-ROM menu for a \u003cbr\u003e  curriculum. picture. CD-ROM menu for an educational workbook. picture. CD-\u003cbr\u003e  ROM \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "A7csdINvBE4J",
+   "formattedUrl": "www.coolblueflame.com/cdroms.html",
+   "htmlFormattedUrl": "www.coolblue\u003cb\u003eflame\u003c/b\u003e.com/cdroms.html",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.coolblueflame.com/images/Samples/Electronic/CDROMs/WINGS.jpg",
+      "type": "1",
+      "width": "200",
+      "height": "183"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Video: Glass Bead Flame Designs: Sea Goddess Pendant | eHow.com",
+   "htmlTitle": "Video: Glass Bead \u003cb\u003eFlame Designs\u003c/b\u003e: Sea Goddess Pendant | eHow.com",
+   "link": "http://www.ehow.com/video_4942775_glass-bead-flame-designs-sea.html",
+   "displayLink": "www.ehow.com",
+   "snippet": "Glass Bead Flame Designs: Sea Goddess Pendant. Part of the series: Glass   Bead Making: Flame Designs. Improvise with glass bead shapes. Learn more   about ...",
+   "htmlSnippet": "Glass Bead \u003cb\u003eFlame Designs\u003c/b\u003e: Sea Goddess Pendant. Part of the series: Glass \u003cbr\u003e  Bead Making: \u003cb\u003eFlame Designs\u003c/b\u003e. Improvise with glass bead shapes. Learn more \u003cbr\u003e  about \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "etxJ0kt9EskJ",
+   "formattedUrl": "www.ehow.com/video_4942775_glass-bead-flame-designs-sea.html",
+   "htmlFormattedUrl": "www.ehow.com/video_4942775_glass-bead-\u003cb\u003eflame\u003c/b\u003e-\u003cb\u003edesigns\u003c/b\u003e-sea.html",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://i.ehow.com/images/a04/mq/tn/glass-bead-flame-designs-sea-180x180.jpg",
+      "type": "1",
+      "width": "144",
+      "height": "80"
+     }
+    ],
+    "videoobject": [
+     {
+      "name": "Glass Bead Flame Designs: Sea Goddess Pendant",
+      "duration": "T0M0S",
+      "thumbnailurl": "http://i.ehow.com/images/a04/mq/tn/glass-bead-flame-designs-sea-800x800.jpg",
+      "title": "Glass Bead Flame Designs: Harlequin Bead"
+     }
+    ],
+    "metatags": [
+     {
+      "y_key": "4d4cb4ef1ad334cb",
+      "alexaverifyid": "xlJch1oUHrXNtOQBpiuUCV0-rlc",
+      "msvalidate.01": "5F1B06EBE88583F1C05B9114514366ED",
+      "cachetime": "201207172247",
+      "studioid": "60864f13-faed-4453-a83f-965579b299e5",
+      "contentid": "4942775",
+      "category": "Hobbies, Games & Toys",
+      "subcategory": "Crafts",
+      "subsubcat": "Glasswork",
+      "subpagetype": "video",
+      "pagetype": "article",
+      "wa_lr": "en-US",
+      "siteid": "EHWC",
+      "exp_name": "desktop:default",
+      "exp_page": "Rebuild-TestGroup",
+      "wa_clvl": "1",
+      "wa_lgsrc": "1",
+      "articleid": "4942775",
+      "articletype": "professional",
+      "articletypeid": "Professional",
+      "author": "Harlan Simon",
+      "authorid": "56a41314-7584-4fd5-9a3b-8f264d13eb4c",
+      "publishdate": "04/28/2009 16:19:15",
+      "hasimages": "True",
+      "hasvideo": "True",
+      "center": "Hobbies, Games & Toys",
+      "centerid": "11",
+      "centerurl": "hobbies-games",
+      "list": "Crafts",
+      "listid": "1043",
+      "listurl": "crafts",
+      "categoryid": "2405",
+      "categoryurl": "glasswork",
+      "articleimage": "http://i.ehow.com/images/a04/mq/tn/glass-bead-flame-designs-sea-180x180.jpg",
+      "articletitleurl": "http://www.ehow.com/video_4942775_glass-bead-flame-designs-sea.html",
+      "views": "1590",
+      "duration": "0",
+      "uploader": "Harlan Simon",
+      "og:image": "http://i.ehow.com/images/a04/mq/tn/glass-bead-flame-designs-sea-180x180.jpg",
+      "og:url": "http://www.ehow.com/video_4942775_glass-bead-flame-designs-sea.html",
+      "og:type": "video",
+      "og:title": "Glass Bead Flame Designs: Sea Goddess Pendant",
+      "og:description": "Improvise with glass bead shapes. Learn more about creative improvisation while flame-treating your glass beads in this free bead making video from a professional bead making instructor.",
+      "og:video": "http://cdn-i.dmdentertainment.com/DMVideoPlayer/player.swf?demand_fb=1&source=http://cdn-viper.demandvideo.com/media/7232e711-9d81-484f-81d9-dc27680ee2ba/flash/60864f13-faed-4453-a83f-965579b299e5.flv&skin=http://cdn-i.dmdentertainment.com/DMVideoPlayer/playerskin.swf&demand_page_url=http://www.ehow.com/video_4942775_glass-bead-flame-designs-sea.html&video_title=Glass+Bead+Flame+Designs%3A+Sea+Goddess+Pendant&demand_site_id=EHWC&demand_content_id=60864f13-faed-4453-a83f-965579b299e5&demand_studio_id=60864f13-faed-4453-a83f-965579b299e5",
+      "og:video:width": "620",
+      "og:video:height": "349",
+      "og:video:type": "application/x-shockwave-flash",
+      "fb:app_id": "63203377906",
+      "fb:admins": "63203377906"
+     }
+    ],
+    "meta": [
+     {
+      "articlethumbnail": "http://i.ehow.com/images/a04/mq/tn/glass-bead-flame-designs-sea-180x180.jpg",
+      "articletype": "professional"
+     }
+    ],
+    "breadcrumb": [
+     {
+      "url": "eHow",
+      "title": "eHow"
+     },
+     {
+      "url": "Arts & Crafts",
+      "title": "Arts & Crafts"
+     },
+     {
+      "url": "Beading",
+      "title": "Beading"
+     },
+     {
+      "url": "Glass Beads",
+      "title": "Glass Beads"
+     },
+     {
+      "url": "Glass Bead Flame Designs: Sea Goddess Pendant",
+      "title": "Glass Bead Flame Designs: Sea Goddess Pendant"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Invitations",
+   "htmlTitle": "Invitations",
+   "link": "http://www.coolblueflame.com/invitations.html",
+   "displayLink": "www.coolblueflame.com",
+   "snippet": "Invitation for a boy's baby shower. (5.5 in. x 4.25 in.) picture. Invitation for a girl's   baby shower. (5.5 in. x 4.25 in.) picture. Invitation for a sorority group meeting.",
+   "htmlSnippet": "Invitation for a boy&#39;s baby shower. (5.5 in. x 4.25 in.) picture. Invitation for a girl&#39;s \u003cbr\u003e  baby shower. (5.5 in. x 4.25 in.) picture. Invitation for a sorority group meeting.",
+   "cacheId": "yPYM1oA7KS0J",
+   "formattedUrl": "www.coolblueflame.com/invitations.html",
+   "htmlFormattedUrl": "www.coolblue\u003cb\u003eflame\u003c/b\u003e.com/invitations.html",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.coolblueflame.com/images/Samples/Print/Invitations/BabyShowerGirl.jpg",
+      "type": "1",
+      "width": "200",
+      "height": "217"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Welcome to Liquid Flame Design services: advertising Cheap Web ...",
+   "htmlTitle": "Welcome to Liquid \u003cb\u003eFlame Design\u003c/b\u003e services: advertising Cheap Web \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://liquidflamedesign.com/",
+   "displayLink": "liquidflamedesign.com",
+   "snippet": "Your one stop creative company for web site design,advertising,Cheap Web   Design,Cheap websites,CMS,Content management systems,ecommerce   solutions ...",
+   "htmlSnippet": "Your one stop creative company for web site \u003cb\u003edesign\u003c/b\u003e,advertising,Cheap Web \u003cbr\u003e  \u003cb\u003eDesign\u003c/b\u003e,Cheap websites,CMS,Content management systems,ecommerce \u003cbr\u003e  solutions \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "bpggUL2Rjg0J",
+   "formattedUrl": "liquidflamedesign.com/",
+   "htmlFormattedUrl": "liquid\u003cb\u003eflamedesign\u003c/b\u003e.com/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.liquidflamedesign.com/images/seo-sale-home.jpg",
+      "type": "1",
+      "width": "119",
+      "height": "144"
+     }
+    ],
+    "metatags": [
+     {
+      "fb:admins": "687939040",
+      "fb:app_id": "149771341728407",
+      "og:type": "article",
+      "og:title": "Blog",
+      "og:url": "http://www.facebook.com/pages/Liquid-Flame/150146841668342"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Brochures",
+   "htmlTitle": "Brochures",
+   "link": "http://www.coolblueflame.com/brochures.html",
+   "displayLink": "www.coolblueflame.com",
+   "snippet": "Brochure for an education workshop. (8.5 in. x 11 in.) picture. Brochure for an   education conference. (8.5 in. x 11 in.) picture. Spanish informational brochure   for ...",
+   "htmlSnippet": "Brochure for an education workshop. (8.5 in. x 11 in.) picture. Brochure for an \u003cbr\u003e  education conference. (8.5 in. x 11 in.) picture. Spanish informational brochure \u003cbr\u003e  for \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "O1qjn60v1yQJ",
+   "formattedUrl": "www.coolblueflame.com/brochures.html",
+   "htmlFormattedUrl": "www.coolblue\u003cb\u003eflame\u003c/b\u003e.com/brochures.html",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.coolblueflame.com/images/Samples/Print/Brochures/SpanParentBrochure.jpg",
+      "type": "1",
+      "width": "190",
+      "height": "266"
+     }
+    ]
+   }
+  }
+ ]
+}

@@ -1,0 +1,278 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "nextPage": [
+   {
+    "title": "Google Custom Search - cheap internet",
+    "totalResults": "116000000",
+    "searchTerms": "cheap internet",
+    "count": 10,
+    "startIndex": 41,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "017401104989814545383:mf4lavmtuva"
+   }
+  ],
+  "request": [
+   {
+    "title": "Google Custom Search - cheap internet",
+    "totalResults": "116000000",
+    "searchTerms": "cheap internet",
+    "count": 10,
+    "startIndex": 31,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "017401104989814545383:mf4lavmtuva"
+   }
+  ],
+  "previousPage": [
+   {
+    "title": "Google Custom Search - cheap internet",
+    "totalResults": "116000000",
+    "searchTerms": "cheap internet",
+    "count": 10,
+    "startIndex": 21,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "017401104989814545383:mf4lavmtuva"
+   }
+  ]
+ },
+ "context": {
+  "title": "College MetaSearch Comparison"
+ },
+ "searchInformation": {
+  "searchTime": 0.127533,
+  "formattedSearchTime": "0.13",
+  "totalResults": "116000000",
+  "formattedTotalResults": "116,000,000"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "Cable Internet Providers In My Area",
+   "htmlTitle": "Cable \u003cb\u003eInternet\u003c/b\u003e Providers In My Area",
+   "link": "http://www.allconnect.com/ssc-internet-cableInternet/cable-internet.html",
+   "displayLink": "www.allconnect.com",
+   "snippet": "One call gets you the lowest rates on cable internet service in your area.   Allconnect is a free service that finds you the best options for cable, Internet, and   ... Order Cheap DSL · High Speed Internet Service · Other Home Services   Providers ...",
+   "htmlSnippet": "One call gets you the lowest rates on cable \u003cb\u003einternet\u003c/b\u003e service in your area. \u003cbr\u003e  Allconnect is a free service that finds you the best options for cable, \u003cb\u003eInternet\u003c/b\u003e, and \u003cbr\u003e  \u003cb\u003e...\u003c/b\u003e Order \u003cb\u003eCheap\u003c/b\u003e DSL &middot; High Speed \u003cb\u003eInternet\u003c/b\u003e Service &middot; Other Home Services \u003cbr\u003e  Providers \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "YZYmxa1cnC0J",
+   "formattedUrl": "www.allconnect.com/ssc-internet-cableInternet/cable-internet.html",
+   "htmlFormattedUrl": "www.allconnect.com/ssc-\u003cb\u003einternet\u003c/b\u003e-cable\u003cb\u003eInternet\u003c/b\u003e/cable-\u003cb\u003einternet\u003c/b\u003e.html",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.allconnect.com/shared/img/contractors/180x250/spacer.gif",
+      "type": "1",
+      "width": "1",
+      "height": "1"
+     }
+    ],
+    "metatags": [
+     {
+      "y_key": "0936ca0fd0b1916a"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Cheap Internet Service - Discount ISPs",
+   "htmlTitle": "\u003cb\u003eCheap Internet\u003c/b\u003e Service - Discount ISPs",
+   "link": "http://www.easycall.net/dial-up-internet.shtml",
+   "displayLink": "www.easycall.net",
+   "snippet": "Compare nationwide discount internet service providers. Find the cheapest rate   for dial up internet.",
+   "htmlSnippet": "Compare nationwide discount \u003cb\u003einternet\u003c/b\u003e service providers. Find the \u003cb\u003echeapest\u003c/b\u003e rate \u003cbr\u003e  for dial up \u003cb\u003einternet\u003c/b\u003e.",
+   "cacheId": "m3xn9LhqQj0J",
+   "formattedUrl": "www.easycall.net/dial-up-internet.shtml",
+   "htmlFormattedUrl": "www.easycall.net/dial-up-\u003cb\u003einternet\u003c/b\u003e.shtml",
+   "pagemap": {
+    "metatags": [
+     {
+      "abstract": "Cheap dial up Internet"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Cable and Internet Providers| TV bundles",
+   "htmlTitle": "Cable and \u003cb\u003eInternet\u003c/b\u003e Providers| TV bundles",
+   "link": "http://www.allconnect.com/ssc-bundles-bundle4/cable-internet.html",
+   "displayLink": "www.allconnect.com",
+   "snippet": "Look for who's got the cheapest rate or the best features. Compare the plans side   by side to make sure you're setting up the Internet and TV bundle that best fits ...",
+   "htmlSnippet": "Look for who&#39;s got the \u003cb\u003echeapest\u003c/b\u003e rate or the best features. Compare the plans side \u003cbr\u003e  by side to make sure you&#39;re setting up the \u003cb\u003eInternet\u003c/b\u003e and TV bundle that best fits \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "XDQqf61-VwYJ",
+   "formattedUrl": "www.allconnect.com/ssc-bundles-bundle4/cable-internet.html",
+   "htmlFormattedUrl": "www.allconnect.com/ssc-bundles-bundle4/cable-\u003cb\u003einternet\u003c/b\u003e.html",
+   "pagemap": {
+    "metatags": [
+     {
+      "y_key": "0936ca0fd0b1916a"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Lifeline Internet: A welcome addition to the Lifeline phone program",
+   "htmlTitle": "Lifeline \u003cb\u003eInternet\u003c/b\u003e: A welcome addition to the Lifeline phone program",
+   "link": "http://www.cheapinternet.com/low-income-internet/lifeline-internet",
+   "displayLink": "www.cheapinternet.com",
+   "snippet": "While still unofficial, it is assumed that the requirements for Lifeline Internet will   be identical to the requirements for the Lifeline phone program.",
+   "htmlSnippet": "While still unofficial, it is assumed that the requirements for Lifeline \u003cb\u003eInternet\u003c/b\u003e will \u003cbr\u003e  be identical to the requirements for the Lifeline phone program.",
+   "cacheId": "xJeNr72Lu2MJ",
+   "formattedUrl": "www.cheapinternet.com/low-income-internet/lifeline-internet",
+   "htmlFormattedUrl": "www.\u003cb\u003echeapinternet\u003c/b\u003e.com/low-income-\u003cb\u003einternet\u003c/b\u003e/lifeline-\u003cb\u003einternet\u003c/b\u003e"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Cheap Internet Access Providers - YouTube",
+   "htmlTitle": "\u003cb\u003eCheap Internet\u003c/b\u003e Access Providers - YouTube",
+   "link": "http://www.youtube.com/watch?v=UqhOmMxjK98",
+   "displayLink": "www.youtube.com",
+   "snippet": "Feb 25, 2012 ... http://internetaccessforfree.com - Cheap Internet Access Providers No one wants   everything expensive especially internet access. People are ...",
+   "htmlSnippet": "Feb 25, 2012 \u003cb\u003e...\u003c/b\u003e http://internetaccessforfree.com - \u003cb\u003eCheap Internet\u003c/b\u003e Access Providers No one wants \u003cbr\u003e  everything expensive especially internet access. People are \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "-8Tjak7tEgsJ",
+   "formattedUrl": "www.youtube.com/watch?v=UqhOmMxjK98",
+   "htmlFormattedUrl": "www.youtube.com/watch?v=UqhOmMxjK98",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://i2.ytimg.com/vi/UqhOmMxjK98/hqdefault.jpg",
+      "type": "1",
+      "width": "259",
+      "height": "194"
+     }
+    ],
+    "videoobject": [
+     {
+      "url": "http://www.youtube.com/watch?v=UqhOmMxjK98",
+      "name": "Cheap Internet Access Providers",
+      "description": "http://internetaccessforfree.com - Cheap Internet Access Providers No one wants everything expensive especially internet access. People are always comparing ...",
+      "thumbnailurl": "http://i2.ytimg.com/vi/UqhOmMxjK98/hqdefault.jpg",
+      "embedurl": "http://www.youtube.com/v/UqhOmMxjK98?version=3&autohide=1",
+      "playertype": "Flash",
+      "width": "640",
+      "height": "360"
+     }
+    ],
+    "person": [
+     {
+      "url": "http://www.youtube.com/user/FreeInternetAccess"
+     }
+    ],
+    "metatags": [
+     {
+      "title": "Cheap Internet Access Providers",
+      "fb:app_id": "87741124305",
+      "og:url": "http://www.youtube.com/watch?v=UqhOmMxjK98",
+      "og:title": "Cheap Internet Access Providers",
+      "og:description": "http://internetaccessforfree.com - Cheap Internet Access Providers No one wants everything expensive especially internet access. People are always comparing ...",
+      "og:type": "video",
+      "og:image": "http://i2.ytimg.com/vi/UqhOmMxjK98/hqdefault.jpg",
+      "og:video": "http://www.youtube.com/v/UqhOmMxjK98?version=3&autohide=1",
+      "og:video:type": "application/x-shockwave-flash",
+      "og:video:width": "398",
+      "og:video:height": "224",
+      "og:site_name": "YouTube"
+     }
+    ],
+    "imageobject": [
+     {
+      "url": "http://i2.ytimg.com/vi/UqhOmMxjK98/mqdefault.jpg",
+      "width": "320",
+      "height": "180"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Bringing cheap internet to America's low income Hispanic kids",
+   "htmlTitle": "Bringing \u003cb\u003echeap internet\u003c/b\u003e to America&#39;s low income Hispanic kids",
+   "link": "http://www.cheapinternet.com/inexpensive-internet-low-income-hispanic-kids",
+   "displayLink": "www.cheapinternet.com",
+   "snippet": "Jun 11, 2012 ... The FCC believes helping Latinos adopting broadband will lead directly to better   educations, better healthcare, and lower poverty rates.",
+   "htmlSnippet": "Jun 11, 2012 \u003cb\u003e...\u003c/b\u003e The FCC believes helping Latinos adopting broadband will lead directly to better \u003cbr\u003e  educations, better healthcare, and lower poverty rates.",
+   "cacheId": "Dd7aCgC9cDoJ",
+   "formattedUrl": "www.cheapinternet.com/inexpensive-internet-low-income-hispanic-kids",
+   "htmlFormattedUrl": "www.\u003cb\u003echeapinternet\u003c/b\u003e.com/inexpensive-\u003cb\u003einternet\u003c/b\u003e-low-income-hispanic-kids"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Credit Card Processing | Cheap Credit Card Merchant Account",
+   "htmlTitle": "Credit Card Processing | \u003cb\u003eCheap\u003c/b\u003e Credit Card Merchant Account",
+   "link": "http://www.thetransactiongroup.net/",
+   "displayLink": "www.thetransactiongroup.net",
+   "snippet": "TTG offers cheap credit card processing solutions for US and International   businesses. Retail & Internet merchant accounts for high risk and poor credit ...",
+   "htmlSnippet": "TTG offers \u003cb\u003echeap\u003c/b\u003e credit card processing solutions for US and International \u003cbr\u003e  businesses. Retail &amp; \u003cb\u003eInternet\u003c/b\u003e merchant accounts for high risk and poor credit \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "ApBbSjeG1JsJ",
+   "formattedUrl": "www.thetransactiongroup.net/",
+   "htmlFormattedUrl": "www.thetransactiongroup.net/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.thetransactiongroup.net/wp-content/themes/ttg/images/RetailOff.png",
+      "type": "1",
+      "width": "172",
+      "height": "97"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Save On ISP »",
+   "htmlTitle": "Save On ISP »",
+   "link": "http://saveonisp.com/",
+   "displayLink": "saveonisp.com",
+   "snippet": "Internet at a Better Price. ... Posted in on 15.12.11. Save On ISP is a source for   budget minded people looking for Internet services. No Comments » ...",
+   "htmlSnippet": "\u003cb\u003eInternet\u003c/b\u003e at a Better Price. \u003cb\u003e...\u003c/b\u003e Posted in on 15.12.11. Save On ISP is a source for \u003cbr\u003e  budget minded people looking for \u003cb\u003eInternet\u003c/b\u003e services. No Comments » \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "ECCm0C2QUzsJ",
+   "formattedUrl": "saveonisp.com/",
+   "htmlFormattedUrl": "saveonisp.com/"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Cheap Internet Service for Low Income Americans",
+   "htmlTitle": "\u003cb\u003eCheap Internet\u003c/b\u003e Service for Low Income Americans",
+   "link": "http://www.cheapinternet.com/news",
+   "displayLink": "www.cheapinternet.com",
+   "snippet": "Very inexpensive broadband internet service and cheap computers are available   for low income Americans.",
+   "htmlSnippet": "Very inexpensive broadband \u003cb\u003einternet\u003c/b\u003e service and \u003cb\u003echeap\u003c/b\u003e computers are available \u003cbr\u003e  for low income Americans.",
+   "cacheId": "Usp5fIRX_WgJ",
+   "formattedUrl": "www.cheapinternet.com/news",
+   "htmlFormattedUrl": "www.\u003cb\u003echeapinternet\u003c/b\u003e.com/news"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Cheap Internet",
+   "htmlTitle": "\u003cb\u003eCheap Internet\u003c/b\u003e",
+   "link": "http://www.techsoup.org/greentech/cetf/page10638.cfm",
+   "displayLink": "www.techsoup.org",
+   "snippet": "Cheap Internet Resource. ... Freedomlist ISP Directory: Free and cheap internet   service providers; Freedomelist Free Internet List: Juno, Netzero, Sevenmidgets, ...",
+   "htmlSnippet": "\u003cb\u003eCheap Internet\u003c/b\u003e Resource. \u003cb\u003e...\u003c/b\u003e Freedomlist ISP Directory: Free and \u003cb\u003echeap internet\u003c/b\u003e \u003cbr\u003e  service providers; Freedomelist Free Internet List: Juno, Netzero, Sevenmidgets, \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "WUT0yp9V4X8J",
+   "formattedUrl": "www.techsoup.org/greentech/cetf/page10638.cfm",
+   "htmlFormattedUrl": "www.techsoup.org/greentech/cetf/page10638.cfm",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.techsoup.org/greentech/cetf/CETF-logo-lo-res.gif",
+      "type": "1",
+      "width": "127",
+      "height": "49"
+     }
+    ]
+   }
+  }
+ ]
+}

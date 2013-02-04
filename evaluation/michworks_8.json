@@ -1,0 +1,307 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "nextPage": [
+   {
+    "title": "Google Custom Search - michworks",
+    "totalResults": "1420",
+    "searchTerms": "michworks",
+    "count": 10,
+    "startIndex": 91,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "017401104989814545383:mf4lavmtuva"
+   }
+  ],
+  "request": [
+   {
+    "title": "Google Custom Search - michworks",
+    "totalResults": "1420",
+    "searchTerms": "michworks",
+    "count": 10,
+    "startIndex": 81,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "017401104989814545383:mf4lavmtuva"
+   }
+  ],
+  "previousPage": [
+   {
+    "title": "Google Custom Search - michworks",
+    "totalResults": "1420",
+    "searchTerms": "michworks",
+    "count": 10,
+    "startIndex": 71,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "017401104989814545383:mf4lavmtuva"
+   }
+  ]
+ },
+ "context": {
+  "title": "College MetaSearch Comparison"
+ },
+ "searchInformation": {
+  "searchTime": 0.121673,
+  "formattedSearchTime": "0.12",
+  "totalResults": "1420",
+  "formattedTotalResults": "1,420"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "Osceola County Workforce Service Center",
+   "htmlTitle": "Osceola County Workforce Service Center",
+   "link": "http://www.michworkswc.org/reed_city2.html",
+   "displayLink": "www.michworkswc.org",
+   "snippet": "Our Workforce Service Center in Reed City will help you find work in any County   within the State of Michigan in which you would like to work. All of our services ...",
+   "htmlSnippet": "Our Workforce Service Center in Reed City will help you find work in any County \u003cbr\u003e  within the State of Michigan in which you would like to work. All of our services \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "WhXKHO3lGWMJ",
+   "formattedUrl": "www.michworkswc.org/reed_city2.html",
+   "htmlFormattedUrl": "www.\u003cb\u003emichworks\u003c/b\u003ewc.org/reed_city2.html",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.michworkswc.org/newgrapics/reed_city.jpg",
+      "type": "1",
+      "width": "139",
+      "height": "72"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "stephen lindley | LinkedIn",
+   "htmlTitle": "stephen lindley | LinkedIn",
+   "link": "http://www.linkedin.com/pub/stephen-lindley/52/70/a05",
+   "displayLink": "www.linkedin.com",
+   "snippet": "student at michworks. Past. field service technician at Sears Home Services.   Education. Muskegon Community College; warren high school. Connections ...",
+   "htmlSnippet": "student at \u003cb\u003emichworks\u003c/b\u003e. Past. field service technician at Sears Home Services. \u003cbr\u003e  Education. Muskegon Community College; warren high school. Connections \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "ElaYsmTR7aIJ",
+   "formattedUrl": "www.linkedin.com/pub/stephen-lindley/52/70/a05",
+   "htmlFormattedUrl": "www.linkedin.com/pub/stephen-lindley/52/70/a05",
+   "pagemap": {
+    "person": [
+     {
+      "location": "Hart, Michigan",
+      "role": "Biotechnology Professional"
+     }
+    ],
+    "hcalendar": [
+     {
+      "dtstart": "2009-01-01",
+      "summary": "Muskegon Community College",
+      "dtend": "2012-12-31"
+     }
+    ],
+    "metatags": [
+     {
+      "pageimpressionid": "304486d7-c6d9-487b-b432-c6e735ce70c0",
+      "pagekey": "nprofile-public-success",
+      "analyticsurl": "/analytics/noauthtracker"
+     }
+    ],
+    "hcard": [
+     {
+      "fn": "stephen lindley",
+      "title": "Biotechnology Professional"
+     },
+     {
+      "fn": "Muskegon Community College"
+     },
+     {
+      "fn": "warren high school"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Brochure Jul_Dec12",
+   "htmlTitle": "Brochure Jul_Dec12",
+   "link": "http://www.michworkswc.org/pdf/ged.pdf",
+   "displayLink": "www.michworkswc.org",
+   "snippet": "LOCATION FOR REGISTRATION. YOU MUST REGISTER IN PERSON at:   Michigan Works! Workforce Service Center. 14330 Northland Drive. Big Rapids,   MI ...",
+   "htmlSnippet": "LOCATION FOR REGISTRATION. YOU MUST REGISTER IN PERSON at: \u003cbr\u003e  Michigan Works! Workforce Service Center. 14330 Northland Drive. Big Rapids, \u003cbr\u003e  MI \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "3rtnbGys1lIJ",
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat",
+   "formattedUrl": "www.michworkswc.org/pdf/ged.pdf",
+   "htmlFormattedUrl": "www.\u003cb\u003emichworks\u003c/b\u003ewc.org/pdf/ged.pdf",
+   "pagemap": {
+    "metatags": [
+     {
+      "producer": "GPL Ghostscript 9.04",
+      "creationdate": "D:20120703140151-04'00'",
+      "moddate": "D:20120703140151-04'00'",
+      "title": "Brochure Jul_Dec12",
+      "creator": "PDFCreator Version 1.2.3",
+      "author": "cshoemaker"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Daily Kos: Give the Michigan Works Job Search a Shot",
+   "htmlTitle": "Daily Kos: Give the Michigan Works Job Search a Shot",
+   "link": "http://www.dailykos.com/story/2012/02/06/1062329/-Give-the-Michigan-Works-Job-Search-a-Shot",
+   "displayLink": "www.dailykos.com",
+   "snippet": "Feb 6, 2012 ... https://www.michworks.org/mtb/pages/seeker/search/SearchCriteria.jsp. The   Michigan Works Talent Bank. If you're an engineer or technical ...",
+   "htmlSnippet": "Feb 6, 2012 \u003cb\u003e...\u003c/b\u003e https://www.\u003cb\u003emichworks\u003c/b\u003e.org/mtb/pages/seeker/search/SearchCriteria.jsp. The \u003cbr\u003e  Michigan Works Talent Bank. If you&#39;re an engineer or technical \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "2QowzrFbv7kJ",
+   "formattedUrl": "www.dailykos.com/.../-Give-the-Michigan-Works-Job-Search-a-Shot",
+   "htmlFormattedUrl": "www.dailykos.com/.../-Give-the-Michigan-Works-Job-Search-a-Shot",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://images.dailykos.com/i/default_avatar.gif"
+     }
+    ],
+    "metatags": [
+     {
+      "dc.creator": "Happy Cog Studios - http://www.happycog.com and Daily Kos",
+      "dc.language": "en",
+      "viewport": "width=978",
+      "og:title": "Daily Kos: Give the Michigan Works Job Search a Shot",
+      "og:image": "http://images.dailykos.com/i/default_avatar.gif",
+      "og:description": "Heya Folks...  There was a good post about skilled labor and IT folks having extreme difficulty finding work...a story all too familiar for many of us, eh?...so I thought I'd throw this link out ...",
+      "og:url": "http://www.dailykos.com/story/2012/02/06/1062329/-Give-the-Michigan-Works-Job-Search-a-Shot"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Michigan Works! West Central",
+   "htmlTitle": "Michigan Works! West Central",
+   "link": "http://www.michworkswc.org/new_workers.html",
+   "displayLink": "www.michworkswc.org",
+   "snippet": "serves five west-central Michigan counties — Lake, Mason, Mecosta, Newaygo   and Osceola, providing services to businesses and individuals. It is a partnership ...",
+   "htmlSnippet": "serves five west-central Michigan counties — Lake, Mason, Mecosta, Newaygo \u003cbr\u003e  and Osceola, providing services to businesses and individuals. It is a partnership \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "hYgsvMaW4fAJ",
+   "formattedUrl": "www.michworkswc.org/new_workers.html",
+   "htmlFormattedUrl": "www.\u003cb\u003emichworks\u003c/b\u003ewc.org/new_workers.html",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.michworkswc.org/newgrapics/s_center2.jpg",
+      "type": "1",
+      "width": "139",
+      "height": "139"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Employers",
+   "htmlTitle": "Employers",
+   "link": "http://www.dccwf.org/employers.php",
+   "displayLink": "www.dccwf.org",
+   "snippet": "www.michworks.org. This is the State of Michigan's Internet-based labor   exchange system, which links employers and job seekers, saving you time and   money.",
+   "htmlSnippet": "www.\u003cb\u003emichworks\u003c/b\u003e.org. This is the State of Michigan&#39;s Internet-based labor \u003cbr\u003e  exchange system, which links employers and job seekers, saving you time and \u003cbr\u003e  money.",
+   "cacheId": "l-tw62CWmRUJ",
+   "formattedUrl": "www.dccwf.org/employers.php",
+   "htmlFormattedUrl": "www.dccwf.org/employers.php"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Youth Adult 5 yr plan 20 mod pending",
+   "htmlTitle": "Youth Adult 5 yr plan 20 mod pending",
+   "link": "http://www.michworkswc.org/pdf/youthadultplan.pdf",
+   "displayLink": "www.michworkswc.org",
+   "snippet": "MICHIGAN WORKS! WEST CENTRAL. WORKFORCE INVESTMENTACT.   YOUTH and ADULT ACTIVITIES. July 1, 2000 through June 30, 2012 ...",
+   "htmlSnippet": "MICHIGAN WORKS! WEST CENTRAL. WORKFORCE INVESTMENTACT. \u003cbr\u003e  YOUTH and ADULT ACTIVITIES. July 1, 2000 through June 30, 2012 \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "sN6jKT1hIpwJ",
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat",
+   "formattedUrl": "www.michworkswc.org/pdf/youthadultplan.pdf",
+   "htmlFormattedUrl": "www.\u003cb\u003emichworks\u003c/b\u003ewc.org/pdf/youthadultplan.pdf",
+   "pagemap": {
+    "metatags": [
+     {
+      "producer": "GPL Ghostscript 9.04",
+      "creationdate": "D:20120119160358-05'00'",
+      "moddate": "D:20120119160358-05'00'",
+      "title": "Youth Adult 5 yr plan 20 mod pending",
+      "creator": "PDFCreator Version 1.2.3",
+      "author": "CShoemaker"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "How and Where to Search for Jobs on the Web - Yahoo! Voices ...",
+   "htmlTitle": "How and Where to Search for Jobs on the Web - Yahoo! Voices \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://voices.yahoo.com/how-where-search-jobs-web-5949562.html",
+   "displayLink": "voices.yahoo.com",
+   "snippet": "May 6, 2010 ... Michworks is a great place to find a job because these jobs are always ...   Michworks allows the user to create a profile as well as upload their ...",
+   "htmlSnippet": "May 6, 2010 \u003cb\u003e...\u003c/b\u003e \u003cb\u003eMichworks\u003c/b\u003e is a great place to find a job because these jobs are always \u003cb\u003e...\u003c/b\u003e \u003cbr\u003e  \u003cb\u003eMichworks\u003c/b\u003e allows the user to create a profile as well as upload their \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "c_ppHIGP6FIJ",
+   "formattedUrl": "voices.yahoo.com/how-where-search-jobs-web-5949562.html",
+   "htmlFormattedUrl": "voices.yahoo.com/how-where-search-jobs-web-5949562.html",
+   "pagemap": {
+    "metatags": [
+     {
+      "og:title": "How and Where to Search for Jobs on the Web",
+      "og:type": "article",
+      "og:url": "http://voices.yahoo.com/how-where-search-jobs-web-5949562.html",
+      "og:site_name": "Yahoo! Contributor Network",
+      "og:description": "Describes the places and websites where one should go about searching to find a job online.",
+      "fb:page_id": "6028423778"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Mecosta County Workforce Service Center",
+   "htmlTitle": "Mecosta County Workforce Service Center",
+   "link": "http://www.michworkswc.org/b_rapids2.html",
+   "displayLink": "www.michworkswc.org",
+   "snippet": "Our Workforce Service Center in Big Rapids will help you find work in any County   within the State of Michigan in which you would like to work. All of our services ...",
+   "htmlSnippet": "Our Workforce Service Center in Big Rapids will help you find work in any County \u003cbr\u003e  within the State of Michigan in which you would like to work. All of our services \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "N1S6-ifGLoEJ",
+   "formattedUrl": "www.michworkswc.org/b_rapids2.html",
+   "htmlFormattedUrl": "www.\u003cb\u003emichworks\u003c/b\u003ewc.org/b_rapids2.html"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Internet Job Search Sites",
+   "htmlTitle": "Internet Job Search Sites",
+   "link": "http://www.dccwf.org/almanac/Job%20search%20sites.pdf",
+   "displayLink": "www.dccwf.org",
+   "snippet": "www.michworks.org/mtb. Michigan Career Portal www.michigan.gov/careers.   Michigan Training Programs www.mycareereducation.org. O*NET Occupational ...",
+   "htmlSnippet": "www.\u003cb\u003emichworks\u003c/b\u003e.org/mtb. Michigan Career Portal www.michigan.gov/careers. \u003cbr\u003e  Michigan Training Programs www.mycareereducation.org. O*NET Occupational \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "U5cgyO0QLL4J",
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat",
+   "formattedUrl": "www.dccwf.org/almanac/Job%20search%20sites.pdf",
+   "htmlFormattedUrl": "www.dccwf.org/almanac/Job%20search%20sites.pdf",
+   "pagemap": {
+    "metatags": [
+     {
+      "creationdate": "D:20080821141823-04'00'",
+      "author": "PC USER",
+      "creator": "Acrobat PDFMaker 8.1 for Word",
+      "producer": "Acrobat Distiller 8.1.0 (Windows)",
+      "moddate": "D:20080821145322-04'00'",
+      "company": "Unisys",
+      "sourcemodified": "D:20080728183930",
+      "title": "Internet Job Search Sites"
+     }
+    ]
+   }
+  }
+ ]
+}

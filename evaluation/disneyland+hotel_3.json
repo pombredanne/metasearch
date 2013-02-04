@@ -1,0 +1,391 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "nextPage": [
+   {
+    "title": "Google Custom Search - disneyland hotel",
+    "totalResults": "6620000",
+    "searchTerms": "disneyland hotel",
+    "count": 10,
+    "startIndex": 41,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "017401104989814545383:mf4lavmtuva"
+   }
+  ],
+  "request": [
+   {
+    "title": "Google Custom Search - disneyland hotel",
+    "totalResults": "6620000",
+    "searchTerms": "disneyland hotel",
+    "count": 10,
+    "startIndex": 31,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "017401104989814545383:mf4lavmtuva"
+   }
+  ],
+  "previousPage": [
+   {
+    "title": "Google Custom Search - disneyland hotel",
+    "totalResults": "6620000",
+    "searchTerms": "disneyland hotel",
+    "count": 10,
+    "startIndex": 21,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "017401104989814545383:mf4lavmtuva"
+   }
+  ]
+ },
+ "context": {
+  "title": "College MetaSearch Comparison"
+ },
+ "searchInformation": {
+  "searchTime": 0.178747,
+  "formattedSearchTime": "0.18",
+  "totalResults": "6620000",
+  "formattedTotalResults": "6,620,000"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "Disneyland Hotel Dining & Restaurants | Disneyland Resort",
+   "htmlTitle": "\u003cb\u003eDisneyland Hotel\u003c/b\u003e Dining &amp; Restaurants | Disneyland Resort",
+   "link": "http://disneyland.disney.go.com/disneyland-hotel/dining/",
+   "displayLink": "disneyland.disney.go.com",
+   "snippet": "Sample the dining options available at the Disneyland Hotel in California.",
+   "htmlSnippet": "Sample the dining options available at the \u003cb\u003eDisneyland Hotel\u003c/b\u003e in California.",
+   "cacheId": "nZrZmgLGTBcJ",
+   "formattedUrl": "disneyland.disney.go.com/disneyland-hotel/dining/",
+   "htmlFormattedUrl": "\u003cb\u003edisneyland\u003c/b\u003e.disney.go.com/\u003cb\u003edisneyland\u003c/b\u003e-\u003cb\u003ehotel\u003c/b\u003e/dining/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://dlr2.wdpromedia.com/media/dlr_nextgen/MediaPlayer/hotels/dlh/dining/disneyland-hotel-dining-968x450-01.jpg",
+      "type": "1",
+      "width": "330",
+      "height": "153"
+     }
+    ],
+    "metatags": [
+     {
+      "viewport": "width=device-width, user-scalable=yes",
+      "apple-mobile-web-app-capable": "yes",
+      "apple-mobile-web-app-status-bar-style": "black-translucent"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Disneyland Hotel - Anaheim, CA, 92802 - Citysearch",
+   "htmlTitle": "\u003cb\u003eDisneyland Hotel\u003c/b\u003e - Anaheim, CA, 92802 - Citysearch",
+   "link": "http://orangecounty.citysearch.com/profile/11437221/anaheim_ca/disneyland_hotel.html",
+   "displayLink": "orangecounty.citysearch.com",
+   "snippet": "Disneyland Hotel in Anaheim, CA. Come to Citysearch® to get information,   directions, and reviews on Disneyland Hotel and other Hotels & Motels in   Anaheim, ...",
+   "htmlSnippet": "\u003cb\u003eDisneyland Hotel\u003c/b\u003e in Anaheim, CA. Come to Citysearch® to get information, \u003cbr\u003e  directions, and reviews on \u003cb\u003eDisneyland Hotel\u003c/b\u003e and other Hotels &amp; Motels in \u003cbr\u003e  Anaheim, \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "CDjPNgERRNYJ",
+   "formattedUrl": "orangecounty.citysearch.com/profile/...ca/disneyland_hotel.html",
+   "htmlFormattedUrl": "orangecounty.citysearch.com/profile/...ca/\u003cb\u003edisneyland\u003c/b\u003e_\u003cb\u003ehotel\u003c/b\u003e.html",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://images.citysearch.net/assets/imgdb/profile/a8/cd/11437221p1.jpg",
+      "type": "1",
+      "width": "136",
+      "height": "88"
+     }
+    ],
+    "metatags": [
+     {
+      "fb:app_id": "28251678835",
+      "og:type": "company",
+      "og:site_name": "Citysearch",
+      "og:longitude": "-117.926",
+      "og:latitude": "33.812",
+      "og:title": "Disneyland Hotel Anaheim",
+      "og:region": "CA",
+      "og:locality": "Anaheim",
+      "og:postal-code": "92802",
+      "og:street-address": "1150 W Magic Way",
+      "og:image": "http://images.citysearch.net/assets/imgdb/profile/a8/cd/11437221p1.jpg",
+      "og:url": "http://www.citysearch.com/profile/11437221/anaheim_ca/disneyland_hotel.html"
+     }
+    ],
+    "hreviewaggregate": [
+     {
+      "count": "15",
+      "votes": "8"
+     }
+    ],
+    "review": [
+     {
+      "ratingstars": "2.5",
+      "ratingcount": "15"
+     }
+    ],
+    "breadcrumb": [
+     {
+      "url": "Orange County, CA Metro",
+      "title": "Orange County, CA Metro"
+     },
+     {
+      "url": "Anaheim",
+      "title": "Anaheim"
+     },
+     {
+      "url": "Hotels",
+      "title": "Hotels"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Services & Amenities | Disneyland Hotel | Disneyland Resort",
+   "htmlTitle": "Services &amp; Amenities | \u003cb\u003eDisneyland Hotel\u003c/b\u003e | Disneyland Resort",
+   "link": "http://disneyland.disney.go.com/disneyland-hotel/hotel-services/",
+   "displayLink": "disneyland.disney.go.com",
+   "snippet": "Learn about the Hotel services offered to Guests of the Disneyland Hotel in   California.",
+   "htmlSnippet": "Learn about the Hotel services offered to Guests of the \u003cb\u003eDisneyland Hotel\u003c/b\u003e in \u003cbr\u003e  California.",
+   "cacheId": "wx4nf9Uha1sJ",
+   "formattedUrl": "disneyland.disney.go.com/disneyland-hotel/hotel-services/",
+   "htmlFormattedUrl": "\u003cb\u003edisneyland\u003c/b\u003e.disney.go.com/\u003cb\u003edisneyland\u003c/b\u003e-\u003cb\u003ehotel\u003c/b\u003e/\u003cb\u003ehotel\u003c/b\u003e-services/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://dlr1.wdpromedia.com/media/dlr_nextgen/MediaPlayer/hotels/dlh/services/disneyland-hotel-guest-services-968x450-01.jpg",
+      "type": "1",
+      "width": "330",
+      "height": "153"
+     }
+    ],
+    "metatags": [
+     {
+      "viewport": "width=device-width, user-scalable=yes",
+      "apple-mobile-web-app-capable": "yes",
+      "apple-mobile-web-app-status-bar-style": "black-translucent"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Hong Kong Disneyland Hotel: Hotel Reviews, Deals, and Photos ...",
+   "htmlTitle": "Hong Kong \u003cb\u003eDisneyland Hotel\u003c/b\u003e: Hotel Reviews, Deals, and Photos \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://www.tripadvisor.com/Hotel_Review-g294217-d583732-Reviews-Hong_Kong_Disneyland_Hotel-Hong_Kong.html",
+   "displayLink": "www.tripadvisor.com",
+   "snippet": "Hong Kong Disneyland Hotel, Hong Kong: See 684 traveler reviews, 610 candid   photos, and great deals for Hong Kong Disneyland Hotel, ranked #22 of 371 ...",
+   "htmlSnippet": "Hong Kong \u003cb\u003eDisneyland Hotel\u003c/b\u003e, Hong Kong: See 684 traveler reviews, 610 candid \u003cbr\u003e  photos, and great deals for Hong Kong \u003cb\u003eDisneyland Hotel\u003c/b\u003e, ranked #22 of 371 \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "0VG4oeVwrY4J",
+   "formattedUrl": "www.tripadvisor.com/Hotel_Review-g294217-d583732-Reviews-Hong_ Kong_Disneyland_Hotel-Hong_Kong.html",
+   "htmlFormattedUrl": "www.tripadvisor.com/\u003cb\u003eHotel\u003c/b\u003e_Review-g294217-d583732-Reviews-Hong_ Kong_\u003cb\u003eDisneyland\u003c/b\u003e_\u003cb\u003eHotel\u003c/b\u003e-Hong_Kong.html",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://c1.tacdn.com/img2/postimg.jpg"
+     }
+    ],
+    "metatags": [
+     {
+      "og:image": "http://c1.tacdn.com/img2/postimg.jpg"
+     }
+    ],
+    "review": [
+     {
+      "ratingstars": "4.5",
+      "ratingcount": "684",
+      "pricerange": "$$$"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "What's New | Disneyland Hotel | Disneyland Resort",
+   "htmlTitle": "What&#39;s New | \u003cb\u003eDisneyland Hotel\u003c/b\u003e | Disneyland Resort",
+   "link": "http://disneyland.disney.go.com/disneyland-hotel/whatsnew/",
+   "displayLink": "disneyland.disney.go.com",
+   "snippet": "Sample What's New and available at the Disneyland Hotel in California.",
+   "htmlSnippet": "Sample What&#39;s New and available at the \u003cb\u003eDisneyland Hotel\u003c/b\u003e in California.",
+   "cacheId": "kP8CIycM-HMJ",
+   "formattedUrl": "disneyland.disney.go.com/disneyland-hotel/whatsnew/",
+   "htmlFormattedUrl": "\u003cb\u003edisneyland\u003c/b\u003e.disney.go.com/\u003cb\u003edisneyland\u003c/b\u003e-\u003cb\u003ehotel\u003c/b\u003e/whatsnew/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://dlr2.wdpromedia.com/media/dlr_nextgen/MediaPlayer/hotels/dlh/whats-new/disneyland-hotel-whats-new-968x450-01.jpg",
+      "type": "1",
+      "width": "330",
+      "height": "153"
+     }
+    ],
+    "metatags": [
+     {
+      "viewport": "width=device-width, user-scalable=yes",
+      "apple-mobile-web-app-capable": "yes",
+      "apple-mobile-web-app-status-bar-style": "black-translucent"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Maps | Disneyland Resort",
+   "htmlTitle": "Maps | \u003cb\u003eDisneyland\u003c/b\u003e Resort",
+   "link": "http://disneyland.disney.go.com/maps/",
+   "displayLink": "disneyland.disney.go.com",
+   "snippet": "Browse an interactive map of parks, hotels, attractions, entertainment, shops,   guest services and more at the Disneyland Resort in California.",
+   "htmlSnippet": "Browse an interactive map of parks, \u003cb\u003ehotels\u003c/b\u003e, attractions, entertainment, shops, \u003cbr\u003e  guest services and more at the \u003cb\u003eDisneyland\u003c/b\u003e Resort in California.",
+   "cacheId": "jHNkNi0kDoAJ",
+   "formattedUrl": "disneyland.disney.go.com/maps/",
+   "htmlFormattedUrl": "\u003cb\u003edisneyland\u003c/b\u003e.disney.go.com/maps/",
+   "pagemap": {
+    "metatags": [
+     {
+      "viewport": "width=device-width, user-scalable=yes",
+      "apple-mobile-web-app-capable": "yes",
+      "apple-mobile-web-app-status-bar-style": "black-translucent"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Hotel Guest Benefits | Disneyland Resort",
+   "htmlTitle": "\u003cb\u003eHotel\u003c/b\u003e Guest Benefits | \u003cb\u003eDisneyland\u003c/b\u003e Resort",
+   "link": "http://disneyland.disney.go.com/hotels/resort-benefits/",
+   "displayLink": "disneyland.disney.go.com",
+   "snippet": "Stay at a Disneyland Resort Hotel for one-of-a-kind Disney quality service and   magical experiences, like early admission to the Parks - so you can have more ...",
+   "htmlSnippet": "Stay at a \u003cb\u003eDisneyland\u003c/b\u003e Resort \u003cb\u003eHotel\u003c/b\u003e for one-of-a-kind Disney quality service and \u003cbr\u003e  magical experiences, like early admission to the Parks - so you can have more \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "eLKgkw_-w8cJ",
+   "formattedUrl": "disneyland.disney.go.com/hotels/resort-benefits/",
+   "htmlFormattedUrl": "\u003cb\u003edisneyland\u003c/b\u003e.disney.go.com/\u003cb\u003ehotels\u003c/b\u003e/resort-benefits/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://dlr2.wdpromedia.com/media/dlr_nextgen/MediaPlayer/hotels/resort-benefits/disneyland-resort-hotels-benefits-968x450-01.jpg",
+      "type": "1",
+      "width": "330",
+      "height": "153"
+     }
+    ],
+    "metatags": [
+     {
+      "viewport": "width=device-width, user-scalable=yes",
+      "apple-mobile-web-app-capable": "yes",
+      "apple-mobile-web-app-status-bar-style": "black-translucent"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Disneyland Hotel | Disneyland Hotels | Hotels in Anaheim near ...",
+   "htmlTitle": "\u003cb\u003eDisneyland Hotel\u003c/b\u003e | \u003cb\u003eDisneyland Hotels\u003c/b\u003e | Hotels in Anaheim near \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://www.marriott.com/hotels/travel/snaah-residence-inn-anaheim-maingate/",
+   "displayLink": "www.marriott.com",
+   "snippet": "Experience the premier Disneyland hotel in Anaheim. Featuring spacious suites   with full kitchens & high-speed Internet, our Disneyland hotel's accommodations ...",
+   "htmlSnippet": "Experience the premier \u003cb\u003eDisneyland hotel\u003c/b\u003e in Anaheim. Featuring spacious suites \u003cbr\u003e  with full kitchens &amp; high-speed Internet, our \u003cb\u003eDisneyland hotel&#39;s\u003c/b\u003e accommodations \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "feyqkXplxKAJ",
+   "formattedUrl": "www.marriott.com/hotels/.../snaah-residence-inn-anaheim-maingate/",
+   "htmlFormattedUrl": "www.marriott.com/\u003cb\u003ehotels\u003c/b\u003e/.../snaah-residence-inn-anaheim-maingate/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://cache.marriott.com/propertyimages/s/snaah/snaah_home01.jpg",
+      "type": "1",
+      "width": "196",
+      "height": "257"
+     }
+    ],
+    "postaladdress": [
+     {
+      "streetaddress": "1700 South Clementine Street",
+      "addresslocality": "Anaheim",
+      "addressregion": "California",
+      "postalcode": "92802",
+      "addresscountry": "USA"
+     }
+    ],
+    "hotel": [
+     {
+      "branchof": "Residence Inn by Marriott",
+      "name": "Residence Inn Anaheim Maingate",
+      "maps": "MAPS & TRANSPORTATION",
+      "telephone": "1-714-533-3555",
+      "faxnumber": "1-714-535-7626",
+      "photos": "PHOTO GALLERY",
+      "description": "The Residence Inn Anaheim Maingate hotel, nestled in a resort- & garden-like setting, offers luxurious hotel suites near Disneyland Resort (0.5 miles) and the Anaheim Convention Center (0.7...",
+      "url": "Residence Inn® by Marriott® Anaheim Maingate"
+     }
+    ],
+    "metatags": [
+     {
+      "geo.position": "33.806834;-117.909952",
+      "og:title": "Residence Inn Anaheim Maingate",
+      "og:site_name": "www.marriott.com",
+      "og:image": "/propertyimages/s/snaah/snaahe01.jpg"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Trader Sam's - Enchanted Tiki Bar | Dining & Restaurants ...",
+   "htmlTitle": "Trader Sam&#39;s - Enchanted Tiki Bar | Dining &amp; Restaurants \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://disneyland.disney.go.com/disneyland-hotel/trader-sams/",
+   "displayLink": "disneyland.disney.go.com",
+   "snippet": "Trader Sam's – Enchanted Tiki Bar. Escape to this unique, interactive lounge   experience with a bit of Disney magic, adjacent to Tangaroa Terrace – Casual ...",
+   "htmlSnippet": "Trader Sam&#39;s – Enchanted Tiki Bar. Escape to this unique, interactive lounge \u003cbr\u003e  experience with a bit of Disney magic, adjacent to Tangaroa Terrace – Casual \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "EQFfhcq5yxUJ",
+   "formattedUrl": "disneyland.disney.go.com/disneyland-hotel/trader-sams/",
+   "htmlFormattedUrl": "\u003cb\u003edisneyland\u003c/b\u003e.disney.go.com/\u003cb\u003edisneyland\u003c/b\u003e-\u003cb\u003ehotel\u003c/b\u003e/trader-sams/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://dlr1.wdpromedia.com/media/dlr_nextgen/MediaPlayer/hotels/dlh/dining/disneyland-hotel-trader-sams-enchanted-tiki-bar-968x450-01.jpg",
+      "type": "1",
+      "width": "330",
+      "height": "153"
+     }
+    ],
+    "metatags": [
+     {
+      "viewport": "width=device-width, user-scalable=yes",
+      "apple-mobile-web-app-capable": "yes",
+      "apple-mobile-web-app-status-bar-style": "black-translucent"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Hotels Near Disneyland, Hotel close to Disneyland California ...",
+   "htmlTitle": "Hotels Near \u003cb\u003eDisneyland\u003c/b\u003e, \u003cb\u003eHotel\u003c/b\u003e close to Disneyland California \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://www.hotelplanner.com/Hotels/4634-NEAR-Disneyland",
+   "displayLink": "www.hotelplanner.com",
+   "snippet": "Hotels near or close to Disneyland in Anaheim CA California. Find deals,   discounts, maps, websites, reviews, and phone numbers for cheap hotels +   motels ...",
+   "htmlSnippet": "\u003cb\u003eHotels\u003c/b\u003e near or close to \u003cb\u003eDisneyland\u003c/b\u003e in Anaheim CA California. Find deals, \u003cbr\u003e  discounts, maps, websites, reviews, and phone numbers for cheap \u003cb\u003ehotels\u003c/b\u003e + \u003cbr\u003e  motels \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "SpodVmQa7hkJ",
+   "formattedUrl": "www.hotelplanner.com/Hotels/4634-NEAR-Disneyland",
+   "htmlFormattedUrl": "www.\u003cb\u003ehotel\u003c/b\u003eplanner.com/\u003cb\u003eHotels\u003c/b\u003e/4634-NEAR-\u003cb\u003eDisneyland\u003c/b\u003e",
+   "pagemap": {
+    "metatags": [
+     {
+      "language": "english",
+      "expires": "never"
+     }
+    ]
+   }
+  }
+ ]
+}

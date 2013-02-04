@@ -1,0 +1,376 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "nextPage": [
+   {
+    "title": "Google Custom Search - the music man",
+    "totalResults": "411000000",
+    "searchTerms": "the music man",
+    "count": 10,
+    "startIndex": 91,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "017401104989814545383:mf4lavmtuva"
+   }
+  ],
+  "request": [
+   {
+    "title": "Google Custom Search - the music man",
+    "totalResults": "411000000",
+    "searchTerms": "the music man",
+    "count": 10,
+    "startIndex": 81,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "017401104989814545383:mf4lavmtuva"
+   }
+  ],
+  "previousPage": [
+   {
+    "title": "Google Custom Search - the music man",
+    "totalResults": "411000000",
+    "searchTerms": "the music man",
+    "count": 10,
+    "startIndex": 71,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "017401104989814545383:mf4lavmtuva"
+   }
+  ]
+ },
+ "context": {
+  "title": "College MetaSearch Comparison"
+ },
+ "searchInformation": {
+  "searchTime": 0.193307,
+  "formattedSearchTime": "0.19",
+  "totalResults": "411000000",
+  "formattedTotalResults": "411,000,000"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "Theater Review: “The Music Man” at Arena Stage | Theater Review ...",
+   "htmlTitle": "Theater Review: “\u003cb\u003eThe Music Man\u003c/b\u003e” at Arena Stage | Theater Review \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://www.washingtonian.com/blogs/afterhours/theater-review/theater-review-the-music-man-at-arena-stage.php",
+   "displayLink": "www.washingtonian.com",
+   "snippet": "May 25, 2012 ... Of all the lovable con men in the American canon, Harold Hill might be the most   ingenious. With breathtaking ease, he lulls a prickly Iowa town ...",
+   "htmlSnippet": "May 25, 2012 \u003cb\u003e...\u003c/b\u003e Of all the lovable con \u003cb\u003emen\u003c/b\u003e in the American canon, Harold Hill might be the most \u003cbr\u003e  ingenious. With breathtaking ease, he lulls a prickly Iowa town \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "TtQm2t9maZwJ",
+   "formattedUrl": "www.washingtonian.com/.../theater-review-the-music-man-at-arena-stage.php",
+   "htmlFormattedUrl": "www.washingtonian.com/.../theater-review-the-\u003cb\u003emusic\u003c/b\u003e-\u003cb\u003eman\u003c/b\u003e-at-arena-stage.php",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.washingtonian.com/blogs/afterhours/assets_c/2012/05/2012-05-25.musicman-thumb-620xauto-40706.jpg",
+      "type": "1",
+      "width": "283",
+      "height": "178"
+     }
+    ],
+    "metatags": [
+     {
+      "og:title": "Theater Review: “The Music Man” at Arena Stage",
+      "og:url": "http://www.washingtonian.com/blogs/afterhours/theater-review/theater-review-the-music-man-at-arena-stage.php",
+      "og:site_name": "Washingtonian",
+      "og:type": "article",
+      "article:published_time": "2012-05-25",
+      "og:description": "Of all the lovable con men in the American canon, Harold Hill might be the most ingenious. With breathtaking ease, he lulls a prickly Iowa town into willing submission, entices the local children into carrying out his bidding like...",
+      "fb:admins": "100002475007199"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "The Music Man (1962) - Overview - TCM.com",
+   "htmlTitle": "\u003cb\u003eThe Music Man\u003c/b\u003e (1962) - Overview - TCM.com",
+   "link": "http://www.tcm.com/tcmdb/title/16105/The-Music-Man/",
+   "displayLink": "www.tcm.com",
+   "snippet": "Overview of The Music Man, 1962, directed by Morton DaCosta, with Robert   Preston, Shirley Jones, Buddy Hackett, at Turner Classic Movies.",
+   "htmlSnippet": "Overview of \u003cb\u003eThe Music Man\u003c/b\u003e, 1962, directed by Morton DaCosta, with Robert \u003cbr\u003e  Preston, Shirley Jones, Buddy Hackett, at Turner Classic Movies.",
+   "cacheId": "k4PeE_wrEmMJ",
+   "formattedUrl": "www.tcm.com/tcmdb/title/16105/The-Music-Man/",
+   "htmlFormattedUrl": "www.tcm.com/tcmdb/title/16105/The-\u003cb\u003eMusic\u003c/b\u003e-\u003cb\u003eMan\u003c/b\u003e/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://i.cdn.turner.com/v5cache/TCM/Images/Dynamic/i7/musicman_FF_300x225_021220031613.gif",
+      "type": "1",
+      "width": "240",
+      "height": "180"
+     }
+    ],
+    "metatags": [
+     {
+      "copyright": "Copyright 2012 - tcm.com",
+      "classification": "entertainment, movies, television, shopping",
+      "fb:app_id": "114445117946",
+      "fb:admins": "100001482580831",
+      "og:title": "The Music Man (1962) - Overview - TCM.com",
+      "og:site_name": "Turner Classic Movies",
+      "og:description": "Overview of The Music Man, 1962, directed by Morton DaCosta, with Robert Preston, Shirley Jones, Buddy Hackett, at Turner Classic Movies",
+      "og:image": "http://i.cdn.turner.com/v5cache/TCM/Images/Dynamic/i7/musicman_FF_300x225_021220031613.gif",
+      "og:url": "http://www.tcm.com/tcmdb/title/16105/The-Music-Man/"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "The Music Man - Ash Lawn Opera",
+   "htmlTitle": "\u003cb\u003eThe Music Man\u003c/b\u003e - Ash Lawn Opera",
+   "link": "http://ashlawnopera.com/2012-season-1/the-music-man-1/",
+   "displayLink": "ashlawnopera.com",
+   "snippet": "Meredith Willson's five-time Tony Award winning The Music Man gave birth to   one of the most iconic American characters of all times, the lovable rake, Harold ...",
+   "htmlSnippet": "Meredith Willson&#39;s five-time Tony Award winning \u003cb\u003eThe Music Man\u003c/b\u003e gave birth to \u003cbr\u003e  one of the most iconic American characters of all times, the lovable rake, Harold \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "9ILmh367KswJ",
+   "formattedUrl": "ashlawnopera.com/2012-season-1/the-music-man-1/",
+   "htmlFormattedUrl": "ashlawnopera.com/2012-season-1/the-\u003cb\u003emusic\u003c/b\u003e-\u003cb\u003eman\u003c/b\u003e-1/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://ashlawnopera.com/s/cc_images/cache_3230406004.jpg?t=1329508894",
+      "type": "1",
+      "width": "240",
+      "height": "168"
+     }
+    ],
+    "metatags": [
+     {
+      "og:title": "The Music Man - Ash Lawn Opera",
+      "og:site_name": "Ash Lawn Opera",
+      "og:image": "http://ashlawnopera.com/s/misc/favicon.png?1340803818",
+      "language": "en"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Music Man Square Reunion Hall",
+   "htmlTitle": "\u003cb\u003eMusic Man\u003c/b\u003e Square Reunion Hall",
+   "link": "http://www.themusicmansquare.org/musicman.htm",
+   "displayLink": "www.themusicmansquare.org",
+   "snippet": "After composing hundreds of songs, Willson turned to writing a musical comedy   about his state and hometown. Taking over five years to write, The Music Man ...",
+   "htmlSnippet": "After composing hundreds of songs, Willson turned to writing a musical comedy \u003cbr\u003e  about his state and hometown. Taking over five years to write, \u003cb\u003eThe Music Man\u003c/b\u003e \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "Nd_alRWpMaUJ",
+   "formattedUrl": "www.themusicmansquare.org/musicman.htm",
+   "htmlFormattedUrl": "www.\u003cb\u003ethemusicmans\u003c/b\u003equare.org/\u003cb\u003emusicman\u003c/b\u003e.htm",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.themusicmansquare.org/images/piano.jpg",
+      "type": "1",
+      "width": "160",
+      "height": "195"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "- The Sadder-But-Wiser Girl For Me Lyrics from The Music Man",
+   "htmlTitle": "- The Sadder-But-Wiser Girl For Me Lyrics from \u003cb\u003eThe Music Man\u003c/b\u003e",
+   "link": "http://www.stlyrics.com/lyrics/themusicman/thesadder-but-wisergirlforme.htm",
+   "displayLink": "www.stlyrics.com",
+   "snippet": "ACCURATE LYRICS: The Sadder-But-Wiser Girl For Me by , from soundtrack .   Album: song lyrics, music videos and MP3.",
+   "htmlSnippet": "ACCURATE LYRICS: The Sadder-But-Wiser Girl For Me by , from soundtrack . \u003cbr\u003e  Album: \u003cb\u003esong\u003c/b\u003e lyrics, \u003cb\u003emusic\u003c/b\u003e videos and MP3.",
+   "cacheId": "RhmgyK4q2HsJ",
+   "formattedUrl": "www.stlyrics.com/.../themusicman/thesadder-but-wisergirlforme.htm",
+   "htmlFormattedUrl": "www.stlyrics.com/.../\u003cb\u003ethemusicman\u003c/b\u003e/thesadder-but-wisergirlforme.htm",
+   "pagemap": {
+    "metatags": [
+     {
+      "name": "Lyrics The Sadder-But-Wiser Girl For Me Lyrics, Ringtone, Video"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "The Music Man",
+   "htmlTitle": "\u003cb\u003eThe Music Man\u003c/b\u003e",
+   "link": "http://www.angelfire.com/musicals/showtunes0/themusicman.html",
+   "displayLink": "www.angelfire.com",
+   "snippet": "He's a music man. He's a what? He's a what?? He's a music man and he sells   clarinets to the kids in the town with the big trombones and the rat-a-tat drums,   and ...",
+   "htmlSnippet": "He&#39;s a \u003cb\u003emusic man\u003c/b\u003e. He&#39;s a what? He&#39;s a what?? He&#39;s a \u003cb\u003emusic man\u003c/b\u003e and he sells \u003cbr\u003e  clarinets to the kids in the town with the big trombones and the rat-a-tat drums, \u003cbr\u003e  and \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "k2ri25thKU0J",
+   "formattedUrl": "www.angelfire.com/musicals/showtunes0/themusicman.html",
+   "htmlFormattedUrl": "www.angelfire.com/\u003cb\u003emusical\u003c/b\u003es/showtunes0/\u003cb\u003ethemusicman\u003c/b\u003e.html"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Atlanta DJ-DJ\"E The Music Man Wedding DJ Disc Jockeys,Georgia ...",
+   "htmlTitle": "Atlanta DJ-DJ&quot;E \u003cb\u003eThe Music Man\u003c/b\u003e Wedding DJ Disc Jockeys,Georgia \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://www.djethemusicmaster.com/",
+   "displayLink": "www.djethemusicmaster.com",
+   "snippet": "DJ E Atlanta Wedding DJ has relocated to Metro Atlanta area and has captured   the likes of many fans here in Atlanta. DJ E is a true master of music and has ...",
+   "htmlSnippet": "DJ E Atlanta Wedding DJ has relocated to Metro Atlanta area and has captured \u003cbr\u003e  the likes of many fans here in Atlanta. DJ E is a true master of \u003cb\u003emusic\u003c/b\u003e and has \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "SOTImKRrrngJ",
+   "formattedUrl": "www.djethemusicmaster.com/",
+   "htmlFormattedUrl": "www.dje\u003cb\u003ethemusic\u003c/b\u003emaster.com/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.djethemusicmaster.com/CITY%20OF%20ATLANTA.jpg",
+      "type": "1",
+      "width": "276",
+      "height": "183"
+     }
+    ],
+    "metatags": [
+     {
+      "og:site_name": "Atlanta DJ-DJ\"E The Music Man  Wedding DJ Disc Jockeys,Georgia,Disc Jockey",
+      "og:title": "Home Page",
+      "fw:category": "0"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "The Music Man - Local Business - Brighton, MI | Facebook",
+   "htmlTitle": "\u003cb\u003eThe Music Man\u003c/b\u003e - Local Business - Brighton, MI | Facebook",
+   "link": "http://www.facebook.com/pages/The-Music-Man/179106630770",
+   "displayLink": "www.facebook.com",
+   "snippet": "Joined Facebook · December · November. The Music Man is on Facebook. To   connect with The Music Man, sign up for Facebook today. Sign UpLog In ...",
+   "htmlSnippet": "Joined Facebook &middot; December &middot; November. \u003cb\u003eThe Music Man\u003c/b\u003e is on Facebook. To \u003cbr\u003e  connect with \u003cb\u003eThe Music Man\u003c/b\u003e, sign up for Facebook today. Sign UpLog In \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "RxqjI5xpTT0J",
+   "formattedUrl": "www.facebook.com/pages/The-Music-Man/179106630770",
+   "htmlFormattedUrl": "www.facebook.com/pages/The-\u003cb\u003eMusic\u003c/b\u003e-\u003cb\u003eMan\u003c/b\u003e/179106630770",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://sphotos.xx.fbcdn.net/hphotos-ash4/c0.70.960.356/s851x315/392507_10150812993620771_557358971_n.jpg",
+      "type": "1",
+      "width": "369",
+      "height": "136"
+     }
+    ],
+    "organization": [
+     {
+      "photo": "http://profile.ak.fbcdn.net/hprofile-ak-snc4/276737_179106630770_2050078797_n.jpg",
+      "name": "The Music Man",
+      "tel": "1 (810) 227-9440"
+     }
+    ],
+    "address": [
+     {
+      "street-address": "5757 Whitmore Lake Rd. (810) 227-0440",
+      "locality": "Brighton",
+      "region": "MI"
+     }
+    ],
+    "metatags": [
+     {
+      "title": "The Music Man - Local Business - Brighton, MI | Facebook"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Musicman Charters",
+   "htmlTitle": "\u003cb\u003eMusicman\u003c/b\u003e Charters",
+   "link": "http://www.musicman-charters.com/",
+   "displayLink": "www.musicman-charters.com",
+   "snippet": "Come Experience the Adventure of Charter Fishing on Carolina Beach with   Musicman Fishing Guide!",
+   "htmlSnippet": "Come Experience the Adventure of Charter Fishing on Carolina Beach with \u003cbr\u003e  \u003cb\u003eMusicman\u003c/b\u003e Fishing Guide!",
+   "cacheId": "XRV1ECQduX4J",
+   "formattedUrl": "www.musicman-charters.com/",
+   "htmlFormattedUrl": "www.\u003cb\u003emusicman\u003c/b\u003e-charters.com/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.musicman-charters.com/images/frontcoverpic.jpg",
+      "type": "1",
+      "width": "259",
+      "height": "194"
+     }
+    ],
+    "metatags": [
+     {
+      "author": "MSH",
+      "msvalidate.01": "6D6178B95BDD8457FE2AF8B0E68A7140"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "The Music Man - YouTube",
+   "htmlTitle": "\u003cb\u003eThe Music Man\u003c/b\u003e - YouTube",
+   "link": "http://www.youtube.com/watch?v=eu1bbQHUjeM",
+   "displayLink": "www.youtube.com",
+   "snippet": "Apr 18, 2011 ... It's the Music Man, the screen version of one of Broadway's all-time blockbusters,   a skyburst of Americana as irresistible as 4th of July fireworks.",
+   "htmlSnippet": "Apr 18, 2011 \u003cb\u003e...\u003c/b\u003e It&#39;s \u003cb\u003ethe Music Man\u003c/b\u003e, the screen version of one of Broadway&#39;s all-time blockbusters, \u003cbr\u003e  a skyburst of Americana as irresistible as 4th of July fireworks.",
+   "cacheId": "QMKJ6UUvAfoJ",
+   "formattedUrl": "www.youtube.com/watch?v=eu1bbQHUjeM",
+   "htmlFormattedUrl": "www.youtube.com/watch?v=eu1bbQHUjeM",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://i2.ytimg.com/vi/eu1bbQHUjeM/mqdefault.jpg",
+      "type": "1",
+      "width": "256",
+      "height": "144"
+     }
+    ],
+    "videoobject": [
+     {
+      "url": "http://www.youtube.com/watch?v=eu1bbQHUjeM",
+      "name": "The Music Man",
+      "description": "It's the Music Man, the screen version of one of Broadway's all-time blockbusters, a skyburst of Americana as irresistible as 4th of July fireworks. Robert P...",
+      "duration": "PT151M13S",
+      "unlisted": "False",
+      "paid": "True",
+      "thumbnailurl": "http://i2.ytimg.com/vi/eu1bbQHUjeM/hqdefault.jpg",
+      "embedurl": "http://www.youtube.com/v/eu1bbQHUjeM?version=3&autohide=1",
+      "playertype": "Flash",
+      "width": "1920",
+      "height": "1080"
+     }
+    ],
+    "person": [
+     {
+      "url": "http://www.youtube.com/user/warnervod"
+     }
+    ],
+    "metatags": [
+     {
+      "title": "The Music Man",
+      "og:url": "http://www.youtube.com/watch?v=eu1bbQHUjeM",
+      "og:title": "The Music Man",
+      "og:description": "It's the Music Man, the screen version of one of Broadway's all-time blockbusters, a skyburst of Americana as irresistible as 4th of July fireworks. Robert P...",
+      "og:type": "video",
+      "og:image": "http://i2.ytimg.com/vi/eu1bbQHUjeM/mqdefault.jpg",
+      "og:video": "http://www.youtube.com/v/eu1bbQHUjeM?version=3&autohide=1",
+      "og:video:type": "application/x-shockwave-flash",
+      "og:video:width": "1920",
+      "og:video:height": "1080",
+      "og:site_name": "YouTube",
+      "fb:app_id": "87741124305",
+      "twitter:player:width": "1920",
+      "twitter:player:height": "1080",
+      "attribution": "warnerbros_vfp/"
+     }
+    ],
+    "imageobject": [
+     {
+      "url": "http://i2.ytimg.com/vi/eu1bbQHUjeM/mqdefault.jpg",
+      "width": "320",
+      "height": "180"
+     }
+    ]
+   }
+  }
+ ]
+}

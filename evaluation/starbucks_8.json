@@ -1,0 +1,637 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "nextPage": [
+   {
+    "title": "Google Custom Search - starbucks",
+    "totalResults": "12500000",
+    "searchTerms": "starbucks",
+    "count": 10,
+    "startIndex": 91,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "017401104989814545383:mf4lavmtuva"
+   }
+  ],
+  "request": [
+   {
+    "title": "Google Custom Search - starbucks",
+    "totalResults": "12500000",
+    "searchTerms": "starbucks",
+    "count": 10,
+    "startIndex": 81,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "017401104989814545383:mf4lavmtuva"
+   }
+  ],
+  "previousPage": [
+   {
+    "title": "Google Custom Search - starbucks",
+    "totalResults": "12500000",
+    "searchTerms": "starbucks",
+    "count": 10,
+    "startIndex": 71,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "017401104989814545383:mf4lavmtuva"
+   }
+  ]
+ },
+ "context": {
+  "title": "College MetaSearch Comparison"
+ },
+ "searchInformation": {
+  "searchTime": 0.193649,
+  "formattedSearchTime": "0.19",
+  "totalResults": "12500000",
+  "formattedTotalResults": "12,500,000"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "Starbucks Shared Planet Youth Action Grants | Home",
+   "htmlTitle": "\u003cb\u003eStarbucks\u003c/b\u003e Shared Planet Youth Action Grants | Home",
+   "link": "http://www.starbucksfoundation.com/index.cfm?objectid=525D51E7-1D09-317F-BBF9A860BE884D22",
+   "displayLink": "www.starbucksfoundation.com",
+   "snippet": "The Youth Dreamers, Inc. was created by students in order to decrease youth   violence. The organization is led by students grades six through college   supported ...",
+   "htmlSnippet": "The Youth Dreamers, Inc. was created by students in order to decrease youth \u003cbr\u003e  violence. The organization is led by students grades six through college \u003cbr\u003e  supported \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "T6AD3VODBDEJ",
+   "formattedUrl": "www.starbucksfoundation.com/index.cfm?objectid=525D51E7...",
+   "htmlFormattedUrl": "www.\u003cb\u003estarbucks\u003c/b\u003efoundation.com/index.cfm?objectid=525D51E7...",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.starbucksfoundation.com/images/sb_sharedplanet.jpg",
+      "type": "1",
+      "width": "194",
+      "height": "216"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Starbucks® Logo Apparel - Hats, T-Shirts, Hoodies | Starbucks® Store",
+   "htmlTitle": "\u003cb\u003eStarbucks\u003c/b\u003e® Logo Apparel - Hats, T-Shirts, Hoodies | \u003cb\u003eStarbucks\u003c/b\u003e® Store",
+   "link": "http://www.starbucksstore.com/apparel/apparel,default,sc.html",
+   "displayLink": "www.starbucksstore.com",
+   "snippet": "The Starbucks Siren – featured on our T-shirts, hats and hoodies – has become   an international icon. Celebrate great coffee and cool design with new apparel ...",
+   "htmlSnippet": "The \u003cb\u003eStarbucks\u003c/b\u003e Siren – featured on our T-shirts, hats and hoodies – has become \u003cbr\u003e  an international icon. Celebrate great coffee and cool design with new apparel \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "vKEZSBptRTcJ",
+   "formattedUrl": "www.starbucksstore.com/apparel/apparel,default,sc.html",
+   "htmlFormattedUrl": "www.\u003cb\u003estarbucks\u003c/b\u003estore.com/apparel/apparel,default,sc.html",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://demandware.edgesuite.net/aafv_prd/on/demandware.static/Sites-Starbucks-Site/Sites-Starbucks-Library/default/v1342848224989/images/megamenu/small_office_mega_square_50_count.jpg",
+      "type": "1",
+      "width": "224",
+      "height": "225"
+     }
+    ],
+    "metatags": [
+     {
+      "handheldfriendly": "true",
+      "viewport": "width=device-width"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Howard Schultz - Wikipedia, the free encyclopedia",
+   "htmlTitle": "Howard Schultz - Wikipedia, the free encyclopedia",
+   "link": "http://en.wikipedia.org/wiki/Howard_Schultz",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "He is best known as the chairman and CEO of Starbucks and a former owner of   the Seattle SuperSonics. Schultz co-founded Maveron, an investment group, ...",
+   "htmlSnippet": "He is best known as the chairman and CEO of \u003cb\u003eStarbucks\u003c/b\u003e and a former owner of \u003cbr\u003e  the Seattle SuperSonics. Schultz co-founded Maveron, an investment group, \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "BYHCwpI8noYJ",
+   "formattedUrl": "en.wikipedia.org/wiki/Howard_Schultz",
+   "htmlFormattedUrl": "en.wikipedia.org/wiki/Howard_Schultz",
+   "pagemap": {
+    "person": [
+     {
+      "role": "Chairman and CEO of Starbucks"
+     }
+    ],
+    "hcard": [
+     {
+      "fn": "Howard Mark Schultz",
+      "bday": "1953-07-19",
+      "role": "Chairman and CEO of Starbucks",
+      "category": "Judaism"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Starbucks Signature Drink Builder | Starbucks",
+   "htmlTitle": "\u003cb\u003eStarbucks\u003c/b\u003e Signature Drink Builder | \u003cb\u003eStarbucks\u003c/b\u003e",
+   "link": "http://www.mystarbuckssignature.com/",
+   "displayLink": "www.mystarbuckssignature.com",
+   "snippet": "Personalize your drink and discover your Starbucks Signature. With options from   A (Americano) to well, almost Z (White Chocolate Mocha), there are more than ...",
+   "htmlSnippet": "Personalize your drink and discover your \u003cb\u003eStarbucks\u003c/b\u003e Signature. With options from \u003cbr\u003e  A (Americano) to well, almost Z (White Chocolate Mocha), there are more than \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "kY_WzS5O4U0J",
+   "formattedUrl": "www.mystarbuckssignature.com/",
+   "htmlFormattedUrl": "www.my\u003cb\u003estarbucks\u003c/b\u003esignature.com/",
+   "pagemap": {
+    "metatags": [
+     {
+      "viewport": "width=device-width, initial-scale=1.0"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Starbucks - Business Exchange",
+   "htmlTitle": "\u003cb\u003eStarbucks\u003c/b\u003e - Business Exchange",
+   "link": "http://bx.businessweek.com/starbucks/",
+   "displayLink": "bx.businessweek.com",
+   "snippet": "Starbucks - updated news, articles and reactions. Find Starbucks blogs,   resources and related information for business professionals. Founded in 1971 in ...",
+   "htmlSnippet": "\u003cb\u003eStarbucks\u003c/b\u003e - updated news, articles and reactions. Find \u003cb\u003eStarbucks\u003c/b\u003e blogs, \u003cbr\u003e  resources and related information for business professionals. Founded in 1971 in \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "ebrzONRUDWkJ",
+   "formattedUrl": "bx.businessweek.com/starbucks/",
+   "htmlFormattedUrl": "bx.businessweek.com/\u003cb\u003estarbucks\u003c/b\u003e/"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Starbucks - Castro - San Francisco, CA",
+   "htmlTitle": "\u003cb\u003eStarbucks\u003c/b\u003e - Castro - San Francisco, CA",
+   "link": "http://www.yelp.com/biz/starbucks-san-francisco-52",
+   "displayLink": "www.yelp.com",
+   "snippet": "91 Reviews of Starbucks \"Great, professional staff. They are always pleasant to   you. It is THE coffee shop in the Castro and a regular place for the LGBT ...",
+   "htmlSnippet": "91 Reviews of \u003cb\u003eStarbucks\u003c/b\u003e &quot;Great, professional staff. They are always pleasant to \u003cbr\u003e  you. It is THE coffee shop in the Castro and a regular place for the LGBT \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "Lh89R9AVZg0J",
+   "formattedUrl": "www.yelp.com/biz/starbucks-san-francisco-52",
+   "htmlFormattedUrl": "www.yelp.com/biz/\u003cb\u003estarbucks\u003c/b\u003e-san-francisco-52",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://s3-media3.ak.yelpcdn.com/bphoto/_ZpReIeR1PoET0loCE8K3w/m.jpg",
+      "type": "1",
+      "width": "89",
+      "height": "66"
+     }
+    ],
+    "aggregaterating": [
+     {
+      "ratingvalue": "3.5",
+      "reviewcount": "91"
+     }
+    ],
+    "postaladdress": [
+     {
+      "streetaddress": "4094 18th St",
+      "addresslocality": "San Francisco",
+      "addressregion": "CA",
+      "postalcode": "94114"
+     }
+    ],
+    "localbusiness": [
+     {
+      "name": "Starbucks",
+      "telephone": "(415) 626-6263",
+      "image": "//s3-media3.ak.yelpcdn.com/bphoto/_ZpReIeR1PoET0loCE8K3w/m.jpg",
+      "pricerange": "$"
+     }
+    ],
+    "rating": [
+     {
+      "ratingvalue": "4.0"
+     },
+     {
+      "ratingvalue": "4.0"
+     },
+     {
+      "ratingvalue": "3.0"
+     },
+     {
+      "ratingvalue": "4.0"
+     },
+     {
+      "ratingvalue": "5.0"
+     },
+     {
+      "ratingvalue": "1.0"
+     },
+     {
+      "ratingvalue": "5.0"
+     },
+     {
+      "ratingvalue": "4.0"
+     },
+     {
+      "ratingvalue": "4.0"
+     },
+     {
+      "ratingvalue": "5.0"
+     },
+     {
+      "ratingvalue": "2.0"
+     },
+     {
+      "ratingvalue": "5.0"
+     },
+     {
+      "ratingvalue": "5.0"
+     },
+     {
+      "ratingvalue": "1.0"
+     },
+     {
+      "ratingvalue": "4.0"
+     },
+     {
+      "ratingvalue": "4.0"
+     },
+     {
+      "ratingvalue": "3.0"
+     },
+     {
+      "ratingvalue": "3.0"
+     },
+     {
+      "ratingvalue": "5.0"
+     },
+     {
+      "ratingvalue": "5.0"
+     },
+     {
+      "ratingvalue": "4.0"
+     },
+     {
+      "ratingvalue": "4.0"
+     },
+     {
+      "ratingvalue": "4.0"
+     },
+     {
+      "ratingvalue": "2.0"
+     },
+     {
+      "ratingvalue": "4.0"
+     },
+     {
+      "ratingvalue": "4.0"
+     },
+     {
+      "ratingvalue": "4.0"
+     },
+     {
+      "ratingvalue": "1.0"
+     },
+     {
+      "ratingvalue": "4.0"
+     },
+     {
+      "ratingvalue": "5.0"
+     },
+     {
+      "ratingvalue": "3.0"
+     },
+     {
+      "ratingvalue": "4.0"
+     },
+     {
+      "ratingvalue": "2.0"
+     },
+     {
+      "ratingvalue": "2.0"
+     },
+     {
+      "ratingvalue": "3.0"
+     },
+     {
+      "ratingvalue": "4.0"
+     },
+     {
+      "ratingvalue": "3.0"
+     },
+     {
+      "ratingvalue": "2.0"
+     },
+     {
+      "ratingvalue": "5.0"
+     },
+     {
+      "ratingvalue": "4.0"
+     }
+    ],
+    "metatags": [
+     {
+      "og:url": "http://www.yelp.com/biz/mjih0yEQhxnoZU5xxnR21w",
+      "og:longitude": "-122.4346564",
+      "og:type": "cafe",
+      "og:latitude": "37.76097",
+      "og:title": "Starbucks",
+      "fb:app_id": "97534753161",
+      "og:image": "http://s3-media3.ak.yelpcdn.com/bphoto/_ZpReIeR1PoET0loCE8K3w/m.jpg",
+      "relativepagescore": "669820"
+     }
+    ],
+    "hreviewaggregate": [
+     {
+      "pricerange": "$",
+      "count": "91"
+     }
+    ],
+    "review": [
+     {
+      "ratingstars": "3.5",
+      "ratingcount": "91",
+      "pricerange": "$",
+      "image_url": "//s3-media3.ak.yelpcdn.com/bphoto/_ZpReIeR1PoET0loCE8K3w/m.jpg"
+     },
+     {
+      "author": "Mike K.",
+      "datepublished": "2012-07-04",
+      "description": "Great, professional staff. They are always pleasant to you. It is THE coffee shop in the Castro and a regular place for the LGBT community to meet at. Not so great is bathroom and shop is showing..."
+     },
+     {
+      "author": "Stephen H.",
+      "datepublished": "2012-05-27",
+      "description": "Bearbucks? Lol @ Jim G.'s review. I will say that when we ducked into this friendly small shop on a chock-full-day of touristing, we found most of the seats taken by guys who just liked to..."
+     },
+     {
+      "author": "Jon T.",
+      "datepublished": "2012-04-01",
+      "description": "Starbucks is starbucks. Tazo is decent and coffee is bland (from what I've heard.) But what I really like about this location is the late hour hours. One recent weekend, my girlfriend and I..."
+     },
+     {
+      "author": "Bapu R.",
+      "datepublished": "2012-07-09",
+      "description": "One of the busiest Starbucks coffee shop I' ve ever seen! Small , but not for a down town! Very fast customer service! Yet to taste the coffee ..... hmm and the best coffee!"
+     },
+     {
+      "author": "Steve M.",
+      "datepublished": "2012-07-14",
+      "description": "I was in The Castro Starbucks twice yesterday. I received the best customer service of any of the Cafe's that I have been to this year. The service was quick, and courteous with the appropriate..."
+     },
+     {
+      "author": "Gabriel T.",
+      "datepublished": "2012-07-03",
+      "description": "Least favorite starbucks in the whole city. I like to call it the social security office, because there's always people there! All day, everyday, just staring at you like your a piece of meat...."
+     },
+     {
+      "author": "Jeremiah W.",
+      "datepublished": "2012-07-05",
+      "description": "The greatest experience you can ever have is this starbucks. They act like your family or friend. I am a regular for sure because everytime I go into this starbucks I feel like im in Seattle..."
+     },
+     {
+      "author": "Jim G.",
+      "datepublished": "2012-01-22",
+      "description": "I'm a little shocked that I'm just now getting around to reviewing this Starbucks, a.k.a. Bearbucks. I work around the corner from here, so I pop in here at least three or four times a week..."
+     },
+     {
+      "author": "Amy S.",
+      "datepublished": "2012-01-11",
+      "description": "This is my friendly neighborhood Starbucks... I mean BEARbucks. The staff is friendly and usually pretty fast. They know me and what I drink so ordering is easy. This is not your typical Starbucks..."
+     },
+     {
+      "author": "steph t.",
+      "datepublished": "2012-04-22",
+      "description": "This is my favorite Starbucks in the city. The crew are so friendly and are always on top of it! It could get busy and crowded sometimes but that is because the crew is so awesome. And it is..."
+     },
+     {
+      "author": "Stu S.",
+      "datepublished": "2011-09-13",
+      "description": "This Starbuck's location has almost nothing, nada, zip to do with coffee, but it almost everything to do with a group of large furry men spilling into and across the sidewalk with big dog's..."
+     },
+     {
+      "author": "Lawrence G.",
+      "datepublished": "2012-03-19",
+      "description": "I love going in and seeing Brian and Ricko. They always have a smile on ther face."
+     },
+     {
+      "author": "Vincent R.",
+      "datepublished": "2011-06-15",
+      "description": "I honestly have nothing bad to say about this store. I used to work for Starbucks and this store is probably one of the best I've ever been to AND they're consistent. I come there a few times..."
+     },
+     {
+      "author": "Garrett B.",
+      "datepublished": "2011-04-30",
+      "description": "I walked out of this place without doing business. Line out the door...but it's Starbucks, it's expected. What got me is the fact that they have a sign on their door saying no animals allowed,..."
+     },
+     {
+      "author": "Sean B.",
+      "datepublished": "2011-03-01",
+      "description": "Haha. EVERYONE calls this Bearbucks, that's too funny. I thought that my corny friend was just trying to make a funny. Bottom line: It's a Starbucks with everything that comes with a Starbucks..."
+     },
+     {
+      "author": "James E.",
+      "datepublished": "2012-02-18",
+      "description": "It's Starbucks coffee but ohhh the eye candy. The baristas are friendly and fast. I always enjoy good-looking men serving up some good coffee. The only drawback is the place is somewhat small..."
+     },
+     {
+      "author": "Evan G.",
+      "datepublished": "2011-07-04",
+      "description": "It's not the best Starbucks ever. It's not the worst. It's fine. They don't have a warmer, so if you're a fan of any of the tasty foods that Starbucks cooks up in the oven or you like your..."
+     },
+     {
+      "author": "EC N.",
+      "datepublished": "2012-02-27",
+      "description": "I've never been a fan of Starbucks, just too many of them. But given the corporate support for Gay Marriage in Washington State, and that they open at 5:00AM, they have converted me. The early..."
+     },
+     {
+      "author": "C N.",
+      "datepublished": "2012-01-30",
+      "description": "I just can't stop loving you...great great great customer service"
+     },
+     {
+      "author": "Trevor B.",
+      "datepublished": "2011-03-24",
+      "description": "There is one thing that I love more than a cute Bear, and that's Coffee. This location has both. Quality of Starbucks coffee is what it is. The reason I prefer to go to this location over any..."
+     },
+     {
+      "author": "Laurin A.",
+      "datepublished": "2010-11-20",
+      "description": "I don't know that I've reviewed a Starbucks before but after visiting this one, I felt they deserved a nice review. It was pouring rain and I came in and was welcomed into this cozy environment..."
+     },
+     {
+      "author": "Joe M.",
+      "datepublished": "2011-03-07",
+      "description": "I was doing some work with local pet-friendly businesses in the Castro today and realized that I showed up before most places opened. Instead, I walked over to the Starbucks near the corner..."
+     },
+     {
+      "author": "Devon F.",
+      "datepublished": "2008-12-11",
+      "description": "I like my hot chocolate like I like my men: tall, rich, and able to keep me cozy when the weather gets cold. As someone who drinks a good 4-5 cups of hot cocoa a week, I dig any coffee place..."
+     },
+     {
+      "author": "Bill B.",
+      "datepublished": "2008-05-22",
+      "description": "I remember when I was living in the Midwest and there was a Starbucks opening up in my small town. We were becoming metropolian and had something to brag about. This was 12 years ago. -----..."
+     },
+     {
+      "author": "Amy L.",
+      "datepublished": "2008-09-02",
+      "description": "Ahhhh, StarBears, how I love to walk past you and oggle all the cute, furry, beefy men out front, all the bears and cubs standing and posing with a wee bit of cappucino froth clinging to the..."
+     },
+     {
+      "author": "Megan K.",
+      "datepublished": "2009-02-15",
+      "description": "Call me a naive straight girl, but I had no idea this Starbucks was a bear hangout. I often go to yoga in the neighborhood and back when I used to work in the east bay, I would come to this..."
+     },
+     {
+      "author": "Brenda S.",
+      "datepublished": "2011-12-01",
+      "description": "I live in this area and barely noticed there was a Starbucks close by, This is so convenient for me. The staff is so friendly, and so are the customers that occupy their time here doing whatever..."
+     },
+     {
+      "author": "P.H. D.",
+      "datepublished": "2008-06-30",
+      "description": "I love Starbucks and Castro, but for this location they are always hiring ULTRA mean and impolite bitches. If you like a Naomi-Campbell-attitude from the cashier - yes! CASHIER - sure go for..."
+     },
+     {
+      "author": "Nicolas H.",
+      "datepublished": "2008-02-20",
+      "description": "Why are you so insanely wonderful? Why?! I go to this Starbucks, like far too often. It's almost like a marriage at times. They will see me there every Wednesday, like clock-work, at approximately..."
+     },
+     {
+      "author": "Michael-ji N.",
+      "datepublished": "2008-08-08",
+      "description": "Best Starbucks ever! Warm, friendly staff and great mix of people It's still called StarBears (Bearbucks?) with all the Bears hanging around on the sidewalk in front. I'm in here all the time..."
+     },
+     {
+      "author": "Sean S.",
+      "datepublished": "2006-02-05",
+      "description": "It's like a zoo. I was stunned when I moved into the neighborhood. All these old men, all these hairy men, all these hefty men. Run goldilocks, run! Now as for the inside, DO NOT Go into the..."
+     },
+     {
+      "author": "Laurel Y.",
+      "datepublished": "2009-05-14",
+      "description": "Ahh bearbucks, I always have two types of times here. 1. When I'm either by myself or with a friend, we always have a good time, the barista's are friendly and accomodating. I usually never..."
+     },
+     {
+      "author": "Amy L.",
+      "datepublished": "2006-08-07",
+      "description": "OK, I've been in a lot of Starbucks and yes this one is unique in that non-pleasing way. 1) It's totally cramped. The padded benches for cuddling with your beau are cool, but they take up way..."
+     },
+     {
+      "author": "Jason L.",
+      "datepublished": "2010-11-27",
+      "description": "Well I'm a huge fan of Starbucks, but this is the smallest one I've ever seen. It's like walking in a closet. There are way to many tables and chairs. You walk in, and it looks like people..."
+     },
+     {
+      "author": "Dave B.",
+      "datepublished": "2011-10-16",
+      "description": "This is the Castro's \"Bearbucks\" so expect large hairy men and often, superhero costumes. Lots of camping. Several seats have power."
+     },
+     {
+      "author": "Cory M.",
+      "datepublished": "2011-09-29",
+      "description": "Starbucks, ala \"Bearbucks\" to the locals for its more hirsute and/or beefy clientele, is what you'd expect from Starbucks. It's a smaller location, and there tends to be a lot of jockeying..."
+     },
+     {
+      "author": "Jeff P.",
+      "datepublished": "2008-07-11",
+      "description": "Ah, Bearbucks. Often times, there are more people hanging out outside since this place is so teenyWEENYitsyBITSY."
+     },
+     {
+      "author": "Christopher Z.",
+      "datepublished": "2007-10-15",
+      "description": "I have always loved Starbucks coffee, but this particular location is nasty and dirty. It's borderline unsanitary and really needs to be cleaned up. Stay away from the bathrooms unless you..."
+     },
+     {
+      "author": "Andre B.",
+      "datepublished": "2011-10-20",
+      "description": "I love this place, well I love every Starbucks I walk into, but nevertheless, I love this place. I also love that it's known as Bearbucks. I had no idea until my uncles told. Even though I..."
+     },
+     {
+      "author": "Denise Q.",
+      "datepublished": "2007-08-04",
+      "description": "Super nice staff, super friendly and even though it's usually crowded in here, I never have a long wait. Good people watching too."
+     }
+    ],
+    "breadcrumb": [
+     {
+      "url": "Food",
+      "title": "Food"
+     },
+     {
+      "url": "Coffee & Tea",
+      "title": "Coffee & Tea"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Starbucks Case Study",
+   "htmlTitle": "\u003cb\u003eStarbucks\u003c/b\u003e Case Study",
+   "link": "http://www.mhhe.com/business/management/thompson/11e/case/starbucks.html",
+   "displayLink": "www.mhhe.com",
+   "snippet": "Starbucks began in 1971 when three academics—English teacher Jerry Baldwin,   history teacher Zev Siegel, and writer Gordon Bowker—opened a store called ...",
+   "htmlSnippet": "\u003cb\u003eStarbucks\u003c/b\u003e began in 1971 when three academics—English teacher Jerry Baldwin, \u003cbr\u003e  history teacher Zev Siegel, and writer Gordon Bowker—opened a store called \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "NKeQnZ2VWLUJ",
+   "formattedUrl": "www.mhhe.com/business/management/thompson/.../starbucks.html",
+   "htmlFormattedUrl": "www.mhhe.com/business/management/thompson/.../\u003cb\u003estarbucks\u003c/b\u003e.html",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.mhhe.com/business/management/thompson/11e/case/Images/Starbucks4.jpg",
+      "type": "1",
+      "width": "184",
+      "height": "274"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Starbucks Newsroom: Mobile Payment Debuts Nationally at Starbucks",
+   "htmlTitle": "\u003cb\u003eStarbucks\u003c/b\u003e Newsroom: Mobile Payment Debuts Nationally at \u003cb\u003eStarbucks\u003c/b\u003e",
+   "link": "http://news.starbucks.com/article_display.cfm?article_id=490",
+   "displayLink": "news.starbucks.com",
+   "snippet": "Jan 19, 2011 ... The Starbucks Card Mobile App offers customers with BlackBerry smartphones,   iPhone and iPod touch the fastest way to pay at nearly 6800 ...",
+   "htmlSnippet": "Jan 19, 2011 \u003cb\u003e...\u003c/b\u003e The \u003cb\u003eStarbucks\u003c/b\u003e Card Mobile App offers customers with BlackBerry smartphones, \u003cbr\u003e  iPhone and iPod touch the fastest way to pay at nearly 6800 \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "_6uOkG7Nux0J",
+   "formattedUrl": "news.starbucks.com/article_display.cfm?article_id=490",
+   "htmlFormattedUrl": "news.\u003cb\u003estarbucks\u003c/b\u003e.com/article_display.cfm?article_id=490",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://mms.businesswire.com/bwapps/mediaserver/ViewMedia?mgid=259304&vid=4",
+      "type": "1",
+      "width": "213",
+      "height": "237"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Starbucks Support of the Troops/Military [Updated May 2012]",
+   "htmlTitle": "\u003cb\u003eStarbucks\u003c/b\u003e Support of the Troops/Military [Updated May 2012]",
+   "link": "http://news.starbucks.com/about+starbucks/myths+facts/militarydonations.htm",
+   "displayLink": "news.starbucks.com",
+   "snippet": "On behalf of Starbucks more than 140000 dedicated partners (employees), we   want to set the record straight on an old rumor concerning Starbucks lack of ...",
+   "htmlSnippet": "On behalf of \u003cb\u003eStarbucks\u003c/b\u003e more than 140000 dedicated partners (employees), we \u003cbr\u003e  want to set the record straight on an old rumor concerning \u003cb\u003eStarbucks\u003c/b\u003e lack of \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "9pWaCfKazCMJ",
+   "formattedUrl": "news.starbucks.com/about+starbucks/myths.../militarydonations.htm",
+   "htmlFormattedUrl": "news.\u003cb\u003estarbucks\u003c/b\u003e.com/about+\u003cb\u003estarbucks\u003c/b\u003e/myths.../militarydonations.htm"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Starbucks Digital Network in partnership with Yahoo!",
+   "htmlTitle": "\u003cb\u003eStarbucks\u003c/b\u003e Digital Network in partnership with Yahoo!",
+   "link": "http://promo.yahoo.com/starbucks/",
+   "displayLink": "promo.yahoo.com",
+   "snippet": "GREAT CONTENT RIGHT OUT OF THE GATE. For a limited time watch a sneak   peek of the PBS miniseries \"Circus,\" read about the latest fitness techniques ...",
+   "htmlSnippet": "GREAT CONTENT RIGHT OUT OF THE GATE. For a limited time watch a sneak \u003cbr\u003e  peek of the PBS miniseries &quot;Circus,&quot; read about the latest fitness techniques \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "_mdNW0bRuxwJ",
+   "formattedUrl": "promo.yahoo.com/starbucks/",
+   "htmlFormattedUrl": "promo.yahoo.com/\u003cb\u003estarbucks\u003c/b\u003e/"
+  }
+ ]
+}

@@ -1,0 +1,304 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "nextPage": [
+   {
+    "title": "Google Custom Search - website design hosting",
+    "totalResults": "33600000",
+    "searchTerms": "website design hosting",
+    "count": 10,
+    "startIndex": 71,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "017401104989814545383:mf4lavmtuva"
+   }
+  ],
+  "request": [
+   {
+    "title": "Google Custom Search - website design hosting",
+    "totalResults": "33600000",
+    "searchTerms": "website design hosting",
+    "count": 10,
+    "startIndex": 61,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "017401104989814545383:mf4lavmtuva"
+   }
+  ],
+  "previousPage": [
+   {
+    "title": "Google Custom Search - website design hosting",
+    "totalResults": "33600000",
+    "searchTerms": "website design hosting",
+    "count": 10,
+    "startIndex": 51,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "017401104989814545383:mf4lavmtuva"
+   }
+  ]
+ },
+ "context": {
+  "title": "College MetaSearch Comparison"
+ },
+ "searchInformation": {
+  "searchTime": 0.185895,
+  "formattedSearchTime": "0.19",
+  "totalResults": "33600000",
+  "formattedTotalResults": "33,600,000"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "Desiant, LLC | Columbus Ohio Web Design and Website ...",
+   "htmlTitle": "Desiant, LLC | Columbus Ohio \u003cb\u003eWeb Design\u003c/b\u003e and Website \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://www.desiant.com/",
+   "displayLink": "www.desiant.com",
+   "snippet": "Web Design with Measurable Results! Custom work catering to YOUR business.   Web design, content management, hosting, web site development, search ...",
+   "htmlSnippet": "\u003cb\u003eWeb Design\u003c/b\u003e with Measurable Results! Custom work catering to YOUR business. \u003cbr\u003e  \u003cb\u003eWeb design\u003c/b\u003e, content management, \u003cb\u003ehosting\u003c/b\u003e, web site development, search \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "S0zHmqdxxW4J",
+   "formattedUrl": "www.desiant.com/",
+   "htmlFormattedUrl": "www.desiant.com/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.desiant.com/images/clients/small/midohiopediatrics_com.jpg",
+      "type": "1",
+      "width": "120",
+      "height": "106"
+     }
+    ],
+    "metatags": [
+     {
+      "desctiption": "Desiant, LLC designs web sites for businesses in Columbus Ohio. We specialize in custom web development and quality web site design."
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Web Design Maine - Central Maine Web - Design, Hosting, Search ...",
+   "htmlTitle": "Web Design Maine - Central Maine \u003cb\u003eWeb\u003c/b\u003e - \u003cb\u003eDesign\u003c/b\u003e, \u003cb\u003eHosting\u003c/b\u003e, Search \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://centralmaineweb.com/",
+   "displayLink": "centralmaineweb.com",
+   "snippet": "Central Maine Web Design is a full service web design and hosting company in   Maine, offering complete web site design, hosting, updating and search engine ...",
+   "htmlSnippet": "Central Maine \u003cb\u003eWeb Design\u003c/b\u003e is a full service \u003cb\u003eweb design\u003c/b\u003e and \u003cb\u003ehosting\u003c/b\u003e company in \u003cbr\u003e  Maine, offering complete web site design, \u003cb\u003ehosting\u003c/b\u003e, updating and search engine \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "T0FGthAMA98J",
+   "formattedUrl": "centralmaineweb.com/",
+   "htmlFormattedUrl": "centralmaine\u003cb\u003eweb\u003c/b\u003e.com/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://centralmaineweb.com/portfolio/composite-templates.jpg",
+      "type": "1",
+      "width": "329",
+      "height": "153"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Website Design & Hosting | Winona Graphic Designer, Print Design ...",
+   "htmlTitle": "\u003cb\u003eWebsite Design\u003c/b\u003e &amp; \u003cb\u003eHosting\u003c/b\u003e | Winona Graphic Designer, Print Design \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://www.visiondesign.com/",
+   "displayLink": "www.visiondesign.com",
+   "snippet": "Vision Design Group is a creative services agency in Winona, Minnesota offering   print design services, photography, website design, custom programming, web ...",
+   "htmlSnippet": "Vision Design Group is a creative services agency in Winona, Minnesota offering \u003cbr\u003e  print design services, photography, \u003cb\u003ewebsite design\u003c/b\u003e, custom programming, web \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "dAgxx_8BNQYJ",
+   "formattedUrl": "www.visiondesign.com/",
+   "htmlFormattedUrl": "www.vision\u003cb\u003edesign\u003c/b\u003e.com/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.visiondesign.com/wp-content/uploads/2011/11/business-portraits.jpg",
+      "type": "1",
+      "width": "372",
+      "height": "135"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Web Hosting Design",
+   "htmlTitle": "\u003cb\u003eWeb Hosting Design\u003c/b\u003e",
+   "link": "http://www.webhostingdesign.com/",
+   "displayLink": "www.webhostingdesign.com",
+   "snippet": "Web Hosting and Design, Inc. gives affordable personal webspace, business   web hosting design. Cheap, low cost web design and hosting at VPS hosting ...",
+   "htmlSnippet": "Web \u003cb\u003eHosting\u003c/b\u003e and Design, Inc. gives affordable personal webspace, business \u003cbr\u003e  web \u003cb\u003ehosting\u003c/b\u003e design. Cheap, low cost \u003cb\u003eweb design\u003c/b\u003e and \u003cb\u003ehosting\u003c/b\u003e at VPS \u003cb\u003ehosting\u003c/b\u003e \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "lj7zLf5NMK8J",
+   "formattedUrl": "www.webhostingdesign.com/",
+   "htmlFormattedUrl": "www.\u003cb\u003ewebhostingdesign\u003c/b\u003e.com/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.webhostingdesign.com/slide_01.png",
+      "type": "1",
+      "width": "406",
+      "height": "124"
+     }
+    ],
+    "metatags": [
+     {
+      "nextgen": "1.8.1"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Emphasys Internet Solutions : Web Development, Design, Hosting ...",
+   "htmlTitle": "Emphasys Internet Solutions : \u003cb\u003eWeb\u003c/b\u003e Development, \u003cb\u003eDesign\u003c/b\u003e, \u003cb\u003eHosting\u003c/b\u003e \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://www.emphasys.com/",
+   "displayLink": "www.emphasys.com",
+   "snippet": "Emphasys is an Internet consulting firm based in Dallas, Texas specializing in e-  commerce solutions, database-driven websites, web design, network security, ...",
+   "htmlSnippet": "Emphasys is an Internet consulting firm based in Dallas, Texas specializing in e-\u003cbr\u003e  commerce solutions, database-driven websites, \u003cb\u003eweb design\u003c/b\u003e, network security, \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "lvkgJt4a2jgJ",
+   "formattedUrl": "www.emphasys.com/",
+   "htmlFormattedUrl": "www.emphasys.com/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.emphasys.com/images/2001/index_texture1.gif",
+      "type": "1",
+      "width": "81",
+      "height": "95"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Hilo Web Design - Kilauea WebWorks - Web Site Hosting ...",
+   "htmlTitle": "Hilo \u003cb\u003eWeb Design\u003c/b\u003e - Kilauea WebWorks - Web Site \u003cb\u003eHosting\u003c/b\u003e \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://www.kilauea.net/",
+   "displayLink": "www.kilauea.net",
+   "snippet": "Kilauea WebWorks is a Hilo, Hawaii based company specializing in design and   managed hosting of web sites for both corporate and small business customers.",
+   "htmlSnippet": "Kilauea WebWorks is a Hilo, Hawaii based company specializing in \u003cb\u003edesign\u003c/b\u003e and \u003cbr\u003e  managed \u003cb\u003ehosting\u003c/b\u003e of \u003cb\u003eweb\u003c/b\u003e sites for both corporate and small business customers.",
+   "cacheId": "chvXsCowJpUJ",
+   "formattedUrl": "www.kilauea.net/",
+   "htmlFormattedUrl": "www.kilauea.net/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.kilauea.net/images/thumbs/chproperties.jpg",
+      "type": "1",
+      "width": "136",
+      "height": "175"
+     }
+    ],
+    "metatags": [
+     {
+      "y_key": "af05e7327104bf0f"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "SEO King® Custom Web Design, Hosting, SEO & Internet Marketing",
+   "htmlTitle": "SEO King® Custom \u003cb\u003eWeb Design\u003c/b\u003e, \u003cb\u003eHosting\u003c/b\u003e, SEO &amp; Internet Marketing",
+   "link": "http://www.seoking.com/",
+   "displayLink": "www.seoking.com",
+   "snippet": "SEO King® provides a wide range of services including: logo design, custom   website design, web hosting, flash animation, programming, ecommerce   solutions, ...",
+   "htmlSnippet": "SEO King® provides a wide range of services including: logo design, custom \u003cbr\u003e  \u003cb\u003ewebsite design\u003c/b\u003e, web \u003cb\u003ehosting\u003c/b\u003e, flash animation, programming, ecommerce \u003cbr\u003e  solutions, \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "fnQYiEPzxkUJ",
+   "formattedUrl": "www.seoking.com/",
+   "htmlFormattedUrl": "www.seoking.com/",
+   "pagemap": {
+    "metatags": [
+     {
+      "rating": "general",
+      "document-rating": "safe for kids",
+      "distribution": "Global",
+      "publisher": "http://www.seoking.com",
+      "author": "SEO King, Inc.",
+      "copyright": "2009 SEO King, Inc.",
+      "identifier-url": "http://www.seoking.com/"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Williams Web Solutions | Website Design | SEO | Hosting | Computer ...",
+   "htmlTitle": "Williams Web Solutions | \u003cb\u003eWebsite Design\u003c/b\u003e | SEO | \u003cb\u003eHosting\u003c/b\u003e | Computer \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://www.williamswebsolutions.net/",
+   "displayLink": "www.williamswebsolutions.net",
+   "snippet": "Williams Web Solutions (WWS) provides web design, redesign, mobile web   design, ... web application development; website and e-mail hosting; search   engine ...",
+   "htmlSnippet": "Williams Web Solutions (WWS) provides \u003cb\u003eweb design\u003c/b\u003e, redesign, mobile \u003cb\u003eweb\u003c/b\u003e \u003cbr\u003e  \u003cb\u003edesign\u003c/b\u003e, \u003cb\u003e...\u003c/b\u003e web application development; website and e-mail \u003cb\u003ehosting\u003c/b\u003e; search \u003cbr\u003e  engine \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "Ha9RywnD5fEJ",
+   "formattedUrl": "www.williamswebsolutions.net/",
+   "htmlFormattedUrl": "www.williams\u003cb\u003eweb\u003c/b\u003esolutions.net/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.williamswebsolutions.net/images/wws-logo02.png",
+      "type": "1",
+      "width": "217",
+      "height": "72"
+     }
+    ],
+    "metatags": [
+     {
+      "language": "English",
+      "norton-safeweb-site-verification": "abou6w868eon491yim6vr1dcda1dklezwkjzbhjd2uef13bnjfkmt4-qvciqta26wr1ihl7k-q0354spdy-6tr36mjodkrqvqcokbp7npcjztt-m0v3gvb0gumo7wjld",
+      "msvalidate.01": "E506D640C188409D661988BCDB0405FA",
+      "alexaverifyid": "uNG4zpL7Eq5AUg02nAR0nMmfVDo",
+      "websitespark": "VbpDgPKgl1",
+      "author": "Williams Web Solutions"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Web Hosts,Domain Name Registration,Fort Myers Web Design",
+   "htmlTitle": "Web Hosts,Domain Name Registration,Fort Myers \u003cb\u003eWeb Design\u003c/b\u003e",
+   "link": "http://www.dmnetsolutions.com/",
+   "displayLink": "www.dmnetsolutions.com",
+   "snippet": "Take a look at our Web Design Portfolio for samples of our work. Leave all the   work to us! We will setup your Web Host, Domain Name Registration, Email setup  , ...",
+   "htmlSnippet": "Take a look at our \u003cb\u003eWeb Design\u003c/b\u003e Portfolio for samples of our work. Leave all the \u003cbr\u003e  work to us! We will setup your Web \u003cb\u003eHost\u003c/b\u003e, Domain Name Registration, Email setup\u003cbr\u003e  , \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "vyialKcR554J",
+   "formattedUrl": "www.dmnetsolutions.com/",
+   "htmlFormattedUrl": "www.dmnetsolutions.com/",
+   "pagemap": {
+    "metatags": [
+     {
+      "author": "DMNetSolutions Domain Registration"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Web Design / Hosting - SBS, Inc.",
+   "htmlTitle": "\u003cb\u003eWeb Design\u003c/b\u003e / \u003cb\u003eHosting\u003c/b\u003e - SBS, Inc.",
+   "link": "http://www.sbsnet.com/",
+   "displayLink": "www.sbsnet.com",
+   "snippet": "web design, hosting, e-commerce search engine optimization, pay-per-click   banner ads, cd-based marketing, custom applications. ○ ○ ○ ○ ○ ○ ○ ○ ○   ○ ...",
+   "htmlSnippet": "\u003cb\u003eweb design\u003c/b\u003e, \u003cb\u003ehosting\u003c/b\u003e, e-commerce search engine optimization, pay-per-click \u003cbr\u003e  banner ads, cd-based marketing, custom applications. ○ ○ ○ ○ ○ ○ ○ ○ ○ \u003cbr\u003e  ○ \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "w-NwcfCVtY8J",
+   "formattedUrl": "www.sbsnet.com/",
+   "htmlFormattedUrl": "www.sbsnet.com/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.sbsnet.com/projects/corenetnj_300.jpg",
+      "type": "1",
+      "width": "208",
+      "height": "243"
+     }
+    ]
+   }
+  }
+ ]
+}

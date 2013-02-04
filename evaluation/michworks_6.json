@@ -1,0 +1,234 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "nextPage": [
+   {
+    "title": "Google Custom Search - michworks",
+    "totalResults": "1430",
+    "searchTerms": "michworks",
+    "count": 10,
+    "startIndex": 71,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "017401104989814545383:mf4lavmtuva"
+   }
+  ],
+  "request": [
+   {
+    "title": "Google Custom Search - michworks",
+    "totalResults": "1430",
+    "searchTerms": "michworks",
+    "count": 10,
+    "startIndex": 61,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "017401104989814545383:mf4lavmtuva"
+   }
+  ],
+  "previousPage": [
+   {
+    "title": "Google Custom Search - michworks",
+    "totalResults": "1430",
+    "searchTerms": "michworks",
+    "count": 10,
+    "startIndex": 51,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "017401104989814545383:mf4lavmtuva"
+   }
+  ]
+ },
+ "context": {
+  "title": "College MetaSearch Comparison"
+ },
+ "searchInformation": {
+  "searchTime": 0.133668,
+  "formattedSearchTime": "0.13",
+  "totalResults": "1430",
+  "formattedTotalResults": "1,430"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "Job Seekers",
+   "htmlTitle": "Job Seekers",
+   "link": "http://www.michworks4u.org/main/index.php/jobseekers",
+   "displayLink": "www.michworks4u.org",
+   "snippet": "Michigan Works! delivers services to job seekers. Regardless of a job seeker's   situation, education level, experience, and skill level, the Michigan Works!   Service ...",
+   "htmlSnippet": "Michigan Works! delivers services to job seekers. Regardless of a job seeker&#39;s \u003cbr\u003e  situation, education level, experience, and skill level, the Michigan Works! \u003cbr\u003e  Service \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "z5fgfSxzUrMJ",
+   "formattedUrl": "www.michworks4u.org/main/index.php/jobseekers",
+   "htmlFormattedUrl": "www.\u003cb\u003emichworks\u003c/b\u003e4u.org/main/index.php/jobseekers"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Michigan Department of Labor and Economic Growth (DLEG)",
+   "htmlTitle": "Michigan Department of Labor and Economic Growth (DLEG)",
+   "link": "https://www.michworks.org/mtb/pages/resources/teenstip3.htm",
+   "displayLink": "www.michworks.org",
+   "snippet": "Occupational Research Section. GETTING EXPERIENCE: JOB TIPS FOR TEENS  . KNOW YOUR TALENTS. The first step in finding a job is identifying your ...",
+   "htmlSnippet": "Occupational Research Section. GETTING EXPERIENCE: JOB TIPS FOR TEENS\u003cbr\u003e  . KNOW YOUR TALENTS. The first step in finding a job is identifying your \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "Ba32xZy74nIJ",
+   "formattedUrl": "https://www.michworks.org/mtb/pages/resources/teenstip3.htm",
+   "htmlFormattedUrl": "https://www.\u003cb\u003emichworks\u003c/b\u003e.org/mtb/pages/resources/teenstip3.htm",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "https://www.michworks.org/mtb/images/image003.gif",
+      "type": "1",
+      "width": "93",
+      "height": "58"
+     }
+    ],
+    "metatags": [
+     {
+      "microsoft theme 2.00": "canvas 001",
+      "progid": "FrontPage.Editor.Document",
+      "originator": "Microsoft Word 9"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Documents",
+   "htmlTitle": "Documents",
+   "link": "http://www.michworks4u.org/main/index.php/2011-11-27-20-37-35",
+   "displayLink": "www.michworks4u.org",
+   "snippet": "Jul 12, 2012 ... Documents Available for Download. No New Posts · Documents Available for   Download Click on the link above to view a list of topics and ...",
+   "htmlSnippet": "Jul 12, 2012 \u003cb\u003e...\u003c/b\u003e Documents Available for Download. No New Posts &middot; Documents Available for \u003cbr\u003e  Download Click on the link above to view a list of topics and \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "_ToGoAPBCZgJ",
+   "formattedUrl": "www.michworks4u.org/main/index.php/2011-11-27-20-37-35",
+   "htmlFormattedUrl": "www.\u003cb\u003emichworks\u003c/b\u003e4u.org/main/index.php/2011-11-27-20-37-35"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Census 5 co",
+   "htmlTitle": "Census 5 co",
+   "link": "http://www.michworkswc.org/pdf/censusdata.pdf",
+   "displayLink": "www.michworkswc.org",
+   "snippet": "Michigan Works! West Central. Census Data. County. 1970. 1980. % Change.   1990. % Change. 2000. % Change. 2010. Change. % Change. Lake. 5661. 7711 ...",
+   "htmlSnippet": "Michigan Works! West Central. Census Data. County. 1970. 1980. % Change. \u003cbr\u003e  1990. % Change. 2000. % Change. 2010. Change. % Change. Lake. 5661. 7711 \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "hIN5L3fGth8J",
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat",
+   "formattedUrl": "www.michworkswc.org/pdf/censusdata.pdf",
+   "htmlFormattedUrl": "www.\u003cb\u003emichworks\u003c/b\u003ewc.org/pdf/censusdata.pdf",
+   "pagemap": {
+    "metatags": [
+     {
+      "producer": "GPL Ghostscript 8.15",
+      "creationdate": "D:20110408101910",
+      "moddate": "D:20110408101910",
+      "title": "Census 5 co.xls",
+      "creator": "PScript5.dll Version 5.2.2",
+      "author": "mherron"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Veterans",
+   "htmlTitle": "Veterans",
+   "link": "http://www.michworks4u.org/main/index.php/veterans",
+   "displayLink": "www.michworks4u.org",
+   "snippet": "Each Michigan Works office has a Veterans Employment Representative that is   specially trained to assist veterans with their benefits and services. For personal ...",
+   "htmlSnippet": "Each Michigan Works office has a Veterans Employment Representative that is \u003cbr\u003e  specially trained to assist veterans with their benefits and services. For personal \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "_91X0_5NHSEJ",
+   "formattedUrl": "www.michworks4u.org/main/index.php/veterans",
+   "htmlFormattedUrl": "www.\u003cb\u003emichworks\u003c/b\u003e4u.org/main/index.php/veterans"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "www.Www-michiganworks.com",
+   "htmlTitle": "www.Www-michiganworks.com",
+   "link": "http://themecraft.net/www/www-michiganworks.com",
+   "displayLink": "themecraft.net",
+   "snippet": "5. http://www-michiganworks.com/Michigan/michiganunemployment. 6. http://  www-michiganworks.com/www-michworks-org ...",
+   "htmlSnippet": "5. http://www-michiganworks.com/Michigan/michiganunemployment. 6. http://\u003cbr\u003e  www-michiganworks.com/www-\u003cb\u003emichworks\u003c/b\u003e-org \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "sJftDP0cIu4J",
+   "formattedUrl": "themecraft.net/www/www-michiganworks.com",
+   "htmlFormattedUrl": "themecraft.net/www/www-michiganworks.com"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Contact Us",
+   "htmlTitle": "Contact Us",
+   "link": "http://www.michworks4u.org/main/index.php/contactus",
+   "displayLink": "www.michworks4u.org",
+   "snippet": "ARENAC COUNTY 4480 W. M-61. Standish, MI 48658 (989) 846-2111/9411.   CLARE COUNTY 402 N. First Street Harrison, MI 48625 (989) 539-2173 ...",
+   "htmlSnippet": "ARENAC COUNTY 4480 W. M-61. Standish, MI 48658 (989) 846-2111/9411. \u003cbr\u003e  CLARE COUNTY 402 N. First Street Harrison, MI 48625 (989) 539-2173 \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "zPb1sxn5eKsJ",
+   "formattedUrl": "www.michworks4u.org/main/index.php/contactus",
+   "htmlFormattedUrl": "www.\u003cb\u003emichworks\u003c/b\u003e4u.org/main/index.php/contactus"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Brochure Jul_Dec12",
+   "htmlTitle": "Brochure Jul_Dec12",
+   "link": "http://www.michworkswc.org/pdf/ged.pdf",
+   "displayLink": "www.michworkswc.org",
+   "snippet": "LOCATION FOR REGISTRATION. YOU MUST REGISTER IN PERSON at:   Michigan Works! Workforce Service Center. 14330 Northland Drive. Big Rapids,   MI ...",
+   "htmlSnippet": "LOCATION FOR REGISTRATION. YOU MUST REGISTER IN PERSON at: \u003cbr\u003e  Michigan Works! Workforce Service Center. 14330 Northland Drive. Big Rapids, \u003cbr\u003e  MI \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "3rtnbGys1lIJ",
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat",
+   "formattedUrl": "www.michworkswc.org/pdf/ged.pdf",
+   "htmlFormattedUrl": "www.\u003cb\u003emichworks\u003c/b\u003ewc.org/pdf/ged.pdf",
+   "pagemap": {
+    "metatags": [
+     {
+      "producer": "GPL Ghostscript 9.04",
+      "creationdate": "D:20120703140151-04'00'",
+      "moddate": "D:20120703140151-04'00'",
+      "title": "Brochure Jul_Dec12",
+      "creator": "PDFCreator Version 1.2.3",
+      "author": "cshoemaker"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Employers",
+   "htmlTitle": "Employers",
+   "link": "http://www.michworks4u.org/main/index.php/joomlaorg",
+   "displayLink": "www.michworks4u.org",
+   "snippet": "DO YOU HAVE A WORKFORCE NEED? Through the Business Services   Program and Economic Development Centers, we provide enhanced services to ...",
+   "htmlSnippet": "DO YOU HAVE A WORKFORCE NEED? Through the Business Services \u003cbr\u003e  Program and Economic Development Centers, we provide enhanced services to \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "C8pyrZyp6ysJ",
+   "formattedUrl": "www.michworks4u.org/main/index.php/joomlaorg",
+   "htmlFormattedUrl": "www.\u003cb\u003emichworks\u003c/b\u003e4u.org/main/index.php/joomlaorg"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Michigan Works! West Central",
+   "htmlTitle": "Michigan Works! West Central",
+   "link": "http://www.michworkswc.org/new_workers.html",
+   "displayLink": "www.michworkswc.org",
+   "snippet": "serves five west-central Michigan counties — Lake, Mason, Mecosta, Newaygo   and Osceola, providing services to businesses and individuals. It is a partnership ...",
+   "htmlSnippet": "serves five west-central Michigan counties — Lake, Mason, Mecosta, Newaygo \u003cbr\u003e  and Osceola, providing services to businesses and individuals. It is a partnership \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "hYgsvMaW4fAJ",
+   "formattedUrl": "www.michworkswc.org/new_workers.html",
+   "htmlFormattedUrl": "www.\u003cb\u003emichworks\u003c/b\u003ewc.org/new_workers.html",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.michworkswc.org/newgrapics/s_center2.jpg",
+      "type": "1",
+      "width": "139",
+      "height": "139"
+     }
+    ]
+   }
+  }
+ ]
+}

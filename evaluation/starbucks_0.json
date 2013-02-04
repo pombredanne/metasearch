@@ -1,0 +1,329 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "nextPage": [
+   {
+    "title": "Google Custom Search - starbucks",
+    "totalResults": "12500000",
+    "searchTerms": "starbucks",
+    "count": 10,
+    "startIndex": 11,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "017401104989814545383:mf4lavmtuva"
+   }
+  ],
+  "request": [
+   {
+    "title": "Google Custom Search - starbucks",
+    "totalResults": "12500000",
+    "searchTerms": "starbucks",
+    "count": 10,
+    "startIndex": 1,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "017401104989814545383:mf4lavmtuva"
+   }
+  ]
+ },
+ "context": {
+  "title": "College MetaSearch Comparison"
+ },
+ "searchInformation": {
+  "searchTime": 0.239694,
+  "formattedSearchTime": "0.24",
+  "totalResults": "12500000",
+  "formattedTotalResults": "12,500,000"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "Starbucks Coffee Company",
+   "htmlTitle": "\u003cb\u003eStarbucks\u003c/b\u003e Coffee Company",
+   "link": "http://www.starbucks.com/",
+   "displayLink": "www.starbucks.com",
+   "snippet": "Since 1971, Starbucks Coffee Company has been committed to ethically   sourcing and roasting the highest quality arabica coffee in the world. Today, with   stores ...",
+   "htmlSnippet": "Since 1971, \u003cb\u003eStarbucks\u003c/b\u003e Coffee Company has been committed to ethically \u003cbr\u003e  sourcing and roasting the highest quality arabica coffee in the world. Today, with \u003cbr\u003e  stores \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "GMO0dhhKkbYJ",
+   "formattedUrl": "www.starbucks.com/",
+   "htmlFormattedUrl": "www.\u003cb\u003estarbucks\u003c/b\u003e.com/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://assets.starbucks.com/assets/df55bd8abaf1402298cfd8c30b6248c5.jpg",
+      "type": "1",
+      "width": "160",
+      "height": "84"
+     }
+    ],
+    "metatags": [
+     {
+      "viewport": "width=device-width, initial-scale=1",
+      "og:title": "Starbucks Coffee Company",
+      "og:type": "company",
+      "og:url": "http://www.starbucks.com/",
+      "og:image": "http://www.starbucks.com/static/images/global/logo.png",
+      "og:site_name": "Starbucks Coffee Company",
+      "og:description": "Since 1971, Starbucks Coffee Company has been committed to ethically sourcing and roasting the highest quality arabica coffee in the world. Today, with stores around the globe, the company is the premier roaster and retailer of specialty coffee in the world.",
+      "fb:app_id": "338375791266",
+      "msvalidate.01": "1D2A423C9E7C5DAD0E53A99337302AE1"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Starbucks - Wikipedia, the free encyclopedia",
+   "htmlTitle": "\u003cb\u003eStarbucks\u003c/b\u003e - Wikipedia, the free encyclopedia",
+   "link": "http://en.wikipedia.org/wiki/Starbucks",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "Starbucks Corporation (NASDAQ: SBUX) is an international coffee company and   coffeehouse chain based in Seattle, Washington. Starbucks is the largest ...",
+   "htmlSnippet": "\u003cb\u003eStarbucks\u003c/b\u003e Corporation (NASDAQ: SBUX) is an international coffee company and \u003cbr\u003e  coffeehouse chain based in Seattle, Washington. \u003cb\u003eStarbucks\u003c/b\u003e is the largest \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "3Us0ss98ijcJ",
+   "formattedUrl": "en.wikipedia.org/wiki/Starbucks",
+   "htmlFormattedUrl": "en.wikipedia.org/wiki/\u003cb\u003eStarbucks\u003c/b\u003e",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://upload.wikimedia.org/wikipedia/en/thumb/d/d3/Starbucks_Corporation_Logo_2011.svg/150px-Starbucks_Corporation_Logo_2011.svg.png",
+      "type": "1",
+      "width": "120",
+      "height": "120"
+     }
+    ],
+    "hrecipe": [
+     {
+      "fn": "Coffee"
+     }
+    ],
+    "hcard": [
+     {
+      "fn": "Starbucks Corporation",
+      "bday": "1971-03-30",
+      "category": "Public"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Store Locator | Starbucks Coffee Company",
+   "htmlTitle": "Store Locator | \u003cb\u003eStarbucks\u003c/b\u003e Coffee Company",
+   "link": "http://www.starbucks.com/store-locator/",
+   "displayLink": "www.starbucks.com",
+   "snippet": "There's probably a Starbucks coffeehouse near you. Let's help you find it.",
+   "htmlSnippet": "There&#39;s probably a \u003cb\u003eStarbucks\u003c/b\u003e coffeehouse near you. Let&#39;s help you find it.",
+   "cacheId": "ftR8-8hR_MgJ",
+   "formattedUrl": "www.starbucks.com/store-locator/",
+   "htmlFormattedUrl": "www.\u003cb\u003estarbucks\u003c/b\u003e.com/store-locator/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://assets.starbucks.com/assets/43742c946e044977b5a9891e234e8eb9.jpg"
+     }
+    ],
+    "metatags": [
+     {
+      "viewport": "width=device-width, initial-scale=1",
+      "og:title": "Store Locator",
+      "og:type": "company",
+      "og:url": "http://www.starbucks.com/store-locator/",
+      "og:image": "http://assets.starbucks.com/assets/43742c946e044977b5a9891e234e8eb9.jpg",
+      "og:site_name": "Starbucks Coffee Company",
+      "og:description": "There's probably a Starbucks coffeehouse near you. Let's help you find it.",
+      "fb:app_id": "338375791266"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Starbucks | Facebook",
+   "htmlTitle": "\u003cb\u003eStarbucks\u003c/b\u003e | Facebook",
+   "link": "http://www.facebook.com/Starbucks",
+   "displayLink": "www.facebook.com",
+   "snippet": "Facebook is a social utility that connects people with friends and others who work  , study and live around them. People use Facebook to keep up with friends, ...",
+   "htmlSnippet": "Facebook is a social utility that connects people with friends and others who work\u003cbr\u003e  , study and live around them. People use Facebook to keep up with friends, \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "2nLJQ1Rtpt4J",
+   "formattedUrl": "www.facebook.com/Starbucks",
+   "htmlFormattedUrl": "www.facebook.com/\u003cb\u003eStarbucks\u003c/b\u003e",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://profile.ak.fbcdn.net/hprofile-ak-snc4/174556_22092443056_124829723_n.jpg",
+      "type": "1",
+      "width": "144",
+      "height": "144"
+     }
+    ],
+    "organization": [
+     {
+      "photo": "http://profile.ak.fbcdn.net/hprofile-ak-snc4/174556_22092443056_124829723_n.jpg",
+      "name": "Starbucks"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Career Center | Starbucks Coffee Company",
+   "htmlTitle": "Career Center | \u003cb\u003eStarbucks\u003c/b\u003e Coffee Company",
+   "link": "http://www.starbucks.com/career-center",
+   "displayLink": "www.starbucks.com",
+   "snippet": "Interested in working at Starbucks? Here's the right place to find out what it's like   and what job opportunities are available.",
+   "htmlSnippet": "Interested in working at \u003cb\u003eStarbucks\u003c/b\u003e? Here&#39;s the right place to find out what it&#39;s like \u003cbr\u003e  and what job opportunities are available.",
+   "cacheId": "h9hFm0SHJ_kJ",
+   "formattedUrl": "www.starbucks.com/career-center",
+   "htmlFormattedUrl": "www.\u003cb\u003estarbucks\u003c/b\u003e.com/career-center",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://assets.starbucks.com/assets/199fad2f0c814beaa71a3035cc03d070.jpg",
+      "type": "1",
+      "width": "237",
+      "height": "110"
+     }
+    ],
+    "metatags": [
+     {
+      "viewport": "width=device-width, initial-scale=1",
+      "og:title": "Career Center",
+      "og:type": "company",
+      "og:url": "http://www.starbucks.com/career-center",
+      "og:image": "http://www.starbucks.com/static/images/global/logo.png",
+      "og:site_name": "Starbucks Coffee Company",
+      "og:description": "Interested in working at Starbucks? Here’s the right place to find out what it’s like and what job opportunities are available.",
+      "fb:app_id": "338375791266"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Starbucks Coffee (Starbucks) on Twitter",
+   "htmlTitle": "\u003cb\u003eStarbucks\u003c/b\u003e Coffee (\u003cb\u003eStarbucks\u003c/b\u003e) on Twitter",
+   "link": "http://twitter.com/Starbucks/",
+   "displayLink": "twitter.com",
+   "snippet": "Freshly brewed tweets from Brad, Lee, and Paige at Starbucks. Seattle, WA · http:  //www.starbucks.com. Follow Following Unfollow Blocked Unblock Pending ...",
+   "htmlSnippet": "Freshly brewed tweets from Brad, Lee, and Paige at \u003cb\u003eStarbucks\u003c/b\u003e. Seattle, WA · http:\u003cbr\u003e  //www.\u003cb\u003estarbucks\u003c/b\u003e.com. Follow Following Unfollow Blocked Unblock Pending \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "NpCjLpx6PC0J",
+   "formattedUrl": "twitter.com/Starbucks/",
+   "htmlFormattedUrl": "twitter.com/\u003cb\u003eStarbucks\u003c/b\u003e/"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Menu | Starbucks Coffee Company",
+   "htmlTitle": "Menu | \u003cb\u003eStarbucks\u003c/b\u003e Coffee Company",
+   "link": "http://www.starbucks.com/menu",
+   "displayLink": "www.starbucks.com",
+   "snippet": "Jul 3, 2012 ... Delicious, handcrafted beverages and great-tasting food. At Starbucks, we see   these things as the secret to making life better.",
+   "htmlSnippet": "Jul 3, 2012 \u003cb\u003e...\u003c/b\u003e Delicious, handcrafted beverages and great-tasting food. At \u003cb\u003eStarbucks\u003c/b\u003e, we see \u003cbr\u003e  these things as the secret to making life better.",
+   "cacheId": "xtEwKG-zQv4J",
+   "formattedUrl": "www.starbucks.com/menu",
+   "htmlFormattedUrl": "www.\u003cb\u003estarbucks\u003c/b\u003e.com/menu",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://assets.starbucks.com/assets/36db2d5a3e8f4fe7b161cc8f0a7bd4e8.jpg",
+      "type": "1",
+      "width": "279",
+      "height": "181"
+     }
+    ],
+    "metatags": [
+     {
+      "viewport": "width=device-width, initial-scale=1",
+      "og:title": "Menu",
+      "og:type": "company",
+      "og:url": "http://www.starbucks.com/menu",
+      "og:image": "//assets.starbucks.com/assets/36db2d5a3e8f4fe7b161cc8f0a7bd4e8.jpg",
+      "og:site_name": "Starbucks Coffee Company",
+      "og:description": "Delicious, handcrafted beverages and great-tasting food. At Starbucks, we see these things as the secret to making life better.",
+      "fb:app_id": "338375791266"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "My Starbucks Idea",
+   "htmlTitle": "My \u003cb\u003eStarbucks\u003c/b\u003e Idea",
+   "link": "http://mystarbucksidea.force.com/",
+   "displayLink": "mystarbucksidea.force.com",
+   "snippet": "",
+   "htmlSnippet": "",
+   "formattedUrl": "mystarbucksidea.force.com/",
+   "htmlFormattedUrl": "my\u003cb\u003estarbucks\u003c/b\u003eidea.force.com/"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Starbucks Card | Starbucks Coffee Company",
+   "htmlTitle": "\u003cb\u003eStarbucks\u003c/b\u003e Card | \u003cb\u003eStarbucks\u003c/b\u003e Coffee Company",
+   "link": "http://www.starbucks.com/card/",
+   "displayLink": "www.starbucks.com",
+   "snippet": "A Starbucks Card is a convenient way to pay for your purchases at Starbucks,   which makes it a great gift. And with a registered Starbucks Card, you can earn   My ...",
+   "htmlSnippet": "A \u003cb\u003eStarbucks\u003c/b\u003e Card is a convenient way to pay for your purchases at \u003cb\u003eStarbucks\u003c/b\u003e, \u003cbr\u003e  which makes it a great gift. And with a registered \u003cb\u003eStarbucks\u003c/b\u003e Card, you can earn \u003cbr\u003e  My \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "BqP5Yh1VuLEJ",
+   "formattedUrl": "www.starbucks.com/card/",
+   "htmlFormattedUrl": "www.\u003cb\u003estarbucks\u003c/b\u003e.com/card/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "https://www.starbucks.com/assets/7238f42900d14008bca319c46244d356.png",
+      "type": "1",
+      "width": "222",
+      "height": "140"
+     }
+    ],
+    "metatags": [
+     {
+      "viewport": "width=device-width, initial-scale=1",
+      "og:title": "Starbucks Card",
+      "og:type": "company",
+      "og:url": "https://www.starbucks.com/card/",
+      "og:image": "/assets/35c96386262040eeb6e4939726a915ae.jpg",
+      "og:site_name": "Starbucks Coffee Company",
+      "og:description": "A Starbucks Card is a convenient way to pay for your purchases at Starbucks, which makes it a great gift. And with a registered Starbucks Card, you can earn My Starbucks Rewards for your frequent visits.",
+      "fb:app_id": "338375791266"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Starbucks® Store | Whole Bean, Ground Coffee, Makers, Grinders ...",
+   "htmlTitle": "\u003cb\u003eStarbucks\u003c/b\u003e® Store | Whole Bean, Ground Coffee, Makers, Grinders \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://www.starbucksstore.com/",
+   "displayLink": "www.starbucksstore.com",
+   "snippet": "Create an Account. Creating an account is easy. Just fill in the form on the next   page and enjoy the benefits of having an account. Create Account. Check Order ...",
+   "htmlSnippet": "Create an Account. Creating an account is easy. Just fill in the form on the next \u003cbr\u003e  page and enjoy the benefits of having an account. Create Account. Check Order \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "taj2-EdFNtMJ",
+   "formattedUrl": "www.starbucksstore.com/",
+   "htmlFormattedUrl": "www.\u003cb\u003estarbucks\u003c/b\u003estore.com/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://demandware.edgesuite.net/sits_pod13/dw/image/v2/AAFV_PRD/on/demandware.static/Sites-Starbucks-Site/Sites-starbucks-master-catalog/default/v1342848224989/images/knockouts/starbucks_pike_place_roast_k-cup_KO.jpg?sw=165&sh=165",
+      "type": "1",
+      "width": "132",
+      "height": "132"
+     }
+    ],
+    "metatags": [
+     {
+      "handheldfriendly": "true",
+      "viewport": "width=device-width",
+      "y_key": "d9dc6a315e797129",
+      "msvalidate.01": "BCD1F5443A12F066285B8EE2B41CF2F9"
+     }
+    ]
+   }
+  }
+ ]
+}

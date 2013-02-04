@@ -1,0 +1,302 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "nextPage": [
+   {
+    "title": "Google Custom Search - wilson antenna",
+    "totalResults": "623000",
+    "searchTerms": "wilson antenna",
+    "count": 10,
+    "startIndex": 71,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "017401104989814545383:mf4lavmtuva"
+   }
+  ],
+  "request": [
+   {
+    "title": "Google Custom Search - wilson antenna",
+    "totalResults": "623000",
+    "searchTerms": "wilson antenna",
+    "count": 10,
+    "startIndex": 61,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "017401104989814545383:mf4lavmtuva"
+   }
+  ],
+  "previousPage": [
+   {
+    "title": "Google Custom Search - wilson antenna",
+    "totalResults": "623000",
+    "searchTerms": "wilson antenna",
+    "count": 10,
+    "startIndex": 51,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "017401104989814545383:mf4lavmtuva"
+   }
+  ]
+ },
+ "context": {
+  "title": "College MetaSearch Comparison"
+ },
+ "searchInformation": {
+  "searchTime": 0.151521,
+  "formattedSearchTime": "0.15",
+  "totalResults": "623000",
+  "formattedTotalResults": "623,000"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "Wilson Trucker Antenna, Truck Cellular Antennas, Trucker Cell ...",
+   "htmlTitle": "\u003cb\u003eWilson\u003c/b\u003e Trucker \u003cb\u003eAntenna\u003c/b\u003e, Truck Cellular \u003cb\u003eAntennas\u003c/b\u003e, Trucker Cell \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://www.alternativewireless.com/cellular-antennas/cell-phone-antennas/wilson-antennas/wilson-trucker-antenna-cellular.html",
+   "displayLink": "www.alternativewireless.com",
+   "snippet": "Wilson Trucker Antenna was carefully designed to minimize loss and maximize   gain. Dual Band Wilson Trucker antenna covers both 800 MHz and 1900 MHz ...",
+   "htmlSnippet": "\u003cb\u003eWilson\u003c/b\u003e Trucker \u003cb\u003eAntenna\u003c/b\u003e was carefully designed to minimize loss and maximize \u003cbr\u003e  gain. Dual Band \u003cb\u003eWilson\u003c/b\u003e Trucker \u003cb\u003eantenna\u003c/b\u003e covers both 800 MHz and 1900 MHz \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "qiM8E8I1aTAJ",
+   "formattedUrl": "www.alternativewireless.com/...antennas/...antennas/wilson-antennas/wilson- trucker-antenna-cellular.html",
+   "htmlFormattedUrl": "www.alternativewireless.com/...\u003cb\u003eantennas\u003c/b\u003e/...\u003cb\u003eantennas\u003c/b\u003e/\u003cb\u003ewilson\u003c/b\u003e-\u003cb\u003eantennas\u003c/b\u003e/\u003cb\u003ewilson\u003c/b\u003e- trucker-\u003cb\u003eantenna\u003c/b\u003e-cellular.html",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://cdn.alternativewireless.com/media/catalog/product/cache/1/small_image/170x/9df78eab33525d08d6e5fb8d27136e95/w/i/wilson-trucker-lg.jpg",
+      "type": "1",
+      "width": "136",
+      "height": "136"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "wpsantennas.com - Cellular Antenna and Amplifier Reception ...",
+   "htmlTitle": "wpsantennas.com - Cellular \u003cb\u003eAntenna\u003c/b\u003e and Amplifier Reception \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://www.wpsantennas.com/inductive-antenna-adapters.aspx",
+   "displayLink": "www.wpsantennas.com",
+   "snippet": "Results 1 - 19 of 19 ... Used to connect Wilson Cellular cell phone antenna to cellular phone with an   internal antenna and no external antenna port.",
+   "htmlSnippet": "Results 1 - 19 of 19 \u003cb\u003e...\u003c/b\u003e Used to connect \u003cb\u003eWilson\u003c/b\u003e Cellular cell phone \u003cb\u003eantenna\u003c/b\u003e to cellular phone with an \u003cbr\u003e  internal \u003cb\u003eantenna\u003c/b\u003e and no external \u003cb\u003eantenna\u003c/b\u003e port.",
+   "cacheId": "XXGDJwCBClMJ",
+   "formattedUrl": "www.wpsantennas.com/inductive-antenna-adapters.aspx",
+   "htmlFormattedUrl": "www.wps\u003cb\u003eantennas\u003c/b\u003e.com/inductive-\u003cb\u003eantenna\u003c/b\u003e-adapters.aspx",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.wpsantennas.com/productimages/amplifiers/Ubooster-Sleek_thumb.jpg",
+      "type": "1",
+      "width": "77",
+      "height": "73"
+     }
+    ],
+    "metatags": [
+     {
+      "og:description": "Used to connect Wilson Cellular cell phone antenna to cellular phone with an internal antenna and no external antenna port",
+      "og:image": "http://www.wpsantennas.com/themes/migration-1/images/layout/site_logo.gif",
+      "og:title": "wpsantennas.com - Cellular Antenna and Amplifier Reception Solutions",
+      "og:site_name": "wpsantennas.com - Cellular Antenna and Amplifier Reception Solutions",
+      "og:url": "http://www.wpsantennas.com/"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Phone Signal Boosters & Antennas for Home, Office, and Buildings ...",
+   "htmlTitle": "Phone Signal Boosters &amp; \u003cb\u003eAntennas\u003c/b\u003e for Home, Office, and Buildings \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://www.wilsonelectronics.com/building-solutions.aspx",
+   "displayLink": "www.wilsonelectronics.com",
+   "snippet": "They work in areas as small as a single room to as large as a warehouse or a   multi-story building. Wilson's top performing building boosters and antennas will ...",
+   "htmlSnippet": "They work in areas as small as a single room to as large as a warehouse or a \u003cbr\u003e  multi-story building. \u003cb\u003eWilson&#39;s\u003c/b\u003e top performing building boosters and \u003cb\u003eantennas\u003c/b\u003e will \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "o_v5LUyhUmUJ",
+   "formattedUrl": "www.wilsonelectronics.com/building-solutions.aspx",
+   "htmlFormattedUrl": "www.\u003cb\u003ewilson\u003c/b\u003eelectronics.com/building-solutions.aspx"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "CB Radios,Ranger,Galaxy,Cobra,Uniden,Wilson Antenna,K40 and ...",
+   "htmlTitle": "CB Radios,Ranger,Galaxy,Cobra,Uniden,\u003cb\u003eWilson Antenna\u003c/b\u003e,K40 and \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://www.pepperelectronics.com/",
+   "displayLink": "www.pepperelectronics.com",
+   "snippet": "ranger cb radios,galaxy cb radios,cobra,uniden,wilson antenna, K40 antennas,  bearcat scanners.",
+   "htmlSnippet": "ranger cb radios,galaxy cb radios,cobra,uniden,\u003cb\u003ewilson antenna\u003c/b\u003e, K40 antennas,\u003cbr\u003e  bearcat scanners.",
+   "cacheId": "Ede7JUg6brAJ",
+   "formattedUrl": "www.pepperelectronics.com/",
+   "htmlFormattedUrl": "www.pepperelectronics.com/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.pepperelectronics.com/_borders/Logo.jpg",
+      "type": "1",
+      "width": "166",
+      "height": "84"
+     }
+    ],
+    "metatags": [
+     {
+      "microsoft border": "tlb"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "301101 - Wilson Cellular Dual-Band Trucker Mirror Mount Cell ...",
+   "htmlTitle": "301101 - \u003cb\u003eWilson\u003c/b\u003e Cellular Dual-Band Trucker Mirror Mount Cell \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://www.wpsantennas.com/301101-wilsoncellulardual-bandtruckermirrormountcellphoneantenna.aspx",
+   "displayLink": "www.wpsantennas.com",
+   "snippet": "Cell phone antenna which works great on Trucks, Homes, RVs, Boats and   Buildings. Compatible with all generations of CDMA, GSM and TDMA including   GSM, ...",
+   "htmlSnippet": "Cell phone \u003cb\u003eantenna\u003c/b\u003e which works great on Trucks, Homes, RVs, Boats and \u003cbr\u003e  Buildings. Compatible with all generations of CDMA, GSM and TDMA including \u003cbr\u003e  GSM, \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "n0h61NeIlQkJ",
+   "formattedUrl": "www.wpsantennas.com/301101-wilsoncellulardual- bandtruckermirrormountcellphoneantenna.aspx",
+   "htmlFormattedUrl": "www.wps\u003cb\u003eantennas\u003c/b\u003e.com/301101-\u003cb\u003ewilson\u003c/b\u003ecellulardual- bandtruckermirrormountcellphone\u003cb\u003eantenna\u003c/b\u003e.aspx",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.wpsantennas.com/ProductImages/antennas/Thumb_301101.JPG"
+     }
+    ],
+    "metatags": [
+     {
+      "og:title": "301101 - Wilson Cellular Dual-Band Trucker Mirror Mount Cell Phone Antenna",
+      "og:description": "Cell phone antenna which works great on Trucks, Homes, RVs, Boats and Buildings.&lt;br&gt;&lt;i&gt;Compatible with all generations of CDMA, GSM and TDMA including GSM, GPRS, EDGE, UMTS, HSDPA, CDMA, 1xRTT, EVDO, TDMA, AMPS, iDEN, Nextel&lt;/i&gt;",
+      "og:image": "http://www.wpsantennas.com/ProductImages/antennas/Thumb_301101.JPG",
+      "og:site_name": "wpsantennas.com - Cellular Antenna and Amplifier Reception Solutions",
+      "og:url": "http://www.wpsantennas.com/301101-wilsoncellulardual-bandtruckermirrormountcellphoneantenna.aspx"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Wilson Cell Signal Antenna",
+   "htmlTitle": "\u003cb\u003eWilson\u003c/b\u003e Cell Signal \u003cb\u003eAntenna\u003c/b\u003e",
+   "link": "http://powerfulsignal.com/wilson-antenna.aspx",
+   "displayLink": "powerfulsignal.com",
+   "snippet": "Results 1 - 18 of 18 ... Wilson Electronics Antennas. Complete selection of cellular building and vehicle   antennas.",
+   "htmlSnippet": "Results 1 - 18 of 18 \u003cb\u003e...\u003c/b\u003e \u003cb\u003eWilson\u003c/b\u003e Electronics \u003cb\u003eAntennas\u003c/b\u003e. Complete selection of cellular building and vehicle \u003cbr\u003e  \u003cb\u003eantennas\u003c/b\u003e.",
+   "cacheId": "D-TeV7MaRvQJ",
+   "formattedUrl": "powerfulsignal.com/wilson-antenna.aspx",
+   "htmlFormattedUrl": "powerfulsignal.com/\u003cb\u003ewilson\u003c/b\u003e-\u003cb\u003eantenna\u003c/b\u003e.aspx",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://powerfulsignal.com/images/products/thumb/wilson301123dome1.jpg",
+      "type": "1",
+      "width": "120",
+      "height": "120"
+     }
+    ],
+    "metatags": [
+     {
+      "og:description": "Wilson Electronics Antennas.  Complete selection of cellular building and vehicle antennas.",
+      "og:image": "http://powerfulsignal.com/themes/default-1-2/images/layout/site_logo.gif",
+      "og:title": "Powerful Signal LLC",
+      "og:site_name": "Powerful Signal LLC",
+      "og:url": "http://powerfulsignal.com/"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "301125 - Wilson Cellular Dual-Band Magnetic Mount Cell Phone ...",
+   "htmlTitle": "301125 - \u003cb\u003eWilson\u003c/b\u003e Cellular Dual-Band Magnetic Mount Cell Phone \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://www.wpsantennas.com/301125-wilsoncellulardual-bandmagneticmountcellphoneantennasmamale.aspx",
+   "displayLink": "www.wpsantennas.com",
+   "snippet": "This is the SMA/Male version of our best selling Wilson Cellular magnetic   antenna. It must be mounted on a metal surface (minimum 8\" diameter) to   function ...",
+   "htmlSnippet": "This is the SMA/Male version of our best selling \u003cb\u003eWilson\u003c/b\u003e Cellular magnetic \u003cbr\u003e  \u003cb\u003eantenna\u003c/b\u003e. It must be mounted on a metal surface (minimum 8&quot; diameter) to \u003cbr\u003e  function \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "lYojq0Wr5J0J",
+   "formattedUrl": "www.wpsantennas.com/301125-wilsoncellulardual- bandmagneticmountcellphoneantennasmamale.aspx",
+   "htmlFormattedUrl": "www.wps\u003cb\u003eantennas\u003c/b\u003e.com/301125-\u003cb\u003ewilson\u003c/b\u003ecellulardual- bandmagneticmountcellphone\u003cb\u003eantennas\u003c/b\u003emamale.aspx",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.wpsantennas.com/ProductImages/antennas/Thumb_301103.JPG"
+     }
+    ],
+    "metatags": [
+     {
+      "og:title": "301125 - Wilson Cellular Dual-Band Magnetic Mount Cell Phone Antenna (SMA/Male)",
+      "og:description": "Cellular/PCS portable magnetic antenna with SMA male type connector for use with application specific devices like modems and cellular/PCS devices with SMA female connections (Wilson 301125)",
+      "og:image": "http://www.wpsantennas.com/ProductImages/antennas/Thumb_301103.JPG",
+      "og:site_name": "wpsantennas.com - Cellular Antenna and Amplifier Reception Solutions",
+      "og:url": "http://www.wpsantennas.com/301125-wilsoncellulardual-bandmagneticmountcellphoneantennasmamale.aspx"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Wide Band Directional Antenna (304411/304475)",
+   "htmlTitle": "Wide Band Directional \u003cb\u003eAntenna\u003c/b\u003e (304411/304475)",
+   "link": "http://www.wilsonelectronics.com/ProductDetails.aspx?Product=124&Category=28",
+   "displayLink": "www.wilsonelectronics.com",
+   "snippet": "Full Description: Improves transmit and receive signals for 700-2500 MHz bands.   Features. Directional antenna; Mounting hardware included; For fixed ...",
+   "htmlSnippet": "Full Description: Improves transmit and receive signals for 700-2500 MHz bands. \u003cbr\u003e  Features. Directional \u003cb\u003eantenna\u003c/b\u003e; Mounting hardware included; For fixed \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "mSUVgX1M42oJ",
+   "formattedUrl": "www.wilsonelectronics.com/ProductDetails.aspx?Product=124...",
+   "htmlFormattedUrl": "www.\u003cb\u003ewilson\u003c/b\u003eelectronics.com/ProductDetails.aspx?Product=124...",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.wilsonelectronics.com/uploads/productimages/304411%20-%20Wide%20Band%20Log%20Periodic%20Antenn1142011.jpg",
+      "type": "1",
+      "width": "243",
+      "height": "160"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Arno Penzias and Robert Wilson - Bell Labs, Holmdel, NJ",
+   "htmlTitle": "Arno Penzias and Robert \u003cb\u003eWilson\u003c/b\u003e - Bell Labs, Holmdel, NJ",
+   "link": "http://www.aps.org/programs/outreach/history/historicsites/penziaswilson.cfm",
+   "displayLink": "www.aps.org",
+   "snippet": "Bell Labs radio astronomers Arno Penzias and Robert Wilson were using a large   horn antenna in 1964 and 1965 to map signals from the Milky Way, when they ...",
+   "htmlSnippet": "Bell Labs radio astronomers Arno Penzias and Robert \u003cb\u003eWilson\u003c/b\u003e were using a large \u003cbr\u003e  horn \u003cb\u003eantenna\u003c/b\u003e in 1964 and 1965 to map signals from the Milky Way, when they \u003cb\u003e...\u003c/b\u003e",
+   "formattedUrl": "www.aps.org/programs/outreach/history/historicsites/penziaswilson.cfm",
+   "htmlFormattedUrl": "www.aps.org/programs/outreach/history/historicsites/penzias\u003cb\u003ewilson\u003c/b\u003e.cfm"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "304475 - Wilson Cellular 800MHz-2500MHz 75 Ohm Wide-Band Log",
+   "htmlTitle": "304475 - \u003cb\u003eWilson\u003c/b\u003e Cellular 800MHz-2500MHz 75 Ohm Wide-Band Log",
+   "link": "http://www.wpsantennas.com/304475-wilson-cellular-wide-band-yagi-antenna.aspx",
+   "displayLink": "www.wpsantennas.com",
+   "snippet": "High gain 75 Ohm, directional Wide/Multi band cell phone antenna - for 800/  850MHz Cellular and 1900MHz PCS, 800/900MHz iDEN/Nextel/SMR, Euro/  Asian ...",
+   "htmlSnippet": "High gain 75 Ohm, directional Wide/Multi band cell phone \u003cb\u003eantenna\u003c/b\u003e - for 800/\u003cbr\u003e  850MHz Cellular and 1900MHz PCS, 800/900MHz iDEN/Nextel/SMR, Euro/\u003cbr\u003e  Asian \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "L_XVEVzic-EJ",
+   "formattedUrl": "www.wpsantennas.com/304475-wilson-cellular-wide-band-yagi-antenna.aspx",
+   "htmlFormattedUrl": "www.wps\u003cb\u003eantennas\u003c/b\u003e.com/304475-\u003cb\u003ewilson\u003c/b\u003e-cellular-wide-band-yagi-\u003cb\u003eantenna\u003c/b\u003e.aspx",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.wpsantennas.com/productimages/antennas/304411.jpg",
+      "type": "1",
+      "width": "270",
+      "height": "187"
+     }
+    ],
+    "metatags": [
+     {
+      "og:title": "304475 - Wilson Cellular 800MHz-2500MHz 75 Ohm Wide-Band Log Periodic Yagi/Directional Cellular/PCS/iDEN Cell Phone Antenna",
+      "og:description": "High gain 75 Ohm, directional Wide/Multi band cell phone antenna - for 800/850MHz Cellular and 1900MHz PCS, 800/900MHz iDEN/Nextel/SMR, Euro/Asian standard 900MHz and 1800MHz, WCDMA 2.1GHz and the 2.5GHz WiFi band. &lt;br&gt;&lt;i&gt;",
+      "og:image": "http://www.wpsantennas.com/productimages/antennas/304411_Thumb.jpg",
+      "og:site_name": "wpsantennas.com - Cellular Antenna and Amplifier Reception Solutions",
+      "og:url": "http://www.wpsantennas.com/304475-wilson-cellular-wide-band-yagi-antenna.aspx"
+     }
+    ]
+   }
+  }
+ ]
+}

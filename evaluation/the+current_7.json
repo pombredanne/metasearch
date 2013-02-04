@@ -1,0 +1,235 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "nextPage": [
+   {
+    "title": "Google Custom Search - the current",
+    "totalResults": "1650000000",
+    "searchTerms": "the current",
+    "count": 10,
+    "startIndex": 81,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "017401104989814545383:mf4lavmtuva"
+   }
+  ],
+  "request": [
+   {
+    "title": "Google Custom Search - the current",
+    "totalResults": "1650000000",
+    "searchTerms": "the current",
+    "count": 10,
+    "startIndex": 71,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "017401104989814545383:mf4lavmtuva"
+   }
+  ],
+  "previousPage": [
+   {
+    "title": "Google Custom Search - the current",
+    "totalResults": "1650000000",
+    "searchTerms": "the current",
+    "count": 10,
+    "startIndex": 61,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "017401104989814545383:mf4lavmtuva"
+   }
+  ]
+ },
+ "context": {
+  "title": "College MetaSearch Comparison"
+ },
+ "searchInformation": {
+  "searchTime": 0.167534,
+  "formattedSearchTime": "0.17",
+  "totalResults": "1650000000",
+  "formattedTotalResults": "1,650,000,000"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "Current local time in Australia – New South Wales – Sydney",
+   "htmlTitle": "\u003cb\u003eCurrent\u003c/b\u003e local time in Australia – New South Wales – Sydney",
+   "link": "http://www.timeanddate.com/worldclock/city.html?n=240/",
+   "displayLink": "www.timeanddate.com",
+   "snippet": "Find out current local time in Sydney – New South Wales – Australia. Get   Sydney's weather and area codes, time zone and DST. Explore Sydney's sunrise   and ...",
+   "htmlSnippet": "Find out \u003cb\u003ecurrent\u003c/b\u003e local time in Sydney – New South Wales – Australia. Get \u003cbr\u003e  Sydney&#39;s weather and area codes, time zone and DST. Explore Sydney&#39;s sunrise \u003cbr\u003e  and \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "lxElK_KQoQgJ",
+   "formattedUrl": "www.timeanddate.com/worldclock/city.html?n=240/",
+   "htmlFormattedUrl": "www.timeanddate.com/worldclock/city.html?n=240/"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "The World Time Server: current local time and date in any zone",
+   "htmlTitle": "The World Time Server: \u003cb\u003ecurrent\u003c/b\u003e local time and date in any zone",
+   "link": "http://www.worldtimeserver.com/",
+   "displayLink": "www.worldtimeserver.com",
+   "snippet": "World Time Server shows current local time and date in cities and countries in all   time zones, adjusted for Daylight Saving Time rules automatically.",
+   "htmlSnippet": "World Time Server shows \u003cb\u003ecurrent\u003c/b\u003e local time and date in cities and countries in all \u003cbr\u003e  time zones, adjusted for Daylight Saving Time rules automatically.",
+   "cacheId": "qc38h-6swWEJ",
+   "formattedUrl": "www.worldtimeserver.com/",
+   "htmlFormattedUrl": "www.worldtimeserver.com/"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "USA Population - The Current Population of the USA",
+   "htmlTitle": "USA Population - \u003cb\u003eThe Current\u003c/b\u003e Population of the USA",
+   "link": "http://geography.about.com/od/obtainpopulationdata/a/uspopulation.htm",
+   "displayLink": "geography.about.com",
+   "snippet": "The current USA population is above 300 million and expected to rise. Learn   about the population of the USA from your About.com expert Guide to Geography  .",
+   "htmlSnippet": "\u003cb\u003eThe current\u003c/b\u003e USA population is above 300 million and expected to rise. Learn \u003cbr\u003e  about the population of the USA from your About.com expert Guide to Geography\u003cbr\u003e  .",
+   "cacheId": "wPhvWoczhVoJ",
+   "formattedUrl": "geography.about.com/od/obtainpopulationdata/a/uspopulation.htm",
+   "htmlFormattedUrl": "geography.about.com/od/obtainpopulationdata/a/uspopulation.htm",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://0.tqn.com/d/geography/1/G/-/5/1/200275076-001.jpg",
+      "type": "1",
+      "width": "128",
+      "height": "128"
+     }
+    ],
+    "metatags": [
+     {
+      "pd": "Monday, 09-Apr-2012 22:48:15 UTC",
+      "og:title": "Current U.S.A. Population",
+      "og:type": "article",
+      "og:image": "http://0.tqn.com/d/geography/1/G/-/5/1/200275076-001.jpg",
+      "og:url": "http://geography.about.com/od/obtainpopulationdata/a/uspopulation.htm",
+      "og:site_name": "About.com Geography",
+      "fb:app_id": "121030274606741"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "current gallery | baltimore, maryland",
+   "htmlTitle": "\u003cb\u003ecurrent\u003c/b\u003e gallery | baltimore, maryland",
+   "link": "http://www.currentspace.com/",
+   "displayLink": "www.currentspace.com",
+   "snippet": "links; great stuff. Join. zipcode. enter your email. Join. Ok. enter your email.   Please enter a valid email. ||| Current Gallery | 421 N Howard | Baltimore, MD   21201 |||",
+   "htmlSnippet": "links; great stuff. Join. zipcode. enter your email. Join. Ok. enter your email. \u003cbr\u003e  Please enter a valid email. ||| \u003cb\u003eCurrent\u003c/b\u003e Gallery | 421 N Howard | Baltimore, MD \u003cbr\u003e  21201 |||",
+   "cacheId": "o-49f_RAkacJ",
+   "formattedUrl": "www.currentspace.com/",
+   "htmlFormattedUrl": "www.\u003cb\u003ecurrent\u003c/b\u003espace.com/"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Current local time in California, United States",
+   "htmlTitle": "\u003cb\u003eCurrent\u003c/b\u003e local time in California, United States",
+   "link": "http://www.worldtimeserver.com/current_time_in_US-CA.aspx",
+   "displayLink": "www.worldtimeserver.com",
+   "snippet": "California, United States - get the current local time and date before placing a   telephone call or making travel plans for a cheap flight or discount hotel, provided ...",
+   "htmlSnippet": "California, United States - get \u003cb\u003ethe current\u003c/b\u003e local time and date before placing a \u003cbr\u003e  telephone call or making travel plans for a cheap flight or discount hotel, provided \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "p82mHACs8o0J",
+   "formattedUrl": "www.worldtimeserver.com/current_time_in_US-CA.aspx",
+   "htmlFormattedUrl": "www.worldtimeserver.com/\u003cb\u003ecurrent\u003c/b\u003e_time_in_US-CA.aspx",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.worldtimeserver.com/images/maps/US-CA.jpg",
+      "type": "1",
+      "width": "182",
+      "height": "114"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Current local time in U.S.A. – New York – New York",
+   "htmlTitle": "\u003cb\u003eCurrent\u003c/b\u003e local time in U.S.A. – New York – New York",
+   "link": "http://www.timeanddate.com/worldclock/city.html?n=179/",
+   "displayLink": "www.timeanddate.com",
+   "snippet": "Find out current local time in New York – New York – U.S.A.. Get New York's   weather and area codes, time zone and DST. Explore New York's sunrise and ...",
+   "htmlSnippet": "Find out \u003cb\u003ecurrent\u003c/b\u003e local time in New York – New York – U.S.A.. Get New York&#39;s \u003cbr\u003e  weather and area codes, time zone and DST. Explore New York&#39;s sunrise and \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "3-MiLOC7TekJ",
+   "formattedUrl": "www.timeanddate.com/worldclock/city.html?n=179/",
+   "htmlFormattedUrl": "www.timeanddate.com/worldclock/city.html?n=179/"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "The Current of Mays Landing, Hamilton Township, Egg Harbor City ...",
+   "htmlTitle": "\u003cb\u003eThe Current\u003c/b\u003e of Mays Landing, Hamilton Township, Egg Harbor City \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://shorenewstoday.com/snt/ham/",
+   "displayLink": "shorenewstoday.com",
+   "snippet": "The Current Hamilton Township & Mays Landing :: News, Community, Events,   Sports, Classifieds.",
+   "htmlSnippet": "\u003cb\u003eThe Current\u003c/b\u003e Hamilton Township &amp; Mays Landing :: News, Community, Events, \u003cbr\u003e  Sports, Classifieds.",
+   "cacheId": "sAAGTqVUrgEJ",
+   "formattedUrl": "shorenewstoday.com/snt/ham/",
+   "htmlFormattedUrl": "shorenewstoday.com/snt/ham/"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Current local time in Australia – Victoria – Melbourne",
+   "htmlTitle": "\u003cb\u003eCurrent\u003c/b\u003e local time in Australia – Victoria – Melbourne",
+   "link": "http://www.timeanddate.com/worldclock/city.html?n=152/",
+   "displayLink": "www.timeanddate.com",
+   "snippet": "Find out current local time in Melbourne – Victoria – Australia. Get Melbourne's   weather and area codes, time zone and DST. Explore Melbourne's sunrise and ...",
+   "htmlSnippet": "Find out \u003cb\u003ecurrent\u003c/b\u003e local time in Melbourne – Victoria – Australia. Get Melbourne&#39;s \u003cbr\u003e  weather and area codes, time zone and DST. Explore Melbourne&#39;s sunrise and \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "H6dM5oFMblAJ",
+   "formattedUrl": "www.timeanddate.com/worldclock/city.html?n=152/",
+   "htmlFormattedUrl": "www.timeanddate.com/worldclock/city.html?n=152/"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "thecurrentmoment",
+   "htmlTitle": "thecurrentmoment",
+   "link": "http://thecurrentmoment.wordpress.com/",
+   "displayLink": "thecurrentmoment.wordpress.com",
+   "snippet": "A feature of economic crises is that they propel into the spotlight the more   obscure parts of markets and of capitalism. The Eurozone crisis has made   everyone ...",
+   "htmlSnippet": "A feature of economic crises is that they propel into the spotlight the more \u003cbr\u003e  obscure parts of markets and of capitalism. The Eurozone crisis has made \u003cbr\u003e  everyone \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "eNmzS8elKNUJ",
+   "formattedUrl": "thecurrentmoment.wordpress.com/",
+   "htmlFormattedUrl": "\u003cb\u003ethecurrent\u003c/b\u003emoment.wordpress.com/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://1.gravatar.com/blavatar/54eb721e10b07c5e5c3883d16ccb2944?s=300",
+      "type": "1",
+      "width": "225",
+      "height": "225"
+     }
+    ],
+    "metatags": [
+     {
+      "og:type": "blog",
+      "og:title": "thecurrentmoment",
+      "og:url": "http://thecurrentmoment.wordpress.com/",
+      "og:description": "On the politics and economics of the present",
+      "og:site_name": "thecurrentmoment",
+      "og:image": "http://1.gravatar.com/blavatar/54eb721e10b07c5e5c3883d16ccb2944?s=300",
+      "fb:app_id": "249643311490",
+      "application-name": "thecurrentmoment",
+      "msapplication-window": "width=device-width;height=device-height",
+      "msapplication-tooltip": "On the politics and economics of the present",
+      "msapplication-task": "name=Subscribe;action-uri=http://thecurrentmoment.wordpress.com/feed/;icon-uri=http://1.gravatar.com/blavatar/7dbd19515c43ed9ef107c51d2e643037?s=16"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Current local time in U.S.A. – California – Los Angeles",
+   "htmlTitle": "\u003cb\u003eCurrent\u003c/b\u003e local time in U.S.A. – California – Los Angeles",
+   "link": "http://www.timeanddate.com/worldclock/city.html?n=137",
+   "displayLink": "www.timeanddate.com",
+   "snippet": "Find out current local time in Los Angeles – California – U.S.A.. Get Los   Angeles's weather and area codes, time zone and DST. Explore Los Angeles's   sunrise ...",
+   "htmlSnippet": "Find out \u003cb\u003ecurrent\u003c/b\u003e local time in Los Angeles – California – U.S.A.. Get Los \u003cbr\u003e  Angeles&#39;s weather and area codes, time zone and DST. Explore Los Angeles&#39;s \u003cbr\u003e  sunrise \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "kaTiXya6EVgJ",
+   "formattedUrl": "www.timeanddate.com/worldclock/city.html?n=137",
+   "htmlFormattedUrl": "www.timeanddate.com/worldclock/city.html?n=137"
+  }
+ ]
+}

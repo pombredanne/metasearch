@@ -1,0 +1,369 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "nextPage": [
+   {
+    "title": "Google Custom Search - getting organized",
+    "totalResults": "27000000",
+    "searchTerms": "getting organized",
+    "count": 10,
+    "startIndex": 31,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "017401104989814545383:mf4lavmtuva"
+   }
+  ],
+  "request": [
+   {
+    "title": "Google Custom Search - getting organized",
+    "totalResults": "27000000",
+    "searchTerms": "getting organized",
+    "count": 10,
+    "startIndex": 21,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "017401104989814545383:mf4lavmtuva"
+   }
+  ],
+  "previousPage": [
+   {
+    "title": "Google Custom Search - getting organized",
+    "totalResults": "27000000",
+    "searchTerms": "getting organized",
+    "count": 10,
+    "startIndex": 11,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "017401104989814545383:mf4lavmtuva"
+   }
+  ]
+ },
+ "context": {
+  "title": "College MetaSearch Comparison"
+ },
+ "searchInformation": {
+  "searchTime": 0.146836,
+  "formattedSearchTime": "0.15",
+  "totalResults": "27000000",
+  "formattedTotalResults": "27,000,000"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "Organize, Focus, Get It Done",
+   "htmlTitle": "\u003cb\u003eOrganize\u003c/b\u003e, Focus, \u003cb\u003eGet\u003c/b\u003e It Done",
+   "link": "http://kidshealth.org/kid/feeling/school/organize_focus.html",
+   "displayLink": "kidshealth.org",
+   "snippet": "Take these three steps and you'll do better in school.",
+   "htmlSnippet": "Take these three steps and you&#39;ll do better in school.",
+   "cacheId": "9bb0RK9PLIEJ",
+   "formattedUrl": "kidshealth.org/kid/feeling/school/organize_focus.html",
+   "htmlFormattedUrl": "kidshealth.org/kid/feeling/school/\u003cb\u003eorganize\u003c/b\u003e_focus.html",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://kidshealth.org/kid/feeling/school/headers_88213/K_get_it_done1.gif",
+      "type": "1",
+      "width": "348",
+      "height": "126"
+     }
+    ],
+    "metatags": [
+     {
+      "notify": "N",
+      "site": "MOTHERSHIP"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Get Organized! | Home",
+   "htmlTitle": "\u003cb\u003eGet Organized\u003c/b\u003e! | Home",
+   "link": "http://www.getorganized.ws/",
+   "displayLink": "www.getorganized.ws",
+   "snippet": "DFW Professional Home Organizing Services – As seen on Good Morning Texas  , Good Day Fox and CBS 11. Lorraine Brock, founder and President of “Get ...",
+   "htmlSnippet": "DFW Professional Home \u003cb\u003eOrganizing\u003c/b\u003e Services – As seen on Good Morning Texas\u003cbr\u003e  , Good Day Fox and CBS 11. Lorraine Brock, founder and President of “\u003cb\u003eGet\u003c/b\u003e \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "4Mr-7JFOiYAJ",
+   "formattedUrl": "www.getorganized.ws/",
+   "htmlFormattedUrl": "www.\u003cb\u003egetorganized\u003c/b\u003e.ws/",
+   "pagemap": {
+    "metatags": [
+     {
+      "refresh": "30",
+      "copyright": "The contents of this site are © 2007-2012, Get Organized! All rights reserved",
+      "author": "Get Organized!",
+      "resource-type": "DOCUMENT",
+      "distribution": "GLOBAL",
+      "rating": "GENERAL"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "20 Ideas to Help Students Get Organized",
+   "htmlTitle": "20 Ideas to Help Students \u003cb\u003eGet Organized\u003c/b\u003e",
+   "link": "http://www.getorganizednow.com/art-students.html",
+   "displayLink": "www.getorganizednow.com",
+   "snippet": "GON Articles Get Organized Now! home of clutter tips, time ...",
+   "htmlSnippet": "GON Articles \u003cb\u003eGet Organized\u003c/b\u003e Now! home of clutter tips, time \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "_P6nGTiyLzIJ",
+   "formattedUrl": "www.getorganizednow.com/art-students.html",
+   "htmlFormattedUrl": "www.\u003cb\u003egetorganized\u003c/b\u003enow.com/art-students.html",
+   "pagemap": {
+    "metatags": [
+     {
+      "xar files": "art-3filing_html_files/xr_files.txt"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "HowStuffWorks \"5 Tips for Getting Organized at Work\"",
+   "htmlTitle": "HowStuffWorks &quot;5 Tips for \u003cb\u003eGetting Organized\u003c/b\u003e at Work&quot;",
+   "link": "http://money.howstuffworks.com/business/starting-a-job/5-tips-for-getting-organized-at-work.htm",
+   "displayLink": "money.howstuffworks.com",
+   "snippet": "A little organization at the office can go a long way. Check out 5 tips for getting   organized at work at HowStuffWorks.",
+   "htmlSnippet": "A little organization at the office can go a long way. Check out 5 tips for \u003cb\u003egetting\u003c/b\u003e \u003cbr\u003e  \u003cb\u003eorganized\u003c/b\u003e at work at HowStuffWorks.",
+   "cacheId": "L9K8FVPHS44J",
+   "formattedUrl": "money.howstuffworks.com/.../5-tips-for-getting-organized-at-work.htm",
+   "htmlFormattedUrl": "money.howstuffworks.com/.../5-tips-for-\u003cb\u003egetting\u003c/b\u003e-\u003cb\u003eorganized\u003c/b\u003e-at-work.htm",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://static.ddmcdn.com/gif/5-tips-organized-work-1.jpg",
+      "type": "1",
+      "width": "200",
+      "height": "120"
+     }
+    ],
+    "metatags": [
+     {
+      "og:type": "article",
+      "og:title": "HowStuffWorks \"5 Tips for Getting Organized at Work\"",
+      "og:url": "http://money.howstuffworks.com/business/starting-a-job/5-tips-for-getting-organized-at-work.htm",
+      "og:site_name": "HowStuffWorks",
+      "og:description": "A little organization at the office can go a long way. Check out 5 tips for getting organized at work at HowStuffWorks.",
+      "fb:admins": "100001675325868",
+      "fb:app_id": "125879910816296",
+      "og:image": "http://static.ddmcdn.com/5-tips-organized-work-ch150.jpg"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Get Organized Blog: Personal Organizing & Home Organization Tips",
+   "htmlTitle": "\u003cb\u003eGet Organized\u003c/b\u003e Blog: Personal Organizing &amp; Home Organization Tips",
+   "link": "http://www.getorganizedwizard.com/blog/",
+   "displayLink": "www.getorganizedwizard.com",
+   "snippet": "The Get Organized Wizard Blog - Design the organized life and home you crave.   100% fluff free.",
+   "htmlSnippet": "The \u003cb\u003eGet Organized\u003c/b\u003e Wizard Blog - Design the organized life and home you crave. \u003cbr\u003e  100% fluff free.",
+   "cacheId": "NtC-GuFeyVgJ",
+   "formattedUrl": "www.getorganizedwizard.com/blog/",
+   "htmlFormattedUrl": "www.\u003cb\u003egetorganized\u003c/b\u003ewizard.com/blog/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.getorganizedwizard.com/wp-content/uploads/2012/07/photodune-1882665-lustrous-wooden-cabinet-with-regret-file-label-in-dramatic-light-xs.jpg",
+      "type": "1",
+      "width": "275",
+      "height": "183"
+     }
+    ],
+    "metatags": [
+     {
+      "msvalidate.01": "90D0F6616B35C78AC47442C7C268891E",
+      "fb:page_id": "153820389256",
+      "og:type": "article",
+      "og:url": "http://www.getorganizedwizard.com/blog/",
+      "og:title": "Blog",
+      "og:site_name": "Get Organized Wizard",
+      "og:locale": "en_US",
+      "og:description": "Get Organized Wizard",
+      "fb:app_id": "212730858848900",
+      "fb:admins": "578998003"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "How Much Time Should You Spend Getting Organized? None | Inc ...",
+   "htmlTitle": "How Much Time Should You Spend \u003cb\u003eGetting Organized\u003c/b\u003e? None | Inc \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://www.inc.com/jessica-stillman/how-much-time-should-you-spend-getting-organized-none.html",
+   "displayLink": "www.inc.com",
+   "snippet": "An MIT technologist argues that our old-fashioned approach to organization is a   giant waste of time, Jessica Stillman writes for Inc.com.",
+   "htmlSnippet": "An MIT technologist argues that our old-fashioned approach to \u003cb\u003eorganization\u003c/b\u003e is a \u003cbr\u003e  giant waste of time, Jessica Stillman writes for Inc.com.",
+   "cacheId": "Su3x3r2AoWUJ",
+   "formattedUrl": "www.inc.com/.../how-much-time-should-you-spend-getting-organized-none. html",
+   "htmlFormattedUrl": "www.inc.com/.../how-much-time-should-you-spend-\u003cb\u003egetting\u003c/b\u003e-\u003cb\u003eorganized\u003c/b\u003e-none. html",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.inc.com/uploaded_files/image/file-folders-bkt_13188.jpg",
+      "type": "1",
+      "width": "225",
+      "height": "225"
+     }
+    ],
+    "metatags": [
+     {
+      "title": "How Much Time Should You Spend Getting Organized? None",
+      "original-source": "http://www.inc.com/jessica-stillman/how-much-time-should-you-spend-getting-organized-none.html",
+      "og:title": "How Much Time Should You Spend Getting Organized? None",
+      "og:description": "An MIT technologist argues that for many of us our old-fashioned approach to organization (i.e. our impulse to sort and file everything) is a giant waste of time.",
+      "og:type": "article",
+      "og:url": "http://www.inc.com/jessica-stillman/how-much-time-should-you-spend-getting-organized-none.html",
+      "og:image": "http://www.inc.com/uploaded_files/image/file-folders-bkt_13188.jpg",
+      "og:site_name": "Inc.com",
+      "fb:app_id": "139291179414843"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Amazon.com: Getting Organized in the Google Era: How to Get Stuff ...",
+   "htmlTitle": "Amazon.com: \u003cb\u003eGetting Organized\u003c/b\u003e in the Google Era: How to Get Stuff \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://www.amazon.com/Getting-Organized-Google-Era-Stuff/dp/030771246X",
+   "displayLink": "www.amazon.com",
+   "snippet": "Getting Organized in the Google Era: How to Get Stuff out of Your Head, Find It   When You Need It, and Get It Done Right [James A. Martin, Douglas Merrill] on ...",
+   "htmlSnippet": "\u003cb\u003eGetting Organized\u003c/b\u003e in the Google Era: How to Get Stuff out of Your Head, Find It \u003cbr\u003e  When You Need It, and Get It Done Right [James A. Martin, Douglas Merrill] on \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "SpTpExeolYAJ",
+   "formattedUrl": "www.amazon.com/Getting-Organized-Google-Era.../030771246X",
+   "htmlFormattedUrl": "www.amazon.com/\u003cb\u003eGetting\u003c/b\u003e-\u003cb\u003eOrganized\u003c/b\u003e-Google-Era.../030771246X",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://ecx.images-amazon.com/images/I/51tRgZuT%2B4L._BO2,204,203,200_PIsitb-sticker-arrow-click,TopRight,35,-76_AA300_SH20_OU01_.jpg"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "225",
+      "height": "225",
+      "src": "https://encrypted-tbn1.google.com/images?q=tbn:ANd9GcTsYvDCGuo126lzfSKukQkA-tHfGkzmy3YQ4eqQmrK4uzkKcIhCZ_bNts-d"
+     }
+    ],
+    "scraped": [
+     {
+      "image_link": "http://ecx.images-amazon.com/images/I/51tRgZuT%2B4L._BO2,204,203,200_PIsitb-sticker-arrow-click,TopRight,35,-76_AA300_SH20_OU01_.jpg"
+     }
+    ],
+    "metatags": [
+     {
+      "title": "Amazon.com: Getting Organized in the Google Era: How to Get Stuff out of Your Head, Find It When You Need It, and Get It Done Right (9780307712462): James A. Martin, Douglas Merrill: Books"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "How to Get Organized - Ways to Organize Your Home - Good ...",
+   "htmlTitle": "How to \u003cb\u003eGet Organized\u003c/b\u003e - Ways to Organize Your Home - Good \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://www.goodhousekeeping.com/home/cleaning-organizing/how-to-get-organized",
+   "displayLink": "www.goodhousekeeping.com",
+   "snippet": "Don't let all your stuff rule your life! Find out how to finally get organized this year   with our top tips.",
+   "htmlSnippet": "Don&#39;t let all your stuff rule your life! Find out how to finally \u003cb\u003eget organized\u003c/b\u003e this year \u003cbr\u003e  with our top tips.",
+   "cacheId": "f4fxRjAu8YYJ",
+   "formattedUrl": "www.goodhousekeeping.com/...organizing/how-to-get-organized",
+   "htmlFormattedUrl": "www.goodhousekeeping.com/...\u003cb\u003eorganizing\u003c/b\u003e/how-to-\u003cb\u003eget\u003c/b\u003e-\u003cb\u003eorganized\u003c/b\u003e",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.goodhousekeeping.com/cm/goodhousekeeping/images/rx/rain-boot-tray-0410-mdn.jpg",
+      "type": "1",
+      "width": "225",
+      "height": "225"
+     }
+    ],
+    "metatags": [
+     {
+      "og:type": "article",
+      "og:site_name": "Good Housekeeping",
+      "fb:app_id": "119423528138309",
+      "og:title": "How to Get Organized - Ways to Organize Your Home",
+      "og:description": "Don't let all your stuff rule your life! Find out how to finally get organized this year with our top tips.",
+      "og:image": "http://www.goodhousekeeping.com/cm/goodhousekeeping/images/7u/dog-on-floor-fb.jpg",
+      "og:url": "http://www.goodhousekeeping.com/home/cleaning-organizing/how-to-get-organized?src=soc_fcbk"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Amazon.com: Get Organized (9781401889135): Ron Fry: Books",
+   "htmlTitle": "Amazon.com: \u003cb\u003eGet Organized\u003c/b\u003e (9781401889135): Ron Fry: Books",
+   "link": "http://www.amazon.com/Get-Organized-Ron-Fry/dp/1401889131",
+   "displayLink": "www.amazon.com",
+   "snippet": "Review. These are must-read guides every family should have in their library.   These books belong in every secondary library and perhaps in every English ...",
+   "htmlSnippet": "Review. These are must-read guides every family should have in their library. \u003cbr\u003e  These books belong in every secondary library and perhaps in every English \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "-4BXnFZUDsIJ",
+   "formattedUrl": "www.amazon.com/Get-Organized-Ron-Fry/dp/1401889131",
+   "htmlFormattedUrl": "www.amazon.com/\u003cb\u003eGet\u003c/b\u003e-\u003cb\u003eOrganized\u003c/b\u003e-Ron-Fry/dp/1401889131",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://ecx.images-amazon.com/images/I/414mJWUP2oL._SL500_AA300_.jpg"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "225",
+      "height": "225",
+      "src": "https://encrypted-tbn0.google.com/images?q=tbn:ANd9GcTvDAfDqSAVkrIauX4wqKrQAuGzM1NrLJTYsiQrhTDxBKejD17RmtIM6RHO"
+     }
+    ],
+    "scraped": [
+     {
+      "image_link": "http://ecx.images-amazon.com/images/I/414mJWUP2oL._SL500_AA300_.jpg"
+     }
+    ],
+    "metatags": [
+     {
+      "title": "Amazon.com: Get Organized (9781401889135): Ron Fry: Books"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Getting Organized with Evernote » Productivity » Tools and Tech ...",
+   "htmlTitle": "\u003cb\u003eGetting Organized\u003c/b\u003e with Evernote » Productivity » Tools and Tech \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://www.brasstackthinking.com/2010/06/getting-organized-with-evernote/",
+   "displayLink": "www.brasstackthinking.com",
+   "snippet": "I heart Evernote. I've mentioned that more than once, and because of my   unnatural affection for an application, I presume that everyone has discovered its ...",
+   "htmlSnippet": "I heart Evernote. I&#39;ve mentioned that more than once, and because of my \u003cbr\u003e  unnatural affection for an application, I presume that everyone has discovered its \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "m_iKtlxSvuUJ",
+   "formattedUrl": "www.brasstackthinking.com/2010/.../getting-organized-with-evernote/",
+   "htmlFormattedUrl": "www.brasstackthinking.com/2010/.../\u003cb\u003egetting\u003c/b\u003e-\u003cb\u003eorganized\u003c/b\u003e-with-evernote/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.zath.co.uk/wp-content/uploads/2010/01/evernote-logo.jpg",
+      "type": "1",
+      "width": "193",
+      "height": "170"
+     }
+    ],
+    "metatags": [
+     {
+      "handheldfriendly": "false",
+      "author": "Brass Tack Thinking",
+      "copyright": "Copyright 2012 Brass Tack Thinking"
+     }
+    ]
+   }
+  }
+ ]
+}

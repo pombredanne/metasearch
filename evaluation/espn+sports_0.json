@@ -1,0 +1,328 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "nextPage": [
+   {
+    "title": "Google Custom Search - espn sports",
+    "totalResults": "64500000",
+    "searchTerms": "espn sports",
+    "count": 10,
+    "startIndex": 11,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "017401104989814545383:mf4lavmtuva"
+   }
+  ],
+  "request": [
+   {
+    "title": "Google Custom Search - espn sports",
+    "totalResults": "64500000",
+    "searchTerms": "espn sports",
+    "count": 10,
+    "startIndex": 1,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "017401104989814545383:mf4lavmtuva"
+   }
+  ]
+ },
+ "context": {
+  "title": "College MetaSearch Comparison"
+ },
+ "searchInformation": {
+  "searchTime": 0.281203,
+  "formattedSearchTime": "0.28",
+  "totalResults": "64500000",
+  "formattedTotalResults": "64,500,000"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "ESPN: The Worldwide Leader In Sports",
+   "htmlTitle": "\u003cb\u003eESPN\u003c/b\u003e: The Worldwide Leader In \u003cb\u003eSports\u003c/b\u003e",
+   "link": "http://espn.go.com/",
+   "displayLink": "espn.go.com",
+   "snippet": "ESPN.com provides comprehensive sports coverage. Complete sports   information including NFL, MLB, NBA, College Football, College Basketball   scores and ...",
+   "htmlSnippet": "\u003cb\u003eESPN\u003c/b\u003e.com provides comprehensive \u003cb\u003esports\u003c/b\u003e coverage. Complete \u003cb\u003esports\u003c/b\u003e \u003cbr\u003e  information including NFL, MLB, NBA, College Football, College Basketball \u003cbr\u003e  scores and \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "ssdn4F46EEYJ",
+   "formattedUrl": "espn.go.com/",
+   "htmlFormattedUrl": "\u003cb\u003eespn\u003c/b\u003e.go.com/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://a.espncdn.com/photo/2012/0722/pga_g_scott15_576.jpg",
+      "type": "1",
+      "width": "300",
+      "height": "168"
+     }
+    ],
+    "metatags": [
+     {
+      "msvalidate.01": "B1FEB7C682C46C8FCDA3130F3D18AC28",
+      "fb:admins": "771834624",
+      "fb:app_id": "116656161708917",
+      "slice": "off"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Sports News | Wide World of Sports - ABC News",
+   "htmlTitle": "\u003cb\u003eSports\u003c/b\u003e News | Wide World of \u003cb\u003eSports\u003c/b\u003e - ABC News",
+   "link": "http://abcnews.go.com/Sports/",
+   "displayLink": "abcnews.go.com",
+   "snippet": "Get the latest sports news from the NFL, NBA, MLB, NHL and more. Get football,   baseball, basketball news photos and videos at ABCNews.",
+   "htmlSnippet": "Get the latest \u003cb\u003esports\u003c/b\u003e news from the NFL, NBA, MLB, NHL and more. Get football, \u003cbr\u003e  baseball, basketball news photos and videos at ABCNews.",
+   "formattedUrl": "abcnews.go.com/Sports/",
+   "htmlFormattedUrl": "abcnews.go.com/\u003cb\u003eSports\u003c/b\u003e/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://a.abcnews.com/images/Sports/rt_training2_080605_ssh.jpg",
+      "type": "1",
+      "width": "255",
+      "height": "197"
+     }
+    ],
+    "metatags": [
+     {
+      "author": "ABC News",
+      "copyright": "Copyright (c) 2012 ABC News Internet Ventures",
+      "fb_title": "ESPN Sports",
+      "og:title": "ESPN Sports",
+      "og:url": "http://abcnews.go.com/Sports/"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Sports - List of Sports on ESPN",
+   "htmlTitle": "\u003cb\u003eSports\u003c/b\u003e - List of \u003cb\u003eSports\u003c/b\u003e on \u003cb\u003eESPN\u003c/b\u003e",
+   "link": "http://espn.go.com/sports/",
+   "displayLink": "espn.go.com",
+   "snippet": "List of all sports covered on ESPN.com, with links to top news stories and scores.",
+   "htmlSnippet": "List of all \u003cb\u003esports\u003c/b\u003e covered on \u003cb\u003eESPN\u003c/b\u003e.com, with links to top news stories and scores.",
+   "cacheId": "NUTkOO_3Y0EJ",
+   "formattedUrl": "espn.go.com/sports/",
+   "htmlFormattedUrl": "\u003cb\u003eespn\u003c/b\u003e.go.com/\u003cb\u003esports\u003c/b\u003e/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://a.espncdn.com/photo/2012/0716/ncf_g_patty_cr_134.jpg",
+      "type": "1",
+      "width": "107",
+      "height": "60"
+     }
+    ],
+    "metatags": [
+     {
+      "slice": "off",
+      "msvalidate.01": "B1FEB7C682C46C8FCDA3130F3D18AC28"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Soccer / Football News and Scores - ESPN Soccernet",
+   "htmlTitle": "Soccer / Football News and Scores - \u003cb\u003eESPN\u003c/b\u003e Soccernet",
+   "link": "http://soccernet.espn.go.com/",
+   "displayLink": "soccernet.espn.go.com",
+   "snippet": "SPORTS NEWS FROM ESPN.CO.UK. Barao untouchable in UFC 149 win · Great   Heavens claims Irish Oaks · Bellucci upsets top seed Tipsarevic · Composed ...",
+   "htmlSnippet": "\u003cb\u003eSPORTS\u003c/b\u003e NEWS FROM \u003cb\u003eESPN\u003c/b\u003e.CO.UK. Barao untouchable in UFC 149 win &middot; Great \u003cbr\u003e  Heavens claims Irish Oaks &middot; Bellucci upsets top seed Tipsarevic &middot; Composed \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "tNTid1JdeL4J",
+   "formattedUrl": "soccernet.espn.go.com/",
+   "htmlFormattedUrl": "soccernet.\u003cb\u003eespn\u003c/b\u003e.go.com/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://a.espncdn.com/prod/assets/soccernet/design09/soccernet-fb-logo2.png",
+      "type": "1",
+      "width": "150",
+      "height": "22"
+     }
+    ],
+    "metatags": [
+     {
+      "og:title": "ESPN Soccernet",
+      "og:type": "website",
+      "og:url": "http://soccernet.espn.go.com/",
+      "og:image": "http://a.espncdn.com/prod/assets/soccernet/design09/soccernet-fb-logo2.png",
+      "og:site_name": "ESPNsoccernet.com",
+      "fb:app_id": "116656161708917",
+      "application-name": "ESPNsoccernet.com",
+      "msapplication-navbutton-color": "#FF4037",
+      "msapplication-tooltip": "Visit ESPNsoccernet.com",
+      "msapplication-task": "name=Live Scores;  action-uri=http://soccernet.espn.go.com/scores?ex_cid=jumplist_scores;  icon-uri=http://soccernet-assets.espn.go.com/design05/i/icons/actions/fixtures.ico"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "MLB - Major League Baseball Teams, Scores, Stats, News ...",
+   "htmlTitle": "MLB - Major League Baseball Teams, Scores, Stats, News \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://espn.go.com/mlb/",
+   "displayLink": "espn.go.com",
+   "snippet": "... baseball news, scores, stats, standings, fantasy games, and more on ESPN.  com. ... Begin your Rekall Experience for a chance to live like a Sports Anchor!",
+   "htmlSnippet": "\u003cb\u003e...\u003c/b\u003e baseball news, scores, stats, standings, fantasy games, and more on \u003cb\u003eESPN\u003c/b\u003e.\u003cbr\u003e  com. \u003cb\u003e...\u003c/b\u003e Begin your Rekall Experience for a chance to live like a \u003cb\u003eSports\u003c/b\u003e Anchor!",
+   "cacheId": "XEws2IF8jKoJ",
+   "formattedUrl": "espn.go.com/mlb/",
+   "htmlFormattedUrl": "\u003cb\u003eespn\u003c/b\u003e.go.com/mlb/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://a.espncdn.com/photo/2012/0721/mlb_g_hamels_gb3_576.jpg",
+      "type": "1",
+      "width": "300",
+      "height": "168"
+     }
+    ],
+    "metatags": [
+     {
+      "msvalidate.01": "B1FEB7C682C46C8FCDA3130F3D18AC28"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Fantasy Games -- ESPN",
+   "htmlTitle": "Fantasy Games -- \u003cb\u003eESPN\u003c/b\u003e",
+   "link": "http://games.espn.go.com/",
+   "displayLink": "games.espn.go.com",
+   "snippet": "From athlete interviews to in-depth coverage of \"Madden,\" The Gamer Blog has   sports video games dailed ... Test your sports IQ and compete against other fans.",
+   "htmlSnippet": "From athlete interviews to in-depth coverage of &quot;Madden,&quot; The Gamer Blog has \u003cbr\u003e  \u003cb\u003esports\u003c/b\u003e video games dailed \u003cb\u003e...\u003c/b\u003e Test your \u003cb\u003esports\u003c/b\u003e IQ and compete against other fans.",
+   "cacheId": "yQUV9gJvEwYJ",
+   "formattedUrl": "games.espn.go.com/",
+   "htmlFormattedUrl": "games.\u003cb\u003eespn\u003c/b\u003e.go.com/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://assets.espn.go.com/photo/2012/0720/fan_rodgers_jonesdrew_576.jpg",
+      "type": "1",
+      "width": "300",
+      "height": "168"
+     }
+    ],
+    "metatags": [
+     {
+      "fb:admins": "771834624",
+      "fb:app_id": "116656161708917"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "NBA - National Basketball Association Teams, Scores, Stats, News ...",
+   "htmlTitle": "NBA - National Basketball Association Teams, Scores, Stats, News \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://espn.go.com/nba/",
+   "displayLink": "espn.go.com",
+   "snippet": "Lots going on today, but don't forget Sports Reporters over on ESPNews at ...   NBAonESPN The NBA on ESPN ... Follow ESPN's NBA coverage on Twitter » ...",
+   "htmlSnippet": "Lots going on today, but don&#39;t forget \u003cb\u003eSports\u003c/b\u003e Reporters over on ESPNews at \u003cb\u003e...\u003c/b\u003e \u003cbr\u003e  NBAonESPN The NBA on \u003cb\u003eESPN\u003c/b\u003e \u003cb\u003e...\u003c/b\u003e Follow \u003cb\u003eESPN&#39;s\u003c/b\u003e NBA coverage on Twitter » \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "kLinjyDM2o0J",
+   "formattedUrl": "espn.go.com/nba/",
+   "htmlFormattedUrl": "\u003cb\u003eespn\u003c/b\u003e.go.com/nba/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://a.espncdn.com/photo/2012/0720/NBA_thrones_g_mp_110.jpg",
+      "type": "1",
+      "width": "100",
+      "height": "56"
+     }
+    ],
+    "metatags": [
+     {
+      "msvalidate.01": "B1FEB7C682C46C8FCDA3130F3D18AC28"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "All Scores - Live and Recent Sports Scores - ESPN",
+   "htmlTitle": "All Scores - Live and Recent \u003cb\u003eSports\u003c/b\u003e Scores - \u003cb\u003eESPN\u003c/b\u003e",
+   "link": "http://scores.espn.go.com/sports/scores",
+   "displayLink": "scores.espn.go.com",
+   "snippet": "Stay on top of the latest live scores, recent results, and upcoming events. From   the NFL, to MLB, Tennis, and more, we have your scores on ESPN.com.",
+   "htmlSnippet": "Stay on top of the latest live scores, recent results, and upcoming events. From \u003cbr\u003e  the NFL, to MLB, Tennis, and more, we have your scores on \u003cb\u003eESPN\u003c/b\u003e.com.",
+   "cacheId": "LlvTndFBjdEJ",
+   "formattedUrl": "scores.espn.go.com/sports/scores",
+   "htmlFormattedUrl": "scores.\u003cb\u003eespn\u003c/b\u003e.go.com/\u003cb\u003esports\u003c/b\u003e/scores",
+   "pagemap": {
+    "metatags": [
+     {
+      "msvalidate.01": "B1FEB7C682C46C8FCDA3130F3D18AC28"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "ESPNU - College Sports - NCAA Scores and Rankings - NCAA ...",
+   "htmlTitle": "ESPNU - College \u003cb\u003eSports\u003c/b\u003e - NCAA Scores and Rankings - NCAA \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://espn.go.com/college-sports/",
+   "displayLink": "espn.go.com",
+   "snippet": "Get the latest college sports news, NCAA scores, and NCAA rankings on ESPN.  com.",
+   "htmlSnippet": "Get the latest college \u003cb\u003esports\u003c/b\u003e news, NCAA scores, and NCAA rankings on \u003cb\u003eESPN\u003c/b\u003e.\u003cbr\u003e  com.",
+   "cacheId": "Fq-sJ5mBX6wJ",
+   "formattedUrl": "espn.go.com/college-sports/",
+   "htmlFormattedUrl": "\u003cb\u003eespn\u003c/b\u003e.go.com/college-\u003cb\u003esports\u003c/b\u003e/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://a.espncdn.com/photo/2012/0718/ncaa_a_ammons01jr_576.jpg",
+      "type": "1",
+      "width": "300",
+      "height": "168"
+     }
+    ],
+    "metatags": [
+     {
+      "msvalidate.01": "B1FEB7C682C46C8FCDA3130F3D18AC28"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "ESPN Sports Radio 92.7",
+   "htmlTitle": "\u003cb\u003eESPN Sports\u003c/b\u003e Radio 92.7",
+   "link": "http://www.espnsportsradio.com/",
+   "displayLink": "www.espnsportsradio.com",
+   "snippet": "For others like me, it's the best sports time of the year. From the first tip of the Final   Four to the final putt at Augusta, the past week of sports action can entertain ...",
+   "htmlSnippet": "For others like me, it&#39;s the best \u003cb\u003esports\u003c/b\u003e time of the year. From the first tip of the Final \u003cbr\u003e  Four to the final putt at Augusta, the past week of \u003cb\u003esports\u003c/b\u003e action can entertain \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "rDodrcsPIWIJ",
+   "formattedUrl": "www.espnsportsradio.com/",
+   "htmlFormattedUrl": "www.\u003cb\u003eespnsports\u003c/b\u003eradio.com/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.espnsportsradio.com/uploads/6/9/5/2/6952048/7337425_orig.jpg",
+      "type": "1",
+      "width": "300",
+      "height": "32"
+     }
+    ],
+    "metatags": [
+     {
+      "og:title": "HOME",
+      "og:description": "The Best Sports Week of the Year Never Disappoints               For some, it's Spring Break. For some, it's another work week. For others like me, it's the best sports time of the year....",
+      "og:image": "http://www.espnsportsradio.com/uploads/6/9/5/2/6952048/7337425_orig.jpg",
+      "og:url": "http://www.espnsportsradio.com/"
+     }
+    ]
+   }
+  }
+ ]
+}

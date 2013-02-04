@@ -1,0 +1,316 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "nextPage": [
+   {
+    "title": "Google Custom Search - the current",
+    "totalResults": "1650000000",
+    "searchTerms": "the current",
+    "count": 10,
+    "startIndex": 71,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "017401104989814545383:mf4lavmtuva"
+   }
+  ],
+  "request": [
+   {
+    "title": "Google Custom Search - the current",
+    "totalResults": "1650000000",
+    "searchTerms": "the current",
+    "count": 10,
+    "startIndex": 61,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "017401104989814545383:mf4lavmtuva"
+   }
+  ],
+  "previousPage": [
+   {
+    "title": "Google Custom Search - the current",
+    "totalResults": "1650000000",
+    "searchTerms": "the current",
+    "count": 10,
+    "startIndex": 51,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "017401104989814545383:mf4lavmtuva"
+   }
+  ]
+ },
+ "context": {
+  "title": "College MetaSearch Comparison"
+ },
+ "searchInformation": {
+  "searchTime": 0.155726,
+  "formattedSearchTime": "0.16",
+  "totalResults": "1650000000",
+  "formattedTotalResults": "1,650,000,000"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "KCMP - Wikipedia, the free encyclopedia",
+   "htmlTitle": "KCMP - Wikipedia, the free encyclopedia",
+   "link": "http://en.wikipedia.org/wiki/KCMP",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "KCMP (89.3 FM), also known as 89.3 The Current, is a radio station owned by   Minnesota Public Radio (MPR) that broadcasts a AAA music format including a ...",
+   "htmlSnippet": "KCMP (89.3 FM), also known as 89.3 \u003cb\u003eThe Current\u003c/b\u003e, is a radio station owned by \u003cbr\u003e  Minnesota Public Radio (MPR) that broadcasts a AAA music format including a \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "q9BEbBI9OSEJ",
+   "formattedUrl": "en.wikipedia.org/wiki/KCMP",
+   "htmlFormattedUrl": "en.wikipedia.org/wiki/KCMP",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://upload.wikimedia.org/wikipedia/en/thumb/7/74/KCMP_sticker.png/200px-KCMP_sticker.png",
+      "type": "1",
+      "width": "160",
+      "height": "96"
+     }
+    ],
+    "hcard": [
+     {
+      "fn": "KCMP",
+      "label": "Minneapolis-St. Paul",
+      "category": "Public; AAA HD-2: Local Current"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "The Gaslight Anthem performs in The Current studios | The Current ...",
+   "htmlTitle": "The Gaslight Anthem performs in \u003cb\u003eThe Current\u003c/b\u003e studios | \u003cb\u003eThe Current\u003c/b\u003e \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://minnesota.publicradio.org/display/web/2012/07/11/gaslight-anthem-live-2012/",
+   "displayLink": "minnesota.publicradio.org",
+   "snippet": "Jul 12, 2012 ... New Jersey has a proud heritage of rock music, from punk legends the Misfits   and the Bouncing Souls to the Boss himself. The sonic imprint of ...",
+   "htmlSnippet": "Jul 12, 2012 \u003cb\u003e...\u003c/b\u003e New Jersey has a proud heritage of rock music, from punk legends the Misfits \u003cbr\u003e  and the Bouncing Souls to the Boss himself. The sonic imprint of \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "t21Va832Mn0J",
+   "formattedUrl": "minnesota.publicradio.org/display/web/.../gaslight-anthem-live-2012/",
+   "htmlFormattedUrl": "minnesota.publicradio.org/display/web/.../gaslight-anthem-live-2012/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://images.publicradio.org/content/2012/07/12/20120712_brian-fallon-gaslight-anthem_45.jpg",
+      "type": "1",
+      "width": "275",
+      "height": "183"
+     }
+    ],
+    "metatags": [
+     {
+      "title": "The Gaslight Anthem performs in The Current studios",
+      "date": "2012-07-12",
+      "author": "Minnesota Public Radio",
+      "fb:admins": "517623060",
+      "og:title": "The Gaslight Anthem performs in The Current studios",
+      "og:site_name": "The Current from Minnesota Public Radio",
+      "og:image": "http://images.publicradio.org/content/2012/07/12/20120712_brian-fallon-gaslight-anthem_45.jpg",
+      "og:type": "video.other",
+      "og:video": "http://www.youtube.com/v/n5Ay1Zzx2Zg?version=3&autohide=1",
+      "og:video:height": "340",
+      "og:video:width": "596",
+      "og:video:type": "application/x-shockwave-flash",
+      "mpr-site": "the-current",
+      "wt.z_mpr-site": "the-current",
+      "mpr-collection": "Music",
+      "wt.cg_n": "Current Music",
+      "mpr-media": "audio"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "The current (and poor) state of Firefox | TechRepublic",
+   "htmlTitle": "\u003cb\u003eThe current\u003c/b\u003e (and poor) state of Firefox | TechRepublic",
+   "link": "http://www.techrepublic.com/blog/opensource/the-current-and-poor-state-of-firefox/3092",
+   "displayLink": "www.techrepublic.com",
+   "snippet": "Oct 4, 2011 ... Jack Wallen pulls no punches with his thoughts on the current release of Firefox.   Will bugs and bloat bring the flagship open source browser to ...",
+   "htmlSnippet": "Oct 4, 2011 \u003cb\u003e...\u003c/b\u003e Jack Wallen pulls no punches with his thoughts on \u003cb\u003ethe current\u003c/b\u003e release of Firefox. \u003cbr\u003e  Will bugs and bloat bring the flagship open source browser to \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "rBdK0vproI0J",
+   "formattedUrl": "www.techrepublic.com/blog/opensource/the-current-and.../3092",
+   "htmlFormattedUrl": "www.techrepublic.com/blog/opensource/\u003cb\u003ethe-current\u003c/b\u003e-and.../3092",
+   "pagemap": {
+    "metatags": [
+     {
+      "language": "en",
+      "og:title": "The current (and poor) state of Firefox | TechRepublic",
+      "og:url": "http://www.techrepublic.com/blog/opensource/the-current-and-poor-state-of-firefox/3092",
+      "og:type": "article",
+      "og:description": "Jack Wallen pulls no punches with his thoughts on the current release of Firefox. Will bugs and bloat bring the flagship open source browser to a scre"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Lissie performs in The Current studio | The Current from Minnesota ...",
+   "htmlTitle": "Lissie performs in \u003cb\u003eThe Current\u003c/b\u003e studio | \u003cb\u003eThe Current\u003c/b\u003e from Minnesota \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://minnesota.publicradio.org/display/web/2012/07/10/lissie/",
+   "displayLink": "minnesota.publicradio.org",
+   "snippet": "Jul 11, 2012 ... Illinois-born, California-based singer-songwriter Lissie (born Elisabeth Maurus)   earned breakout success with her debut album \"Catching a ...",
+   "htmlSnippet": "Jul 11, 2012 \u003cb\u003e...\u003c/b\u003e Illinois-born, California-based singer-songwriter Lissie (born Elisabeth Maurus) \u003cbr\u003e  earned breakout success with her debut album &quot;Catching a \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "gMAfgjOLigQJ",
+   "formattedUrl": "minnesota.publicradio.org/display/web/2012/07/10/lissie/",
+   "htmlFormattedUrl": "minnesota.publicradio.org/display/web/2012/07/10/lissie/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://images.publicradio.org/content/2012/07/10/20120710_lissie_45.jpg",
+      "type": "1",
+      "width": "275",
+      "height": "183"
+     }
+    ],
+    "metatags": [
+     {
+      "title": "Lissie performs in The Current studio",
+      "date": "2012-07-11",
+      "author": "Minnesota Public Radio",
+      "fb:admins": "517623060",
+      "og:title": "Lissie performs in The Current studio",
+      "og:site_name": "The Current from Minnesota Public Radio",
+      "og:image": "http://images.publicradio.org/content/2012/07/10/20120710_lissie_45.jpg",
+      "og:type": "video.other",
+      "og:video": "http://www.youtube.com/v/bxdyDIzS6OA?version=3&autohide=1",
+      "og:video:height": "340",
+      "og:video:width": "596",
+      "og:video:type": "application/x-shockwave-flash",
+      "mpr-site": "the-current",
+      "wt.z_mpr-site": "the-current",
+      "mpr-collection": "Music",
+      "wt.cg_n": "Current Music",
+      "mpr-media": "audio"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Evolution: Library: The Current Mass Extinction",
+   "htmlTitle": "Evolution: Library: \u003cb\u003eThe Current\u003c/b\u003e Mass Extinction",
+   "link": "http://www.pbs.org/wgbh/evolution/library/03/2/l_032_04.html",
+   "displayLink": "www.pbs.org",
+   "snippet": "The aerial photograph on the left shows the Transamazonian highway just after   completion. The satellite photograph on the right shows a much larger area, ...",
+   "htmlSnippet": "The aerial photograph on the left shows the Transamazonian highway just after \u003cbr\u003e  completion. The satellite photograph on the right shows a much larger area, \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "_VIAYnVGayQJ",
+   "formattedUrl": "www.pbs.org/wgbh/evolution/library/03/2/l_032_04.html",
+   "htmlFormattedUrl": "www.pbs.org/wgbh/evolution/library/03/2/l_032_04.html",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.pbs.org/wgbh/evolution/library/03/2/images/l_032_04_m.gif",
+      "type": "1",
+      "width": "128",
+      "height": "96"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "CURRENT | Smart Grid solutions for electric utilities",
+   "htmlTitle": "\u003cb\u003eCURRENT\u003c/b\u003e | Smart Grid solutions for electric utilities",
+   "link": "http://www.currentgrid.com/",
+   "displayLink": "www.currentgrid.com",
+   "snippet": "CURRENT Announces Market Expansion and Smart Grid Deployment ...   CURRENT to Provide IBERDROLA with Advanced Metering, Supervision, and ...",
+   "htmlSnippet": "\u003cb\u003eCURRENT\u003c/b\u003e Announces Market Expansion and Smart Grid Deployment \u003cb\u003e...\u003c/b\u003e \u003cbr\u003e  \u003cb\u003eCURRENT\u003c/b\u003e to Provide IBERDROLA with Advanced Metering, Supervision, and \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "zy09Nvt_TY4J",
+   "formattedUrl": "www.currentgrid.com/",
+   "htmlFormattedUrl": "www.\u003cb\u003ecurrent\u003c/b\u003egrid.com/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.currentgrid.com/wp-content/themes/amplus_v1.6/functions/timthumb.php?src=wp-content/uploads/enet_PES.png&w=266&h=120",
+      "type": "1",
+      "width": "212",
+      "height": "96"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "GMT: Greenwich Mean Time - World Time / Time in every Time Zone",
+   "htmlTitle": "GMT: Greenwich Mean Time - World Time / Time in every Time Zone",
+   "link": "http://wwp.greenwichmeantime.com/",
+   "displayLink": "wwp.greenwichmeantime.com",
+   "snippet": "Greenwich Mean Time (GMT). Greenwich Time / Zulu Time / UTC. What's the   Time in the World's Major Cities? Select a CITY to see CURRENT TIME, London, ...",
+   "htmlSnippet": "Greenwich Mean Time (GMT). Greenwich Time / Zulu Time / UTC. What&#39;s the \u003cbr\u003e  Time in the World&#39;s Major Cities? Select a CITY to see \u003cb\u003eCURRENT\u003c/b\u003e TIME, London, \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "hbHqllOCpQYJ",
+   "formattedUrl": "wwp.greenwichmeantime.com/",
+   "htmlFormattedUrl": "wwp.greenwichmeantime.com/",
+   "pagemap": {
+    "metatags": [
+     {
+      "dc.coverage.x": "0.000",
+      "dc.coverage.y": "52.477",
+      "progid": "FrontPage.Editor.Document",
+      "rating": "GENERAL",
+      "distribution": "GLOBAL",
+      "classification": "Index Site",
+      "copyright": "Greenwich 2000",
+      "microsoft border": "tlbr"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "The Current of Galloway Township, Port Republic Newspaper",
+   "htmlTitle": "\u003cb\u003eThe Current\u003c/b\u003e of Galloway Township, Port Republic Newspaper",
+   "link": "http://shorenewstoday.com/snt/gal/",
+   "displayLink": "shorenewstoday.com",
+   "snippet": "Galloway Township, Port Republic, NJ News :: News, Sports, Events, Classifieds   :: Published Weekly.",
+   "htmlSnippet": "Galloway Township, Port Republic, NJ News :: News, Sports, Events, Classifieds \u003cbr\u003e  :: Published Weekly.",
+   "cacheId": "6M0voSqaFLEJ",
+   "formattedUrl": "shorenewstoday.com/snt/gal/",
+   "htmlFormattedUrl": "shorenewstoday.com/snt/gal/"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Current Population Survey (CPS) - A Joint Effort Between the ...",
+   "htmlTitle": "\u003cb\u003eCurrent\u003c/b\u003e Population Survey (CPS) - A Joint Effort Between the \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://www.census.gov/cps/",
+   "displayLink": "www.census.gov",
+   "snippet": "Current Population Survey (CPS). Main section. Demographic data and reports   from the U.S. Census Bureau.",
+   "htmlSnippet": "\u003cb\u003eCurrent\u003c/b\u003e Population Survey (CPS). Main section. Demographic data and reports \u003cbr\u003e  from the U.S. Census Bureau.",
+   "cacheId": "96OTspmVgLUJ",
+   "formattedUrl": "www.census.gov/cps/",
+   "htmlFormattedUrl": "www.census.gov/cps/",
+   "pagemap": {
+    "metatags": [
+     {
+      "dc.title": "A Joint Effort Between the Bureau of Labor Statistics and the Census Bureau",
+      "dc.description": "Current Population Survey (CPS). Main section. Demographic data and reports from the U.S. Census Bureau",
+      "dc.creator": "U.S. Census Bureau, Demographic Internet Staff",
+      "dc.author": "Current Population Survey",
+      "dc.date.created": "2012-05-21",
+      "dc.date.reviewed": "2012-05-21",
+      "dc.language": "EN-US"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Champlain College's Student Newspaper, The Current | Champlain ...",
+   "htmlTitle": "Champlain College&#39;s Student Newspaper, \u003cb\u003eThe Current\u003c/b\u003e | Champlain \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://www.champlain.edu/champlain-current.html",
+   "displayLink": "www.champlain.edu",
+   "snippet": "The Champlain Current, Champlain College's student newspaper, is published   monthly seven times a year with an 1100 circulation.",
+   "htmlSnippet": "The Champlain \u003cb\u003eCurrent\u003c/b\u003e, Champlain College&#39;s student newspaper, is published \u003cbr\u003e  monthly seven times a year with an 1100 circulation.",
+   "cacheId": "Wj1gMXoUTLsJ",
+   "formattedUrl": "www.champlain.edu/champlain-current.html",
+   "htmlFormattedUrl": "www.champlain.edu/champlain-\u003cb\u003ecurrent\u003c/b\u003e.html"
+  }
+ ]
+}

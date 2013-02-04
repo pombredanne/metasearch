@@ -1,0 +1,327 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "nextPage": [
+   {
+    "title": "Google Custom Search - hoboken",
+    "totalResults": "2070000",
+    "searchTerms": "hoboken",
+    "count": 10,
+    "startIndex": 11,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "017401104989814545383:mf4lavmtuva"
+   }
+  ],
+  "request": [
+   {
+    "title": "Google Custom Search - hoboken",
+    "totalResults": "2070000",
+    "searchTerms": "hoboken",
+    "count": 10,
+    "startIndex": 1,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "017401104989814545383:mf4lavmtuva"
+   }
+  ]
+ },
+ "context": {
+  "title": "College MetaSearch Comparison"
+ },
+ "searchInformation": {
+  "searchTime": 0.300094,
+  "formattedSearchTime": "0.30",
+  "totalResults": "2070000",
+  "formattedTotalResults": "2,070,000"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "City of Hoboken, NJ",
+   "htmlTitle": "City of \u003cb\u003eHoboken\u003c/b\u003e, NJ",
+   "link": "http://www.hobokennj.org/",
+   "displayLink": "www.hobokennj.org",
+   "snippet": "Official site providing department directories, event calendars, and news releases  .",
+   "htmlSnippet": "Official site providing department directories, event calendars, and news releases\u003cbr\u003e  .",
+   "cacheId": "c_yZ-iPvy7cJ",
+   "formattedUrl": "www.hobokennj.org/",
+   "htmlFormattedUrl": "www.\u003cb\u003ehoboken\u003c/b\u003enj.org/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.hobokennj.org/images/hoboken311r.png",
+      "type": "1",
+      "width": "156",
+      "height": "126"
+     }
+    ],
+    "metatags": [
+     {
+      "fb:page_id": "107840642570023"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Hoboken, New Jersey - Wikipedia, the free encyclopedia",
+   "htmlTitle": "\u003cb\u003eHoboken\u003c/b\u003e, New Jersey - Wikipedia, the free encyclopedia",
+   "link": "http://en.wikipedia.org/wiki/Hoboken,_New_Jersey",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "Hoboken is a city in Hudson County, New Jersey, United States. As of the 2010   United States Census, the city's population was 50005. The city is part of the ...",
+   "htmlSnippet": "\u003cb\u003eHoboken\u003c/b\u003e is a city in Hudson County, New Jersey, United States. As of the 2010 \u003cbr\u003e  United States Census, the city&#39;s population was 50005. The city is part of the \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "wLlBEts1IxIJ",
+   "formattedUrl": "en.wikipedia.org/wiki/Hoboken,_New_Jersey",
+   "htmlFormattedUrl": "en.wikipedia.org/wiki/\u003cb\u003eHoboken\u003c/b\u003e,_New_Jersey",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Frank_Sinatra_Park._Hoboken,_NJ.jpg/250px-Frank_Sinatra_Park._Hoboken,_NJ.jpg",
+      "type": "1",
+      "width": "200",
+      "height": "150"
+     }
+    ],
+    "hcard": [
+     {
+      "fn": "City of Hoboken",
+      "nickname": "The Mile Square City[1]",
+      "category": "City"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Welcome to Hoboken-bar.net!",
+   "htmlTitle": "Welcome to \u003cb\u003eHoboken\u003c/b\u003e-bar.net!",
+   "link": "http://www.hoboken-bar.net/",
+   "displayLink": "www.hoboken-bar.net",
+   "snippet": "The Hoboken Bar Network is a site that provides information on the local bar   happenings in Hoboken, NJ. Why visit mulitple site when you visit just one, ...",
+   "htmlSnippet": "The \u003cb\u003eHoboken\u003c/b\u003e Bar Network is a site that provides information on the local bar \u003cbr\u003e  happenings in \u003cb\u003eHoboken\u003c/b\u003e, NJ. Why visit mulitple site when you visit just one, \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "hmFAQyuJ25IJ",
+   "formattedUrl": "www.hoboken-bar.net/",
+   "htmlFormattedUrl": "www.\u003cb\u003ehoboken\u003c/b\u003e-bar.net/",
+   "pagemap": {
+    "metatags": [
+     {
+      "progid": "FrontPage.Editor.Document"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Hoboken Now - NJ.com",
+   "htmlTitle": "\u003cb\u003eHoboken\u003c/b\u003e Now - NJ.com",
+   "link": "http://www.nj.com/hobokennow/",
+   "displayLink": "www.nj.com",
+   "snippet": "Hoboken NJ guide to life and living. Find out about Hoboken New Jersey's bars   and restaurants, search for apartment rentals, condos and other real estate and ...",
+   "htmlSnippet": "\u003cb\u003eHoboken\u003c/b\u003e NJ guide to life and living. Find out about \u003cb\u003eHoboken\u003c/b\u003e New Jersey&#39;s bars \u003cbr\u003e  and restaurants, search for apartment rentals, condos and other real estate and \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "uMegCKAomS0J",
+   "formattedUrl": "www.nj.com/hobokennow/",
+   "htmlFormattedUrl": "www.nj.com/\u003cb\u003ehoboken\u003c/b\u003enow/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://media.nj.com/jersey-journal/photo/2012/07/11295065-small.jpg",
+      "type": "1",
+      "width": "124",
+      "height": "82"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Hoboken, NJ Patch - News, Sports, Events, Businesses & Deals",
+   "htmlTitle": "\u003cb\u003eHoboken\u003c/b\u003e, NJ Patch - News, Sports, Events, Businesses &amp; Deals",
+   "link": "http://hoboken.patch.com/",
+   "displayLink": "hoboken.patch.com",
+   "snippet": "News, events and happenings in Hoboken, NJ. ... At least $800 worth of Global   Positioning Systems stolen from cars in Hoboken. By Claire Moses | 8:20 pm | 1 ...",
+   "htmlSnippet": "News, events and happenings in \u003cb\u003eHoboken\u003c/b\u003e, NJ. \u003cb\u003e...\u003c/b\u003e At least $800 worth of Global \u003cbr\u003e  Positioning Systems stolen from cars in \u003cb\u003eHoboken\u003c/b\u003e. By Claire Moses | 8:20 pm | 1 \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "2DapWLeDE30J",
+   "formattedUrl": "hoboken.patch.com/",
+   "htmlFormattedUrl": "\u003cb\u003ehoboken\u003c/b\u003e.patch.com/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://o5.aolcdn.com/dims-shared/dims3/PATCH/resize/400x268/http://hss-prod.hss.aol.com/hss/storage/patch/c325ad246c3b4b2fe840a870063da3c7",
+      "type": "1",
+      "width": "259",
+      "height": "194"
+     }
+    ],
+    "webpage": [
+     {
+      "photo": "http://o1.aolcdn.com/dims-shared/dims3/PATCH/thumbnail/57x43/crop/43x43+7+0/http://hss-prod.hss.aol.com/hss/storage/patch/3b8fb9bec483972bc19b8576a1caea7"
+     }
+    ],
+    "metatags": [
+     {
+      "og:title": "Hoboken Patch",
+      "og:type": "website",
+      "og:url": "http://hoboken.patch.com/",
+      "og:image": "http://hoboken.patch.com/images/facebook-icon.png",
+      "og:site_name": "Hoboken Patch",
+      "fb:app_id": "124197974267398"
+     }
+    ],
+    "hcard": [
+     {
+      "fn": "Claire Moses"
+     },
+     {
+      "fn": "Jeanette L"
+     },
+     {
+      "fn": "Hobbs",
+      "nickname": "Hobbs"
+     },
+     {
+      "fn": "Tamika",
+      "nickname": "Tamika"
+     },
+     {
+      "fn": "Gordon maclean"
+     },
+     {
+      "fn": "Outofcontrol",
+      "nickname": "Outofcontrol"
+     },
+     {
+      "fn": "puzzledone",
+      "nickname": "puzzledone"
+     },
+     {
+      "fn": "Jimmy Sheridan"
+     },
+     {
+      "fn": "Outofcontrol",
+      "nickname": "Outofcontrol"
+     },
+     {
+      "fn": "DMAB6395"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Hoboken's most complete news and business website - Hoboken411!",
+   "htmlTitle": "\u003cb\u003eHoboken&#39;s\u003c/b\u003e most complete news and business website - Hoboken411!",
+   "link": "http://hoboken411.com/",
+   "displayLink": "hoboken411.com",
+   "snippet": "5 hours ago ... Hoboken's Leading Web Community, with businesses, news, history, politics,   crimes, local music and events and much more!",
+   "htmlSnippet": "5 hours ago \u003cb\u003e...\u003c/b\u003e \u003cb\u003eHoboken&#39;s\u003c/b\u003e Leading Web Community, with businesses, news, history, politics, \u003cbr\u003e  crimes, local music and events and much more!",
+   "formattedUrl": "hoboken411.com/",
+   "htmlFormattedUrl": "\u003cb\u003ehoboken\u003c/b\u003e411.com/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://cdn.hoboken411.com/wp-content/uploads/2012/07/Hoboken-Fire-Sovereign-Building-2-14th-Street-Sixth-Floor-July-23-2012.jpg",
+      "type": "1",
+      "width": "317",
+      "height": "159"
+     }
+    ],
+    "person": [
+     {
+      "friends": "WFMU's Beware of the Blog, eMazzanti"
+     }
+    ],
+    "metatags": [
+     {
+      "msvalidate.01": "EBF8B82A294085F95BA655B184398916"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Hoboken Pizza San Diego",
+   "htmlTitle": "\u003cb\u003eHoboken\u003c/b\u003e Pizza San Diego",
+   "link": "http://www.hobokenpizza.com/",
+   "displayLink": "www.hobokenpizza.com",
+   "snippet": "2007-2011 Hoboken Pizza™ All Rights Reserved. Bruce Springsteen. 00:00/00:  02. Eddie Vedder. 00:00/00:02. Frank Sinatra. 00:00/00:02. Amos Lee. 00:00/00: ...",
+   "htmlSnippet": "2007-2011 \u003cb\u003eHoboken\u003c/b\u003e Pizza™ All Rights Reserved. Bruce Springsteen. 00:00/00:\u003cbr\u003e  02. Eddie Vedder. 00:00/00:02. Frank Sinatra. 00:00/00:02. Amos Lee. 00:00/00: \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "04irZ1zx0s8J",
+   "formattedUrl": "www.hobokenpizza.com/",
+   "htmlFormattedUrl": "www.\u003cb\u003ehoboken\u003c/b\u003epizza.com/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.hobokenpizza.com/images_2/map_small.gif",
+      "type": "1",
+      "width": "288",
+      "height": "140"
+     }
+    ],
+    "metatags": [
+     {
+      "rating": "General"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Hoboken - Wikipedia, the free encyclopedia",
+   "htmlTitle": "\u003cb\u003eHoboken\u003c/b\u003e - Wikipedia, the free encyclopedia",
+   "link": "http://en.wikipedia.org/wiki/Hoboken",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "From Wikipedia, the free encyclopedia. Jump to: navigation, search. Hoboken   may refer to: Hoboken, New Jersey, United States; Hoboken, Antwerp, a district of ...",
+   "htmlSnippet": "From Wikipedia, the free encyclopedia. Jump to: navigation, search. \u003cb\u003eHoboken\u003c/b\u003e \u003cbr\u003e  may refer to: \u003cb\u003eHoboken\u003c/b\u003e, New Jersey, United States; \u003cb\u003eHoboken\u003c/b\u003e, Antwerp, a district of \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "ZhxL00DU028J",
+   "formattedUrl": "en.wikipedia.org/wiki/Hoboken",
+   "htmlFormattedUrl": "en.wikipedia.org/wiki/\u003cb\u003eHoboken\u003c/b\u003e"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Hoboken International Film Festival 2010",
+   "htmlTitle": "\u003cb\u003eHoboken\u003c/b\u003e International Film Festival 2010",
+   "link": "http://www.hobokeninternationalfilmfestival.com/",
+   "displayLink": "www.hobokeninternationalfilmfestival.com",
+   "snippet": "Hoboken International Film Festival, showcases the world's most cutting edge   movies and filmmakers. Featuring a Celebrity Jury Including Academy Award ...",
+   "htmlSnippet": "\u003cb\u003eHoboken\u003c/b\u003e International Film Festival, showcases the world&#39;s most cutting edge \u003cbr\u003e  movies and filmmakers. Featuring a Celebrity Jury Including Academy Award \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "kDwx9W-dkEUJ",
+   "formattedUrl": "www.hobokeninternationalfilmfestival.com/",
+   "htmlFormattedUrl": "www.\u003cb\u003ehoboken\u003c/b\u003einternationalfilmfestival.com/"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Hoboken Terminal - Wikipedia, the free encyclopedia",
+   "htmlTitle": "\u003cb\u003eHoboken\u003c/b\u003e Terminal - Wikipedia, the free encyclopedia",
+   "link": "http://en.wikipedia.org/wiki/Hoboken_Terminal",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "Hoboken Terminal is one of the New York Metropolitan area's major   transportation hubs. The commuter-oriented intermodal facility is located on the   Hudson ...",
+   "htmlSnippet": "\u003cb\u003eHoboken\u003c/b\u003e Terminal is one of the New York Metropolitan area&#39;s major \u003cbr\u003e  transportation hubs. The commuter-oriented intermodal facility is located on the \u003cbr\u003e  Hudson \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "Uc65JrEnWJcJ",
+   "formattedUrl": "en.wikipedia.org/wiki/Hoboken_Terminal",
+   "htmlFormattedUrl": "en.wikipedia.org/wiki/\u003cb\u003eHoboken\u003c/b\u003e_Terminal",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Hoboken_Terminal_waitingroom.jpg/300px-Hoboken_Terminal_waitingroom.jpg",
+      "type": "1",
+      "width": "240",
+      "height": "180"
+     }
+    ],
+    "hcard": [
+     {
+      "fn": "Hoboken",
+      "nickname": "HOB"
+     }
+    ]
+   }
+  }
+ ]
+}

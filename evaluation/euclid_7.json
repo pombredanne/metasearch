@@ -1,0 +1,244 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "nextPage": [
+   {
+    "title": "Google Custom Search - euclid",
+    "totalResults": "1640000",
+    "searchTerms": "euclid",
+    "count": 10,
+    "startIndex": 81,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "017401104989814545383:mf4lavmtuva"
+   }
+  ],
+  "request": [
+   {
+    "title": "Google Custom Search - euclid",
+    "totalResults": "1640000",
+    "searchTerms": "euclid",
+    "count": 10,
+    "startIndex": 71,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "017401104989814545383:mf4lavmtuva"
+   }
+  ],
+  "previousPage": [
+   {
+    "title": "Google Custom Search - euclid",
+    "totalResults": "1640000",
+    "searchTerms": "euclid",
+    "count": 10,
+    "startIndex": 61,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "017401104989814545383:mf4lavmtuva"
+   }
+  ]
+ },
+ "context": {
+  "title": "College MetaSearch Comparison"
+ },
+ "searchInformation": {
+  "searchTime": 0.145449,
+  "formattedSearchTime": "0.15",
+  "totalResults": "1640000",
+  "formattedTotalResults": "1,640,000"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "Euclid Historical Society",
+   "htmlTitle": "\u003cb\u003eEuclid\u003c/b\u003e Historical Society",
+   "link": "http://www.case.edu/affil/NEOIMC/institution-pages/Euclid.htm",
+   "displayLink": "www.case.edu",
+   "snippet": "Euclid History Museum Euclid Historical Museum 21129 North St., Euclid, OH   44123 216/289-8577. Euclid History Museum website. Tu.-Sa. 1-4 PM; Cost: Free ...",
+   "htmlSnippet": "\u003cb\u003eEuclid\u003c/b\u003e History Museum \u003cb\u003eEuclid\u003c/b\u003e Historical Museum 21129 North St., \u003cb\u003eEuclid\u003c/b\u003e, OH \u003cbr\u003e  44123 216/289-8577. \u003cb\u003eEuclid\u003c/b\u003e History Museum website. Tu.-Sa. 1-4 PM; Cost: Free \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "2xjN6DahoJIJ",
+   "formattedUrl": "www.case.edu/affil/NEOIMC/institution-pages/Euclid.htm",
+   "htmlFormattedUrl": "www.case.edu/affil/NEOIMC/institution-pages/\u003cb\u003eEuclid\u003c/b\u003e.htm",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.case.edu/affil/NEOIMC/institution-photos/EuclidHistoricalMuseum.jpg",
+      "type": "1",
+      "width": "208",
+      "height": "161"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Euclid Systems Corporation",
+   "htmlTitle": "\u003cb\u003eEuclid\u003c/b\u003e Systems Corporation",
+   "link": "http://www.euclidsys.com/",
+   "displayLink": "www.euclidsys.com",
+   "snippet": "",
+   "htmlSnippet": "",
+   "cacheId": "bcELr1s42p0J",
+   "formattedUrl": "www.euclidsys.com/",
+   "htmlFormattedUrl": "www.\u003cb\u003eeuclids\u003c/b\u003eys.com/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.euclidsys.com/emerald/images/emeraldsplash_off_01.jpg",
+      "type": "1",
+      "width": "307",
+      "height": "164"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Euclid Research",
+   "htmlTitle": "\u003cb\u003eEuclid\u003c/b\u003e Research",
+   "link": "http://www.euclidres.com/",
+   "displayLink": "www.euclidres.com",
+   "snippet": "Euclid Research manufactures motion analysis equipment catering to   electromechanical, motion control and automotive designers. The systems   connect to ...",
+   "htmlSnippet": "\u003cb\u003eEuclid\u003c/b\u003e Research manufactures motion analysis equipment catering to \u003cbr\u003e  electromechanical, motion control and automotive designers. The systems \u003cbr\u003e  connect to \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "O3P5Iascrr8J",
+   "formattedUrl": "www.euclidres.com/",
+   "htmlFormattedUrl": "www.\u003cb\u003eeuclid\u003c/b\u003eres.com/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.euclidres.com/images/er.gif",
+      "type": "1",
+      "width": "252",
+      "height": "73"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "EUCLID",
+   "htmlTitle": "\u003cb\u003eEUCLID\u003c/b\u003e",
+   "link": "http://euclid-lis.eu/",
+   "displayLink": "euclid-lis.eu",
+   "snippet": "Feb 8, 2012 ... European Association for Library & Information Education and Research.",
+   "htmlSnippet": "Feb 8, 2012 \u003cb\u003e...\u003c/b\u003e European Association for Library &amp; Information Education and Research.",
+   "cacheId": "8XDC88zUuhEJ",
+   "formattedUrl": "euclid-lis.eu/",
+   "htmlFormattedUrl": "\u003cb\u003eeuclid\u003c/b\u003e-lis.eu/"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Anaheim Library - Euclid Branch Library",
+   "htmlTitle": "Anaheim Library - \u003cb\u003eEuclid\u003c/b\u003e Branch Library",
+   "link": "http://www2.anaheim.net/article.cfm?id=117",
+   "displayLink": "www2.anaheim.net",
+   "snippet": "Euclid Branch Library 1340 S. Euclid St. Anaheim, CA 92802 (2 blocks south of   Ball Road, next to fire station) » Get driving directions (714) 765-3625 ...",
+   "htmlSnippet": "\u003cb\u003eEuclid\u003c/b\u003e Branch Library 1340 S. \u003cb\u003eEuclid\u003c/b\u003e St. Anaheim, CA 92802 (2 blocks south of \u003cbr\u003e  Ball Road, next to fire station) » Get driving directions (714) 765-3625 \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "iCkKkCllzr0J",
+   "formattedUrl": "www2.anaheim.net/article.cfm?id=117",
+   "htmlFormattedUrl": "www2.anaheim.net/article.cfm?id=117",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www2.anaheim.net/images/default/articles/117/Euclid_ext_web.jpg",
+      "type": "1",
+      "width": "187",
+      "height": "112"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Euclid Media",
+   "htmlTitle": "\u003cb\u003eEuclid\u003c/b\u003e Media",
+   "link": "http://www.euclidmedia.com/",
+   "displayLink": "www.euclidmedia.com",
+   "snippet": "Pandoodle Internet video advertising solution for effective brand marketing.",
+   "htmlSnippet": "Pandoodle Internet video advertising solution for effective brand marketing.",
+   "cacheId": "sFMiWdj4zuQJ",
+   "formattedUrl": "www.euclidmedia.com/",
+   "htmlFormattedUrl": "www.\u003cb\u003eeuclid\u003c/b\u003emedia.com/"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "City of Euclid: Sewer Department",
+   "htmlTitle": "City of \u003cb\u003eEuclid\u003c/b\u003e: Sewer Department",
+   "link": "http://www.cityofeuclid.com/community/service/SewerDepartment",
+   "displayLink": "www.cityofeuclid.com",
+   "snippet": "Your sewer bill is calculated based on consumption (how many MCF's that you   use, 1 MCF=7500 gallons of water). Euclid residents pay $58.17 per MCF.",
+   "htmlSnippet": "Your sewer bill is calculated based on consumption (how many MCF&#39;s that you \u003cbr\u003e  use, 1 MCF=7500 gallons of water). \u003cb\u003eEuclid\u003c/b\u003e residents pay $58.17 per MCF.",
+   "cacheId": "ia_SxvVzpJAJ",
+   "formattedUrl": "www.cityofeuclid.com/community/service/SewerDepartment",
+   "htmlFormattedUrl": "www.cityof\u003cb\u003eeuclid\u003c/b\u003e.com/community/service/SewerDepartment"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Introduction to the works of Euclid",
+   "htmlTitle": "Introduction to the works of \u003cb\u003eEuclid\u003c/b\u003e",
+   "link": "http://www.obkb.com/dcljr/euclid.html",
+   "displayLink": "www.obkb.com",
+   "snippet": "Oct 4, 2003 ... With an Emphasis on the Elements. By Donald Lancon, Jr. (student).",
+   "htmlSnippet": "Oct 4, 2003 \u003cb\u003e...\u003c/b\u003e With an Emphasis on the Elements. By Donald Lancon, Jr. (student).",
+   "cacheId": "X33q6o4re4EJ",
+   "formattedUrl": "www.obkb.com/dcljr/euclid.html",
+   "htmlFormattedUrl": "www.obkb.com/dcljr/\u003cb\u003eeuclid\u003c/b\u003e.html"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Welcome to Euclid Pet Pals!",
+   "htmlTitle": "Welcome to \u003cb\u003eEuclid\u003c/b\u003e Pet Pals!",
+   "link": "http://www.euclidpetpals.net/",
+   "displayLink": "www.euclidpetpals.net",
+   "snippet": "The new home of the Euclid Pet Pals organization in Euclid, Ohio. Come and find   a furry friend today!",
+   "htmlSnippet": "The new home of the \u003cb\u003eEuclid\u003c/b\u003e Pet Pals organization in \u003cb\u003eEuclid\u003c/b\u003e, Ohio. Come and find \u003cbr\u003e  a furry friend today!",
+   "cacheId": "APifrAIRYgMJ",
+   "formattedUrl": "www.euclidpetpals.net/",
+   "htmlFormattedUrl": "www.\u003cb\u003eeuclid\u003c/b\u003epetpals.net/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.euclidpetpals.net/images/menu1Shiny_r5_c19.jpg",
+      "type": "1",
+      "width": "71",
+      "height": "66"
+     }
+    ],
+    "metatags": [
+     {
+      "abstract": "Euclid Pet Pals new website!"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "VMI Euclid",
+   "htmlTitle": "VMI \u003cb\u003eEuclid\u003c/b\u003e",
+   "link": "http://www.visual-euclid.org/",
+   "displayLink": "www.visual-euclid.org",
+   "snippet": "New edition of the text of Heath, transformed into an extensively illustrated edition  .",
+   "htmlSnippet": "New edition of the text of Heath, transformed into an extensively illustrated edition\u003cbr\u003e  .",
+   "cacheId": "v9lr7UElegIJ",
+   "formattedUrl": "www.visual-euclid.org/",
+   "htmlFormattedUrl": "www.visual-\u003cb\u003eeuclid\u003c/b\u003e.org/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.visual-euclid.org/a1-44k.gif",
+      "type": "1",
+      "width": "195",
+      "height": "258"
+     }
+    ]
+   }
+  }
+ ]
+}

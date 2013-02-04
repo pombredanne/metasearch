@@ -1,0 +1,331 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "nextPage": [
+   {
+    "title": "Google Custom Search - wilson antenna",
+    "totalResults": "623000",
+    "searchTerms": "wilson antenna",
+    "count": 10,
+    "startIndex": 61,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "017401104989814545383:mf4lavmtuva"
+   }
+  ],
+  "request": [
+   {
+    "title": "Google Custom Search - wilson antenna",
+    "totalResults": "623000",
+    "searchTerms": "wilson antenna",
+    "count": 10,
+    "startIndex": 51,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "017401104989814545383:mf4lavmtuva"
+   }
+  ],
+  "previousPage": [
+   {
+    "title": "Google Custom Search - wilson antenna",
+    "totalResults": "623000",
+    "searchTerms": "wilson antenna",
+    "count": 10,
+    "startIndex": 41,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "017401104989814545383:mf4lavmtuva"
+   }
+  ]
+ },
+ "context": {
+  "title": "College MetaSearch Comparison"
+ },
+ "searchInformation": {
+  "searchTime": 0.139148,
+  "formattedSearchTime": "0.14",
+  "totalResults": "623000",
+  "formattedTotalResults": "623,000"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "301135 - Wilson Cellular Dual-Band Directional Panel Antenna (for ...",
+   "htmlTitle": "301135 - \u003cb\u003eWilson\u003c/b\u003e Cellular Dual-Band Directional Panel \u003cb\u003eAntenna\u003c/b\u003e (for \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://www.wpsantennas.com/301135-wilsoncellulardual-banddirectionalpanelantennaforinterioruse.aspx",
+   "displayLink": "www.wpsantennas.com",
+   "snippet": "Dual-band panel antenna for use as interior antenna in Amplifier/Repeater/BDA   Systems. Compatible with all generations of CDMA, GSM and TDMA including ...",
+   "htmlSnippet": "Dual-band panel \u003cb\u003eantenna\u003c/b\u003e for use as interior \u003cb\u003eantenna\u003c/b\u003e in Amplifier/Repeater/BDA \u003cbr\u003e  Systems. Compatible with all generations of CDMA, GSM and TDMA including \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "mP-pTmITz3kJ",
+   "formattedUrl": "www.wpsantennas.com/301135-wilsoncellulardual- banddirectionalpanelantennaforinterioruse.aspx",
+   "htmlFormattedUrl": "www.wps\u003cb\u003eantennas\u003c/b\u003e.com/301135-\u003cb\u003ewilson\u003c/b\u003ecellulardual- banddirectionalpanel\u003cb\u003eantenna\u003c/b\u003eforinterioruse.aspx",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.wpsantennas.com/ProductImages/antennas/301135.jpg",
+      "type": "1",
+      "width": "191",
+      "height": "264"
+     }
+    ],
+    "metatags": [
+     {
+      "og:title": "301135 - Wilson Cellular Dual-Band Directional Panel Antenna (for interior use)",
+      "og:description": "Dual-band panel antenna for use as interior antenna in Amplifier/Repeater/BDA Systems.&lt;br&gt;&lt;i&gt;Compatible with all generations of CDMA, GSM and TDMA including GSM, GPRS, EDGE, UMTS, HSDPA, CDMA, 1xRTT, EVDO, TDMA, AMPS, iDEN, Nextel&lt;/i&gt;",
+      "og:image": "http://www.wpsantennas.com/ProductImages/antennas/Thumb_301135.JPG",
+      "og:site_name": "wpsantennas.com - Cellular Antenna and Amplifier Reception Solutions",
+      "og:url": "http://www.wpsantennas.com/301135-wilsoncellulardual-banddirectionalpanelantennaforinterioruse.aspx"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Wilson Bi-Directional Cellular Amplifiers and Repeaters, Cellular ...",
+   "htmlTitle": "\u003cb\u003eWilson\u003c/b\u003e Bi-Directional Cellular Amplifiers and Repeaters, Cellular \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://www.alternativewireless.com/cellular-antennas/cell-phone-antennas/wilson-antennas/wilson-cellular-amplifiers.html",
+   "displayLink": "www.alternativewireless.com",
+   "snippet": "Wilson Bi-Directional cellular amplifier repeater offers advanced electronics to   receive and transmit better than your cellular phone alone. Cellular signal   booster ...",
+   "htmlSnippet": "\u003cb\u003eWilson\u003c/b\u003e Bi-Directional cellular amplifier repeater offers advanced electronics to \u003cbr\u003e  receive and transmit better than your cellular phone alone. Cellular signal \u003cbr\u003e  booster \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "_5oG3_7_WxcJ",
+   "formattedUrl": "www.alternativewireless.com/...antennas/...antennas/wilson-antennas/wilson- cellular-amplifiers.html",
+   "htmlFormattedUrl": "www.alternativewireless.com/...\u003cb\u003eantennas\u003c/b\u003e/...\u003cb\u003eantennas\u003c/b\u003e/\u003cb\u003ewilson\u003c/b\u003e-\u003cb\u003eantennas\u003c/b\u003e/\u003cb\u003ewilson\u003c/b\u003e- cellular-amplifiers.html",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.alternativewireless.com/media/media/catalog/homepage/authorized-dealer-seal.png",
+      "type": "1",
+      "width": "120",
+      "height": "124"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "811210 - Wilson Cellular SIGNALBOOST HDSOLO Mobile and ...",
+   "htmlTitle": "811210 - \u003cb\u003eWilson\u003c/b\u003e Cellular SIGNALBOOST HDSOLO Mobile and \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://www.wpsantennas.com/811210-wilsoncellularsignalboostmobileandhomeofficecellularpcsdual-bandinlineamplifier.aspx",
+   "displayLink": "www.wpsantennas.com",
+   "snippet": "Wilson Cellular 811210 - Wilson SIGNALBOOST Cellular Phone Amplifier for   Mobile and Home/Office - Wilson Electronics SIGNALBOOST Dual Band 800/  1900 ...",
+   "htmlSnippet": "\u003cb\u003eWilson\u003c/b\u003e Cellular 811210 - \u003cb\u003eWilson\u003c/b\u003e SIGNALBOOST Cellular Phone Amplifier for \u003cbr\u003e  Mobile and Home/Office - \u003cb\u003eWilson\u003c/b\u003e Electronics SIGNALBOOST Dual Band 800/\u003cbr\u003e  1900 \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "PaPnLeqT7CgJ",
+   "formattedUrl": "www.wpsantennas.com/811210- wilsoncellularsignalboostmobileandhomeofficecellularpcsdual- ...",
+   "htmlFormattedUrl": "www.wps\u003cb\u003eantennas\u003c/b\u003e.com/811210- \u003cb\u003ewilson\u003c/b\u003ecellularsignalboostmobileandhomeofficecellularpcsdual- ...",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.wpsantennas.com/ProductImages/amplifiers/811210.JPG",
+      "type": "1",
+      "width": "244",
+      "height": "207"
+     }
+    ],
+    "metatags": [
+     {
+      "og:title": "811210 - Wilson Cellular SIGNALBOOST HDSOLO Mobile and Home/Office Cellular/PCS Dual-Band Amplifier",
+      "og:description": "Direct connect 3 Watt Dual-Band (Cellular/PCS) Wilson Signalboost inline amplifier designed for use with cell phones, cellular data cards, wireless cellular modems and other cellular devices with the included Universal Velcro™adapter (Wilson 811210)",
+      "og:image": "http://www.wpsantennas.com/ProductImages/amplifiers/Thumb_811210.JPG",
+      "og:site_name": "wpsantennas.com - Cellular Antenna and Amplifier Reception Solutions",
+      "og:url": "http://www.wpsantennas.com/811210-wilsoncellularsignalboostmobileandhomeofficecellularpcsdual-bandinlineamplifier.aspx"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Cobra 29 and Wilson CB Antenna Package | Right Channel Radios",
+   "htmlTitle": "Cobra 29 and \u003cb\u003eWilson\u003c/b\u003e CB \u003cb\u003eAntenna\u003c/b\u003e Package | Right Channel Radios",
+   "link": "http://www.rightchannelradios.com/cobra-29-and-wilson-cb-antenna-package.html",
+   "displayLink": "www.rightchannelradios.com",
+   "snippet": "May 29, 2012 ... This kit combines two of the most popular CB products on the market: the Cobra   29 and the Wilson magnet mount CB antenna. Fast Shipping ...",
+   "htmlSnippet": "May 29, 2012 \u003cb\u003e...\u003c/b\u003e This kit combines two of the most popular CB products on the market: the Cobra \u003cbr\u003e  29 and the \u003cb\u003eWilson\u003c/b\u003e magnet mount CB \u003cb\u003eantenna\u003c/b\u003e. Fast Shipping \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "X4Ve2qbA-goJ",
+   "formattedUrl": "www.rightchannelradios.com/cobra-29-and-wilson-cb-antenna-package.html",
+   "htmlFormattedUrl": "www.rightchannelradios.com/cobra-29-and-\u003cb\u003ewilson\u003c/b\u003e-cb-\u003cb\u003eantenna\u003c/b\u003e-package.html",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.rightchannelradios.com/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/c/o/cobra29wilson.gif",
+      "type": "1",
+      "width": "225",
+      "height": "225"
+     }
+    ],
+    "Offering": [
+     {
+      "validFrom": "2012-07-06T00:00:00-07:00",
+      "validThrough": "2012-10-06T11:31:28-07:00",
+      "eligibleRegions": "AL",
+      "name": "Cobra 29 and Wilson CB Antenna Package"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "File:Mt Wilson antenna farm winter.jpeg - Wikipedia, the free ...",
+   "htmlTitle": "File:Mt \u003cb\u003eWilson antenna\u003c/b\u003e farm winter.jpeg - Wikipedia, the free \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://en.wikipedia.org/wiki/File:Mt_Wilson_antenna_farm_winter.jpeg",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "File:Mt Wilson antenna farm winter.jpeg. From Wikipedia, the ... English: Antenna   farm on Mount Wilson, San Gabriel Mountains, CA, in winter. It sounded like ...",
+   "htmlSnippet": "File:Mt \u003cb\u003eWilson antenna\u003c/b\u003e farm winter.jpeg. From Wikipedia, the \u003cb\u003e...\u003c/b\u003e English: Antenna \u003cbr\u003e  farm on Mount Wilson, San Gabriel Mountains, CA, in winter. It sounded like \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "AbA4lPql7JoJ",
+   "formattedUrl": "en.wikipedia.org/wiki/File:Mt_Wilson_antenna_farm_winter.jpeg",
+   "htmlFormattedUrl": "en.wikipedia.org/wiki/File:Mt_\u003cb\u003eWilson\u003c/b\u003e_\u003cb\u003eantenna\u003c/b\u003e_farm_winter.jpeg",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Mt_Wilson_antenna_farm_winter.jpeg/450px-Mt_Wilson_antenna_farm_winter.jpeg",
+      "type": "1",
+      "width": "194",
+      "height": "259"
+     }
+    ],
+    "scraped": [
+     {
+      "image_link": "//upload.wikimedia.org/wikipedia/commons/b/b6/Mt_Wilson_antenna_farm_winter.jpeg"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Wilson Electronics, Cell Phone Antennas, Cellular Repeaters, Cell ...",
+   "htmlTitle": "\u003cb\u003eWilson\u003c/b\u003e Electronics, Cell Phone \u003cb\u003eAntennas\u003c/b\u003e, Cellular Repeaters, Cell \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://www.alternativewireless.com/cellular-antennas/cell-phone-antennas/wilson-antennas/wilson-electronics-antennas.html",
+   "displayLink": "www.alternativewireless.com",
+   "snippet": "Wilson Electronics has been a pioneer in the cell phone wireless   communications industry for over 30 years. We stock Wilson Electronic antennas,   cellular ...",
+   "htmlSnippet": "\u003cb\u003eWilson\u003c/b\u003e Electronics has been a pioneer in the cell phone wireless \u003cbr\u003e  communications industry for over 30 years. We stock \u003cb\u003eWilson\u003c/b\u003e Electronic \u003cb\u003eantennas\u003c/b\u003e, \u003cbr\u003e  cellular \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "ZKSTOIzNe90J",
+   "formattedUrl": "www.alternativewireless.com/...antennas/...antennas/wilson-antennas/wilson- electronics-antennas.html",
+   "htmlFormattedUrl": "www.alternativewireless.com/...\u003cb\u003eantennas\u003c/b\u003e/...\u003cb\u003eantennas\u003c/b\u003e/\u003cb\u003ewilson\u003c/b\u003e-\u003cb\u003eantennas\u003c/b\u003e/\u003cb\u003ewilson\u003c/b\u003e- electronics-\u003cb\u003eantennas\u003c/b\u003e.html",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.alternativewireless.com/media/catalog/awimages/cell-signal/wilson-building-mount-cellular-antenna.jpg",
+      "type": "1",
+      "width": "186",
+      "height": "143"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Wilson Antenna Bought By Barjan",
+   "htmlTitle": "\u003cb\u003eWilson Antenna\u003c/b\u003e Bought By Barjan",
+   "link": "http://cbworldinformer.com/200107/wilson_barjan.htm",
+   "displayLink": "cbworldinformer.com",
+   "snippet": "Much to the surprise of many, just about two years ago Jim Wilson did the   unthinkable, he sold Wilson Antenna. Wilson became the number one antenna ...",
+   "htmlSnippet": "Much to the surprise of many, just about two years ago Jim Wilson did the \u003cbr\u003e  unthinkable, he sold \u003cb\u003eWilson Antenna\u003c/b\u003e. Wilson became the number one antenna \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "VCEOdMtV-kQJ",
+   "formattedUrl": "cbworldinformer.com/200107/wilson_barjan.htm",
+   "htmlFormattedUrl": "cbworldinformer.com/200107/\u003cb\u003ewilson\u003c/b\u003e_barjan.htm",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://cbworldinformer.com/images/new_globe_mic.gif",
+      "type": "1",
+      "width": "80",
+      "height": "88"
+     }
+    ],
+    "metatags": [
+     {
+      "progid": "FrontPage.Editor.Document",
+      "microsoft border": "b, default"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Wilson Flex CB Antenna | Right Channel Radios",
+   "htmlTitle": "\u003cb\u003eWilson\u003c/b\u003e Flex CB \u003cb\u003eAntenna\u003c/b\u003e | Right Channel Radios",
+   "link": "http://www.rightchannelradios.com/wilson-flex-cb-antenna.html",
+   "displayLink": "www.rightchannelradios.com",
+   "snippet": "The Wilson Flex CB Antenna does just what its name suggests: It flexes 180   degrees! Perfect for Jeep and off-road drivers. Fast Shipping, 120% Satisfaction ...",
+   "htmlSnippet": "The \u003cb\u003eWilson\u003c/b\u003e Flex CB \u003cb\u003eAntenna\u003c/b\u003e does just what its name suggests: It flexes 180 \u003cbr\u003e  degrees! Perfect for Jeep and off-road drivers. Fast Shipping, 120% Satisfaction \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "uxZQB5J379YJ",
+   "formattedUrl": "www.rightchannelradios.com/wilson-flex-cb-antenna.html",
+   "htmlFormattedUrl": "www.rightchannelradios.com/\u003cb\u003ewilson\u003c/b\u003e-flex-cb-\u003cb\u003eantenna\u003c/b\u003e.html",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.rightchannelradios.com/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/f/l/flex4_2.jpg",
+      "type": "1",
+      "width": "148",
+      "height": "186"
+     }
+    ],
+    "Offering": [
+     {
+      "validFrom": "2012-07-12T00:00:00-07:00",
+      "validThrough": "2012-10-12T06:13:47-07:00",
+      "eligibleRegions": "AL",
+      "name": "Wilson Flex Antenna",
+      "description": "The Wilson Flex is extremely similar to the FGT series, with the added benefit of antenna flexibility. It's designed specifically for the CB user needing an antenna that can handle rigorous..."
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Wilson Electronic Trucker Antenna 301101 - Free Shipping.",
+   "htmlTitle": "\u003cb\u003eWilson\u003c/b\u003e Electronic Trucker \u003cb\u003eAntenna\u003c/b\u003e 301101 - Free Shipping.",
+   "link": "http://www.accessorygeeks.com/wilson-antenna-package.html",
+   "displayLink": "www.accessorygeeks.com",
+   "snippet": "AccessoryGeeks.com is the largest dealer of Wilson Electronic Trucker Antenna   301101 and other accessories.",
+   "htmlSnippet": "AccessoryGeeks.com is the largest dealer of \u003cb\u003eWilson\u003c/b\u003e Electronic Trucker \u003cb\u003eAntenna\u003c/b\u003e \u003cbr\u003e  301101 and other accessories.",
+   "cacheId": "P2BgeTXK3o4J",
+   "formattedUrl": "www.accessorygeeks.com/wilson-antenna-package.html",
+   "htmlFormattedUrl": "www.accessorygeeks.com/\u003cb\u003ewilson\u003c/b\u003e-\u003cb\u003eantenna\u003c/b\u003e-package.html",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://site.accessorygeeks.com/yswimages/wilson-antenna-package.jpg",
+      "type": "1",
+      "width": "224",
+      "height": "224"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "301103 - Wilson Cellular Dual-Band Magnetic Mount Cell Phone ...",
+   "htmlTitle": "301103 - \u003cb\u003eWilson\u003c/b\u003e Cellular Dual-Band Magnetic Mount Cell Phone \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://www.wpsantennas.com/301103-wilson-cellular-magnetic-mount-cell-antenna.aspx",
+   "displayLink": "www.wpsantennas.com",
+   "snippet": "Our most popular dual-band cell phone antenna, works great on passenger cars   and trucks. Compatible with all generations of CDMA, GSM and TDMA ...",
+   "htmlSnippet": "Our most popular dual-band cell phone \u003cb\u003eantenna\u003c/b\u003e, works great on passenger cars \u003cbr\u003e  and trucks. Compatible with all generations of CDMA, GSM and TDMA \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "XQzlUqnFeyoJ",
+   "formattedUrl": "www.wpsantennas.com/301103-wilson-cellular-magnetic-mount-cell-antenna .aspx",
+   "htmlFormattedUrl": "www.wps\u003cb\u003eantennas\u003c/b\u003e.com/301103-\u003cb\u003ewilson\u003c/b\u003e-cellular-magnetic-mount-cell-\u003cb\u003eantenna\u003c/b\u003e .aspx",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.wpsantennas.com/ProductImages/antennas/Thumb_301103.JPG"
+     }
+    ],
+    "metatags": [
+     {
+      "og:title": "301103 - Wilson Cellular Dual-Band Magnetic Mount Cell Phone Antenna",
+      "og:description": "Our most popular dual-band cell phone antenna, works great on passenger cars and trucks.&lt;br&gt;&lt;i&gt;Compatible with all generations of CDMA, GSM and TDMA including GSM, 3G GPRS, EDGE, UMTS, HSDPA, CDMA, 1xRTT, EVDO, TDMA, AMPS, iDEN, Nextel&lt;/i&gt;",
+      "og:image": "http://www.wpsantennas.com/ProductImages/antennas/Thumb_301103.JPG",
+      "og:site_name": "wpsantennas.com - Cellular Antenna and Amplifier Reception Solutions",
+      "og:url": "http://www.wpsantennas.com/301103-wilson-cellular-magnetic-mount-cell-antenna.aspx"
+     }
+    ]
+   }
+  }
+ ]
+}

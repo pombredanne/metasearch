@@ -1,0 +1,250 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "nextPage": [
+   {
+    "title": "Google Custom Search - arizona game and fish",
+    "totalResults": "1710000",
+    "searchTerms": "arizona game and fish",
+    "count": 10,
+    "startIndex": 51,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "017401104989814545383:mf4lavmtuva"
+   }
+  ],
+  "request": [
+   {
+    "title": "Google Custom Search - arizona game and fish",
+    "totalResults": "1710000",
+    "searchTerms": "arizona game and fish",
+    "count": 10,
+    "startIndex": 41,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "017401104989814545383:mf4lavmtuva"
+   }
+  ],
+  "previousPage": [
+   {
+    "title": "Google Custom Search - arizona game and fish",
+    "totalResults": "1710000",
+    "searchTerms": "arizona game and fish",
+    "count": 10,
+    "startIndex": 31,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "017401104989814545383:mf4lavmtuva"
+   }
+  ]
+ },
+ "context": {
+  "title": "College MetaSearch Comparison"
+ },
+ "searchInformation": {
+  "searchTime": 0.151462,
+  "formattedSearchTime": "0.15",
+  "totalResults": "1710000",
+  "formattedTotalResults": "1,710,000"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "Fishing Rules & Regulations",
+   "htmlTitle": "\u003cb\u003eFishing\u003c/b\u003e Rules &amp; Regulations",
+   "link": "http://www.azgfd.gov/h_f/fishing_rules.shtml",
+   "displayLink": "www.azgfd.gov",
+   "snippet": "Urban Fishing is a cooperative program between the Arizona Game and Fish   Department and the cities of Chandler, Gilbert, Mesa, Payson,Peoria, Phoenix, ...",
+   "htmlSnippet": "Urban Fishing is a cooperative program between the \u003cb\u003eArizona Game and Fish\u003c/b\u003e \u003cbr\u003e  Department and the cities of Chandler, Gilbert, Mesa, Payson,Peoria, Phoenix, \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "afzKqxVeuSUJ",
+   "formattedUrl": "www.azgfd.gov/h_f/fishing_rules.shtml",
+   "htmlFormattedUrl": "www.azgfd.gov/h_f/\u003cb\u003efishing\u003c/b\u003e_rules.shtml"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Arizona Game and Fish Pinetop Region - Government Organization ...",
+   "htmlTitle": "\u003cb\u003eArizona Game and Fish\u003c/b\u003e Pinetop Region - Government Organization \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://www.facebook.com/pages/Arizona-Game-and-Fish-Pinetop-Region/219080334778882",
+   "displayLink": "www.facebook.com",
+   "snippet": "To connect with Arizona Game and Fish Pinetop Region, sign up for Facebook   today. ... Reminder – Each summer, staff at the Arizona Game and Fish office in ...",
+   "htmlSnippet": "To connect with \u003cb\u003eArizona Game and Fish\u003c/b\u003e Pinetop Region, sign up for Facebook \u003cbr\u003e  today. \u003cb\u003e...\u003c/b\u003e Reminder – Each summer, staff at the \u003cb\u003eArizona Game and Fish\u003c/b\u003e office in \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "qN_POhXDNOsJ",
+   "formattedUrl": "www.facebook.com/.../Arizona-Game-and-Fish.../219080334778882",
+   "htmlFormattedUrl": "www.facebook.com/.../\u003cb\u003eArizona\u003c/b\u003e-\u003cb\u003eGame-and-Fish\u003c/b\u003e.../219080334778882",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://sphotos.xx.fbcdn.net/hphotos-ash3/c0.0.288.288/p403x403/563319_449227918430788_852585848_n.jpg",
+      "type": "1",
+      "width": "230",
+      "height": "196"
+     }
+    ],
+    "organization": [
+     {
+      "photo": "http://profile.ak.fbcdn.net/hprofile-ak-snc4/277002_219080334778882_1865840972_n.jpg",
+      "name": "Arizona Game and Fish Pinetop Region"
+     }
+    ],
+    "metatags": [
+     {
+      "title": "Arizona Game and Fish Pinetop Region - Government Organization - Pinetop-Lakeside, AZ | Facebook"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Where to Fish in Arizona",
+   "htmlTitle": "Where to \u003cb\u003eFish\u003c/b\u003e in \u003cb\u003eArizona\u003c/b\u003e",
+   "link": "http://www.azgfd.gov/h_f/where_fish.shtml",
+   "displayLink": "www.azgfd.gov",
+   "snippet": "Morethan 90 percent of the trout available to anglers are provided through the   Arizona Game and Fish Department's fish hatchery system. Most of these waters ...",
+   "htmlSnippet": "Morethan 90 percent of the trout available to anglers are provided through the \u003cbr\u003e  \u003cb\u003eArizona Game and Fish\u003c/b\u003e Department&#39;s fish hatchery system. Most of these waters \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "vSD5AdDVHVkJ",
+   "formattedUrl": "www.azgfd.gov/h_f/where_fish.shtml",
+   "htmlFormattedUrl": "www.azgfd.gov/h_f/where_\u003cb\u003efish\u003c/b\u003e.shtml",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.azgfd.gov/images/h_f/fishing/whertofish.jpg",
+      "type": "1",
+      "width": "296",
+      "height": "164"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Current Openings",
+   "htmlTitle": "Current Openings",
+   "link": "http://www.azgfd.com/inside_azgfd/edits/employment_openings.shtml",
+   "displayLink": "www.azgfd.com",
+   "snippet": "Arizona Game and FIsh Department - Managing Today for Wildlife Tomorrow: ...   Below you will find the current openings at Arizona Game and Fish Department.",
+   "htmlSnippet": "\u003cb\u003eArizona Game and FIsh\u003c/b\u003e Department - Managing Today for Wildlife Tomorrow: \u003cb\u003e...\u003c/b\u003e \u003cbr\u003e  Below you will find the current openings at \u003cb\u003eArizona Game and Fish\u003c/b\u003e Department.",
+   "cacheId": "iBSHKbS6Po0J",
+   "formattedUrl": "www.azgfd.com/inside_azgfd/edits/employment_openings.shtml",
+   "htmlFormattedUrl": "www.azgfd.com/inside_azgfd/edits/employment_openings.shtml"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Mexican Wolf Conservation and Management",
+   "htmlTitle": "Mexican Wolf Conservation and Management",
+   "link": "http://www.azgfd.gov/w_c/es/wolf_reintroduction.shtml",
+   "displayLink": "www.azgfd.gov",
+   "snippet": "The Arizona Game and Fish Department has been actively involved in   reintroducing Mexican wolves to portions of their historical range for many years.",
+   "htmlSnippet": "The \u003cb\u003eArizona Game and Fish\u003c/b\u003e Department has been actively involved in \u003cbr\u003e  reintroducing Mexican wolves to portions of their historical range for many years.",
+   "cacheId": "TOlg7pQZWAIJ",
+   "formattedUrl": "www.azgfd.gov/w_c/es/wolf_reintroduction.shtml",
+   "htmlFormattedUrl": "www.azgfd.gov/w_c/es/wolf_reintroduction.shtml",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.azgfd.gov/images/w_c/wolf/Mexican-Wolf-AGFD.jpg",
+      "type": "1",
+      "width": "168",
+      "height": "162"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "AZGFD.gov Updated May 2 Fishing Report",
+   "htmlTitle": "AZGFD.gov Updated May 2 \u003cb\u003eFishing\u003c/b\u003e Report",
+   "link": "http://azgfd.net/artman/publish/FishingReport/May-2-Fishing-Report.shtml",
+   "displayLink": "azgfd.net",
+   "snippet": "May 3, 2012 ... The Arizona Game and Fish Department will have a booth there and Rory Aikens   will be on hand to autograph Arizona's Official Fishing Guide ...",
+   "htmlSnippet": "May 3, 2012 \u003cb\u003e...\u003c/b\u003e The \u003cb\u003eArizona Game and Fish\u003c/b\u003e Department will have a booth there and Rory Aikens \u003cbr\u003e  will be on hand to autograph Arizona&#39;s Official Fishing Guide \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "5NBt_9kHIcwJ",
+   "formattedUrl": "azgfd.net/artman/publish/FishingReport/May-2-Fishing-Report.shtml",
+   "htmlFormattedUrl": "azgfd.net/artman/publish/\u003cb\u003eFishing\u003c/b\u003eReport/May-2-\u003cb\u003eFishing\u003c/b\u003e-Report.shtml",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://azgfd.net/artman/uploads/1/Sunrise_on_Roosevelt_2_thumb.jpg",
+      "type": "1",
+      "width": "240",
+      "height": "179"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Operation Game Thief",
+   "htmlTitle": "Operation \u003cb\u003eGame\u003c/b\u003e Thief",
+   "link": "http://www.azgfd.gov/ogt.shtml",
+   "displayLink": "www.azgfd.gov",
+   "snippet": "There are limited commissioned officers in the Arizona Game and Fish   Department and many of these officers only do enforcement part-time. The   Department ...",
+   "htmlSnippet": "There are limited commissioned officers in the \u003cb\u003eArizona Game and Fish\u003c/b\u003e \u003cbr\u003e  Department and many of these officers only do enforcement part-time. The \u003cbr\u003e  Department \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "XubdRImm5kMJ",
+   "formattedUrl": "www.azgfd.gov/ogt.shtml",
+   "htmlFormattedUrl": "www.azgfd.gov/ogt.shtml",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.azgfd.gov/images/PoachersonTruck-WebHeaderwBADGE_001.jpg",
+      "type": "1",
+      "width": "414",
+      "height": "122"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "AZGFD.gov Arizona Game and Fish supports BLM's proposed ...",
+   "htmlTitle": "AZGFD.gov \u003cb\u003eArizona Game and Fish\u003c/b\u003e supports BLM&#39;s proposed \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://azgfd.net/artman/publish/NewsMedia/Arizona-Game-and-Fish-supports-BLM-s-proposed-Resource-Management-Plan-for-Sonoran-Desert-National-Monument.shtml",
+   "displayLink": "azgfd.net",
+   "snippet": "Jun 29, 2012 ... Plan allows for recreational target shooting. The Arizona Game and Fish   Department supports the Bureau of Land Management's proposed ...",
+   "htmlSnippet": "Jun 29, 2012 \u003cb\u003e...\u003c/b\u003e Plan allows for recreational target shooting. The \u003cb\u003eArizona Game and Fish\u003c/b\u003e \u003cbr\u003e  Department supports the Bureau of Land Management&#39;s proposed \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "OzeyKctew1IJ",
+   "formattedUrl": "azgfd.net/.../Arizona-Game-and-Fish-supports-BLM-s-proposed-Resource- Management-Plan-for-Sonoran-Desert-National-Monument.shtml",
+   "htmlFormattedUrl": "azgfd.net/.../\u003cb\u003eArizona\u003c/b\u003e-\u003cb\u003eGame-and-Fish\u003c/b\u003e-supports-BLM-s-proposed-Resource- Management-Plan-for-Sonoran-Desert-National-Monument.shtml"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Focus Wild Arizona from the Arizona Game and Fish Department",
+   "htmlTitle": "Focus Wild Arizona from the \u003cb\u003eArizona Game and Fish\u003c/b\u003e Department",
+   "link": "http://www.azgfd.gov/focuswild",
+   "displayLink": "www.azgfd.gov",
+   "snippet": "Welcome to Focus Wild Arizona. The Arizona Game and Fish Department's   award-winning* environmental education program is available free to teachers.",
+   "htmlSnippet": "Welcome to Focus Wild Arizona. The \u003cb\u003eArizona Game and Fish\u003c/b\u003e Department&#39;s \u003cbr\u003e  award-winning* environmental education program is available free to teachers.",
+   "cacheId": "MdgwZiPlsxUJ",
+   "formattedUrl": "www.azgfd.gov/focuswild",
+   "htmlFormattedUrl": "www.azgfd.gov/focuswild",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.azgfd.gov/i_e/ee/images/workshop2%20a.jpg",
+      "type": "1",
+      "width": "140",
+      "height": "184"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "AZGFD.gov Arizona's Game and Fish Commission affirms wolf ...",
+   "htmlTitle": "AZGFD.gov \u003cb\u003eArizona&#39;s Game and Fish\u003c/b\u003e Commission affirms wolf \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://azgfd.net/artman/publish/NewsMedia/Arizona-s-Game-and-Fish-Commission-affirms-wolf-conservation-support-objects-to-new-wolf-releases-until-appropriate-planning-occurs.shtml",
+   "displayLink": "azgfd.net",
+   "snippet": "Dec 2, 2011 ... The Arizona Game and Fish Commission (Commission) today voted 3-1 to   continue both its financial and infrastructure support of Mexican wolf ...",
+   "htmlSnippet": "Dec 2, 2011 \u003cb\u003e...\u003c/b\u003e The \u003cb\u003eArizona Game and Fish\u003c/b\u003e Commission (Commission) today voted 3-1 to \u003cbr\u003e  continue both its financial and infrastructure support of Mexican wolf \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "GnaE95M1TZAJ",
+   "formattedUrl": "azgfd.net/.../Arizona-s-Game-and-Fish-Commission-affirms-wolf- conservation-support-objects-to-new-wolf-releases-until-appropriate...",
+   "htmlFormattedUrl": "azgfd.net/.../\u003cb\u003eArizona\u003c/b\u003e-s-\u003cb\u003eGame-and-Fish\u003c/b\u003e-Commission-affirms-wolf- conservation-support-objects-to-new-wolf-releases-until-appropriate..."
+  }
+ ]
+}

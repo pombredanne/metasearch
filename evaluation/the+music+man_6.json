@@ -1,0 +1,381 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "nextPage": [
+   {
+    "title": "Google Custom Search - the music man",
+    "totalResults": "411000000",
+    "searchTerms": "the music man",
+    "count": 10,
+    "startIndex": 71,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "017401104989814545383:mf4lavmtuva"
+   }
+  ],
+  "request": [
+   {
+    "title": "Google Custom Search - the music man",
+    "totalResults": "411000000",
+    "searchTerms": "the music man",
+    "count": 10,
+    "startIndex": 61,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "017401104989814545383:mf4lavmtuva"
+   }
+  ],
+  "previousPage": [
+   {
+    "title": "Google Custom Search - the music man",
+    "totalResults": "411000000",
+    "searchTerms": "the music man",
+    "count": 10,
+    "startIndex": 51,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "017401104989814545383:mf4lavmtuva"
+   }
+  ]
+ },
+ "context": {
+  "title": "College MetaSearch Comparison"
+ },
+ "searchInformation": {
+  "searchTime": 0.199468,
+  "formattedSearchTime": "0.20",
+  "totalResults": "411000000",
+  "formattedTotalResults": "411,000,000"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "Music Man DJ Services Home",
+   "htmlTitle": "\u003cb\u003eMusic Man\u003c/b\u003e DJ Services Home",
+   "link": "http://www.musicmandjservices.com/",
+   "displayLink": "www.musicmandjservices.com",
+   "snippet": "Music Man DJ Services is Northeastern Ohio and Western Pennsylvania's   Premier Entertainment Group offering trusted quality and enthusiasm with over   23 ...",
+   "htmlSnippet": "\u003cb\u003eMusic Man\u003c/b\u003e DJ Services is Northeastern Ohio and Western Pennsylvania&#39;s \u003cbr\u003e  Premier Entertainment Group offering trusted quality and enthusiasm with over \u003cbr\u003e  23 \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "fDQAP9tKSB8J",
+   "formattedUrl": "www.musicmandjservices.com/",
+   "htmlFormattedUrl": "www.\u003cb\u003emusicman\u003c/b\u003edjservices.com/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.musicmandjservices.com/Portals/0/home_01.jpg",
+      "type": "1",
+      "width": "125",
+      "height": "94"
+     }
+    ],
+    "metatags": [
+     {
+      "copyright": "Copyright 2011 by Music Man DJ Services",
+      "author": "Music Man DJ Services",
+      "resource-type": "DOCUMENT",
+      "distribution": "GLOBAL",
+      "rating": "GENERAL"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Music Man inc - serving South Florida families' music education ...",
+   "htmlTitle": "\u003cb\u003eMusic Man\u003c/b\u003e inc - serving South Florida families&#39; music education \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://www.musicmaninc.com/",
+   "displayLink": "www.musicmaninc.com",
+   "snippet": "We service school bands and orchestras specializing in the sale & rental of band   instruments. We carry all major lines including Yamaha, Conn-Selmer, Buffet, ...",
+   "htmlSnippet": "We service school bands and orchestras specializing in the sale &amp; rental of band \u003cbr\u003e  instruments. We carry all major lines including Yamaha, Conn-Selmer, Buffet, \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "VytUWGkcDcIJ",
+   "formattedUrl": "www.musicmaninc.com/",
+   "htmlFormattedUrl": "www.\u003cb\u003emusicman\u003c/b\u003einc.com/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://badge.facebook.com/badge/64464023729.4517.1942606902.png",
+      "type": "1",
+      "width": "96",
+      "height": "145"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Home | Music Man Entertainment",
+   "htmlTitle": "Home | \u003cb\u003eMusic Man\u003c/b\u003e Entertainment",
+   "link": "http://musicmanentertainment.com/",
+   "displayLink": "musicmanentertainment.com",
+   "snippet": "\"Mike played the music for our ceremony, cocktail hour and reception. He was   upbeat, positive and kept the party going until the very last song. Perfect!\"Shaun ...",
+   "htmlSnippet": "&quot;Mike played \u003cb\u003ethe music\u003c/b\u003e for our ceremony, cocktail hour and reception. He was \u003cbr\u003e  upbeat, positive and kept the party going until the very last \u003cb\u003esong\u003c/b\u003e. Perfect!&quot;Shaun \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "DIqK7XA3owsJ",
+   "formattedUrl": "musicmanentertainment.com/",
+   "htmlFormattedUrl": "\u003cb\u003emusicman\u003c/b\u003eentertain\u003cb\u003emen\u003c/b\u003et.com/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://musicmanentertainment.com/wp-content/themes/music_man/images/about_mike_garrasi.jpg",
+      "type": "1",
+      "width": "223",
+      "height": "155"
+     }
+    ],
+    "metatags": [
+     {
+      "nextgen": "1.7.4"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "THE MUSIC MAN D.J's -Music for all occasions in Miami area ...",
+   "htmlTitle": "\u003cb\u003eTHE MUSIC MAN\u003c/b\u003e D.J&#39;s -Music for all occasions in Miami area \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://www.angelfire.com/mi/xiomy/dj.html",
+   "displayLink": "www.angelfire.com",
+   "snippet": "Mobile disc jockey service offering lighting, effects, and updated CD library.   Phone and email.",
+   "htmlSnippet": "Mobile disc jockey service offering lighting, effects, and updated CD library. \u003cbr\u003e  Phone and email.",
+   "cacheId": "zfhI9rV-MQAJ",
+   "formattedUrl": "www.angelfire.com/mi/xiomy/dj.html",
+   "htmlFormattedUrl": "www.angelfire.com/mi/xiomy/dj.html",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.angelfire.com/mi/xiomy/justofoto2.jpg",
+      "type": "1",
+      "width": "197",
+      "height": "256"
+     }
+    ],
+    "metatags": [
+     {
+      "language": "en-us",
+      "rating": "GENERAL",
+      "distribution": "GLOBAL",
+      "content": "THE MUSIC MAN DJ",
+      "design": "THE MUSIC MAN DJ"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Amazon.com: The Music Man (1962 Film Soundtrack): Music",
+   "htmlTitle": "Amazon.com: \u003cb\u003eThe Music Man\u003c/b\u003e (1962 Film Soundtrack): Music",
+   "link": "http://www.amazon.com/The-Music-1962-Film-Soundtrack/dp/B000002K9Y",
+   "displayLink": "www.amazon.com",
+   "snippet": "In light of all the hit Broadway musicals that have stumbled in their translation to   the big screen, The Music Man stands out as an exception; it is one of the ...",
+   "htmlSnippet": "In light of all the hit Broadway musicals that have stumbled in their translation to \u003cbr\u003e  the big screen, \u003cb\u003eThe Music Man\u003c/b\u003e stands out as an exception; it is one of the \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "xe-fI8D94iEJ",
+   "formattedUrl": "www.amazon.com/The-Music-1962-Film.../dp/B000002K9Y",
+   "htmlFormattedUrl": "www.amazon.com/The-\u003cb\u003eMusic\u003c/b\u003e-1962-Film.../dp/B000002K9Y",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://ecx.images-amazon.com/images/I/411MZG4H3WL._SL500_AA300_.jpg"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "225",
+      "height": "225",
+      "src": "https://encrypted-tbn2.google.com/images?q=tbn:ANd9GcTC-cegN849zxyt0EPw096JsfvIbEzmLNPfw7WNE2wWi5PgB7i-gqlpvyo"
+     }
+    ],
+    "scraped": [
+     {
+      "image_link": "http://ecx.images-amazon.com/images/I/411MZG4H3WL._SL500_AA300_.jpg"
+     }
+    ],
+    "metatags": [
+     {
+      "title": "Amazon.com: The Music Man (1962 Film Soundtrack): Music"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "The Music Man - Part 1 - YouTube",
+   "htmlTitle": "\u003cb\u003eThe Music Man\u003c/b\u003e - Part 1 - YouTube",
+   "link": "http://www.youtube.com/watch?v=Cp_x-0vtJ-k",
+   "displayLink": "www.youtube.com",
+   "snippet": "Jul 28, 2007 ... Meredith Willson's The Music Man starring Matthew Broderick and Kristin   Chenoweth (2003). Part One. No copyright infringement intended.",
+   "htmlSnippet": "Jul 28, 2007 \u003cb\u003e...\u003c/b\u003e Meredith Willson&#39;s \u003cb\u003eThe Music Man\u003c/b\u003e starring Matthew Broderick and Kristin \u003cbr\u003e  Chenoweth (2003). Part One. No copyright infringement intended.",
+   "cacheId": "IwLxolF-TU8J",
+   "formattedUrl": "www.youtube.com/watch?v=Cp_x-0vtJ-k",
+   "htmlFormattedUrl": "www.youtube.com/watch?v=Cp_x-0vtJ-k",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://i4.ytimg.com/vi/Cp_x-0vtJ-k/mqdefault.jpg",
+      "type": "1",
+      "width": "256",
+      "height": "144"
+     }
+    ],
+    "videoobject": [
+     {
+      "url": "http://www.youtube.com/watch?v=Cp_x-0vtJ-k",
+      "name": "The Music Man - Part 1",
+      "description": "Meredith Willson's The Music Man starring Matthew Broderick and Kristin Chenoweth (2003). Part One. No copyright infringement intended. Also I'm sorry for th...",
+      "duration": "PT6M22S",
+      "unlisted": "False",
+      "paid": "False",
+      "thumbnailurl": "http://i4.ytimg.com/vi/Cp_x-0vtJ-k/hqdefault.jpg",
+      "embedurl": "http://www.youtube.com/v/Cp_x-0vtJ-k?version=3&autohide=1",
+      "playertype": "Flash",
+      "width": "480",
+      "height": "360"
+     }
+    ],
+    "person": [
+     {
+      "url": "http://www.youtube.com/user/CastingAway"
+     }
+    ],
+    "metatags": [
+     {
+      "title": "The Music Man - Part 1",
+      "og:url": "http://www.youtube.com/watch?v=Cp_x-0vtJ-k",
+      "og:title": "The Music Man - Part 1",
+      "og:description": "Meredith Willson's The Music Man starring Matthew Broderick and Kristin Chenoweth (2003). Part One. No copyright infringement intended. Also I'm sorry for th...",
+      "og:type": "video",
+      "og:image": "http://i4.ytimg.com/vi/Cp_x-0vtJ-k/mqdefault.jpg",
+      "og:video": "http://www.youtube.com/v/Cp_x-0vtJ-k?version=3&autohide=1",
+      "og:video:type": "application/x-shockwave-flash",
+      "og:video:width": "480",
+      "og:video:height": "360",
+      "og:site_name": "YouTube",
+      "fb:app_id": "87741124305",
+      "twitter:player:width": "480",
+      "twitter:player:height": "360",
+      "attribution": "youtube_none/"
+     }
+    ],
+    "imageobject": [
+     {
+      "url": "http://i4.ytimg.com/vi/Cp_x-0vtJ-k/mqdefault.jpg",
+      "width": "320",
+      "height": "180"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "- Marian the Librarian Lyrics from The Music Man",
+   "htmlTitle": "- Marian the Librarian Lyrics from \u003cb\u003eThe Music Man\u003c/b\u003e",
+   "link": "http://www.stlyrics.com/lyrics/themusicman/marianthelibrarian.htm",
+   "displayLink": "www.stlyrics.com",
+   "snippet": "ACCURATE LYRICS: Marian the Librarian by , from soundtrack . Album: song   lyrics, music videos and MP3.",
+   "htmlSnippet": "ACCURATE LYRICS: Marian the Librarian by , from soundtrack . Album: \u003cb\u003esong\u003c/b\u003e \u003cbr\u003e  lyrics, \u003cb\u003emusic\u003c/b\u003e videos and MP3.",
+   "cacheId": "YVW94ENvgNcJ",
+   "formattedUrl": "www.stlyrics.com/lyrics/themusicman/marianthelibrarian.htm",
+   "htmlFormattedUrl": "www.stlyrics.com/lyrics/\u003cb\u003ethemusicman\u003c/b\u003e/marianthelibrarian.htm",
+   "pagemap": {
+    "metatags": [
+     {
+      "name": "Lyrics Marian the Librarian Lyrics, Ringtone, Video"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "The Music Man (1962) - Plot Summary",
+   "htmlTitle": "\u003cb\u003eThe Music Man\u003c/b\u003e (1962) - Plot Summary",
+   "link": "http://www.imdb.com/title/tt0056262/plotsummary",
+   "displayLink": "www.imdb.com",
+   "snippet": "Confidence man Harold Hill arrives at staid River City intending to cheat the   community with his standard scam of offering to equip and train a boy's marching ...",
+   "htmlSnippet": "Confidence \u003cb\u003eman\u003c/b\u003e Harold Hill arrives at staid River City intending to cheat the \u003cbr\u003e  community with his standard scam of offering to equip and train a boy&#39;s marching \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "omcHKqp-YjAJ",
+   "formattedUrl": "www.imdb.com/title/tt0056262/plotsummary",
+   "htmlFormattedUrl": "www.imdb.com/title/tt0056262/plotsummary",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://ia.media-imdb.com/images/M/MV5BMTIwMjQ3NDc5Ml5BMl5BanBnXkFtZTcwODY5NzIyMQ@@._V1._SX82_SY140_.jpg",
+      "type": "1",
+      "width": "65",
+      "height": "112"
+     }
+    ],
+    "metatags": [
+     {
+      "og:url": "http://www.imdb.com/title/tt0056262/plotsummary",
+      "title": "The Music Man (1962) - Plot Summary",
+      "application-name": "IMDb",
+      "msapplication-tooltip": "IMDb Web App",
+      "msapplication-window": "width=1500;height=900",
+      "msapplication-task": "name=Find Movie Showtimes;action-uri=/showtimes/;icon-uri=http://i.media-imdb.com/images/SFff39adb4d259f3c3fd166853a6714a32/favicon.ico",
+      "fb:app_id": "115109575169727",
+      "og:title": "The Music Man (1962) - Plot Summary",
+      "og:site_name": "IMDb"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Music Man - General Info",
+   "htmlTitle": "\u003cb\u003eMusic Man\u003c/b\u003e - General Info",
+   "link": "http://www.endresnet.com/mminfo.html",
+   "displayLink": "www.endresnet.com",
+   "snippet": "In The Music Man, he has translated the thump and razzle-dazzle of brass-band   lore into a warm and genial cartoon of gaudy American life. Since the style is ...",
+   "htmlSnippet": "In \u003cb\u003eThe Music Man\u003c/b\u003e, he has translated the thump and razzle-dazzle of brass-band \u003cbr\u003e  lore into a warm and genial cartoon of gaudy American life. Since the style is \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "_wdxOsxe6sIJ",
+   "formattedUrl": "www.endresnet.com/mminfo.html",
+   "htmlFormattedUrl": "www.endresnet.com/mminfo.html",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.endresnet.com/image/mmwebpicsm.jpg",
+      "type": "1",
+      "width": "86",
+      "height": "68"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Music Man Murray: What's A Guy To Do With A Half-Million Records ...",
+   "htmlTitle": "\u003cb\u003eMusic Man\u003c/b\u003e Murray: What&#39;s A Guy To Do With A Half-Million Records \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://www.npr.org/blogs/allsongs/2012/04/19/150976561/music-man-murray-what-s-a-guy-to-do-with-a-quarter-million-records",
+   "displayLink": "www.npr.org",
+   "snippet": "Apr 20, 2012 ... What's an old man to do with almost half a million records? Watch Music Man   Murray, a story bigger than his collection.",
+   "htmlSnippet": "Apr 20, 2012 \u003cb\u003e...\u003c/b\u003e What&#39;s an old man to do with almost half a million records? Watch \u003cb\u003eMusic Man\u003c/b\u003e \u003cbr\u003e  Murray, a story bigger than his collection.",
+   "formattedUrl": "www.npr.org/.../allsongs/.../music-man-murray-what-s-a-guy-to-do-with-a- quarter-million-records",
+   "htmlFormattedUrl": "www.npr.org/.../all\u003cb\u003esong\u003c/b\u003es/.../\u003cb\u003emusic\u003c/b\u003e-\u003cb\u003eman\u003c/b\u003e-murray-what-s-a-guy-to-do-with-a- quarter-million-records",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://media.npr.org/assets/img/2012/04/20/music-man-murray-1.jpg?t=1337610259&s=2"
+     }
+    ],
+    "metatags": [
+     {
+      "rating": "General",
+      "date": "Fri, 20 Apr 2012 16:13:00 -0400",
+      "og:title": "Music Man Murray: What's A Guy To Do With A Half-Million Records? : NPR",
+      "og:url": "http://www.npr.org/blogs/allsongs/2012/04/19/150976561/music-man-murray-what-s-a-guy-to-do-with-a-quarter-million-records",
+      "og:type": "article",
+      "og:description": "What's an old man to do with almost half a million records? Watch Music Man Murray, a story bigger than his collection.",
+      "og:image": "http://media.npr.org/assets/img/2012/04/20/music-man-murray-1.jpg?t=1337610259&s=2",
+      "og:site_name": "NPR.org",
+      "fb:app_id": "138837436154588"
+     }
+    ]
+   }
+  }
+ ]
+}

@@ -1,0 +1,293 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "nextPage": [
+   {
+    "title": "Google Custom Search - toilet",
+    "totalResults": "27000000",
+    "searchTerms": "toilet",
+    "count": 10,
+    "startIndex": 11,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "017401104989814545383:mf4lavmtuva"
+   }
+  ],
+  "request": [
+   {
+    "title": "Google Custom Search - toilet",
+    "totalResults": "27000000",
+    "searchTerms": "toilet",
+    "count": 10,
+    "startIndex": 1,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "017401104989814545383:mf4lavmtuva"
+   }
+  ]
+ },
+ "context": {
+  "title": "College MetaSearch Comparison"
+ },
+ "searchInformation": {
+  "searchTime": 0.21634,
+  "formattedSearchTime": "0.22",
+  "totalResults": "27000000",
+  "formattedTotalResults": "27,000,000"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "Toilet - Wikipedia, the free encyclopedia",
+   "htmlTitle": "\u003cb\u003eToilet\u003c/b\u003e - Wikipedia, the free encyclopedia",
+   "link": "http://en.wikipedia.org/wiki/Toilet",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "A toilet is a sanitation fixture used primarily for the disposal of human excrement   and urine, often found in a small room referred to as a toilet/bathroom/lavatory.",
+   "htmlSnippet": "A \u003cb\u003etoilet\u003c/b\u003e is a sanitation fixture used primarily for the disposal of human excrement \u003cbr\u003e  and urine, often found in a small room referred to as a \u003cb\u003etoilet\u003c/b\u003e/bathroom/lavatory.",
+   "cacheId": "KWNT6T6ymu0J",
+   "formattedUrl": "en.wikipedia.org/wiki/Toilet",
+   "htmlFormattedUrl": "en.wikipedia.org/wiki/\u003cb\u003eToilet\u003c/b\u003e",
+   "pagemap": {
+    "RTO": [
+     {
+      "format": "image",
+      "group_impression_tag": "prbx_kr_rto_term_enc",
+      "Opt::max_rank_top": "0",
+      "Opt::threshold_override": "3",
+      "Opt::disallow_same_domain": "1",
+      "Output::title": "\u003cb\u003e화장실 (Toilet)\u003c/b\u003e",
+      "Output::want_title_on_right": "true",
+      "Output::num_lines1": "3",
+      "Output::text1": "화장실은 수리 시설 의 일종으로 일차적으로는 인간의 배설물, 즉 소변 과 대변 을 처리하기 위한 편의 시설이다. 해우소 또는 뒷간, 측간, 변소라고도 부른다. 이 곳에서 세면을 하거나 간단히 얼굴 화장이나 옷 매무새를 고치는 장소로 쓰이기도...",
+      "Output::gray1b": "- 위키백과",
+      "Output::no_clip1b": "true",
+      "UrlOutput::url2": "http://en.wikipedia.org/wiki/Toilet",
+      "Output::link2": "위키백과 (영문)",
+      "Output::text2b": "&nbsp;&nbsp;&nbsp;",
+      "UrlOutput::url2c": "http://ko.wikipedia.org/wiki/화장실",
+      "Output::link2c": "위키백과",
+      "result_group_header": "백과사전",
+      "Output::image_url": "http://www.gstatic.com/richsnippets/b/15fb8145cfa4a795.jpg",
+      "image_size": "80x80",
+      "Output::inline_image_width": "80",
+      "Output::inline_image_height": "80",
+      "Output::image_border": "1"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "HowStuffWorks \"How Toilets Work\"",
+   "htmlTitle": "HowStuffWorks &quot;How \u003cb\u003eToilets\u003c/b\u003e Work&quot;",
+   "link": "http://home.howstuffworks.com/toilet.htm",
+   "displayLink": "home.howstuffworks.com",
+   "snippet": "The toilet. The john. The loo. The commode. The porcelain throne. No matter   what you call it, there's no doubt it is a true technological marvel.",
+   "htmlSnippet": "The \u003cb\u003etoilet\u003c/b\u003e. The john. The loo. The commode. The porcelain throne. No matter \u003cbr\u003e  what you call it, there&#39;s no doubt it is a true technological marvel.",
+   "cacheId": "NzbRs4BaUwEJ",
+   "formattedUrl": "home.howstuffworks.com/toilet.htm",
+   "htmlFormattedUrl": "home.howstuffworks.com/\u003cb\u003etoilet\u003c/b\u003e.htm",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://static.ddmcdn.com/ecolodge-toilet-ch150.jpg"
+     }
+    ],
+    "metatags": [
+     {
+      "og:type": "article",
+      "og:title": "HowStuffWorks \"How Toilets Work\"",
+      "og:url": "http://home.howstuffworks.com/toilet.htm",
+      "og:site_name": "HowStuffWorks",
+      "og:description": "The toilet. The john. The loo. The commode. The porcelain throne. No matter what you call it, there's no doubt it is a true technological marvel.",
+      "fb:admins": "100001675325868",
+      "fb:app_id": "125879910816296",
+      "og:image": "http://static.ddmcdn.com/ecolodge-toilet-ch150.jpg"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Toilet - Bathroom Product List - Toilets by American Standard",
+   "htmlTitle": "\u003cb\u003eToilet\u003c/b\u003e - Bathroom Product List - \u003cb\u003eToilets\u003c/b\u003e by American Standard",
+   "link": "http://www.americanstandard-us.com/bathroom-products/toilets/",
+   "displayLink": "www.americanstandard-us.com",
+   "snippet": "Toilet Seats & Tank Lids, Toilets ... Bathroom Faucets, Commercial Flush Valves,   Shower Faucets, Toilets, Urinals .... Champion 4 Right Height Elongated Toilet ...",
+   "htmlSnippet": "\u003cb\u003eToilet\u003c/b\u003e Seats &amp; Tank Lids, \u003cb\u003eToilets\u003c/b\u003e \u003cb\u003e...\u003c/b\u003e Bathroom Faucets, Commercial Flush Valves, \u003cbr\u003e  Shower Faucets, \u003cb\u003eToilets\u003c/b\u003e, Urinals \u003cb\u003e....\u003c/b\u003e Champion 4 Right Height Elongated \u003cb\u003eToilet\u003c/b\u003e \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "S5Dh1QvwGCoJ",
+   "formattedUrl": "www.americanstandard-us.com/bathroom-products/toilets/",
+   "htmlFormattedUrl": "www.americanstandard-us.com/bathroom-products/\u003cb\u003etoilets\u003c/b\u003e/"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "KOHLER | Toilets | Bathroom",
+   "htmlTitle": "KOHLER | \u003cb\u003eToilets\u003c/b\u003e | Bathroom",
+   "link": "http://www.us.kohler.com/us/Bathroom-Toilets/category/429984/429204.htm",
+   "displayLink": "www.us.kohler.com",
+   "snippet": "Shop KOHLER toilets. Designed with precision, engineered to maximize water   flow and gauranteed performance with every toilet. Find where to buy near you.",
+   "htmlSnippet": "Shop KOHLER \u003cb\u003etoilets\u003c/b\u003e. Designed with precision, engineered to maximize water \u003cbr\u003e  flow and gauranteed performance with every \u003cb\u003etoilet\u003c/b\u003e. Find where to buy near you.",
+   "cacheId": "bqNplzRCKUAJ",
+   "formattedUrl": "www.us.kohler.com/us/Bathroom-Toilets/category/.../429204.htm",
+   "htmlFormattedUrl": "www.us.kohler.com/us/Bathroom-\u003cb\u003eToilets\u003c/b\u003e/category/.../429204.htm",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.us.kohler.com/webassets/kpna/spiffs/quarter/howtoilets01_zaa94712_243x135b.jpg",
+      "type": "1",
+      "width": "194",
+      "height": "108"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Amazon.com: Toilets & Bidets: Two-Piece Toilets, One-Piece Toilets",
+   "htmlTitle": "Amazon.com: \u003cb\u003eToilets\u003c/b\u003e &amp; Bidets: Two-Piece \u003cb\u003eToilets\u003c/b\u003e, One-Piece \u003cb\u003eToilets\u003c/b\u003e",
+   "link": "http://www.amazon.com/b?ie=UTF8&node=680355011",
+   "displayLink": "www.amazon.com",
+   "snippet": "Results 1 - 24 of 8547 ... Online shopping for Toilets & Bidets from a great selection of Kitchen & Bath   Fixtures; Two-Piece Toilets, One-Piece Toilets & more at ...",
+   "htmlSnippet": "Results 1 - 24 of 8547 \u003cb\u003e...\u003c/b\u003e Online shopping for \u003cb\u003eToilets\u003c/b\u003e &amp; Bidets from a great selection of Kitchen &amp; Bath \u003cbr\u003e  Fixtures; Two-Piece \u003cb\u003eToilets\u003c/b\u003e, One-Piece \u003cb\u003eToilets\u003c/b\u003e &amp; more at \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "opjH96rzsMYJ",
+   "formattedUrl": "www.amazon.com/b?ie=UTF8&node=680355011",
+   "htmlFormattedUrl": "www.amazon.com/b?ie=UTF8&amp;node=680355011",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://ecx.images-amazon.com/images/I/31ETt5MoK5L._SL160_AA160_.jpg",
+      "type": "1",
+      "width": "128",
+      "height": "128"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Toilets in Japan - Wikipedia, the free encyclopedia",
+   "htmlTitle": "\u003cb\u003eToilets\u003c/b\u003e in Japan - Wikipedia, the free encyclopedia",
+   "link": "http://en.wikipedia.org/wiki/Toilets_in_Japan",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "Toilets in Japan are generally more advanced than toilets in other developed   nations. There are two styles of toilets commonly found in Japan; the oldest type   is ...",
+   "htmlSnippet": "\u003cb\u003eToilets\u003c/b\u003e in Japan are generally more advanced than \u003cb\u003etoilets\u003c/b\u003e in other developed \u003cbr\u003e  nations. There are two styles of \u003cb\u003etoilets\u003c/b\u003e commonly found in Japan; the oldest type \u003cbr\u003e  is \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "tStf25XQMi0J",
+   "formattedUrl": "en.wikipedia.org/wiki/Toilets_in_Japan",
+   "htmlFormattedUrl": "en.wikipedia.org/wiki/\u003cb\u003eToilets\u003c/b\u003e_in_Japan",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/JapaneseToiletBidet.jpg/220px-JapaneseToiletBidet.jpg",
+      "type": "1",
+      "width": "176",
+      "height": "207"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Numi Toilet - Kohler's Most Advanced Toilet | Kohler",
+   "htmlTitle": "Numi \u003cb\u003eToilet\u003c/b\u003e - Kohler&#39;s Most Advanced \u003cb\u003eToilet\u003c/b\u003e | Kohler",
+   "link": "http://kohler.com/numi/",
+   "displayLink": "kohler.com",
+   "snippet": "The Numi toilet web site is the source for information on Kohler's most advanced   toilet that combines unmatched design, technology and engineering to bring ...",
+   "htmlSnippet": "The Numi \u003cb\u003etoilet\u003c/b\u003e web site is the source for information on Kohler&#39;s most advanced \u003cbr\u003e  \u003cb\u003etoilet\u003c/b\u003e that combines unmatched design, technology and engineering to bring \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "V6nb2mr7A8AJ",
+   "formattedUrl": "kohler.com/numi/",
+   "htmlFormattedUrl": "kohler.com/numi/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://kohler.com/numi/images/homepage/numi_integrated_toilet.jpg",
+      "type": "1",
+      "width": "303",
+      "height": "167"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "World Toilet Organization - Home",
+   "htmlTitle": "World \u003cb\u003eToilet\u003c/b\u003e Organization - Home",
+   "link": "http://www.worldtoilet.org/",
+   "displayLink": "www.worldtoilet.org",
+   "snippet": "World Toilet Organization (WTO) is a global non- profit organization committed to   Improving sanitation conditions for people globally through powerful advocacy, ...",
+   "htmlSnippet": "World \u003cb\u003eToilet\u003c/b\u003e Organization (WTO) is a global non- profit organization committed to \u003cbr\u003e  Improving sanitation conditions for people globally through powerful advocacy, \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "n6P2q-XoHCAJ",
+   "formattedUrl": "www.worldtoilet.org/",
+   "htmlFormattedUrl": "www.world\u003cb\u003etoilet\u003c/b\u003e.org/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.worldtoilet.org/wto/images/WTS%20hotlink.jpg",
+      "type": "1",
+      "width": "178",
+      "height": "212"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Toilets, Toilet Seats, Bidets & Toilet Accessories at The Home Depot",
+   "htmlTitle": "\u003cb\u003eToilets\u003c/b\u003e, \u003cb\u003eToilet\u003c/b\u003e Seats, Bidets &amp; \u003cb\u003eToilet\u003c/b\u003e Accessories at The Home Depot",
+   "link": "http://www.homedepot.com/Bath-Toilets-Toilet-Seats-Bidets/h_d1/N-5yc1vZbzae/h_d2/Navigation?langId=-1&storeId=10051&catalogId=10053&searchNav=true",
+   "displayLink": "www.homedepot.com",
+   "snippet": "Find toilets, toilet seats, bidets and urinals to start your bathroom remodeling   project. Choose from a vast selection of toilets, bidets and urinals from The Home ...",
+   "htmlSnippet": "Find \u003cb\u003etoilets\u003c/b\u003e, \u003cb\u003etoilet\u003c/b\u003e seats, bidets and urinals to start your bathroom remodeling \u003cbr\u003e  project. Choose from a vast selection of \u003cb\u003etoilets\u003c/b\u003e, bidets and urinals from The Home \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "-cBmg-Pj7iEJ",
+   "formattedUrl": "www.homedepot.com/...Toilets-Toilet.../Navigation?...",
+   "htmlFormattedUrl": "www.homedepot.com/...\u003cb\u003eToilets\u003c/b\u003e-\u003cb\u003eToilet\u003c/b\u003e.../Navigation?...",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.homedepot.com/hdus/en_US/DTCCOM/HomePage/Categories/Bath/BA_ToiletsSeatsBidets/Body/Images/BA_ToiletsSeatsBidets_Body_Img_D_VisNav.jpg",
+      "type": "1",
+      "width": "128",
+      "height": "108"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "toilet - definition of toilet by the Free Online Dictionary, Thesaurus ...",
+   "htmlTitle": "\u003cb\u003etoilet\u003c/b\u003e - definition of \u003cb\u003etoilet\u003c/b\u003e by the Free Online Dictionary, Thesaurus \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://www.thefreedictionary.com/toilet",
+   "displayLink": "www.thefreedictionary.com",
+   "snippet": "a. A fixture for defecation and urination, consisting of a bowl fitted with a hinged   seat and connected to a waste pipe and a flushing apparatus; a privy. b. A room ...",
+   "htmlSnippet": "a. A fixture for defecation and urination, consisting of a bowl fitted with a hinged \u003cbr\u003e  seat and connected to a waste pipe and a flushing apparatus; a privy. b. A room \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "tWxpH62Lk5AJ",
+   "formattedUrl": "www.thefreedictionary.com/toilet",
+   "htmlFormattedUrl": "www.thefreedictionary.com/\u003cb\u003etoilet\u003c/b\u003e",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://img.tfd.com/wn/44/639B9-toilet.png",
+      "type": "1",
+      "width": "108",
+      "height": "104"
+     }
+    ],
+    "metatags": [
+     {
+      "og:url": "http://www.thefreedictionary.com/toilet",
+      "og:description": "Definition of toilet by TheFreeDictionary.com",
+      "og:title": "toilet",
+      "og:image": "http://img.tfd.com/TFDlogo198x65.gif",
+      "og:type": "article",
+      "og:site_name": "TheFreeDictionary.com"
+     }
+    ]
+   }
+  }
+ ]
+}

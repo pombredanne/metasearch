@@ -1,0 +1,474 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "nextPage": [
+   {
+    "title": "Google Custom Search - french lick resort and casino",
+    "totalResults": "23600",
+    "searchTerms": "french lick resort and casino",
+    "count": 10,
+    "startIndex": 41,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "017401104989814545383:mf4lavmtuva"
+   }
+  ],
+  "request": [
+   {
+    "title": "Google Custom Search - french lick resort and casino",
+    "totalResults": "23600",
+    "searchTerms": "french lick resort and casino",
+    "count": 10,
+    "startIndex": 31,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "017401104989814545383:mf4lavmtuva"
+   }
+  ],
+  "previousPage": [
+   {
+    "title": "Google Custom Search - french lick resort and casino",
+    "totalResults": "23600",
+    "searchTerms": "french lick resort and casino",
+    "count": 10,
+    "startIndex": 21,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "017401104989814545383:mf4lavmtuva"
+   }
+  ]
+ },
+ "context": {
+  "title": "College MetaSearch Comparison"
+ },
+ "searchInformation": {
+  "searchTime": 0.157622,
+  "formattedSearchTime": "0.16",
+  "totalResults": "23600",
+  "formattedTotalResults": "23,600"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "French Lick, Indiana - Wikipedia, the free encyclopedia",
+   "htmlTitle": "\u003cb\u003eFrench Lick\u003c/b\u003e, Indiana - Wikipedia, the free encyclopedia",
+   "link": "http://en.wikipedia.org/wiki/French_Lick,_Indiana",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "In early 2006 the French Lick Resort Casino, the state's tenth casino in the   modern legalized era, opened, drawing national attention to the small town.   However ...",
+   "htmlSnippet": "In early 2006 the \u003cb\u003eFrench Lick Resort Casino\u003c/b\u003e, the state&#39;s tenth casino in the \u003cbr\u003e  modern legalized era, opened, drawing national attention to the small town. \u003cbr\u003e  However \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "4kfbNbuI1O4J",
+   "formattedUrl": "en.wikipedia.org/wiki/French_Lick,_Indiana",
+   "htmlFormattedUrl": "en.wikipedia.org/wiki/\u003cb\u003eFrench\u003c/b\u003e_\u003cb\u003eLick\u003c/b\u003e,_Indiana",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Orange_County_Indiana_Incorporated_and_Unincorporated_areas_French_Lick_Highlighted.svg/218px-Orange_County_Indiana_Incorporated_and_Unincorporated_areas_French_Lick_Highlighted.svg.png",
+      "type": "1",
+      "width": "174",
+      "height": "160"
+     }
+    ],
+    "hcard": [
+     {
+      "fn": "Town of French Lick, Indiana",
+      "category": "Town"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Casino Profile - French Lick Resort Casino French Lick, Indiana ...",
+   "htmlTitle": "Casino Profile - \u003cb\u003eFrench Lick Resort Casino\u003c/b\u003e French Lick, Indiana \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://www.americancasinoguide.com/casino-profiles/casino-profile-french-lick-resort-casino-french-lick-indiana.html",
+   "displayLink": "www.americancasinoguide.com",
+   "snippet": "The splendor of the Roaring Twenties can be experienced at Indiana's French   Lick Resort Casino. During the heyday of the area's famous mineral water resorts  , ...",
+   "htmlSnippet": "The splendor of the Roaring Twenties can be experienced at Indiana&#39;s \u003cb\u003eFrench\u003c/b\u003e \u003cbr\u003e  \u003cb\u003eLick Resort Casino\u003c/b\u003e. During the heyday of the area&#39;s famous mineral water resorts\u003cbr\u003e  , \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "ykSGmQHInOAJ",
+   "formattedUrl": "www.americancasinoguide.com/casino.../casino-profile-french-lick-resort- casino-french-lick-indiana.html",
+   "htmlFormattedUrl": "www.american\u003cb\u003ecasino\u003c/b\u003eguide.com/\u003cb\u003ecasino\u003c/b\u003e.../\u003cb\u003ecasino\u003c/b\u003e-profile-\u003cb\u003efrench\u003c/b\u003e-\u003cb\u003elick\u003c/b\u003e-\u003cb\u003eresort\u003c/b\u003e- \u003cb\u003ecasino\u003c/b\u003e-\u003cb\u003efrench\u003c/b\u003e-\u003cb\u003elick\u003c/b\u003e-indiana.html",
+   "pagemap": {
+    "metatags": [
+     {
+      "author": "Steve Bourie",
+      "title": "Casino Profile - French Lick Resort Casino French Lick, Indiana - American Casino Guide"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "French Lick Resort Casino - French Lick, Indiana - Two Luxury ...",
+   "htmlTitle": "\u003cb\u003eFrench Lick Resort Casino\u003c/b\u003e - French Lick, Indiana - Two Luxury \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://www.city-data.com/articles/French-Lick-Resort-Casino-French-Lick.html",
+   "displayLink": "www.city-data.com",
+   "snippet": "French Lick Resort Casino in French Lick, Indiana offers the excitement of Las   Vegas style gaming in the middle of the country. The 9500 square foot casino ...",
+   "htmlSnippet": "\u003cb\u003eFrench Lick Resort Casino\u003c/b\u003e in French Lick, Indiana offers the excitement of Las \u003cbr\u003e  Vegas style gaming in the middle of the country. The 9500 square foot casino \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "5nZaAXvRpPkJ",
+   "formattedUrl": "www.city-data.com/.../French-Lick-Resort-Casino-French-Lick.html",
+   "htmlFormattedUrl": "www.city-data.com/.../\u003cb\u003eFrench\u003c/b\u003e-\u003cb\u003eLick\u003c/b\u003e-\u003cb\u003eResort\u003c/b\u003e-\u003cb\u003eCasino\u003c/b\u003e-\u003cb\u003eFrench\u003c/b\u003e-\u003cb\u003eLick\u003c/b\u003e.html"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "French Lick Springs Resort & Casino",
+   "htmlTitle": "\u003cb\u003eFrench Lick\u003c/b\u003e Springs \u003cb\u003eResort\u003c/b\u003e &amp; \u003cb\u003eCasino\u003c/b\u003e",
+   "link": "http://www.worldcasinodirectory.com/casino/french-lick-springs-resort-3406",
+   "displayLink": "www.worldcasinodirectory.com",
+   "snippet": "You can browse our pics of French Lick Springs Resort & Casino or see the latest   news headlines about French Lick Springs Resort & Casino on our site.",
+   "htmlSnippet": "You can browse our pics of \u003cb\u003eFrench Lick\u003c/b\u003e Springs \u003cb\u003eResort\u003c/b\u003e &amp; \u003cb\u003eCasino\u003c/b\u003e or see the latest \u003cbr\u003e  news headlines about \u003cb\u003eFrench Lick\u003c/b\u003e Springs \u003cb\u003eResort\u003c/b\u003e &amp; \u003cb\u003eCasino\u003c/b\u003e on our site.",
+   "cacheId": "wZmofHBnkiwJ",
+   "formattedUrl": "www.worldcasinodirectory.com/casino/french-lick-springs-resort-3406",
+   "htmlFormattedUrl": "www.world\u003cb\u003ecasino\u003c/b\u003edirectory.com/\u003cb\u003ecasino\u003c/b\u003e/\u003cb\u003efrench\u003c/b\u003e-\u003cb\u003elick\u003c/b\u003e-springs-\u003cb\u003eresort\u003c/b\u003e-3406",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.worldcasinodirectory.com/casinoimages/small/2028-wnqatqvwll.jpg",
+      "type": "1",
+      "width": "160",
+      "height": "108"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "French Lick Resort & Casino | LinkedIn",
+   "htmlTitle": "\u003cb\u003eFrench Lick Resort\u003c/b\u003e &amp; \u003cb\u003eCasino\u003c/b\u003e | LinkedIn",
+   "link": "http://www.linkedin.com/company/french-lick-resort-&-casino?trk=ppro_cprof",
+   "displayLink": "www.linkedin.com",
+   "snippet": "French Lick Resort is the Midwest's premier resort, spa and golf destination,   offering two world-class luxury hotels: West Baden Springs Hotel and French Lick ...",
+   "htmlSnippet": "\u003cb\u003eFrench Lick Resort\u003c/b\u003e is the Midwest&#39;s premier \u003cb\u003eresort\u003c/b\u003e, spa and golf destination, \u003cbr\u003e  offering two world-class luxury hotels: West Baden Springs Hotel and \u003cb\u003eFrench Lick\u003c/b\u003e \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "kH8tOnD_xbgJ",
+   "formattedUrl": "www.linkedin.com/company/french-lick-resort-&-casino?trk=ppro...",
+   "htmlFormattedUrl": "www.linkedin.com/company/\u003cb\u003efrench\u003c/b\u003e-\u003cb\u003elick\u003c/b\u003e-\u003cb\u003eresort\u003c/b\u003e-&amp;-\u003cb\u003ecasino\u003c/b\u003e?trk=ppro...",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://m3.licdn.com/mpr/mpr/shrink_80_80/p/4/000/164/242/123cd8d.jpg",
+      "type": "1",
+      "width": "74",
+      "height": "74"
+     }
+    ],
+    "person": [
+     {
+      "role": "Conference Concierge Services Intern"
+     }
+    ],
+    "metatags": [
+     {
+      "pageimpressionid": "57123b57-595f-4438-86e6-2473c6fb10a7",
+      "pagekey": "biz-overview-public",
+      "analyticsurl": "/analytics/noauthtracker"
+     }
+    ],
+    "hcard": [
+     {
+      "fn": "Chelsea David",
+      "title": "Conference Concierge Services Intern"
+     },
+     {
+      "fn": "Beth Ann Riecke",
+      "title": "Regional Sales Manager"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "French Lick Resort, Louisville, KY : Five Star Alliance",
+   "htmlTitle": "\u003cb\u003eFrench Lick Resort\u003c/b\u003e, Louisville, KY : Five Star Alliance",
+   "link": "http://www.fivestaralliance.com/luxury-hotels/louisville-ky/french-lick-resort",
+   "displayLink": "www.fivestaralliance.com",
+   "snippet": "French Lick Resort. Photo Gallery. French Lick Resort, the Midwest's premier   resort and casino destination, offers two luxury hotels on 3000 acres of history   and ...",
+   "htmlSnippet": "\u003cb\u003eFrench Lick\u003c/b\u003e Resort. Photo Gallery. \u003cb\u003eFrench Lick\u003c/b\u003e Resort, the Midwest&#39;s premier \u003cbr\u003e  \u003cb\u003eresort and casino\u003c/b\u003e destination, offers two luxury hotels on 3000 acres of history \u003cbr\u003e  and \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "8vBWopoKqFsJ",
+   "formattedUrl": "www.fivestaralliance.com/luxury-hotels/louisville.../french-lick-resort",
+   "htmlFormattedUrl": "www.fivestaralliance.com/luxury-hotels/louisville.../\u003cb\u003efrench\u003c/b\u003e-\u003cb\u003elick\u003c/b\u003e-\u003cb\u003eresort\u003c/b\u003e",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.fivestaralliance.com/files/fsa/nodes/2009/11848/2077_2_french-lick_fsa-l.jpg",
+      "type": "1",
+      "width": "148",
+      "height": "148"
+     }
+    ],
+    "metatags": [
+     {
+      "dc.title": "French Lick Resort"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "French Lick Resort - French Lick | Tickets, Schedule, Seating Chart ...",
+   "htmlTitle": "\u003cb\u003eFrench Lick Resort\u003c/b\u003e - \u003cb\u003eFrench Lick\u003c/b\u003e | Tickets, Schedule, Seating Chart \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://www.ticketmaster.com/French-Lick-Resort-tickets-French-Lick/venue/41456",
+   "displayLink": "www.ticketmaster.com",
+   "snippet": "Results 1 - 8 of 8 ... Buy French Lick Resort tickets at Ticketmaster.com. ... in the adjacent parking   garage or surface lots in front of the hotel or beside the casino.",
+   "htmlSnippet": "Results 1 - 8 of 8 \u003cb\u003e...\u003c/b\u003e Buy \u003cb\u003eFrench Lick Resort\u003c/b\u003e tickets at Ticketmaster.com. \u003cb\u003e...\u003c/b\u003e in the adjacent parking \u003cbr\u003e  garage or surface lots in front of the hotel or beside the \u003cb\u003ecasino\u003c/b\u003e.",
+   "cacheId": "mkwhastcmDQJ",
+   "formattedUrl": "www.ticketmaster.com/French-Lick-Resort...French-Lick/.../41456",
+   "htmlFormattedUrl": "www.ticketmaster.com/\u003cb\u003eFrench\u003c/b\u003e-\u003cb\u003eLick\u003c/b\u003e-\u003cb\u003eResort\u003c/b\u003e...\u003cb\u003eFrench\u003c/b\u003e-\u003cb\u003eLick\u003c/b\u003e/.../41456",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://media.ticketmaster.com/dbimages/12780v.jpg",
+      "type": "1",
+      "width": "164",
+      "height": "92"
+     }
+    ],
+    "review-aggregate": [
+     {
+      "photo": "http://media.ticketmaster.com/tm/en-us/dbimages/12780v.jpg",
+      "itemreviewed": "French Lick Resort Tickets",
+      "name": "French Lick Resort"
+     }
+    ],
+    "postaladdress": [
+     {
+      "streetaddress": "8670 West State Road 56,",
+      "addresslocality": "French Lick",
+      "addressregion": "IN",
+      "postalcode": "47432"
+     }
+    ],
+    "hcalendar": [
+     {
+      "dtstart": "2012-09-28T19:00:00-04:00",
+      "summary": "Rodney Carrington",
+      "url": "http://www.ticketmaster.com/event/050048B1DF5BD697?artistid=730722&majorcatid=10002&minorcatid=51"
+     },
+     {
+      "dtstart": "2012-09-28T21:30:00-04:00",
+      "summary": "Rodney Carrington",
+      "url": "http://www.ticketmaster.com/event/050048B1E102D77E?artistid=730722&majorcatid=10002&minorcatid=51"
+     },
+     {
+      "dtstart": "2012-10-20T20:00:00-04:00",
+      "summary": "Natalie Cole",
+      "url": "http://www.ticketmaster.com/event/050048B1E2DDD84E?artistid=734790&majorcatid=10001&minorcatid=202"
+     },
+     {
+      "dtstart": "2012-11-24T20:00:00-05:00",
+      "summary": "Lee Greenwood Crystal Gayle Country Christmas",
+      "url": "http://www.ticketmaster.com/event/050048EEB3E144A5?artistid=732785&majorcatid=10001&minorcatid=2"
+     },
+     {
+      "dtstart": "2013-02-15T20:00:00-05:00",
+      "summary": "Rick Springfield",
+      "url": "http://www.ticketmaster.com/event/050048B1E79BDA38?artistid=736178&majorcatid=10001&minorcatid=1"
+     },
+     {
+      "dtstart": "2013-03-15T20:00:00-04:00",
+      "summary": ".38 Special",
+      "url": "http://www.ticketmaster.com/event/050048EEB8B54A69?artistid=767057&majorcatid=10001&minorcatid=1"
+     },
+     {
+      "dtstart": "2013-04-13T20:00:00-04:00",
+      "summary": "The Temptations",
+      "url": "http://www.ticketmaster.com/event/050048EEBB4B4CCF?artistid=736274&majorcatid=10001&minorcatid=202"
+     },
+     {
+      "dtstart": "2013-05-31T20:00:00-04:00",
+      "summary": "Kenny Rogers",
+      "url": "http://www.ticketmaster.com/event/050048EEBDF74E20?artistid=769883&majorcatid=10001&minorcatid=2"
+     }
+    ],
+    "event": [
+     {
+      "dtstart": "2012-09-28T19:00:00-04:00",
+      "summary": "Rodney Carrington",
+      "url": "http://www.ticketmaster.com/event/050048B1DF5BD697?artistid=730722&majorcatid=10002&minorcatid=51"
+     },
+     {
+      "startdate": "2012-09-28T19:00:00-04:00",
+      "name": "Rodney Carrington",
+      "url": "Find Tickets »",
+      "offers": "Find Tickets »"
+     },
+     {
+      "startdate": "2012-09-28T21:30:00-04:00",
+      "name": "Rodney Carrington",
+      "url": "Find Tickets »",
+      "offers": "Find Tickets »"
+     },
+     {
+      "startdate": "2012-10-20T20:00:00-04:00",
+      "name": "Natalie Cole",
+      "url": "Find Tickets »",
+      "offers": "Find Tickets »"
+     },
+     {
+      "startdate": "2012-11-24T20:00:00-05:00",
+      "name": "Lee Greenwood Crystal Gayle Country Christmas",
+      "url": "Find Tickets »",
+      "offers": "Find Tickets »"
+     },
+     {
+      "startdate": "2013-02-15T20:00:00-05:00",
+      "name": "Rick Springfield",
+      "url": "Find Tickets »",
+      "offers": "Find Tickets »"
+     },
+     {
+      "startdate": "2013-03-15T20:00:00-04:00",
+      "name": ".38 Special",
+      "url": "Find Tickets »",
+      "offers": "Find Tickets »"
+     },
+     {
+      "startdate": "2013-04-13T20:00:00-04:00",
+      "name": "The Temptations",
+      "url": "Find Tickets »",
+      "offers": "Find Tickets »"
+     },
+     {
+      "startdate": "2013-05-31T20:00:00-04:00",
+      "name": "Kenny Rogers",
+      "url": "Find Tickets »",
+      "offers": "Find Tickets »"
+     }
+    ],
+    "eventvenue": [
+     {
+      "breadcrumb": "All Tickets \u003e French Lick Resort Tickets"
+     }
+    ],
+    "metatags": [
+     {
+      "og:title": "French Lick Resort",
+      "og:type": "Ticketmaster:venue",
+      "og:url": "http://www.ticketmaster.com/French-Lick-Resort-tickets-French-Lick/venue/41456",
+      "og:image": "http://media.ticketmaster.com/dbimages/12780v.jpg",
+      "og:description": "on Ticketmaster",
+      "og:site_name": "Ticketmaster",
+      "fb:app_id": "140669015975185",
+      "rating": "general",
+      "copyright": "2012, Ticketmaster",
+      "expires": "never",
+      "distribution": "global",
+      "fragment": "!"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Area Accommodations",
+   "htmlTitle": "Area Accommodations",
+   "link": "http://www.frenchlickwinery.com/accommodations.htm",
+   "displayLink": "www.frenchlickwinery.com",
+   "snippet": "Cottage on the Links - Located across from the Tom Bendelow Golf Course   beside the French Lick Resort & Casino. Ballard Cottage One - An 1917 Arts &   Craft ...",
+   "htmlSnippet": "Cottage on the Links - Located across from the Tom Bendelow Golf Course \u003cbr\u003e  beside the \u003cb\u003eFrench Lick Resort\u003c/b\u003e &amp; \u003cb\u003eCasino\u003c/b\u003e. Ballard Cottage One - An 1917 Arts &amp; \u003cbr\u003e  Craft \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "kDz5VZ7lQoUJ",
+   "formattedUrl": "www.frenchlickwinery.com/accommodations.htm",
+   "htmlFormattedUrl": "www.\u003cb\u003efrenchlick\u003c/b\u003ewinery.com/accommodations.htm",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.frenchlickwinery.com/images/comfort_inn_logo.png",
+      "type": "1",
+      "width": "118",
+      "height": "112"
+     }
+    ],
+    "metatags": [
+     {
+      "progid": "FrontPage.Editor.Document"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "French Lick Springs Hotel - Wikipedia, the free encyclopedia",
+   "htmlTitle": "\u003cb\u003eFrench Lick\u003c/b\u003e Springs Hotel - Wikipedia, the free encyclopedia",
+   "link": "http://en.wikipedia.org/wiki/French_Lick_Springs_Hotel",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "The French Lick Springs Hotel is a historic resort hotel complex, now a part of the   French Lick Resort Casino. The location was originally known as the French ...",
+   "htmlSnippet": "The French Lick Springs Hotel is a historic resort hotel complex, now a part of the \u003cbr\u003e  \u003cb\u003eFrench Lick Resort Casino\u003c/b\u003e. The location was originally known as the French \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "qPPGVKyjC6wJ",
+   "formattedUrl": "en.wikipedia.org/wiki/French_Lick_Springs_Hotel",
+   "htmlFormattedUrl": "en.wikipedia.org/wiki/\u003cb\u003eFrench\u003c/b\u003e_\u003cb\u003eLick\u003c/b\u003e_Springs_Hotel",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Pluto_Spring.jpg/220px-Pluto_Spring.jpg",
+      "type": "1",
+      "width": "176",
+      "height": "139"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Natalie Cole — French Lick — French Lick Resort — Concert Tickets ...",
+   "htmlTitle": "Natalie Cole — \u003cb\u003eFrench Lick\u003c/b\u003e — \u003cb\u003eFrench Lick Resort\u003c/b\u003e — Concert Tickets \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://www.songkick.com/concerts/12837288-natalie-cole-at-french-lick-springs-resort-and-casino",
+   "displayLink": "www.songkick.com",
+   "snippet": "Tickets and information for Natalie Cole's upcoming concert at French Lick Resort   in French Lick on 20 October 2012.",
+   "htmlSnippet": "Tickets and information for Natalie Cole&#39;s upcoming concert at \u003cb\u003eFrench Lick Resort\u003c/b\u003e \u003cbr\u003e  in \u003cb\u003eFrench Lick\u003c/b\u003e on 20 October 2012.",
+   "cacheId": "vOhTTV_wYPwJ",
+   "formattedUrl": "www.songkick.com/.../12837288-natalie-cole-at-french-lick-springs-resort- and-casino",
+   "htmlFormattedUrl": "www.songkick.com/.../12837288-natalie-cole-at-\u003cb\u003efrench\u003c/b\u003e-\u003cb\u003elick\u003c/b\u003e-springs-\u003cb\u003eresort- and-casino\u003c/b\u003e",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www2.sk-static.com/images/media/img/col4/20091209-152052-404624.jpg",
+      "type": "1",
+      "width": "224",
+      "height": "225"
+     }
+    ],
+    "hcalendar": [
+     {
+      "dtstart": "2012-10-20T20:00:00-05:00",
+      "summary": "Natalie Cole",
+      "photo": "http://www2.sk-static.com/images/media/img/col2/20081215-102154-646136.jpg"
+     }
+    ],
+    "event": [
+     {
+      "dtstart": "2012-10-20T20:00:00-05:00",
+      "summary": "Natalie Cole",
+      "location": "French Lick, IN, US",
+      "latitude": "38.5563926",
+      "longitude": "-86.6146492"
+     }
+    ],
+    "metatags": [
+     {
+      "fb:app_id": "308540029359",
+      "og:site_name": "Songkick",
+      "og:type": "songkick-concerts:concert",
+      "og:title": "Natalie Cole at French Lick Resort (20 Oct 12)",
+      "og:description": "Tickets and information for Natalie Cole’s upcoming concert at French Lick Resort in French Lick on 20 October 2012.",
+      "og:url": "http://www.songkick.com/concerts/12837288-natalie-cole-at-french-lick-resort",
+      "og:image": "http://www2.sk-static.com/images/media/img/col4/20081215-102154-646136.jpg",
+      "og:street-address": "8670 West State Road 56",
+      "og:locality": "French Lick",
+      "og:postal-code": "47432",
+      "og:region": "IN",
+      "og:country-name": "US",
+      "og:latitude": "38.5563926",
+      "og:longitude": "-86.6146492",
+      "viewport": "user-scalable=no, initial-scale=1.0, maximum-scale=1.0, width=device-width",
+      "apple-mobile-web-app-capable": "yes"
+     }
+    ]
+   }
+  }
+ ]
+}

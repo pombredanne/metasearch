@@ -1,0 +1,236 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "nextPage": [
+   {
+    "title": "Google Custom Search - hoboken",
+    "totalResults": "2070000",
+    "searchTerms": "hoboken",
+    "count": 10,
+    "startIndex": 31,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "017401104989814545383:mf4lavmtuva"
+   }
+  ],
+  "request": [
+   {
+    "title": "Google Custom Search - hoboken",
+    "totalResults": "2070000",
+    "searchTerms": "hoboken",
+    "count": 10,
+    "startIndex": 21,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "017401104989814545383:mf4lavmtuva"
+   }
+  ],
+  "previousPage": [
+   {
+    "title": "Google Custom Search - hoboken",
+    "totalResults": "2070000",
+    "searchTerms": "hoboken",
+    "count": 10,
+    "startIndex": 11,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "017401104989814545383:mf4lavmtuva"
+   }
+  ]
+ },
+ "context": {
+  "title": "College MetaSearch Comparison"
+ },
+ "searchInformation": {
+  "searchTime": 0.269148,
+  "formattedSearchTime": "0.27",
+  "totalResults": "2070000",
+  "formattedTotalResults": "2,070,000"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "Hoboken Dive Center",
+   "htmlTitle": "\u003cb\u003eHoboken\u003c/b\u003e Dive Center",
+   "link": "http://www.hobokendive.com/",
+   "displayLink": "www.hobokendive.com",
+   "snippet": "Offers dive training and dive trips. Includes details about upcoming events, an   introduction to the staff, and directions.",
+   "htmlSnippet": "Offers dive training and dive trips. Includes details about upcoming events, an \u003cbr\u003e  introduction to the staff, and directions.",
+   "cacheId": "xUQYVU9kGZAJ",
+   "formattedUrl": "www.hobokendive.com/",
+   "htmlFormattedUrl": "www.\u003cb\u003ehoboken\u003c/b\u003edive.com/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.hobokendive.com/Images/slide3.jpg",
+      "type": "1",
+      "width": "349",
+      "height": "144"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Hoboken Cove Boathouse:",
+   "htmlTitle": "\u003cb\u003eHoboken\u003c/b\u003e Cove Boathouse:",
+   "link": "http://www.hobokencoveboathouse.org/",
+   "displayLink": "www.hobokencoveboathouse.org",
+   "snippet": "Join us on the Hudson River. Welcome to the Hoboken Cove Boathouse. All of   our activities are free and open to the public. Our kayaking season at Maxwell ...",
+   "htmlSnippet": "Join us on the Hudson River. Welcome to the \u003cb\u003eHoboken\u003c/b\u003e Cove Boathouse. All of \u003cbr\u003e  our activities are free and open to the public. Our kayaking season at Maxwell \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "1h4yR3_YWmsJ",
+   "formattedUrl": "www.hobokencoveboathouse.org/",
+   "htmlFormattedUrl": "www.\u003cb\u003ehoboken\u003c/b\u003ecoveboathouse.org/"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "The Hoboken Shelter",
+   "htmlTitle": "The \u003cb\u003eHoboken\u003c/b\u003e Shelter",
+   "link": "http://www.hobokenshelter.org/",
+   "displayLink": "www.hobokenshelter.org",
+   "snippet": "",
+   "htmlSnippet": "",
+   "formattedUrl": "www.hobokenshelter.org/",
+   "htmlFormattedUrl": "www.\u003cb\u003ehoboken\u003c/b\u003eshelter.org/"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Hoboken University Medical Center",
+   "htmlTitle": "\u003cb\u003eHoboken\u003c/b\u003e University Medical Center",
+   "link": "http://www.hobokenumc.com/main/index.php",
+   "displayLink": "www.hobokenumc.com",
+   "snippet": "",
+   "htmlSnippet": "",
+   "formattedUrl": "www.hobokenumc.com/main/index.php",
+   "htmlFormattedUrl": "www.\u003cb\u003ehoboken\u003c/b\u003eumc.com/main/index.php"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "City of Hoboken, NJ » Hoboken Arts & Music Festival",
+   "htmlTitle": "City of \u003cb\u003eHoboken\u003c/b\u003e, NJ » \u003cb\u003eHoboken\u003c/b\u003e Arts &amp; Music Festival",
+   "link": "http://www.hobokennj.org/departments/human-services/cultural-affairs/arts-music-festival/",
+   "displayLink": "www.hobokennj.org",
+   "snippet": "The City of Hoboken provides free regular news updates and alerts via email and   ... Swift911 is Hoboken's Emergency Notification service to inform residents in ...",
+   "htmlSnippet": "The City of \u003cb\u003eHoboken\u003c/b\u003e provides free regular news updates and alerts via email and \u003cbr\u003e  \u003cb\u003e...\u003c/b\u003e Swift911 is \u003cb\u003eHoboken&#39;s\u003c/b\u003e Emergency Notification service to inform residents in \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "yR66B9oUeGgJ",
+   "formattedUrl": "www.hobokennj.org/departments/human.../arts-music-festival/",
+   "htmlFormattedUrl": "www.\u003cb\u003ehoboken\u003c/b\u003enj.org/departments/human.../arts-music-festival/",
+   "pagemap": {
+    "metatags": [
+     {
+      "fb:page_id": "107840642570023"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Hoboken Gardens",
+   "htmlTitle": "\u003cb\u003eHoboken\u003c/b\u003e Gardens",
+   "link": "http://www.hobokengardens.com/",
+   "displayLink": "www.hobokengardens.com",
+   "snippet": "Family operated florist and garden center. Photo gallery, tips for the smart   gardener, ordering information, and online feedback. Ships Christmas trees and ...",
+   "htmlSnippet": "Family operated florist and garden center. Photo gallery, tips for the smart \u003cbr\u003e  gardener, ordering information, and online feedback. Ships Christmas trees and \u003cb\u003e...\u003c/b\u003e",
+   "formattedUrl": "www.hobokengardens.com/",
+   "htmlFormattedUrl": "www.\u003cb\u003ehoboken\u003c/b\u003egardens.com/"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "The Hoboken Charter School",
+   "htmlTitle": "The \u003cb\u003eHoboken\u003c/b\u003e Charter School",
+   "link": "http://www.hobokencs.org/",
+   "displayLink": "www.hobokencs.org",
+   "snippet": "Application information, a mission statement and employment requirements.",
+   "htmlSnippet": "Application information, a mission statement and employment requirements.",
+   "cacheId": "JkkgjuWVD2sJ",
+   "formattedUrl": "www.hobokencs.org/",
+   "htmlFormattedUrl": "www.\u003cb\u003ehoboken\u003c/b\u003ecs.org/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.hobokencs.org/logo.gif",
+      "type": "1",
+      "width": "225",
+      "height": "225"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Hoboken | Georgia.gov",
+   "htmlTitle": "\u003cb\u003eHoboken\u003c/b\u003e | Georgia.gov",
+   "link": "http://georgia.gov/cities-counties/hoboken",
+   "displayLink": "georgia.gov",
+   "snippet": "The official website of the state of Georgia. A gateway to agencies, services,   forms, and other information for citizens and business people.",
+   "htmlSnippet": "The official website of the state of Georgia. A gateway to agencies, services, \u003cbr\u003e  forms, and other information for citizens and business people.",
+   "cacheId": "ltqGogGOPVwJ",
+   "formattedUrl": "georgia.gov/cities-counties/hoboken",
+   "htmlFormattedUrl": "georgia.gov/cities-counties/\u003cb\u003ehoboken\u003c/b\u003e",
+   "pagemap": {
+    "Item": [
+     {
+      "date": "1920-08-14T00:00:00-04:00"
+     }
+    ],
+    "metatags": [
+     {
+      "dc:title": "Hoboken",
+      "viewport": "width=device-width, initial-scale=1, maximum-scale=1, minimum-scale=1, user-scalable=no"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "United Synagogue of Hoboken",
+   "htmlTitle": "United Synagogue of \u003cb\u003eHoboken\u003c/b\u003e",
+   "link": "http://www.hobokensynagogue.org/",
+   "displayLink": "www.hobokensynagogue.org",
+   "snippet": "A conservative congregation with a strong emphasis in education. Serves the   Jewish communities of the Hudson County.",
+   "htmlSnippet": "A conservative congregation with a strong emphasis in education. Serves the \u003cbr\u003e  Jewish communities of the Hudson County.",
+   "cacheId": "rY9-rAO7FA8J",
+   "formattedUrl": "www.hobokensynagogue.org/",
+   "htmlFormattedUrl": "www.\u003cb\u003ehoboken\u003c/b\u003esynagogue.org/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.hobokensynagogue.org/img/LogoRoseWindow.jpg",
+      "type": "1",
+      "width": "142",
+      "height": "46"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Welcome to Mangia Hoboken! The Hoboken Food Tour",
+   "htmlTitle": "Welcome to Mangia \u003cb\u003eHoboken\u003c/b\u003e! The \u003cb\u003eHoboken\u003c/b\u003e Food Tour",
+   "link": "http://www.hobokenfoodtour.com/",
+   "displayLink": "www.hobokenfoodtour.com",
+   "snippet": "Bring your appetite and your walking shoes as you take a behind-the-scenes-tour   in historic Hoboken, New Jersey of the most authentic Italian gourmet food ...",
+   "htmlSnippet": "Bring your appetite and your walking shoes as you take a behind-the-scenes-tour \u003cbr\u003e  in historic \u003cb\u003eHoboken\u003c/b\u003e, New Jersey of the most authentic Italian gourmet food \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "Nk4d8PVI34cJ",
+   "formattedUrl": "www.hobokenfoodtour.com/",
+   "htmlFormattedUrl": "www.\u003cb\u003ehoboken\u003c/b\u003efoodtour.com/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.hobokenfoodtour.com/joomla/images/stories/cakeboss_clickhere_box_1_sepia.jpg",
+      "type": "1",
+      "width": "140",
+      "height": "104"
+     }
+    ]
+   }
+  }
+ ]
+}

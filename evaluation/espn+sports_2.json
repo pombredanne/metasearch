@@ -1,0 +1,326 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "nextPage": [
+   {
+    "title": "Google Custom Search - espn sports",
+    "totalResults": "66400000",
+    "searchTerms": "espn sports",
+    "count": 10,
+    "startIndex": 31,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "017401104989814545383:mf4lavmtuva"
+   }
+  ],
+  "request": [
+   {
+    "title": "Google Custom Search - espn sports",
+    "totalResults": "66400000",
+    "searchTerms": "espn sports",
+    "count": 10,
+    "startIndex": 21,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "017401104989814545383:mf4lavmtuva"
+   }
+  ],
+  "previousPage": [
+   {
+    "title": "Google Custom Search - espn sports",
+    "totalResults": "66400000",
+    "searchTerms": "espn sports",
+    "count": 10,
+    "startIndex": 11,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "017401104989814545383:mf4lavmtuva"
+   }
+  ]
+ },
+ "context": {
+  "title": "College MetaSearch Comparison"
+ },
+ "searchInformation": {
+  "searchTime": 0.172513,
+  "formattedSearchTime": "0.17",
+  "totalResults": "66400000",
+  "formattedTotalResults": "66,400,000"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "Free ESPN Sports Quiz Game",
+   "htmlTitle": "Free \u003cb\u003eESPN Sports\u003c/b\u003e Quiz Game",
+   "link": "http://espn.go.com/free-online-games/sports/_/gid/307/espn-sports-quiz",
+   "displayLink": "espn.go.com",
+   "snippet": "Play the ESPN Sports Quiz presented by the U.S. Army to test your sports   knowledge, and earn the highest rank of Sergeant! Visit the ESPN Arcade to play   now!",
+   "htmlSnippet": "Play the \u003cb\u003eESPN Sports\u003c/b\u003e Quiz presented by the U.S. Army to test your sports \u003cbr\u003e  knowledge, and earn the highest rank of Sergeant! Visit the ESPN Arcade to play \u003cbr\u003e  now!",
+   "cacheId": "CBYpFoO-PkwJ",
+   "formattedUrl": "espn.go.com/free-online-games/sports/_/gid/307/espn-sports-quiz",
+   "htmlFormattedUrl": "\u003cb\u003eespn\u003c/b\u003e.go.com/free-online-games/\u003cb\u003esports\u003c/b\u003e/_/gid/307/\u003cb\u003eespn\u003c/b\u003e-\u003cb\u003esports\u003c/b\u003e-quiz",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://a.espncdn.com/i/espnarcade/large/"
+     }
+    ],
+    "metatags": [
+     {
+      "msvalidate.01": "980DAC91C6458F6FA90F7089E61D12B0",
+      "og:title": "ESPN Sports Quiz",
+      "og:type": "game",
+      "og:url": "http://espn.go.com/free-online-games/sports/_/gid/307/espn-sports-quiz",
+      "og:image": "http://a.espncdn.com/i/espnarcade/large/",
+      "og:site_name": "ESPN.com",
+      "fb:app_id": "116656161708917"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "NFL Football Teams, Scores, Stats, News, Standings, Rumors ...",
+   "htmlTitle": "NFL Football Teams, Scores, Stats, News, Standings, Rumors \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://espn.go.com/nfl/",
+   "displayLink": "espn.go.com",
+   "snippet": "Get the latest NFL football news, scores, stats, standings, fantasy games, and   more on ESPN.com. ... SportsNation: Rank 'em · Cross-sport top 25 Photo Gallery ...",
+   "htmlSnippet": "Get the latest NFL football news, scores, stats, standings, fantasy games, and \u003cbr\u003e  more on \u003cb\u003eESPN\u003c/b\u003e.com. \u003cb\u003e...\u003c/b\u003e SportsNation: Rank &#39;em &middot; Cross-\u003cb\u003esport\u003c/b\u003e top 25 Photo Gallery \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "qq1kqGgfA9YJ",
+   "formattedUrl": "espn.go.com/nfl/",
+   "htmlFormattedUrl": "\u003cb\u003eespn\u003c/b\u003e.go.com/nfl/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://a.espncdn.com/photo/2012/0719/insider_3panel_d1_576.jpg",
+      "type": "1",
+      "width": "300",
+      "height": "168"
+     }
+    ],
+    "metatags": [
+     {
+      "msvalidate.01": "B1FEB7C682C46C8FCDA3130F3D18AC28"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "MLB Baseball Scores - MLB Scoreboard - ESPN",
+   "htmlTitle": "MLB Baseball Scores - MLB Scoreboard - \u003cb\u003eESPN\u003c/b\u003e",
+   "link": "http://scores.espn.go.com/mlb/scoreboard",
+   "displayLink": "scores.espn.go.com",
+   "snippet": "Real-time MLB baseball scores on ESPN.com. ... Scoreboard Tools, ESPN Alerts,   Add Scoreboard Widget. Minimize ScoreCenter Video [-]Watch ScoreCenter ...",
+   "htmlSnippet": "Real-time MLB baseball scores on \u003cb\u003eESPN\u003c/b\u003e.com. \u003cb\u003e...\u003c/b\u003e Scoreboard Tools, \u003cb\u003eESPN\u003c/b\u003e Alerts, \u003cbr\u003e  Add Scoreboard Widget. Minimize ScoreCenter Video [-]Watch ScoreCenter \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "bWdl8W9Wf_0J",
+   "formattedUrl": "scores.espn.go.com/mlb/scoreboard",
+   "htmlFormattedUrl": "scores.\u003cb\u003eespn\u003c/b\u003e.go.com/mlb/scoreboard",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://a.espncdn.com/i/teamlogos/mlb/med/trans/chw.gif",
+      "type": "1",
+      "width": "74",
+      "height": "74"
+     }
+    ],
+    "metatags": [
+     {
+      "msvalidate.01": "B1FEB7C682C46C8FCDA3130F3D18AC28"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Tennis News, Videos, Players, and Results - ATP, WTA, US Open ...",
+   "htmlTitle": "Tennis News, Videos, Players, and Results - ATP, WTA, US Open \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://espn.go.com/tennis/",
+   "displayLink": "espn.go.com",
+   "snippet": "Log on to ESPN.com for the latest tennis news, results, commentary, and   highlights. ... Begin your Rekall Experience for a chance to live like a Sports   Anchor!",
+   "htmlSnippet": "Log on to \u003cb\u003eESPN\u003c/b\u003e.com for the latest tennis news, results, commentary, and \u003cbr\u003e  highlights. \u003cb\u003e...\u003c/b\u003e Begin your Rekall Experience for a chance to live like a \u003cb\u003eSports\u003c/b\u003e \u003cbr\u003e  Anchor!",
+   "cacheId": "GoACDu1l18AJ",
+   "formattedUrl": "espn.go.com/tennis/",
+   "htmlFormattedUrl": "\u003cb\u003eespn\u003c/b\u003e.go.com/tennis/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://a.espncdn.com/media/motion/2012/0708/dm_120708_tennis_roger_federe_interview_thumdnail_wbig.jpg",
+      "type": "1",
+      "width": "107",
+      "height": "60"
+     }
+    ],
+    "metatags": [
+     {
+      "msvalidate.01": "B1FEB7C682C46C8FCDA3130F3D18AC28"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "ESPN Radio | ESPN Radio",
+   "htmlTitle": "\u003cb\u003eESPN\u003c/b\u003e Radio | \u003cb\u003eESPN\u003c/b\u003e Radio",
+   "link": "http://www.espngo1.com/",
+   "displayLink": "www.espngo1.com",
+   "snippet": "ESPN Radio Header ... Mark McLeod, ESPN Radio ... Sports — contend that   Golden, according to an unnamed source, “had direct knowledge” of former UM ...",
+   "htmlSnippet": "\u003cb\u003eESPN\u003c/b\u003e Radio Header \u003cb\u003e...\u003c/b\u003e Mark McLeod, \u003cb\u003eESPN\u003c/b\u003e Radio \u003cb\u003e...\u003c/b\u003e \u003cb\u003eSports\u003c/b\u003e — contend that \u003cbr\u003e  Golden, according to an unnamed source, “had direct knowledge” of former UM \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "BMg_zIt3BMIJ",
+   "formattedUrl": "www.espngo1.com/",
+   "htmlFormattedUrl": "www.\u003cb\u003eespn\u003c/b\u003ego1.com/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://xos-widgets.s3.amazonaws.com/media/29e11867-c63f-4fd8-96d0-6f57d04a6f28_preview.jpg",
+      "type": "1",
+      "width": "259",
+      "height": "194"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Soccer News, Scores, Schedule, Stats, Standings, Rumors - ESPN",
+   "htmlTitle": "Soccer News, Scores, Schedule, Stats, Standings, Rumors - \u003cb\u003eESPN\u003c/b\u003e",
+   "link": "http://espn.go.com/sports/soccer/",
+   "displayLink": "espn.go.com",
+   "snippet": "Get the latest soccer news, scores, schedule, stats, standings, fantasy games and   more on ESPN.com.",
+   "htmlSnippet": "Get the latest soccer news, scores, schedule, stats, standings, fantasy games and \u003cbr\u003e  more on \u003cb\u003eESPN\u003c/b\u003e.com.",
+   "cacheId": "LLcbPQMUX4gJ",
+   "formattedUrl": "espn.go.com/sports/soccer/",
+   "htmlFormattedUrl": "\u003cb\u003eespn\u003c/b\u003e.go.com/\u003cb\u003esports\u003c/b\u003e/soccer/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://a.espncdn.com/photo/2012/0720/soc_g_michael-bradley_mb_576_576.jpg",
+      "type": "1",
+      "width": "300",
+      "height": "168"
+     }
+    ],
+    "metatags": [
+     {
+      "msvalidate.01": "B1FEB7C682C46C8FCDA3130F3D18AC28"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "ESPN.com Action Sports Star bracket - ESPN",
+   "htmlTitle": "\u003cb\u003eESPN\u003c/b\u003e.com Action \u003cb\u003eSports\u003c/b\u003e Star bracket - \u003cb\u003eESPN\u003c/b\u003e",
+   "link": "http://espn.go.com/action/story/_/id/7677844/action-sports-star-bracket",
+   "displayLink": "espn.go.com",
+   "snippet": "Apr 3, 2012 ... ESPN Action Sports is getting in on the bracket action by asking you to vote for   the top action sports star in the world.",
+   "htmlSnippet": "Apr 3, 2012 \u003cb\u003e...\u003c/b\u003e \u003cb\u003eESPN\u003c/b\u003e Action \u003cb\u003eSports\u003c/b\u003e is getting in on the bracket action by asking you to vote for \u003cbr\u003e  the top action \u003cb\u003esports\u003c/b\u003e star in the world.",
+   "cacheId": "B0eBq1-Xs5MJ",
+   "formattedUrl": "espn.go.com/action/story/_/id/7677844/action-sports-star-bracket",
+   "htmlFormattedUrl": "\u003cb\u003eespn\u003c/b\u003e.go.com/action/story/_/id/7677844/action-\u003cb\u003esports\u003c/b\u003e-star-bracket",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://a.espncdn.com/i/espn/espn_logos/espn_red.png"
+     }
+    ],
+    "metatags": [
+     {
+      "msvalidate.01": "B1FEB7C682C46C8FCDA3130F3D18AC28",
+      "syndication-source": "http://espn.go.com/action/story/_/id/7677844/action-sports-star-bracket",
+      "og:title": "Action Sports Star bracket",
+      "og:type": "article",
+      "og:url": "http://espn.go.com/action/story/_/id/7677844/action-sports-star-bracket",
+      "og:description": "ESPN Action Sports is getting in on the bracket action by asking you to vote for the top action sports star in the world.",
+      "og:image": "http://a.espncdn.com/i/espn/espn_logos/espn_red.png",
+      "og:site_name": "ESPN.com",
+      "fb:app_id": "116656161708917"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "ESPN Video: Watch Sports Videos and Highlights Online - ESPN",
+   "htmlTitle": "\u003cb\u003eESPN\u003c/b\u003e Video: Watch \u003cb\u003eSports\u003c/b\u003e Videos and Highlights Online - \u003cb\u003eESPN\u003c/b\u003e",
+   "link": "http://espn.go.com/video/",
+   "displayLink": "espn.go.com",
+   "snippet": "ESPN Video: Watch Sports Videos and Highlights Online.",
+   "htmlSnippet": "\u003cb\u003eESPN\u003c/b\u003e Video: Watch \u003cb\u003eSports\u003c/b\u003e Videos and Highlights Online.",
+   "cacheId": "YA9YBmSv-LUJ",
+   "formattedUrl": "espn.go.com/video/",
+   "htmlFormattedUrl": "\u003cb\u003eespn\u003c/b\u003e.go.com/video/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://a.espncdn.com/media/motion/2009/0708/dm_090708_mywish_chrispaul_thumbnail_wsmall.jpg",
+      "type": "1",
+      "width": "128",
+      "height": "96"
+     }
+    ],
+    "metatags": [
+     {
+      "slice": "off",
+      "msvalidate.01": "B1FEB7C682C46C8FCDA3130F3D18AC28"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Sports Science Videos - ESPN",
+   "htmlTitle": "\u003cb\u003eSports\u003c/b\u003e Science Videos - \u003cb\u003eESPN\u003c/b\u003e",
+   "link": "http://search.espn.go.com/sports-science/videos/6",
+   "displayLink": "search.espn.go.com",
+   "snippet": "John Brenkus and the Sport Science team examine the science behind Brady ...   Serena Williams visits the Gatorade Sports Science Institute to learn about what ...",
+   "htmlSnippet": "John Brenkus and the \u003cb\u003eSport\u003c/b\u003e Science team examine the science behind Brady \u003cb\u003e...\u003c/b\u003e \u003cbr\u003e  Serena Williams visits the Gatorade \u003cb\u003eSports\u003c/b\u003e Science Institute to learn about what \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "kYmymbvJzFoJ",
+   "formattedUrl": "search.espn.go.com/sports-science/videos/6",
+   "htmlFormattedUrl": "search.\u003cb\u003eespn\u003c/b\u003e.go.com/\u003cb\u003esports\u003c/b\u003e-science/videos/6",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://a.espncdn.com/media/motion/2012/0619/dm_120619_GSSI_Feature_Ryan_Lochte.jpg",
+      "type": "1",
+      "width": "300",
+      "height": "168"
+     }
+    ],
+    "metatags": [
+     {
+      "msvalidate.01": "B1FEB7C682C46C8FCDA3130F3D18AC28"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "SportsCenter.com - ESPN",
+   "htmlTitle": "SportsCenter.com - \u003cb\u003eESPN\u003c/b\u003e",
+   "link": "http://espn.go.com/video/sportscenter",
+   "displayLink": "espn.go.com",
+   "snippet": "ESPN: Videos Updates every 60 minute(s). MyESPN; NFL · MLB · NBA · NHL ...   Video Home · Radio Home · The Latest · Highlights; Sports. Boxing · College ...",
+   "htmlSnippet": "\u003cb\u003eESPN\u003c/b\u003e: Videos Updates every 60 minute(s). MyESPN; NFL &middot; MLB &middot; NBA &middot; NHL \u003cb\u003e...\u003c/b\u003e \u003cbr\u003e  Video Home &middot; Radio Home &middot; The Latest &middot; Highlights; \u003cb\u003eSports\u003c/b\u003e. Boxing &middot; College \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "0ij-32ZzJFYJ",
+   "formattedUrl": "espn.go.com/video/sportscenter",
+   "htmlFormattedUrl": "\u003cb\u003eespn\u003c/b\u003e.go.com/video/\u003cb\u003esports\u003c/b\u003ecenter",
+   "pagemap": {
+    "metatags": [
+     {
+      "slice": "off",
+      "msvalidate.01": "B1FEB7C682C46C8FCDA3130F3D18AC28"
+     }
+    ]
+   }
+  }
+ ]
+}

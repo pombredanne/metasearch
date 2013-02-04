@@ -1,0 +1,348 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "nextPage": [
+   {
+    "title": "Google Custom Search - elliptical trainer",
+    "totalResults": "761000",
+    "searchTerms": "elliptical trainer",
+    "count": 10,
+    "startIndex": 81,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "017401104989814545383:mf4lavmtuva"
+   }
+  ],
+  "request": [
+   {
+    "title": "Google Custom Search - elliptical trainer",
+    "totalResults": "761000",
+    "searchTerms": "elliptical trainer",
+    "count": 10,
+    "startIndex": 71,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "017401104989814545383:mf4lavmtuva"
+   }
+  ],
+  "previousPage": [
+   {
+    "title": "Google Custom Search - elliptical trainer",
+    "totalResults": "761000",
+    "searchTerms": "elliptical trainer",
+    "count": 10,
+    "startIndex": 61,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "017401104989814545383:mf4lavmtuva"
+   }
+  ]
+ },
+ "context": {
+  "title": "College MetaSearch Comparison"
+ },
+ "searchInformation": {
+  "searchTime": 0.206461,
+  "formattedSearchTime": "0.21",
+  "totalResults": "761000",
+  "formattedTotalResults": "761,000"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "Octane Elliptical Trainers / Reviews – Quality and Value",
+   "htmlTitle": "Octane \u003cb\u003eElliptical Trainers\u003c/b\u003e / Reviews – Quality and Value",
+   "link": "http://www.allellipticals.com/octane-elliptical-trainers.html",
+   "displayLink": "www.allellipticals.com",
+   "snippet": "Octane elliptical trainers deliver quality and value: an outstanding brand known   for a comfy ergonomic stance. Reviews are positive about the quiet, smooth ride.",
+   "htmlSnippet": "Octane \u003cb\u003eelliptical trainers\u003c/b\u003e deliver quality and value: an outstanding brand known \u003cbr\u003e  for a comfy ergonomic stance. Reviews are positive about the quiet, smooth ride.",
+   "cacheId": "zIqCr6bFxWgJ",
+   "formattedUrl": "www.allellipticals.com/octane-elliptical-trainers.html",
+   "htmlFormattedUrl": "www.all\u003cb\u003eelliptical\u003c/b\u003es.com/octane-\u003cb\u003eelliptical\u003c/b\u003e-\u003cb\u003etrainers\u003c/b\u003e.html",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.allellipticals.com/images/octane-elliptical-machines.jpg",
+      "type": "1",
+      "width": "240",
+      "height": "196"
+     }
+    ],
+    "metatags": [
+     {
+      "skype_toolbar": "SKYPE_TOOLBAR_PARSER_COMPATIBLE",
+      "fb:app_id": "243667088985851"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Nautilus E514 Elliptical Trainer: Amazon.com: Sports & Outdoors",
+   "htmlTitle": "Nautilus E514 \u003cb\u003eElliptical Trainer\u003c/b\u003e: Amazon.com: Sports &amp; Outdoors",
+   "link": "http://www.amazon.com/Nautilus-100161-E514-Elliptical-Trainer/dp/B00275R2ES",
+   "displayLink": "www.amazon.com",
+   "snippet": "Ideal for fitness enthusiasts of any skill level, the Nautilus E514 provides an   effective cardiovascular workout by combining upper and lower body flexibility   and ...",
+   "htmlSnippet": "Ideal for fitness enthusiasts of any skill level, the Nautilus E514 provides an \u003cbr\u003e  effective cardiovascular workout by combining upper and lower body flexibility \u003cbr\u003e  and \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "yQZ6D5BLXsAJ",
+   "formattedUrl": "www.amazon.com/Nautilus...E514-Elliptical-Trainer/.../B00275R2ES",
+   "htmlFormattedUrl": "www.amazon.com/Nautilus...E514-\u003cb\u003eElliptical\u003c/b\u003e-\u003cb\u003eTrainer\u003c/b\u003e/.../B00275R2ES",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://ecx.images-amazon.com/images/I/41hGJmb5VhL._SL500_AA300_.jpg"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "225",
+      "height": "225",
+      "src": "https://encrypted-tbn2.google.com/images?q=tbn:ANd9GcR9Uk6oJr3VjViVFGZS1mpJJql0TnA9bRZzdeG_rBEuy5ZIrKp91OCgV3NF"
+     }
+    ],
+    "scraped": [
+     {
+      "image_link": "http://ecx.images-amazon.com/images/I/41hGJmb5VhL._SL500_AA300_.jpg"
+     }
+    ],
+    "metatags": [
+     {
+      "title": "Nautilus E514 Elliptical Trainer: Amazon.com: Sports & Outdoors"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "ProForm XP StrideClimber 600 Elliptical Trainer Review",
+   "htmlTitle": "ProForm XP StrideClimber 600 \u003cb\u003eElliptical Trainer\u003c/b\u003e Review",
+   "link": "http://www.allellipticals.com/proform-xp-strideclimber-600-elliptical.html",
+   "displayLink": "www.allellipticals.com",
+   "snippet": "The ProForm XP StrideClimber 600 elliptical trainer, a ramp elliptical that   combines a stair stepper with a strider, strictly built for light to moderate use.   Proform ...",
+   "htmlSnippet": "The ProForm XP StrideClimber 600 \u003cb\u003eelliptical trainer\u003c/b\u003e, a ramp elliptical that \u003cbr\u003e  combines a stair stepper with a strider, strictly built for light to moderate use. \u003cbr\u003e  Proform \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "PJFe2lFtjb8J",
+   "formattedUrl": "www.allellipticals.com/proform-xp-strideclimber-600-elliptical.html",
+   "htmlFormattedUrl": "www.all\u003cb\u003eelliptical\u003c/b\u003es.com/proform-xp-strideclimber-600-\u003cb\u003eelliptical\u003c/b\u003e.html",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.allellipticals.com/images/proform-xp-strideclimber-600.jpg",
+      "type": "1",
+      "width": "153",
+      "height": "175"
+     }
+    ],
+    "metatags": [
+     {
+      "skype_toolbar": "SKYPE_TOOLBAR_PARSER_COMPATIBLE",
+      "fb:app_id": "243667088985851"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Elliptical Trainer Reviews - 2012 Best Elliptical Reviews",
+   "htmlTitle": "\u003cb\u003eElliptical Trainer\u003c/b\u003e Reviews - 2012 Best Elliptical Reviews",
+   "link": "http://www.fitness-equipment-source.com/",
+   "displayLink": "www.fitness-equipment-source.com",
+   "snippet": "Elliptical Trainer Reviews and Ratings from industry expert Fred Waters. Get the   very best elliptical for your body and your budget!",
+   "htmlSnippet": "\u003cb\u003eElliptical Trainer\u003c/b\u003e Reviews and Ratings from industry expert Fred Waters. Get the \u003cbr\u003e  very best elliptical for your body and your budget!",
+   "cacheId": "ExP6OZ9jGuYJ",
+   "formattedUrl": "www.fitness-equipment-source.com/",
+   "htmlFormattedUrl": "www.fitness-equipment-source.com/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.fitness-equipment-source.com/graphics/precor-elliptical.jpg",
+      "type": "1",
+      "width": "138",
+      "height": "184"
+     }
+    ],
+    "metatags": [
+     {
+      "y_key": "79fd3f1f171c4d30",
+      "msvalidate.01": "5287268C2B763405962DBDDABF6654FB"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Cheap Elliptical Trainers – Our Recommended Buys",
+   "htmlTitle": "Cheap \u003cb\u003eElliptical Trainers\u003c/b\u003e – Our Recommended Buys",
+   "link": "http://www.allellipticals.com/cheap-elliptical-trainers.html",
+   "displayLink": "www.allellipticals.com",
+   "snippet": "A look at cheap elliptical trainers – inexpensive models in the $100-$1000 price   range. Budget elliptical machines from Eclipse, Horizon, Stamina, ProForm and ...",
+   "htmlSnippet": "A look at cheap \u003cb\u003eelliptical trainers\u003c/b\u003e – inexpensive models in the $100-$1000 price \u003cbr\u003e  range. Budget elliptical machines from Eclipse, Horizon, Stamina, ProForm and \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "9-2yBVRtTpwJ",
+   "formattedUrl": "www.allellipticals.com/cheap-elliptical-trainers.html",
+   "htmlFormattedUrl": "www.all\u003cb\u003eelliptical\u003c/b\u003es.com/cheap-\u003cb\u003eelliptical\u003c/b\u003e-\u003cb\u003etrainers\u003c/b\u003e.html",
+   "pagemap": {
+    "metatags": [
+     {
+      "skype_toolbar": "SKYPE_TOOLBAR_PARSER_COMPATIBLE",
+      "fb:app_id": "243667088985851"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Amazon.com: Marcy Elliptical Trainer: Sports & Outdoors",
+   "htmlTitle": "Amazon.com: Marcy \u003cb\u003eElliptical Trainer\u003c/b\u003e: Sports &amp; Outdoors",
+   "link": "http://www.amazon.com/Marcy-BF1201-Elliptical-Trainer/dp/B0042LFQDY",
+   "displayLink": "www.amazon.com",
+   "snippet": "Get fit in the comfort of your own home with the Marcy BF-1201 elliptical trainer.   The BF-1201 is equipped with an oversized flywheel that encourages a smooth, ...",
+   "htmlSnippet": "Get fit in the comfort of your own home with the Marcy BF-1201 \u003cb\u003eelliptical trainer\u003c/b\u003e. \u003cbr\u003e  The BF-1201 is equipped with an oversized flywheel that encourages a smooth, \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "tb4hHjhVJ6cJ",
+   "formattedUrl": "www.amazon.com/Marcy-BF1201-Elliptical-Trainer/.../B0042LFQDY",
+   "htmlFormattedUrl": "www.amazon.com/Marcy-BF1201-\u003cb\u003eElliptical\u003c/b\u003e-\u003cb\u003eTrainer\u003c/b\u003e/.../B0042LFQDY",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://ecx.images-amazon.com/images/I/31uhd18ZFRL._SL500_AA300_.jpg"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "225",
+      "height": "225",
+      "src": "https://encrypted-tbn2.google.com/images?q=tbn:ANd9GcTH4dwE13Nq5IlSCk4BqEtcdFWlPCTcUR2UirjL8jgcxICg7-vNumnUbV-r"
+     }
+    ],
+    "scraped": [
+     {
+      "image_link": "http://ecx.images-amazon.com/images/I/31uhd18ZFRL._SL500_AA300_.jpg"
+     }
+    ],
+    "metatags": [
+     {
+      "title": "Amazon.com: Marcy Elliptical Trainer: Sports & Outdoors"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Elliptical Machine",
+   "htmlTitle": "\u003cb\u003eElliptical Machine\u003c/b\u003e",
+   "link": "http://ellipticalfitnessmachine.blogsavy.com/",
+   "displayLink": "ellipticalfitnessmachine.blogsavy.com",
+   "snippet": "An elliptical machine is a great way to get in shape. There are many options and   prices available. For example, Consumer Reports says that lower cost elliptical ...",
+   "htmlSnippet": "An \u003cb\u003eelliptical machine\u003c/b\u003e is a great way to get in shape. There are many options and \u003cbr\u003e  prices available. For example, Consumer Reports says that lower cost elliptical \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "4BpF3BL3XVwJ",
+   "formattedUrl": "ellipticalfitnessmachine.blogsavy.com/",
+   "htmlFormattedUrl": "\u003cb\u003eelliptical\u003c/b\u003efitness\u003cb\u003emachine\u003c/b\u003e.blogsavy.com/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://ellipticalfitnessmachine.blogsavy.com/files/2009/05/resizedimage500369-elliptical-machines-225x166.jpg",
+      "type": "1",
+      "width": "180",
+      "height": "132"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Rear and Front Driven Elliptical Trainers - the Differences Explained",
+   "htmlTitle": "Rear and Front Driven \u003cb\u003eElliptical Trainers\u003c/b\u003e - the Differences Explained",
+   "link": "http://www.allellipticals.com/front-driven-elliptical-trainers.html",
+   "displayLink": "www.allellipticals.com",
+   "snippet": "Are front driven elliptical trainers as stable and smooth as rear drive elliptical   machines? Read about the different approaches to motion in crosstrainer design.",
+   "htmlSnippet": "Are front driven \u003cb\u003eelliptical trainers\u003c/b\u003e as stable and smooth as rear drive elliptical \u003cbr\u003e  machines? Read about the different approaches to motion in crosstrainer design.",
+   "cacheId": "FEU8D8E2yxkJ",
+   "formattedUrl": "www.allellipticals.com/front-driven-elliptical-trainers.html",
+   "htmlFormattedUrl": "www.all\u003cb\u003eelliptical\u003c/b\u003es.com/front-driven-\u003cb\u003eelliptical\u003c/b\u003e-\u003cb\u003etrainers\u003c/b\u003e.html",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.allellipticals.com/images/sole-e95-elliptical-trainer.jpg",
+      "type": "1",
+      "width": "225",
+      "height": "225"
+     }
+    ],
+    "metatags": [
+     {
+      "skype_toolbar": "SKYPE_TOOLBAR_PARSER_COMPATIBLE",
+      "fb:app_id": "243667088985851"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Amazon.com: Schwinn 420 Elliptical Trainer (2012 Model): Sports ...",
+   "htmlTitle": "Amazon.com: Schwinn 420 \u003cb\u003eElliptical Trainer\u003c/b\u003e (2012 Model): Sports \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://www.amazon.com/Schwinn-420-Elliptical-Trainer-Model/dp/B0055WRYIY",
+   "displayLink": "www.amazon.com",
+   "snippet": "Schwinn Elliptical Machines are designed to deliver a comfortable workout and   maximum results. With easy to use features, simple assembly, and a unique ...",
+   "htmlSnippet": "Schwinn \u003cb\u003eElliptical\u003c/b\u003e Machines are designed to deliver a comfortable workout and \u003cbr\u003e  maximum results. With easy to use features, simple assembly, and a unique \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "rYzBpCzBANwJ",
+   "formattedUrl": "www.amazon.com/Schwinn-420-Elliptical-Trainer.../B0055WRYIY",
+   "htmlFormattedUrl": "www.amazon.com/Schwinn-420-\u003cb\u003eElliptical\u003c/b\u003e-\u003cb\u003eTrainer\u003c/b\u003e.../B0055WRYIY",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://ecx.images-amazon.com/images/I/41IIx7nKQ0L._SL500_AA300_.jpg"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "225",
+      "height": "225",
+      "src": "https://encrypted-tbn2.google.com/images?q=tbn:ANd9GcT28COncsT2iFEjnwuMbYu93MnaF6VOww5a3_QP7i6d-3Za_33L3TR8JjE"
+     }
+    ],
+    "scraped": [
+     {
+      "image_link": "http://ecx.images-amazon.com/images/I/41IIx7nKQ0L._SL500_AA300_.jpg"
+     }
+    ],
+    "metatags": [
+     {
+      "title": "Amazon.com: Schwinn 420 Elliptical Trainer (2012 Model): Sports & Outdoors"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Buy Elliptical Machines & Cross Trainers Online | Kettler USA",
+   "htmlTitle": "Buy \u003cb\u003eElliptical\u003c/b\u003e Machines &amp; Cross \u003cb\u003eTrainers\u003c/b\u003e Online | Kettler USA",
+   "link": "http://www.kettlerusa.com/fitness/crosstrainers",
+   "displayLink": "www.kettlerusa.com",
+   "snippet": "Get a great low impact workout with one of our elliptical machines. Shop   KETTLER online for a large selection of elliptical machines and cross trainers.",
+   "htmlSnippet": "Get a great low impact workout with one of our \u003cb\u003eelliptical\u003c/b\u003e machines. Shop \u003cbr\u003e  KETTLER online for a large selection of \u003cb\u003eelliptical\u003c/b\u003e machines and cross \u003cb\u003etrainers\u003c/b\u003e.",
+   "cacheId": "MVP2fz3SRvcJ",
+   "formattedUrl": "www.kettlerusa.com/fitness/crosstrainers",
+   "htmlFormattedUrl": "www.kettlerusa.com/fitness/cross\u003cb\u003etrainers\u003c/b\u003e",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.kettlerusa.com/images/fitness/crosstrainers/life-style.jpg",
+      "type": "1",
+      "width": "275",
+      "height": "183"
+     }
+    ],
+    "metatags": [
+     {
+      "layout": "fitness"
+     }
+    ]
+   }
+  }
+ ]
+}

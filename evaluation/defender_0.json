@@ -1,0 +1,316 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "nextPage": [
+   {
+    "title": "Google Custom Search - defender",
+    "totalResults": "19600000",
+    "searchTerms": "defender",
+    "count": 10,
+    "startIndex": 11,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "017401104989814545383:mf4lavmtuva"
+   }
+  ],
+  "request": [
+   {
+    "title": "Google Custom Search - defender",
+    "totalResults": "19600000",
+    "searchTerms": "defender",
+    "count": 10,
+    "startIndex": 1,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "017401104989814545383:mf4lavmtuva"
+   }
+  ]
+ },
+ "context": {
+  "title": "College MetaSearch Comparison"
+ },
+ "searchInformation": {
+  "searchTime": 0.214749,
+  "formattedSearchTime": "0.21",
+  "totalResults": "19600000",
+  "formattedTotalResults": "19,600,000"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "Discount Marine and Boat Supplies - Inflatable Sales - Defender",
+   "htmlTitle": "Discount Marine and Boat Supplies - Inflatable Sales - \u003cb\u003eDefender\u003c/b\u003e",
+   "link": "http://www.defender.com/",
+   "displayLink": "www.defender.com",
+   "snippet": "Defender Marine boat supply, discount marine supplies and inflatable boats from   leading manufacturers. Online store for all your boat supplies and boating ...",
+   "htmlSnippet": "\u003cb\u003eDefender\u003c/b\u003e Marine boat supply, discount marine supplies and inflatable boats from \u003cbr\u003e  leading manufacturers. Online store for all your boat supplies and boating \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "JG66hYGb848J",
+   "formattedUrl": "www.defender.com/",
+   "htmlFormattedUrl": "www.\u003cb\u003edefender\u003c/b\u003e.com/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.defender.com/images/rotator/images/cool_off12.jpg",
+      "type": "1",
+      "width": "301",
+      "height": "167"
+     }
+    ],
+    "metatags": [
+     {
+      "copyright": "2012",
+      "author": "Defender Industries",
+      "identifier-url": "http://www.defender.com/",
+      "audience": "General",
+      "distribution": "Global",
+      "classification": "discount marine supplies and supply"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Defender (video game) - Wikipedia, the free encyclopedia",
+   "htmlTitle": "\u003cb\u003eDefender\u003c/b\u003e (video game) - Wikipedia, the free encyclopedia",
+   "link": "http://en.wikipedia.org/wiki/Defender_(video_game)",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "Defender is an arcade video game developed and released by Williams   Electronics in 1980. A shooting game featuring two-dimensional (2D) graphics,   the ...",
+   "htmlSnippet": "\u003cb\u003eDefender\u003c/b\u003e is an arcade video game developed and released by Williams \u003cbr\u003e  Electronics in 1980. A shooting game featuring two-dimensional (2D) graphics, \u003cbr\u003e  the \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "ikPC15dZKUQJ",
+   "formattedUrl": "en.wikipedia.org/wiki/Defender_(video_game)",
+   "htmlFormattedUrl": "en.wikipedia.org/wiki/\u003cb\u003eDefender\u003c/b\u003e_(video_game)",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://upload.wikimedia.org/wikipedia/en/e/ea/Defender_red_label.flyer.png",
+      "type": "1",
+      "width": "177",
+      "height": "224"
+     }
+    ],
+    "hproduct": [
+     {
+      "fn": "Defender"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Defender| DIY Video Security Systems| Best Security Products ...",
+   "htmlTitle": "\u003cb\u003eDefender\u003c/b\u003e| DIY Video Security Systems| Best Security Products \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://www.defender-usa.com/",
+   "displayLink": "www.defender-usa.com",
+   "snippet": "The Best Source for DIY Video Security Systems with easy setup and all your   other home and business security needs. Located in Niagara Falls.",
+   "htmlSnippet": "The Best Source for DIY Video Security Systems with easy setup and all your \u003cbr\u003e  other home and business security needs. Located in Niagara Falls.",
+   "cacheId": "zBdjE7hW3ckJ",
+   "formattedUrl": "www.defender-usa.com/",
+   "htmlFormattedUrl": "www.\u003cb\u003edefender\u003c/b\u003e-usa.com/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.defender-usa.com/images/home-sub-banner/defender-college-blk.jpg",
+      "type": "1",
+      "width": "354",
+      "height": "130"
+     }
+    ],
+    "metatags": [
+     {
+      "author": "AndrewL@svat.com"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Download: Windows® Defender - Microsoft Download Center ...",
+   "htmlTitle": "Download: Windows® \u003cb\u003eDefender\u003c/b\u003e - Microsoft Download Center \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://www.microsoft.com/en-us/download/details.aspx?id=17",
+   "displayLink": "www.microsoft.com",
+   "snippet": "May 23, 2007 ... Windows Defender is a free program that helps you stay productive by protecting   your computer against pop-ups, slow performance and ...",
+   "htmlSnippet": "May 23, 2007 \u003cb\u003e...\u003c/b\u003e Windows \u003cb\u003eDefender\u003c/b\u003e is a free program that helps you stay productive by protecting \u003cbr\u003e  your computer against pop-ups, slow performance and \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "Ah3lc0FSj6EJ",
+   "formattedUrl": "www.microsoft.com/en-us/download/details.aspx?id=17",
+   "htmlFormattedUrl": "www.microsoft.com/en-us/download/details.aspx?id=17"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Defender - Android Apps on Google Play",
+   "htmlTitle": "\u003cb\u003eDefender\u003c/b\u003e - Android Apps on Google Play",
+   "link": "https://play.google.com/store/apps/details?id=com.droidhen.defender&hl=en",
+   "displayLink": "play.google.com",
+   "snippet": "Mar 28, 2012 ... The ultimate castle defense! - Top 10 Free Android Games of 2011 by games.  com! Waves of monsters are attacking your castle. They move fast ...",
+   "htmlSnippet": "Mar 28, 2012 \u003cb\u003e...\u003c/b\u003e The ultimate castle defense! - Top 10 Free Android Games of 2011 by games.\u003cbr\u003e  com! Waves of monsters are attacking your castle. They move fast \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "0MxrMhPIywAJ",
+   "formattedUrl": "https://play.google.com/store/apps/details?id=com...defender&hl...",
+   "htmlFormattedUrl": "https://play.google.com/store/apps/details?id=com...\u003cb\u003edefender\u003c/b\u003e&amp;hl...",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "https://lh5.ggpht.com/xQ5JfI6Y2sFI4OvYBkMSrLUWWUAgCUK_7LQfljGqKm1JicfCceV80z0W4lDi35OzwZQ=w705",
+      "type": "1",
+      "width": "321",
+      "height": "157"
+     }
+    ],
+    "organization": [
+     {
+      "name": "DroidHen",
+      "url": "/store/apps/developer?id=DroidHen"
+     },
+     {
+      "name": "Android"
+     }
+    ],
+    "aggregaterating": [
+     {
+      "ratingvalue": "4.6",
+      "ratingcount": "129045"
+     }
+    ],
+    "mobilesoftwareapplication": [
+     {
+      "name": "Defender",
+      "image": "https://lh3.ggpht.com/3VnQdDmBC7wMahZN9wAca7tPDGVwuJVQPSggbGt8Iq5O8i5M8PABnT0JichZMZ1Fo9k=w124",
+      "datepublished": "March 28, 2012",
+      "softwareversion": "1.1.3",
+      "operatingsystems": "Android",
+      "numdownloads": "5,000,000 - 10,000,000last 30 days",
+      "filesize": "11M",
+      "contentrating": "Medium Maturity"
+     }
+    ],
+    "offer": [
+     {
+      "price": "0"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Defender - Videogame by Williams Electronics, Inc. (1967-1985)",
+   "htmlTitle": "\u003cb\u003eDefender\u003c/b\u003e - Videogame by Williams Electronics, Inc. (1967-1985)",
+   "link": "http://www.arcade-museum.com/game_detail.php?game_id=7547",
+   "displayLink": "www.arcade-museum.com",
+   "snippet": "The Defender coin-operated Videogame by Williams Electronics, Inc. (1967-1985  ) (circa 1981), and it's history and background, photos, arcade cheats, repair ...",
+   "htmlSnippet": "The \u003cb\u003eDefender\u003c/b\u003e coin-operated Videogame by Williams Electronics, Inc. (1967-1985\u003cbr\u003e  ) (circa 1981), and it&#39;s history and background, photos, arcade cheats, repair \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "U8vgrsntyoUJ",
+   "formattedUrl": "www.arcade-museum.com/game_detail.php?game_id=7547",
+   "htmlFormattedUrl": "www.arcade-museum.com/game_detail.php?game_id=7547",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://thumbs1.ebaystatic.com/pict/2511144638284040_1.jpg",
+      "type": "1",
+      "width": "112",
+      "height": "84"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Land Rover Defender - Wikipedia, the free encyclopedia",
+   "htmlTitle": "Land Rover \u003cb\u003eDefender\u003c/b\u003e - Wikipedia, the free encyclopedia",
+   "link": "http://en.wikipedia.org/wiki/Land_Rover_Defender",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "The Land Rover Defender (initially called the Land Rover Ninety and Land Rover   One Ten) is a British four-wheel-drive off-road utility vehicle developed from ...",
+   "htmlSnippet": "The Land Rover \u003cb\u003eDefender\u003c/b\u003e (initially called the Land Rover Ninety and Land Rover \u003cbr\u003e  One Ten) is a British four-wheel-drive off-road utility vehicle developed from \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "FZVmrDwNOdIJ",
+   "formattedUrl": "en.wikipedia.org/wiki/Land_Rover_Defender",
+   "htmlFormattedUrl": "en.wikipedia.org/wiki/Land_Rover_\u003cb\u003eDefender\u003c/b\u003e",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Land_Rover_Defender_front_20070518.jpg/250px-Land_Rover_Defender_front_20070518.jpg",
+      "type": "1",
+      "width": "200",
+      "height": "136"
+     }
+    ],
+    "hproduct": [
+     {
+      "category": "Off-road vehicle",
+      "fn": "Land Rover Defender"
+     },
+     {
+      "category": "3-door station wagon (Ninety) 5-door station wagon (One Ten) 2-door pickup (Ninety/One Ten) 3-door van (Ninety/One Ten) 2-door High Capacity Pickup (One Ten)",
+      "fn": "Ninety, One Ten & 127"
+     },
+     {
+      "category": "3-door station wagon (Ninety) 5-door station wagon (One-Ten) 2-door Single Cab pickup (Ninety) 4-door Double Cab pickup (One-Thirty) 2-door Hardtop (Ninety,One-Ten,One-Thirty)",
+      "fn": "Land Rover Defender"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Chicago Defender",
+   "htmlTitle": "Chicago \u003cb\u003eDefender\u003c/b\u003e",
+   "link": "http://www.chicagodefender.com/",
+   "displayLink": "www.chicagodefender.com",
+   "snippet": "Chicago Defender Online News. ... Read more Preview. OUR CITY Defender   Staff Report. Collective effort needed to reduce crime numbers. There've been ...",
+   "htmlSnippet": "Chicago \u003cb\u003eDefender\u003c/b\u003e Online News. \u003cb\u003e...\u003c/b\u003e Read more Preview. OUR CITY \u003cb\u003eDefender\u003c/b\u003e \u003cbr\u003e  Staff Report. Collective effort needed to reduce crime numbers. There&#39;ve been \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "Q3Sb7AChqT4J",
+   "formattedUrl": "www.chicagodefender.com/",
+   "htmlFormattedUrl": "www.chicago\u003cb\u003edefender\u003c/b\u003e.com/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.chicagodefender.com/imgs/hed/22026nr.jpg",
+      "type": "1",
+      "width": "136",
+      "height": "156"
+     }
+    ],
+    "metatags": [
+     {
+      "abstract": "Chicago Defender Online News"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "OtterBox Defender Series Cases // OtterBox.com",
+   "htmlTitle": "OtterBox \u003cb\u003eDefender\u003c/b\u003e Series Cases // OtterBox.com",
+   "link": "http://www.otterbox.com/defender-series-cases/defender-series-cases,default,sc.html",
+   "displayLink": "www.otterbox.com",
+   "snippet": "Results 1 - 9 of 69 ... OtterBox Defender Series cases are made of three rugged layers and offer   protection from drops, scratches, dust and more!",
+   "htmlSnippet": "Results 1 - 9 of 69 \u003cb\u003e...\u003c/b\u003e OtterBox \u003cb\u003eDefender\u003c/b\u003e Series cases are made of three rugged layers and offer \u003cbr\u003e  protection from drops, scratches, dust and more!",
+   "cacheId": "-8SoRO0bsiYJ",
+   "formattedUrl": "www.otterbox.com/defender.../defender-series-cases,default,sc.html",
+   "htmlFormattedUrl": "www.otterbox.com/\u003cb\u003edefender\u003c/b\u003e.../\u003cb\u003edefender\u003c/b\u003e-series-cases,default,sc.html",
+   "pagemap": {
+    "metatags": [
+     {
+      "msvalidate.01": "EDB396C2983CA2B4D6A73BEE418B651F",
+      "com.silverpop.brandeddomains": "www.pages04.net,web.otterbox.demandware.net",
+      "com.silverpop.cothost": "engage4.silverpop.com"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Two-Factor Authentication & Multi-Factor Authentication: Defender",
+   "htmlTitle": "Two-Factor Authentication &amp; Multi-Factor Authentication: \u003cb\u003eDefender\u003c/b\u003e",
+   "link": "http://www.quest.com/defender/",
+   "displayLink": "www.quest.com",
+   "snippet": "Quest Defender enables two-factor and multi-factor authentication on Active   Directory-centric platform to any system, application or resource.",
+   "htmlSnippet": "Quest \u003cb\u003eDefender\u003c/b\u003e enables two-factor and multi-factor authentication on Active \u003cbr\u003e  Directory-centric platform to any system, application or resource.",
+   "cacheId": "RVkdW1cLbh0J",
+   "formattedUrl": "www.quest.com/defender/",
+   "htmlFormattedUrl": "www.quest.com/\u003cb\u003edefender\u003c/b\u003e/"
+  }
+ ]
+}

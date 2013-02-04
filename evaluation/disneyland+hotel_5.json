@@ -1,0 +1,399 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "nextPage": [
+   {
+    "title": "Google Custom Search - disneyland hotel",
+    "totalResults": "7040000",
+    "searchTerms": "disneyland hotel",
+    "count": 10,
+    "startIndex": 61,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "017401104989814545383:mf4lavmtuva"
+   }
+  ],
+  "request": [
+   {
+    "title": "Google Custom Search - disneyland hotel",
+    "totalResults": "7040000",
+    "searchTerms": "disneyland hotel",
+    "count": 10,
+    "startIndex": 51,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "017401104989814545383:mf4lavmtuva"
+   }
+  ],
+  "previousPage": [
+   {
+    "title": "Google Custom Search - disneyland hotel",
+    "totalResults": "7040000",
+    "searchTerms": "disneyland hotel",
+    "count": 10,
+    "startIndex": 41,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "017401104989814545383:mf4lavmtuva"
+   }
+  ]
+ },
+ "context": {
+  "title": "College MetaSearch Comparison"
+ },
+ "searchInformation": {
+  "searchTime": 0.211654,
+  "formattedSearchTime": "0.21",
+  "totalResults": "7040000",
+  "formattedTotalResults": "7,040,000"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "Kyriad Disneyland Resort Paris (Magny-le-Hongre, France) - Hotel ...",
+   "htmlTitle": "Kyriad \u003cb\u003eDisneyland\u003c/b\u003e Resort Paris (Magny-le-Hongre, France) - \u003cb\u003eHotel\u003c/b\u003e \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://www.tripadvisor.com/Hotel_Review-g664935-d487413-Reviews-Kyriad_Disneyland_Resort_Paris-Magny_le_Hongre_Seine_et_Marne_Ile_de_France.html",
+   "displayLink": "www.tripadvisor.com",
+   "snippet": "Kyriad Disneyland Resort Paris, Magny-le-Hongre: See 810 traveler reviews, 178   candid photos, and great deals for Kyriad Disneyland Resort Paris, ranked #3 ...",
+   "htmlSnippet": "Kyriad \u003cb\u003eDisneyland\u003c/b\u003e Resort Paris, Magny-le-Hongre: See 810 traveler reviews, 178 \u003cbr\u003e  candid photos, and great deals for Kyriad \u003cb\u003eDisneyland\u003c/b\u003e Resort Paris, ranked #3 \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "N-pdHwJxs9gJ",
+   "formattedUrl": "www.tripadvisor.com/Hotel_Review-g664935-d487413-Reviews-Kyriad_ Disneyland_Resort_Paris-Magny_le_Hongre_Seine_et_Marne_Ile_...",
+   "htmlFormattedUrl": "www.tripadvisor.com/\u003cb\u003eHotel\u003c/b\u003e_Review-g664935-d487413-Reviews-Kyriad_ \u003cb\u003eDisneyland\u003c/b\u003e_Resort_Paris-Magny_le_Hongre_Seine_et_Marne_Ile_...",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://media-cdn.tripadvisor.com/media/photo-s/01/c1/3b/c3/vue-exterieure-de-nuit.jpg",
+      "type": "1",
+      "width": "275",
+      "height": "183"
+     }
+    ],
+    "metatags": [
+     {
+      "og:image": "http://c1.tacdn.com/img2/postimg.jpg"
+     }
+    ],
+    "review": [
+     {
+      "ratingstars": "3.5",
+      "ratingcount": "810",
+      "pricerange": "$$",
+      "image_url": "http://media-cdn.tripadvisor.com/media/photo-s/01/c1/3b/c3/vue-exterieure-de-nuit.jpg"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Disneyland Hotel Makeover « Disney Parks Blog",
+   "htmlTitle": "\u003cb\u003eDisneyland Hotel\u003c/b\u003e Makeover « Disney Parks Blog",
+   "link": "http://disneyparks.disney.go.com/blog/2010/05/disneyland-hotel-makeover/",
+   "displayLink": "disneyparks.disney.go.com",
+   "snippet": "May 26, 2010 ... Disneyland Hotel Makeover - The official blog for Disneyland Resort, Walt Disney   World and Disney Cruise Line.",
+   "htmlSnippet": "May 26, 2010 \u003cb\u003e...\u003c/b\u003e \u003cb\u003eDisneyland Hotel\u003c/b\u003e Makeover - The official blog for Disneyland Resort, Walt Disney \u003cbr\u003e  World and Disney Cruise Line.",
+   "cacheId": "Gcj1iN17sNgJ",
+   "formattedUrl": "disneyparks.disney.go.com/blog/2010/.../disneyland-hotel-makeover/",
+   "htmlFormattedUrl": "disneyparks.disney.go.com/blog/2010/.../\u003cb\u003edisneyland\u003c/b\u003e-\u003cb\u003ehotel\u003c/b\u003e-makeover/"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Courtyard by Marriott Anaheim at Disneyland Resort (Anaheim, CA ...",
+   "htmlTitle": "Courtyard by Marriott Anaheim at \u003cb\u003eDisneyland\u003c/b\u003e Resort (Anaheim, CA \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://www.tripadvisor.com/Hotel_Review-g29092-d607413-Reviews-Courtyard_by_Marriott_Anaheim_at_Disneyland_Resort-Anaheim_California.html",
+   "displayLink": "www.tripadvisor.com",
+   "snippet": "Dear Euroazngal, Thank you for choosing to stay at our Anaheim hotel for your   Disneyland visit during their Halloween event. We apologize that the mini fridge ...",
+   "htmlSnippet": "Dear Euroazngal, Thank you for choosing to stay at our Anaheim \u003cb\u003ehotel\u003c/b\u003e for your \u003cbr\u003e  \u003cb\u003eDisneyland\u003c/b\u003e visit during their Halloween event. We apologize that the mini fridge \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "7_chyrfkOmQJ",
+   "formattedUrl": "www.tripadvisor.com/Hotel_Review-g29092-d607413-Reviews-Courtyard_ by_Marriott_Anaheim_at_Disneyland_Resort-Anaheim_California....",
+   "htmlFormattedUrl": "www.tripadvisor.com/\u003cb\u003eHotel\u003c/b\u003e_Review-g29092-d607413-Reviews-Courtyard_ by_Marriott_Anaheim_at_\u003cb\u003eDisneyland\u003c/b\u003e_Resort-Anaheim_California....",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://media.expedia.com/hotels/2000000/1470000/1464400/1464333/1464333_63_b.jpg",
+      "type": "1",
+      "width": "270",
+      "height": "187"
+     }
+    ],
+    "metatags": [
+     {
+      "og:image": "http://c1.tacdn.com/img2/postimg.jpg",
+      "relativepagescore": "870000"
+     }
+    ],
+    "review": [
+     {
+      "ratingstars": "4.0",
+      "ratingcount": "217",
+      "pricerange": "$$"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Disneyland® Hotels in Orange County. Find & compare 0 Hotels ...",
+   "htmlTitle": "\u003cb\u003eDisneyland\u003c/b\u003e® \u003cb\u003eHotels\u003c/b\u003e in Orange County. Find &amp; compare 0 \u003cb\u003eHotels\u003c/b\u003e \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://www.hotels.com/de1531643/hotels-near-disneyland-orange-county-united-states/",
+   "displayLink": "www.hotels.com",
+   "snippet": "Hotels Disneyland®. Browse through more than 0 Disneyland® hotels in Orange   County. Photos, descriptions, Reviews & maps. Save with our Price Match ...",
+   "htmlSnippet": "\u003cb\u003eHotels Disneyland\u003c/b\u003e®. Browse through more than 0 \u003cb\u003eDisneyland\u003c/b\u003e® \u003cb\u003ehotels\u003c/b\u003e in Orange \u003cbr\u003e  County. Photos, descriptions, Reviews &amp; maps. Save with our Price Match \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "5Juh0YxtDsgJ",
+   "formattedUrl": "www.hotels.com/.../hotels-near-disneyland-orange-county-united-states/",
+   "htmlFormattedUrl": "www.\u003cb\u003ehotels\u003c/b\u003e.com/.../\u003cb\u003ehotels\u003c/b\u003e-near-\u003cb\u003edisneyland\u003c/b\u003e-orange-county-united-states/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://a1.cdn-hotels.com/static/common/9.0/images/common/logos/h_onebrand_119x100.png"
+     }
+    ],
+    "Breadcrumb": [
+     {
+      "title": "Hotels",
+      "url": "Hotels"
+     },
+     {
+      "title": "Hotels in United States",
+      "url": "Hotels in United States"
+     },
+     {
+      "title": "Hotels in California",
+      "url": "Hotels in California"
+     },
+     {
+      "title": "Hotels in Orange County",
+      "url": "Hotels in Orange County"
+     }
+    ],
+    "metatags": [
+     {
+      "title": "Disneyland® Hotels in Orange County. Find & compare 0 Hotels near Disneyland® with Hotels.com",
+      "skype_toolbar": "SKYPE_TOOLBAR_PARSER_COMPATIBLE",
+      "fb:app_id": "150032821718681",
+      "og:type": "website",
+      "og:title": "Disneyland® Hotels in Orange County. Find & compare 0 Hotels near Disneyland® with Hotels.com",
+      "og:url": "http://www.hotels.com/de1531643/hotels-near-disneyland-orange-county-united-states/",
+      "og:description": "Hotels Disneyland®. Browse through more than 0 Disneyland® hotels in Orange County.  Photos, descriptions, Reviews & maps. Save with our Price Match Guarantee",
+      "og:image": "http://a1.cdn-hotels.com/static/common/9.0/images/common/logos/h_onebrand_119x100.png"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Tokyo Disneyland Hotel - Wikipedia, the free encyclopedia",
+   "htmlTitle": "Tokyo \u003cb\u003eDisneyland Hotel\u003c/b\u003e - Wikipedia, the free encyclopedia",
+   "link": "http://en.wikipedia.org/wiki/Tokyo_Disneyland_Hotel",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "The Tokyo Disneyland Hotel is the third Disney-brand hotel of the Tokyo Disney   Resort. Also, it is the fourth Disneyland Hotel. It is located directly in front of the ...",
+   "htmlSnippet": "The Tokyo \u003cb\u003eDisneyland Hotel\u003c/b\u003e is the third Disney-brand hotel of the Tokyo Disney \u003cbr\u003e  Resort. Also, it is the fourth \u003cb\u003eDisneyland Hotel\u003c/b\u003e. It is located directly in front of the \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "KfLQ1bdwOh8J",
+   "formattedUrl": "en.wikipedia.org/wiki/Tokyo_Disneyland_Hotel",
+   "htmlFormattedUrl": "en.wikipedia.org/wiki/Tokyo_\u003cb\u003eDisneyland\u003c/b\u003e_\u003cb\u003eHotel\u003c/b\u003e"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Disneyland Hotel - Photos of Disneyland Hotel in Anaheim, California",
+   "htmlTitle": "\u003cb\u003eDisneyland Hotel\u003c/b\u003e - Photos of \u003cb\u003eDisneyland Hotel\u003c/b\u003e in Anaheim, California",
+   "link": "http://gocalifornia.about.com/od/toppicturegallery/ig/Disneyland-Hotel/",
+   "displayLink": "gocalifornia.about.com",
+   "snippet": "Take a photo tour of the Disneyland Hotel - lobby, guest rooms, pools, special   suites including the Mickey Mouse Suite.",
+   "htmlSnippet": "Take a photo tour of the \u003cb\u003eDisneyland Hotel\u003c/b\u003e - lobby, guest rooms, pools, special \u003cbr\u003e  suites including the Mickey Mouse Suite.",
+   "cacheId": "K_aegIjVgJYJ",
+   "formattedUrl": "gocalifornia.about.com/od/toppicturegallery/ig/Disneyland-Hotel/",
+   "htmlFormattedUrl": "gocalifornia.about.com/od/toppicturegallery/ig/\u003cb\u003eDisneyland\u003c/b\u003e-\u003cb\u003eHotel\u003c/b\u003e/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://0.tqn.com/d/gocalifornia/1/6/s/T/3/20110602_224-a.jpg",
+      "type": "1",
+      "width": "95",
+      "height": "95"
+     }
+    ],
+    "metatags": [
+     {
+      "pd": "Monday, 09-Apr-2012 21:42:59 UTC",
+      "docset": "6",
+      "og:title": "Disneyland Hotel",
+      "og:type": "article",
+      "og:url": "http://gocalifornia.about.com/od/toppicturegallery/ig/Disneyland-Hotel/",
+      "og:site_name": "About.com California Travel",
+      "fb:app_id": "121030274606741"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Anaheim Hotels | Hilton Anaheim | Anaheim, CA",
+   "htmlTitle": "Anaheim \u003cb\u003eHotels\u003c/b\u003e | Hilton Anaheim | Anaheim, CA",
+   "link": "http://www3.hilton.com/en/hotels/california/hilton-anaheim-SNAAHHH/index.html",
+   "displayLink": "www3.hilton.com",
+   "snippet": "The Hilton Anaheim hotel is located in the heart of Orange County, adjacent to   the Anaheim Convention Center and steps from Disneyland Resort.",
+   "htmlSnippet": "The Hilton Anaheim \u003cb\u003ehotel\u003c/b\u003e is located in the heart of Orange County, adjacent to \u003cbr\u003e  the Anaheim Convention Center and steps from \u003cb\u003eDisneyland\u003c/b\u003e Resort.",
+   "cacheId": "FHldDK7Xx90J",
+   "formattedUrl": "www3.hilton.com/en/hotels/california/hilton-anaheim.../index.html",
+   "htmlFormattedUrl": "www3.hilton.com/en/\u003cb\u003ehotels\u003c/b\u003e/california/hilton-anaheim.../index.html",
+   "pagemap": {
+    "metatags": [
+     {
+      "null": "null"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Hotel Last Minute Deals in Disneyland - Anaheim - Find Cheap ...",
+   "htmlTitle": "\u003cb\u003eHotel\u003c/b\u003e Last Minute Deals in \u003cb\u003eDisneyland\u003c/b\u003e - Anaheim - Find Cheap \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://www.hotels.com/lm1648513/hotel-last-minute-deals-disneyland-anaheim/",
+   "displayLink": "www.hotels.com",
+   "snippet": "Disneyland - Anaheim, United States - Special Deals ...",
+   "htmlSnippet": "\u003cb\u003eDisneyland\u003c/b\u003e - Anaheim, United States - Special Deals \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "6AgPacFQFTkJ",
+   "formattedUrl": "www.hotels.com/.../hotel-last-minute-deals-disneyland-anaheim/",
+   "htmlFormattedUrl": "www.\u003cb\u003ehotels\u003c/b\u003e.com/.../\u003cb\u003ehotel\u003c/b\u003e-last-minute-deals-\u003cb\u003edisneyland\u003c/b\u003e-anaheim/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://a1.cdn-hotels.com/static/common/9.0/images/common/logos/h_onebrand_119x100.png"
+     }
+    ],
+    "Breadcrumb": [
+     {
+      "title": "Hotels",
+      "url": "Hotels"
+     },
+     {
+      "title": "United States Hotels",
+      "url": "United States Hotels"
+     },
+     {
+      "title": "California Hotels",
+      "url": "California Hotels"
+     },
+     {
+      "title": "Disneyland - Anaheim Hotels",
+      "url": "Disneyland - Anaheim Hotels"
+     }
+    ],
+    "metatags": [
+     {
+      "title": "Hotel Last Minute Deals in Disneyland - Anaheim - Find Cheap Hotel deals in Disneyland - Anaheim with Hotels.com",
+      "skype_toolbar": "SKYPE_TOOLBAR_PARSER_COMPATIBLE",
+      "fb:app_id": "150032821718681",
+      "og:type": "website",
+      "og:title": "Hotel Last Minute Deals in Disneyland - Anaheim - Find Cheap Hotel deals in Disneyland - Anaheim with Hotels.com",
+      "og:url": "http://www.hotels.com/lm1648513/hotel-last-minute-deals-disneyland-anaheim/",
+      "og:description": "Disneyland - Anaheim, United States - Special Deals - hotels.com offers great last-minute Disneyland - Anaheim hotel deals and discount room rates. You can easily book your online room bookings in Disneyland - Anaheim today.",
+      "og:image": "http://a1.cdn-hotels.com/static/common/9.0/images/common/logos/h_onebrand_119x100.png"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Disneyland Resort | Disney Meetings",
+   "htmlTitle": "\u003cb\u003eDisneyland\u003c/b\u003e Resort | Disney Meetings",
+   "link": "http://www.disneymeetings.com/disneyland/",
+   "displayLink": "www.disneymeetings.com",
+   "snippet": "The Disneyland® Hotel first opened in 1956 as the place to be and be seen.   More than 50 years later, the hotel that started it all is back, and re-imagined for a ...",
+   "htmlSnippet": "The \u003cb\u003eDisneyland\u003c/b\u003e® \u003cb\u003eHotel\u003c/b\u003e first opened in 1956 as the place to be and be seen. \u003cbr\u003e  More than 50 years later, the \u003cb\u003ehotel\u003c/b\u003e that started it all is back, and re-imagined for a \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "W2w5u3BxfckJ",
+   "formattedUrl": "www.disneymeetings.com/disneyland/",
+   "htmlFormattedUrl": "www.disneymeetings.com/\u003cb\u003edisneyland\u003c/b\u003e/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "https://www.disneymeetings.com/media/meetings/en-us/global/lower-nav/global-lower-nav-green-meetings-media.jpg",
+      "type": "1",
+      "width": "176",
+      "height": "94"
+     }
+    ],
+    "metatags": [
+     {
+      "format-detection": "telephone=no"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Disneyland® Hotel (Chessy, France) | Expedia",
+   "htmlTitle": "\u003cb\u003eDisneyland\u003c/b\u003e® \u003cb\u003eHotel\u003c/b\u003e (Chessy, France) | Expedia",
+   "link": "http://www.expedia.com/Paris-Hotels-Disneyland-Hotel.h1102911.Hotel-Information",
+   "displayLink": "www.expedia.com",
+   "snippet": "Book the Disneyland® Hotel - Located right at the entrance to the magical world   of Disneyland® Park, the 5-star Disneyland® Hotel boasts the lavish style of a ...",
+   "htmlSnippet": "Book the \u003cb\u003eDisneyland\u003c/b\u003e® \u003cb\u003eHotel\u003c/b\u003e - Located right at the entrance to the magical world \u003cbr\u003e  of \u003cb\u003eDisneyland\u003c/b\u003e® Park, the 5-star \u003cb\u003eDisneyland\u003c/b\u003e® \u003cb\u003eHotel\u003c/b\u003e boasts the lavish style of a \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "D2liruoVwsAJ",
+   "formattedUrl": "www.expedia.com/Paris-Hotels-Disneyland-Hotel.h1102911.Hotel- Information",
+   "htmlFormattedUrl": "www.expedia.com/Paris-\u003cb\u003eHotels\u003c/b\u003e-\u003cb\u003eDisneyland\u003c/b\u003e-\u003cb\u003eHotel\u003c/b\u003e.h1102911.\u003cb\u003eHotel\u003c/b\u003e- Information",
+   "pagemap": {
+    "product": [
+     {
+      "image": "http://media.expedia.com/media/content/shared/images/navigation/expedia.com.png?v=1"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "http://media.expedia.com/hotels/2000000/1110000/1103000/1102911/1102911_19_b.jpg",
+      "type": "1",
+      "width": "197",
+      "height": "256"
+     }
+    ],
+    "Breadcrumb": [
+     {
+      "title": "Expedia.com",
+      "url": "Expedia.com"
+     },
+     {
+      "title": "Hotels",
+      "url": "Hotels"
+     },
+     {
+      "title": "Europe",
+      "url": "Europe"
+     },
+     {
+      "title": "France",
+      "url": "France"
+     },
+     {
+      "title": "Seine-et-Marne Hotels",
+      "url": "Seine-et-Marne Hotels"
+     }
+    ],
+    "metatags": [
+     {
+      "language": "en_US",
+      "og:image": "http://media.expedia.com/hotels/2000000/1110000/1103000/1102911/1102911_19_t.jpg",
+      "fb:admins": "628266881,766475554,1165451480,25905117",
+      "og:site_name": "EXPEDIA",
+      "og:type": "hotel",
+      "og:url": "http://www.expedia.com/Paris-Hotels-Disneyland-Hotel.h1102911.Hotel-Information",
+      "og:title": "Disneyland® Hotel",
+      "og:latitude": "48.87289",
+      "og:longitude": "2.78267",
+      "og:street-address": "Disneyland Resort Paris Avenue Robert Schumann",
+      "og:locality": "Chessy",
+      "og:region": "Seine-et-Marne",
+      "og:postal-code": "77700",
+      "og:country-name": "France",
+      "og:phone_number": "1-800-391-3613",
+      "og:description": "Located right at the entrance to the magical world of Disneyland® Park, the 5-star Disneyland® Hotel boasts the lavish style of a Victorian mansion. Walt Disney Studios Park and Disney Village are both about a 3-minute walk."
+     }
+    ]
+   }
+  }
+ ]
+}

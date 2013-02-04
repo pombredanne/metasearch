@@ -1,0 +1,706 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "nextPage": [
+   {
+    "title": "Google Custom Search - hoboken",
+    "totalResults": "2070000",
+    "searchTerms": "hoboken",
+    "count": 10,
+    "startIndex": 101,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "017401104989814545383:mf4lavmtuva"
+   }
+  ],
+  "request": [
+   {
+    "title": "Google Custom Search - hoboken",
+    "totalResults": "2070000",
+    "searchTerms": "hoboken",
+    "count": 10,
+    "startIndex": 91,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "017401104989814545383:mf4lavmtuva"
+   }
+  ],
+  "previousPage": [
+   {
+    "title": "Google Custom Search - hoboken",
+    "totalResults": "2070000",
+    "searchTerms": "hoboken",
+    "count": 10,
+    "startIndex": 81,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "017401104989814545383:mf4lavmtuva"
+   }
+  ]
+ },
+ "context": {
+  "title": "College MetaSearch Comparison"
+ },
+ "searchInformation": {
+  "searchTime": 0.243763,
+  "formattedSearchTime": "0.24",
+  "totalResults": "2070000",
+  "formattedTotalResults": "2,070,000"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "Home - Hoboken Volunteers - Give Time. Get Involved. Be Inspired.",
+   "htmlTitle": "Home - \u003cb\u003eHoboken\u003c/b\u003e Volunteers - Give Time. Get Involved. Be Inspired.",
+   "link": "http://www.hobokenvolunteers.com/",
+   "displayLink": "www.hobokenvolunteers.com",
+   "snippet": "Hoboken Volunteers. Give Time • Get Involved • Be Inspired. 10th Annual Belgian   Beer Nite. Join us Wednesday August 1st, 2012 at 7 pm. Location: The rooftop ...",
+   "htmlSnippet": "\u003cb\u003eHoboken\u003c/b\u003e Volunteers. Give Time • Get Involved • Be Inspired. 10th Annual Belgian \u003cbr\u003e  Beer Nite. Join us Wednesday August 1st, 2012 at 7 pm. Location: The rooftop \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "WP34FKCR-Z4J",
+   "formattedUrl": "www.hobokenvolunteers.com/",
+   "htmlFormattedUrl": "www.\u003cb\u003ehoboken\u003c/b\u003evolunteers.com/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.hobokenvolunteers.com/images/hv%20belgian%20beer%20nite.jpg",
+      "type": "1",
+      "width": "224",
+      "height": "225"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Superhero League of Hoboken - Wikipedia, the free encyclopedia",
+   "htmlTitle": "Superhero League of \u003cb\u003eHoboken\u003c/b\u003e - Wikipedia, the free encyclopedia",
+   "link": "http://en.wikipedia.org/wiki/Superhero_League_of_Hoboken",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "Superhero League of Hoboken is a computer game from Legend Entertainment,   designed by interactive fiction designer Steve Meretzky. The game combines ...",
+   "htmlSnippet": "Superhero League of \u003cb\u003eHoboken\u003c/b\u003e is a computer game from Legend Entertainment, \u003cbr\u003e  designed by interactive fiction designer Steve Meretzky. The game combines \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "Em1t-qrbVP4J",
+   "formattedUrl": "en.wikipedia.org/wiki/Superhero_League_of_Hoboken",
+   "htmlFormattedUrl": "en.wikipedia.org/wiki/Superhero_League_of_\u003cb\u003eHoboken\u003c/b\u003e",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://upload.wikimedia.org/wikipedia/en/2/2e/Superhero_League_Of_Hoboken_Title.gif",
+      "type": "1",
+      "width": "256",
+      "height": "160"
+     }
+    ],
+    "hproduct": [
+     {
+      "fn": "Superhero League of Hoboken"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Hoboken Elementary School - Home",
+   "htmlTitle": "\u003cb\u003eHoboken\u003c/b\u003e Elementary School - Home",
+   "link": "http://brantley.ga.schoolwebpages.com/education/school/school.php?sectionid=5",
+   "displayLink": "brantley.ga.schoolwebpages.com",
+   "snippet": "Assistant Principals: Stephanie Boyd & Dory Gault mascot Our mission at   Hoboken Elementary School is to \"Make a Difference\" by inspiring students to. \"  Believe ...",
+   "htmlSnippet": "Assistant Principals: Stephanie Boyd &amp; Dory Gault mascot Our mission at \u003cbr\u003e  \u003cb\u003eHoboken\u003c/b\u003e Elementary School is to &quot;Make a Difference&quot; by inspiring students to. &quot;\u003cbr\u003e  Believe \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "HB2Zp3q4AuEJ",
+   "formattedUrl": "brantley.ga.schoolwebpages.com/education/school/school.php?...5",
+   "htmlFormattedUrl": "brantley.ga.schoolwebpages.com/education/school/school.php?...5",
+   "pagemap": {
+    "metatags": [
+     {
+      "copyright": "2012 - Hoboken Elementary School"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "City of Hoboken, NJ » Corner Cars",
+   "htmlTitle": "City of \u003cb\u003eHoboken\u003c/b\u003e, NJ » Corner Cars",
+   "link": "http://www.hobokennj.org/departments/transportation-parking/corner-cars/",
+   "displayLink": "www.hobokennj.org",
+   "snippet": "The City of Hoboken provides free regular news updates and alerts via email .... “  Innovative, greener transportation in Hoboken” — The Daily Green, July 29, ...",
+   "htmlSnippet": "The City of \u003cb\u003eHoboken\u003c/b\u003e provides free regular news updates and alerts via email \u003cb\u003e....\u003c/b\u003e “\u003cbr\u003e  Innovative, greener transportation in \u003cb\u003eHoboken\u003c/b\u003e” — The Daily Green, July 29, \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "xsikldlwHvoJ",
+   "formattedUrl": "www.hobokennj.org/departments/transportation.../corner-cars/",
+   "htmlFormattedUrl": "www.\u003cb\u003ehoboken\u003c/b\u003enj.org/departments/transportation.../corner-cars/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.hobokennj.org/content/wp-content/uploads/2010/05/photo7-234x300.jpg",
+      "type": "1",
+      "width": "187",
+      "height": "240"
+     }
+    ],
+    "metatags": [
+     {
+      "fb:page_id": "107840642570023"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Hoboken Unleashed - Local Business - Hoboken, NJ | Facebook",
+   "htmlTitle": "\u003cb\u003eHoboken\u003c/b\u003e Unleashed - Local Business - \u003cb\u003eHoboken\u003c/b\u003e, NJ | Facebook",
+   "link": "http://www.facebook.com/hobokenunleashed",
+   "displayLink": "www.facebook.com",
+   "snippet": "To connect with Hoboken Unleashed, sign up for Facebook today. ... To all of our   customers, Hoboken pet owners and Unleashed needs your help!! The. Notes2 ...",
+   "htmlSnippet": "To connect with \u003cb\u003eHoboken\u003c/b\u003e Unleashed, sign up for Facebook today. \u003cb\u003e...\u003c/b\u003e To all of our \u003cbr\u003e  customers, \u003cb\u003eHoboken\u003c/b\u003e pet owners and Unleashed needs your help!! The. Notes2 \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "tNG50P1_V7cJ",
+   "formattedUrl": "www.facebook.com/hobokenunleashed",
+   "htmlFormattedUrl": "www.facebook.com/\u003cb\u003ehoboken\u003c/b\u003eunleashed",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://a4.sphotos.ak.fbcdn.net/hphotos-ak-ash4/c0.156.851.315/p851x315/472929_10150672303248020_199707806_o.jpg",
+      "type": "1",
+      "width": "369",
+      "height": "136"
+     }
+    ],
+    "organization": [
+     {
+      "photo": "http://profile.ak.fbcdn.net/hprofile-ak-snc4/592102_107881593019_1950375797_n.jpg",
+      "name": "Hoboken Unleashed",
+      "tel": "1 (201) 798-6300"
+     }
+    ],
+    "address": [
+     {
+      "street-address": "716 Clinton Street",
+      "locality": "Hoboken",
+      "region": "NJ"
+     }
+    ],
+    "metatags": [
+     {
+      "title": "Hoboken Unleashed - Local Business - Hoboken, NJ | Facebook"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Hoboken Public Schools - Wikipedia, the free encyclopedia",
+   "htmlTitle": "\u003cb\u003eHoboken\u003c/b\u003e Public Schools - Wikipedia, the free encyclopedia",
+   "link": "http://en.wikipedia.org/wiki/Hoboken_Public_Schools",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "Hoboken Public Schools is a comprehensive community public school district   located in Hoboken, New Jersey, United States, that serves children in ...",
+   "htmlSnippet": "\u003cb\u003eHoboken\u003c/b\u003e Public Schools is a comprehensive community public school district \u003cbr\u003e  located in \u003cb\u003eHoboken\u003c/b\u003e, New Jersey, United States, that serves children in \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "5W2OZDFl1KwJ",
+   "formattedUrl": "en.wikipedia.org/wiki/Hoboken_Public_Schools",
+   "htmlFormattedUrl": "en.wikipedia.org/wiki/\u003cb\u003eHoboken\u003c/b\u003e_Public_Schools"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Fiore Deli of Hoboken - Hoboken, NJ",
+   "htmlTitle": "Fiore Deli of \u003cb\u003eHoboken\u003c/b\u003e - \u003cb\u003eHoboken\u003c/b\u003e, NJ",
+   "link": "http://www.yelp.com/biz/fiore-deli-of-hoboken-hoboken",
+   "displayLink": "www.yelp.com",
+   "snippet": "155 Reviews of Fiore Deli of Hoboken \"Fiore's is amazing. Their fresh mozzarella   is out of this world, and their sandwiches give me an orgasm in the mouth.",
+   "htmlSnippet": "155 Reviews of Fiore Deli of \u003cb\u003eHoboken\u003c/b\u003e &quot;Fiore&#39;s is amazing. Their fresh mozzarella \u003cbr\u003e  is out of this world, and their sandwiches give me an orgasm in the mouth.",
+   "cacheId": "B561_q44iAcJ",
+   "formattedUrl": "www.yelp.com/biz/fiore-deli-of-hoboken-hoboken",
+   "htmlFormattedUrl": "www.yelp.com/biz/fiore-deli-of-\u003cb\u003ehoboken\u003c/b\u003e-\u003cb\u003ehoboken\u003c/b\u003e",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://s3-media3.ak.yelpcdn.com/bphoto/tlJbEkh3rE0jiC5slarqiA/ms.jpg",
+      "type": "1",
+      "width": "80",
+      "height": "80"
+     }
+    ],
+    "aggregaterating": [
+     {
+      "ratingvalue": "4.5",
+      "reviewcount": "155"
+     }
+    ],
+    "postaladdress": [
+     {
+      "streetaddress": "414 Adams St",
+      "addresslocality": "Hoboken",
+      "addressregion": "NJ",
+      "postalcode": "07030"
+     }
+    ],
+    "localbusiness": [
+     {
+      "name": "Fiore Deli of Hoboken",
+      "telephone": "(201) 659-1655",
+      "image": "//s3-media4.ak.yelpcdn.com/bphoto/tlJbEkh3rE0jiC5slarqiA/m.jpg",
+      "pricerange": "$"
+     }
+    ],
+    "rating": [
+     {
+      "ratingvalue": "5.0"
+     },
+     {
+      "ratingvalue": "5.0"
+     },
+     {
+      "ratingvalue": "5.0"
+     },
+     {
+      "ratingvalue": "5.0"
+     },
+     {
+      "ratingvalue": "4.0"
+     },
+     {
+      "ratingvalue": "5.0"
+     },
+     {
+      "ratingvalue": "4.0"
+     },
+     {
+      "ratingvalue": "4.0"
+     },
+     {
+      "ratingvalue": "4.0"
+     },
+     {
+      "ratingvalue": "5.0"
+     },
+     {
+      "ratingvalue": "5.0"
+     },
+     {
+      "ratingvalue": "5.0"
+     },
+     {
+      "ratingvalue": "5.0"
+     },
+     {
+      "ratingvalue": "5.0"
+     },
+     {
+      "ratingvalue": "5.0"
+     },
+     {
+      "ratingvalue": "5.0"
+     },
+     {
+      "ratingvalue": "5.0"
+     },
+     {
+      "ratingvalue": "4.0"
+     },
+     {
+      "ratingvalue": "5.0"
+     },
+     {
+      "ratingvalue": "5.0"
+     },
+     {
+      "ratingvalue": "5.0"
+     },
+     {
+      "ratingvalue": "2.0"
+     },
+     {
+      "ratingvalue": "1.0"
+     },
+     {
+      "ratingvalue": "5.0"
+     },
+     {
+      "ratingvalue": "4.0"
+     },
+     {
+      "ratingvalue": "4.0"
+     },
+     {
+      "ratingvalue": "5.0"
+     },
+     {
+      "ratingvalue": "4.0"
+     },
+     {
+      "ratingvalue": "4.0"
+     },
+     {
+      "ratingvalue": "5.0"
+     },
+     {
+      "ratingvalue": "5.0"
+     },
+     {
+      "ratingvalue": "5.0"
+     },
+     {
+      "ratingvalue": "3.0"
+     },
+     {
+      "ratingvalue": "4.0"
+     },
+     {
+      "ratingvalue": "5.0"
+     },
+     {
+      "ratingvalue": "5.0"
+     },
+     {
+      "ratingvalue": "5.0"
+     },
+     {
+      "ratingvalue": "5.0"
+     },
+     {
+      "ratingvalue": "5.0"
+     },
+     {
+      "ratingvalue": "5.0"
+     }
+    ],
+    "metatags": [
+     {
+      "og:url": "http://www.yelp.com/biz/OTpQbSQNGiGudqJKJASmpw",
+      "og:longitude": "-74.0362619",
+      "og:type": "restaurant",
+      "og:latitude": "40.743015",
+      "og:title": "Fiore Deli of Hoboken",
+      "fb:app_id": "97534753161",
+      "og:image": "http://s3-media4.ak.yelpcdn.com/bphoto/tlJbEkh3rE0jiC5slarqiA/m.jpg",
+      "relativepagescore": "693161"
+     }
+    ],
+    "restaurant": [
+     {
+      "url": "http://www.yelp.com/biz/OTpQbSQNGiGudqJKJASmpw",
+      "longitude": "-74.0362619",
+      "type": "restaurant",
+      "latitude": "40.743015",
+      "title": "Fiore Deli of Hoboken",
+      "app_id": "97534753161",
+      "image": "http://s3-media4.ak.yelpcdn.com/bphoto/tlJbEkh3rE0jiC5slarqiA/m.jpg"
+     }
+    ],
+    "hreviewaggregate": [
+     {
+      "pricerange": "$",
+      "count": "155"
+     }
+    ],
+    "review": [
+     {
+      "ratingstars": "4.5",
+      "ratingcount": "155",
+      "pricerange": "$",
+      "image_url": "//s3-media4.ak.yelpcdn.com/bphoto/tlJbEkh3rE0jiC5slarqiA/m.jpg"
+     },
+     {
+      "author": "Courtney D.",
+      "datepublished": "2012-07-19",
+      "description": "Fiore's is amazing. Their fresh mozzarella is out of this world, and their sandwiches give me an orgasm in the mouth. The staff is friendly, local and professional, and everything is super..."
+     },
+     {
+      "author": "Angela P.",
+      "datepublished": "2012-07-19",
+      "description": "Holy fucking cheese fantastic-ness!! Found this place while looking for other places to stop in while we were in Hoboken and honestly cannot imagine what my life would be like if I hadn't found..."
+     },
+     {
+      "author": "Richard H.",
+      "datepublished": "2012-07-07",
+      "description": "Best mozzarella in Hoboken. No doubt. Sandwiches are awesome! Cash only. Don't forget."
+     },
+     {
+      "author": "David B.",
+      "datepublished": "2012-07-22",
+      "description": "Fiore's is unbelievable. Their fresh mozzarella is the absolute best I've ever had, and is well known throughout the country as being one of the best. I've gotten a pound or two to go and brought..."
+     },
+     {
+      "author": "Brian L.",
+      "datepublished": "2012-06-27",
+      "description": "You know, I'm not the biggest mozzarella fan. But this place makes some mean mozzarella. So tasty - not overpowering, but so delicious you could eat a ball by the handful. I got the whole roast..."
+     },
+     {
+      "author": "Jason H.",
+      "datepublished": "2012-05-13",
+      "description": "What can you say about Fiore's other than they are just another great Italian deli in Hoboken. Handmade mozzarella on a daily basis and pick your own rolls. The process is to walk in and grab..."
+     },
+     {
+      "author": "Rebecca P.",
+      "datepublished": "2012-05-01",
+      "description": "Sweet Baby Jesus this place is delicious (I think I just had a Melissa Gorja RHONJ moment)! I really wish I hadn't decided to come here right before swearing off grains and dairy and taking..."
+     },
+     {
+      "author": "Anthony J.",
+      "datepublished": "2012-06-17",
+      "description": "This place is great. The roast beef special on Saturday is delicious. But their rolls are very narrow and they don't really load up their sandwiches as much as I'd like to see. Their mutz is..."
+     },
+     {
+      "author": "Brian E.",
+      "datepublished": "2012-03-23",
+      "description": "This place is solid. Crazy, tasty, gooey Mutz and garlic peppers that will make your breath stank for days but you won't care cause they're that good. The good: - Mutz is best in class, no..."
+     },
+     {
+      "author": "Urban F.",
+      "datepublished": "2012-06-19",
+      "description": "Everything is better with their homemade mozz....smoked, traditional it all rocks. By far the best italian deli in hoboken. Go simple hee...think fresh turkey, roasted peppers and fresh mozz....mak..."
+     },
+     {
+      "author": "Prasath S.",
+      "datepublished": "2012-05-03",
+      "description": "Delicious !!!! The Motz is to die for !!!! Good Bye Store Deli Meat and Cheese !!!"
+     },
+     {
+      "author": "Daniel W.",
+      "datepublished": "2012-04-23",
+      "description": "This is my first deli in NY, coming from Chicago I was excited to try a \"legit\" deli for the first time. And oh boy, I regret coming here because now I can't go to a regular JImmy John's or..."
+     },
+     {
+      "author": "Anthony A.",
+      "datepublished": "2012-06-17",
+      "description": "The Hot Roast Beef & Mutz here can hold it's own with the heavyweights in NYC (see DeFonte's and Salumeria Biellese). This special sandwich is the sole basis for my review. The Mozzarella is..."
+     },
+     {
+      "author": "Cornbread T.",
+      "datepublished": "2012-03-09",
+      "description": "MOG the cheese to die for......... It was a holiday staple of mine for about 10 years. HUGE hunks of mozzarella to be chopped off like slabs of beef. I've tried to go over the past few years..."
+     },
+     {
+      "author": "Eric F.",
+      "datepublished": "2012-06-30",
+      "description": "Best Mozz in the World. With just bread Roasted Reds are amazing."
+     },
+     {
+      "author": "Ramo N.",
+      "datepublished": "2012-07-03",
+      "description": "want to punch people in the face when they insult the Mozz like they are ordering \"Motts\" applesauce......BEST EVER!!!!!"
+     },
+     {
+      "author": "Marcel F.",
+      "datepublished": "2012-02-19",
+      "description": "Oh my god.. I recently moved here and discovered Fiore's soon after. The Mutz is pure epicness! Seriously. I traveled to Italy more times than I can remember, and of course I found insane food..."
+     },
+     {
+      "author": "Dan D.",
+      "datepublished": "2012-03-14",
+      "description": "Can only comment on the Sat Special..........Roast Beef(fresh) and Muzz(homemade)........delish. Keep in mind that a full sandwich is enough for two so be aware when ordering. Also worth noting..."
+     },
+     {
+      "author": "Alex g.",
+      "datepublished": "2012-01-11",
+      "description": "This is not a deli! This is your quintessential Italian-American salumeria. It is rumored that Fiore's fresh mozz was shipped regularly to Ole Blue Eyes in L.A. The bread comes from a bakery..."
+     },
+     {
+      "author": "Sean I.",
+      "datepublished": "2012-01-04",
+      "description": "Entitled Brats Please Stay Away One of the charming things about Hoboken is that its filled with mom & pop shops who have been in operation for years and years. Fiore's is one of those hidden..."
+     },
+     {
+      "author": "Juan Pablo C.",
+      "datepublished": "2012-06-26",
+      "description": "i got the roast beef sanwich and muzzarella, i think they re amazing!!"
+     },
+     {
+      "author": "Joseph M.",
+      "datepublished": "2012-03-08",
+      "description": "PLEASE READ THIS REVIEW IF YOU ARE FROM ANYWHERE IN NYC!!! I'm a native Brooklynite and now reside in Staten Island. But I am not one of those who say \"If it's not New York it sucks!!.\" I love..."
+     },
+     {
+      "author": "Mi S.",
+      "datepublished": "2012-06-13",
+      "description": "The one and only time I got fresh mozzarella from this establishment, it was dry, sliced über-thin, and spoiled. Go to Biancamano's for the real deal."
+     },
+     {
+      "author": "Jo D.",
+      "datepublished": "2012-02-11",
+      "description": "So I live literally 2 blocks from this place - not sure why on earth I waited so long to come here!!!!! I came here on a thursday during the day. I had never been before and didnt look like..."
+     },
+     {
+      "author": "Lisa W.",
+      "datepublished": "2012-04-01",
+      "description": "Authentic old school joint. Love the roast beef and fresh mozz sandwich with gravy. I also add roasted red peppers for a juicy garlicy kick. A sandwich can run you $14 but that's on a big loaf..."
+     },
+     {
+      "author": "philip p.",
+      "datepublished": "2012-04-15",
+      "description": "The food here, especially the cheese is the best I have ever had. But, Andreas makes a better sandwich all around. Regardless of my preference, this place is excellent. Everybody knows about..."
+     },
+     {
+      "author": "Brian K.",
+      "datepublished": "2011-10-15",
+      "description": "As with Eric G., I was also a little confused/intimidated when I first walked into this place because I wasn't really sure how to order or what was on the menu. I followed the lead of the lady..."
+     },
+     {
+      "author": "Eric G.",
+      "datepublished": "2011-10-10",
+      "description": "I was somewhat confused/intimidated when I first walked into this place because I wasn't really sure how to order and I felt like most of the people in there were regulars. We soon figured..."
+     },
+     {
+      "author": "Paulie L.",
+      "datepublished": "2012-01-11",
+      "description": "The saturday special, roast beef, mozz with hot gravy, is a must. Bread comes from Dom's a block away on 5th and grand. Most legit delis in Hobo carry it. If you want to try some killer carbs,..."
+     },
+     {
+      "author": "Stephanie G.",
+      "datepublished": "2011-09-08",
+      "description": "Salami and mozz sandwich = heaven. Roast beef, mozz & garlic peppers = heaven. Pretty much anything with Fiore's mozz makes it heavenly. I came here my first time after my interview with Stevens,..."
+     },
+     {
+      "author": "Kevin O.",
+      "datepublished": "2012-06-10",
+      "description": "Have only had the roast beef and mozz. I'm only occasionally in Hoboken for lunch, and as long as it's on the menu, I can't see any reason to try anything else. On the short list of candidates..."
+     },
+     {
+      "author": "Luca C.",
+      "datepublished": "2011-07-30",
+      "description": "OOH, yes. Very yes. Omg, yes. Please give. Delicious and amazing. Completely authentic Italian food that leaves me salivating and eager for more. I'll trek from Downtown JC to get in on the..."
+     },
+     {
+      "author": "Ryan T.",
+      "datepublished": "2011-12-12",
+      "description": "Good for Roast Beef or Italian Specialty meats and cheese only! So i checked the various Yelp reviews while searching for a decent deli in Hoboken and Fiore's seemed to top the list. Now don't..."
+     },
+     {
+      "author": "Evan M.",
+      "datepublished": "2012-02-15",
+      "description": "You'll find every good eating establishment in Hoboken on Washington street. Well....almost every good eating establishment. Fiore's is a deli that makes straying from Washington all the more..."
+     },
+     {
+      "author": "Matty G.",
+      "datepublished": "2011-07-25",
+      "description": "Bing Bam, thank you ma'am! Fiore Deli has just earned my first five star rating and it was well deserved. I don't really have to tell you this and that about the place because the other ninety..."
+     },
+     {
+      "author": "Meghan J.",
+      "datepublished": "2012-01-22",
+      "description": "not that my review matters and i'm not saying anything new here...but honestly....SO $%#&^^ING GOOD!!!!!! it's so simple. the sandwiches are very basic but the ingredients are TOP QUALITY!!..."
+     },
+     {
+      "author": "Ben M.",
+      "datepublished": "2012-03-04",
+      "description": "Best deli in Hoboken for an Italian sub. Try the garlic red peppers as well. You will stink for days, but it is so worth it. Keep in mind they have the BEST MOZZARELLA in Hoboken ( or the world..."
+     },
+     {
+      "author": "Gregory M.",
+      "datepublished": "2011-06-15",
+      "description": "All these Yelpers squaking about the Fresh Roast Beef sandwich with Fresh Mozzarella and gravy on a beautiful locally made roll.... yeah, yeah, yeah. Sure it's good... add some old school Giardinie..."
+     },
+     {
+      "author": "stephanie y.",
+      "datepublished": "2011-10-06",
+      "description": "Best sandwich of my life. Not joking. My bf used to live in Hoboken and he told me about how great this place was. So one Saturday morning he said they make spacial gravy sandwiches. I insisted..."
+     },
+     {
+      "author": "J. H.",
+      "datepublished": "2012-02-28",
+      "description": "Best Mutz period. Even followed their very serious directions about storeing and transporting mutz and they truly know mutz..."
+     }
+    ],
+    "breadcrumb": [
+     {
+      "url": "Restaurants",
+      "title": "Restaurants"
+     },
+     {
+      "url": "Delis",
+      "title": "Delis"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Texas Arizona - Coldest Beer in Hoboken!",
+   "htmlTitle": "Texas Arizona - Coldest Beer in \u003cb\u003eHoboken\u003c/b\u003e!",
+   "link": "http://www.texasarizona.com/",
+   "displayLink": "www.texasarizona.com",
+   "snippet": "Offers a Southwest style menu and full bar; includes news, events, specials,   pictures, and contact details.",
+   "htmlSnippet": "Offers a Southwest style menu and full bar; includes news, events, specials, \u003cbr\u003e  pictures, and contact details.",
+   "cacheId": "BuACiH6ph4sJ",
+   "formattedUrl": "www.texasarizona.com/",
+   "htmlFormattedUrl": "www.texasarizona.com/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://1.bp.blogspot.com/_FFZAknPZsoo/TQEWKrSnTeI/AAAAAAAAANA/FxLnZcfPNU0/S150/IMG_8566_beer_temp_small.jpg",
+      "type": "1",
+      "width": "100",
+      "height": "98"
+     }
+    ],
+    "metatags": [
+     {
+      "viewport": "width=1100"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Hoboken Recorders",
+   "htmlTitle": "\u003cb\u003eHoboken\u003c/b\u003e Recorders",
+   "link": "http://hobokenrecorders.com/",
+   "displayLink": "hobokenrecorders.com",
+   "snippet": "Jan 8, 2012 ... A professional recording studio located in the heart of Hoboken, NJ with a large   live room, several iso booths (with line of sight) and really great ...",
+   "htmlSnippet": "Jan 8, 2012 \u003cb\u003e...\u003c/b\u003e A professional recording studio located in the heart of \u003cb\u003eHoboken\u003c/b\u003e, NJ with a large \u003cbr\u003e  live room, several iso booths (with line of sight) and really great \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "A9ZdZJjtrjkJ",
+   "formattedUrl": "hobokenrecorders.com/",
+   "htmlFormattedUrl": "\u003cb\u003ehoboken\u003c/b\u003erecorders.com/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://hobokenrecorders.com/wp-content/uploads/2012/01/steph-piano-300x200.jpg",
+      "type": "1",
+      "width": "240",
+      "height": "160"
+     }
+    ],
+    "metatags": [
+     {
+      "viewport": "width = 1000",
+      "nextgen": "1.3.6"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "European Wax Center-Hoboken-NJ | Waxing | Hair Removal",
+   "htmlTitle": "European Wax Center-\u003cb\u003eHoboken\u003c/b\u003e-NJ | Waxing | Hair Removal",
+   "link": "http://www.waxcenter.com/NJ-Hoboken",
+   "displayLink": "www.waxcenter.com",
+   "snippet": "European Wax Center offers waxing in Hoboken, NJ. Other services are brazilian  , bikini, eyebrow, leg and underarm waxing for men and women.",
+   "htmlSnippet": "European Wax Center offers waxing in \u003cb\u003eHoboken\u003c/b\u003e, NJ. Other services are brazilian\u003cbr\u003e  , bikini, eyebrow, leg and underarm waxing for men and women.",
+   "cacheId": "BLQkKiiRkxQJ",
+   "formattedUrl": "www.waxcenter.com/NJ-Hoboken",
+   "htmlFormattedUrl": "www.waxcenter.com/NJ-\u003cb\u003eHoboken\u003c/b\u003e",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.waxcenter.com/media/img/locations/title.png",
+      "type": "1",
+      "width": "156",
+      "height": "64"
+     }
+    ],
+    "metatags": [
+     {
+      "distribution": "global",
+      "rating": "general",
+      "coverage": "Worldwide",
+      "y_key": "8dee363ab42632ae",
+      "msvalidate.01": "D845D893B4E9E1FA2E2259C9DAEF9E54"
+     }
+    ]
+   }
+  }
+ ]
+}

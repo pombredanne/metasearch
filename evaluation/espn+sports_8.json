@@ -1,0 +1,292 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "nextPage": [
+   {
+    "title": "Google Custom Search - espn sports",
+    "totalResults": "66400000",
+    "searchTerms": "espn sports",
+    "count": 10,
+    "startIndex": 91,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "017401104989814545383:mf4lavmtuva"
+   }
+  ],
+  "request": [
+   {
+    "title": "Google Custom Search - espn sports",
+    "totalResults": "66400000",
+    "searchTerms": "espn sports",
+    "count": 10,
+    "startIndex": 81,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "017401104989814545383:mf4lavmtuva"
+   }
+  ],
+  "previousPage": [
+   {
+    "title": "Google Custom Search - espn sports",
+    "totalResults": "66400000",
+    "searchTerms": "espn sports",
+    "count": 10,
+    "startIndex": 71,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "017401104989814545383:mf4lavmtuva"
+   }
+  ]
+ },
+ "context": {
+  "title": "College MetaSearch Comparison"
+ },
+ "searchInformation": {
+  "searchTime": 0.232413,
+  "formattedSearchTime": "0.23",
+  "totalResults": "66400000",
+  "formattedTotalResults": "66,400,000"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "NCAA College Rankings and Polls - ESPN",
+   "htmlTitle": "NCAA College Rankings and Polls - \u003cb\u003eESPN\u003c/b\u003e",
+   "link": "http://espn.go.com/college-sports/rankings",
+   "displayLink": "espn.go.com",
+   "snippet": "Latest AP and USA Today college sports polls on ESPN.com.",
+   "htmlSnippet": "Latest AP and USA Today college \u003cb\u003esports\u003c/b\u003e polls on \u003cb\u003eESPN\u003c/b\u003e.com.",
+   "cacheId": "eMRGIHrHuOEJ",
+   "formattedUrl": "espn.go.com/college-sports/rankings",
+   "htmlFormattedUrl": "\u003cb\u003eespn\u003c/b\u003e.go.com/college-\u003cb\u003esports\u003c/b\u003e/rankings",
+   "pagemap": {
+    "metatags": [
+     {
+      "msvalidate.01": "B1FEB7C682C46C8FCDA3130F3D18AC28"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Latest Sports Videos - ESPN",
+   "htmlTitle": "Latest \u003cb\u003eSports\u003c/b\u003e Videos - \u003cb\u003eESPN\u003c/b\u003e",
+   "link": "http://espn.go.com/video/archive",
+   "displayLink": "espn.go.com",
+   "snippet": "Latest sports videos on ESPN.com. ... Latest Videos. A compilation of the latest   videos from ESPN. E:60. E:60 Victor Cruz (July 20, 2012, 6:01 PM ET) ...",
+   "htmlSnippet": "Latest \u003cb\u003esports\u003c/b\u003e videos on \u003cb\u003eESPN\u003c/b\u003e.com. \u003cb\u003e...\u003c/b\u003e Latest Videos. A compilation of the latest \u003cbr\u003e  videos from \u003cb\u003eESPN\u003c/b\u003e. E:60. E:60 Victor Cruz (July 20, 2012, 6:01 PM ET) \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "3SddgLbMfLcJ",
+   "formattedUrl": "espn.go.com/video/archive",
+   "htmlFormattedUrl": "\u003cb\u003eespn\u003c/b\u003e.go.com/video/archive",
+   "pagemap": {
+    "metatags": [
+     {
+      "msvalidate.01": "B1FEB7C682C46C8FCDA3130F3D18AC28"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "NCAA Transactions - College Sports - ESPN",
+   "htmlTitle": "NCAA Transactions - College \u003cb\u003eSports\u003c/b\u003e - \u003cb\u003eESPN\u003c/b\u003e",
+   "link": "http://espn.go.com/college-sports/transactions",
+   "displayLink": "espn.go.com",
+   "snippet": "2 hours ago ... More; Asia · Australia · Brazil · United Kingdom. CITIES: BOSTON · CHICAGO ·   DALLAS · LOS ANGELES · NEW YORK · ESPN College Sports ...",
+   "htmlSnippet": "2 hours ago \u003cb\u003e...\u003c/b\u003e More; Asia &middot; Australia &middot; Brazil &middot; United Kingdom. CITIES: BOSTON &middot; CHICAGO &middot; \u003cbr\u003e  DALLAS &middot; LOS ANGELES &middot; NEW YORK &middot; \u003cb\u003eESPN\u003c/b\u003e College \u003cb\u003eSports\u003c/b\u003e \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "H5d-9i3N-uYJ",
+   "formattedUrl": "espn.go.com/college-sports/transactions",
+   "htmlFormattedUrl": "\u003cb\u003eespn\u003c/b\u003e.go.com/college-\u003cb\u003esports\u003c/b\u003e/transactions",
+   "pagemap": {
+    "metatags": [
+     {
+      "msvalidate.01": "B1FEB7C682C46C8FCDA3130F3D18AC28"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "These apps enhance TV sports watching - Sports Technology ...",
+   "htmlTitle": "These apps enhance TV \u003cb\u003esports\u003c/b\u003e watching - \u003cb\u003eSports\u003c/b\u003e Technology \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://espn.go.com/blog/playbook/tech/post/_/id/474/these-apps-enhance-tv-sports-watching",
+   "displayLink": "espn.go.com",
+   "snippet": "May 8, 2012 ... Last week, we ran a story about the social gaming app GrabFan and how the   market for live, social apps to complement TV sports watching is ...",
+   "htmlSnippet": "May 8, 2012 \u003cb\u003e...\u003c/b\u003e Last week, we ran a story about the social gaming app GrabFan and how the \u003cbr\u003e  market for live, social apps to complement TV \u003cb\u003esports\u003c/b\u003e watching is \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "zbu4QT4Dj_kJ",
+   "formattedUrl": "espn.go.com/blog/.../_/id/.../these-apps-enhance-tv-sports-watching",
+   "htmlFormattedUrl": "\u003cb\u003eespn\u003c/b\u003e.go.com/blog/.../_/id/.../these-apps-enhance-tv-\u003cb\u003esports\u003c/b\u003e-watching",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://a.espncdn.com/photo/2011/0804/grant_a_lbj1_sy_288.jpg",
+      "type": "1",
+      "width": "230",
+      "height": "129"
+     }
+    ],
+    "metatags": [
+     {
+      "msvalidate.01": "B1FEB7C682C46C8FCDA3130F3D18AC28",
+      "og:title": "These apps enhance TV sports watching",
+      "og:type": "article",
+      "og:url": "http://espn.go.com/blog/playbook/tech/post/_/id/474/these-apps-enhance-tv-sports-watching",
+      "og:description": "Last week, we ran a story about the social gaming app GrabFan and how the market for live, social apps to complement TV sports watching is still devel",
+      "og:image": "http://a.espncdn.com/photo/2011/0804/grant_a_lbj1_sy_288.jpg",
+      "og:site_name": "ESPN.com",
+      "fb:app_id": "116656161708917"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "ESPN.com - ESPN 25 - ESPN25: The 25 Biggest Sports Blunders",
+   "htmlTitle": "\u003cb\u003eESPN\u003c/b\u003e.com - \u003cb\u003eESPN\u003c/b\u003e 25 - ESPN25: The 25 Biggest \u003cb\u003eSports\u003c/b\u003e Blunders",
+   "link": "http://sports.espn.go.com/espn/espn25/story?page=listranker/blunderresult",
+   "displayLink": "sports.espn.go.com",
+   "snippet": "ESPN25: BIGGEST SPORTS BLUNDERS OF THE LAST 25 YEARS. BIGGEST   BLUNDERS ... As ranked by ESPN.com SportsNation users. 1. Stanford band, 1.",
+   "htmlSnippet": "ESPN25: BIGGEST \u003cb\u003eSPORTS\u003c/b\u003e BLUNDERS OF THE LAST 25 YEARS. BIGGEST \u003cbr\u003e  BLUNDERS \u003cb\u003e...\u003c/b\u003e As ranked by \u003cb\u003eESPN\u003c/b\u003e.com SportsNation users. 1. Stanford band, 1.",
+   "cacheId": "if4Vp3FWFP0J",
+   "formattedUrl": "sports.espn.go.com/espn/espn25/story?page=listranker/blunderresult",
+   "htmlFormattedUrl": "\u003cb\u003esports\u003c/b\u003e.\u003cb\u003eespn\u003c/b\u003e.go.com/\u003cb\u003eespn\u003c/b\u003e/\u003cb\u003eespn\u003c/b\u003e25/story?page=listranker/blunderresult"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Jeff Burton says Kurt Busch's outburst hurts the sport - ESPN",
+   "htmlTitle": "Jeff Burton says Kurt Busch&#39;s outburst hurts the \u003cb\u003esport\u003c/b\u003e - \u003cb\u003eESPN\u003c/b\u003e",
+   "link": "http://espn.go.com/racing/nascar/cup/story/_/id/8018102/jeff-burton-says-kurt-busch-outburst-hurts-sport",
+   "displayLink": "espn.go.com",
+   "snippet": "Jun 7, 2012 ... Reaction to Kurt Busch's one-race suspension for threatening comments made to   a reporter following Saturday's Nationwide Series race at ...",
+   "htmlSnippet": "Jun 7, 2012 \u003cb\u003e...\u003c/b\u003e Reaction to Kurt Busch&#39;s one-race suspension for threatening comments made to \u003cbr\u003e  a reporter following Saturday&#39;s Nationwide Series race at \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "XKn1wvbV5tcJ",
+   "formattedUrl": "espn.go.com/.../jeff-burton-says-kurt-busch-outburst-hurts-sport",
+   "htmlFormattedUrl": "\u003cb\u003eespn\u003c/b\u003e.go.com/.../jeff-burton-says-kurt-busch-outburst-hurts-\u003cb\u003esport\u003c/b\u003e",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://a.espncdn.com/i/rpm/mugs/65x90/195.jpg",
+      "type": "1",
+      "width": "61",
+      "height": "85"
+     }
+    ],
+    "metatags": [
+     {
+      "msvalidate.01": "B1FEB7C682C46C8FCDA3130F3D18AC28",
+      "syndication-source": "http://espn.go.com/racing/nascar/cup/story/_/id/8018102/jeff-burton-says-kurt-busch-outburst-hurts-sport",
+      "og:title": "Burton on Ku. Busch: Outburst hurts the sport",
+      "og:type": "article",
+      "og:url": "http://espn.go.com/racing/nascar/cup/story/_/id/8018102/jeff-burton-says-kurt-busch-outburst-hurts-sport",
+      "og:description": "Reaction to Kurt Busch's one-race suspension for threatening comments made to a reporter following Saturday's Nationwide Series race at Dover has been mixed among fellow Sprint Cup drivers.",
+      "og:image": "http://a.espncdn.com/i/espn/espn_logos/espn_red.png",
+      "og:site_name": "ESPN.com",
+      "fb:app_id": "116656161708917"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Mt. Rushmore of Sports - ESPN",
+   "htmlTitle": "Mt. Rushmore of \u003cb\u003eSports\u003c/b\u003e - \u003cb\u003eESPN\u003c/b\u003e",
+   "link": "http://sports.espn.go.com/espn/sportscenter/mtrushmore",
+   "displayLink": "sports.espn.go.com",
+   "snippet": "Vote for your favorite Mt. Rushmore of sports now! ... New York's Mount   Rushmore. Rick Reilly unveils the state of New York's Mt Rushmore of Sports ...",
+   "htmlSnippet": "Vote for your favorite Mt. Rushmore of \u003cb\u003esports\u003c/b\u003e now! \u003cb\u003e...\u003c/b\u003e New York&#39;s Mount \u003cbr\u003e  Rushmore. Rick Reilly unveils the state of New York&#39;s Mt Rushmore of \u003cb\u003eSports\u003c/b\u003e \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "shlSiupeDRAJ",
+   "formattedUrl": "sports.espn.go.com/espn/sportscenter/mtrushmore",
+   "htmlFormattedUrl": "\u003cb\u003esports\u003c/b\u003e.\u003cb\u003eespn\u003c/b\u003e.go.com/\u003cb\u003eespn\u003c/b\u003e/\u003cb\u003esports\u003c/b\u003ecenter/mtrushmore",
+   "pagemap": {
+    "metatags": [
+     {
+      "msvalidate.01": "B1FEB7C682C46C8FCDA3130F3D18AC28"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Racing Schedule, News, Results, and Drivers - Motorsports - ESPN",
+   "htmlTitle": "Racing Schedule, News, Results, and Drivers - Motorsports - \u003cb\u003eESPN\u003c/b\u003e",
+   "link": "http://espn.go.com/racing/",
+   "displayLink": "espn.go.com",
+   "snippet": "44 minutes ago · Follow ESPN's Motorsports coverage on Twitter » ... Select One.   Buy Motorsports Tickets and all other Sports Tickets at StubHub! See all tickets ...",
+   "htmlSnippet": "44 minutes ago &middot; Follow \u003cb\u003eESPN&#39;s\u003c/b\u003e Motorsports coverage on Twitter » \u003cb\u003e...\u003c/b\u003e Select One. \u003cbr\u003e  Buy Motorsports Tickets and all other \u003cb\u003eSports\u003c/b\u003e Tickets at StubHub! See all tickets \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "KwI8q6lcDrYJ",
+   "formattedUrl": "espn.go.com/racing/",
+   "htmlFormattedUrl": "\u003cb\u003eespn\u003c/b\u003e.go.com/racing/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://a.espncdn.com/photo/2012/0721/rpm_g_alonzo_sy_110.jpg",
+      "type": "1",
+      "width": "100",
+      "height": "56"
+     }
+    ],
+    "metatags": [
+     {
+      "msvalidate.01": "B1FEB7C682C46C8FCDA3130F3D18AC28"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "NCAA College Basketball Scores - NCAA Basketball - ESPN",
+   "htmlTitle": "NCAA College Basketball Scores - NCAA Basketball - \u003cb\u003eESPN\u003c/b\u003e",
+   "link": "http://scores.espn.go.com/ncb/scoreboard",
+   "displayLink": "scores.espn.go.com",
+   "snippet": "WORK FOR ESPN.COM. ESPN Campus (Bristol, CT). Want to help make the   products you love better? Join our team. Web Developer Openings » (Bristol,   New ...",
+   "htmlSnippet": "WORK FOR \u003cb\u003eESPN\u003c/b\u003e.COM. \u003cb\u003eESPN\u003c/b\u003e Campus (Bristol, CT). Want to help make the \u003cbr\u003e  products you love better? Join our team. Web Developer Openings » (Bristol, \u003cbr\u003e  New \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "z2c4swe5TgYJ",
+   "formattedUrl": "scores.espn.go.com/ncb/scoreboard",
+   "htmlFormattedUrl": "scores.\u003cb\u003eespn\u003c/b\u003e.go.com/ncb/scoreboard",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://a.espncdn.com/media/motion/2012/0712/dm_120712_ncb_summer_pac12_2.jpg",
+      "type": "1",
+      "width": "300",
+      "height": "168"
+     }
+    ],
+    "metatags": [
+     {
+      "msvalidate.01": "B1FEB7C682C46C8FCDA3130F3D18AC28"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "DALLAS sports, Dallas-Fort Worth sports news - ESPN Dallas",
+   "htmlTitle": "DALLAS \u003cb\u003esports\u003c/b\u003e, Dallas-Fort Worth \u003cb\u003esports\u003c/b\u003e news - \u003cb\u003eESPN\u003c/b\u003e Dallas",
+   "link": "http://espn.go.com/dallas/",
+   "displayLink": "espn.go.com",
+   "snippet": "Get the latest DALLAS sports news, including the Dallas Cowboys, Dallas   Mavericks, Texas Rangers, Dallas Stars, FC Dallas, Big 12 football, Dallas high   school ...",
+   "htmlSnippet": "Get the latest DALLAS \u003cb\u003esports\u003c/b\u003e news, including the Dallas Cowboys, Dallas \u003cbr\u003e  Mavericks, Texas Rangers, Dallas Stars, FC Dallas, Big 12 football, Dallas high \u003cbr\u003e  school \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "E-5baf8U2fkJ",
+   "formattedUrl": "espn.go.com/dallas/",
+   "htmlFormattedUrl": "\u003cb\u003eespn\u003c/b\u003e.go.com/dallas/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://a.espncdn.com//media/motion/2012/0722/dal_120722_CowboysCampConfidential.jpg",
+      "type": "1",
+      "width": "300",
+      "height": "168"
+     }
+    ]
+   }
+  }
+ ]
+}

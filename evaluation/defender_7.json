@@ -1,0 +1,277 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "nextPage": [
+   {
+    "title": "Google Custom Search - defender",
+    "totalResults": "19600000",
+    "searchTerms": "defender",
+    "count": 10,
+    "startIndex": 81,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "017401104989814545383:mf4lavmtuva"
+   }
+  ],
+  "request": [
+   {
+    "title": "Google Custom Search - defender",
+    "totalResults": "19600000",
+    "searchTerms": "defender",
+    "count": 10,
+    "startIndex": 71,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "017401104989814545383:mf4lavmtuva"
+   }
+  ],
+  "previousPage": [
+   {
+    "title": "Google Custom Search - defender",
+    "totalResults": "19600000",
+    "searchTerms": "defender",
+    "count": 10,
+    "startIndex": 61,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "017401104989814545383:mf4lavmtuva"
+   }
+  ]
+ },
+ "context": {
+  "title": "College MetaSearch Comparison"
+ },
+ "searchInformation": {
+  "searchTime": 0.177639,
+  "formattedSearchTime": "0.18",
+  "totalResults": "19600000",
+  "formattedTotalResults": "19,600,000"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "Defender by Neptune-Benson",
+   "htmlTitle": "\u003cb\u003eDefender\u003c/b\u003e by Neptune-Benson",
+   "link": "http://www.defenderfilter.com/",
+   "displayLink": "www.defenderfilter.com",
+   "snippet": "Perfect for waterparks and aquatic facilities where water quality is paramount —   superior particle removal capabilities; Saves millions of gallons of water and ...",
+   "htmlSnippet": "Perfect for waterparks and aquatic facilities where water quality is paramount — \u003cbr\u003e  superior particle removal capabilities; Saves millions of gallons of water and \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "R4tuudncnKsJ",
+   "formattedUrl": "www.defenderfilter.com/",
+   "htmlFormattedUrl": "www.\u003cb\u003edefender\u003c/b\u003efilter.com/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.defenderfilter.com/images/Defender.png",
+      "type": "1",
+      "width": "172",
+      "height": "293"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Legal Aid and Defender Association",
+   "htmlTitle": "Legal Aid and \u003cb\u003eDefender\u003c/b\u003e Association",
+   "link": "http://www.ladadetroit.org/",
+   "displayLink": "www.ladadetroit.org",
+   "snippet": "We're the Legal Aid and Defender Association, Inc. We're the largest provider of   free legal services to the indigent in Michigan and one of the largest in the ...",
+   "htmlSnippet": "We&#39;re the Legal Aid and \u003cb\u003eDefender\u003c/b\u003e Association, Inc. We&#39;re the largest provider of \u003cbr\u003e  free legal services to the indigent in Michigan and one of the largest in the \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "ic0Sxy8isDIJ",
+   "formattedUrl": "www.ladadetroit.org/",
+   "htmlFormattedUrl": "www.ladadetroit.org/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.ladadetroit.org/images/homepage_primaryimage_04.jpg",
+      "type": "1",
+      "width": "314",
+      "height": "160"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Picnic Defender",
+   "htmlTitle": "Picnic \u003cb\u003eDefender\u003c/b\u003e",
+   "link": "http://www.picnicdef.com/game/game.php",
+   "displayLink": "www.picnicdef.com",
+   "snippet": "Picnic Defender is a free tower defense webgame with online multiplayer.",
+   "htmlSnippet": "Picnic \u003cb\u003eDefender\u003c/b\u003e is a free tower defense webgame with online multiplayer.",
+   "cacheId": "76FWGef476MJ",
+   "formattedUrl": "www.picnicdef.com/game/game.php",
+   "htmlFormattedUrl": "www.picnicdef.com/game/game.php"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Texas Defender Service - Promoting a fair and just criminal justice ...",
+   "htmlTitle": "Texas \u003cb\u003eDefender\u003c/b\u003e Service - Promoting a fair and just criminal justice \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://www.texasdefender.org/",
+   "displayLink": "www.texasdefender.org",
+   "snippet": "Texas Defender Service. ... Home|Cases|News|Programs|Press Releases|  Support|Staff|About. © 2009-2011 Texas Defender Service. All rights reserved.",
+   "htmlSnippet": "Texas \u003cb\u003eDefender\u003c/b\u003e Service. \u003cb\u003e...\u003c/b\u003e Home|Cases|News|Programs|Press Releases|\u003cbr\u003e  Support|Staff|About. © 2009-2011 Texas \u003cb\u003eDefender\u003c/b\u003e Service. All rights reserved.",
+   "cacheId": "YpVJGsxPzlYJ",
+   "formattedUrl": "www.texasdefender.org/",
+   "htmlFormattedUrl": "www.texas\u003cb\u003edefender\u003c/b\u003e.org/"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Defender of the Faith - Wikipedia, the free encyclopedia",
+   "htmlTitle": "\u003cb\u003eDefender\u003c/b\u003e of the Faith - Wikipedia, the free encyclopedia",
+   "link": "http://en.wikipedia.org/wiki/Defender_of_the_Faith",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "Defender of the Faith or Defenders of the Faith may refer to: Fidei defensor (Latin   for 'Defender of the Faith'), a title of several European Christian monarchs ...",
+   "htmlSnippet": "\u003cb\u003eDefender\u003c/b\u003e of the Faith or \u003cb\u003eDefenders\u003c/b\u003e of the Faith may refer to: Fidei defensor (Latin \u003cbr\u003e  for &#39;\u003cb\u003eDefender\u003c/b\u003e of the Faith&#39;), a title of several European Christian monarchs \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "_bojE7vnQrcJ",
+   "formattedUrl": "en.wikipedia.org/wiki/Defender_of_the_Faith",
+   "htmlFormattedUrl": "en.wikipedia.org/wiki/\u003cb\u003eDefender\u003c/b\u003e_of_the_Faith"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Defender Training and Consulting - Home Page",
+   "htmlTitle": "\u003cb\u003eDefender\u003c/b\u003e Training and Consulting - Home Page",
+   "link": "http://www.defender-consulting.com/",
+   "displayLink": "www.defender-consulting.com",
+   "snippet": "Counter terrorism tactical and theoretical courses for law enforcement, military   and intelligence personnel by leading Israeli experts in counter terrorism training.",
+   "htmlSnippet": "Counter terrorism tactical and theoretical courses for law enforcement, military \u003cbr\u003e  and intelligence personnel by leading Israeli experts in counter terrorism training.",
+   "cacheId": "gX4a1BgRC7UJ",
+   "formattedUrl": "www.defender-consulting.com/",
+   "htmlFormattedUrl": "www.\u003cb\u003edefender\u003c/b\u003e-consulting.com/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.defender-consulting.com/images/Defender_Training_and_Consulting.jpg",
+      "type": "1",
+      "width": "315",
+      "height": "160"
+     }
+    ],
+    "metatags": [
+     {
+      "rating": "General"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Welcome to The People's Defender",
+   "htmlTitle": "Welcome to The People&#39;s \u003cb\u003eDefender\u003c/b\u003e",
+   "link": "http://www.peoplesdefender.com/",
+   "displayLink": "www.peoplesdefender.com",
+   "snippet": "Weekly paper providing classifieds, email.",
+   "htmlSnippet": "Weekly paper providing classifieds, email.",
+   "cacheId": "FU3LFn9Xh9sJ",
+   "formattedUrl": "www.peoplesdefender.com/",
+   "htmlFormattedUrl": "www.peoples\u003cb\u003edefender\u003c/b\u003e.com/"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Defender Synonyms, Defender Antonyms | Thesaurus.com",
+   "htmlTitle": "\u003cb\u003eDefender\u003c/b\u003e Synonyms, \u003cb\u003eDefender\u003c/b\u003e Antonyms | Thesaurus.com",
+   "link": "http://thesaurus.com/browse/defender",
+   "displayLink": "thesaurus.com",
+   "snippet": "Synonyms for defender at Thesaurus.com with free online thesaurus, antonyms,   and definitions. Dictionary and Word of the Day.",
+   "htmlSnippet": "Synonyms for \u003cb\u003edefender\u003c/b\u003e at Thesaurus.com with free online thesaurus, antonyms, \u003cbr\u003e  and definitions. Dictionary and Word of the Day.",
+   "cacheId": "SOP1n1eT6V0J",
+   "formattedUrl": "thesaurus.com/browse/defender",
+   "htmlFormattedUrl": "thesaurus.com/browse/\u003cb\u003edefender\u003c/b\u003e",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://static.sfdict.com/en/i/dictionary/facebook/thesaurus_logo.png"
+     }
+    ],
+    "metatags": [
+     {
+      "msvalidate.01": "DF5542D7723770377E9ABFF59AC1DC97",
+      "og:title": "the synonyms of defender",
+      "og:site_name": "Thesaurus.com",
+      "og:image": "http://static.sfdict.com/en/i/dictionary/facebook/thesaurus_logo.png",
+      "fb:app_id": "132731236754303",
+      "fb:admins": "100000304287730,109125464873"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Virtacore Home – Cloud Hosting | Cloud Servers | Managed Cloud ...",
+   "htmlTitle": "Virtacore Home – Cloud Hosting | Cloud Servers | Managed Cloud \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://www.virtacore.com/",
+   "displayLink": "www.virtacore.com",
+   "snippet": "FAQ's · What is Cloud Computing? What is a Hybrid Cloud? What Makes   Virtacore Clouds Different? What Size/Type of Cloud Does My Organization   Need?",
+   "htmlSnippet": "FAQ&#39;s &middot; What is Cloud Computing? What is a Hybrid Cloud? What Makes \u003cbr\u003e  Virtacore Clouds Different? What Size/Type of Cloud Does My Organization \u003cbr\u003e  Need?",
+   "cacheId": "_LPuZpfyqnQJ",
+   "formattedUrl": "www.virtacore.com/",
+   "htmlFormattedUrl": "www.virtacore.com/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.virtacore.com/wp-content/uploads/2012/04/3box_datacenter1.png",
+      "type": "1",
+      "width": "224",
+      "height": "72"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "How to manually download the latest definition updates for Windows ...",
+   "htmlTitle": "How to manually download the latest definition updates for Windows \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://support.microsoft.com/kb/923159",
+   "displayLink": "support.microsoft.com",
+   "snippet": "Jul 12, 2012 ... If you do not want to use Microsoft Windows Server Update Services (WSUS) to   update the Windows Defender definition files, you can update ...",
+   "htmlSnippet": "Jul 12, 2012 \u003cb\u003e...\u003c/b\u003e If you do not want to use Microsoft Windows Server Update Services (WSUS) to \u003cbr\u003e  update the Windows \u003cb\u003eDefender\u003c/b\u003e definition files, you can update \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "CHrmxoYNWJAJ",
+   "formattedUrl": "support.microsoft.com/kb/923159",
+   "htmlFormattedUrl": "support.microsoft.com/kb/923159",
+   "pagemap": {
+    "metatags": [
+     {
+      "dcsdir.gtrackexceptions": "no-track",
+      "ms.gsfxversion": "8.1.1.0",
+      "ms.sup_cid": "923159",
+      "ms.sup_cln": "en-us",
+      "ms.sup_ct": "kb",
+      "ms.sup_ln": "en-us",
+      "ms.sup_sd": "CRWL",
+      "dcsext.sup_cid": "923159",
+      "dcsext.sup_cln": "en-us",
+      "dcsext.sup_ct": "kb",
+      "dcsext.sup_ln": "en-us",
+      "dcsext.sup_sd": "CRWL",
+      "search.lcid": "1033",
+      "search.keywords": "kbdefenderrtwswept kbtshoot KB923159",
+      "search.datemodified": "2012-07-12T21:52:00",
+      "search.description": "Explains how to download the latest definition updates for Windows Defender without installing Microsoft Windows Server Update Services (WSUS).",
+      "search.kbparents": "11949 11952 8571",
+      "search.assets": "3",
+      "search.retire": "0",
+      "search.products": "456046",
+      "search.querywords": "IA-64",
+      "search.contentid": "923159",
+      "search.audiences": "kbAudGeneralUser kbAudEndUser kbAudITPRO",
+      "search.title": "How to manually download the latest definition updates for Windows Defender",
+      "kbparents": "11949 11952 8571",
+      "search.contenttype": "kb",
+      "search.scid": "kb;en-us;923159",
+      "search.mt": "0",
+      "search.kb3": "0",
+      "ms.locale": "en"
+     }
+    ]
+   }
+  }
+ ]
+}

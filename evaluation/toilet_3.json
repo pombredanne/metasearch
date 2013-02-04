@@ -1,0 +1,351 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "nextPage": [
+   {
+    "title": "Google Custom Search - toilet",
+    "totalResults": "27000000",
+    "searchTerms": "toilet",
+    "count": 10,
+    "startIndex": 41,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "017401104989814545383:mf4lavmtuva"
+   }
+  ],
+  "request": [
+   {
+    "title": "Google Custom Search - toilet",
+    "totalResults": "27000000",
+    "searchTerms": "toilet",
+    "count": 10,
+    "startIndex": 31,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "017401104989814545383:mf4lavmtuva"
+   }
+  ],
+  "previousPage": [
+   {
+    "title": "Google Custom Search - toilet",
+    "totalResults": "27000000",
+    "searchTerms": "toilet",
+    "count": 10,
+    "startIndex": 21,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "017401104989814545383:mf4lavmtuva"
+   }
+  ]
+ },
+ "context": {
+  "title": "College MetaSearch Comparison"
+ },
+ "searchInformation": {
+  "searchTime": 0.256276,
+  "formattedSearchTime": "0.26",
+  "totalResults": "27000000",
+  "formattedTotalResults": "27,000,000"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "Toilet Records |",
+   "htmlTitle": "\u003cb\u003eToilet\u003c/b\u003e Records |",
+   "link": "http://toiletrecords.com/",
+   "displayLink": "toiletrecords.com",
+   "snippet": "Mar 5, 2012 ... An artist collective from Brooklyn featuring exclusive music and video releases.",
+   "htmlSnippet": "Mar 5, 2012 \u003cb\u003e...\u003c/b\u003e An artist collective from Brooklyn featuring exclusive music and video releases.",
+   "cacheId": "9lEaYv6KYDMJ",
+   "formattedUrl": "toiletrecords.com/",
+   "htmlFormattedUrl": "\u003cb\u003etoilet\u003c/b\u003erecords.com/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://toiletrecords.com/wp-content/uploads/2011/03/ladydoome100x100.jpg",
+      "type": "1",
+      "width": "80",
+      "height": "80"
+     }
+    ],
+    "metatags": [
+     {
+      "language": "en-US"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Composting toilet - Wikipedia, the free encyclopedia",
+   "htmlTitle": "Composting \u003cb\u003etoilet\u003c/b\u003e - Wikipedia, the free encyclopedia",
+   "link": "http://en.wikipedia.org/wiki/Composting_toilet",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "A composting toilet is a dry toilet that uses a predominantly aerobic processing   system that treats excreta, typically with no water or small volumes of flush water, ...",
+   "htmlSnippet": "A composting \u003cb\u003etoilet\u003c/b\u003e is a dry \u003cb\u003etoilet\u003c/b\u003e that uses a predominantly aerobic processing \u003cbr\u003e  system that treats excreta, typically with no water or small volumes of flush water, \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "b2g1iV3MFMUJ",
+   "formattedUrl": "en.wikipedia.org/wiki/Composting_toilet",
+   "htmlFormattedUrl": "en.wikipedia.org/wiki/Composting_\u003cb\u003etoilet\u003c/b\u003e",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Compostingtoilet.jpg/220px-Compostingtoilet.jpg",
+      "type": "1",
+      "width": "176",
+      "height": "132"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Toilets & Toilet Seats - Plumbing - Ace Hardware",
+   "htmlTitle": "\u003cb\u003eToilets\u003c/b\u003e &amp; \u003cb\u003eToilet\u003c/b\u003e Seats - Plumbing - Ace Hardware",
+   "link": "http://www.acehardware.com/category/index.jsp?categoryId=2631241",
+   "displayLink": "www.acehardware.com",
+   "snippet": "Shop Toilets & Toilet Seats at acehardware.com and receive free shipping to   your local Ace, the Helpful Place.",
+   "htmlSnippet": "Shop \u003cb\u003eToilets\u003c/b\u003e &amp; \u003cb\u003eToilet\u003c/b\u003e Seats at acehardware.com and receive free shipping to \u003cbr\u003e  your local Ace, the Helpful Place.",
+   "cacheId": "6pIGdd3HgxgJ",
+   "formattedUrl": "www.acehardware.com/category/index.jsp?categoryId=2631241",
+   "htmlFormattedUrl": "www.acehardware.com/category/index.jsp?categoryId=2631241",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://ace.imageg.net/graphics/product_images/pACE3-6427561t110.jpg",
+      "type": "1",
+      "width": "88",
+      "height": "88"
+     }
+    ],
+    "metatags": [
+     {
+      "fb:page_id": "4949752878",
+      "fb:app_id": "196266160404322",
+      "og:site_name": "ACE Hardware"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Product Search | WaterSense | US EPA",
+   "htmlTitle": "Product Search | WaterSense | US EPA",
+   "link": "http://www.epa.gov/watersense/product_search.html",
+   "displayLink": "www.epa.gov",
+   "snippet": "Product Search · Showerheads · Toilets · Bathroom Sink Faucets & Accessories ·   Landscape Irrigation Controllers · Urinals · In the Pipeline · Water Softeners ...",
+   "htmlSnippet": "Product Search &middot; Showerheads &middot; \u003cb\u003eToilets\u003c/b\u003e &middot; Bathroom Sink Faucets &amp; Accessories &middot; \u003cbr\u003e  Landscape Irrigation Controllers &middot; Urinals &middot; In the Pipeline &middot; Water Softeners \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "axXLwGhxo6sJ",
+   "formattedUrl": "www.epa.gov/watersense/product_search.html",
+   "htmlFormattedUrl": "www.epa.gov/watersense/product_search.html",
+   "pagemap": {
+    "metatags": [
+     {
+      "dc.description": "This page provides a list of WaterSense labeled products",
+      "dc.title": "Product Search",
+      "dc.creator": "US EPA",
+      "dc.language": "en",
+      "viewport": "width=device-width; initial-scale=1.0"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Sittin On Tha Toilet - YouTube",
+   "htmlTitle": "Sittin On Tha \u003cb\u003eToilet\u003c/b\u003e - YouTube",
+   "link": "http://www.youtube.com/watch?v=BYW6C44zo24",
+   "displayLink": "www.youtube.com",
+   "snippet": "Sep 15, 2009 ... I wanna make this Clear so please read this description below: This is not me it is   my Friend & Sis (Nonnie). Nonnie posted a picture of me on ...",
+   "htmlSnippet": "Sep 15, 2009 \u003cb\u003e...\u003c/b\u003e I wanna make this Clear so please read this description below: This is not me it is \u003cbr\u003e  my Friend &amp; Sis (Nonnie). Nonnie posted a picture of me on \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "ZTMcp-f7sTsJ",
+   "formattedUrl": "www.youtube.com/watch?v=BYW6C44zo24",
+   "htmlFormattedUrl": "www.youtube.com/watch?v=BYW6C44zo24",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://i3.ytimg.com/vi/BYW6C44zo24/mqdefault.jpg"
+     }
+    ],
+    "videoobject": [
+     {
+      "url": "http://www.youtube.com/watch?v=BYW6C44zo24",
+      "name": "Sittin On Tha Toilet",
+      "description": "I wanna make this Clear so please read this description below: This is not me it is my Friend & Sis (Nonnie). Nonnie posted a picture of me on Myspace 2 year...",
+      "duration": "PT0M43S",
+      "unlisted": "False",
+      "paid": "False",
+      "thumbnailurl": "http://i3.ytimg.com/vi/BYW6C44zo24/hqdefault.jpg"
+     }
+    ],
+    "person": [
+     {
+      "url": "http://www.youtube.com/user/alonzochadwick"
+     }
+    ],
+    "metatags": [
+     {
+      "title": "Sittin On Tha Toilet",
+      "og:url": "http://www.youtube.com/watch?v=BYW6C44zo24",
+      "og:title": "Sittin On Tha Toilet",
+      "og:description": "I wanna make this Clear so please read this description below: This is not me it is my Friend & Sis (Nonnie). Nonnie posted a picture of me on Myspace 2 year...",
+      "og:type": "video",
+      "og:image": "http://i3.ytimg.com/vi/BYW6C44zo24/mqdefault.jpg",
+      "og:site_name": "YouTube",
+      "fb:app_id": "87741124305",
+      "attribution": "youtube_multi/"
+     }
+    ],
+    "imageobject": [
+     {
+      "url": "http://i3.ytimg.com/vi/BYW6C44zo24/mqdefault.jpg",
+      "width": "320",
+      "height": "180"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Toilets | Overstock.com: Buy Toilet Seats, Bidets, & Toilets Online",
+   "htmlTitle": "\u003cb\u003eToilets\u003c/b\u003e | Overstock.com: Buy \u003cb\u003eToilet\u003c/b\u003e Seats, Bidets, &amp; \u003cb\u003eToilets\u003c/b\u003e Online",
+   "link": "http://www.overstock.com/Home-Garden/Toilets/943/cat.html",
+   "displayLink": "www.overstock.com",
+   "snippet": "Toilets for everyday discount prices on Overstock.com! $2.95 shipping and   product reviews on Toilet Seats, Bidets, Toilets, & Toilet Accessories & more.",
+   "htmlSnippet": "\u003cb\u003eToilets\u003c/b\u003e for everyday discount prices on Overstock.com! $2.95 shipping and \u003cbr\u003e  product reviews on \u003cb\u003eToilet\u003c/b\u003e Seats, Bidets, \u003cb\u003eToilets\u003c/b\u003e, &amp; \u003cb\u003eToilet\u003c/b\u003e Accessories &amp; more.",
+   "cacheId": "hWmiMjevXyYJ",
+   "formattedUrl": "www.overstock.com/Home-Garden/Toilets/943/cat.html",
+   "htmlFormattedUrl": "www.overstock.com/Home-Garden/\u003cb\u003eToilets\u003c/b\u003e/943/cat.html",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://ak1.ostkcdn.com/img/mxc/20101215_fbog_ostk.png"
+     }
+    ],
+    "Breadcrumb": [
+     {
+      "title": "Online Shopping",
+      "url": "Online Shopping"
+     },
+     {
+      "title": "Home & Garden",
+      "url": "Home & Garden"
+     },
+     {
+      "title": "Home Improvement",
+      "url": "Home Improvement"
+     }
+    ],
+    "metatags": [
+     {
+      "author": "Overstock.com",
+      "og:title": "Toilets | Overstock.com: Buy Toilet Seats, Bidets, & Toilets Online",
+      "og:url": "http://www.overstock.com/Home-Garden/Toilets/943/cat.html",
+      "og:image": "http://ak1.ostkcdn.com/img/mxc/20101215_fbog_ostk.png",
+      "og:type": "product",
+      "og:site_name": "overstock.com",
+      "fb:app_id": "176130092402347"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "The Toilet Museum - The Home of Toilet Art, Humor, and Fun Facts.",
+   "htmlTitle": "The \u003cb\u003eToilet\u003c/b\u003e Museum - The Home of \u003cb\u003eToilet\u003c/b\u003e Art, Humor, and Fun Facts.",
+   "link": "http://www.toiletmuseum.com/",
+   "displayLink": "www.toiletmuseum.com",
+   "snippet": "A whimsical roadside attraction on the information highway dedicated to toilets-in  -art, with commentary by the museum's curator.",
+   "htmlSnippet": "A whimsical roadside attraction on the information highway dedicated to \u003cb\u003etoilets\u003c/b\u003e-in\u003cbr\u003e  -art, with commentary by the museum&#39;s curator.",
+   "cacheId": "5A0jYscJjlsJ",
+   "formattedUrl": "www.toiletmuseum.com/",
+   "htmlFormattedUrl": "www.\u003cb\u003etoilet\u003c/b\u003emuseum.com/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.toiletmuseum.com/index/judeandewan.jpg",
+      "type": "1",
+      "width": "97",
+      "height": "95"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Toilet seat - Wikipedia, the free encyclopedia",
+   "htmlTitle": "\u003cb\u003eToilet\u003c/b\u003e seat - Wikipedia, the free encyclopedia",
+   "link": "http://en.wikipedia.org/wiki/Toilet_seat",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "A toilet seat is a hinged unit consisting of seat and lid which is bolted onto a toilet   bowl for a flush toilet. A toilet seat consists of the seat itself, which may be ...",
+   "htmlSnippet": "A \u003cb\u003etoilet\u003c/b\u003e seat is a hinged unit consisting of seat and lid which is bolted onto a \u003cb\u003etoilet\u003c/b\u003e \u003cbr\u003e  bowl for a flush \u003cb\u003etoilet\u003c/b\u003e. A \u003cb\u003etoilet\u003c/b\u003e seat consists of the seat itself, which may be \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "UKRfYrhncTsJ",
+   "formattedUrl": "en.wikipedia.org/wiki/Toilet_seat",
+   "htmlFormattedUrl": "en.wikipedia.org/wiki/\u003cb\u003eToilet\u003c/b\u003e_seat",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Toilet_seat_600x980.jpg/170px-Toilet_seat_600x980.jpg",
+      "type": "1",
+      "width": "136",
+      "height": "225"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "The Toilet Of The Future Will Turn Poop Into Power | Co.Exist: World ...",
+   "htmlTitle": "The \u003cb\u003eToilet\u003c/b\u003e Of The Future Will Turn Poop Into Power | Co.Exist: World \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://www.fastcoexist.com/1678292/the-toilet-of-the-future-will-turn-poop-into-power",
+   "displayLink": "www.fastcoexist.com",
+   "snippet": "The Bill & Melinda Gates Foundation announced on Tuesday that they are giving   away more than $42 million to develop new, innovative toilets for use in the ...",
+   "htmlSnippet": "The Bill &amp; Melinda Gates Foundation announced on Tuesday that they are giving \u003cbr\u003e  away more than $42 million to develop new, innovative \u003cb\u003etoilets\u003c/b\u003e for use in the \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "yuMLz_pzgBEJ",
+   "formattedUrl": "www.fastcoexist.com/.../the-toilet-of-the-future-will-turn-poop-into-power",
+   "htmlFormattedUrl": "www.fastcoexist.com/.../the-\u003cb\u003etoilet\u003c/b\u003e-of-the-future-will-turn-poop-into-power",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.fastcoexist.com/multisite_files/coexist/fc_files/mozambiquetoilet.jpg",
+      "type": "1",
+      "width": "297",
+      "height": "170"
+     }
+    ],
+    "metatags": [
+     {
+      "og:title": "The Toilet Of The Future Will Turn Poop Into Power",
+      "og:url": "http://www.fastcoexist.com/1678292/the-toilet-of-the-future-will-turn-poop-into-power",
+      "og:type": "article",
+      "og:locale": "en_US",
+      "og:description": "The Bill &amp; Melinda Gates Foundation announced on Tuesday that they are giving away more than $42 million to develop new, innovative toilets for use in the world's poorest regions.",
+      "og:image": "http://www.fastcoexist.com/multisite_files/coexist/fc_files/mozambiquetoilet.jpg",
+      "og:site_name": "Co.Exist",
+      "fb:app_id": "180431352040909",
+      "viewport": "width=1100",
+      "fb:admins": "100000062710915"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Islamic toilet etiquette - Wikipedia, the free encyclopedia",
+   "htmlTitle": "Islamic \u003cb\u003etoilet\u003c/b\u003e etiquette - Wikipedia, the free encyclopedia",
+   "link": "http://en.wikipedia.org/wiki/Islamic_toilet_etiquette",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "The Islamic faith has particular rules regarding personal hygiene when going to   the toilet. This code is known as Qadaa' al-Haajah. Issues of chirality, such as ...",
+   "htmlSnippet": "The Islamic faith has particular rules regarding personal hygiene when going to \u003cbr\u003e  the \u003cb\u003etoilet\u003c/b\u003e. This code is known as Qadaa&#39; al-Haajah. Issues of chirality, such as \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "DMZLm3Bzo7IJ",
+   "formattedUrl": "en.wikipedia.org/wiki/Islamic_toilet_etiquette",
+   "htmlFormattedUrl": "en.wikipedia.org/wiki/Islamic_\u003cb\u003etoilet\u003c/b\u003e_etiquette"
+  }
+ ]
+}

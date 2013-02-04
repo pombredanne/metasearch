@@ -1,0 +1,328 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "nextPage": [
+   {
+    "title": "Google Custom Search - defender",
+    "totalResults": "19600000",
+    "searchTerms": "defender",
+    "count": 10,
+    "startIndex": 31,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "017401104989814545383:mf4lavmtuva"
+   }
+  ],
+  "request": [
+   {
+    "title": "Google Custom Search - defender",
+    "totalResults": "19600000",
+    "searchTerms": "defender",
+    "count": 10,
+    "startIndex": 21,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "017401104989814545383:mf4lavmtuva"
+   }
+  ],
+  "previousPage": [
+   {
+    "title": "Google Custom Search - defender",
+    "totalResults": "19600000",
+    "searchTerms": "defender",
+    "count": 10,
+    "startIndex": 11,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "017401104989814545383:mf4lavmtuva"
+   }
+  ]
+ },
+ "context": {
+  "title": "College MetaSearch Comparison"
+ },
+ "searchInformation": {
+  "searchTime": 0.117715,
+  "formattedSearchTime": "0.12",
+  "totalResults": "19600000",
+  "formattedTotalResults": "19,600,000"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "Chicago Defender - Wikipedia, the free encyclopedia",
+   "htmlTitle": "Chicago \u003cb\u003eDefender\u003c/b\u003e - Wikipedia, the free encyclopedia",
+   "link": "http://en.wikipedia.org/wiki/Chicago_Defender",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "The Chicago Defender is a Chicago-based weekly newspaper founded in 1905   by an African American for primarily African-American readers. In just three ...",
+   "htmlSnippet": "The Chicago \u003cb\u003eDefender\u003c/b\u003e is a Chicago-based weekly newspaper founded in 1905 \u003cbr\u003e  by an African American for primarily African-American readers. In just three \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "3xdOA1qe9mkJ",
+   "formattedUrl": "en.wikipedia.org/wiki/Chicago_Defender",
+   "htmlFormattedUrl": "en.wikipedia.org/wiki/Chicago_\u003cb\u003eDefender\u003c/b\u003e",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://upload.wikimedia.org/wikipedia/en/thumb/f/fe/Chicago_Defender_July_31_1948.jpg/225px-Chicago_Defender_July_31_1948.jpg",
+      "type": "1",
+      "width": "180",
+      "height": "241"
+     }
+    ],
+    "hcard": [
+     {
+      "fn": "The Chicago Defender",
+      "label": "Chicago"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "defender",
+   "htmlTitle": "\u003cb\u003edefender\u003c/b\u003e",
+   "link": "http://www.classicgamesarcade.com/game/21638/defender.html",
+   "displayLink": "www.classicgamesarcade.com",
+   "snippet": "Defender is one of the most well known space ship shooterclassic arcade games.",
+   "htmlSnippet": "\u003cb\u003eDefender\u003c/b\u003e is one of the most well known space ship shooterclassic arcade games.",
+   "cacheId": "-HEc0KokZo4J",
+   "formattedUrl": "www.classicgamesarcade.com/game/21638/defender.html",
+   "htmlFormattedUrl": "www.classicgamesarcade.com/game/21638/\u003cb\u003edefender\u003c/b\u003e.html"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Public defender - Wikipedia, the free encyclopedia",
+   "htmlTitle": "Public \u003cb\u003edefender\u003c/b\u003e - Wikipedia, the free encyclopedia",
+   "link": "http://en.wikipedia.org/wiki/Public_defender",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "The term public defender is primarily used to refer to a lawyer appointed to   represent people who cannot afford to hire an attorney in the United States and   Brazil ...",
+   "htmlSnippet": "The term public \u003cb\u003edefender\u003c/b\u003e is primarily used to refer to a lawyer appointed to \u003cbr\u003e  represent people who cannot afford to hire an attorney in the United States and \u003cbr\u003e  Brazil \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "mNJOXnRA3JoJ",
+   "formattedUrl": "en.wikipedia.org/wiki/Public_defender",
+   "htmlFormattedUrl": "en.wikipedia.org/wiki/Public_\u003cb\u003edefender\u003c/b\u003e",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Public_Defender_-_Salvador,_Brazil.jpg/220px-Public_Defender_-_Salvador,_Brazil.jpg",
+      "type": "1",
+      "width": "176",
+      "height": "132"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Defenders of Wildlife | Protecting Native Animals and Their Habitats",
+   "htmlTitle": "\u003cb\u003eDefenders\u003c/b\u003e of Wildlife | Protecting Native Animals and Their Habitats",
+   "link": "http://www.defenders.org/",
+   "displayLink": "www.defenders.org",
+   "snippet": "Visit the Defenders website to learn more about what we're doing to protect our   wildlife and wild places—and what you can do to help.",
+   "htmlSnippet": "Visit the \u003cb\u003eDefenders\u003c/b\u003e website to learn more about what we&#39;re doing to protect our \u003cbr\u003e  wildlife and wild places—and what you can do to help.",
+   "cacheId": "KO-L6_QsoIkJ",
+   "formattedUrl": "www.defenders.org/",
+   "htmlFormattedUrl": "www.\u003cb\u003edefenders\u003c/b\u003e.org/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.defenders.org/sites/default/files/styles/home_feature/public/florida-panther-superstock.jpg",
+      "type": "1",
+      "width": "303",
+      "height": "166"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "iPhone 3G / 3GS Defender Series Case",
+   "htmlTitle": "iPhone 3G / 3GS \u003cb\u003eDefender\u003c/b\u003e Series Case",
+   "link": "http://www.otterbox.com/iPhone-3G-/-3GS-Defender-Series-Case/1942,default,pd.html",
+   "displayLink": "www.otterbox.com",
+   "snippet": "iPhone 3G and iPhone 3GS Defender Series Case by OtterBox.",
+   "htmlSnippet": "iPhone 3G and iPhone 3GS \u003cb\u003eDefender\u003c/b\u003e Series Case by OtterBox.",
+   "cacheId": "hpzTSorYpZUJ",
+   "formattedUrl": "www.otterbox.com/iPhone-3G-/-...Defender.../1942,default,pd.html",
+   "htmlFormattedUrl": "www.otterbox.com/iPhone-3G-/-...\u003cb\u003eDefender\u003c/b\u003e.../1942,default,pd.html",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://demandware.edgesuite.net/aaez_prd/on/demandware.static/Sites-otterbox_us-Site/Sites-masterCatalog_OtterBox/default/v1342801985523/images/large/1942-05.jpg",
+      "type": "1",
+      "width": "225",
+      "height": "225"
+     }
+    ],
+    "metatags": [
+     {
+      "msvalidate.01": "EDB396C2983CA2B4D6A73BEE418B651F",
+      "com.silverpop.brandeddomains": "www.pages04.net,web.otterbox.demandware.net",
+      "com.silverpop.cothost": "engage4.silverpop.com"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Windows Defender - Windows 7 features - Microsoft Windows",
+   "htmlTitle": "Windows \u003cb\u003eDefender\u003c/b\u003e - Windows 7 features - Microsoft Windows",
+   "link": "http://windows.microsoft.com/en-US/windows7/products/features/windows-defender",
+   "displayLink": "windows.microsoft.com",
+   "snippet": "Protect against spyware and malware with Windows Defender in Windows 7. It   also has simpler alerts, more options, and less impact on performance.",
+   "htmlSnippet": "Protect against spyware and malware with Windows \u003cb\u003eDefender\u003c/b\u003e in Windows 7. It \u003cbr\u003e  also has simpler alerts, more options, and less impact on performance.",
+   "cacheId": "w6F1AzpfZVAJ",
+   "formattedUrl": "windows.microsoft.com/en-US/windows7/.../windows-defender",
+   "htmlFormattedUrl": "windows.microsoft.com/en-US/windows7/.../windows-\u003cb\u003edefender\u003c/b\u003e",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://res2.windows.microsoft.com/resbox/en/Windows%207/main/42441828-81f1-4a8b-a369-afb3b910c590_0.jpg",
+      "type": "1",
+      "width": "277",
+      "height": "182"
+     }
+    ],
+    "metatags": [
+     {
+      "ms.pageid": "79065",
+      "ms.pagever": "152",
+      "ms.nav.level": "2",
+      "ms.nav.channel": "Products",
+      "ms.culture": "en-US",
+      "search.os": "Windows 7",
+      "search.ossku": "eADQiEnterpriseXVcnh",
+      "search.product": "eADQiWindows 7XVcnh",
+      "search.supportedos": "eADQiWindows 7XVcnh",
+      "search.appliesto": "WOL",
+      "search.pagetitle": "Windows Defender",
+      "search.culture": "eADQien-USXVcnh",
+      "ms.biauthstateloggingdisabled": "true"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Windows Defender and Microsoft Security Essentials on Windows 7 ...",
+   "htmlTitle": "Windows \u003cb\u003eDefender\u003c/b\u003e and Microsoft Security Essentials on Windows 7 \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://answers.microsoft.com/thread/5309cb8d-02e1-40e8-974f-0dcedb9ab9fd",
+   "displayLink": "answers.microsoft.com",
+   "snippet": "Mar 21, 2012 ... Updated 3/21/12 by Stephen Boots to reflect information about Windows   Defender, MSE, and Windows 8 Consumer Preview Q: How is this ...",
+   "htmlSnippet": "Mar 21, 2012 \u003cb\u003e...\u003c/b\u003e Updated 3/21/12 by Stephen Boots to reflect information about Windows \u003cbr\u003e  \u003cb\u003eDefender\u003c/b\u003e, MSE, and Windows 8 Consumer Preview Q: How is this \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "-Ji6f-4eXssJ",
+   "formattedUrl": "answers.microsoft.com/.../5309cb8d-02e1-40e8-974f-0dcedb9ab9fd",
+   "htmlFormattedUrl": "answers.microsoft.com/.../5309cb8d-02e1-40e8-974f-0dcedb9ab9fd",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://answers.microsoft.com/static/images/icon_fb_answers.jpg"
+     }
+    ],
+    "metatags": [
+     {
+      "search.title": "Windows Defender and Microsoft Security Essentials on Windows 7, Windows Vista and Windows XP",
+      "search.description": "** Updated 3/21/12 by Stephen Boots to reflect information about Windows Defender, MSE, and Windows 8 Consumer Preview Q: How is this different from Windows Defender? A: Windows Defender detects and",
+      "search.threadid": "5309cb8d-02e1-40e8-974f-0dcedb9ab9fd",
+      "search.authorid": "25b206ea-15ff-4bb7-9c6b-e8ae801a10bc",
+      "search.authorname": "Kevin Hau",
+      "search.datecreated": "2009-06-23T18:45:03",
+      "search.datemodified": "2011-02-26T05:43:05",
+      "search.language": "en-US",
+      "search.answercount": "000000",
+      "search.answered": "false",
+      "search.helpfulvotecount": "000000",
+      "search.metoocount": "000102",
+      "search.issolutionasset": "false",
+      "search.firstreplypage": "true",
+      "search.forum": "Protect",
+      "search.protectproduct": "mse",
+      "search.msetopic": "protect_start",
+      "search.appmetadata": "forum=Protect;protectproduct=mse;msetopic=protect_start",
+      "search.pagetype": "thread",
+      "og:title": "Windows Defender and Microsoft Security Essentials on Windows 7, Windows Vista and Windows XP",
+      "og:description": "** Updated 3/21/12 by Stephen Boots to reflect information about Windows Defender, MSE, and Windows 8 Consumer Preview Q: How is this different from Windows Defender? A: Windows Defender detects and",
+      "og:image": "http://answers.microsoft.com/static/images/icon_fb_answers.jpg"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Defender Services \u003e Home",
+   "htmlTitle": "\u003cb\u003eDefender\u003c/b\u003e Services &gt; Home",
+   "link": "http://www.defenderservices.com/",
+   "displayLink": "www.defenderservices.com",
+   "snippet": "Defender Services, Inc. - Delivering Environmental Innovation Through   Sustainable Practices · Defender ... Defender Services, Inc. - Your Outsourcing   Solution.",
+   "htmlSnippet": "\u003cb\u003eDefender\u003c/b\u003e Services, Inc. - Delivering Environmental Innovation Through \u003cbr\u003e  Sustainable Practices &middot; \u003cb\u003eDefender\u003c/b\u003e \u003cb\u003e...\u003c/b\u003e \u003cb\u003eDefender\u003c/b\u003e Services, Inc. - Your Outsourcing \u003cbr\u003e  Solution.",
+   "cacheId": "zi2fRdKx0JkJ",
+   "formattedUrl": "www.defenderservices.com/",
+   "htmlFormattedUrl": "www.\u003cb\u003edefenders\u003c/b\u003eervices.com/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.defenderservices.com/images/feature/feature-industrial.jpg",
+      "type": "1",
+      "width": "403",
+      "height": "125"
+     }
+    ],
+    "metatags": [
+     {
+      "y_key": "b487ebcad5253581",
+      "msvalidate.01": "F6AE0D4C8FCD0D9E6BAC086E7052FEB3"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Defender (yacht) - Wikipedia, the free encyclopedia",
+   "htmlTitle": "\u003cb\u003eDefender\u003c/b\u003e (yacht) - Wikipedia, the free encyclopedia",
+   "link": "http://en.wikipedia.org/wiki/Defender_(yacht)",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "[edit] Design. Defender was designed by Nathanael Greene Herreshoff and built   by the Herreshoff Manufacturing Company in 1895. It was Herreshoff's second ...",
+   "htmlSnippet": "[edit] Design. \u003cb\u003eDefender\u003c/b\u003e was designed by Nathanael Greene Herreshoff and built \u003cbr\u003e  by the Herreshoff Manufacturing Company in 1895. It was Herreshoff&#39;s second \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "l97sVys6iskJ",
+   "formattedUrl": "en.wikipedia.org/wiki/Defender_(yacht)",
+   "htmlFormattedUrl": "en.wikipedia.org/wiki/\u003cb\u003eDefender\u003c/b\u003e_(yacht)",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Defender(yacht).jpg/300px-Defender(yacht).jpg",
+      "type": "1",
+      "width": "240",
+      "height": "188"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Defender Mouthguards - Custom Fit Sports Mouthguards",
+   "htmlTitle": "\u003cb\u003eDefender\u003c/b\u003e Mouthguards - Custom Fit Sports Mouthguards",
+   "link": "http://www.defendermouthguards.com/",
+   "displayLink": "www.defendermouthguards.com",
+   "snippet": "We are the leader in Mouthguard Technology. We provide Custom Fit   Mouthguards for every age group. Buy yours from Defender Mouthguards today!",
+   "htmlSnippet": "We are the leader in Mouthguard Technology. We provide Custom Fit \u003cbr\u003e  Mouthguards for every age group. Buy yours from \u003cb\u003eDefender\u003c/b\u003e Mouthguards today!",
+   "cacheId": "xqkvJPRDM30J",
+   "formattedUrl": "www.defendermouthguards.com/",
+   "htmlFormattedUrl": "www.\u003cb\u003edefender\u003c/b\u003emouthguards.com/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.defendermouthguards.com/images/mainlogo.png",
+      "type": "1",
+      "width": "234",
+      "height": "216"
+     }
+    ]
+   }
+  }
+ ]
+}

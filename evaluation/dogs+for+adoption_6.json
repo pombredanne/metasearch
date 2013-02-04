@@ -1,0 +1,297 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "nextPage": [
+   {
+    "title": "Google Custom Search - dogs for adoption",
+    "totalResults": "17400000",
+    "searchTerms": "dogs for adoption",
+    "count": 10,
+    "startIndex": 71,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "017401104989814545383:mf4lavmtuva"
+   }
+  ],
+  "request": [
+   {
+    "title": "Google Custom Search - dogs for adoption",
+    "totalResults": "17400000",
+    "searchTerms": "dogs for adoption",
+    "count": 10,
+    "startIndex": 61,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "017401104989814545383:mf4lavmtuva"
+   }
+  ],
+  "previousPage": [
+   {
+    "title": "Google Custom Search - dogs for adoption",
+    "totalResults": "17400000",
+    "searchTerms": "dogs for adoption",
+    "count": 10,
+    "startIndex": 51,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "017401104989814545383:mf4lavmtuva"
+   }
+  ]
+ },
+ "context": {
+  "title": "College MetaSearch Comparison"
+ },
+ "searchInformation": {
+  "searchTime": 0.196908,
+  "formattedSearchTime": "0.20",
+  "totalResults": "17400000",
+  "formattedTotalResults": "17,400,000"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "Atlanta Pet Rescue & Adoption | A no-kill shelter for cats and dogs.",
+   "htmlTitle": "Atlanta Pet Rescue &amp; \u003cb\u003eAdoption\u003c/b\u003e | A no-kill shelter for cats and \u003cb\u003edogs\u003c/b\u003e.",
+   "link": "http://www.atlantapetrescue.org/",
+   "displayLink": "www.atlantapetrescue.org",
+   "snippet": "Includes photos of available animals, adoption policy, and training and pet care   tips.",
+   "htmlSnippet": "Includes photos of available animals, \u003cb\u003eadoption\u003c/b\u003e policy, and training and pet care \u003cbr\u003e  tips.",
+   "cacheId": "OzW1w5_MCyUJ",
+   "formattedUrl": "www.atlantapetrescue.org/",
+   "htmlFormattedUrl": "www.atlantapetrescue.org/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.atlantapetrescue.org/wp-content/uploads3/2012/07/paws-slider.jpg",
+      "type": "1",
+      "width": "185",
+      "height": "273"
+     }
+    ],
+    "metatags": [
+     {
+      "framework": "Alkivia Framework 0.8"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Dog & cat adoption and animal rescue shelter Phoenix: Arizona ...",
+   "htmlTitle": "\u003cb\u003eDog\u003c/b\u003e &amp; cat \u003cb\u003eadoption\u003c/b\u003e and animal rescue shelter Phoenix: Arizona \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://www.azhumane.org/",
+   "displayLink": "www.azhumane.org",
+   "snippet": "Improving the Lives of Animals Since 1957. Promoting dog and cat rescue and   animal adoption in the Phoenix/Maricopa county area.",
+   "htmlSnippet": "Improving the Lives of Animals Since 1957. Promoting \u003cb\u003edog\u003c/b\u003e and cat rescue and \u003cbr\u003e  animal \u003cb\u003eadoption\u003c/b\u003e in the Phoenix/Maricopa county area.",
+   "cacheId": "tCK1Wqbj_BkJ",
+   "formattedUrl": "www.azhumane.org/",
+   "htmlFormattedUrl": "www.azhumane.org/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.azhumane.org/images/hills-badge.jpg",
+      "type": "1",
+      "width": "120",
+      "height": "87"
+     }
+    ],
+    "metatags": [
+     {
+      "author": "Arizona Humane Society, Copyright 2012",
+      "cocoaversion": "949.54"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Dogs for Adoption",
+   "htmlTitle": "\u003cb\u003eDogs for Adoption\u003c/b\u003e",
+   "link": "http://www.cabarrushumanesociety.org/dog-home.htm",
+   "displayLink": "www.cabarrushumanesociety.org",
+   "snippet": "Ruth's provides an inviting environment to meet dogs and puppies you may want   to consider adopting. Trained adoption counselors will assist you in choosing ...",
+   "htmlSnippet": "Ruth&#39;s provides an inviting environment to meet \u003cb\u003edogs\u003c/b\u003e and \u003cb\u003epuppies\u003c/b\u003e you may want \u003cbr\u003e  to consider \u003cb\u003eadopting\u003c/b\u003e. Trained \u003cb\u003eadoption\u003c/b\u003e counselors will assist you in choosing \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "jD-f3gkp7vUJ",
+   "formattedUrl": "www.cabarrushumanesociety.org/dog-home.htm",
+   "htmlFormattedUrl": "www.cabarrushumanesociety.org/\u003cb\u003edog\u003c/b\u003e-home.htm",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.cabarrushumanesociety.org/Lucian.jpg",
+      "type": "1",
+      "width": "229",
+      "height": "220"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Pet Adoption Fund Home Page, Pet Adoptions, Pets For Adoption ...",
+   "htmlTitle": "Pet Adoption Fund Home Page, Pet Adoptions, \u003cb\u003ePets For Adoption\u003c/b\u003e \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://www.petadoptionfund.org/",
+   "displayLink": "www.petadoptionfund.org",
+   "snippet": "Pet Adoption Fund is the largest non profit, no-kill animal rescue organization in   Southern California. Our mission is to rescue, shelter, and find loving permanent ...",
+   "htmlSnippet": "Pet \u003cb\u003eAdoption\u003c/b\u003e Fund is the largest non profit, no-kill animal rescue organization in \u003cbr\u003e  Southern California. Our mission is to rescue, shelter, and find loving permanent \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "lquXPsTL8i4J",
+   "formattedUrl": "www.petadoptionfund.org/",
+   "htmlFormattedUrl": "www.pet\u003cb\u003eadoption\u003c/b\u003efund.org/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.petadoptionfund.org/images/CocoPOMbanner.jpg",
+      "type": "1",
+      "width": "240",
+      "height": "208"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Dogs for Adoption | Puppies for Adoption",
+   "htmlTitle": "\u003cb\u003eDogs for Adoption\u003c/b\u003e | \u003cb\u003ePuppies for Adoption\u003c/b\u003e",
+   "link": "http://www.petwave.com/Dogs/Adoption.aspx",
+   "displayLink": "www.petwave.com",
+   "snippet": "Petwave's dogs for adoption and puppies for adoption has listings for hundreds   of dog breeds. Visit this page to see lists of dogs for adoption and puppies for ...",
+   "htmlSnippet": "Petwave&#39;s \u003cb\u003edogs for adoption\u003c/b\u003e and \u003cb\u003epuppies for adoption\u003c/b\u003e has listings for hundreds \u003cbr\u003e  of dog breeds. Visit this page to see lists of \u003cb\u003edogs for adoption\u003c/b\u003e and \u003cb\u003epuppies for\u003c/b\u003e \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "j2oWBTVhtVgJ",
+   "formattedUrl": "www.petwave.com/Dogs/Adoption.aspx",
+   "htmlFormattedUrl": "www.petwave.com/\u003cb\u003eDogs\u003c/b\u003e/\u003cb\u003eAdoption\u003c/b\u003e.aspx",
+   "pagemap": {
+    "metatags": [
+     {
+      "code_language": "C#"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "SPCA of Wake County: Adopt a Pet!",
+   "htmlTitle": "SPCA of Wake County: \u003cb\u003eAdopt\u003c/b\u003e a Pet!",
+   "link": "http://www.spcawake.org/adopt",
+   "displayLink": "www.spcawake.org",
+   "snippet": "View Dogs for Adoption · View Cats for Adoption · View Rabbits and Other Pets   for Adoption · View dogs and puppies waiting for adoption. View dogs and ...",
+   "htmlSnippet": "View \u003cb\u003eDogs for Adoption\u003c/b\u003e &middot; View Cats for Adoption &middot; View Rabbits and Other \u003cb\u003ePets\u003c/b\u003e \u003cbr\u003e  \u003cb\u003efor Adoption\u003c/b\u003e &middot; View dogs and puppies waiting for adoption. View dogs and \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "Qut7oMG0fE0J",
+   "formattedUrl": "www.spcawake.org/adopt",
+   "htmlFormattedUrl": "www.spcawake.org/\u003cb\u003eadopt\u003c/b\u003e",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.spcawake.org/images/content/pagebuilder/67304.jpg",
+      "type": "1",
+      "width": "168",
+      "height": "251"
+     }
+    ],
+    "metatags": [
+     {
+      "cnvheaderversion": "v5.0"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Animal Control - Featured pets for adoption",
+   "htmlTitle": "Animal Control - Featured \u003cb\u003epets for adoption\u003c/b\u003e",
+   "link": "http://www.cityofhenderson.com/animal_control/adoption_of_the_week.php",
+   "displayLink": "www.cityofhenderson.com",
+   "snippet": "Henderson Animal Shelter featured pets for adoption.",
+   "htmlSnippet": "Henderson Animal Shelter featured \u003cb\u003epets for adoption\u003c/b\u003e.",
+   "cacheId": "Z7Lr-2QkyI8J",
+   "formattedUrl": "www.cityofhenderson.com/animal.../adoption_of_the_week.php",
+   "htmlFormattedUrl": "www.cityofhenderson.com/animal.../\u003cb\u003eadoption\u003c/b\u003e_of_the_week.php",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.cityofhenderson.com/animal_control/images/651190.jpg",
+      "type": "1",
+      "width": "190",
+      "height": "265"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Miami-Dade County - Animal Services -",
+   "htmlTitle": "Miami-Dade County - Animal Services -",
+   "link": "http://www.miamidade.gov/animals/",
+   "displayLink": "www.miamidade.gov",
+   "snippet": "4 days ago ... Animals, animal services, adopt a pet, spay, neuter, rabies, dog tags, tags, lost   dog, pets, adopt, volunteer, donateg.",
+   "htmlSnippet": "4 days ago \u003cb\u003e...\u003c/b\u003e Animals, animal services, adopt a pet, spay, neuter, rabies, dog tags, tags, lost \u003cbr\u003e  dog, \u003cb\u003epets\u003c/b\u003e, \u003cb\u003eadopt\u003c/b\u003e, volunteer, donateg.",
+   "cacheId": "iOKcLiC0Y5YJ",
+   "formattedUrl": "www.miamidade.gov/animals/",
+   "htmlFormattedUrl": "www.miamidade.gov/animals/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.miamidade.gov/animals/images/skateboard-pet.gif",
+      "type": "1",
+      "width": "144",
+      "height": "152"
+     }
+    ],
+    "metatags": [
+     {
+      "author": "Miami-Dade County Online Services"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Dog Adoption",
+   "htmlTitle": "\u003cb\u003eDog Adoption\u003c/b\u003e",
+   "link": "http://www.littleshelter.com/dogs/dog-adoption",
+   "displayLink": "www.littleshelter.com",
+   "snippet": "Adopt a Dog, Make a Friend for Life! For more dog and sponsor information, click   on dog's picture. Girlie. Hound Mix. Female. Bear. Shepherd Mix. Male. Emilio ...",
+   "htmlSnippet": "\u003cb\u003eAdopt\u003c/b\u003e a \u003cb\u003eDog\u003c/b\u003e, Make a Friend for Life! For more \u003cb\u003edog\u003c/b\u003e and sponsor information, click \u003cbr\u003e  on \u003cb\u003edog&#39;s\u003c/b\u003e picture. Girlie. Hound Mix. Female. Bear. Shepherd Mix. Male. Emilio \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "Pfg9SUcuegYJ",
+   "formattedUrl": "www.littleshelter.com/dogs/dog-adoption",
+   "htmlFormattedUrl": "www.littleshelter.com/\u003cb\u003edogs\u003c/b\u003e/\u003cb\u003edog\u003c/b\u003e-\u003cb\u003eadoption\u003c/b\u003e",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.littleshelter.com/userfiles/image/dogs/bear_a.jpg",
+      "type": "1",
+      "width": "204",
+      "height": "240"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Augusta Dog Adoptions",
+   "htmlTitle": "Augusta \u003cb\u003eDog Adoptions\u003c/b\u003e",
+   "link": "http://www.augustadogadoptions.org/",
+   "displayLink": "www.augustadogadoptions.org",
+   "snippet": "Augusta Dog Adoptions (formerly Chains Hurt) was formed in 2006. We are an all   volunteer, 501c3 rescue group that takes in and adopts out dogs that are ...",
+   "htmlSnippet": "Augusta \u003cb\u003eDog Adoptions\u003c/b\u003e (formerly Chains Hurt) was formed in 2006. We are an all \u003cbr\u003e  volunteer, 501c3 rescue group that takes in and adopts out dogs that are \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "27U639cZkbMJ",
+   "formattedUrl": "www.augustadogadoptions.org/",
+   "htmlFormattedUrl": "www.augusta\u003cb\u003edogadoptions\u003c/b\u003e.org/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.augustadogadoptions.org/images/AmericanFlag.jpg",
+      "type": "1",
+      "width": "256",
+      "height": "197"
+     }
+    ]
+   }
+  }
+ ]
+}

@@ -1,0 +1,255 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "nextPage": [
+   {
+    "title": "Google Custom Search - yahoo",
+    "totalResults": "354000000",
+    "searchTerms": "yahoo",
+    "count": 10,
+    "startIndex": 81,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "017401104989814545383:mf4lavmtuva"
+   }
+  ],
+  "request": [
+   {
+    "title": "Google Custom Search - yahoo",
+    "totalResults": "354000000",
+    "searchTerms": "yahoo",
+    "count": 10,
+    "startIndex": 71,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "017401104989814545383:mf4lavmtuva"
+   }
+  ],
+  "previousPage": [
+   {
+    "title": "Google Custom Search - yahoo",
+    "totalResults": "354000000",
+    "searchTerms": "yahoo",
+    "count": 10,
+    "startIndex": 61,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "017401104989814545383:mf4lavmtuva"
+   }
+  ]
+ },
+ "context": {
+  "title": "College MetaSearch Comparison"
+ },
+ "searchInformation": {
+  "searchTime": 0.249941,
+  "formattedSearchTime": "0.25",
+  "totalResults": "354000000",
+  "formattedTotalResults": "354,000,000"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "Ad Interest Manager",
+   "htmlTitle": "Ad Interest Manager",
+   "link": "http://info.yahoo.com/privacy/us/yahoo/opt_out/targeting/",
+   "displayLink": "info.yahoo.com",
+   "snippet": "Yahoo! is an advertising supported website. Most of the products and services we   offer are largely free of charge to you because we display advertising.",
+   "htmlSnippet": "\u003cb\u003eYahoo\u003c/b\u003e! is an advertising supported website. Most of the products and services we \u003cbr\u003e  offer are largely free of charge to you because we display advertising.",
+   "cacheId": "strGcbxNLg0J",
+   "formattedUrl": "info.yahoo.com/privacy/us/yahoo/opt_out/targeting/",
+   "htmlFormattedUrl": "info.\u003cb\u003eyahoo\u003c/b\u003e.com/privacy/us/\u003cb\u003eyahoo\u003c/b\u003e/opt_out/targeting/"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Yahoo! Web Analytics",
+   "htmlTitle": "\u003cb\u003eYahoo\u003c/b\u003e! Web Analytics",
+   "link": "http://web.analytics.yahoo.com/",
+   "displayLink": "web.analytics.yahoo.com",
+   "snippet": "In an ever-changing world of online advertising and marketing, Yahoo! is always   looking to innovate faster with our core products and services, and offer the best ...",
+   "htmlSnippet": "In an ever-changing world of online advertising and marketing, \u003cb\u003eYahoo\u003c/b\u003e! is always \u003cbr\u003e  looking to innovate faster with our core products and services, and offer the best \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "yl-ltTuhLZYJ",
+   "formattedUrl": "web.analytics.yahoo.com/",
+   "htmlFormattedUrl": "web.analytics.\u003cb\u003eyahoo\u003c/b\u003e.com/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://l.yimg.com/a/i/us/ayc/ywa_main_image1.jpg",
+      "type": "1",
+      "width": "352",
+      "height": "143"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Yahoo! Sports Fantasy Football",
+   "htmlTitle": "\u003cb\u003eYahoo\u003c/b\u003e! Sports Fantasy Football",
+   "link": "http://football.fantasysports.yahoo.com/",
+   "displayLink": "football.fantasysports.yahoo.com",
+   "snippet": "Yahoo! Fantasy Football. Create or join a NFL league and manage your team   with FREE live scoring, stats, scouting reports, news, and expert advice.",
+   "htmlSnippet": "\u003cb\u003eYahoo\u003c/b\u003e! Fantasy Football. Create or join a NFL league and manage your team \u003cbr\u003e  with FREE live scoring, stats, scouting reports, news, and expert advice.",
+   "cacheId": "bQ1PojthG8EJ",
+   "formattedUrl": "football.fantasysports.yahoo.com/",
+   "htmlFormattedUrl": "football.fantasysports.\u003cb\u003eyahoo\u003c/b\u003e.com/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://l.yimg.com/a/i/us/sp/fn/vitality/2010/90x90/90x90_football10.jpg",
+      "type": "1",
+      "width": "78",
+      "height": "78"
+     }
+    ],
+    "metatags": [
+     {
+      "og:title": "Yahoo! Fantasy Football",
+      "og:type": "website",
+      "og:image": "http://l.yimg.com/a/i/us/sp/fn/vitality/2010/90x90/90x90_football10.jpg",
+      "og:url": "http://football.fantasysports.yahoo.com",
+      "og:site_name": "Yahoo! Fantasy Sports",
+      "fb:app_id": "123504704352981"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Sign in to Yahoo!",
+   "htmlTitle": "Sign in to \u003cb\u003eYahoo\u003c/b\u003e!",
+   "link": "http://uk.address.yahoo.com/",
+   "displayLink": "uk.address.yahoo.com",
+   "snippet": "Welcome to the new, more-personal-than-ever Yahoo!. Add whatever sites you   love to the new Yahoo! homepage. Connect, do, and share more with Yahoo!",
+   "htmlSnippet": "Welcome to the new, more-personal-than-ever \u003cb\u003eYahoo\u003c/b\u003e!. Add whatever sites you \u003cbr\u003e  love to the new \u003cb\u003eYahoo\u003c/b\u003e! homepage. Connect, do, and share more with \u003cb\u003eYahoo\u003c/b\u003e!",
+   "cacheId": "ThXF4QKGlloJ",
+   "formattedUrl": "uk.address.yahoo.com/",
+   "htmlFormattedUrl": "uk.address.\u003cb\u003eyahoo\u003c/b\u003e.com/"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Yahoo! | CrunchBase Profile",
+   "htmlTitle": "\u003cb\u003eYahoo\u003c/b\u003e! | CrunchBase Profile",
+   "link": "http://www.crunchbase.com/company/yahoo",
+   "displayLink": "www.crunchbase.com",
+   "snippet": "Yahoo was founded in 1994 by Stanford Ph.D. students David Filo and Jerry   Yang. It has since evolved into a.",
+   "htmlSnippet": "\u003cb\u003eYahoo\u003c/b\u003e was founded in 1994 by Stanford Ph.D. students David Filo and Jerry \u003cbr\u003e  Yang. It has since evolved into a.",
+   "cacheId": "JAnap_TheY8J",
+   "formattedUrl": "www.crunchbase.com/company/yahoo",
+   "htmlFormattedUrl": "www.crunchbase.com/company/\u003cb\u003eyahoo\u003c/b\u003e",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.crunchbase.com/assets/images/resized/0001/0836/10836v9-max-250x250.png",
+      "type": "1",
+      "width": "180",
+      "height": "64"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Best Practices for Speeding Up Your Web Site",
+   "htmlTitle": "Best Practices for Speeding Up Your Web Site",
+   "link": "http://developer.yahoo.com/performance/rules.html/",
+   "displayLink": "developer.yahoo.com",
+   "snippet": "The Exceptional Performance team has identified a number of best practices for   making web pages fast.",
+   "htmlSnippet": "The Exceptional Performance team has identified a number of best practices for \u003cbr\u003e  making web pages fast.",
+   "cacheId": "4bQ5wor-6S8J",
+   "formattedUrl": "developer.yahoo.com/performance/rules.html/",
+   "htmlFormattedUrl": "developer.\u003cb\u003eyahoo\u003c/b\u003e.com/performance/rules.html/"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "My Yahoo - What's New",
+   "htmlTitle": "My \u003cb\u003eYahoo\u003c/b\u003e - What&#39;s New",
+   "link": "http://my.yahoo.com/s/about/rss/index.html",
+   "displayLink": "my.yahoo.com",
+   "snippet": "Go to your page · Go to your page.",
+   "htmlSnippet": "Go to your page &middot; Go to your page.",
+   "cacheId": "L3Lq-nDJIfIJ",
+   "formattedUrl": "my.yahoo.com/s/about/rss/index.html",
+   "htmlFormattedUrl": "my.\u003cb\u003eyahoo\u003c/b\u003e.com/s/about/rss/index.html"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Yahoo! Connected TV: Movies, TV Shows, Internet On Demand",
+   "htmlTitle": "\u003cb\u003eYahoo\u003c/b\u003e! Connected TV: Movies, TV Shows, Internet On Demand",
+   "link": "http://connectedtv.yahoo.com/",
+   "displayLink": "connectedtv.yahoo.com",
+   "snippet": "Get the best of Yahoo!'s Internet services on your TV with Yahoo! Connected TV.",
+   "htmlSnippet": "Get the best of \u003cb\u003eYahoo\u003c/b\u003e!&#39;s Internet services on your TV with \u003cb\u003eYahoo\u003c/b\u003e! Connected TV.",
+   "cacheId": "wvUNc6ALASkJ",
+   "formattedUrl": "connectedtv.yahoo.com/",
+   "htmlFormattedUrl": "connectedtv.\u003cb\u003eyahoo\u003c/b\u003e.com/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://ctv.zenfs.com/ctv/home/store.png",
+      "type": "1",
+      "width": "224",
+      "height": "176"
+     }
+    ],
+    "metatags": [
+     {
+      "title": "Yahoo! Connected TV: Movies, TV Shows, Internet On Demand",
+      "language": "en"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Yahoo! Messenger for the iPhone",
+   "htmlTitle": "\u003cb\u003eYahoo\u003c/b\u003e! Messenger for the iPhone",
+   "link": "http://messenger.yahoo.com/iphone/",
+   "displayLink": "messenger.yahoo.com",
+   "snippet": "Yahoo! Messenger for the iPhone - Get this free app to IM with your Messenger   friends, send free SMS (text) messages, share photos and more.",
+   "htmlSnippet": "\u003cb\u003eYahoo\u003c/b\u003e! Messenger for the iPhone - Get this free app to IM with your Messenger \u003cbr\u003e  friends, send free SMS (text) messages, share photos and more.",
+   "cacheId": "M4rMUkL8wlQJ",
+   "formattedUrl": "messenger.yahoo.com/iphone/",
+   "htmlFormattedUrl": "messenger.\u003cb\u003eyahoo\u003c/b\u003e.com/iphone/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://l.yimg.com/a/i/us/msg/site/9/scr/iphone_plat_us_2.jpg",
+      "type": "1",
+      "width": "215",
+      "height": "234"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Yahoo! GeoCities: Get a web site with easy-to-use site building tools.",
+   "htmlTitle": "\u003cb\u003eYahoo\u003c/b\u003e! GeoCities: Get a web site with easy-to-use site building tools.",
+   "link": "http://geocities.yahoo.com/",
+   "displayLink": "geocities.yahoo.com",
+   "snippet": "Yahoo! GeoCities offers you a free web site and all the tools you need to build a   dynamic site. Features include easy-to-use site building tools, online help, web ...",
+   "htmlSnippet": "\u003cb\u003eYahoo\u003c/b\u003e! GeoCities offers you a free web site and all the tools you need to build a \u003cbr\u003e  dynamic site. Features include easy-to-use site building tools, online help, web \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "ryQfbbBaa9oJ",
+   "formattedUrl": "geocities.yahoo.com/",
+   "htmlFormattedUrl": "geocities.\u003cb\u003eyahoo\u003c/b\u003e.com/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://l.yimg.com/a/i/us/ysm/ysb/cn/hm/scrn.gif",
+      "type": "1",
+      "width": "84",
+      "height": "101"
+     }
+    ]
+   }
+  }
+ ]
+}

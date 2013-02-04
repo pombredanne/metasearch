@@ -1,0 +1,272 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "nextPage": [
+   {
+    "title": "Google Custom Search - poker tournaments",
+    "totalResults": "8820000",
+    "searchTerms": "poker tournaments",
+    "count": 10,
+    "startIndex": 11,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "017401104989814545383:mf4lavmtuva"
+   }
+  ],
+  "request": [
+   {
+    "title": "Google Custom Search - poker tournaments",
+    "totalResults": "8820000",
+    "searchTerms": "poker tournaments",
+    "count": 10,
+    "startIndex": 1,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "017401104989814545383:mf4lavmtuva"
+   }
+  ]
+ },
+ "context": {
+  "title": "College MetaSearch Comparison"
+ },
+ "searchInformation": {
+  "searchTime": 0.227943,
+  "formattedSearchTime": "0.23",
+  "totalResults": "8820000",
+  "formattedTotalResults": "8,820,000"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "Poker Tournaments - Schedules and Results",
+   "htmlTitle": "\u003cb\u003ePoker Tournaments\u003c/b\u003e - Schedules and Results",
+   "link": "http://www.cardplayer.com/poker-tournaments",
+   "displayLink": "www.cardplayer.com",
+   "snippet": "Poker tournament results and schedules for upcoming events, as well as chip   counts and updates for major events.",
+   "htmlSnippet": "\u003cb\u003ePoker tournament\u003c/b\u003e results and schedules for upcoming events, as well as chip \u003cbr\u003e  counts and updates for major events.",
+   "cacheId": "4QdFvgUdlDUJ",
+   "formattedUrl": "www.cardplayer.com/poker-tournaments",
+   "htmlFormattedUrl": "www.cardplayer.com/\u003cb\u003epoker\u003c/b\u003e-\u003cb\u003etournaments\u003c/b\u003e",
+   "pagemap": {
+    "metatags": [
+     {
+      "fb:app_id": "247478141482",
+      "fb:admins": "100000611985095",
+      "csrf-param": "authenticity_token",
+      "csrf-token": "X97wXGr5ORINPqjgIhXA0JxJfM+L238oz+dAYfUmK4g="
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Official World Series of Poker Online",
+   "htmlTitle": "Official World Series of \u003cb\u003ePoker\u003c/b\u003e Online",
+   "link": "http://www.wsop.com/",
+   "displayLink": "www.wsop.com",
+   "snippet": "Official website of the World Series of Poker Tournament. Featuring poker   tournament coverage of events, schedules and news. Play online poker games   like ...",
+   "htmlSnippet": "Official website of the World Series of \u003cb\u003ePoker Tournament\u003c/b\u003e. Featuring \u003cb\u003epoker\u003c/b\u003e \u003cbr\u003e  \u003cb\u003etournament\u003c/b\u003e coverage of events, schedules and news. Play online poker games \u003cbr\u003e  like \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "T7q1CfbZcPwJ",
+   "formattedUrl": "www.wsop.com/",
+   "htmlFormattedUrl": "www.wsop.com/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.wsop.com/images/imagestore/flashlarge/_EDM6491.JPG",
+      "type": "1",
+      "width": "275",
+      "height": "183"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Poker Tournaments - Compare All the Best Online Poker ...",
+   "htmlTitle": "\u003cb\u003ePoker Tournaments\u003c/b\u003e - Compare All the Best Online Poker \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://www.pokerlistings.com/poker-tournaments",
+   "displayLink": "www.pokerlistings.com",
+   "snippet": "PokerListings.com Ranks All the Best Online Poker Tournaments. Search All   Poker Rooms for Easy-to-win Games, Best Sit'n'Gos, Player Volume, Prize Pool ...",
+   "htmlSnippet": "PokerListings.com Ranks All the Best Online \u003cb\u003ePoker Tournaments\u003c/b\u003e. Search All \u003cbr\u003e  Poker Rooms for Easy-to-win Games, Best Sit&#39;n&#39;Gos, Player Volume, Prize Pool \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "bx_zgUzUMmkJ",
+   "formattedUrl": "www.pokerlistings.com/poker-tournaments",
+   "htmlFormattedUrl": "www.\u003cb\u003epoker\u003c/b\u003elistings.com/\u003cb\u003epoker\u003c/b\u003e-\u003cb\u003etournaments\u003c/b\u003e"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "WPT | World Poker Tour Home",
+   "htmlTitle": "WPT | World \u003cb\u003ePoker\u003c/b\u003e Tour Home",
+   "link": "http://www.worldpokertour.com/",
+   "displayLink": "www.worldpokertour.com",
+   "snippet": "Find show and tournament information. Watch clips ... WPT Live Tournament   Updates ... 5-Aug, Seminole Hard Rock Poker Showdown - Part 1, Coming Soon  …",
+   "htmlSnippet": "Find show and \u003cb\u003etournament\u003c/b\u003e information. Watch clips \u003cb\u003e...\u003c/b\u003e WPT Live \u003cb\u003eTournament\u003c/b\u003e \u003cbr\u003e  Updates \u003cb\u003e...\u003c/b\u003e 5-Aug, Seminole Hard Rock \u003cb\u003ePoker\u003c/b\u003e Showdown - Part 1, Coming Soon\u003cbr\u003e  …",
+   "cacheId": "NjGERrVM5rEJ",
+   "formattedUrl": "www.worldpokertour.com/",
+   "htmlFormattedUrl": "www.world\u003cb\u003epoker\u003c/b\u003etour.com/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.worldpokertour.com/~/media/7D5782466C4A41849262AEB15CC3CE8A.ashx",
+      "type": "1",
+      "width": "74",
+      "height": "74"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Complete Casino Poker Tournaments and Poker Room Schedules ...",
+   "htmlTitle": "Complete Casino \u003cb\u003ePoker Tournaments\u003c/b\u003e and \u003cb\u003ePoker Room\u003c/b\u003e Schedules \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://www.pokerpages.com/tournament/",
+   "displayLink": "www.pokerpages.com",
+   "snippet": "Mar 14, 2012 ... Search our Database for the most complete source of Poker Tournament and   Poker Rooms Listings and Results.",
+   "htmlSnippet": "Mar 14, 2012 \u003cb\u003e...\u003c/b\u003e Search our Database for the most complete source of \u003cb\u003ePoker Tournament\u003c/b\u003e and \u003cbr\u003e  Poker Rooms Listings and Results.",
+   "cacheId": "RqE8PLyE3r0J",
+   "formattedUrl": "www.pokerpages.com/tournament/",
+   "htmlFormattedUrl": "www.\u003cb\u003epoker\u003c/b\u003epages.com/\u003cb\u003etournament\u003c/b\u003e/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.pokerpages.com/images/pokerindustryindex.jpg",
+      "type": "1",
+      "width": "120",
+      "height": "72"
+     }
+    ],
+    "metatags": [
+     {
+      "rating": "general",
+      "copyright": "All content on PokerPages.com is copyright PokerPages.com"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Poker tournament - Wikipedia, the free encyclopedia",
+   "htmlTitle": "\u003cb\u003ePoker tournament\u003c/b\u003e - Wikipedia, the free encyclopedia",
+   "link": "http://en.wikipedia.org/wiki/Poker_tournament",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "A poker tournament is a tournament where players compete by playing poker. It   can feature as few as two players playing on a single table (called a \"heads-up\" ...",
+   "htmlSnippet": "A \u003cb\u003epoker tournament\u003c/b\u003e is a tournament where players compete by playing poker. It \u003cbr\u003e  can feature as few as two players playing on a single table (called a &quot;heads-up&quot; \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "Vr6Iw_fDkJkJ",
+   "formattedUrl": "en.wikipedia.org/wiki/Poker_tournament",
+   "htmlFormattedUrl": "en.wikipedia.org/wiki/\u003cb\u003ePoker\u003c/b\u003e_\u003cb\u003etournament\u003c/b\u003e",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://upload.wikimedia.org/wikipedia/commons/thumb/8/83/2006_WSOP_Main_Event_Table.jpg/200px-2006_WSOP_Main_Event_Table.jpg",
+      "type": "1",
+      "width": "160",
+      "height": "240"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Poker tournaments",
+   "htmlTitle": "\u003cb\u003ePoker tournaments\u003c/b\u003e",
+   "link": "https://poker.bwin.com/poker.aspx?view=tournaments",
+   "displayLink": "poker.bwin.com",
+   "snippet": "At bwin, you can play in a poker tournament at any time of the day. Whenever you   want. With daily free poker tournaments and a $10 million guaranteed prize ...",
+   "htmlSnippet": "At bwin, you can play in a \u003cb\u003epoker tournament\u003c/b\u003e at any time of the day. Whenever you \u003cbr\u003e  want. With daily free \u003cb\u003epoker tournaments\u003c/b\u003e and a $10 million guaranteed prize \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "5hwTW2ll4tMJ",
+   "formattedUrl": "https://poker.bwin.com/poker.aspx?view=tournaments",
+   "htmlFormattedUrl": "https://\u003cb\u003epoker\u003c/b\u003e.bwin.com/\u003cb\u003epoker\u003c/b\u003e.aspx?view=\u003cb\u003etournaments\u003c/b\u003e",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "https://media.itsfogo.com/media/upload/bwin_cal_en.jpg",
+      "type": "1",
+      "width": "145",
+      "height": "164"
+     }
+    ],
+    "metatags": [
+     {
+      "vs_targetschema": "http://schemas.microsoft.com/intellisense/ie5"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Las Vegas Poker Tournaments, Daily Tournament Schedule and ...",
+   "htmlTitle": "Las Vegas \u003cb\u003ePoker Tournaments\u003c/b\u003e, Daily Tournament Schedule and \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://www.allvegaspoker.com/tournaments.php",
+   "displayLink": "www.allvegaspoker.com",
+   "snippet": "For information about poker tournaments in other areas such as Atlantic City, Los   Angeles, Tunica, Florida, or elsewhere in the United States or Canada, please ...",
+   "htmlSnippet": "For information about \u003cb\u003epoker tournaments\u003c/b\u003e in other areas such as Atlantic City, Los \u003cbr\u003e  Angeles, Tunica, Florida, or elsewhere in the United States or Canada, please \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "81cAVUihBXAJ",
+   "formattedUrl": "www.allvegaspoker.com/tournaments.php",
+   "htmlFormattedUrl": "www.allvegas\u003cb\u003epoker\u003c/b\u003e.com/\u003cb\u003etournaments\u003c/b\u003e.php",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.allvegaspoker.com/images/logo.png",
+      "type": "1",
+      "width": "204",
+      "height": "58"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "All Day Poker - Tournaments and Internet Poker Rooms",
+   "htmlTitle": "All Day \u003cb\u003ePoker\u003c/b\u003e - \u003cb\u003eTournaments\u003c/b\u003e and Internet Poker Rooms",
+   "link": "http://www.alldaypoker.com/",
+   "displayLink": "www.alldaypoker.com",
+   "snippet": "Know about most online poker tournaments and benefit from exclusive deposit   bonues and promotional offers from the leading online poker rooms.",
+   "htmlSnippet": "Know about most online \u003cb\u003epoker tournaments\u003c/b\u003e and benefit from exclusive deposit \u003cbr\u003e  bonues and promotional offers from the leading online poker rooms.",
+   "cacheId": "DeRzXF-ws0MJ",
+   "formattedUrl": "www.alldaypoker.com/",
+   "htmlFormattedUrl": "www.allday\u003cb\u003epoker\u003c/b\u003e.com/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.alldaypoker.com/pok_starz01.gif",
+      "type": "1",
+      "width": "130",
+      "height": "70"
+     }
+    ],
+    "metatags": [
+     {
+      "rating": "General"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Welcome to Poker Tournaments",
+   "htmlTitle": "Welcome to \u003cb\u003ePoker Tournaments\u003c/b\u003e",
+   "link": "http://www.poker-tournaments.com/",
+   "displayLink": "www.poker-tournaments.com",
+   "snippet": "We, at Poker-Tournaments.Com, are here to try and provide you with the best   poker information, the up to date news of the poker world and tips on how to   better ...",
+   "htmlSnippet": "We, at \u003cb\u003ePoker\u003c/b\u003e-\u003cb\u003eTournaments\u003c/b\u003e.Com, are here to try and provide you with the best \u003cbr\u003e  poker information, the up to date news of the poker world and tips on how to \u003cbr\u003e  better \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "J1iE5A3adGoJ",
+   "formattedUrl": "www.poker-tournaments.com/",
+   "htmlFormattedUrl": "www.\u003cb\u003epoker\u003c/b\u003e-\u003cb\u003etournaments\u003c/b\u003e.com/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.poker-tournaments.com/Images/RioLasVegas.jpg",
+      "type": "1",
+      "width": "160",
+      "height": "160"
+     }
+    ]
+   }
+  }
+ ]
+}

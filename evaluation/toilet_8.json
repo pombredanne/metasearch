@@ -1,0 +1,361 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "nextPage": [
+   {
+    "title": "Google Custom Search - toilet",
+    "totalResults": "27000000",
+    "searchTerms": "toilet",
+    "count": 10,
+    "startIndex": 91,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "017401104989814545383:mf4lavmtuva"
+   }
+  ],
+  "request": [
+   {
+    "title": "Google Custom Search - toilet",
+    "totalResults": "27000000",
+    "searchTerms": "toilet",
+    "count": 10,
+    "startIndex": 81,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "017401104989814545383:mf4lavmtuva"
+   }
+  ],
+  "previousPage": [
+   {
+    "title": "Google Custom Search - toilet",
+    "totalResults": "27000000",
+    "searchTerms": "toilet",
+    "count": 10,
+    "startIndex": 71,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "017401104989814545383:mf4lavmtuva"
+   }
+  ]
+ },
+ "context": {
+  "title": "College MetaSearch Comparison"
+ },
+ "searchInformation": {
+  "searchTime": 0.245248,
+  "formattedSearchTime": "0.25",
+  "totalResults": "27000000",
+  "formattedTotalResults": "27,000,000"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "Toilet is No. 1 cause for losing your smartphone contacts ...",
+   "htmlTitle": "\u003cb\u003eToilet\u003c/b\u003e is No. 1 cause for losing your smartphone contacts \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://www.technolog.msnbc.msn.com/technology/technolog/toilet-no-1-cause-losing-your-smartphone-contacts-121993",
+   "displayLink": "www.technolog.msnbc.msn.com",
+   "snippet": "People have to stop bringing phones into the bathroom, because a recent survey   says that's the No.1 way precious contact lists are lost. One...",
+   "htmlSnippet": "People have to stop bringing phones into the bathroom, because a recent survey \u003cbr\u003e  says that&#39;s the No.1 way precious contact lists are lost. One...",
+   "cacheId": "l4gIw8BjYp8J",
+   "formattedUrl": "www.technolog.msnbc.msn.com/.../toilet-no-1-cause-losing-your-smartphone -contacts-121993",
+   "htmlFormattedUrl": "www.technolog.msnbc.msn.com/.../\u003cb\u003etoilet\u003c/b\u003e-no-1-cause-losing-your-smartphone -contacts-121993",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://msnbcmedia3.msn.com/j/streams\\2012/February/120220\\59222-athima-chansanchai0D8B5CAA-5E33-97D0-EC28-A362DF234B8C.streams_desktop_tease.jpg"
+     }
+    ],
+    "metatags": [
+     {
+      "author": "Athima Chansanchai",
+      "fb:app_id": "10150138890205613",
+      "og:site_name": "Technolog",
+      "og:description": "People have to stop bringing phones into the bathroom, because a recent survey says that's the No.1 way precious contact lists are lost. One...",
+      "og:title": "Toilet is No. 1 cause for losing your smartphone contacts",
+      "og:url": "http://www.technolog.msnbc.msn.com/technology/technolog/toilet-no-1-cause-losing-your-smartphone-contacts-121993",
+      "og:type": "article",
+      "og:image": "http://msnbcmedia3.msn.com/j/streams\\2012/February/120220\\59222-athima-chansanchai0D8B5CAA-5E33-97D0-EC28-A362DF234B8C.streams_desktop_tease.jpg"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "The Toilet Master Jack",
+   "htmlTitle": "The \u003cb\u003eToilet\u003c/b\u003e Master Jack",
+   "link": "http://www.thetoiletmaster.com/",
+   "displayLink": "www.thetoiletmaster.com",
+   "snippet": "Remove your toilet and replace wax seal or install new flooring in minutes. Every   problem encountered with lifting and removing a toilet is solved...easy and ...",
+   "htmlSnippet": "Remove your \u003cb\u003etoilet\u003c/b\u003e and replace wax seal or install new flooring in minutes. Every \u003cbr\u003e  problem encountered with lifting and removing a \u003cb\u003etoilet\u003c/b\u003e is solved...easy and \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "RnYSysJaQC4J",
+   "formattedUrl": "www.thetoiletmaster.com/",
+   "htmlFormattedUrl": "www.the\u003cb\u003etoilet\u003c/b\u003emaster.com/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.thetoiletmaster.com/images/drain/auger%20151-7.jpg",
+      "type": "1",
+      "width": "176",
+      "height": "132"
+     }
+    ],
+    "metatags": [
+     {
+      "msvalidate.01": "D1594BAC6D10476E9A3B5AE97E2D791B"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Toilet Prank - YouTube",
+   "htmlTitle": "\u003cb\u003eToilet\u003c/b\u003e Prank - YouTube",
+   "link": "http://www.youtube.com/watch?v=1Cm1r3d2Qw4",
+   "displayLink": "www.youtube.com",
+   "snippet": "Aug 17, 2007 ... Imagine, your on a mobile toilet and when you get out.... you are in a office   meeting ! Great toilet prank.",
+   "htmlSnippet": "Aug 17, 2007 \u003cb\u003e...\u003c/b\u003e Imagine, your on a mobile \u003cb\u003etoilet\u003c/b\u003e and when you get out.... you are in a office \u003cbr\u003e  meeting ! Great \u003cb\u003etoilet\u003c/b\u003e prank.",
+   "cacheId": "2IK0FADUZUMJ",
+   "formattedUrl": "www.youtube.com/watch?v=1Cm1r3d2Qw4",
+   "htmlFormattedUrl": "www.youtube.com/watch?v=1Cm1r3d2Qw4",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://i2.ytimg.com/vi/1Cm1r3d2Qw4/mqdefault.jpg",
+      "type": "1",
+      "width": "256",
+      "height": "144"
+     }
+    ],
+    "videoobject": [
+     {
+      "url": "http://www.youtube.com/watch?v=1Cm1r3d2Qw4",
+      "name": "Toilet Prank",
+      "description": "Imagine, your on a mobile toilet and when you get out.... you are in a office meeting ! Great toilet prank",
+      "duration": "PT1M21S",
+      "unlisted": "False",
+      "paid": "False",
+      "thumbnailurl": "http://i2.ytimg.com/vi/1Cm1r3d2Qw4/hqdefault.jpg",
+      "embedurl": "http://www.youtube.com/v/1Cm1r3d2Qw4?version=3&autohide=1",
+      "playertype": "Flash",
+      "width": "480",
+      "height": "360"
+     }
+    ],
+    "person": [
+     {
+      "url": "http://www.youtube.com/user/kladblog"
+     }
+    ],
+    "metatags": [
+     {
+      "title": "Toilet Prank",
+      "og:url": "http://www.youtube.com/watch?v=1Cm1r3d2Qw4",
+      "og:title": "Toilet Prank",
+      "og:description": "Imagine, your on a mobile toilet and when you get out.... you are in a office meeting ! Great toilet prank",
+      "og:type": "video",
+      "og:image": "http://i2.ytimg.com/vi/1Cm1r3d2Qw4/mqdefault.jpg",
+      "og:video": "http://www.youtube.com/v/1Cm1r3d2Qw4?version=3&autohide=1",
+      "og:video:type": "application/x-shockwave-flash",
+      "og:video:width": "480",
+      "og:video:height": "360",
+      "og:site_name": "YouTube",
+      "fb:app_id": "87741124305",
+      "twitter:player:width": "480",
+      "twitter:player:height": "360",
+      "attribution": "youtube_none/"
+     }
+    ],
+    "imageobject": [
+     {
+      "url": "http://i2.ytimg.com/vi/1Cm1r3d2Qw4/mqdefault.jpg",
+      "width": "320",
+      "height": "180"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Unusual Museums of the Internet - Toilet seat museum",
+   "htmlTitle": "Unusual Museums of the Internet - \u003cb\u003eToilet\u003c/b\u003e seat museum",
+   "link": "http://www.unusualmuseums.org/toilet/",
+   "displayLink": "www.unusualmuseums.org",
+   "snippet": "Barney Smith's collection of toilet seats. Includes photos.",
+   "htmlSnippet": "Barney Smith&#39;s collection of \u003cb\u003etoilet\u003c/b\u003e seats. Includes photos.",
+   "cacheId": "7QWEQFMq870J",
+   "formattedUrl": "www.unusualmuseums.org/toilet/",
+   "htmlFormattedUrl": "www.unusualmuseums.org/\u003cb\u003etoilet\u003c/b\u003e/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.unusualmuseums.org/toilet/toilet3.jpg",
+      "type": "1",
+      "width": "273",
+      "height": "185"
+     }
+    ],
+    "metatags": [
+     {
+      "rating": "General"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Toilet Bowl Cleaning Gel | Scrubbing Bubbles®",
+   "htmlTitle": "\u003cb\u003eToilet\u003c/b\u003e Bowl Cleaning Gel | Scrubbing Bubbles®",
+   "link": "http://www.scrubbingbubbles.com/Products/Pages/toilet-cleaning-gel.aspx",
+   "displayLink": "www.scrubbingbubbles.com",
+   "snippet": "Toilet Cleaning Gel takes care of the tough work for you by preventing the build-  up of lime scale and toilet rings.",
+   "htmlSnippet": "\u003cb\u003eToilet\u003c/b\u003e Cleaning Gel takes care of the tough work for you by preventing the build-\u003cbr\u003e  up of lime scale and \u003cb\u003etoilet\u003c/b\u003e rings.",
+   "cacheId": "zjqjZp51blMJ",
+   "formattedUrl": "www.scrubbingbubbles.com/Products/Pages/toilet-cleaning-gel.aspx",
+   "htmlFormattedUrl": "www.scrubbingbubbles.com/Products/Pages/\u003cb\u003etoilet\u003c/b\u003e-cleaning-gel.aspx",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.scrubbingbubbles.com/SiteCollectionImages/products/full/full_toilet_cleaning_gel.jpg",
+      "type": "1",
+      "width": "317",
+      "height": "159"
+     }
+    ],
+    "metatags": [
+     {
+      "webpartpageexpansion": "full",
+      "msvalidate.01": "D3FC6E7D023AD0FDBD8902667EBBF67A"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Water, Sanitation & Hygiene | Bill & Melinda Gates Foundation",
+   "htmlTitle": "Water, Sanitation &amp; Hygiene | Bill &amp; Melinda Gates Foundation",
+   "link": "http://www.gatesfoundation.org/watersanitationhygiene/pages/home.aspx",
+   "displayLink": "www.gatesfoundation.org",
+   "snippet": "Reinventing the ToiletWorking with partners to expand affordable access to   sanitation. ... About 2.6 billion people use unsafe toilets or defecate in the open.",
+   "htmlSnippet": "Reinventing the \u003cb\u003eToilet\u003c/b\u003eWorking with partners to expand affordable access to \u003cbr\u003e  sanitation. \u003cb\u003e...\u003c/b\u003e About 2.6 billion people use unsafe \u003cb\u003etoilets\u003c/b\u003e or defecate in the open.",
+   "cacheId": "HAZDr6m2eXIJ",
+   "formattedUrl": "www.gatesfoundation.org/watersanitationhygiene/pages/home.aspx",
+   "htmlFormattedUrl": "www.gatesfoundation.org/watersanitationhygiene/pages/home.aspx",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.gatesfoundation.org/watersanitationhygiene/wshfeature/rotator.jpg",
+      "type": "1",
+      "width": "275",
+      "height": "183"
+     }
+    ],
+    "metatags": [
+     {
+      "msvalidate.01": "6717073BA4E74938BFCAED81DFE769C0",
+      "y_key": "50a7c8e59a49c017"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Sterling Plumbing: Toilets: Toilets & Bathroom Sinks",
+   "htmlTitle": "Sterling Plumbing: \u003cb\u003eToilets\u003c/b\u003e: \u003cb\u003eToilets\u003c/b\u003e &amp; Bathroom Sinks",
+   "link": "http://www.sterlingplumbing.com/toilets-and-bathroom-sinks/toilets/",
+   "displayLink": "www.sterlingplumbing.com",
+   "snippet": "The Sterling Plumbing web site is the source for toilets, sanitary, water   conservation, powerful flush, performance and dual flush.",
+   "htmlSnippet": "The Sterling Plumbing web site is the source for \u003cb\u003etoilets\u003c/b\u003e, sanitary, water \u003cbr\u003e  conservation, powerful flush, performance and dual flush.",
+   "cacheId": "HtaoV9o00nIJ",
+   "formattedUrl": "www.sterlingplumbing.com/toilets-and-bathroom-sinks/toilets/",
+   "htmlFormattedUrl": "www.sterlingplumbing.com/\u003cb\u003etoilets\u003c/b\u003e-and-bathroom-sinks/\u003cb\u003etoilets\u003c/b\u003e/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.sterlingplumbing.com/common/images/img-onlineLandingBrowse-powerfulConservation.jpg",
+      "type": "1",
+      "width": "104",
+      "height": "83"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Adjustable Advantage Toilet Seat",
+   "htmlTitle": "Adjustable Advantage \u003cb\u003eToilet\u003c/b\u003e Seat",
+   "link": "http://www.adjustableadvantage.com/",
+   "displayLink": "www.adjustableadvantage.com",
+   "snippet": "The Adjustable Advantage Toilet Seat is the worlds first and only patented toilet   seat capable of adjusting to a person's natural sitting position to provide greater ...",
+   "htmlSnippet": "The Adjustable Advantage \u003cb\u003eToilet\u003c/b\u003e Seat is the worlds first and only patented \u003cb\u003etoilet\u003c/b\u003e \u003cbr\u003e  seat capable of adjusting to a person&#39;s natural sitting position to provide greater \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "ic5K5ixXVqwJ",
+   "formattedUrl": "www.adjustableadvantage.com/",
+   "htmlFormattedUrl": "www.adjustableadvantage.com/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.adjustableadvantage.com/uploads/advantage-toilet-seat_435.png",
+      "type": "1",
+      "width": "278",
+      "height": "181"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Amazon.com: Black Toilets & Bidets",
+   "htmlTitle": "Amazon.com: Black \u003cb\u003eToilets\u003c/b\u003e &amp; Bidets",
+   "link": "http://www.amazon.com/s?ie=UTF8&rh=n%3A680355011%2Cp_n_material_two_browse-bin%3A542671011&page=1",
+   "displayLink": "www.amazon.com",
+   "snippet": "Results 1 - 24 of 642 ... Online shopping for Black Toilets & Bidets from a great selection of Kitchen &   Bath Fixtures; & more at everyday low prices.",
+   "htmlSnippet": "Results 1 - 24 of 642 \u003cb\u003e...\u003c/b\u003e Online shopping for Black \u003cb\u003eToilets\u003c/b\u003e &amp; Bidets from a great selection of Kitchen &amp; \u003cbr\u003e  Bath Fixtures; &amp; more at everyday low prices.",
+   "cacheId": "X3i1gp4wqJ4J",
+   "formattedUrl": "www.amazon.com/s?ie=UTF8&rh...n_material_two...1",
+   "htmlFormattedUrl": "www.amazon.com/s?ie=UTF8&amp;rh...n_material_two...1",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://ecx.images-amazon.com/images/I/41XJcppMdnL._SL160_AA160_.jpg",
+      "type": "1",
+      "width": "128",
+      "height": "128"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Envirolet Waterless Self-Contained Composting Toilet Systems",
+   "htmlTitle": "Envirolet Waterless Self-Contained Composting \u003cb\u003eToilet\u003c/b\u003e Systems",
+   "link": "http://www.envirolet.com/enwatsel.html",
+   "displayLink": "www.envirolet.com",
+   "snippet": "Envirolet® Waterless Self-Contained Systems are \"all-in-one\" units install right on   your bathroom floor. Ideal for ground level or basement installations. Simplicity ...",
+   "htmlSnippet": "Envirolet® Waterless Self-Contained Systems are &quot;all-in-one&quot; units install right on \u003cbr\u003e  your bathroom floor. Ideal for ground level or basement installations. Simplicity \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "QdQkBi7SCGIJ",
+   "formattedUrl": "www.envirolet.com/enwatsel.html",
+   "htmlFormattedUrl": "www.envirolet.com/enwatsel.html",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://lib.store.yahoo.net/lib/sancor/ms10-300-2.jpg",
+      "type": "1",
+      "width": "225",
+      "height": "225"
+     }
+    ],
+    "metatags": [
+     {
+      "copyright": "This site and all images and text on it are copyright 1997-2012, Sancor Industries Ltd.  All rights reserved."
+     }
+    ]
+   }
+  }
+ ]
+}

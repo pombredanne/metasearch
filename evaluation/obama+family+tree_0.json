@@ -1,0 +1,411 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "nextPage": [
+   {
+    "title": "Google Custom Search - obama family tree",
+    "totalResults": "17300000",
+    "searchTerms": "obama family tree",
+    "count": 10,
+    "startIndex": 11,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "017401104989814545383:mf4lavmtuva"
+   }
+  ],
+  "request": [
+   {
+    "title": "Google Custom Search - obama family tree",
+    "totalResults": "17300000",
+    "searchTerms": "obama family tree",
+    "count": 10,
+    "startIndex": 1,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "017401104989814545383:mf4lavmtuva"
+   }
+  ]
+ },
+ "context": {
+  "title": "College MetaSearch Comparison"
+ },
+ "searchInformation": {
+  "searchTime": 0.193254,
+  "formattedSearchTime": "0.19",
+  "totalResults": "17300000",
+  "formattedTotalResults": "17,300,000"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "Barack Obama's Family Tree - Photo Essays - TIME",
+   "htmlTitle": "Barack \u003cb\u003eObama&#39;s Family Tree\u003c/b\u003e - Photo Essays - TIME",
+   "link": "http://www.time.com/time/photogallery/0,29307,1834628,00.html",
+   "displayLink": "www.time.com",
+   "snippet": "With roots in Kansas, Kenya and beyond, the President is a one-man melting pot.",
+   "htmlSnippet": "With roots in Kansas, Kenya and beyond, the President is a one-man melting pot.",
+   "cacheId": "yERWLvim3XUJ",
+   "formattedUrl": "www.time.com/time/photogallery/0,29307,1834628,00.html",
+   "htmlFormattedUrl": "www.time.com/time/photogallery/0,29307,1834628,00.html",
+   "pagemap": {
+    "metatags": [
+     {
+      "path": "/time/photogallery/0,29307,1834628,00.html",
+      "fb:admins": "1124331582,512158401,808970553,100000018008769",
+      "fb:app_id": "53177223193",
+      "og:site_name": "TIME.com",
+      "og:title": "Barack Obama's Family Tree - Photo Essays",
+      "og:type": "article",
+      "og:url": "http://www.time.com/time/photogallery/0,29307,1834628,00.html"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Family of Barack Obama - Wikipedia, the free encyclopedia",
+   "htmlTitle": "\u003cb\u003eFamily\u003c/b\u003e of Barack \u003cb\u003eObama\u003c/b\u003e - Wikipedia, the free encyclopedia",
+   "link": "http://en.wikipedia.org/wiki/Family_of_Barack_Obama",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "... F · G · H · I · J · K · L · M · N · O · P · Q · R · S · T · U · V · W · X · Y · Z · Relationship   tree ... The family of Barack Obama, the 44th President of the United States of ...",
+   "htmlSnippet": "\u003cb\u003e...\u003c/b\u003e F · G · H · I · J · K · L · M · N · O · P · Q · R · S · T · U · V · W · X · Y · Z · Relationship \u003cbr\u003e  \u003cb\u003etree\u003c/b\u003e \u003cb\u003e...\u003c/b\u003e The \u003cb\u003efamily\u003c/b\u003e of Barack \u003cb\u003eObama\u003c/b\u003e, the 44th President of the United States of \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "cZaZah_ObEcJ",
+   "formattedUrl": "en.wikipedia.org/wiki/Family_of_Barack_Obama",
+   "htmlFormattedUrl": "en.wikipedia.org/wiki/\u003cb\u003eFamily\u003c/b\u003e_of_Barack_\u003cb\u003eObama\u003c/b\u003e",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Barack_Obama_family_portrait_2011.jpg/300px-Barack_Obama_family_portrait_2011.jpg",
+      "type": "1",
+      "width": "240",
+      "height": "160"
+     }
+    ],
+    "hcard": [
+     {
+      "fn": "Barack Obama"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Ancestry of Barack Obama - Family Tree and Genealogy of Senator ...",
+   "htmlTitle": "Ancestry of Barack \u003cb\u003eObama\u003c/b\u003e - \u003cb\u003eFamily Tree\u003c/b\u003e and Genealogy of Senator \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://genealogy.about.com/od/aframertrees/p/barack_obama.htm",
+   "displayLink": "genealogy.about.com",
+   "snippet": "Learn about the deep African and American roots of Barack Obama, US Senator   and presidential candidate. His African roots stretch back for generations in ...",
+   "htmlSnippet": "Learn about the deep African and American roots of Barack \u003cb\u003eObama\u003c/b\u003e, US Senator \u003cbr\u003e  and presidential candidate. His African roots stretch back for generations in \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "Cdunq4MMITEJ",
+   "formattedUrl": "genealogy.about.com/od/aframertrees/p/barack_obama.htm",
+   "htmlFormattedUrl": "genealogy.about.com/od/aframer\u003cb\u003etree\u003c/b\u003es/p/barack_\u003cb\u003eobama\u003c/b\u003e.htm",
+   "pagemap": {
+    "metatags": [
+     {
+      "pd": "Monday, 09-Apr-2012 21:29:45 UTC",
+      "og:title": "Ancestry of Barack Obama",
+      "og:type": "article",
+      "og:url": "http://genealogy.about.com/od/aframertrees/p/barack_obama.htm",
+      "og:site_name": "About.com Genealogy",
+      "fb:app_id": "121030274606741"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Obama' s family tree expanded to include the Bushes and the Pitts",
+   "htmlTitle": "\u003cb\u003eObama\u003c/b\u003e&#39; s \u003cb\u003efamily tree\u003c/b\u003e expanded to include the Bushes and the Pitts",
+   "link": "http://www.guardian.co.uk/world/2008/mar/26/barackobama.hillaryclinton",
+   "displayLink": "www.guardian.co.uk",
+   "snippet": "Mar 26, 2008 ... More bad news for Barack Obama as study reveals he is related to George Bush.",
+   "htmlSnippet": "Mar 26, 2008 \u003cb\u003e...\u003c/b\u003e More bad news for Barack \u003cb\u003eObama\u003c/b\u003e as study reveals he is related to George Bush.",
+   "cacheId": "jtHZvHfBc7IJ",
+   "formattedUrl": "www.guardian.co.uk/world/2008/mar/.../barackobama.hillaryclinton",
+   "htmlFormattedUrl": "www.guardian.co.uk/world/2008/mar/.../barack\u003cb\u003eobama\u003c/b\u003e.hillaryclinton",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "https://static-secure.guim.co.uk/sys-images/Guardian/Pix/pictures/2011/8/8/1312810126887/gu_192x115.jpg"
+     }
+    ],
+    "article": [
+     {
+      "name": "Obama's family tree expanded to include the Bushes and the Pitts"
+     }
+    ],
+    "Breadcrumb": [
+     {
+      "title": "News",
+      "url": "News"
+     },
+     {
+      "title": "World news",
+      "url": "World news"
+     },
+     {
+      "title": "Barack Obama",
+      "url": "Barack Obama"
+     }
+    ],
+    "metatags": [
+     {
+      "dc.date.issued": "2008-03-26",
+      "og:title": "Obama's family tree expanded to include the Bushes and the Pitts",
+      "og:type": "article",
+      "article:published_time": "2008-03-26T00:35:52Z",
+      "article:modified_time": "2008-03-26T00:35:48Z",
+      "article:author": "http://www.guardian.co.uk/profile/ewenmacaskill",
+      "article:tag": "Barack Obama",
+      "article:section": "World news",
+      "og:url": "http://www.guardian.co.uk/world/2008/mar/26/barackobama.hillaryclinton",
+      "og:image": "https://static-secure.guim.co.uk/sys-images/Guardian/Pix/pictures/2011/8/8/1312810126887/gu_192x115.jpg",
+      "og:site_name": "the Guardian",
+      "og:description": "More bad news for Barack Obama as study reveals he is related to George Bush",
+      "fb:app_id": "180444840287"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "The Family Tree of Michelle Obama, the First Lady - Interactive ...",
+   "htmlTitle": "The \u003cb\u003eFamily Tree\u003c/b\u003e of Michelle \u003cb\u003eObama\u003c/b\u003e, the First Lady - Interactive \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://www.nytimes.com/interactive/2009/10/08/us/politics/20091008-obama-family-tree.html",
+   "displayLink": "www.nytimes.com",
+   "snippet": "Oct 7, 2009 ... New revelations have emerged recently from the research of Megan Smolenyak,   a genealogist, and from reporting by Jodi Kantor and Rachel ...",
+   "htmlSnippet": "Oct 7, 2009 \u003cb\u003e...\u003c/b\u003e New revelations have emerged recently from the research of Megan Smolenyak, \u003cbr\u003e  a genealogist, and from reporting by Jodi Kantor and Rachel \u003cb\u003e...\u003c/b\u003e",
+   "formattedUrl": "www.nytimes.com/interactive/2009/.../20091008-obama-family-tree.html",
+   "htmlFormattedUrl": "www.nytimes.com/interactive/2009/.../20091008-\u003cb\u003eobama\u003c/b\u003e-\u003cb\u003efamily\u003c/b\u003e-\u003cb\u003etree\u003c/b\u003e.html",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://graphics8.nytimes.com//images/2009/10/07/us/politics/doc.190.jpg",
+      "type": "1",
+      "width": "152",
+      "height": "100"
+     }
+    ],
+    "metatags": [
+     {
+      "hdl": "The Family Tree of Michelle Obama, the First Lady",
+      "lp": "New revelations have emerged recently from the research of Megan Smolenyak, a genealogist, and from reporting by Jodi Kantor and Rachel L. Swarns of The New York Times.",
+      "dat": "October 7, 2009",
+      "displaydate": "October 7, 2009",
+      "pdate": "20091007",
+      "dsk": "U.S. / Politics",
+      "cre": "By GABRIEL DANCE and ELISABETH GOODRIDGE",
+      "tom": "interactive_feature",
+      "display-text": "Interactive Graphic",
+      "display-name": "interactive",
+      "url_thumb": "/images/2009/10/04/us/politics/tree.90.jpg",
+      "url_thumb_wide": "/images/2009/10/04/us/politics/tree.190.jpg",
+      "des": "Biographical Information",
+      "cg": "us",
+      "scg": "politics",
+      "pt": "Multimedia",
+      "pst": "Interactive",
+      "media_template_version": "200"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Barack Obama's Irish Family Tree",
+   "htmlTitle": "Barack \u003cb\u003eObama&#39;s\u003c/b\u003e Irish \u003cb\u003eFamily Tree\u003c/b\u003e",
+   "link": "http://www.origins.net/Obama.htm",
+   "displayLink": "www.origins.net",
+   "snippet": "Through extensive research, Eneclann has taken the Kearney family tree back to   Obama's 6th great-grandfather, Joseph Kearney born ca. 1698. We also traced ...",
+   "htmlSnippet": "Through extensive research, Eneclann has taken the Kearney \u003cb\u003efamily tree\u003c/b\u003e back to \u003cbr\u003e  \u003cb\u003eObama&#39;s\u003c/b\u003e 6th great-grandfather, Joseph Kearney born ca. 1698. We also traced \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "vendgPG9MgEJ",
+   "formattedUrl": "www.origins.net/Obama.htm",
+   "htmlFormattedUrl": "www.origins.net/\u003cb\u003eObama\u003c/b\u003e.htm",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.origins.net/html-email/images/treethumb2.gif",
+      "type": "1",
+      "width": "379",
+      "height": "133"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Obama Family Tree - YouTube",
+   "htmlTitle": "\u003cb\u003eObama Family Tree\u003c/b\u003e - YouTube",
+   "link": "http://www.youtube.com/watch?v=VqXPigvB954",
+   "displayLink": "www.youtube.com",
+   "snippet": "Sep 21, 2008 ... Obama's relatives and family tree. ... Barack Obama Family Treeby   Obama2008Videos14200 views · OBAMA = OSAMA - 100% proof 3:14 ...",
+   "htmlSnippet": "Sep 21, 2008 \u003cb\u003e...\u003c/b\u003e Obama&#39;s relatives and family tree. \u003cb\u003e...\u003c/b\u003e Barack \u003cb\u003eObama Family Tree\u003c/b\u003eby \u003cbr\u003e  Obama2008Videos14200 views &middot; OBAMA = OSAMA - 100% proof 3:14 \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "3fiwyGUeVMgJ",
+   "formattedUrl": "www.youtube.com/watch?v=VqXPigvB954",
+   "htmlFormattedUrl": "www.youtube.com/watch?v=VqXPigvB954",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://i3.ytimg.com/vi/VqXPigvB954/mqdefault.jpg",
+      "type": "1",
+      "width": "256",
+      "height": "144"
+     }
+    ],
+    "videoobject": [
+     {
+      "url": "http://www.youtube.com/watch?v=VqXPigvB954",
+      "name": "Obama Family Tree",
+      "description": "Obama's relatives and family tree.",
+      "duration": "PT2M32S",
+      "unlisted": "False",
+      "paid": "False",
+      "thumbnailurl": "http://i3.ytimg.com/vi/VqXPigvB954/hqdefault.jpg",
+      "embedurl": "http://www.youtube.com/v/VqXPigvB954?version=3&autohide=1",
+      "playertype": "Flash",
+      "width": "480",
+      "height": "360"
+     }
+    ],
+    "person": [
+     {
+      "url": "http://www.youtube.com/user/saluki420"
+     }
+    ],
+    "metatags": [
+     {
+      "title": "Obama Family Tree",
+      "og:url": "http://www.youtube.com/watch?v=VqXPigvB954",
+      "og:title": "Obama Family Tree",
+      "og:description": "Obama's relatives and family tree.",
+      "og:type": "video",
+      "og:image": "http://i3.ytimg.com/vi/VqXPigvB954/mqdefault.jpg",
+      "og:video": "http://www.youtube.com/v/VqXPigvB954?version=3&autohide=1",
+      "og:video:type": "application/x-shockwave-flash",
+      "og:video:width": "480",
+      "og:video:height": "360",
+      "og:site_name": "YouTube",
+      "fb:app_id": "87741124305",
+      "twitter:player:width": "480",
+      "twitter:player:height": "360",
+      "attribution": "youtube_none/"
+     }
+    ],
+    "imageobject": [
+     {
+      "url": "http://i3.ytimg.com/vi/VqXPigvB954/mqdefault.jpg",
+      "width": "320",
+      "height": "180"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "The polygamists in Obama and Romney's family trees",
+   "htmlTitle": "The polygamists in \u003cb\u003eObama\u003c/b\u003e and Romney&#39;s \u003cb\u003efamily\u003c/b\u003e trees",
+   "link": "http://www.washingtonpost.com/opinions/obama-and-romney-both-come-from-a-ancestry-of-polygamy/2012/04/12/gIQA3TI8CT_story.html",
+   "displayLink": "www.washingtonpost.com",
+   "snippet": "Apr 12, 2012 ... For a biographer, the emerging matchup in the presidential campaign between   Barack Hussein Obama and Willard Mitt Romney is about as ...",
+   "htmlSnippet": "Apr 12, 2012 \u003cb\u003e...\u003c/b\u003e For a biographer, the emerging matchup in the presidential campaign between \u003cbr\u003e  Barack Hussein \u003cb\u003eObama\u003c/b\u003e and Willard Mitt Romney is about as \u003cb\u003e...\u003c/b\u003e",
+   "formattedUrl": "www.washingtonpost.com/.../obama-and...a.../gIQA3TI8CT_story.html",
+   "htmlFormattedUrl": "www.washingtonpost.com/.../\u003cb\u003eobama\u003c/b\u003e-and...a.../gIQA3TI8CT_story.html",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.washingtonpost.com/rf/image_90w/2010-2019/WashingtonPost/2012/04/12/Web-Resampled/2012-04-12/romney_obama_410--90x60.jpg"
+     }
+    ],
+    "metatags": [
+     {
+      "eomportal-instanceid": "52",
+      "eomportal-id": "410145",
+      "eomportal-loid": "1000.4.270538961",
+      "eomportal-uuid": "b17813c8-8339-11e1-b088-8660630b7284",
+      "eomportal-lastupdate": "Sat Jul 21 02:50:05 EDT 2012",
+      "dc.title": "The polygamists in Obama and Romney’s family trees",
+      "dc.date.issued": "2012-04-15",
+      "dc.creator": "David Maraniss",
+      "content-language": "en-US",
+      "resource-type": "document",
+      "fb:app_id": "41245586762",
+      "og:title": "The polygamists in Obama and Romney’s family trees",
+      "og:type": "article",
+      "og:url": "http://www.washingtonpost.com/opinions/obama-and-romney-both-come-from-a-ancestry-of-polygamy/2012/04/12/gIQA3TI8CT_story.html",
+      "og:image": "http://www.washingtonpost.com/rf/image_90w/2010-2019/WashingtonPost/2012/04/12/Web-Resampled/2012-04-12/romney_obama_410--90x60.jpg",
+      "og:site_name": "Washington Post",
+      "og:description": "Similarities in Obama and Romney’s roots.",
+      "fb:admins": "1517346030,527377623,775397496,1607455980"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Gates of Vienna: Obama's Family Tree",
+   "htmlTitle": "Gates of Vienna: \u003cb\u003eObama&#39;s Family Tree\u003c/b\u003e",
+   "link": "http://gatesofvienna.blogspot.com/2011/09/obamas-family-tree.html",
+   "displayLink": "gatesofvienna.blogspot.com",
+   "snippet": "Sep 2, 2011 ... Obama's Family Tree. President Obama's uncle was recently arrested on a drunk   driving charge. There was a brief mention about the incident ...",
+   "htmlSnippet": "Sep 2, 2011 \u003cb\u003e...\u003c/b\u003e \u003cb\u003eObama&#39;s Family Tree\u003c/b\u003e. President Obama&#39;s uncle was recently arrested on a drunk \u003cbr\u003e  driving charge. There was a brief mention about the incident \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "_7PtnPA7J3UJ",
+   "formattedUrl": "gatesofvienna.blogspot.com/2011/09/obamas-family-tree.html",
+   "htmlFormattedUrl": "gatesofvienna.blogspot.com/2011/09/\u003cb\u003eobamas\u003c/b\u003e-\u003cb\u003efamily\u003c/b\u003e-\u003cb\u003etree\u003c/b\u003e.html",
+   "pagemap": {
+    "metatags": [
+     {
+      "viewport": "width=1100"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Michelle Obama' s family tree has roots in a Carolina slave plantation",
+   "htmlTitle": "Michelle \u003cb\u003eObama\u003c/b\u003e&#39; s \u003cb\u003efamily tree\u003c/b\u003e has roots in a Carolina slave plantation",
+   "link": "http://www.chicagotribune.com/news/local/chi-obama-slavery-01-dec01,0,485324.story",
+   "displayLink": "www.chicagotribune.com",
+   "snippet": "Dec 1, 2008 ... GEORGETOWN, S.C.—Tiny wooden cabins line the dirt road once known as   Slave Street as it winds its way through Friendfield Plantation.",
+   "htmlSnippet": "Dec 1, 2008 \u003cb\u003e...\u003c/b\u003e GEORGETOWN, S.C.—Tiny wooden cabins line the dirt road once known as \u003cbr\u003e  Slave Street as it winds its way through Friendfield Plantation.",
+   "cacheId": "SVJ-RUn0z5oJ",
+   "formattedUrl": "www.chicagotribune.com/.../chi-obama-slavery-01-dec01,0,485324.story",
+   "htmlFormattedUrl": "www.chicagotribune.com/.../chi-\u003cb\u003eobama\u003c/b\u003e-slavery-01-dec01,0,485324.story",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.chicagotribune.com/media/thumbnails/photogallery/2009-11/43608100-20093145.jpg",
+      "type": "1",
+      "width": "149",
+      "height": "84"
+     }
+    ],
+    "metatags": [
+     {
+      "date": "2008-12-01",
+      "last-modified": "2008-12-01 07:03:59 CST",
+      "author": "Chicago Tribune",
+      "copyright": "Copyright (c) 2008 Chicago Tribune",
+      "fb_title": "Michelle Obama's family tree has roots in a Carolina slave plantation",
+      "og:title": "Michelle Obama's family tree has roots in a Carolina slave plantation",
+      "og:description": "GEORGETOWN, S.C.&#8212;Tiny wooden cabins line the dirt road once known as Slave Street as it winds its way through Friendfield Plantation.",
+      "fb:app_id": "306836229411287",
+      "og:type": "article",
+      "og:url": "http://www.chicagotribune.com/news/local/chi-obama-slavery-01-dec01,0,485324.story",
+      "og:image": "http://www.chicagotribune.com/images/fb_share_default.gif",
+      "og:site_name": "chicagotribune.com",
+      "y_key": "43959a87935ee9bb",
+      "msvalidate.01": "AAC9C18F70AC386BC4DCF4DDF9BF1786",
+      "syndication-source": "http://www.chicagotribune.com/news/local/chi-obama-slavery-01-dec01,0,485324.story",
+      "pm:template": "nobyline"
+     }
+    ]
+   }
+  }
+ ]
+}

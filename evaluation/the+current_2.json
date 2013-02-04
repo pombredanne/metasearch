@@ -1,0 +1,357 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "nextPage": [
+   {
+    "title": "Google Custom Search - the current",
+    "totalResults": "1650000000",
+    "searchTerms": "the current",
+    "count": 10,
+    "startIndex": 31,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "017401104989814545383:mf4lavmtuva"
+   }
+  ],
+  "request": [
+   {
+    "title": "Google Custom Search - the current",
+    "totalResults": "1650000000",
+    "searchTerms": "the current",
+    "count": 10,
+    "startIndex": 21,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "017401104989814545383:mf4lavmtuva"
+   }
+  ],
+  "previousPage": [
+   {
+    "title": "Google Custom Search - the current",
+    "totalResults": "1650000000",
+    "searchTerms": "the current",
+    "count": 10,
+    "startIndex": 11,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "017401104989814545383:mf4lavmtuva"
+   }
+  ]
+ },
+ "context": {
+  "title": "College MetaSearch Comparison"
+ },
+ "searchInformation": {
+  "searchTime": 0.179216,
+  "formattedSearchTime": "0.18",
+  "totalResults": "1650000000",
+  "formattedTotalResults": "1,650,000,000"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "The Local Show | The Current from Minnesota Public Radio",
+   "htmlTitle": "The Local Show | \u003cb\u003eThe Current\u003c/b\u003e from Minnesota Public Radio",
+   "link": "http://minnesota.publicradio.org/radio/programs/local_show/",
+   "displayLink": "minnesota.publicradio.org",
+   "snippet": "Join The Current's David Campbell as he explores the Twin Cities local music   scene, both past and present.",
+   "htmlSnippet": "Join \u003cb\u003eThe Current&#39;s\u003c/b\u003e David Campbell as he explores the Twin Cities local music \u003cbr\u003e  scene, both past and present.",
+   "cacheId": "TUv5SsRUxf0J",
+   "formattedUrl": "minnesota.publicradio.org/radio/programs/local_show/",
+   "htmlFormattedUrl": "minnesota.publicradio.org/radio/programs/local_show/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://minnesota.publicradio.org/radio/programs/local_show/images/hdr_photo.jpg",
+      "type": "1",
+      "width": "96",
+      "height": "72"
+     }
+    ],
+    "metatags": [
+     {
+      "author": "Minnesota Public Radio",
+      "mpr-site": "the-current",
+      "wt.cg_n": "Current Schedules and Programs",
+      "og:site_name": "The Current from Minnesota Public Radio"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "The Current",
+   "htmlTitle": "\u003cb\u003eThe Current\u003c/b\u003e",
+   "link": "http://www.takepart.com/news/blogs/current",
+   "displayLink": "www.takepart.com",
+   "snippet": "",
+   "htmlSnippet": "",
+   "formattedUrl": "www.takepart.com/news/blogs/current",
+   "htmlFormattedUrl": "www.takepart.com/news/blogs/\u003cb\u003ecurrent\u003c/b\u003e"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Barb Abney | People | Minnesota Public Radio",
+   "htmlTitle": "Barb Abney | People | Minnesota Public Radio",
+   "link": "http://minnesota.publicradio.org/about/people/mpr_people_display.php?aut_id=30137",
+   "displayLink": "minnesota.publicradio.org",
+   "snippet": "Barb Abney can be heard weekdays 10 a.m.-2 p.m. on The Current. ... Abney   came to The Current in 2006 from Cincinnati's WOXY.com, one of the premiere ...",
+   "htmlSnippet": "Barb Abney can be heard weekdays 10 a.m.-2 p.m. on \u003cb\u003eThe Current\u003c/b\u003e. \u003cb\u003e...\u003c/b\u003e Abney \u003cbr\u003e  came to \u003cb\u003eThe Current\u003c/b\u003e in 2006 from Cincinnati&#39;s WOXY.com, one of the premiere \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "m92fTUtLg34J",
+   "formattedUrl": "minnesota.publicradio.org/about/.../mpr_people_display.php?aut_id...",
+   "htmlFormattedUrl": "minnesota.publicradio.org/about/.../mpr_people_display.php?aut_id...",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://images.publicradio.org/content/2007/11/27/20071127_barbabney_2.jpg",
+      "type": "1",
+      "width": "240",
+      "height": "180"
+     }
+    ],
+    "metatags": [
+     {
+      "author": "Minnesota Public Radio",
+      "mpr-site": "mpr",
+      "mpr-subsite": "People",
+      "og:image": "http://minnesota.publicradio.org/standard/images/mpr006/fb-opengraph/mpr.gif",
+      "og:site_name": "Minnesota Public Radio",
+      "og:type": "non_profit"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Current.org | For people in public media",
+   "htmlTitle": "\u003cb\u003eCurrent\u003c/b\u003e.org | For people in public media",
+   "link": "http://www.current.org/",
+   "displayLink": "www.current.org",
+   "snippet": "The web service of \"Current\", the biweekly newspaper about Public Television   and Public Radio in the United States.",
+   "htmlSnippet": "The web service of &quot;\u003cb\u003eCurrent\u003c/b\u003e&quot;, the biweekly newspaper about Public Television \u003cbr\u003e  and Public Radio in the United States.",
+   "cacheId": "ZNzyy4HarPEJ",
+   "formattedUrl": "www.current.org/",
+   "htmlFormattedUrl": "www.\u003cb\u003ecurrent\u003c/b\u003e.org/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.current.org/audience/aud1213arnold-crossoverchart.jpg",
+      "type": "1",
+      "width": "276",
+      "height": "183"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Live Performance Archive | The Current from Minnesota Public Radio",
+   "htmlTitle": "Live Performance Archive | \u003cb\u003eThe Current\u003c/b\u003e from Minnesota Public Radio",
+   "link": "http://minnesota.publicradio.org/collections/special/ongoing/current_performances/",
+   "displayLink": "minnesota.publicradio.org",
+   "snippet": "The married folk duo Shovels & Rope brought their act to The Current studios to   play a few songs and talk with Bill Deville about finding their kick drum in the ...",
+   "htmlSnippet": "The married folk duo Shovels &amp; Rope brought their act to \u003cb\u003eThe Current\u003c/b\u003e studios to \u003cbr\u003e  play a few songs and talk with Bill Deville about finding their kick drum in the \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "bR6HqAc4iPgJ",
+   "formattedUrl": "minnesota.publicradio.org/collections/special/.../current_performances/",
+   "htmlFormattedUrl": "minnesota.publicradio.org/collections/special/.../\u003cb\u003ecurrent\u003c/b\u003e_performances/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://images.publicradio.org/content/2012/07/18/20120718_shovels-and-rope_1.jpg",
+      "type": "1",
+      "width": "96",
+      "height": "72"
+     }
+    ],
+    "metatags": [
+     {
+      "author": "Minnesota Public Radio",
+      "mpr-site": "the-current",
+      "wt.cg_n": "Current Archives",
+      "og:site_name": "The Current from Minnesota Public Radio"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Current - The Criterion Collection",
+   "htmlTitle": "\u003cb\u003eCurrent\u003c/b\u003e - The Criterion Collection",
+   "link": "http://www.criterion.com/current",
+   "displayLink": "www.criterion.com",
+   "snippet": "Films/; Explore/; Current/; Shop · Thumbnail_throne_feature_current · What's   Happening on Hulu · Thumbnail_days_feature_current. Did You See This?",
+   "htmlSnippet": "Films/; Explore/; \u003cb\u003eCurrent\u003c/b\u003e/; Shop &middot; Thumbnail_throne_feature_current &middot; What&#39;s \u003cbr\u003e  Happening on Hulu &middot; Thumbnail_days_feature_current. Did You See This?",
+   "cacheId": "0K5809kaciIJ",
+   "formattedUrl": "www.criterion.com/current",
+   "htmlFormattedUrl": "www.criterion.com/\u003cb\u003ecurrent\u003c/b\u003e",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.criterion.com/images/cc-logo.jpg",
+      "type": "1",
+      "width": "200",
+      "height": "200"
+     }
+    ],
+    "metatags": [
+     {
+      "y_key": "8523162f29232e98",
+      "csrf-param": "authenticity_token",
+      "csrf-token": "B+ynNduuYqYiqL9X4234Be9qazmazzoOtjx9CERyqyU=",
+      "fb:app_id": "121335962047",
+      "fb:admins": "801630,502024",
+      "og:image": "http://www.criterion.com/images/cc-logo.jpg",
+      "og:site_name": "The Criterion Collection"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Radio | MPR",
+   "htmlTitle": "Radio | MPR",
+   "link": "http://minnesota.publicradio.org/radio/",
+   "displayLink": "minnesota.publicradio.org",
+   "snippet": "Minnesota Public Radio is now broadcasting all three of our services—News,   Classical and The Current—on HD Radio in several communities throughout the ...",
+   "htmlSnippet": "Minnesota Public Radio is now broadcasting all three of our services—News, \u003cbr\u003e  Classical and \u003cb\u003eThe Current\u003c/b\u003e—on HD Radio in several communities throughout the \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "iCoLn4BrgHQJ",
+   "formattedUrl": "minnesota.publicradio.org/radio/",
+   "htmlFormattedUrl": "minnesota.publicradio.org/radio/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://minnesota.publicradio.org/radio/stations/images/map.gif",
+      "type": "1",
+      "width": "252",
+      "height": "200"
+     }
+    ],
+    "metatags": [
+     {
+      "author": "Minnesota Public Radio",
+      "mpr-site": "mpr",
+      "mpr-subsite": "Stations",
+      "og:image": "http://minnesota.publicradio.org/standard/images/mpr006/fb-opengraph/mpr.gif",
+      "og:site_name": "Minnesota Public Radio",
+      "og:type": "non_profit"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Homepage - Newburyport, MA - The Newburyport Current",
+   "htmlTitle": "Homepage - Newburyport, MA - The Newburyport \u003cb\u003eCurrent\u003c/b\u003e",
+   "link": "http://www.wickedlocal.com/newburyport",
+   "displayLink": "www.wickedlocal.com",
+   "snippet": "3 days ago ... The print edition of the Newburyport Current hits newsstands and boxes every   Friday. Here are some of the things you'll find exclusively in the ...",
+   "htmlSnippet": "3 days ago \u003cb\u003e...\u003c/b\u003e The print edition of the Newburyport \u003cb\u003eCurrent\u003c/b\u003e hits newsstands and boxes every \u003cbr\u003e  Friday. Here are some of the things you&#39;ll find exclusively in the \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "0tdKzcGVGvEJ",
+   "formattedUrl": "www.wickedlocal.com/newburyport",
+   "htmlFormattedUrl": "www.wickedlocal.com/newburyport",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://d2om8tvz4lgco4.cloudfront.net/archive/x319048529/g1831830000000000009e390787de3ba6c59a579a15e954baf7304bc18e.jpg",
+      "type": "1",
+      "width": "309",
+      "height": "156"
+     }
+    ],
+    "metatags": [
+     {
+      "copyright": "Copyright 2006-2012 GateHouse Media, Inc. Some Rights Reserved.",
+      "y_key": "56086d66069e9bf6",
+      "msvalidate.01": "7E15F9269E2CE66F2A488ABB04B5015E",
+      "objecttype": "Document",
+      "rating": "General",
+      "author": "GateHouse Media, Inc.",
+      "distribution": "Global",
+      "viewport": "width=device-width, user-scalable=yes"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "The National perform in The Current studios | The Current from ...",
+   "htmlTitle": "The National perform in \u003cb\u003eThe Current\u003c/b\u003e studios | \u003cb\u003eThe Current\u003c/b\u003e from \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://minnesota.publicradio.org/display/web/2010/08/09/the_national/",
+   "displayLink": "minnesota.publicradio.org",
+   "snippet": "Aug 9, 2010 ... Brooklyn-via-Ohio quintet The National have been peddling their slow-burning,   epically emotional brand of indie-rock to growing acclaim for ...",
+   "htmlSnippet": "Aug 9, 2010 \u003cb\u003e...\u003c/b\u003e Brooklyn-via-Ohio quintet The National have been peddling their slow-burning, \u003cbr\u003e  epically emotional brand of indie-rock to growing acclaim for \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "3KwNzSs7BRsJ",
+   "formattedUrl": "minnesota.publicradio.org/display/web/2010/08/09/the_national/",
+   "htmlFormattedUrl": "minnesota.publicradio.org/display/web/2010/08/09/the_national/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://images.publicradio.org/content/2010/08/09/20100809_the_national_45.jpg",
+      "type": "1",
+      "width": "260",
+      "height": "194"
+     }
+    ],
+    "metatags": [
+     {
+      "title": "The National perform in The Current studios",
+      "date": "2010-08-09",
+      "author": "Minnesota Public Radio",
+      "fb:admins": "517623060",
+      "og:title": "The National perform in The Current studios",
+      "og:site_name": "The Current from Minnesota Public Radio",
+      "og:image": "http://images.publicradio.org/content/2010/08/09/20100809_the_national_45.jpg",
+      "mpr-site": "the-current",
+      "wt.z_mpr-site": "the-current",
+      "mpr-collection": "Arts & Culture",
+      "wt.cg_n": "Current Arts & Culture",
+      "mpr-media": "audio"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Current Situation | Flu.gov",
+   "htmlTitle": "\u003cb\u003eCurrent\u003c/b\u003e Situation | Flu.gov",
+   "link": "http://www.flu.gov/pandemic/current-situation/index.html",
+   "displayLink": "www.flu.gov",
+   "snippet": "Learn about what the current flu situation is at Flu.gov.",
+   "htmlSnippet": "Learn about what \u003cb\u003ethe current\u003c/b\u003e flu situation is at Flu.gov.",
+   "cacheId": "beVwKoibZuwJ",
+   "formattedUrl": "www.flu.gov/pandemic/current-situation/index.html",
+   "htmlFormattedUrl": "www.flu.gov/pandemic/\u003cb\u003ecurrent\u003c/b\u003e-situation/index.html",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.flu.gov/images/us_flu_map.jpg",
+      "type": "1",
+      "width": "257",
+      "height": "196"
+     }
+    ],
+    "metatags": [
+     {
+      "msvalidate.01": "222AE62F3180AD2A5D3963DC5AB0CF5E",
+      "y_key": "0c2b0700e857471b",
+      "perc_linkback": "FmRhYGxjYngHbXgBYGJneAZkZ2ZkeBNkYWBsY2Y=",
+      "dc.title": "Current Situation",
+      "dc.creator": "ASPA",
+      "dc.publisher": "U.S. Department of Health and Human Services",
+      "dc.language": "en-us",
+      "dc.date.created": "2011-12-22 00:00:00.0",
+      "dcs.dcssip": "www.flu.gov",
+      "contentid": "145967"
+     }
+    ]
+   }
+  }
+ ]
+}

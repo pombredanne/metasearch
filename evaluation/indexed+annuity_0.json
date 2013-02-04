@@ -1,0 +1,259 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "nextPage": [
+   {
+    "title": "Google Custom Search - indexed annuity",
+    "totalResults": "82400",
+    "searchTerms": "indexed annuity",
+    "count": 10,
+    "startIndex": 11,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "017401104989814545383:mf4lavmtuva"
+   }
+  ],
+  "request": [
+   {
+    "title": "Google Custom Search - indexed annuity",
+    "totalResults": "82400",
+    "searchTerms": "indexed annuity",
+    "count": 10,
+    "startIndex": 1,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "017401104989814545383:mf4lavmtuva"
+   }
+  ]
+ },
+ "context": {
+  "title": "College MetaSearch Comparison"
+ },
+ "searchInformation": {
+  "searchTime": 0.162845,
+  "formattedSearchTime": "0.16",
+  "totalResults": "82400",
+  "formattedTotalResults": "82,400"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "Indexed Annuity Definition | Investopedia",
+   "htmlTitle": "\u003cb\u003eIndexed Annuity\u003c/b\u003e Definition | Investopedia",
+   "link": "http://www.investopedia.com/terms/i/indexedannuity.asp",
+   "displayLink": "www.investopedia.com",
+   "snippet": "A special class of annuities that yields returns on your contributions based on a   specified equity-based index. These annuities can be purchased from.",
+   "htmlSnippet": "A special class of \u003cb\u003eannuities\u003c/b\u003e that yields returns on your contributions based on a \u003cbr\u003e  specified equity-based \u003cb\u003eindex\u003c/b\u003e. These \u003cb\u003eannuities\u003c/b\u003e can be purchased from.",
+   "cacheId": "Ao6Tlg5w4mMJ",
+   "formattedUrl": "www.investopedia.com/terms/i/indexedannuity.asp",
+   "htmlFormattedUrl": "www.investopedia.com/terms/i/\u003cb\u003eindexedannuity\u003c/b\u003e.asp",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://i.investopedia.com/facebook/investopedia-facebook-image.gif"
+     }
+    ],
+    "metatags": [
+     {
+      "appversion": "2.0",
+      "og:url": "http://www.investopedia.com/terms/i/indexedannuity.asp",
+      "og:site_name": "Investopedia",
+      "og:type": "article",
+      "og:title": "Indexed Annuity Definition | Investopedia",
+      "og:image": "http://i.investopedia.com/facebook/investopedia-facebook-image.gif",
+      "category": "Personal Finance/Retirement/",
+      "publish-date": "Sun, 15 Feb 2009 00:00:00 GMT"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "FINRA - Investor Alert - Equity-Indexed Annuities—A Complex Choice",
+   "htmlTitle": "FINRA - Investor Alert - Equity-\u003cb\u003eIndexed Annuities\u003c/b\u003e—A Complex Choice",
+   "link": "http://www.finra.org/investors/protectyourself/investoralerts/annuitiesandinsurance/p010614",
+   "displayLink": "www.finra.org",
+   "snippet": "Sep 13, 2010 ... Sales of equity-indexed annuities (EIAs) have grown considerably in recent years  . Although one insurance company includes the word.",
+   "htmlSnippet": "Sep 13, 2010 \u003cb\u003e...\u003c/b\u003e Sales of equity-\u003cb\u003eindexed annuities\u003c/b\u003e (EIAs) have grown considerably in recent years\u003cbr\u003e  . Although one insurance company includes the word.",
+   "cacheId": "-7BERAvLP2IJ",
+   "formattedUrl": "www.finra.org/investors/.../annuitiesandinsurance/p010614",
+   "htmlFormattedUrl": "www.finra.org/investors/.../\u003cb\u003eannuities\u003c/b\u003eandinsurance/p010614"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Equity-indexed annuity - Wikipedia, the free encyclopedia",
+   "htmlTitle": "Equity-\u003cb\u003eindexed annuity\u003c/b\u003e - Wikipedia, the free encyclopedia",
+   "link": "http://en.wikipedia.org/wiki/Equity-indexed_annuity",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "From Wikipedia, the free encyclopedia. Jump to: navigation, search. An indexed   annuity (the word equity previously tied to indexed annuities has been removed ...",
+   "htmlSnippet": "From Wikipedia, the free encyclopedia. Jump to: navigation, search. An \u003cb\u003eindexed\u003c/b\u003e \u003cbr\u003e  \u003cb\u003eannuity\u003c/b\u003e (the word equity previously tied to \u003cb\u003eindexed annuities\u003c/b\u003e has been removed \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "6r7ryrc6ujoJ",
+   "formattedUrl": "en.wikipedia.org/wiki/Equity-indexed_annuity",
+   "htmlFormattedUrl": "en.wikipedia.org/wiki/Equity-\u003cb\u003eindexed\u003c/b\u003e_\u003cb\u003eannuity\u003c/b\u003e"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Equity-Indexed Annuities Explained",
+   "htmlTitle": "Equity-\u003cb\u003eIndexed Annuities\u003c/b\u003e Explained",
+   "link": "http://www.annuityadvantage.com/equityindexed.htm",
+   "displayLink": "www.annuityadvantage.com",
+   "snippet": "An equity-indexed annuity is an annuity that earns interest that is linked to a stock   or other equity index. One of the most commonly used indices is the Standard ...",
+   "htmlSnippet": "An equity-\u003cb\u003eindexed annuity\u003c/b\u003e is an annuity that earns interest that is linked to a stock \u003cbr\u003e  or other equity index. One of the most commonly used indices is the Standard \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "0xNwJx7gjqsJ",
+   "formattedUrl": "www.annuityadvantage.com/equityindexed.htm",
+   "htmlFormattedUrl": "www.\u003cb\u003eannuity\u003c/b\u003eadvantage.com/equity\u003cb\u003eindexed\u003c/b\u003e.htm",
+   "pagemap": {
+    "metatags": [
+     {
+      "progid": "FrontPage.Editor.Document",
+      "microsoft theme": "corporate2 000, default",
+      "microsoft border": "tlb"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Indexed annuity - Wikipedia, the free encyclopedia",
+   "htmlTitle": "\u003cb\u003eIndexed annuity\u003c/b\u003e - Wikipedia, the free encyclopedia",
+   "link": "http://en.wikipedia.org/wiki/Indexed_annuity",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "Indexed annuities are a type of fixed annuity which are regulated and distributed   in the same manner as fixed annuities. Indexed annuities are a moderately ...",
+   "htmlSnippet": "\u003cb\u003eIndexed annuities\u003c/b\u003e are a type of fixed annuity which are regulated and distributed \u003cbr\u003e  in the same manner as fixed annuities. \u003cb\u003eIndexed annuities\u003c/b\u003e are a moderately \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "TIF_WDACenkJ",
+   "formattedUrl": "en.wikipedia.org/wiki/Indexed_annuity",
+   "htmlFormattedUrl": "en.wikipedia.org/wiki/\u003cb\u003eIndexed\u003c/b\u003e_\u003cb\u003eannuity\u003c/b\u003e"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Ask the Expert: Equity-Indexed annuity - Buyer beware - Jan. 30, 2009",
+   "htmlTitle": "Ask the Expert: Equity-\u003cb\u003eIndexed annuity\u003c/b\u003e - Buyer beware - Jan. 30, 2009",
+   "link": "http://money.cnn.com/2009/01/30/pf/expert/indexed_annuities.moneymag/index.htm",
+   "displayLink": "money.cnn.com",
+   "snippet": "Jan 30, 2009 ... NEW YORK (Money) -- Question: I'm 75 and I'm considering buying a fixed   indexed annuity as a way to preserve my nest egg. Do you think this ...",
+   "htmlSnippet": "Jan 30, 2009 \u003cb\u003e...\u003c/b\u003e NEW YORK (Money) -- Question: I&#39;m 75 and I&#39;m considering buying a fixed \u003cbr\u003e  \u003cb\u003eindexed annuity\u003c/b\u003e as a way to preserve my nest egg. Do you think this \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "LLkWNaoau-QJ",
+   "formattedUrl": "money.cnn.com/2009/01/30/pf/.../indexed_annuities.../index.htm",
+   "htmlFormattedUrl": "money.cnn.com/2009/01/30/pf/.../\u003cb\u003eindexed\u003c/b\u003e_\u003cb\u003eannuities\u003c/b\u003e.../\u003cb\u003eindex\u003c/b\u003e.htm",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://i.l.cnn.net/money/2009/01/30/pf/expert/indexed_annuities.moneymag/expert_updegrave_new.03.jpg",
+      "type": "1",
+      "width": "176",
+      "height": "198"
+     }
+    ],
+    "metatags": [
+     {
+      "date": "2009-01-30 11:23:41",
+      "author": "By Walter Updegrave, Money Magazine senior editor",
+      "section": "pf",
+      "subsection": "expert"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Indexed Annuities Cap Gains, Obscure Fees as Sellers Earn Trip to ...",
+   "htmlTitle": "\u003cb\u003eIndexed Annuities\u003c/b\u003e Cap Gains, Obscure Fees as Sellers Earn Trip to \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://www.bloomberg.com/news/2011-01-20/indexed-annuities-obscure-fees-as-sellers-earn-trip-to-disney.html",
+   "displayLink": "www.bloomberg.com",
+   "snippet": "Jan 20, 2011 ... When Helen Siswein, a retired teacher, heard about an investment that might   earn 8 percent a year and never lose money, she was sold.",
+   "htmlSnippet": "Jan 20, 2011 \u003cb\u003e...\u003c/b\u003e When Helen Siswein, a retired teacher, heard about an investment that might \u003cbr\u003e  earn 8 percent a year and never lose money, she was sold.",
+   "cacheId": "M8qVuxmMPdkJ",
+   "formattedUrl": "www.bloomberg.com/.../indexed-annuities-obscure-fees-as-sellers-earn-trip- to-disney.html",
+   "htmlFormattedUrl": "www.bloomberg.com/.../\u003cb\u003eindexed\u003c/b\u003e-\u003cb\u003eannuities\u003c/b\u003e-obscure-fees-as-sellers-earn-trip- to-disney.html",
+   "pagemap": {
+    "metatags": [
+     {
+      "og:title": "Indexed Annuities Cap Gains, Obscure Fees as Sellers Earn Trip to Disney",
+      "og:site_name": "Bloomberg",
+      "fb:admins": "1502271052,1617206,500566238,616620419,18776,1396618572,501161086,100001111898866,1223836",
+      "og:type": "article",
+      "og:url": "http://www.bloomberg.com/news/2011-01-20/indexed-annuities-obscure-fees-as-sellers-earn-trip-to-disney.html",
+      "pubdate": "2011-01-20T05:01:01Z",
+      "lastmod": "2011-01-24T13:14:18Z"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "The safety trap: Protect yourself against index annuities - Jan. 17, 2011",
+   "htmlTitle": "The safety trap: Protect yourself against \u003cb\u003eindex annuities\u003c/b\u003e - Jan. 17, 2011",
+   "link": "http://money.cnn.com/2011/01/17/pf/index_annuities_safety_trap.moneymag/index.htm",
+   "displayLink": "money.cnn.com",
+   "snippet": "Jan 17, 2011 ... The card that landed in mailboxes throughout central Illinois in early 2008   promoted \"the most informative retirement workshop you've ever ...",
+   "htmlSnippet": "Jan 17, 2011 \u003cb\u003e...\u003c/b\u003e The card that landed in mailboxes throughout central Illinois in early 2008 \u003cbr\u003e  promoted &quot;the most informative retirement workshop you&#39;ve ever \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "hi3OvGdIJpAJ",
+   "formattedUrl": "money.cnn.com/2011/01/17/pf/index_annuities...trap.../index.htm",
+   "htmlFormattedUrl": "money.cnn.com/2011/01/17/pf/\u003cb\u003eindex\u003c/b\u003e_\u003cb\u003eannuities\u003c/b\u003e...trap.../\u003cb\u003eindex\u003c/b\u003e.htm",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://i2.cdn.turner.com/money/2011/01/17/pf/index_annuities_safety_trap.moneymag/safety_trap.top.jpg",
+      "type": "1",
+      "width": "269",
+      "height": "188"
+     }
+    ],
+    "metatags": [
+     {
+      "date": "2011-01-17 16:06:50",
+      "title": "Index annuities are a safety trap",
+      "fb_title": "Index annuities are a safety trap",
+      "fb:app_id": "80401312489",
+      "author": "By Lisa Gibbs, senior writer",
+      "section": "pf"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Fool.com: Annuities: What's to Like? [Annuities]",
+   "htmlTitle": "Fool.com: \u003cb\u003eAnnuities\u003c/b\u003e: What&#39;s to Like? [\u003cb\u003eAnnuities\u003c/b\u003e]",
+   "link": "http://www.fool.com/retirement/annuities/annuities.htm",
+   "displayLink": "www.fool.com",
+   "snippet": "Equity-index Annuity: A recent innovation in the insurance industry, an equity-  index annuity is a form of a fixed annuity contract tied to a stock index that   provides ...",
+   "htmlSnippet": "Equity-\u003cb\u003eindex Annuity\u003c/b\u003e: A recent innovation in the insurance industry, an equity-\u003cbr\u003e  \u003cb\u003eindex annuity\u003c/b\u003e is a form of a fixed annuity contract tied to a stock index that \u003cbr\u003e  provides \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "rF-6ZbNInbEJ",
+   "formattedUrl": "www.fool.com/retirement/annuities/annuities.htm",
+   "htmlFormattedUrl": "www.fool.com/retirement/\u003cb\u003eannuities\u003c/b\u003e/\u003cb\u003eannuities\u003c/b\u003e.htm",
+   "pagemap": {
+    "metatags": [
+     {
+      "date": "2003-07-06T10:50-04:00",
+      "language": "en-us",
+      "story_uid": "/USMF_Content/datasource/production2003/2003/retirement/annuities/annuities.xml",
+      "expiration": "Date + 12 months",
+      "articletype": "Annuities",
+      "contenttype": "a",
+      "articledate": "2003/07/06",
+      "articledatetext": "Sunday, Jul 6, 2003"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Index Annuity Guide",
+   "htmlTitle": "\u003cb\u003eIndex Annuity\u003c/b\u003e Guide",
+   "link": "http://www.freeannuityrates.com/annuities/index/index-annuity-guide.php",
+   "displayLink": "www.freeannuityrates.com",
+   "snippet": "The complete guide to equity indexed annuities. Compare brand name indexed   annuity rates. Explore the pros and cons of index annuities, how they work, ...",
+   "htmlSnippet": "The complete guide to equity \u003cb\u003eindexed annuities\u003c/b\u003e. Compare brand name \u003cb\u003eindexed\u003c/b\u003e \u003cbr\u003e  \u003cb\u003eannuity\u003c/b\u003e rates. Explore the pros and cons of \u003cb\u003eindex annuities\u003c/b\u003e, how they work, \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "nw3OmwSHf2IJ",
+   "formattedUrl": "www.freeannuityrates.com/annuities/index/index-annuity-guide.php",
+   "htmlFormattedUrl": "www.free\u003cb\u003eannuity\u003c/b\u003erates.com/\u003cb\u003eannuities\u003c/b\u003e/\u003cb\u003eindex\u003c/b\u003e/\u003cb\u003eindex\u003c/b\u003e-\u003cb\u003eannuity\u003c/b\u003e-guide.php"
+  }
+ ]
+}

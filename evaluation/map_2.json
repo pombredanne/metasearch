@@ -1,0 +1,304 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "nextPage": [
+   {
+    "title": "Google Custom Search - map",
+    "totalResults": "610000000",
+    "searchTerms": "map",
+    "count": 10,
+    "startIndex": 31,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "017401104989814545383:mf4lavmtuva"
+   }
+  ],
+  "request": [
+   {
+    "title": "Google Custom Search - map",
+    "totalResults": "610000000",
+    "searchTerms": "map",
+    "count": 10,
+    "startIndex": 21,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "017401104989814545383:mf4lavmtuva"
+   }
+  ],
+  "previousPage": [
+   {
+    "title": "Google Custom Search - map",
+    "totalResults": "610000000",
+    "searchTerms": "map",
+    "count": 10,
+    "startIndex": 11,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "017401104989814545383:mf4lavmtuva"
+   }
+  ]
+ },
+ "context": {
+  "title": "College MetaSearch Comparison"
+ },
+ "searchInformation": {
+  "searchTime": 0.139205,
+  "formattedSearchTime": "0.14",
+  "totalResults": "610000000",
+  "formattedTotalResults": "610,000,000"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "MAP for Nonprofits",
+   "htmlTitle": "\u003cb\u003eMAP\u003c/b\u003e for Nonprofits",
+   "link": "http://www.mapfornonprofits.org/",
+   "displayLink": "www.mapfornonprofits.org",
+   "snippet": "MAP for Nonprofits provides management and board recruitment services to   large, medium and small nonprofit organizations in the Twin Cities. We   complement ...",
+   "htmlSnippet": "\u003cb\u003eMAP\u003c/b\u003e for Nonprofits provides management and board recruitment services to \u003cbr\u003e  large, medium and small nonprofit organizations in the Twin Cities. We \u003cbr\u003e  complement \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "-OL6dTiryEoJ",
+   "formattedUrl": "www.mapfornonprofits.org/",
+   "htmlFormattedUrl": "www.\u003cb\u003emap\u003c/b\u003efornonprofits.org/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.mapfornonprofits.org/vertical/Sites/%7B876C4FB8-E997-480F-BF5B-AFAA0F113D9D%7D/uploads/Report_Cover_Small(1)_Web.jpg",
+      "type": "1",
+      "width": "160",
+      "height": "207"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "National Broadband Map",
+   "htmlTitle": "National Broadband \u003cb\u003eMap\u003c/b\u003e",
+   "link": "http://www.broadbandmap.gov/",
+   "displayLink": "www.broadbandmap.gov",
+   "snippet": "Use the Analyze tools below to rank an area by a specific broadband attribute,   generate summaries of broadband availability for a given area, or download ...",
+   "htmlSnippet": "Use the Analyze tools below to rank an area by a specific broadband attribute, \u003cbr\u003e  generate summaries of broadband availability for a given area, or download \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "54M-usxtTRAJ",
+   "formattedUrl": "www.broadbandmap.gov/",
+   "htmlFormattedUrl": "www.broadband\u003cb\u003emap\u003c/b\u003e.gov/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.broadbandmap.gov/img/og-icon.png",
+      "type": "1",
+      "width": "50",
+      "height": "50"
+     }
+    ],
+    "metatags": [
+     {
+      "og:title": "National Broadband Map",
+      "og:type": "website",
+      "og:url": "http://www.broadbandmap.gov/",
+      "og:image": "http://www.broadbandmap.gov/img/og-icon.png",
+      "og:site_name": "National Broadband Map",
+      "fb:admins": "1039087169",
+      "og:description": "The National Broadband Map (NBM) is a searchable and interactive website that allows users to view broadband availability across every neighborhood in the United States. The NBM was created by the National Telecommunications and Information Administration (NTIA), in collaboration with the Federal Communications Commission (FCC), and in partnership with 50 states, five territories and the District of Columbia. The NBM is a project of NTIA's State Broadband Initiative.",
+      "og:country-name": "USA"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Map",
+   "htmlTitle": "\u003cb\u003eMap\u003c/b\u003e",
+   "link": "http://www.map.utah.edu/",
+   "displayLink": "www.map.utah.edu",
+   "snippet": "Search Map: Find Buildings ... Printable PDF Maps · Campus Shuttle Routes ·   Live Campus Shuttle Map; TRAX/Bus Schedules · Construction Impacts ...",
+   "htmlSnippet": "Search \u003cb\u003eMap\u003c/b\u003e: Find Buildings \u003cb\u003e...\u003c/b\u003e Printable PDF \u003cb\u003eMaps\u003c/b\u003e &middot; Campus Shuttle Routes &middot; \u003cbr\u003e  Live Campus Shuttle \u003cb\u003eMap\u003c/b\u003e; TRAX/Bus Schedules &middot; Construction Impacts \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "oRImcoM6OFAJ",
+   "formattedUrl": "www.map.utah.edu/",
+   "htmlFormattedUrl": "www.\u003cb\u003emap\u003c/b\u003e.utah.edu/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.map.utah.edu/html/images/umapLegend0710.png",
+      "type": "1",
+      "width": "108",
+      "height": "241"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Map of Italy",
+   "htmlTitle": "\u003cb\u003eMap\u003c/b\u003e of Italy",
+   "link": "http://www.lonelyplanet.com/maps/europe/italy/",
+   "displayLink": "www.lonelyplanet.com",
+   "snippet": "Map of Italy and travel information about Italy brought to you by Lonely Planet.",
+   "htmlSnippet": "\u003cb\u003eMap\u003c/b\u003e of Italy and travel information about Italy brought to you by Lonely Planet.",
+   "cacheId": "ym3xWET1a3EJ",
+   "formattedUrl": "www.lonelyplanet.com/maps/europe/italy/",
+   "htmlFormattedUrl": "www.lonelyplanet.com/\u003cb\u003emaps\u003c/b\u003e/europe/italy/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.lonelyplanet.com/maps/europe/italy/map_of_italy.jpg",
+      "type": "1",
+      "width": "259",
+      "height": "194"
+     }
+    ],
+    "metatags": [
+     {
+      "fb:app_id": "111537044496"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Map (mathematics) - Wikipedia, the free encyclopedia",
+   "htmlTitle": "\u003cb\u003eMap\u003c/b\u003e (mathematics) - Wikipedia, the free encyclopedia",
+   "link": "http://en.wikipedia.org/wiki/Map_(mathematics)",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "In most of mathematics and in some related technical fields, the term mapping,   usually shortened to map, is either a synonym for function, or denotes a particular ...",
+   "htmlSnippet": "In most of mathematics and in some related technical fields, the term \u003cb\u003emapping\u003c/b\u003e, \u003cbr\u003e  usually shortened to \u003cb\u003emap\u003c/b\u003e, is either a synonym for function, or denotes a particular \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "saHm_Ur-KooJ",
+   "formattedUrl": "en.wikipedia.org/wiki/Map_(mathematics)",
+   "htmlFormattedUrl": "en.wikipedia.org/wiki/\u003cb\u003eMap\u003c/b\u003e_(mathematics)",
+   "pagemap": {
+    "RTO": [
+     {
+      "format": "image",
+      "group_impression_tag": "prbx_kr_rto_term_enc",
+      "Opt::max_rank_top": "0",
+      "Opt::threshold_override": "3",
+      "Opt::disallow_same_domain": "1",
+      "Output::title": "\u003cb\u003eMap\u003c/b\u003e",
+      "Output::want_title_on_right": "true",
+      "Output::num_lines1": "3",
+      "Output::text1": "In mathematics and related technical fields, the term map or mapping is a synonym for Function function. Thus, for example, a partial map is a partial function, and a total map is a total function. Related terms like Domain domain, codomain, Injective function injective, Continuous function continuous, etc. can be applied equally to maps and functions, with the same meaning. In many branches of mathematics, the term is qualified with a property specific...",
+      "Output::gray1b": "- 위키백과 (영문)",
+      "Output::no_clip1b": "true",
+      "UrlOutput::url2": "http://en.wikipedia.org/wiki/Map_(mathematics)",
+      "Output::link2": "위키백과 (영문)",
+      "result_group_header": "백과사전",
+      "Output::image_url": "/images/icons/onebox/dictionary-40.gif",
+      "image_size": "40x40",
+      "Output::inline_image_width": "40",
+      "Output::inline_image_height": "40"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "USC Maps",
+   "htmlTitle": "USC \u003cb\u003eMaps\u003c/b\u003e",
+   "link": "http://web-app.usc.edu/maps/",
+   "displayLink": "web-app.usc.edu",
+   "snippet": "Search Results. Show Locations By Category. Dining. Galleries/Auditoria. Patient   Care. Libraries. Residential. Athletics. Parks and Plazas. Computing Centers ...",
+   "htmlSnippet": "Search Results. Show Locations By Category. Dining. Galleries/Auditoria. Patient \u003cbr\u003e  Care. Libraries. Residential. Athletics. Parks and Plazas. Computing Centers \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "s2JsRgbFxFoJ",
+   "formattedUrl": "web-app.usc.edu/maps/",
+   "htmlFormattedUrl": "web-app.usc.edu/\u003cb\u003emaps\u003c/b\u003e/"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "MAP: The Media Awareness Project",
+   "htmlTitle": "\u003cb\u003eMAP\u003c/b\u003e: The \u003cb\u003eMedia Awareness Project\u003c/b\u003e",
+   "link": "http://www.mapinc.org/",
+   "displayLink": "www.mapinc.org",
+   "snippet": "MAP works to ensure more balanced and accurate media coverage of drug   policy issues and maintains a comprehensive archive of drug policy news and   many ...",
+   "htmlSnippet": "\u003cb\u003eMAP\u003c/b\u003e works to ensure more balanced and accurate media coverage of drug \u003cbr\u003e  policy issues and maintains a comprehensive archive of drug policy news and \u003cbr\u003e  many \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "YFPVW9d9VawJ",
+   "formattedUrl": "www.mapinc.org/",
+   "htmlFormattedUrl": "www.\u003cb\u003emap\u003c/b\u003einc.org/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.drugsense.org/pix/phases.gif",
+      "type": "1",
+      "width": "80",
+      "height": "80"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Map of Metal",
+   "htmlTitle": "\u003cb\u003eMap\u003c/b\u003e of Metal",
+   "link": "http://mapofmetal.com/",
+   "displayLink": "mapofmetal.com",
+   "snippet": "MAP OF METAL. An interactive overview of Metal history and the influential   bands that helped shaped the genres we know today. To continue you need to ...",
+   "htmlSnippet": "\u003cb\u003eMAP\u003c/b\u003e OF METAL. An interactive overview of Metal history and the influential \u003cbr\u003e  bands that helped shaped the genres we know today. To continue you need to \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "FD-6JanM-W0J",
+   "formattedUrl": "mapofmetal.com/",
+   "htmlFormattedUrl": "\u003cb\u003emap\u003c/b\u003eofmetal.com/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.mapofmetal.com/images/fbicon.jpg",
+      "type": "1",
+      "width": "104",
+      "height": "78"
+     }
+    ],
+    "metatags": [
+     {
+      "og:title": "Map of Metal",
+      "og:description": "An interactive overview of Metal history and the influential bands that helped shaped the genres we know today",
+      "og:image": "http://www.mapofmetal.com/images/fbicon.jpg",
+      "og:type": "website",
+      "og:url": "http://www.mapofmetal.com/"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "World Map, Online Maps, Satellite Maps - National Geographic",
+   "htmlTitle": "World \u003cb\u003eMap\u003c/b\u003e, Online \u003cb\u003eMaps\u003c/b\u003e, Satellite \u003cb\u003eMaps\u003c/b\u003e - National Geographic",
+   "link": "http://maps.nationalgeographic.com/map-machine",
+   "displayLink": "maps.nationalgeographic.com",
+   "snippet": "Locate nearly any place on Earth, search and print historical, weather, and   population maps, and more with our dynamic atlas.",
+   "htmlSnippet": "Locate nearly any place on Earth, search and print historical, weather, and \u003cbr\u003e  population \u003cb\u003emaps\u003c/b\u003e, and more with our dynamic atlas.",
+   "cacheId": "Y4R3EsypXD8J",
+   "formattedUrl": "maps.nationalgeographic.com/map-machine",
+   "htmlFormattedUrl": "\u003cb\u003emaps\u003c/b\u003e.nationalgeographic.com/\u003cb\u003emap\u003c/b\u003e-machine",
+   "pagemap": {
+    "metatags": [
+     {
+      "subject": "Maps",
+      "category": "Hubs"
+     }
+    ],
+    "hcard": [
+     {
+      "fn": "National Geographic Society",
+      "url": "http://www.nationalgeographic.com/",
+      "url_text": "National Geographic Society"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "University of Wisconsin-Madison: Campus Map",
+   "htmlTitle": "University of Wisconsin-Madison: Campus \u003cb\u003eMap\u003c/b\u003e",
+   "link": "http://map.wisc.edu/",
+   "displayLink": "map.wisc.edu",
+   "snippet": "Adobe Flash Player 9 (or higher) required. To view and use the campus map,   please download and install the Adobe Flash Player. To do so, click on the button ...",
+   "htmlSnippet": "Adobe Flash Player 9 (or higher) required. To view and use the campus \u003cb\u003emap\u003c/b\u003e, \u003cbr\u003e  please download and install the Adobe Flash Player. To do so, click on the button \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "pOOZ-7c89vAJ",
+   "formattedUrl": "map.wisc.edu/",
+   "htmlFormattedUrl": "\u003cb\u003emap\u003c/b\u003e.wisc.edu/"
+  }
+ ]
+}

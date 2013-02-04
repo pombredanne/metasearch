@@ -1,0 +1,318 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "nextPage": [
+   {
+    "title": "Google Custom Search - map of the united states",
+    "totalResults": "272000000",
+    "searchTerms": "map of the united states",
+    "count": 10,
+    "startIndex": 101,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "017401104989814545383:mf4lavmtuva"
+   }
+  ],
+  "request": [
+   {
+    "title": "Google Custom Search - map of the united states",
+    "totalResults": "272000000",
+    "searchTerms": "map of the united states",
+    "count": 10,
+    "startIndex": 91,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "017401104989814545383:mf4lavmtuva"
+   }
+  ],
+  "previousPage": [
+   {
+    "title": "Google Custom Search - map of the united states",
+    "totalResults": "272000000",
+    "searchTerms": "map of the united states",
+    "count": 10,
+    "startIndex": 81,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "017401104989814545383:mf4lavmtuva"
+   }
+  ]
+ },
+ "context": {
+  "title": "College MetaSearch Comparison"
+ },
+ "searchInformation": {
+  "searchTime": 0.475267,
+  "formattedSearchTime": "0.48",
+  "totalResults": "272000000",
+  "formattedTotalResults": "272,000,000"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "NANPA : Area Code Map",
+   "htmlTitle": "NANPA : Area Code \u003cb\u003eMap\u003c/b\u003e",
+   "link": "http://www.nanpa.com/area_code_maps/ac_map_static.html",
+   "displayLink": "www.nanpa.com",
+   "snippet": "For U.S. area code maps, select a state either by clicking on the map or in the   alphabetical list below. These maps have been specifically designed to be   legible ...",
+   "htmlSnippet": "For \u003cb\u003eU.S.\u003c/b\u003e area code \u003cb\u003emaps\u003c/b\u003e, select a state either by clicking on the \u003cb\u003emap\u003c/b\u003e or in the \u003cbr\u003e  alphabetical list below. These \u003cb\u003emaps\u003c/b\u003e have been specifically designed to be \u003cbr\u003e  legible \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "2xtcxjXH_wsJ",
+   "formattedUrl": "www.nanpa.com/area_code_maps/ac_map_static.html",
+   "htmlFormattedUrl": "www.nanpa.com/area_code_\u003cb\u003emaps\u003c/b\u003e/ac_\u003cb\u003emap\u003c/b\u003e_static.html",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.nanpa.com/area_code_maps/usmaps/us.gif",
+      "type": "1",
+      "width": "276",
+      "height": "183"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Circuit Map.ai",
+   "htmlTitle": "Circuit \u003cb\u003eMap\u003c/b\u003e.ai",
+   "link": "http://www.uscourts.gov/uscourts/images/CircuitMap.pdf",
+   "displayLink": "www.uscourts.gov",
+   "snippet": "Geog raphlc Boundaries of United States Courts of Appeals and United States   District Courts. Eastern. ME. MA. RI. CT. Southern.",
+   "htmlSnippet": "Geog raphlc Boundaries of \u003cb\u003eUnited States\u003c/b\u003e Courts of Appeals and \u003cb\u003eUnited States\u003c/b\u003e \u003cbr\u003e  District Courts. Eastern. ME. MA. RI. CT. Southern.",
+   "cacheId": "-PBR3Nwe9rYJ",
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat",
+   "formattedUrl": "www.uscourts.gov/uscourts/images/CircuitMap.pdf",
+   "htmlFormattedUrl": "www.uscourts.gov/uscourts/images/Circuit\u003cb\u003eMap\u003c/b\u003e.pdf",
+   "pagemap": {
+    "metatags": [
+     {
+      "producer": "Adobe PDF library 6.66",
+      "creator": "Illustrator",
+      "creationdate": "Fri Dec 10 07:36:04 2004",
+      "moddate": "Fri Dec 10 06:36:04 2004"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "united states major cities and capital cities map",
+   "htmlTitle": "\u003cb\u003eunited states\u003c/b\u003e major cities and capital cities \u003cb\u003emap\u003c/b\u003e",
+   "link": "http://www.worldatlas.com/webimage/countrys/namerica/usstates/majorcities.htm",
+   "displayLink": "www.worldatlas.com",
+   "snippet": "a world atlas of facts flags and maps including every continent, country,   dependency, exotic destination, island, major city, ocean, province, state &   territory on ...",
+   "htmlSnippet": "a world atlas of facts flags and \u003cb\u003emaps\u003c/b\u003e including every continent, country, \u003cbr\u003e  dependency, exotic destination, island, major city, ocean, province, \u003cb\u003estate\u003c/b\u003e &amp; \u003cbr\u003e  territory on \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "oo1zQ9HWnOQJ",
+   "formattedUrl": "www.worldatlas.com/webimage/countrys/.../usstates/majorcities.htm",
+   "htmlFormattedUrl": "www.worldatlas.com/webimage/countrys/.../\u003cb\u003eusstates\u003c/b\u003e/majorcities.htm",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.worldatlas.com/webimage/countrys/namerica/usstates/newgraphics/major.gif",
+      "type": "1",
+      "width": "280",
+      "height": "180"
+     }
+    ],
+    "breadcrumb": [
+     {
+      "url": "World Map",
+      "title": "World Map"
+     },
+     {
+      "url": "North America",
+      "title": "North America"
+     },
+     {
+      "url": "USA",
+      "title": "USA"
+     },
+     {
+      "url": "Maps",
+      "title": "Maps"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Fracking Across the United States | Earthjustice",
+   "htmlTitle": "Fracking Across the \u003cb\u003eUnited States\u003c/b\u003e | Earthjustice",
+   "link": "http://earthjustice.org/features/campaigns/fracking-across-the-united-states",
+   "displayLink": "earthjustice.org",
+   "snippet": "We can find a better way—one that protects our health and gives us clean, safe ...   The map below displays a sampling of some of the high profile incidents ...",
+   "htmlSnippet": "We can find a better way—one that protects our health and gives \u003cb\u003eus\u003c/b\u003e clean, safe \u003cb\u003e...\u003c/b\u003e \u003cbr\u003e  The \u003cb\u003emap\u003c/b\u003e below displays a sampling of some of the high profile incidents \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "Rm25gbF4I44J",
+   "formattedUrl": "earthjustice.org/features/campaigns/fracking-across-the-united-states",
+   "htmlFormattedUrl": "earthjustice.org/features/campaigns/fracking-across-the-\u003cb\u003eunited\u003c/b\u003e-\u003cb\u003estates\u003c/b\u003e",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://earthjustice.org/sites/default/files/frack-map-100.gif",
+      "type": "1",
+      "width": "80",
+      "height": "80"
+     }
+    ],
+    "metatags": [
+     {
+      "fb:admins": "1630099270",
+      "og:title": "Fracking Across the United States",
+      "og:site_name": "Earthjustice",
+      "fb:app_id": "189651542882",
+      "og:image": "http://earthjustice.org/sites/default/files/frack-map-100.gif"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Maps of American ancestries - Wikipedia, the free encyclopedia",
+   "htmlTitle": "\u003cb\u003eMaps\u003c/b\u003e of American ancestries - Wikipedia, the free encyclopedia",
+   "link": "http://en.wikipedia.org/wiki/Maps_of_American_ancestries",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "The ancestry of the people of the United States is widely varied and includes   descendants of ... 1 Analysis by 2000 Federal Population Census; 2 Ancestry   maps ...",
+   "htmlSnippet": "The ancestry of the people of the \u003cb\u003eUnited States\u003c/b\u003e is widely varied and includes \u003cbr\u003e  descendants of \u003cb\u003e...\u003c/b\u003e 1 Analysis by 2000 Federal Population Census; 2 Ancestry \u003cbr\u003e  \u003cb\u003emaps\u003c/b\u003e \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "BUlWjA5r6NAJ",
+   "formattedUrl": "en.wikipedia.org/wiki/Maps_of_American_ancestries",
+   "htmlFormattedUrl": "en.wikipedia.org/wiki/\u003cb\u003eMaps\u003c/b\u003e_of_American_ancestries",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Census-2000-Data-Top-US-Ancestries-by-County.svg/400px-Census-2000-Data-Top-US-Ancestries-by-County.svg.png",
+      "type": "1",
+      "width": "261",
+      "height": "193"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "USA Map - States And Capitals",
+   "htmlTitle": "USA \u003cb\u003eMap\u003c/b\u003e - \u003cb\u003eStates\u003c/b\u003e And Capitals",
+   "link": "http://www.csgnetwork.com/usamapstcap.html",
+   "displayLink": "www.csgnetwork.com",
+   "snippet": "Map of the United States and the state capitals. ... This is a map of the United   States of America and all of the state capitals. It is provided by the University of ...",
+   "htmlSnippet": "\u003cb\u003eMap of the United States\u003c/b\u003e and the state capitals. \u003cb\u003e...\u003c/b\u003e This is a \u003cb\u003emap of the United\u003c/b\u003e \u003cbr\u003e  \u003cb\u003eStates\u003c/b\u003e of America and all of the state capitals. It is provided by the University of \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "Ee-0NNxyyFcJ",
+   "formattedUrl": "www.csgnetwork.com/usamapstcap.html",
+   "htmlFormattedUrl": "www.csgnetwork.com/usa\u003cb\u003emaps\u003c/b\u003etcap.html",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.csgnetwork.com/usastatescaps.jpg",
+      "type": "1",
+      "width": "265",
+      "height": "191"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "USA Map Locator. United States Map. Free download sample and ...",
+   "htmlTitle": "USA \u003cb\u003eMap\u003c/b\u003e Locator. \u003cb\u003eUnited States Map\u003c/b\u003e. Free download sample and \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://www.fla-shop.com/us_states/usa_locator.php",
+   "displayLink": "www.fla-shop.com",
+   "snippet": "Interactive Map of the United States for websites with clickable states and popups   ballons. Colors, links and captions are fully customizable.",
+   "htmlSnippet": "Interactive \u003cb\u003eMap of the United States\u003c/b\u003e for websites with clickable states and popups \u003cbr\u003e  ballons. Colors, links and captions are fully customizable.",
+   "cacheId": "hZOgCmV1XFMJ",
+   "formattedUrl": "www.fla-shop.com/us_states/usa_locator.php",
+   "htmlFormattedUrl": "www.fla-shop.com/\u003cb\u003eus\u003c/b\u003e_\u003cb\u003estates\u003c/b\u003e/usa_locator.php",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.fla-shop.com/img/usa_locator_colors.jpg",
+      "type": "1",
+      "width": "354",
+      "height": "137"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "USGS Water Resources: About USGS Water Resources",
+   "htmlTitle": "USGS Water Resources: About USGS Water Resources",
+   "link": "http://water.usgs.gov/GIS/huc.html",
+   "displayLink": "water.usgs.gov",
+   "snippet": "Jan 19, 2012 ... Adapted from Seaber, P.R., Kapinos, F.P., and Knapp, G.L., 1987, Hydrologic   Unit Maps: U.S. Geological Survey Water-Supply Paper 2294, ...",
+   "htmlSnippet": "Jan 19, 2012 \u003cb\u003e...\u003c/b\u003e Adapted from Seaber, P.R., Kapinos, F.P., and Knapp, G.L., 1987, Hydrologic \u003cbr\u003e  Unit \u003cb\u003eMaps\u003c/b\u003e: \u003cb\u003eU.S.\u003c/b\u003e Geological Survey Water-Supply Paper 2294, \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "4wF6DrzKc2IJ",
+   "formattedUrl": "water.usgs.gov/GIS/huc.html",
+   "htmlFormattedUrl": "water.usgs.gov/GIS/huc.html",
+   "pagemap": {
+    "metatags": [
+     {
+      "publisher": "USGS",
+      "created": "YYYYMMDD",
+      "revised": "YYYYMMDD",
+      "expires": "never"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "US: Weather Today",
+   "htmlTitle": "\u003cb\u003eUS\u003c/b\u003e: Weather Today",
+   "link": "http://www.weather.com/maps/maptype/forecastsusnational/usweathertoday_large.html",
+   "displayLink": "www.weather.com",
+   "snippet": "How to read this map Severe Weather Outlook Free Content National Forecast   Free Content. Select Another Map, US: Morning Forecast, US: Midday Forecast ...",
+   "htmlSnippet": "How to read this \u003cb\u003emap\u003c/b\u003e Severe Weather Outlook Free Content National Forecast \u003cbr\u003e  Free Content. Select Another \u003cb\u003eMap\u003c/b\u003e, \u003cb\u003eUS\u003c/b\u003e: Morning Forecast, \u003cb\u003eUS\u003c/b\u003e: Midday Forecast \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "qYGaEoJOs4cJ",
+   "formattedUrl": "www.weather.com/maps/maptype/.../usweathertoday_large.html",
+   "htmlFormattedUrl": "www.weather.com/\u003cb\u003emaps\u003c/b\u003e/\u003cb\u003emap\u003c/b\u003etype/.../usweathertoday_large.html",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://image.weather.com/web/forecast/us_wxhi1_large_usen_600.jpg",
+      "type": "1",
+      "width": "273",
+      "height": "184"
+     }
+    ],
+    "metatags": [
+     {
+      "fb:app_id": "144457238950063"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Intellicast - Jet Stream in United States",
+   "htmlTitle": "Intellicast - Jet Stream in \u003cb\u003eUnited States\u003c/b\u003e",
+   "link": "http://www.intellicast.com/National/Wind/JetStream.aspx",
+   "displayLink": "www.intellicast.com",
+   "snippet": "The Jet Stream map shows today's high wind speed levels and jetstream   directions. ... Watches and Warnings by type and state throughout the United   States.",
+   "htmlSnippet": "The Jet Stream \u003cb\u003emap\u003c/b\u003e shows today&#39;s high wind speed levels and jetstream \u003cbr\u003e  directions. \u003cb\u003e...\u003c/b\u003e Watches and Warnings by type and state throughout the \u003cb\u003eUnited\u003c/b\u003e \u003cbr\u003e  \u003cb\u003eStates\u003c/b\u003e.",
+   "formattedUrl": "www.intellicast.com/National/Wind/JetStream.aspx",
+   "htmlFormattedUrl": "www.intellicast.com/National/Wind/JetStream.aspx",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://images.intellicast.com/WxImages/JetStream/conus.jpg",
+      "type": "1",
+      "width": "259",
+      "height": "194"
+     }
+    ],
+    "metatags": [
+     {
+      "msvalidate.01": "2625493FFF704B18B25610DED3DC742E",
+      "y_key": "66d7db7fca59b234"
+     }
+    ]
+   }
+  }
+ ]
+}

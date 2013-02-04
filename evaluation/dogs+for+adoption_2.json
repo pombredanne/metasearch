@@ -1,0 +1,292 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "nextPage": [
+   {
+    "title": "Google Custom Search - dogs for adoption",
+    "totalResults": "17400000",
+    "searchTerms": "dogs for adoption",
+    "count": 10,
+    "startIndex": 31,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "017401104989814545383:mf4lavmtuva"
+   }
+  ],
+  "request": [
+   {
+    "title": "Google Custom Search - dogs for adoption",
+    "totalResults": "17400000",
+    "searchTerms": "dogs for adoption",
+    "count": 10,
+    "startIndex": 21,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "017401104989814545383:mf4lavmtuva"
+   }
+  ],
+  "previousPage": [
+   {
+    "title": "Google Custom Search - dogs for adoption",
+    "totalResults": "17400000",
+    "searchTerms": "dogs for adoption",
+    "count": 10,
+    "startIndex": 11,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "017401104989814545383:mf4lavmtuva"
+   }
+  ]
+ },
+ "context": {
+  "title": "College MetaSearch Comparison"
+ },
+ "searchInformation": {
+  "searchTime": 0.312161,
+  "formattedSearchTime": "0.31",
+  "totalResults": "17400000",
+  "formattedTotalResults": "17,400,000"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "Homeward Trails Animal Rescue | Pet Adoption in VA, DC, MD",
+   "htmlTitle": "Homeward Trails Animal Rescue | Pet \u003cb\u003eAdoption\u003c/b\u003e in VA, DC, MD",
+   "link": "http://www.homewardtrails.org/",
+   "displayLink": "www.homewardtrails.org",
+   "snippet": "Homeward Trails Animal Rescue provides pet adoption in Virginia, Washington,   DC and Maryland. Adopt a dog, cat, puppy or kitten rescued from an animal ...",
+   "htmlSnippet": "Homeward Trails Animal Rescue provides pet \u003cb\u003eadoption\u003c/b\u003e in Virginia, Washington, \u003cbr\u003e  DC and Maryland. \u003cb\u003eAdopt\u003c/b\u003e a \u003cb\u003edog\u003c/b\u003e, cat, puppy or kitten rescued from an animal \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "NA6DQJ2x3hcJ",
+   "formattedUrl": "www.homewardtrails.org/",
+   "htmlFormattedUrl": "www.homewardtrails.org/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.homewardtrails.org/phpThumb/phpThumb.php?src=/media/k2/items/cache/bbfb4faa18ee2951b02b656fb34be1d7_M.jpg&w=90&h=90&zc=t",
+      "type": "1",
+      "width": "78",
+      "height": "78"
+     }
+    ],
+    "metatags": [
+     {
+      "y_key": "862d33b79bbacec7",
+      "bitly-verification": "f145519c1782"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Adopt a Dog - North Shore Animal League America",
+   "htmlTitle": "\u003cb\u003eAdopt\u003c/b\u003e a \u003cb\u003eDog\u003c/b\u003e - North Shore Animal League America",
+   "link": "http://www.animalleague.org/adopt-a-pet/dogs/adopt/",
+   "displayLink": "www.animalleague.org",
+   "snippet": "With hundreds of dogs available for adoption every week, you are sure to find   your new companion at the Animal League.",
+   "htmlSnippet": "With hundreds of \u003cb\u003edogs\u003c/b\u003e available for \u003cb\u003eadoption\u003c/b\u003e every week, you are sure to find \u003cbr\u003e  your new companion at the Animal League.",
+   "cacheId": "XS5AeV0xll8J",
+   "formattedUrl": "www.animalleague.org/adopt-a-pet/dogs/adopt/",
+   "htmlFormattedUrl": "www.animalleague.org/\u003cb\u003eadopt\u003c/b\u003e-a-pet/\u003cb\u003edogs\u003c/b\u003e/\u003cb\u003eadopt\u003c/b\u003e/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.animalleague.org/assets/images/animal-photos/Sara_0711G.jpg",
+      "type": "1",
+      "width": "214",
+      "height": "235"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Mature Dog Adoptions",
+   "htmlTitle": "Mature \u003cb\u003eDog Adoptions\u003c/b\u003e",
+   "link": "http://www.petfinder.com/shelters/ON22.html",
+   "displayLink": "www.petfinder.com",
+   "snippet": "3 STRIKES against adoption: Large, black, and older dogs are least likely to be   adopted! ... Many shelter/rescue dog adoptions include a period of FREE PET ...",
+   "htmlSnippet": "3 STRIKES against adoption: Large, black, and older dogs are least likely to be \u003cbr\u003e  adopted! \u003cb\u003e...\u003c/b\u003e Many shelter/rescue \u003cb\u003edog adoptions\u003c/b\u003e include a period of FREE PET \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "LxVBwsDLbCwJ",
+   "formattedUrl": "www.petfinder.com/shelters/ON22.html",
+   "htmlFormattedUrl": "www.petfinder.com/shelters/ON22.html"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Available Animals - Adoption - Seattle Animal Shelter - Seattle.gov",
+   "htmlTitle": "Available Animals - \u003cb\u003eAdoption\u003c/b\u003e - Seattle Animal Shelter - Seattle.gov",
+   "link": "http://www.seattle.gov/animalshelter/adoptnow.htm",
+   "displayLink": "www.seattle.gov",
+   "snippet": "Note about Adoptable Pets. The shelter has many animals available for adoption   at any given time. Many of these animals are in foster care and are not at the ...",
+   "htmlSnippet": "Note about Adoptable \u003cb\u003ePets\u003c/b\u003e. The shelter has many animals available for \u003cb\u003eadoption\u003c/b\u003e \u003cbr\u003e  at any given time. Many of these animals are in foster care and are not at the \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "2LPbJZuI5JMJ",
+   "formattedUrl": "www.seattle.gov/animalshelter/adoptnow.htm",
+   "htmlFormattedUrl": "www.seattle.gov/animalshelter/\u003cb\u003eadopt\u003c/b\u003enow.htm",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.seattle.gov/animalshelter/images/top-adoptions.jpg",
+      "type": "1",
+      "width": "427",
+      "height": "118"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "ASPCA | ASPCA Adoptable Dogs",
+   "htmlTitle": "ASPCA | ASPCA Adoptable \u003cb\u003eDogs\u003c/b\u003e",
+   "link": "http://www.aspca.org/Home/Aspca-nyc/adoptable-dogs",
+   "displayLink": "www.aspca.org",
+   "snippet": "These dogs are available for adoption from the ASPCA Adoption Center at 424 E.   92nd Street in New York City.",
+   "htmlSnippet": "These \u003cb\u003edogs\u003c/b\u003e are available for \u003cb\u003eadoption\u003c/b\u003e from the ASPCA \u003cb\u003eAdoption\u003c/b\u003e Center at 424 E. \u003cbr\u003e  92nd Street in New York City.",
+   "cacheId": "MSxyLT1nHeYJ",
+   "formattedUrl": "www.aspca.org/Home/Aspca-nyc/adoptable-dogs",
+   "htmlFormattedUrl": "www.aspca.org/Home/Aspca-nyc/\u003cb\u003eadopt\u003c/b\u003eable-\u003cb\u003edogs\u003c/b\u003e",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.aspca.org/~/media/Images/ASPCA/Right%20Sidebar%20Images/banner_donate_sm-over.ashx",
+      "type": "1",
+      "width": "148",
+      "height": "140"
+     }
+    ],
+    "metatags": [
+     {
+      "code_language": "C#",
+      "vs_defaultclientscript": "JavaScript",
+      "vs_targetschema": "http://schemas.microsoft.com/intellisense/ie5"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Animal Haven: Dogs for Adoption - All Shelters",
+   "htmlTitle": "Animal Haven: \u003cb\u003eDogs for Adoption\u003c/b\u003e - All Shelters",
+   "link": "http://www.animalhavenshelter.org/site/PageServer?pagename=all_dogs",
+   "displayLink": "www.animalhavenshelter.org",
+   "snippet": "Adopt · Dogs · Cats · Support · One-Time Gift · Monthly Gift · Gift Card · Personal   Fundraising Page · Memorials · Amazon Wish List · Volunteer ...",
+   "htmlSnippet": "\u003cb\u003eAdopt\u003c/b\u003e &middot; \u003cb\u003eDogs\u003c/b\u003e &middot; Cats &middot; Support &middot; One-Time Gift &middot; Monthly Gift &middot; Gift Card &middot; Personal \u003cbr\u003e  Fundraising Page &middot; Memorials &middot; Amazon Wish List &middot; Volunteer \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "fEYa8dTLvvIJ",
+   "formattedUrl": "www.animalhavenshelter.org/site/PageServer?pagename=all_dogs",
+   "htmlFormattedUrl": "www.animalhavenshelter.org/site/PageServer?pagename=all_\u003cb\u003edogs\u003c/b\u003e",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.animalhavenshelter.org/images/content/photos/thumb_24862.jpg",
+      "type": "1",
+      "width": "90",
+      "height": "120"
+     }
+    ],
+    "metatags": [
+     {
+      "cnvheaderversion": "v5.0"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Briggs Animal Adoption Center",
+   "htmlTitle": "Briggs Animal \u003cb\u003eAdoption\u003c/b\u003e Center",
+   "link": "http://www.baacs.org/",
+   "displayLink": "www.baacs.org",
+   "snippet": "We are currently at our humane holding capacity for cats and dogs. ... If you know   of anyone interested in adopting an animal, please ask them to consider the ...",
+   "htmlSnippet": "We are currently at our humane holding capacity for cats and \u003cb\u003edogs\u003c/b\u003e. \u003cb\u003e...\u003c/b\u003e If you know \u003cbr\u003e  of anyone interested in \u003cb\u003eadopting\u003c/b\u003e an animal, please ask them to consider the \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "bOVpDAoLZ-UJ",
+   "formattedUrl": "www.baacs.org/",
+   "htmlFormattedUrl": "www.baacs.org/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.baacs.org/img/3Dogs_MainPage.gif",
+      "type": "1",
+      "width": "236",
+      "height": "214"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Houston SPCA: Home",
+   "htmlTitle": "Houston SPCA: Home",
+   "link": "http://www.hspca.org/",
+   "displayLink": "www.hspca.org",
+   "snippet": "Adopt a hot dog for a very cool price this Friday through Sunday at the Houston   SPCA. We're offering a $20 adoption fee on large adult dogs. Some restrictions ...",
+   "htmlSnippet": "\u003cb\u003eAdopt\u003c/b\u003e a hot \u003cb\u003edog\u003c/b\u003e for a very cool price this Friday through Sunday at the Houston \u003cbr\u003e  SPCA. We&#39;re offering a $20 \u003cb\u003eadoption\u003c/b\u003e fee on large adult \u003cb\u003edogs\u003c/b\u003e. Some restrictions \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "1CZMcdj_NCIJ",
+   "formattedUrl": "www.hspca.org/",
+   "htmlFormattedUrl": "www.hspca.org/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://hspca.convio.net/images/content/pagebuilder/21577.png",
+      "type": "1",
+      "width": "100",
+      "height": "152"
+     }
+    ],
+    "metatags": [
+     {
+      "cnvheaderversion": "v5.0"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Dog Adoption | SF SPCA",
+   "htmlTitle": "\u003cb\u003eDog Adoption\u003c/b\u003e | SF SPCA",
+   "link": "http://www.sfspca.org/adoptions/dogs/",
+   "displayLink": "www.sfspca.org",
+   "snippet": "Interested in dog adoption in the San Francisco Bay Area? SF SPCA offers pet   adoption & pre adoption exams in its veterinary hospital. Stop in today!",
+   "htmlSnippet": "Interested in \u003cb\u003edog adoption\u003c/b\u003e in the San Francisco Bay Area? SF SPCA offers pet \u003cbr\u003e  adoption &amp; pre adoption exams in its veterinary hospital. Stop in today!",
+   "cacheId": "mDUcKhqOeHwJ",
+   "formattedUrl": "www.sfspca.org/adoptions/dogs/",
+   "htmlFormattedUrl": "www.sfspca.org/\u003cb\u003eadoptions\u003c/b\u003e/\u003cb\u003edogs\u003c/b\u003e/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.sfspca.org/sites/default/files/imagecache/small/photos/ebf4b22d-7176-4308-8f32-ce14dcd11a97_188.jpg",
+      "type": "1",
+      "width": "104",
+      "height": "104"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Pet Adoption Fund Home Page, Pet Adoptions, Pets For Adoption ...",
+   "htmlTitle": "Pet Adoption Fund Home Page, Pet Adoptions, \u003cb\u003ePets For Adoption\u003c/b\u003e \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://www.petfinder.com/shelters/CA404.html",
+   "displayLink": "www.petfinder.com",
+   "snippet": "Pet Adoption Fund is the largest Non Profit No-Kill animal rescue organization in   Southern California. Our mission is to rescue, shelter, and find loving ...",
+   "htmlSnippet": "Pet \u003cb\u003eAdoption\u003c/b\u003e Fund is the largest Non Profit No-Kill animal rescue organization in \u003cbr\u003e  Southern California. Our mission is to rescue, shelter, and find loving \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "xsTx88b1OmsJ",
+   "formattedUrl": "www.petfinder.com/shelters/CA404.html",
+   "htmlFormattedUrl": "www.petfinder.com/shelters/CA404.html",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://members.petfinder.org/~CA404/pizzarev.gif",
+      "type": "1",
+      "width": "240",
+      "height": "172"
+     }
+    ]
+   }
+  }
+ ]
+}

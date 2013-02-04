@@ -1,0 +1,316 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "nextPage": [
+   {
+    "title": "Google Custom Search - indexed annuity",
+    "totalResults": "82300",
+    "searchTerms": "indexed annuity",
+    "count": 10,
+    "startIndex": 91,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "017401104989814545383:mf4lavmtuva"
+   }
+  ],
+  "request": [
+   {
+    "title": "Google Custom Search - indexed annuity",
+    "totalResults": "82300",
+    "searchTerms": "indexed annuity",
+    "count": 10,
+    "startIndex": 81,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "017401104989814545383:mf4lavmtuva"
+   }
+  ],
+  "previousPage": [
+   {
+    "title": "Google Custom Search - indexed annuity",
+    "totalResults": "82300",
+    "searchTerms": "indexed annuity",
+    "count": 10,
+    "startIndex": 71,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "017401104989814545383:mf4lavmtuva"
+   }
+  ]
+ },
+ "context": {
+  "title": "College MetaSearch Comparison"
+ },
+ "searchInformation": {
+  "searchTime": 0.161854,
+  "formattedSearchTime": "0.16",
+  "totalResults": "82300",
+  "formattedTotalResults": "82,300"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "MEMBERS Products Website - MEMBERS Index Annuity",
+   "htmlTitle": "MEMBERS Products Website - MEMBERS \u003cb\u003eIndex Annuity\u003c/b\u003e",
+   "link": "http://membersproducts.com/content.aspx?id=22075",
+   "displayLink": "membersproducts.com",
+   "snippet": "MEMBERS® Index Annuities. In times of financial uncertainty, you may want to   invest your money in a place safe from market downturns, but where you can still ...",
+   "htmlSnippet": "MEMBERS® \u003cb\u003eIndex Annuities\u003c/b\u003e. In times of financial uncertainty, you may want to \u003cbr\u003e  invest your money in a place safe from market downturns, but where you can still \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "AxlaACvCOMUJ",
+   "formattedUrl": "membersproducts.com/content.aspx?id=22075",
+   "htmlFormattedUrl": "membersproducts.com/content.aspx?id=22075",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://prtlimages.cunamutual.com/imageserver/publishedimages/publish/content_retrieval_site/portlet_folder/communities/mpw/public/images/index_annuity_graphic_00021745__image__da_1095235__2.gif",
+      "type": "1",
+      "width": "160",
+      "height": "216"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "The Standard - Index Select Annuity",
+   "htmlTitle": "The Standard - \u003cb\u003eIndex\u003c/b\u003e Select \u003cb\u003eAnnuity\u003c/b\u003e",
+   "link": "http://www3.standard.com/net/public/!ut/p/c0/04_SB8K8xLLM9MSSzPy8xBz9CP0os3gPF3c3d1NLY0MDA29nA08fH0vTYJ9QM2MnM_2CbEdFAHR2CAk!/",
+   "displayLink": "www3.standard.com",
+   "snippet": "The Index Select Annuity is a single-premium, deferred annuity designed to   reflect the performance of the well known Standard & Poor's 500 ® index.",
+   "htmlSnippet": "The \u003cb\u003eIndex\u003c/b\u003e Select \u003cb\u003eAnnuity\u003c/b\u003e is a single-premium, deferred \u003cb\u003eannuity\u003c/b\u003e designed to \u003cbr\u003e  reflect the performance of the well known Standard &amp; Poor&#39;s 500 ® \u003cb\u003eindex\u003c/b\u003e.",
+   "cacheId": "ppSHTn8QfkwJ",
+   "formattedUrl": "www3.standard.com/.../04_ SB8K8xLLM9MSSzPy8xBz9CP0os3gPF3c3d1NLY0MDA29nA08f...",
+   "htmlFormattedUrl": "www3.standard.com/.../04_ SB8K8xLLM9MSSzPy8xBz9CP0os3gPF3c3d1NLY0MDA29nA08f...",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://wa4.www3.standard.com/net/themes/html/SfgTheme01/images/main/logo.gif;pvcc5fa612e2fc3017",
+      "type": "1",
+      "width": "100",
+      "height": "64"
+     }
+    ],
+    "metatags": [
+     {
+      "dcs.dcsref": "/",
+      "dcs.dcsuri": "/net/public/Professionals/Insurance/Annuities/IndexSelect",
+      "dcsext.vt": "Professionals",
+      "dcsext.vt_sid": "vKXp8lgWs5HAghVWbyucS5Z",
+      "wt.ti": "The Standard - Index Select Annuity",
+      "wt.sv": "Server1",
+      "pse.vt": "Professionals",
+      "pse.pt": "portal",
+      "creation_date": "12132010",
+      "pse.pub_date": "07312011",
+      "dcsext.ct_tad": "Professionals",
+      "wt.pn_sku": "IndexSelectAnnuity",
+      "modification date": "07312011",
+      "pse.searchable": "Yes",
+      "pse.sitedesc": "The Index Select Annuity is a single-premium, deferred annuity designed to reflect the performance of the well known Standard & Poor's 500\u003csup\u003e®\u003c/sup\u003e index.",
+      "pse.title": "Index Select Annuity"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Valuing Equity-Indexed Annuities",
+   "htmlTitle": "Valuing Equity-\u003cb\u003eIndexed Annuities\u003c/b\u003e",
+   "link": "http://www.soa.org/library/journals/north-american-actuarial-journal/2000/october/naaj0010_9.pdf",
+   "displayLink": "www.soa.org",
+   "snippet": "Equity-indexed annuities have generated a great deal of interest and excitement   among both insurers and their customers since they were first introduced to the ...",
+   "htmlSnippet": "Equity-\u003cb\u003eindexed annuities\u003c/b\u003e have generated a great deal of interest and excitement \u003cbr\u003e  among both insurers and their customers since they were first introduced to the \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "626cekArzBoJ",
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat",
+   "formattedUrl": "www.soa.org/library/journals/north-american-actuarial.../naaj0010_9.pdf",
+   "htmlFormattedUrl": "www.soa.org/library/journals/north-american-actuarial.../naaj0010_9.pdf",
+   "pagemap": {
+    "metatags": [
+     {
+      "publication_name": "North American Actuarial Journal",
+      "publication_month": "October",
+      "publication_year": "2000",
+      "producer": "PDFsharp 0.9.653 (www.pdfsharp.com) (Original: Acrobat Distiller Command 3.02b for Solaris 2.3 and later (SPARC))",
+      "moddate": "D:20070423214635-05'00'",
+      "publication_date": "2000-10-01",
+      "component_title": "Valuing Equity-Indexed Annuities",
+      "category": "Publications/Journals/North American Actuarial Journal/2000/October",
+      "creator": "Parlance Publisher 5.0/(Xyvision Postscript Formatter) 3.0 3",
+      "component_description": "Equity-indexed annuities have generated a great deal of interest and excitement among both insurers and their customers since they were first introduced to the marketplace in early 1995. Because of the embedded options in these products, the insurers are presented with some challenging mathematical problems when it comes to the pricing and management of equityindexed annuities. This paper explores the pricing aspect of three of the most common product designs: the point-to-point, the cliquet, and the lookback. Based on certain assumptions, we are able to present the pricing formulas in closed form for the three product designs. The method of Esscher transforms is the fundamental tool for pricing such deferred annuities.",
+      "creationdate": "D:20001109160612Z",
+      "publication_type": "Journal",
+      "original_filename": "/library/naaj/1997-09/naaj0010_9.pdf",
+      "title": "Valuing Equity-Indexed Annuities",
+      "author": "Serena Ee Ik Tiong",
+      "subject": "Equity-Indexed annuities have generated a great deal of interest and excitement among both insurers and their consumers since they were first introduced to the marketplace in early 1995.  Because of the embedded options in these products, the insurers are presented with some challenging mathematical problems when it comes to the pricing and management of equity-indexed annuities.  This paper explores the pricing aspect of three of the most common product designs:  the point-to-point, the cliquet, and the lookback. From NAAJ, October 2000, Volume 4, Number 4."
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "6 Common Questions About Indexed Annuities - Yahoo! Voices ...",
+   "htmlTitle": "6 Common Questions About \u003cb\u003eIndexed Annuities\u003c/b\u003e - Yahoo! Voices \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://voices.yahoo.com/6-common-questions-indexed-annuities-11093672.html",
+   "displayLink": "voices.yahoo.com",
+   "snippet": "Mar 13, 2012 ... Indexed annuities are a hybrid annuity product with the potential for higher   returns than fixed annuities and for less volatility in returns than ...",
+   "htmlSnippet": "Mar 13, 2012 \u003cb\u003e...\u003c/b\u003e \u003cb\u003eIndexed annuities\u003c/b\u003e are a hybrid annuity product with the potential for higher \u003cbr\u003e  returns than fixed annuities and for less volatility in returns than \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "cPgkCBi8CvgJ",
+   "formattedUrl": "voices.yahoo.com/6-common-questions-indexed-annuities-11093672.html",
+   "htmlFormattedUrl": "voices.yahoo.com/6-common-questions-\u003cb\u003eindexed\u003c/b\u003e-\u003cb\u003eannuities\u003c/b\u003e-11093672.html",
+   "pagemap": {
+    "metatags": [
+     {
+      "og:title": "6 Common Questions About Indexed Annuities",
+      "og:type": "article",
+      "og:url": "http://voices.yahoo.com/6-common-questions-indexed-annuities-11093672.html",
+      "og:site_name": "Yahoo! Contributor Network",
+      "og:description": "Indexed annuities are a hybrid annuity product with the potential for higher returns than fixed annuities and for less volatility in returns than variable annuities.  Here are answers to some of the most frequently asked questions about indexed annuities.",
+      "fb:page_id": "6028423778"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Indie B-D reps flocking to fixed indexed annuities - InvestmentNews",
+   "htmlTitle": "Indie B-D reps flocking to fixed \u003cb\u003eindexed annuities\u003c/b\u003e - InvestmentNews",
+   "link": "http://www.investmentnews.com/article/20120314/FREE/120319946",
+   "displayLink": "www.investmentnews.com",
+   "snippet": "Mar 14, 2012 ... Fixed indexed annuities were a hot product among independent broker-dealer   reps last year as clients sought a safe-money alternative to CDs, ...",
+   "htmlSnippet": "Mar 14, 2012 \u003cb\u003e...\u003c/b\u003e Fixed \u003cb\u003eindexed annuities\u003c/b\u003e were a hot product among independent broker-dealer \u003cbr\u003e  reps last year as clients sought a safe-money alternative to CDs, \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "A4KXfbLO3rgJ",
+   "formattedUrl": "www.investmentnews.com/article/20120314/FREE/120319946",
+   "htmlFormattedUrl": "www.investmentnews.com/article/20120314/FREE/120319946",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.investmentnews.com/storyimage/CI/20120314/FREE/120319946/AR/0/Indie-B-D-reps-flocking-to-fixed-indexed-annuities.jpg&maxw=300&q=85",
+      "type": "1",
+      "width": "240",
+      "height": "155"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Lincoln New Directions Overview",
+   "htmlTitle": "Lincoln New Directions Overview",
+   "link": "http://www.lfg.com/LincolnPageServer?LFGPage=/lfg/acc/fprod/ann/indann/index.html&LFGContentID=/lfg/acf/prd/irp/ndfia",
+   "displayLink": "www.lfg.com",
+   "snippet": "Lincoln New Directions® Fixed Indexed Annuity is a single premium fixed   indexed annuity and offers a number of features to help you meet your retirement ...",
+   "htmlSnippet": "Lincoln New Directions® Fixed \u003cb\u003eIndexed Annuity\u003c/b\u003e is a single premium fixed \u003cbr\u003e  \u003cb\u003eindexed annuity\u003c/b\u003e and offers a number of features to help you meet your retirement \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "ez03ijIFcoQJ",
+   "formattedUrl": "www.lfg.com/LincolnPageServer?LFGPage=/lfg/.../index...",
+   "htmlFormattedUrl": "www.lfg.com/LincolnPageServer?LFGPage=/lfg/.../\u003cb\u003eindex\u003c/b\u003e...",
+   "pagemap": {
+    "metatags": [
+     {
+      "clienttype": "acc",
+      "view": "acc"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Index Annuities A Suitable Approach",
+   "htmlTitle": "\u003cb\u003eIndex Annuities\u003c/b\u003e A Suitable Approach",
+   "link": "http://indexannuitybook.com/SamplePages.pdf",
+   "displayLink": "indexannuitybook.com",
+   "snippet": "Power & Protection covered index annuity basics, crediting methods and sales ...   for the new index annuity world – a world where one needs to understand, not ...",
+   "htmlSnippet": "Power &amp; Protection covered \u003cb\u003eindex annuity\u003c/b\u003e basics, crediting methods and sales \u003cb\u003e...\u003c/b\u003e \u003cbr\u003e  for the new \u003cb\u003eindex annuity\u003c/b\u003e world – a world where one needs to understand, not \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "4pSdkekN7OAJ",
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat",
+   "formattedUrl": "indexannuitybook.com/SamplePages.pdf",
+   "htmlFormattedUrl": "\u003cb\u003eindexannuity\u003c/b\u003ebook.com/SamplePages.pdf",
+   "pagemap": {
+    "metatags": [
+     {
+      "creationdate": "D:20100922153100Z",
+      "moddate": "D:20101123061240-06'00'",
+      "producer": "Acrobat Distiller 5.0.5 (Windows)",
+      "author": "J",
+      "creator": "PScript5.dll Version 5.2.2",
+      "title": "Microsoft Word - Book Final.doc"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Annuity Basics",
+   "htmlTitle": "\u003cb\u003eAnnuity\u003c/b\u003e Basics",
+   "link": "http://www.americo.com/annuities.html",
+   "displayLink": "www.americo.com",
+   "snippet": "Indexed Annuity: Indexed annuities provide the potential to outperform traditional   fixed rate annuities and avoid the downside risk of investing in the stock market ...",
+   "htmlSnippet": "\u003cb\u003eIndexed Annuity\u003c/b\u003e: \u003cb\u003eIndexed annuities\u003c/b\u003e provide the potential to outperform traditional \u003cbr\u003e  fixed rate annuities and avoid the downside risk of investing in the stock market \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "qUY0BotYDCgJ",
+   "formattedUrl": "www.americo.com/annuities.html",
+   "htmlFormattedUrl": "www.americo.com/\u003cb\u003eannuities\u003c/b\u003e.html",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.americo.com/assets/images/annutpicrght.jpg",
+      "type": "1",
+      "width": "120",
+      "height": "151"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Equity Indexed Annuity",
+   "htmlTitle": "Equity \u003cb\u003eIndexed Annuity\u003c/b\u003e",
+   "link": "http://www.annuityadvantage.com/in/equity-indexed-annuity.htm",
+   "displayLink": "www.annuityadvantage.com",
+   "snippet": "Equity indexed annuity rates and equity indexed annuity quotes from over 40   different annuity insurance companies. Compare over 300 equity indexed ...",
+   "htmlSnippet": "Equity \u003cb\u003eindexed annuity\u003c/b\u003e rates and equity \u003cb\u003eindexed annuity\u003c/b\u003e quotes from over 40 \u003cbr\u003e  different annuity insurance companies. Compare over 300 equity indexed \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "Q4a4XXLBprYJ",
+   "formattedUrl": "www.annuityadvantage.com/in/equity-indexed-annuity.htm",
+   "htmlFormattedUrl": "www.\u003cb\u003eannuity\u003c/b\u003eadvantage.com/in/equity-\u003cb\u003eindexed\u003c/b\u003e-\u003cb\u003eannuity\u003c/b\u003e.htm",
+   "pagemap": {
+    "metatags": [
+     {
+      "progid": "FrontPage.Editor.Document",
+      "microsoft theme": "corporate2 000, default",
+      "microsoft border": "tl"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Fixed Index Annuities, A lesson in indexed annuities: Part 1",
+   "htmlTitle": "Fixed \u003cb\u003eIndex Annuities\u003c/b\u003e, A lesson in \u003cb\u003eindexed annuities\u003c/b\u003e: Part 1",
+   "link": "http://www.fixedindexannuity.com/annuities/IndexedAnnuityLesson.html",
+   "displayLink": "www.fixedindexannuity.com",
+   "snippet": "Did you know that an annuity can be used to systematically accumulate money   for retirement purposes, as well as to guarantee a retirement income that you ...",
+   "htmlSnippet": "Did you know that an \u003cb\u003eannuity\u003c/b\u003e can be used to systematically accumulate money \u003cbr\u003e  for retirement purposes, as well as to guarantee a retirement income that you \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "gESv2Fwk6_EJ",
+   "formattedUrl": "www.fixedindexannuity.com/annuities/IndexedAnnuityLesson.html",
+   "htmlFormattedUrl": "www.fixed\u003cb\u003eindexannuity\u003c/b\u003e.com/\u003cb\u003eannuities\u003c/b\u003e/\u003cb\u003eIndexedAnnuity\u003c/b\u003eLesson.html",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.fixedindexannuity.com/images/guidethm.jpg",
+      "type": "1",
+      "width": "71",
+      "height": "87"
+     }
+    ]
+   }
+  }
+ ]
+}

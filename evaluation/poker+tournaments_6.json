@@ -1,0 +1,267 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "nextPage": [
+   {
+    "title": "Google Custom Search - poker tournaments",
+    "totalResults": "8820000",
+    "searchTerms": "poker tournaments",
+    "count": 10,
+    "startIndex": 71,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "017401104989814545383:mf4lavmtuva"
+   }
+  ],
+  "request": [
+   {
+    "title": "Google Custom Search - poker tournaments",
+    "totalResults": "8820000",
+    "searchTerms": "poker tournaments",
+    "count": 10,
+    "startIndex": 61,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "017401104989814545383:mf4lavmtuva"
+   }
+  ],
+  "previousPage": [
+   {
+    "title": "Google Custom Search - poker tournaments",
+    "totalResults": "8820000",
+    "searchTerms": "poker tournaments",
+    "count": 10,
+    "startIndex": 51,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "017401104989814545383:mf4lavmtuva"
+   }
+  ]
+ },
+ "context": {
+  "title": "College MetaSearch Comparison"
+ },
+ "searchInformation": {
+  "searchTime": 0.180254,
+  "formattedSearchTime": "0.18",
+  "totalResults": "8820000",
+  "formattedTotalResults": "8,820,000"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "How to Play Poker | Learn to Play Texas Holdem | Pokerstars",
+   "htmlTitle": "How to Play \u003cb\u003ePoker\u003c/b\u003e | Learn to Play Texas Holdem | Pokerstars",
+   "link": "http://www.pokerstars.com/poker/",
+   "displayLink": "www.pokerstars.com",
+   "snippet": "PokerStars is proud to offer a wide variety of multi-table poker tournaments in all   of ... Like a traditional Las Vegas poker room, if a table that you want to play at is ...",
+   "htmlSnippet": "PokerStars is proud to offer a wide variety of multi-table \u003cb\u003epoker tournaments\u003c/b\u003e in all \u003cbr\u003e  of \u003cb\u003e...\u003c/b\u003e Like a traditional Las Vegas \u003cb\u003epoker room\u003c/b\u003e, if a table that you want to play at is \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "W1SelztbBvAJ",
+   "formattedUrl": "www.pokerstars.com/poker/",
+   "htmlFormattedUrl": "www.\u003cb\u003epoker\u003c/b\u003estars.com/\u003cb\u003epoker\u003c/b\u003e/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.pokerstars.com/images/games/portal/video-deposit.jpg",
+      "type": "1",
+      "width": "128",
+      "height": "156"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Poker Tournaments - Play in online poker tournaments",
+   "htmlTitle": "\u003cb\u003ePoker Tournaments\u003c/b\u003e - Play in online \u003cb\u003epoker tournaments\u003c/b\u003e",
+   "link": "http://www.poker.org/tournaments/",
+   "displayLink": "www.poker.org",
+   "snippet": "The best online poker tournaments, including Texas Hold'em, Omaha and other   games. Choose a poker room and play in a poker tournament today.",
+   "htmlSnippet": "The best online \u003cb\u003epoker tournaments\u003c/b\u003e, including Texas Hold&#39;em, Omaha and other \u003cbr\u003e  games. Choose a \u003cb\u003epoker room\u003c/b\u003e and play in a \u003cb\u003epoker tournament\u003c/b\u003e today.",
+   "cacheId": "iJiiK3aOBmQJ",
+   "formattedUrl": "www.poker.org/tournaments/",
+   "htmlFormattedUrl": "www.\u003cb\u003epoker\u003c/b\u003e.org/\u003cb\u003etournaments\u003c/b\u003e/"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Over $12000000 Guaranteed / Poker",
+   "htmlTitle": "Over $12000000 Guaranteed / \u003cb\u003ePoker\u003c/b\u003e",
+   "link": "http://poker.betfair.com/en/tournaments/",
+   "displayLink": "poker.betfair.com",
+   "snippet": "Online Poker Tournaments Betfair. Apart from enjoying up to 40% valueback via   the Players' Club, a choice of five great value sign-up bonuses of up to $2500, ...",
+   "htmlSnippet": "Online \u003cb\u003ePoker Tournaments\u003c/b\u003e Betfair. Apart from enjoying up to 40% valueback via \u003cbr\u003e  the Players&#39; Club, a choice of five great value sign-up bonuses of up to $2500, \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "RwoB6JulIIkJ",
+   "formattedUrl": "poker.betfair.com/en/tournaments/",
+   "htmlFormattedUrl": "\u003cb\u003epoker\u003c/b\u003e.betfair.com/en/\u003cb\u003etournaments\u003c/b\u003e/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://poker.betfair.com/images/page_play_download.png",
+      "type": "1",
+      "width": "200",
+      "height": "113"
+     }
+    ],
+    "metatags": [
+     {
+      "language": "en"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Poker Tournament Cancellation - Online Tournament Cancelled ...",
+   "htmlTitle": "\u003cb\u003ePoker Tournament\u003c/b\u003e Cancellation - Online Tournament Cancelled \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://www.pokerstars.com/poker/tournaments/rules/cancellations/",
+   "displayLink": "www.pokerstars.com",
+   "snippet": "Information on the PokerStars tournament cancellation policy, including details   on how they compensate or refund their players, based on circumstance.",
+   "htmlSnippet": "Information on the PokerStars \u003cb\u003etournament\u003c/b\u003e cancellation policy, including details \u003cbr\u003e  on how they compensate or refund their players, based on circumstance.",
+   "cacheId": "-N2ULKl8ioQJ",
+   "formattedUrl": "www.pokerstars.com/poker/tournaments/rules/cancellations/",
+   "htmlFormattedUrl": "www.\u003cb\u003epoker\u003c/b\u003estars.com/\u003cb\u003epoker\u003c/b\u003e/\u003cb\u003etournaments\u003c/b\u003e/rules/cancellations/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.pokerstars.com/images/ico/special-offers.png",
+      "type": "1",
+      "width": "87",
+      "height": "69"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Online Poker Room CelebPoker - Play Texas Holdem Games",
+   "htmlTitle": "Online \u003cb\u003ePoker Room\u003c/b\u003e CelebPoker - Play Texas Holdem Games",
+   "link": "http://www.celebpoker.com/",
+   "displayLink": "www.celebpoker.com",
+   "snippet": "Online poker room CelebPoker offers players a wide range of poker games   online to suit all levels of play. Experience the best poker tournaments, freerolls, ...",
+   "htmlSnippet": "Online \u003cb\u003epoker room\u003c/b\u003e CelebPoker offers players a wide range of poker games \u003cbr\u003e  online to suit all levels of play. Experience the best \u003cb\u003epoker tournaments\u003c/b\u003e, freerolls, \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "YvzWpeay9gYJ",
+   "formattedUrl": "www.celebpoker.com/",
+   "htmlFormattedUrl": "www.celeb\u003cb\u003epoker\u003c/b\u003e.com/",
+   "pagemap": {
+    "metatags": [
+     {
+      "title": "Online Poker Room CelebPoker - Play Texas Holdem Games"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "PokerStars Multi-Table Tournament Leader Board Home Page",
+   "htmlTitle": "PokerStars Multi-Table \u003cb\u003eTournament\u003c/b\u003e Leader Board Home Page",
+   "link": "http://www.pokerstars.com/poker/tournaments/leader-board/",
+   "displayLink": "www.pokerstars.com",
+   "snippet": "PokerStars is home to the biggest and best online poker tournaments in the world  , so there's nowhere better to prove your skills. The PokerStars Multi-Table ...",
+   "htmlSnippet": "PokerStars is home to the biggest and best online \u003cb\u003epoker tournaments\u003c/b\u003e in the world\u003cbr\u003e  , so there&#39;s nowhere better to prove your skills. The PokerStars Multi-Table \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "7c6Pn2IAiQgJ",
+   "formattedUrl": "www.pokerstars.com/poker/tournaments/leader-board/",
+   "htmlFormattedUrl": "www.\u003cb\u003epoker\u003c/b\u003estars.com/\u003cb\u003epoker\u003c/b\u003e/\u003cb\u003etournaments\u003c/b\u003e/leader-board/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.pokerstars.com/images/ico/special-offers.png",
+      "type": "1",
+      "width": "87",
+      "height": "69"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "LA Poker Classic",
+   "htmlTitle": "LA \u003cb\u003ePoker\u003c/b\u003e Classic",
+   "link": "http://www.commercecasino.com/tournaments/?tournamentId=3",
+   "displayLink": "www.commercecasino.com",
+   "snippet": "$20000 guaranteed 1pm NLH Megastack #CalBreeze event, re-entry during the   1st 8 levels! http://t.co/7nd3HrPr. 16 Hours Ago. Show us what you got!",
+   "htmlSnippet": "$20000 guaranteed 1pm NLH Megastack #CalBreeze event, re-entry during the \u003cbr\u003e  1st 8 levels! http://t.co/7nd3HrPr. 16 Hours Ago. Show us what you got!",
+   "cacheId": "aNg1hJElpEMJ",
+   "formattedUrl": "www.commercecasino.com/tournaments/?tournamentId=3",
+   "htmlFormattedUrl": "www.commercecasino.com/\u003cb\u003etournaments\u003c/b\u003e/?\u003cb\u003etournament\u003c/b\u003eId=3",
+   "pagemap": {
+    "metatags": [
+     {
+      "viewport": "width=1024"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Live Poker Tournaments Schedules - PokerStars Satellites",
+   "htmlTitle": "Live \u003cb\u003ePoker Tournaments\u003c/b\u003e Schedules - PokerStars Satellites",
+   "link": "http://www.pokerstars.com/poker/tournaments/live/",
+   "displayLink": "www.pokerstars.com",
+   "snippet": "Current news on satellite poker tournaments at PokerStars to the biggest live   poker tournaments around the world.",
+   "htmlSnippet": "Current news on satellite \u003cb\u003epoker tournaments\u003c/b\u003e at PokerStars to the biggest live \u003cbr\u003e  \u003cb\u003epoker tournaments\u003c/b\u003e around the world.",
+   "cacheId": "6Cow8LUp6UQJ",
+   "formattedUrl": "www.pokerstars.com/poker/tournaments/live/",
+   "htmlFormattedUrl": "www.\u003cb\u003epoker\u003c/b\u003estars.com/\u003cb\u003epoker\u003c/b\u003e/\u003cb\u003etournaments\u003c/b\u003e/live/"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Poker Rules, Strategy, & Tournaments | Spirit Mountain Casino",
+   "htmlTitle": "\u003cb\u003ePoker\u003c/b\u003e Rules, Strategy, &amp; \u003cb\u003eTournaments\u003c/b\u003e | Spirit Mountain Casino",
+   "link": "http://spiritmountain.com/poker/",
+   "displayLink": "spiritmountain.com",
+   "snippet": "Learn the rules of poker at Spirit Mountain. We offer 17 tables, 24 hours a day.   Stop by and paly Omaha, Texas Hold 'Em, and Stud.",
+   "htmlSnippet": "Learn the rules of \u003cb\u003epoker\u003c/b\u003e at Spirit Mountain. We offer 17 tables, 24 hours a day. \u003cbr\u003e  Stop by and paly Omaha, Texas Hold &#39;Em, and Stud.",
+   "cacheId": "pmjgajfxXKYJ",
+   "formattedUrl": "spiritmountain.com/poker/",
+   "htmlFormattedUrl": "spiritmountain.com/\u003cb\u003epoker\u003c/b\u003e/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://spiritmountain.com/images/uploads/slider/top-of-the-mountain-poker.jpg",
+      "type": "1",
+      "width": "376",
+      "height": "134"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Poker News, Online Poker Reviews & Bonuses | PokerNews",
+   "htmlTitle": "\u003cb\u003ePoker\u003c/b\u003e News, Online \u003cb\u003ePoker\u003c/b\u003e Reviews &amp; Bonuses | PokerNews",
+   "link": "http://www.pokernews.com/",
+   "displayLink": "www.pokernews.com",
+   "snippet": "1 poker information source, offering: global poker news coverage, online poker ...   poker freerolls & tournaments information, tutorials, tools and many more.",
+   "htmlSnippet": "1 \u003cb\u003epoker\u003c/b\u003e information source, offering: global \u003cb\u003epoker\u003c/b\u003e news coverage, online \u003cb\u003epoker\u003c/b\u003e \u003cb\u003e...\u003c/b\u003e \u003cbr\u003e  \u003cb\u003epoker\u003c/b\u003e freerolls &amp; \u003cb\u003etournaments\u003c/b\u003e information, tutorials, tools and many more.",
+   "cacheId": "Rdd35pvFIl8J",
+   "formattedUrl": "www.pokernews.com/",
+   "htmlFormattedUrl": "www.\u003cb\u003epoker\u003c/b\u003enews.com/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.pokernews.com/w/articles/5009/c1121076d.jpg",
+      "type": "1",
+      "width": "276",
+      "height": "183"
+     }
+    ],
+    "metatags": [
+     {
+      "fb:admins": "100001502531544",
+      "application-name": "PokerNews Global",
+      "msapplication-starturl": "/",
+      "msapplication-navbutton-color": "#000000",
+      "msapplication-task": "name=News;action-uri=/news/;icon-uri=/img/jumplist/news.ico"
+     }
+    ]
+   }
+  }
+ ]
+}

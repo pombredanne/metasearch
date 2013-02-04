@@ -1,0 +1,308 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "nextPage": [
+   {
+    "title": "Google Custom Search - yahoo",
+    "totalResults": "354000000",
+    "searchTerms": "yahoo",
+    "count": 10,
+    "startIndex": 31,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "017401104989814545383:mf4lavmtuva"
+   }
+  ],
+  "request": [
+   {
+    "title": "Google Custom Search - yahoo",
+    "totalResults": "354000000",
+    "searchTerms": "yahoo",
+    "count": 10,
+    "startIndex": 21,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "017401104989814545383:mf4lavmtuva"
+   }
+  ],
+  "previousPage": [
+   {
+    "title": "Google Custom Search - yahoo",
+    "totalResults": "354000000",
+    "searchTerms": "yahoo",
+    "count": 10,
+    "startIndex": 11,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "017401104989814545383:mf4lavmtuva"
+   }
+  ]
+ },
+ "context": {
+  "title": "College MetaSearch Comparison"
+ },
+ "searchInformation": {
+  "searchTime": 0.317675,
+  "formattedSearchTime": "0.32",
+  "totalResults": "354000000",
+  "formattedTotalResults": "354,000,000"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "Yahoo! Careers",
+   "htmlTitle": "\u003cb\u003eYahoo\u003c/b\u003e! Careers",
+   "link": "http://careers.yahoo.com/",
+   "displayLink": "careers.yahoo.com",
+   "snippet": "Yahoo! (NASDAQ:YHOO) today announced that it has appointed Marissa Mayer   as President and Chief Executive Officer and Member of the Board of Directors ...",
+   "htmlSnippet": "\u003cb\u003eYahoo\u003c/b\u003e! (NASDAQ:YHOO) today announced that it has appointed Marissa Mayer \u003cbr\u003e  as President and Chief Executive Officer and Member of the Board of Directors \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "yj8kfNhIBpcJ",
+   "formattedUrl": "careers.yahoo.com/",
+   "htmlFormattedUrl": "careers.\u003cb\u003eyahoo\u003c/b\u003e.com/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://l.yimg.com/qj/ycar/images/1340146916_extralarge.jpg",
+      "type": "1",
+      "width": "357",
+      "height": "141"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Yahoo!® for Mobile. Your favorite Yahoo! services, on your phone.",
+   "htmlTitle": "\u003cb\u003eYahoo\u003c/b\u003e!® for Mobile. Your favorite \u003cb\u003eYahoo\u003c/b\u003e! services, on your phone.",
+   "link": "http://mobile.yahoo.com/",
+   "displayLink": "mobile.yahoo.com",
+   "snippet": "Make Yahoo! Mobile your starting point to the mobile Internet. oneSearch, Email,   Mail, Weather, News, Search, Flickr, Photos, Sports, Finance, Local, Maps, ...",
+   "htmlSnippet": "Make \u003cb\u003eYahoo\u003c/b\u003e! Mobile your starting point to the mobile Internet. oneSearch, Email, \u003cbr\u003e  Mail, Weather, News, Search, Flickr, Photos, Sports, Finance, Local, Maps, \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "t9G0EM_bO7IJ",
+   "formattedUrl": "mobile.yahoo.com/",
+   "htmlFormattedUrl": "mobile.\u003cb\u003eyahoo\u003c/b\u003e.com/"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Yahoo! Research",
+   "htmlTitle": "\u003cb\u003eYahoo\u003c/b\u003e! Research",
+   "link": "http://research.yahoo.com/",
+   "displayLink": "research.yahoo.com",
+   "snippet": "We're responsible for big inventions - our goals are nothing short of inventing the   future of the Internet and creating the next generation of businesses for Yahoo!",
+   "htmlSnippet": "We&#39;re responsible for big inventions - our goals are nothing short of inventing the \u003cbr\u003e  future of the Internet and creating the next generation of businesses for \u003cb\u003eYahoo\u003c/b\u003e!",
+   "cacheId": "kTixu4Onp68J",
+   "formattedUrl": "research.yahoo.com/",
+   "htmlFormattedUrl": "research.\u003cb\u003eyahoo\u003c/b\u003e.com/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://research.yahoo.com/files/tn_4cast.gif",
+      "type": "1",
+      "width": "112",
+      "height": "80"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Yahoo! Widgets",
+   "htmlTitle": "\u003cb\u003eYahoo\u003c/b\u003e! Widgets",
+   "link": "http://widgets.yahoo.com/",
+   "displayLink": "widgets.yahoo.com",
+   "snippet": "1000s of free Widgets help you save time by bringing your favorite content and   services right to you.",
+   "htmlSnippet": "1000s of free Widgets help you save time by bringing your favorite content and \u003cbr\u003e  services right to you.",
+   "cacheId": "Hz1tsY_o9RIJ",
+   "formattedUrl": "widgets.yahoo.com/",
+   "htmlFormattedUrl": "widgets.\u003cb\u003eyahoo\u003c/b\u003e.com/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://desktopwidgets.zenfs.com/eol/images/eol.png",
+      "type": "1",
+      "width": "218",
+      "height": "231"
+     }
+    ],
+    "metatags": [
+     {
+      "title": "Yahoo! Widgets",
+      "language": "en"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Yahoo! Weather - Weather Forecasts | Maps | News",
+   "htmlTitle": "\u003cb\u003eYahoo\u003c/b\u003e! Weather - Weather Forecasts | Maps | News",
+   "link": "http://weather.yahoo.com/",
+   "displayLink": "weather.yahoo.com",
+   "snippet": "View the latest weather forecasts, maps, news and alerts on Yahoo!   WeatherView the latest weather forecasts, maps, news and alerts on Yahoo!   Weather.",
+   "htmlSnippet": "View the latest weather forecasts, maps, news and alerts on \u003cb\u003eYahoo\u003c/b\u003e! \u003cbr\u003e  WeatherView the latest weather forecasts, maps, news and alerts on \u003cb\u003eYahoo\u003c/b\u003e! \u003cbr\u003e  Weather.",
+   "cacheId": "_zt44CUDGEAJ",
+   "formattedUrl": "weather.yahoo.com/",
+   "htmlFormattedUrl": "weather.\u003cb\u003eyahoo\u003c/b\u003e.com/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://l.yimg.com/bt/api/res/1.2/ml0KcF0kpO68gDts0lHOdQ--/YXBwaWQ9eW5ld3M7Zmk9ZmlsbDtoPTc1O3E9ODU7dz0xMDA-/http://media.zenfs.com/en_ca/News/CBC/li-grapes-davison-1246-620.jpg",
+      "type": "1",
+      "width": "89",
+      "height": "66"
+     }
+    ],
+    "website": [
+     {
+      "type": "website",
+      "title": "Yahoo! Weather",
+      "description": "View the latest weather forecasts, maps, news and alerts on Yahoo! WeatherView the latest weather forecasts, maps, news and alerts on Yahoo! Weather. Find local weather forecasts for the USA...",
+      "image": "http://l.yimg.com/bt/api/res/1.2/_4DCy95muHwMUeopXu9_xg--/YXBwaWQ9eW5ld3M7Zmk9ZmlsbDtoPTE1MDtweG9mZj01MDtweW9mZj0wO3c9MTUw/http%3A//l.yimg.com/os/mit/media/p/common/images/3d_ybang_150150.png",
+      "site_name": "Yahoo! Weather",
+      "url": "http://weather.yahoo.com/"
+     }
+    ],
+    "metatags": [
+     {
+      "og:type": "website",
+      "og:title": "Yahoo! Weather",
+      "og:description": "View the latest weather forecasts, maps, news and alerts on Yahoo! WeatherView the latest weather forecasts, maps, news and alerts on Yahoo! Weather. Find local weather forecasts for the USA and cities throughout the world.. Find local weather forecasts for the Canada and cities throughout the world.",
+      "og:image": "http://l.yimg.com/bt/api/res/1.2/_4DCy95muHwMUeopXu9_xg--/YXBwaWQ9eW5ld3M7Zmk9ZmlsbDtoPTE1MDtweG9mZj01MDtweW9mZj0wO3c9MTUw/http%3A//l.yimg.com/os/mit/media/p/common/images/3d_ybang_150150.png",
+      "og:site_name": "Yahoo! Weather",
+      "og:url": "http://weather.yahoo.com/"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Yahoo! Shopping - Online Shopping with great products, prices and ...",
+   "htmlTitle": "\u003cb\u003eYahoo\u003c/b\u003e! Shopping - Online Shopping with great products, prices and \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://shopping.yahoo.com/",
+   "displayLink": "shopping.yahoo.com",
+   "snippet": "Yahoo! Shopping is the best place to read user reviews, explore great products   and buy online.",
+   "htmlSnippet": "\u003cb\u003eYahoo\u003c/b\u003e! Shopping is the best place to read user reviews, explore great products \u003cbr\u003e  and buy online.",
+   "cacheId": "9R4vUJfWOX4J",
+   "formattedUrl": "shopping.yahoo.com/",
+   "htmlFormattedUrl": "shopping.\u003cb\u003eyahoo\u003c/b\u003e.com/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://i.pgcdn.com/pi/95/66/35/956635168_125.jpg",
+      "type": "1",
+      "width": "100",
+      "height": "100"
+     }
+    ],
+    "metatags": [
+     {
+      "fb:admins": "100000971447717"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Yahoo! Info Center",
+   "htmlTitle": "\u003cb\u003eYahoo\u003c/b\u003e! Info Center",
+   "link": "http://info.yahoo.com/",
+   "displayLink": "info.yahoo.com",
+   "snippet": "Policies and terms for users, as well as information for investors,for prospective   employees, and in the company in general.",
+   "htmlSnippet": "Policies and terms for users, as well as information for investors,for prospective \u003cbr\u003e  employees, and in the company in general.",
+   "cacheId": "JmVCykN1KG0J",
+   "formattedUrl": "info.yahoo.com/",
+   "htmlFormattedUrl": "info.\u003cb\u003eyahoo\u003c/b\u003e.com/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://l.yimg.com/dh/ap/infomainpage/img_yblog_01.gif",
+      "type": "1",
+      "width": "138",
+      "height": "87"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Yahoo! Travel - Cheap flights, hotels, travel guides & car rental",
+   "htmlTitle": "\u003cb\u003eYahoo\u003c/b\u003e! Travel - Cheap flights, hotels, travel guides &amp; car rental",
+   "link": "http://travel.yahoo.com/",
+   "displayLink": "travel.yahoo.com",
+   "snippet": "Find cheap flights, hotels and car rentals with Yahoo! Travel. Plan your trip with   travel guides, personalized recommendations, articles, deals and more.",
+   "htmlSnippet": "Find cheap flights, hotels and car rentals with \u003cb\u003eYahoo\u003c/b\u003e! Travel. Plan your trip with \u003cbr\u003e  travel guides, personalized recommendations, articles, deals and more.",
+   "cacheId": "XwQ9ZeCKbgMJ",
+   "formattedUrl": "travel.yahoo.com/",
+   "htmlFormattedUrl": "travel.\u003cb\u003eyahoo\u003c/b\u003e.com/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://l.yimg.com/a/i/globaltravel/assets/hero/hero-las_vegas_nevada.jpg",
+      "type": "1",
+      "width": "357",
+      "height": "141"
+     }
+    ],
+    "metatags": [
+     {
+      "y_key": "17f2f671d47e7697",
+      "msvalidate.01": "8C1912E9ADC319DB5C7A561F404B0F43",
+      "fb:admins": "100000971447717"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Yahoo! Advertising Solutions",
+   "htmlTitle": "\u003cb\u003eYahoo\u003c/b\u003e! Advertising Solutions",
+   "link": "http://advertising.yahoo.com/",
+   "displayLink": "advertising.yahoo.com",
+   "snippet": "Drive your business with what only Yahoo! Advertising offers: the science to   target an audience, the art to create engagement, and the scale to reach the right ...",
+   "htmlSnippet": "Drive your business with what only \u003cb\u003eYahoo\u003c/b\u003e! Advertising offers: the science to \u003cbr\u003e  target an audience, the art to create engagement, and the scale to reach the right \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "mTYAFgtFEGcJ",
+   "formattedUrl": "advertising.yahoo.com/",
+   "htmlFormattedUrl": "advertising.\u003cb\u003eyahoo\u003c/b\u003e.com/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://l3.yimg.com/bt/api/res/1.2/2NBOWovWk3nZSkBA8.y43A--/YXBwaWQ9eW5ld3M7Y2g9MTU0MTtjcj0xO2N3PTI3NDM7ZHg9NzE7ZHk9MzU7Zmk9dWxjcm9wO2g9MzU0O3E9ODU7dz02MzA-/http://l.yimg.com/os/477/2012/07/19/Computer-Gift-Box-jpg_233715.jpg",
+      "type": "1",
+      "width": "300",
+      "height": "168"
+     }
+    ],
+    "metatags": [
+     {
+      "og:type": "website",
+      "og:title": "Yahoo!",
+      "og:description": "Drive your business with what only Yahoo! Advertising offers: the science to target an audience, the art to create engagement, and the scale to reach the right audience in meaningful numbers. Discover which ad products, marketing tips, and sponsorship opportunities will increase results for advertisers and generate new revenue for their clients.",
+      "og:image": "http://l.yimg.com/bt/api/res/1.2/_4DCy95muHwMUeopXu9_xg--/YXBwaWQ9eW5ld3M7Zmk9ZmlsbDtoPTE1MDtweG9mZj01MDtweW9mZj0wO3c9MTUw/http%3A//l.yimg.com/os/mit/media/p/common/images/3d_ybang_150150.png",
+      "fb:app_id": "205855236137183",
+      "og:site_name": "Yahoo!",
+      "og:url": "http://advertising.yahoo.com/"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Yahoo! Site Explorer",
+   "htmlTitle": "\u003cb\u003eYahoo\u003c/b\u003e! Site Explorer",
+   "link": "http://l.yimg.com/pv/static/misc/index.html",
+   "displayLink": "l.yimg.com",
+   "snippet": "With the completion of algorithmic transition to Bing, Yahoo! Search has merged   Site Explorer into Bing Webmaster Tools. Webmasters should now be using the ...",
+   "htmlSnippet": "With the completion of algorithmic transition to Bing, \u003cb\u003eYahoo\u003c/b\u003e! Search has merged \u003cbr\u003e  Site Explorer into Bing Webmaster Tools. Webmasters should now be using the \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "pnTpPCWO36QJ",
+   "formattedUrl": "l.yimg.com/pv/static/misc/index.html",
+   "htmlFormattedUrl": "l.yimg.com/pv/static/misc/index.html"
+  }
+ ]
+}

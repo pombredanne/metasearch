@@ -1,0 +1,329 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "nextPage": [
+   {
+    "title": "Google Custom Search - pampered chef",
+    "totalResults": "992000",
+    "searchTerms": "pampered chef",
+    "count": 10,
+    "startIndex": 41,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "017401104989814545383:mf4lavmtuva"
+   }
+  ],
+  "request": [
+   {
+    "title": "Google Custom Search - pampered chef",
+    "totalResults": "992000",
+    "searchTerms": "pampered chef",
+    "count": 10,
+    "startIndex": 31,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "017401104989814545383:mf4lavmtuva"
+   }
+  ],
+  "previousPage": [
+   {
+    "title": "Google Custom Search - pampered chef",
+    "totalResults": "992000",
+    "searchTerms": "pampered chef",
+    "count": 10,
+    "startIndex": 21,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "017401104989814545383:mf4lavmtuva"
+   }
+  ]
+ },
+ "context": {
+  "title": "College MetaSearch Comparison"
+ },
+ "searchInformation": {
+  "searchTime": 0.139123,
+  "formattedSearchTime": "0.14",
+  "totalResults": "992000",
+  "formattedTotalResults": "992,000"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "About Pampered Chef and other information at PamperedChef.com",
+   "htmlTitle": "About \u003cb\u003ePampered Chef\u003c/b\u003e and other information at \u003cb\u003ePamperedChef\u003c/b\u003e.com",
+   "link": "http://www.pamperedchef.com/about-pampered-chef.jsp",
+   "displayLink": "www.pamperedchef.com",
+   "snippet": "Learn more about Pampered Chef and how we've become the company you   know today.",
+   "htmlSnippet": "Learn more about \u003cb\u003ePampered Chef\u003c/b\u003e and how we&#39;ve become the company you \u003cbr\u003e  know today.",
+   "cacheId": "ElfTOilwSpgJ",
+   "formattedUrl": "www.pamperedchef.com/about-pampered-chef.jsp",
+   "htmlFormattedUrl": "www.\u003cb\u003epamperedchef\u003c/b\u003e.com/about-\u003cb\u003epampered\u003c/b\u003e-\u003cb\u003echef\u003c/b\u003e.jsp",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.pamperedchef.com/images/public/us/home_office_day.jpg",
+      "type": "1",
+      "width": "192",
+      "height": "141"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Your Pampered Chef Lady & Trudy's Personal Chef & Catering ...",
+   "htmlTitle": "Your \u003cb\u003ePampered Chef\u003c/b\u003e Lady &amp; Trudy&#39;s Personal Chef &amp; Catering \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://www.facebook.com/pages/Your-Pampered-Chef-Lady-Trudys-Personal-Chef-Catering-Service/106289599399797",
+   "displayLink": "www.facebook.com",
+   "snippet": "To connect with Your Pampered Chef Lady & Trudy's Personal Chef & Catering   Service, sign up for ... http://www.pamperedchef.biz/TrudyMaples and www.",
+   "htmlSnippet": "To connect with Your \u003cb\u003ePampered Chef\u003c/b\u003e Lady &amp; Trudy&#39;s Personal Chef &amp; Catering \u003cbr\u003e  Service, sign up for \u003cb\u003e...\u003c/b\u003e http://www.\u003cb\u003epamperedchef\u003c/b\u003e.biz/TrudyMaples and www.",
+   "cacheId": "-VijOierie0J",
+   "formattedUrl": "www.facebook.com/...Pampered-Chef...Chef.../106289599399797",
+   "htmlFormattedUrl": "www.facebook.com/...\u003cb\u003ePampered\u003c/b\u003e-\u003cb\u003eChef\u003c/b\u003e...\u003cb\u003eChef\u003c/b\u003e.../106289599399797",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://profile.ak.fbcdn.net/hprofile-ak-snc4/195780_106289599399797_3796582_n.jpg",
+      "type": "1",
+      "width": "160",
+      "height": "240"
+     }
+    ],
+    "organization": [
+     {
+      "photo": "http://profile.ak.fbcdn.net/hprofile-ak-snc4/195780_106289599399797_3796582_n.jpg",
+      "name": "Your Pampered Chef Lady & Trudy's Personal Chef & Catering Service"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Nylon Pan Scrapers",
+   "htmlTitle": "Nylon Pan Scrapers",
+   "link": "http://www.pamperedchef.com/our_products/catalog/product.jsp?productId=241&categoryCode=FH",
+   "displayLink": "www.pamperedchef.com",
+   "snippet": "... LEGAL/PRIVACY · facebook · twitter · you tube · The Pampered Chef, Ltd,   Kitchen Accessories, Addison, IL. © 2012 The Pampered Chef used under   license.",
+   "htmlSnippet": "\u003cb\u003e...\u003c/b\u003e LEGAL/PRIVACY &middot; facebook &middot; twitter &middot; you tube &middot; The \u003cb\u003ePampered Chef\u003c/b\u003e, Ltd, \u003cbr\u003e  Kitchen Accessories, Addison, IL. © 2012 The \u003cb\u003ePampered Chef\u003c/b\u003e used under \u003cbr\u003e  license.",
+   "cacheId": "xKbJLaFBHK4J",
+   "formattedUrl": "www.pamperedchef.com/our_products/catalog/product.jsp?...",
+   "htmlFormattedUrl": "www.\u003cb\u003epamperedchef\u003c/b\u003e.com/our_products/catalog/product.jsp?...",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.pamperedchef.com/images/product/resized/2610_product.jpg",
+      "type": "1",
+      "width": "160",
+      "height": "160"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Amazon.com: The Pampered Chef: The Story of One of America's ...",
+   "htmlTitle": "Amazon.com: The \u003cb\u003ePampered Chef\u003c/b\u003e: The Story of One of America&#39;s \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://www.amazon.com/The-Pampered-Chef-Americas-Companies/dp/0385515359",
+   "displayLink": "www.amazon.com",
+   "snippet": "Christopher's multimillion-dollar kitchen tools company, the Pampered Chef, was   recently acquired by Warren Buffett's Berkshire Hathaway; her book documents ...",
+   "htmlSnippet": "Christopher&#39;s multimillion-dollar kitchen tools company, the \u003cb\u003ePampered Chef\u003c/b\u003e, was \u003cbr\u003e  recently acquired by Warren Buffett&#39;s Berkshire Hathaway; her book documents \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "lCp6J-zKa-YJ",
+   "formattedUrl": "www.amazon.com/The-Pampered-Chef-Americas.../0385515359",
+   "htmlFormattedUrl": "www.amazon.com/The-\u003cb\u003ePampered\u003c/b\u003e-\u003cb\u003eChef\u003c/b\u003e-Americas.../0385515359",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://ecx.images-amazon.com/images/I/51e0SzF9N5L._BO2,204,203,200_PIsitb-sticker-arrow-click,TopRight,35,-76_AA300_SH20_OU01_.jpg"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "225",
+      "height": "225",
+      "src": "https://encrypted-tbn2.google.com/images?q=tbn:ANd9GcSTLziCyOOkAnEuRzpUyevwRWT9k-YCzgkd_ZZ3Silo4AedbvBFw-aqVOM"
+     }
+    ],
+    "scraped": [
+     {
+      "image_link": "http://ecx.images-amazon.com/images/I/51e0SzF9N5L._BO2,204,203,200_PIsitb-sticker-arrow-click,TopRight,35,-76_AA300_SH20_OU01_.jpg"
+     }
+    ],
+    "metatags": [
+     {
+      "title": "Amazon.com: The Pampered Chef: The Story of One of America's Most Beloved Companies (9780385515351): Doris Christopher: Books"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Recipes search for quick recipe ideas at PamperedChef.com",
+   "htmlTitle": "Recipes search for quick recipe ideas at \u003cb\u003ePamperedChef\u003c/b\u003e.com",
+   "link": "http://www.pamperedchef.com/recipe_search/search.jsp",
+   "displayLink": "www.pamperedchef.com",
+   "snippet": "Search the Pampered Chef's database of thousands of recipes by ingredient,   name, or product!",
+   "htmlSnippet": "Search the \u003cb\u003ePampered Chef&#39;s\u003c/b\u003e database of thousands of recipes by ingredient, \u003cbr\u003e  name, or product!",
+   "cacheId": "j8m_GmTUsZUJ",
+   "formattedUrl": "www.pamperedchef.com/recipe_search/search.jsp",
+   "htmlFormattedUrl": "www.\u003cb\u003epamperedchef\u003c/b\u003e.com/recipe_search/search.jsp",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.pamperedchef.com/images/public/recipe/recipe_host_bnr.jpg",
+      "type": "1",
+      "width": "192",
+      "height": "196"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "The Pampered Chef Mix N Chop #2583: Amazon.com: Kitchen ...",
+   "htmlTitle": "The \u003cb\u003ePampered Chef\u003c/b\u003e Mix N Chop #2583: Amazon.com: Kitchen \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://www.amazon.com/The-Pampered-Chef-Chop-2583/dp/B0011UFPXU",
+   "displayLink": "www.amazon.com",
+   "snippet": "A Pampered Chef® exclusive! Unique, beveled pinwheel blades efficiently chop   and crumble foods for even cooking and seasoning. Its high-quality nylon ...",
+   "htmlSnippet": "A \u003cb\u003ePampered Chef\u003c/b\u003e® exclusive! Unique, beveled pinwheel blades efficiently chop \u003cbr\u003e  and crumble foods for even cooking and seasoning. Its high-quality nylon \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "GtQfh9Tqd60J",
+   "formattedUrl": "www.amazon.com/The-Pampered-Chef-Chop-2583/.../B0011UFPXU",
+   "htmlFormattedUrl": "www.amazon.com/The-\u003cb\u003ePampered\u003c/b\u003e-\u003cb\u003eChef\u003c/b\u003e-Chop-2583/.../B0011UFPXU",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://ecx.images-amazon.com/images/I/51i6sYMDwGL._SL500_AA300_.jpg"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "225",
+      "height": "225",
+      "src": "https://encrypted-tbn2.google.com/images?q=tbn:ANd9GcTwGCvebyYh799FKo75vhvejP7Lww-AU6jwKo8wHTnelMTJVuQpPpmuQW4"
+     }
+    ],
+    "scraped": [
+     {
+      "image_link": "http://ecx.images-amazon.com/images/I/51i6sYMDwGL._SL500_AA300_.jpg"
+     }
+    ],
+    "metatags": [
+     {
+      "title": "The Pampered Chef Mix N Chop #2583: Amazon.com: Kitchen & Dining"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Mix 'N Chop",
+   "htmlTitle": "Mix &#39;N Chop",
+   "link": "http://www.pamperedchef.com/our_products/catalog/product.jsp?productId=15658&categoryCode=CW",
+   "displayLink": "www.pamperedchef.com",
+   "snippet": "A Pampered Chef® exclusive! Unique, beveled pinwheel blades efficiently chop   and crumble foods for even cooking and seasoning. Its high-quality nylon ...",
+   "htmlSnippet": "A \u003cb\u003ePampered Chef\u003c/b\u003e® exclusive! Unique, beveled pinwheel blades efficiently chop \u003cbr\u003e  and crumble foods for even cooking and seasoning. Its high-quality nylon \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "nSDfvg4L9wcJ",
+   "formattedUrl": "www.pamperedchef.com/our_products/catalog/product.jsp?...",
+   "htmlFormattedUrl": "www.\u003cb\u003epamperedchef\u003c/b\u003e.com/our_products/catalog/product.jsp?...",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.pamperedchef.com/images/product/resized/2583_product.jpg",
+      "type": "1",
+      "width": "160",
+      "height": "160"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Red, White & Blueberry Trifle",
+   "htmlTitle": "Red, White &amp; Blueberry Trifle",
+   "link": "http://www.pamperedchef.biz/images/en_US/news/recipes/pdf/featured_recipe1.pdf",
+   "displayLink": "www.pamperedchef.biz",
+   "snippet": "2012 The Pampered Chef used under license. www.pamperedchef.com.   Ingredients: 1 prepared angel food cake (13 ounces). 1 qt. fresh strawberries ...",
+   "htmlSnippet": "2012 The \u003cb\u003ePampered Chef\u003c/b\u003e used under license. www.\u003cb\u003epamperedchef\u003c/b\u003e.com. \u003cbr\u003e  Ingredients: 1 prepared angel food cake (13 ounces). 1 qt. fresh strawberries \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "dIACu5R64MAJ",
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat",
+   "formattedUrl": "www.pamperedchef.biz/images/en_US/news/.../pdf/featured_recipe1.pdf",
+   "htmlFormattedUrl": "www.\u003cb\u003epamperedchef\u003c/b\u003e.biz/images/en_US/news/.../pdf/featured_recipe1.pdf",
+   "pagemap": {
+    "metatags": [
+     {
+      "author": "ewitek",
+      "creationdate": "D:20120627144054-05'00'",
+      "creator": "PScript5.dll Version 5.2.2",
+      "moddate": "D:20120627144054-05'00'",
+      "producer": "Acrobat Distiller 10.1.3 (Windows)",
+      "title": "http://www.pamperedchef.com/our_products/recipesearch/printable"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Company Facts",
+   "htmlTitle": "Company Facts",
+   "link": "http://www.pamperedchef.com/our_company/statistics.html",
+   "displayLink": "www.pamperedchef.com",
+   "snippet": "The Pampered Chef®, founded in 1980 by Doris Christopher and part of the   Berkshire Hathaway family of businesses, is the premier direct seller of high-  quality ...",
+   "htmlSnippet": "The \u003cb\u003ePampered Chef\u003c/b\u003e®, founded in 1980 by Doris Christopher and part of the \u003cbr\u003e  Berkshire Hathaway family of businesses, is the premier direct seller of high-\u003cbr\u003e  quality \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "yFV3vaHMIRYJ",
+   "formattedUrl": "www.pamperedchef.com/our_company/statistics.html",
+   "htmlFormattedUrl": "www.\u003cb\u003epamperedchef\u003c/b\u003e.com/our_company/statistics.html",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.pamperedchef.com/images/public/us/oc_int_loc_bnr.gif",
+      "type": "1",
+      "width": "176",
+      "height": "100"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Why I Became a Pampered Chef Consultant | Crazy.Beautiful.Life",
+   "htmlTitle": "Why I Became a \u003cb\u003ePampered Chef\u003c/b\u003e Consultant | Crazy.Beautiful.Life",
+   "link": "http://www.howmanyfrogs.com/2012/02/why-i-became-a-pampered-chef-consultant/",
+   "displayLink": "www.howmanyfrogs.com",
+   "snippet": "Feb 20, 2012 ... About 90 days ago I decided to become a Pampered Chef consultant.   Technically, according to the Pampered Chef handbook we're not ...",
+   "htmlSnippet": "Feb 20, 2012 \u003cb\u003e...\u003c/b\u003e About 90 days ago I decided to become a \u003cb\u003ePampered Chef\u003c/b\u003e consultant. \u003cbr\u003e  Technically, according to the \u003cb\u003ePampered Chef\u003c/b\u003e handbook we&#39;re not \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "VsDuc35eMv0J",
+   "formattedUrl": "www.howmanyfrogs.com/.../why-i-became-a-pampered-chef-consultant/",
+   "htmlFormattedUrl": "www.howmanyfrogs.com/.../why-i-became-a-\u003cb\u003epampered\u003c/b\u003e-\u003cb\u003echef\u003c/b\u003e-consultant/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.howmanyfrogs.com/wp-content/uploads/et_temp/pampered_chef-12077_140x140.jpg",
+      "type": "1",
+      "width": "112",
+      "height": "112"
+     }
+    ],
+    "metatags": [
+     {
+      "og:title": "Why I Became a Pampered Chef Consultant",
+      "og:site_name": "Crazy.Beautiful.Life",
+      "og:url": "http://www.howmanyfrogs.com/2012/02/why-i-became-a-pampered-chef-consultant/",
+      "og:type": "article",
+      "fb:app_id": "240643412613237",
+      "og:image": "http://www.howmanyfrogs.com/wp-content/uploads/2012/02/pampered_chef-175x175.jpg",
+      "fb:admins": "stephanieadorman",
+      "fb:page_id": "on"
+     }
+    ]
+   }
+  }
+ ]
+}

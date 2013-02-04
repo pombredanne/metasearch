@@ -1,0 +1,384 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "nextPage": [
+   {
+    "title": "Google Custom Search - inuyasha",
+    "totalResults": "2910000",
+    "searchTerms": "inuyasha",
+    "count": 10,
+    "startIndex": 91,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "017401104989814545383:mf4lavmtuva"
+   }
+  ],
+  "request": [
+   {
+    "title": "Google Custom Search - inuyasha",
+    "totalResults": "2910000",
+    "searchTerms": "inuyasha",
+    "count": 10,
+    "startIndex": 81,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "017401104989814545383:mf4lavmtuva"
+   }
+  ],
+  "previousPage": [
+   {
+    "title": "Google Custom Search - inuyasha",
+    "totalResults": "2910000",
+    "searchTerms": "inuyasha",
+    "count": 10,
+    "startIndex": 71,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "017401104989814545383:mf4lavmtuva"
+   }
+  ]
+ },
+ "context": {
+  "title": "College MetaSearch Comparison"
+ },
+ "searchInformation": {
+  "searchTime": 0.212104,
+  "formattedSearchTime": "0.21",
+  "totalResults": "2910000",
+  "formattedTotalResults": "2,910,000"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "Inuyasha Episode Summary",
+   "htmlTitle": "\u003cb\u003eInuyasha\u003c/b\u003e Episode Summary",
+   "link": "http://www.inuyashaworld.com/epsummary.cfm",
+   "displayLink": "www.inuyashaworld.com",
+   "snippet": "Inuyasha World contains character profiles, image gallery, ...",
+   "htmlSnippet": "\u003cb\u003eInuyasha\u003c/b\u003e World contains character profiles, image gallery, \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "DpfzPx-5kSQJ",
+   "formattedUrl": "www.inuyashaworld.com/epsummary.cfm",
+   "htmlFormattedUrl": "www.\u003cb\u003einuyasha\u003c/b\u003eworld.com/epsummary.cfm",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.inuyashaworld.com/luckycharm.jpg",
+      "type": "1",
+      "width": "128",
+      "height": "123"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Inuyasha - The Final Act Episode 1 - Naraku's Heart - VIZ ANIME ...",
+   "htmlTitle": "\u003cb\u003eInuyasha\u003c/b\u003e - The Final Act Episode 1 - Naraku&#39;s Heart - VIZ ANIME \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://www.vizanime.com/ep/721-inuyasha-the-final-act-1",
+   "displayLink": "www.vizanime.com",
+   "snippet": "Video Description: Hakudoshi is scheming to take Naraku's place. He steals   Kagome's Shikon Jewel shards and entices Kagura to betray Naraku.",
+   "htmlSnippet": "Video Description: Hakudoshi is scheming to take Naraku&#39;s place. He steals \u003cbr\u003e  Kagome&#39;s Shikon Jewel shards and entices Kagura to betray Naraku.",
+   "cacheId": "TPBHgU0fABoJ",
+   "formattedUrl": "www.vizanime.com/ep/721-inuyasha-the-final-act-1",
+   "htmlFormattedUrl": "www.vizanime.com/ep/721-\u003cb\u003einuyasha\u003c/b\u003e-the-final-act-1",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://thumbnails.hulu.com/594/50008594/118669_240x180_generated.jpg",
+      "type": "1",
+      "width": "192",
+      "height": "144"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Inuyasha Anime - Watch Inuyasha Episode Sub Free Online",
+   "htmlTitle": "\u003cb\u003eInuyasha\u003c/b\u003e Anime - Watch \u003cb\u003eInuyasha\u003c/b\u003e Episode Sub Free Online",
+   "link": "http://www.animehere.com/anime/inuyasha.html",
+   "displayLink": "www.animehere.com",
+   "snippet": "Inuyasha Anime, Watch Inuyasha Episode Sub Free Online, Stream Inuyasha   Episode Sub Free Online in High Quality at Animehere.com.",
+   "htmlSnippet": "\u003cb\u003eInuyasha\u003c/b\u003e Anime, Watch \u003cb\u003eInuyasha\u003c/b\u003e Episode Sub Free Online, Stream \u003cb\u003eInuyasha\u003c/b\u003e \u003cbr\u003e  Episode Sub Free Online in High Quality at Animehere.com.",
+   "cacheId": "leSlQR2R7wAJ",
+   "formattedUrl": "www.animehere.com/anime/inuyasha.html",
+   "htmlFormattedUrl": "www.animehere.com/anime/\u003cb\u003einuyasha\u003c/b\u003e.html",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.animehere.com/res/covers/inuyasha_o.jpg",
+      "type": "1",
+      "width": "192",
+      "height": "263"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Inuyasha's Lullaby - YouTube",
+   "htmlTitle": "\u003cb\u003eInuyasha&#39;s\u003c/b\u003e Lullaby - YouTube",
+   "link": "http://www.youtube.com/watch?v=oRJ40KnjFdo",
+   "displayLink": "www.youtube.com",
+   "snippet": "May 18, 2008 ... A lullaby to sleep to. You guys are sure stubborn ;) I was going to keep the song a   secret, but you all want to know so badly... It's the bonus track ...",
+   "htmlSnippet": "May 18, 2008 \u003cb\u003e...\u003c/b\u003e A lullaby to sleep to. You guys are sure stubborn ;) I was going to keep the song a \u003cbr\u003e  secret, but you all want to know so badly... It&#39;s the bonus track \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "KrR-xfCmj9sJ",
+   "formattedUrl": "www.youtube.com/watch?v=oRJ40KnjFdo",
+   "htmlFormattedUrl": "www.youtube.com/watch?v=oRJ40KnjFdo",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://i4.ytimg.com/vi/oRJ40KnjFdo/mqdefault.jpg",
+      "type": "1",
+      "width": "256",
+      "height": "144"
+     }
+    ],
+    "videoobject": [
+     {
+      "url": "http://www.youtube.com/watch?v=oRJ40KnjFdo",
+      "name": "Inuyasha's Lullaby",
+      "description": "A lullaby to sleep to. You guys are sure stubborn ;) I was going to keep the song a secret, but you all want to know so badly... It's the bonus track off of ...",
+      "duration": "PT6M13S",
+      "unlisted": "False",
+      "paid": "False",
+      "thumbnailurl": "http://i4.ytimg.com/vi/oRJ40KnjFdo/hqdefault.jpg"
+     }
+    ],
+    "person": [
+     {
+      "url": "http://www.youtube.com/user/CharlotteElbourne"
+     }
+    ],
+    "metatags": [
+     {
+      "title": "Inuyasha's Lullaby",
+      "og:url": "http://www.youtube.com/watch?v=oRJ40KnjFdo",
+      "og:title": "Inuyasha's Lullaby",
+      "og:description": "A lullaby to sleep to. You guys are sure stubborn ;) I was going to keep the song a secret, but you all want to know so badly... It's the bonus track off of ...",
+      "og:type": "video",
+      "og:image": "http://i4.ytimg.com/vi/oRJ40KnjFdo/mqdefault.jpg",
+      "og:site_name": "YouTube",
+      "fb:app_id": "87741124305",
+      "attribution": "youtube_none/"
+     }
+    ],
+    "imageobject": [
+     {
+      "url": "http://i4.ytimg.com/vi/oRJ40KnjFdo/mqdefault.jpg",
+      "width": "320",
+      "height": "180"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "InuYasha - Television Tropes & Idioms",
+   "htmlTitle": "\u003cb\u003eInuYasha\u003c/b\u003e - Television Tropes &amp; Idioms",
+   "link": "http://tvtropes.org/pmwiki/pmwiki.php/Main/InuYasha",
+   "displayLink": "tvtropes.org",
+   "snippet": "InuYasha is an enormously popular anime based upon the similarly popular   manga of the same name by Rumiko Takahashi. Seven seasons totaling 167 ...",
+   "htmlSnippet": "\u003cb\u003eInuYasha\u003c/b\u003e is an enormously popular anime based upon the similarly popular \u003cbr\u003e  manga of the same name by Rumiko Takahashi. Seven seasons totaling 167 \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "qbLJuB0XrgEJ",
+   "formattedUrl": "tvtropes.org/pmwiki/pmwiki.php/Main/InuYasha",
+   "htmlFormattedUrl": "tvtropes.org/pmwiki/pmwiki.php/Main/\u003cb\u003eInuYasha\u003c/b\u003e",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://static.tvtropes.org/pmwiki/pub/images/lt/inuyasha.jpg",
+      "type": "1",
+      "width": "268",
+      "height": "188"
+     }
+    ],
+    "metatags": [
+     {
+      "og:image": "http://static.tvtropes.org/lampshade_logo_blue.png"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "InuYasha Movie 3- Swords of an Honorable Ruler - YouTube",
+   "htmlTitle": "\u003cb\u003eInuYasha\u003c/b\u003e Movie 3- Swords of an Honorable Ruler - YouTube",
+   "link": "http://www.youtube.com/watch?v=h7ZxjzcOzys",
+   "displayLink": "www.youtube.com",
+   "snippet": "Oct 23, 2011 ... \"Swords of an Honorable Ruler\" InuYasha Movie 3. (Full). Enjoy.",
+   "htmlSnippet": "Oct 23, 2011 \u003cb\u003e...\u003c/b\u003e &quot;Swords of an Honorable Ruler&quot; \u003cb\u003eInuYasha\u003c/b\u003e Movie 3. (Full). Enjoy.",
+   "cacheId": "JuP8Y82L_GIJ",
+   "formattedUrl": "www.youtube.com/watch?v=h7ZxjzcOzys",
+   "htmlFormattedUrl": "www.youtube.com/watch?v=h7ZxjzcOzys",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://i1.ytimg.com/vi/h7ZxjzcOzys/mqdefault.jpg",
+      "type": "1",
+      "width": "256",
+      "height": "144"
+     }
+    ],
+    "videoobject": [
+     {
+      "url": "http://www.youtube.com/watch?v=h7ZxjzcOzys",
+      "name": "InuYasha Movie 3- Swords of an Honorable Ruler",
+      "description": "\"Swords of an Honorable Ruler\" InuYasha Movie 3. (Full). Enjoy",
+      "duration": "PT98M37S",
+      "unlisted": "False",
+      "paid": "False",
+      "thumbnailurl": "http://i1.ytimg.com/vi/h7ZxjzcOzys/hqdefault.jpg",
+      "embedurl": "http://www.youtube.com/v/h7ZxjzcOzys?version=3&autohide=1",
+      "playertype": "Flash",
+      "width": "640",
+      "height": "360"
+     }
+    ],
+    "person": [
+     {
+      "url": "http://www.youtube.com/user/Mimithewolfie"
+     }
+    ],
+    "metatags": [
+     {
+      "title": "InuYasha Movie 3- Swords of an Honorable Ruler",
+      "og:url": "http://www.youtube.com/watch?v=h7ZxjzcOzys",
+      "og:title": "InuYasha Movie 3- Swords of an Honorable Ruler",
+      "og:description": "\"Swords of an Honorable Ruler\" InuYasha Movie 3. (Full). Enjoy",
+      "og:type": "video",
+      "og:image": "http://i1.ytimg.com/vi/h7ZxjzcOzys/mqdefault.jpg",
+      "og:video": "http://www.youtube.com/v/h7ZxjzcOzys?version=3&autohide=1",
+      "og:video:type": "application/x-shockwave-flash",
+      "og:video:width": "640",
+      "og:video:height": "360",
+      "og:site_name": "YouTube",
+      "fb:app_id": "87741124305",
+      "twitter:player:width": "640",
+      "twitter:player:height": "360",
+      "attribution": "youtube_none/"
+     }
+    ],
+    "imageobject": [
+     {
+      "url": "http://i1.ytimg.com/vi/h7ZxjzcOzys/mqdefault.jpg",
+      "width": "320",
+      "height": "180"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Inuyasha Manga - Read Inuyasha Online For Free",
+   "htmlTitle": "\u003cb\u003eInuyasha\u003c/b\u003e Manga - Read \u003cb\u003eInuyasha\u003c/b\u003e Online For Free",
+   "link": "http://www.mangareader.net/226/inuyasha.html",
+   "displayLink": "www.mangareader.net",
+   "snippet": "Read Inuyasha Manga Online. Kagome is a modern Japanese high school girl.   Never the type to believe in myths and legends, her world view dramatically ...",
+   "htmlSnippet": "Read \u003cb\u003eInuyasha\u003c/b\u003e Manga Online. Kagome is a modern Japanese high school girl. \u003cbr\u003e  Never the type to believe in myths and legends, her world view dramatically \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "bGU-4Eb8sVcJ",
+   "formattedUrl": "www.mangareader.net/226/inuyasha.html",
+   "htmlFormattedUrl": "www.mangareader.net/226/\u003cb\u003einuyasha\u003c/b\u003e.html",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://s2.mangareader.net/cover/inuyasha/inuyasha-l0.jpg",
+      "type": "1",
+      "width": "160",
+      "height": "251"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "List of InuYasha episodes (season 2) - Wikipedia, the free ...",
+   "htmlTitle": "List of \u003cb\u003eInuYasha\u003c/b\u003e episodes (season 2) - Wikipedia, the free \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://en.wikipedia.org/wiki/List_of_InuYasha_episodes_(season_2)",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "The second season of the anime series InuYasha aired in Japan on Animax from   May 28, 2001 through December 10, 2001. Based on the manga series of the ...",
+   "htmlSnippet": "The second season of the anime series \u003cb\u003eInuYasha\u003c/b\u003e aired in Japan on Animax from \u003cbr\u003e  May 28, 2001 through December 10, 2001. Based on the manga series of the \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "ZxhsgMVo6p4J",
+   "formattedUrl": "en.wikipedia.org/wiki/List_of_InuYasha_episodes_(season_2)",
+   "htmlFormattedUrl": "en.wikipedia.org/wiki/List_of_\u003cb\u003eInuYasha\u003c/b\u003e_episodes_(season_2)"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Sesshōmaru - InuYasha Wiki - a Wikia wiki",
+   "htmlTitle": "Sesshōmaru - \u003cb\u003eInuYasha\u003c/b\u003e Wiki - a Wikia wiki",
+   "link": "http://inuyasha.wikia.com/wiki/Sessh%C5%8Dmaru",
+   "displayLink": "inuyasha.wikia.com",
+   "snippet": "was a powerful dog daiyōkai and feared throughout the feudal world as the ruler   of the western...",
+   "htmlSnippet": "was a powerful dog daiyōkai and feared throughout the feudal world as the ruler \u003cbr\u003e  of the western...",
+   "cacheId": "ouF27ZnuGD8J",
+   "formattedUrl": "inuyasha.wikia.com/wiki/Sesshōmaru",
+   "htmlFormattedUrl": "\u003cb\u003einuyasha\u003c/b\u003e.wikia.com/wiki/Sesshōmaru",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://images3.wikia.nocookie.net/__cb20100403180843/inuyasha/images/thumb/a/a2/Fa02_kagura.png/200px-Fa02_kagura.png",
+      "type": "1",
+      "width": "160",
+      "height": "151"
+     }
+    ],
+    "article": [
+     {
+      "type": "article",
+      "site_name": "InuYasha",
+      "title": "Sesshōmaru",
+      "image": "http://images2.wikia.nocookie.net/__cb20120522024427/inuyasha/images/thumb/6/6c/Sessh%C5%8Dmaru.png/178px-Sessh%C5%8Dmaru.png",
+      "description": "was a powerful dog daiyōkai and feared throughout the feudal world as the ruler of the western...",
+      "url": "http://inuyasha.wikia.com/wiki/Sessh%C5%8Dmaru",
+      "app_id": "112328095453510"
+     }
+    ],
+    "metatags": [
+     {
+      "viewport": "width=1200",
+      "og:type": "article",
+      "og:site_name": "InuYasha",
+      "og:title": "Sesshōmaru",
+      "og:image": "http://images2.wikia.nocookie.net/__cb20120522024427/inuyasha/images/thumb/6/6c/Sessh%C5%8Dmaru.png/178px-Sessh%C5%8Dmaru.png",
+      "og:description": "was a powerful dog daiyōkai and feared throughout the feudal world as the ruler of the western...",
+      "og:url": "http://inuyasha.wikia.com/wiki/Sessh%C5%8Dmaru",
+      "fb:app_id": "112328095453510"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Inuyasha - MyAnimeList.net",
+   "htmlTitle": "\u003cb\u003eInuyasha\u003c/b\u003e - MyAnimeList.net",
+   "link": "http://myanimelist.net/character/1353/Inuyasha",
+   "displayLink": "myanimelist.net",
+   "snippet": "Inuyasha (犬夜叉). Birthday: April 1, 1479. Birthplace: Western Japan, equal to   Toyama Height: 167 cm. Weapons: claws, sword-Testsusaiga Attacks: ...",
+   "htmlSnippet": "\u003cb\u003eInuyasha\u003c/b\u003e (犬夜叉). Birthday: April 1, 1479. Birthplace: Western Japan, equal to \u003cbr\u003e  Toyama Height: 167 cm. Weapons: claws, sword-Testsusaiga Attacks: \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "SeMedviXrPoJ",
+   "formattedUrl": "myanimelist.net/character/1353/Inuyasha",
+   "htmlFormattedUrl": "myanimelist.net/character/1353/\u003cb\u003eInuyasha\u003c/b\u003e",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://cdn.myanimelist.net/images/characters/4/89606.jpg",
+      "type": "1",
+      "width": "180",
+      "height": "280"
+     }
+    ],
+    "metatags": [
+     {
+      "author": "Garrett Gyssler"
+     }
+    ]
+   }
+  }
+ ]
+}

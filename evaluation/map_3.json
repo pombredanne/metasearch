@@ -1,0 +1,268 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "nextPage": [
+   {
+    "title": "Google Custom Search - map",
+    "totalResults": "610000000",
+    "searchTerms": "map",
+    "count": 10,
+    "startIndex": 41,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "017401104989814545383:mf4lavmtuva"
+   }
+  ],
+  "request": [
+   {
+    "title": "Google Custom Search - map",
+    "totalResults": "610000000",
+    "searchTerms": "map",
+    "count": 10,
+    "startIndex": 31,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "017401104989814545383:mf4lavmtuva"
+   }
+  ],
+  "previousPage": [
+   {
+    "title": "Google Custom Search - map",
+    "totalResults": "610000000",
+    "searchTerms": "map",
+    "count": 10,
+    "startIndex": 21,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "017401104989814545383:mf4lavmtuva"
+   }
+  ]
+ },
+ "context": {
+  "title": "College MetaSearch Comparison"
+ },
+ "searchInformation": {
+  "searchTime": 0.141559,
+  "formattedSearchTime": "0.14",
+  "totalResults": "610000000",
+  "formattedTotalResults": "610,000,000"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "A Free United States Map",
+   "htmlTitle": "A Free United States \u003cb\u003eMap\u003c/b\u003e",
+   "link": "http://www.50states.com/us.htm/",
+   "displayLink": "www.50states.com",
+   "snippet": "Map of the United States of America. ... 50states is the best source of free maps   for the United States of America. We also provide free blank outline maps for kids ...",
+   "htmlSnippet": "\u003cb\u003eMap\u003c/b\u003e of the United States of America. \u003cb\u003e...\u003c/b\u003e 50states is the best source of free \u003cb\u003emaps\u003c/b\u003e \u003cbr\u003e  for the United States of America. We also provide free blank outline \u003cb\u003emaps\u003c/b\u003e for kids \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "yfI-uWRRNGIJ",
+   "formattedUrl": "www.50states.com/us.htm/",
+   "htmlFormattedUrl": "www.50states.com/us.htm/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.50states.com/images/us_map.gif",
+      "type": "1",
+      "width": "297",
+      "height": "169"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "SmartMoney Map of the Market - SmartMoney.com",
+   "htmlTitle": "SmartMoney \u003cb\u003eMap\u003c/b\u003e of the Market - SmartMoney.com",
+   "link": "http://www.smartmoney.com/map-of-the-market/",
+   "displayLink": "www.smartmoney.com",
+   "snippet": "SmartMoney - The Wall Street Journal. top stories in News Reel. 1 of 8. Retire   Here, Not There: Idaho. 2 of 8. Back -to -School Sales Get Early Start. 3 of 8.   PLAY ...",
+   "htmlSnippet": "SmartMoney - The Wall Street Journal. top stories in News Reel. 1 of 8. Retire \u003cbr\u003e  Here, Not There: Idaho. 2 of 8. Back -to -School Sales Get Early Start. 3 of 8. \u003cbr\u003e  PLAY \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "5nmWM6JzslUJ",
+   "formattedUrl": "www.smartmoney.com/map-of-the-market/",
+   "htmlFormattedUrl": "www.smartmoney.com/\u003cb\u003emap\u003c/b\u003e-of-the-market/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://s.wsj.net/public/resources/images/PF-AC858_sm0812_C_20120710124847.jpg",
+      "type": "1",
+      "width": "133",
+      "height": "75"
+     }
+    ],
+    "metatags": [
+     {
+      "og:url": "http://www.smartmoney.com/map-of-the-market/",
+      "pagename": "Map Of the Market_0_0_SP_1010",
+      "displayname": "Map Of the Market",
+      "ctype": "tools",
+      "subsection": "Tools",
+      "section": "Summaries",
+      "og:title": "SmartMoney Map of the Market",
+      "og:type": "product",
+      "og:image": "http://m1.smartmoney.com/tools/images/Retirement-Planner-c.jpg",
+      "og:site_name": "SmartMoney",
+      "msapplication-task": "name=SmartMoney;action-uri=http://www.smartmoney.com/;icon-uri=http://www.smartmoney.com/favicon.ico",
+      "fb:page_id": "66831199095"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Campus Maps - Northwestern University",
+   "htmlTitle": "Campus \u003cb\u003eMaps\u003c/b\u003e - Northwestern University",
+   "link": "http://maps.northwestern.edu/",
+   "displayLink": "maps.northwestern.edu",
+   "snippet": "Northwestern University's Interactive Online Campus Maps.",
+   "htmlSnippet": "Northwestern University&#39;s Interactive Online Campus \u003cb\u003eMaps\u003c/b\u003e.",
+   "cacheId": "4Z1COQvF6oAJ",
+   "formattedUrl": "maps.northwestern.edu/",
+   "htmlFormattedUrl": "\u003cb\u003emaps\u003c/b\u003e.northwestern.edu/",
+   "pagemap": {
+    "metatags": [
+     {
+      "viewport": "user-scalable=no, width=device-width, initial-scale=1.0"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "MAP: The Media Awareness Project",
+   "htmlTitle": "\u003cb\u003eMAP\u003c/b\u003e: The \u003cb\u003eMedia Awareness Project\u003c/b\u003e",
+   "link": "http://www.mapinc.org/",
+   "displayLink": "www.mapinc.org",
+   "snippet": "MAP works to ensure more balanced and accurate media coverage of drug   policy issues and maintains a comprehensive archive of drug policy news and   many ...",
+   "htmlSnippet": "\u003cb\u003eMAP\u003c/b\u003e works to ensure more balanced and accurate media coverage of drug \u003cbr\u003e  policy issues and maintains a comprehensive archive of drug policy news and \u003cbr\u003e  many \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "YFPVW9d9VawJ",
+   "formattedUrl": "www.mapinc.org/",
+   "htmlFormattedUrl": "www.\u003cb\u003emap\u003c/b\u003einc.org/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.drugsense.org/pix/phases.gif",
+      "type": "1",
+      "width": "80",
+      "height": "80"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Google Maps - Wikipedia, the free encyclopedia",
+   "htmlTitle": "Google \u003cb\u003eMaps\u003c/b\u003e - Wikipedia, the free encyclopedia",
+   "link": "http://en.wikipedia.org/wiki/Google_Maps",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "Google Maps (formerly Google Local) is a web mapping service application and   technology provided by Google, that powers many map-based services, ...",
+   "htmlSnippet": "Google \u003cb\u003eMaps\u003c/b\u003e (formerly Google Local) is a web \u003cb\u003emapping\u003c/b\u003e service application and \u003cbr\u003e  technology provided by Google, that powers many \u003cb\u003emap\u003c/b\u003e-based services, \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "wQCIerBVIukJ",
+   "formattedUrl": "en.wikipedia.org/wiki/Google_Maps",
+   "htmlFormattedUrl": "en.wikipedia.org/wiki/Google_\u003cb\u003eMaps\u003c/b\u003e",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://upload.wikimedia.org/wikipedia/en/thumb/5/56/Google_maps_screenshot.png/250px-Google_maps_screenshot.png",
+      "type": "1",
+      "width": "200",
+      "height": "112"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Map Collections Home Page",
+   "htmlTitle": "\u003cb\u003eMap\u003c/b\u003e Collections Home Page",
+   "link": "http://memory.loc.gov/ammem/gmdhtml/gmdhome.html",
+   "displayLink": "memory.loc.gov",
+   "snippet": "A searchable collection of maps from the Library of Congress.",
+   "htmlSnippet": "A searchable collection of \u003cb\u003emaps\u003c/b\u003e from the Library of Congress.",
+   "cacheId": "U-eceF7aWBQJ",
+   "formattedUrl": "memory.loc.gov/ammem/gmdhtml/gmdhome.html",
+   "htmlFormattedUrl": "memory.loc.gov/ammem/gmdhtml/gmdhome.html",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://memory.loc.gov/ammem/gmdhtml/mapimg2.gif",
+      "type": "1",
+      "width": "265",
+      "height": "190"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Map of Asia, Asia Map, Asian Country Maps, Countries, Landforms ...",
+   "htmlTitle": "\u003cb\u003eMap\u003c/b\u003e of Asia, Asia \u003cb\u003eMap\u003c/b\u003e, Asian Country \u003cb\u003eMaps\u003c/b\u003e, Countries, Landforms \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://www.worldatlas.com/webimage/countrys/as.htm",
+   "displayLink": "www.worldatlas.com",
+   "snippet": "Free political or physical map of Asia and individual country map of China, India,   Pakistan, Russia and other Asian countries. Detailed geography information for ...",
+   "htmlSnippet": "Free political or physical \u003cb\u003emap\u003c/b\u003e of Asia and individual country \u003cb\u003emap\u003c/b\u003e of China, India, \u003cbr\u003e  Pakistan, Russia and other Asian countries. Detailed geography information for \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "Vp_Q4n3NE7UJ",
+   "formattedUrl": "www.worldatlas.com/webimage/countrys/as.htm",
+   "htmlFormattedUrl": "www.worldatlas.com/webimage/countrys/as.htm",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.worldatlas.com/webimage/countrys/asnewzzz.gif",
+      "type": "1",
+      "width": "266",
+      "height": "189"
+     }
+    ],
+    "breadcrumb": [
+     {
+      "url": "World Map",
+      "title": "World Map"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "MIT Campus Map",
+   "htmlTitle": "MIT Campus \u003cb\u003eMap\u003c/b\u003e",
+   "link": "http://whereis.mit.edu/",
+   "displayLink": "whereis.mit.edu",
+   "snippet": "Interactive map of the MIT campus. ... For an optimized printout, please click the \"  print\" link in the upper right corner of the map before printing. MIT campus map ...",
+   "htmlSnippet": "Interactive \u003cb\u003emap\u003c/b\u003e of the MIT campus. \u003cb\u003e...\u003c/b\u003e For an optimized printout, please click the &quot;\u003cbr\u003e  print&quot; link in the upper right corner of the \u003cb\u003emap\u003c/b\u003e before printing. MIT campus \u003cb\u003emap\u003c/b\u003e \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "6odHoJ8crF4J",
+   "formattedUrl": "whereis.mit.edu/",
+   "htmlFormattedUrl": "whereis.mit.edu/"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Home – Malaria Atlas Project",
+   "htmlTitle": "Home – \u003cb\u003eMalaria Atlas Project\u003c/b\u003e",
+   "link": "http://www.map.ox.ac.uk/",
+   "displayLink": "www.map.ox.ac.uk",
+   "snippet": "The Malaria Atlas Project disseminates information on mosquitoes, blood   disorders and the malaria risk from different parasites, organised on a   geographical ...",
+   "htmlSnippet": "The \u003cb\u003eMalaria Atlas Project\u003c/b\u003e disseminates information on mosquitoes, blood \u003cbr\u003e  disorders and the malaria risk from different parasites, organised on a \u003cbr\u003e  geographical \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "q8cBJKbA5K0J",
+   "formattedUrl": "www.map.ox.ac.uk/",
+   "htmlFormattedUrl": "www.\u003cb\u003emap\u003c/b\u003e.ox.ac.uk/"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": ".map() – jQuery API",
+   "htmlTitle": ".\u003cb\u003emap\u003c/b\u003e() – jQuery API",
+   "link": "http://api.jquery.com/map/",
+   "displayLink": "api.jquery.com",
+   "snippet": "The .map() method is particularly useful for getting or setting the value of a   collection of elements. Consider a form with a set of checkboxes in it: ...",
+   "htmlSnippet": "The .\u003cb\u003emap\u003c/b\u003e() method is particularly useful for getting or setting the value of a \u003cbr\u003e  collection of elements. Consider a form with a set of checkboxes in it: \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "LUQBrNJihDQJ",
+   "formattedUrl": "api.jquery.com/map/",
+   "htmlFormattedUrl": "api.jquery.com/\u003cb\u003emap\u003c/b\u003e/"
+  }
+ ]
+}

@@ -1,0 +1,280 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "nextPage": [
+   {
+    "title": "Google Custom Search - gmat prep classes",
+    "totalResults": "569000",
+    "searchTerms": "gmat prep classes",
+    "count": 10,
+    "startIndex": 21,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "017401104989814545383:mf4lavmtuva"
+   }
+  ],
+  "request": [
+   {
+    "title": "Google Custom Search - gmat prep classes",
+    "totalResults": "569000",
+    "searchTerms": "gmat prep classes",
+    "count": 10,
+    "startIndex": 11,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "017401104989814545383:mf4lavmtuva"
+   }
+  ],
+  "previousPage": [
+   {
+    "title": "Google Custom Search - gmat prep classes",
+    "totalResults": "569000",
+    "searchTerms": "gmat prep classes",
+    "count": 10,
+    "startIndex": 1,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "017401104989814545383:mf4lavmtuva"
+   }
+  ]
+ },
+ "context": {
+  "title": "College MetaSearch Comparison"
+ },
+ "searchInformation": {
+  "searchTime": 0.307856,
+  "formattedSearchTime": "0.31",
+  "totalResults": "569000",
+  "formattedTotalResults": "569,000"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "GMAT | Continuing Education at the University of Utah",
+   "htmlTitle": "\u003cb\u003eGMAT\u003c/b\u003e | Continuing Education at the University of Utah",
+   "link": "http://continue.utah.edu/prep/gmat",
+   "displayLink": "continue.utah.edu",
+   "snippet": "Our preparatory program offers a class designed to help you do your best on the   GMAT and improve your chances of gaining admission to graduate schools of ...",
+   "htmlSnippet": "Our \u003cb\u003epreparatory\u003c/b\u003e program offers a \u003cb\u003eclass\u003c/b\u003e designed to help you do your best on the \u003cbr\u003e  \u003cb\u003eGMAT\u003c/b\u003e and improve your chances of gaining admission to graduate schools of \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "V8Qy0K4MUBsJ",
+   "formattedUrl": "continue.utah.edu/prep/gmat",
+   "htmlFormattedUrl": "continue.utah.edu/\u003cb\u003eprep\u003c/b\u003e/\u003cb\u003egmat\u003c/b\u003e",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://continue.utah.edu/images/widget/5475_widget_jaybehrman.jpg",
+      "type": "1",
+      "width": "100",
+      "height": "120"
+     }
+    ],
+    "metatags": [
+     {
+      "title": "GMAT | Continuing Education at the University of Utah",
+      "language": "en"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "New York GMAT Prep Courses | Veritas Prep",
+   "htmlTitle": "New York \u003cb\u003eGMAT Prep Courses\u003c/b\u003e | Veritas Prep",
+   "link": "http://www.veritasprep.com/new-york-gmat-prep-courses/",
+   "displayLink": "www.veritasprep.com",
+   "snippet": "New York GMAT Prep Courses. More students prepare for the GMAT with Veritas   Prep in New York than in any of our 90+ locations worldwide. New York City ...",
+   "htmlSnippet": "New York \u003cb\u003eGMAT Prep Courses\u003c/b\u003e. More students prepare for the GMAT with Veritas \u003cbr\u003e  Prep in New York than in any of our 90+ locations worldwide. New York City \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "hsde9VrP2JwJ",
+   "formattedUrl": "www.veritasprep.com/new-york-gmat-prep-courses/",
+   "htmlFormattedUrl": "www.veritas\u003cb\u003eprep\u003c/b\u003e.com/new-york-\u003cb\u003egmat\u003c/b\u003e-\u003cb\u003eprep\u003c/b\u003e-\u003cb\u003ecourses\u003c/b\u003e/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://d3scmz9sa6n2x2.cloudfront.net/images/billboards/gmat-prep.png",
+      "type": "1",
+      "width": "198",
+      "height": "254"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "TestMasters GMAT Prep Courses and MBA Admissions Consulting",
+   "htmlTitle": "TestMasters \u003cb\u003eGMAT Prep Courses\u003c/b\u003e and MBA Admissions Consulting",
+   "link": "http://www.testmasters.net/Gmat",
+   "displayLink": "www.testmasters.net",
+   "snippet": "TestMasters is the world's leading provider of GMAT preparation. Our GMAT prep   course is unparalleled. Our GMAT materials include authentic GMAT questions ...",
+   "htmlSnippet": "TestMasters is the world&#39;s leading provider of \u003cb\u003eGMAT preparation\u003c/b\u003e. Our \u003cb\u003eGMAT prep\u003c/b\u003e \u003cbr\u003e  course is unparalleled. Our GMAT materials include authentic GMAT questions \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "xi8sFdlogOQJ",
+   "formattedUrl": "www.testmasters.net/Gmat",
+   "htmlFormattedUrl": "www.testmasters.net/\u003cb\u003eGmat\u003c/b\u003e",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://cdn.www.testmasters.net/images/hero/GMAT-Landing.jpg",
+      "type": "1",
+      "width": "390",
+      "height": "129"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "San Francisco GMAT Prep Courses | Veritas Prep",
+   "htmlTitle": "San Francisco \u003cb\u003eGMAT Prep Courses\u003c/b\u003e | Veritas Prep",
+   "link": "http://www.veritasprep.com/san-francisco-gmat-prep-courses/",
+   "displayLink": "www.veritasprep.com",
+   "snippet": "San Francisco GMAT Prep Courses. Veritas Prep has helped thousands of San   Francisco GMAT students reach their maximum potential on the GMAT.",
+   "htmlSnippet": "San Francisco \u003cb\u003eGMAT Prep Courses\u003c/b\u003e. Veritas Prep has helped thousands of San \u003cbr\u003e  Francisco GMAT students reach their maximum potential on the GMAT.",
+   "cacheId": "LBzWVLFSnxMJ",
+   "formattedUrl": "www.veritasprep.com/san-francisco-gmat-prep-courses/",
+   "htmlFormattedUrl": "www.veritas\u003cb\u003eprep\u003c/b\u003e.com/san-francisco-\u003cb\u003egmat\u003c/b\u003e-\u003cb\u003eprep\u003c/b\u003e-\u003cb\u003ecourses\u003c/b\u003e/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://d3scmz9sa6n2x2.cloudfront.net/images/billboards/gmat-prep.png",
+      "type": "1",
+      "width": "198",
+      "height": "254"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Test Prep: GMAT, GRE, LSAT, MCAT, SAT, ACT, and More",
+   "htmlTitle": "Test \u003cb\u003ePrep\u003c/b\u003e: \u003cb\u003eGMAT\u003c/b\u003e, GRE, LSAT, MCAT, SAT, ACT, and More",
+   "link": "http://www.princetonreview.com/",
+   "displayLink": "www.princetonreview.com",
+   "snippet": "Various test prep options available, pick one based on your own learning style:   online, ... GMAT. Prep for the GMAT · GMAT Tutoring · LiveOnline Courses ...",
+   "htmlSnippet": "Various test \u003cb\u003eprep\u003c/b\u003e options available, pick one based on your own learning style: \u003cbr\u003e  online, \u003cb\u003e...\u003c/b\u003e \u003cb\u003eGMAT\u003c/b\u003e. \u003cb\u003ePrep\u003c/b\u003e for the \u003cb\u003eGMAT\u003c/b\u003e &middot; \u003cb\u003eGMAT\u003c/b\u003e Tutoring &middot; LiveOnline \u003cb\u003eCourses\u003c/b\u003e \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "1FJ4tYgztdIJ",
+   "formattedUrl": "www.princetonreview.com/",
+   "htmlFormattedUrl": "www.princetonreview.com/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.princetonreview.com/uploadedImages/Sitemap/Home_Page/Campaign/Facebook/homepage.jpg",
+      "type": "1",
+      "width": "400",
+      "height": "126"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Chicago GMAT | The Best GMAT Prep in Chicago | Veritas Prep",
+   "htmlTitle": "Chicago GMAT | The Best \u003cb\u003eGMAT Prep\u003c/b\u003e in Chicago | Veritas Prep",
+   "link": "http://www.veritasprep.com/chicago-gmat-prep-courses/",
+   "displayLink": "www.veritasprep.com",
+   "snippet": "Thousands of students have attended our Chicago GMAT classes and worked   with our Chicago GMAT tutors. See why we offer the best Chicago GMAT ...",
+   "htmlSnippet": "Thousands of students have attended our Chicago \u003cb\u003eGMAT classes\u003c/b\u003e and worked \u003cbr\u003e  with our Chicago \u003cb\u003eGMAT\u003c/b\u003e tutors. See why we offer the best Chicago \u003cb\u003eGMAT\u003c/b\u003e \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "P02-dUv2zQQJ",
+   "formattedUrl": "www.veritasprep.com/chicago-gmat-prep-courses/",
+   "htmlFormattedUrl": "www.veritas\u003cb\u003eprep\u003c/b\u003e.com/chicago-\u003cb\u003egmat\u003c/b\u003e-\u003cb\u003eprep\u003c/b\u003e-\u003cb\u003ecourses\u003c/b\u003e/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://d3scmz9sa6n2x2.cloudfront.net/images/billboards/gmat-tutors.png",
+      "type": "1",
+      "width": "295",
+      "height": "171"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "GMAT Prep Class Information - Seattle University",
+   "htmlTitle": "\u003cb\u003eGMAT Prep Class\u003c/b\u003e Information - Seattle University",
+   "link": "http://www.seattleu.edu/albers/gmatprep/",
+   "displayLink": "www.seattleu.edu",
+   "snippet": "GMAT Prep Class Information. Our GMAT Prep Classes will give you just what   you'll need to get ready! 10 TIPS for GMAT SUCCESS*. Make yourself an expert ...",
+   "htmlSnippet": "\u003cb\u003eGMAT Prep Class\u003c/b\u003e Information. Our \u003cb\u003eGMAT Prep Classes\u003c/b\u003e will give you just what \u003cbr\u003e  you&#39;ll need to get ready! 10 TIPS for GMAT SUCCESS*. Make yourself an expert \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "q8I-Ov1DSDwJ",
+   "formattedUrl": "www.seattleu.edu/albers/gmatprep/",
+   "htmlFormattedUrl": "www.seattleu.edu/albers/\u003cb\u003egmatprep\u003c/b\u003e/"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "GMAT Prep | Elite GMAT Preparation | Veritas Prep",
+   "htmlTitle": "\u003cb\u003eGMAT Prep\u003c/b\u003e | Elite \u003cb\u003eGMAT Preparation\u003c/b\u003e | Veritas Prep",
+   "link": "http://www.veritasprep.com/gmat/",
+   "displayLink": "www.veritasprep.com",
+   "snippet": "The largest privately-owned GMAT prep provider in the world. We guarantee your   score will improve after taking our 7-week GMAT prep class.",
+   "htmlSnippet": "The largest privately-owned GMAT prep provider in the world. We guarantee your \u003cbr\u003e  score will improve after taking our 7-week \u003cb\u003eGMAT prep class\u003c/b\u003e.",
+   "cacheId": "xBAME4KeUUYJ",
+   "formattedUrl": "www.veritasprep.com/gmat/",
+   "htmlFormattedUrl": "www.veritas\u003cb\u003eprep\u003c/b\u003e.com/\u003cb\u003egmat\u003c/b\u003e/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://d3scmz9sa6n2x2.cloudfront.net/images/billboards/gmat-tutors.png",
+      "type": "1",
+      "width": "295",
+      "height": "171"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "GMAT Prep Courses Online | GMAT Class Online | GMAT Test Prep",
+   "htmlTitle": "\u003cb\u003eGMAT Prep Courses\u003c/b\u003e Online | GMAT Class Online | GMAT Test Prep",
+   "link": "http://www.knewton.com/gmat/",
+   "displayLink": "www.knewton.com",
+   "snippet": "Knewton's GMAT prep offers the best teaching on the planet. We guarantee at   least a 50-point increase or you get a full refund.",
+   "htmlSnippet": "Knewton&#39;s \u003cb\u003eGMAT prep\u003c/b\u003e offers the best teaching on the planet. We guarantee at \u003cbr\u003e  least a 50-point increase or you get a full refund.",
+   "cacheId": "kvQv-e8kZeQJ",
+   "formattedUrl": "www.knewton.com/gmat/",
+   "htmlFormattedUrl": "www.knewton.com/\u003cb\u003egmat\u003c/b\u003e/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://s.knewton.com/assets-v2/images/banner/btg-verified-reviews.gif",
+      "type": "1",
+      "width": "331",
+      "height": "48"
+     }
+    ],
+    "metatags": [
+     {
+      "og:type": "article",
+      "rating": "General",
+      "expires": "never",
+      "language": "english",
+      "distribution": "Global",
+      "viewport": "width=device-width, initial-scale=1",
+      "og:locale": "en_us",
+      "og:title": "GMAT Prep Courses Online | GMAT Class Online | GMAT Test Prep",
+      "og:description": "Knewton's GMAT prep offers the best teaching on the planet. We guarantee at least a 50-point increase or you get a full refund.",
+      "og:url": "http://www.knewton.com/gmat/",
+      "og:image": "http://s.knewton.com/assets-v2/images/banner/btg-verified-reviews.gif"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Washington DC GMAT Prep Courses | Veritas Prep",
+   "htmlTitle": "Washington DC \u003cb\u003eGMAT Prep Courses\u003c/b\u003e | Veritas Prep",
+   "link": "http://www.veritasprep.com/washington-dc-gmat-prep-courses/",
+   "displayLink": "www.veritasprep.com",
+   "snippet": "Many employees of Booz Allen Hamilton, Capital One, The World Bank, and   other renowned organizations choose a Veritas Prep GMAT class every year.",
+   "htmlSnippet": "Many employees of Booz Allen Hamilton, Capital One, The World Bank, and \u003cbr\u003e  other renowned organizations choose a Veritas \u003cb\u003ePrep GMAT class\u003c/b\u003e every year.",
+   "cacheId": "Avvh5IClgSEJ",
+   "formattedUrl": "www.veritasprep.com/washington-dc-gmat-prep-courses/",
+   "htmlFormattedUrl": "www.veritas\u003cb\u003eprep\u003c/b\u003e.com/washington-dc-\u003cb\u003egmat\u003c/b\u003e-\u003cb\u003eprep\u003c/b\u003e-\u003cb\u003ecourses\u003c/b\u003e/"
+  }
+ ]
+}

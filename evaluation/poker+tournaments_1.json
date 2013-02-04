@@ -1,0 +1,313 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "nextPage": [
+   {
+    "title": "Google Custom Search - poker tournaments",
+    "totalResults": "8820000",
+    "searchTerms": "poker tournaments",
+    "count": 10,
+    "startIndex": 21,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "017401104989814545383:mf4lavmtuva"
+   }
+  ],
+  "request": [
+   {
+    "title": "Google Custom Search - poker tournaments",
+    "totalResults": "8820000",
+    "searchTerms": "poker tournaments",
+    "count": 10,
+    "startIndex": 11,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "017401104989814545383:mf4lavmtuva"
+   }
+  ],
+  "previousPage": [
+   {
+    "title": "Google Custom Search - poker tournaments",
+    "totalResults": "8820000",
+    "searchTerms": "poker tournaments",
+    "count": 10,
+    "startIndex": 1,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "017401104989814545383:mf4lavmtuva"
+   }
+  ]
+ },
+ "context": {
+  "title": "College MetaSearch Comparison"
+ },
+ "searchInformation": {
+  "searchTime": 0.278944,
+  "formattedSearchTime": "0.28",
+  "totalResults": "8820000",
+  "formattedTotalResults": "8,820,000"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "Los Angeles Poker Tournaments",
+   "htmlTitle": "Los Angeles \u003cb\u003ePoker Tournaments\u003c/b\u003e",
+   "link": "http://www.thepokeratlas.com/city/los-angeles-ca-usa/567/",
+   "displayLink": "www.thepokeratlas.com",
+   "snippet": "Los Angeles Poker information and Los Angeles Poker Tournament schedule.   Los Angeles poker games can be found at Commerce Casino, Bicycle Casino, ...",
+   "htmlSnippet": "Los Angeles Poker information and Los Angeles \u003cb\u003ePoker Tournament\u003c/b\u003e schedule. \u003cbr\u003e  Los Angeles poker games can be found at Commerce Casino, Bicycle Casino, \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "SzlhBPT5kK0J",
+   "formattedUrl": "www.thepokeratlas.com/city/los-angeles-ca-usa/567/",
+   "htmlFormattedUrl": "www.the\u003cb\u003epoker\u003c/b\u003eatlas.com/city/los-angeles-ca-usa/567/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.thepokeratlas.com/images/venues/hustler-casino.gif",
+      "type": "1",
+      "width": "145",
+      "height": "43"
+     }
+    ],
+    "hreview": [
+     {
+      "summary": "As a traveling business professional, I'm constantly on the lookout for a place to hang my hat for a few days, to play cash games and find solid tourney action. The Hustler was an excellent..."
+     },
+     {
+      "summary": "Super fun 2:15am Saturday night (early Sunday am) $40 buyin plus $10 entry fee. 1 optional rebuy $40. 55 players last week over $3000 prize pool. See you at Hawaiian Gardens Casino late Saturday..."
+     }
+    ],
+    "metatags": [
+     {
+      "copyright": "Copyright (C) 2008. All rights reserved. www.thepokeratlas.com",
+      "y_key": "651c09718b4b1060",
+      "msvalidate.01": "B8BA7C0E76A2A22532BA08825CE1E0E6"
+     }
+    ],
+    "review": [
+     {
+      "reviewer": "anonymous",
+      "ratingstars": "4.0"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Poker Tournaments, Poker Events, and Poker on TV, Heartland ...",
+   "htmlTitle": "\u003cb\u003ePoker Tournaments\u003c/b\u003e, Poker Events, and Poker on TV, Heartland \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://www.hptpoker.com/",
+   "displayLink": "www.hptpoker.com",
+   "snippet": "Next Heartland Poker Tour Event ... Florida - Daytona Beach KC & Poker Room   10-05-2012 - 10-14-2012 ***This is an 18 or older event*** ...",
+   "htmlSnippet": "Next Heartland Poker Tour Event \u003cb\u003e...\u003c/b\u003e Florida - Daytona Beach KC &amp; \u003cb\u003ePoker Room\u003c/b\u003e \u003cbr\u003e  10-05-2012 - 10-14-2012 ***This is an 18 or older event*** \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "D70sJOocLVoJ",
+   "formattedUrl": "www.hptpoker.com/",
+   "htmlFormattedUrl": "www.hpt\u003cb\u003epoker\u003c/b\u003e.com/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.hptpoker.com/data/adserver/ad22.jpg",
+      "type": "1",
+      "width": "144",
+      "height": "320"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Poker Tournament Events - Free Poker Tournaments Online",
+   "htmlTitle": "\u003cb\u003ePoker Tournament\u003c/b\u003e Events - Free \u003cb\u003ePoker Tournaments\u003c/b\u003e Online",
+   "link": "http://www.pokerstars.com/poker/tournaments/",
+   "displayLink": "www.pokerstars.com",
+   "snippet": "Qualify for PokerStars biggest live and online poker events, including the   European Poker Tour (EPT) and World Championship of Online Poker (WCOOP).",
+   "htmlSnippet": "Qualify for PokerStars biggest live and online \u003cb\u003epoker\u003c/b\u003e events, including the \u003cbr\u003e  European \u003cb\u003ePoker\u003c/b\u003e Tour (EPT) and World Championship of Online \u003cb\u003ePoker\u003c/b\u003e (WCOOP).",
+   "cacheId": "FctTxBL_FnsJ",
+   "formattedUrl": "www.pokerstars.com/poker/tournaments/",
+   "htmlFormattedUrl": "www.\u003cb\u003epoker\u003c/b\u003estars.com/\u003cb\u003epoker\u003c/b\u003e/\u003cb\u003etournaments\u003c/b\u003e/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.pokerstars.com/images/tournaments/thumb/sunday-majors.jpg",
+      "type": "1",
+      "width": "160",
+      "height": "101"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Poker Pro Wins $17 Million in Tournament - WSJ.com",
+   "htmlTitle": "\u003cb\u003ePoker\u003c/b\u003e Pro Wins $17 Million in \u003cb\u003eTournament\u003c/b\u003e - WSJ.com",
+   "link": "http://online.wsj.com/article/SB10001424052702304141204577506050648172224.html",
+   "displayLink": "online.wsj.com",
+   "snippet": "Jul 4, 2012 ... Professional poker player Antonio Esfandiari became the biggest winner in poker   tournament history, beating some of the most prominent pros ...",
+   "htmlSnippet": "Jul 4, 2012 \u003cb\u003e...\u003c/b\u003e Professional poker player Antonio Esfandiari became the biggest winner in \u003cb\u003epoker\u003c/b\u003e \u003cbr\u003e  \u003cb\u003etournament\u003c/b\u003e history, beating some of the most prominent pros \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "_xvqX2TniLwJ",
+   "formattedUrl": "online.wsj.com/.../SB10001424052702304141204577506050648172224. html",
+   "htmlFormattedUrl": "online.wsj.com/.../SB10001424052702304141204577506050648172224. html",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://si.wsj.net/img/WSJ_profile_lg.gif"
+     }
+    ],
+    "metatags": [
+     {
+      "og:url": "http://online.wsj.com/article/SB10001424052702304141204577506050648172224.html",
+      "sitedomain": "online.wsj.com",
+      "primaryproduct": "Online Journal",
+      "ctype": "article",
+      "subsection": "Business",
+      "displayname": "Business",
+      "pagename": "Business_SB10001424052702304141204577506050648172224",
+      "og:description": "Professional poker player Antonio Esfandiari became the biggest winner in poker tournament history, beating some of the most prominent pros in the game and at least two billionaires to take a prize of more than $18 million.",
+      "csource": "WSJ Online",
+      "section": "Article",
+      "og:image": "http://si.wsj.net/img/WSJ_profile_lg.gif",
+      "og:title": "Poker Pro Wins $17 Million",
+      "fb:app_id": "368513495882",
+      "og:type": "article",
+      "msapplication-task": "name=SmartMoney;action-uri=http://www.smartmoney.com/;icon-uri=http://www.smartmoney.com/favicon.ico",
+      "fb:page_id": "8304333127",
+      "format-detection": "telephone=no"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Poker Tournaments",
+   "htmlTitle": "\u003cb\u003ePoker Tournaments\u003c/b\u003e",
+   "link": "http://www.pokertournaments.org/",
+   "displayLink": "www.pokertournaments.org",
+   "snippet": "Win a seat at one of the featured online poker tournaments.",
+   "htmlSnippet": "Win a seat at one of the featured online \u003cb\u003epoker tournaments\u003c/b\u003e.",
+   "cacheId": "1pP5-MXAWf4J",
+   "formattedUrl": "www.pokertournaments.org/",
+   "htmlFormattedUrl": "www.\u003cb\u003epokertournaments\u003c/b\u003e.org/"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Las Vegas Poker Tournaments, Schedule and Ratings",
+   "htmlTitle": "Las Vegas \u003cb\u003ePoker Tournaments\u003c/b\u003e, Schedule and Ratings",
+   "link": "http://www.pokertournamentformula.com/las_vegas_poker_tournaments.htm",
+   "displayLink": "www.pokertournamentformula.com",
+   "snippet": "Arnold Snyder provides a comprehensive listing of all Las Vegas poker   tournaments, with complete information on Las Vegas poker tournament blind   structures, ...",
+   "htmlSnippet": "Arnold Snyder provides a comprehensive listing of all Las Vegas \u003cb\u003epoker\u003c/b\u003e \u003cbr\u003e  \u003cb\u003etournaments\u003c/b\u003e, with complete information on Las Vegas \u003cb\u003epoker tournament\u003c/b\u003e blind \u003cbr\u003e  structures, \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "H4hYV33IsFYJ",
+   "formattedUrl": "www.pokertournamentformula.com/las_vegas_poker_tournaments.htm",
+   "htmlFormattedUrl": "www.\u003cb\u003epokertournament\u003c/b\u003eformula.com/las_vegas_\u003cb\u003epoker\u003c/b\u003e_\u003cb\u003etournaments\u003c/b\u003e.htm",
+   "pagemap": {
+    "metatags": [
+     {
+      "author": "Arnold Snyder"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Poker Tournaments",
+   "htmlTitle": "\u003cb\u003ePoker Tournaments\u003c/b\u003e",
+   "link": "http://www.cardplayer.com/topics/3-poker-tournaments",
+   "displayLink": "www.cardplayer.com",
+   "snippet": "Articles and videos covering the major events on today's poker tournament circuit  .",
+   "htmlSnippet": "Articles and videos covering the major events on today&#39;s \u003cb\u003epoker tournament\u003c/b\u003e circuit\u003cbr\u003e  .",
+   "cacheId": "fFoWsN5m7kIJ",
+   "formattedUrl": "www.cardplayer.com/topics/3-poker-tournaments",
+   "htmlFormattedUrl": "www.cardplayer.com/topics/3-\u003cb\u003epoker\u003c/b\u003e-\u003cb\u003etournaments\u003c/b\u003e",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://media.cardplayer.com/assets/news/000/013/633/featured_RS47813_Panayote_Vilandos_2.jpg",
+      "type": "1",
+      "width": "307",
+      "height": "164"
+     }
+    ],
+    "metatags": [
+     {
+      "fb:app_id": "247478141482",
+      "fb:admins": "100000611985095",
+      "csrf-param": "authenticity_token",
+      "csrf-token": "5W5qoFI0A039gkpmOquEirPtIPq+RTdd3JIGGHMU7B4="
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Play online poker tournaments and win cash at 888poker",
+   "htmlTitle": "Play online \u003cb\u003epoker tournaments\u003c/b\u003e and win cash at 888poker",
+   "link": "http://www.888poker.com/poker-tournaments/",
+   "displayLink": "www.888poker.com",
+   "snippet": "Turn small amounts of money into a large bankroll using 888poker's lucrative   online poker tournaments. Start playing today. What are you waiting for?",
+   "htmlSnippet": "Turn small amounts of money into a large bankroll using 888poker&#39;s lucrative \u003cbr\u003e  online \u003cb\u003epoker tournaments\u003c/b\u003e. Start playing today. What are you waiting for?",
+   "cacheId": "9tu_73inOE4J",
+   "formattedUrl": "www.888poker.com/poker-tournaments/",
+   "htmlFormattedUrl": "www.888\u003cb\u003epoker\u003c/b\u003e.com/\u003cb\u003epoker\u003c/b\u003e-\u003cb\u003etournaments\u003c/b\u003e/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://images.images4us.com/888poker/en/poker_mac.jpg",
+      "type": "1",
+      "width": "172",
+      "height": "84"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Online Poker Tournaments-Play Poker Tournaments at Bodog Poker ...",
+   "htmlTitle": "Online \u003cb\u003ePoker Tournaments\u003c/b\u003e-Play \u003cb\u003ePoker Tournaments\u003c/b\u003e at Bodog Poker \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://poker.bodog.eu/tournaments/",
+   "displayLink": "poker.bodog.eu",
+   "snippet": "Bodog's poker tournaments feature a weekly $100k Guaranteed tournament!   Also join Bodog Flight Club and qualify to play the EPT, LAPT or the WSOP circuit  !",
+   "htmlSnippet": "Bodog&#39;s \u003cb\u003epoker tournaments\u003c/b\u003e feature a weekly $100k Guaranteed tournament! \u003cbr\u003e  Also join Bodog Flight Club and qualify to play the EPT, LAPT or the WSOP circuit\u003cbr\u003e  !",
+   "cacheId": "D5qtHhVmTg8J",
+   "formattedUrl": "poker.bodog.eu/tournaments/",
+   "htmlFormattedUrl": "\u003cb\u003epoker\u003c/b\u003e.bodog.eu/\u003cb\u003etournaments\u003c/b\u003e/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "https://50.cdn.bit2host.eu/publish/etc/medialib/bodogcom_media_lib/poker-web/poker-homepage-revamp-feb2012.Par.12613.Image.gif",
+      "type": "1",
+      "width": "144",
+      "height": "254"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Poker Tournaments Online - Online Poker Tournament Schedule",
+   "htmlTitle": "\u003cb\u003ePoker Tournaments\u003c/b\u003e Online - Online \u003cb\u003ePoker Tournament\u003c/b\u003e Schedule",
+   "link": "http://www.pokertournamentsonline.com/",
+   "displayLink": "www.pokertournamentsonline.com",
+   "snippet": "Find online poker tournaments quickly and easily with our poker tournament   schedule search engine.",
+   "htmlSnippet": "Find online \u003cb\u003epoker tournaments\u003c/b\u003e quickly and easily with our \u003cb\u003epoker tournament\u003c/b\u003e \u003cbr\u003e  schedule search engine.",
+   "cacheId": "Kc78TxLj1csJ",
+   "formattedUrl": "www.pokertournamentsonline.com/",
+   "htmlFormattedUrl": "www.\u003cb\u003epokertournaments\u003c/b\u003eonline.com/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://online.titanpoker.com/promoLoadDisplay?key=ej0yMTg2NzkwNjE1Jmw9MCZwPTM3OTQzNg%3D%3D==",
+      "type": "1",
+      "width": "108",
+      "height": "54"
+     }
+    ]
+   }
+  }
+ ]
+}

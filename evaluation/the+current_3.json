@@ -1,0 +1,360 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "nextPage": [
+   {
+    "title": "Google Custom Search - the current",
+    "totalResults": "1650000000",
+    "searchTerms": "the current",
+    "count": 10,
+    "startIndex": 41,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "017401104989814545383:mf4lavmtuva"
+   }
+  ],
+  "request": [
+   {
+    "title": "Google Custom Search - the current",
+    "totalResults": "1650000000",
+    "searchTerms": "the current",
+    "count": 10,
+    "startIndex": 31,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "017401104989814545383:mf4lavmtuva"
+   }
+  ],
+  "previousPage": [
+   {
+    "title": "Google Custom Search - the current",
+    "totalResults": "1650000000",
+    "searchTerms": "the current",
+    "count": 10,
+    "startIndex": 21,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "017401104989814545383:mf4lavmtuva"
+   }
+  ]
+ },
+ "context": {
+  "title": "College MetaSearch Comparison"
+ },
+ "searchInformation": {
+  "searchTime": 0.235123,
+  "formattedSearchTime": "0.24",
+  "totalResults": "1650000000",
+  "formattedTotalResults": "1,650,000,000"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "The Current (song) - Wikipedia, the free encyclopedia",
+   "htmlTitle": "\u003cb\u003eThe Current\u003c/b\u003e (song) - Wikipedia, the free encyclopedia",
+   "link": "http://en.wikipedia.org/wiki/The_Current_(song)",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "\"The Current\" is a song by Blue Man Group, released as the first single from their   2003 concept album, The Complex. The song features the guest vocals of ...",
+   "htmlSnippet": "&quot;\u003cb\u003eThe Current\u003c/b\u003e&quot; is a song by Blue Man Group, released as the first single from their \u003cbr\u003e  2003 concept album, The Complex. The song features the guest vocals of \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "R-f1QQnj210J",
+   "formattedUrl": "en.wikipedia.org/wiki/The_Current_(song)",
+   "htmlFormattedUrl": "en.wikipedia.org/wiki/\u003cb\u003eThe_Current\u003c/b\u003e_(song)",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://upload.wikimedia.org/wikipedia/en/thumb/c/ca/The_Current.jpg/220px-The_Current.jpg",
+      "type": "1",
+      "width": "176",
+      "height": "156"
+     }
+    ],
+    "hcard": [
+     {
+      "fn": "Blue Man Group"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Current TV | Politics, News Analysis, Commentary and Opinion",
+   "htmlTitle": "\u003cb\u003eCurrent\u003c/b\u003e TV | Politics, News Analysis, Commentary and Opinion",
+   "link": "http://current.com/",
+   "displayLink": "current.com",
+   "snippet": "Home to Peabody and Emmy Award-winning TV series, original programming   and movies. Find videos, news, photos, schedule information and more.",
+   "htmlSnippet": "Home to Peabody and Emmy Award-winning TV series, original programming \u003cbr\u003e  and movies. Find videos, news, photos, schedule information and more.",
+   "cacheId": "0qKr5P9ETLsJ",
+   "formattedUrl": "current.com/",
+   "htmlFormattedUrl": "\u003cb\u003ecurrent\u003c/b\u003e.com/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://i2.crtcdn1.net/images/current/logos/current_bw_276x200.gif",
+      "type": "1",
+      "width": "220",
+      "height": "160"
+     }
+    ],
+    "metatags": [
+     {
+      "aol-te-auth": "d55998e7-d859-47ab-a8c3-df47123c5eb8",
+      "fb:app_id": "113089612563",
+      "title": "Current TV  | Politics, News Analysis, Commentary and Opinion",
+      "og:title": "Current TV",
+      "og:type": "website",
+      "og:image": "http://i2.crtcdn1.net/images/current/logos/current_bw_276x200.gif",
+      "og:site_name": "Current TV",
+      "og:description": "Home to Peabody and Emmy Award-winning TV series, original programming and movies. Find videos, news, photos, schedule information and more."
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "The Current (magazine) - Wikipedia, the free encyclopedia",
+   "htmlTitle": "\u003cb\u003eThe Current\u003c/b\u003e (magazine) - Wikipedia, the free encyclopedia",
+   "link": "http://en.wikipedia.org/wiki/The_Current_(magazine)",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "The Current is a magazine of contemporary politics, culture, and Jewish affairs at   Columbia University (New York, United States). Launched in December 2005, ...",
+   "htmlSnippet": "\u003cb\u003eThe Current\u003c/b\u003e is a magazine of contemporary politics, culture, and Jewish affairs at \u003cbr\u003e  Columbia University (New York, United States). Launched in December 2005, \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "EZUTIynp_-0J",
+   "formattedUrl": "en.wikipedia.org/wiki/The_Current_(magazine)",
+   "htmlFormattedUrl": "en.wikipedia.org/wiki/\u003cb\u003eThe_Current\u003c/b\u003e_(magazine)"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "89.3 The Current - YouTube",
+   "htmlTitle": "89.3 \u003cb\u003eThe Current\u003c/b\u003e - YouTube",
+   "link": "http://www.youtube.com/user/893TheCurrent",
+   "displayLink": "www.youtube.com",
+   "snippet": "The Current brings listeners the best authentic new music alongside music that   explores roots and influences. Listeners to The Current hear live DJs who hand ...",
+   "htmlSnippet": "\u003cb\u003eThe Current\u003c/b\u003e brings listeners the best authentic new music alongside music that \u003cbr\u003e  explores roots and influences. Listeners to \u003cb\u003eThe Current\u003c/b\u003e hear live DJs who hand \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "Aj-UgHOL1ZsJ",
+   "formattedUrl": "www.youtube.com/user/893TheCurrent",
+   "htmlFormattedUrl": "www.youtube.com/user/893\u003cb\u003eTheCurrent\u003c/b\u003e",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://i2.ytimg.com/vi/iKIegJH7Mdc/mqdefault.jpg",
+      "type": "1",
+      "width": "256",
+      "height": "144"
+     }
+    ],
+    "metatags": [
+     {
+      "title": "89.3 The Current",
+      "og:image": "//i2.ytimg.com/i/AKcSON6PSG_JkTbXh2WdIg/1.jpg?v=bf7207"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Blitzen Trapper perform in The Current studio | The Current from ...",
+   "htmlTitle": "Blitzen Trapper perform in \u003cb\u003eThe Current\u003c/b\u003e studio | \u003cb\u003eThe Current\u003c/b\u003e from \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://minnesota.publicradio.org/display/web/2012/07/09/blitzen-trapper/",
+   "displayLink": "minnesota.publicradio.org",
+   "snippet": "Jul 8, 2012 ... Portland, Ore. folk-rock troupe Blitzen Trapper have been exploring the   boundaries and possibilities of Americana for over a decade now, ...",
+   "htmlSnippet": "Jul 8, 2012 \u003cb\u003e...\u003c/b\u003e Portland, Ore. folk-rock troupe Blitzen Trapper have been exploring the \u003cbr\u003e  boundaries and possibilities of Americana for over a decade now, \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "xTh6BMjzwssJ",
+   "formattedUrl": "minnesota.publicradio.org/display/web/2012/07/09/blitzen-trapper/",
+   "htmlFormattedUrl": "minnesota.publicradio.org/display/web/2012/07/09/blitzen-trapper/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://images.publicradio.org/content/2012/07/06/20120706_blitzen_trapper_45.jpg",
+      "type": "1",
+      "width": "265",
+      "height": "190"
+     }
+    ],
+    "metatags": [
+     {
+      "title": "Blitzen Trapper perform in The Current studio",
+      "date": "2012-07-08",
+      "author": "Minnesota Public Radio",
+      "fb:admins": "517623060",
+      "og:title": "Blitzen Trapper perform in The Current studio",
+      "og:site_name": "The Current from Minnesota Public Radio",
+      "og:image": "http://images.publicradio.org/content/2012/07/06/20120706_blitzen_trapper_45.jpg",
+      "mpr-site": "the-current",
+      "wt.z_mpr-site": "the-current",
+      "mpr-collection": "Arts & Culture",
+      "wt.cg_n": "Current Arts & Culture",
+      "mpr-media": "audio"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Homepage - Newburyport, MA - The Newburyport Current",
+   "htmlTitle": "Homepage - Newburyport, MA - The Newburyport \u003cb\u003eCurrent\u003c/b\u003e",
+   "link": "http://www.wickedlocal.com/newburyport",
+   "displayLink": "www.wickedlocal.com",
+   "snippet": "3 days ago ... The print edition of the Newburyport Current hits newsstands and boxes every   Friday. Here are some of the things you'll find exclusively in the ...",
+   "htmlSnippet": "3 days ago \u003cb\u003e...\u003c/b\u003e The print edition of the Newburyport \u003cb\u003eCurrent\u003c/b\u003e hits newsstands and boxes every \u003cbr\u003e  Friday. Here are some of the things you&#39;ll find exclusively in the \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "0tdKzcGVGvEJ",
+   "formattedUrl": "www.wickedlocal.com/newburyport",
+   "htmlFormattedUrl": "www.wickedlocal.com/newburyport",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://d2om8tvz4lgco4.cloudfront.net/archive/x319048529/g1831830000000000009e390787de3ba6c59a579a15e954baf7304bc18e.jpg",
+      "type": "1",
+      "width": "309",
+      "height": "156"
+     }
+    ],
+    "metatags": [
+     {
+      "copyright": "Copyright 2006-2012 GateHouse Media, Inc. Some Rights Reserved.",
+      "y_key": "56086d66069e9bf6",
+      "msvalidate.01": "7E15F9269E2CE66F2A488ABB04B5015E",
+      "objecttype": "Document",
+      "rating": "General",
+      "author": "GateHouse Media, Inc.",
+      "distribution": "Global",
+      "viewport": "width=device-width, user-scalable=yes"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Current Population Survey (CPS)",
+   "htmlTitle": "\u003cb\u003eCurrent\u003c/b\u003e Population Survey (CPS)",
+   "link": "http://www.bls.gov/cps/",
+   "displayLink": "www.bls.gov",
+   "snippet": "The Current Population Survey (CPS) is a monthly survey of households   conducted by the Bureau of Census for the Bureau of Labor Statistics. It provides   a ...",
+   "htmlSnippet": "\u003cb\u003eThe Current\u003c/b\u003e Population Survey (CPS) is a monthly survey of households \u003cbr\u003e  conducted by the Bureau of Census for the Bureau of Labor Statistics. It provides \u003cbr\u003e  a \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "Mb1NST1jPrgJ",
+   "formattedUrl": "www.bls.gov/cps/",
+   "htmlFormattedUrl": "www.bls.gov/cps/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.bls.gov/images/maps/sml/regional_map.png",
+      "type": "1",
+      "width": "134",
+      "height": "84"
+     }
+    ],
+    "metatags": [
+     {
+      "agency": "BLS",
+      "audience": "general",
+      "subagency": "BLS: Employment and Unemployment",
+      "program": "BLS: Employment and Unemployment: Current Population Survey",
+      "subject": "Statistics: Demographics: Labor Force, Statistics: Employment and Unemployment",
+      "date": "07/19/2008"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Live Performance Archive | The Current from Minnesota Public Radio",
+   "htmlTitle": "Live Performance Archive | \u003cb\u003eThe Current\u003c/b\u003e from Minnesota Public Radio",
+   "link": "http://minnesota.publicradio.org/collections/special/ongoing/current_performances/",
+   "displayLink": "minnesota.publicradio.org",
+   "snippet": "The married folk duo Shovels & Rope brought their act to The Current studios to   play a few songs and talk with Bill Deville about finding their kick drum in the ...",
+   "htmlSnippet": "The married folk duo Shovels &amp; Rope brought their act to \u003cb\u003eThe Current\u003c/b\u003e studios to \u003cbr\u003e  play a few songs and talk with Bill Deville about finding their kick drum in the \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "bR6HqAc4iPgJ",
+   "formattedUrl": "minnesota.publicradio.org/collections/special/.../current_performances/",
+   "htmlFormattedUrl": "minnesota.publicradio.org/collections/special/.../\u003cb\u003ecurrent\u003c/b\u003e_performances/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://images.publicradio.org/content/2012/07/18/20120718_shovels-and-rope_1.jpg",
+      "type": "1",
+      "width": "96",
+      "height": "72"
+     }
+    ],
+    "metatags": [
+     {
+      "author": "Minnesota Public Radio",
+      "mpr-site": "the-current",
+      "wt.cg_n": "Current Archives",
+      "og:site_name": "The Current from Minnesota Public Radio"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Keep Me Current: Current",
+   "htmlTitle": "Keep Me \u003cb\u003eCurrent\u003c/b\u003e: \u003cb\u003eCurrent\u003c/b\u003e",
+   "link": "http://www.keepmecurrent.com/current/",
+   "displayLink": "www.keepmecurrent.com",
+   "snippet": "5 days ago ... Serving Scarborough, Cape Elizabeth and South Portland.",
+   "htmlSnippet": "5 days ago \u003cb\u003e...\u003c/b\u003e Serving Scarborough, Cape Elizabeth and South Portland.",
+   "formattedUrl": "www.keepmecurrent.com/current/",
+   "htmlFormattedUrl": "www.keepme\u003cb\u003ecurrent\u003c/b\u003e.com/\u003cb\u003ecurrent\u003c/b\u003e/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://bloximages.chicago2.vip.townnews.com/keepmecurrent.com/content/tncms/assets/v3/editorial/2/9c/29c98204-d05a-11e1-a824-001a4bcf887a/5005df62e5da7.preview-300.jpg",
+      "type": "1",
+      "width": "240",
+      "height": "171"
+     }
+    ],
+    "metatags": [
+     {
+      "og:title": "Keep Me Current",
+      "og:site_name": "Keep Me Current",
+      "fb:app_id": "160891933927903"
+     }
+    ],
+    "hcard": [
+     {
+      "fn": "Keep Me Current",
+      "url": "http://www.keepmecurrent.com/",
+      "url_text": "Keep Me Current"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Biographies of Current Justices of the Supreme Court",
+   "htmlTitle": "Biographies of \u003cb\u003eCurrent\u003c/b\u003e Justices of the Supreme Court",
+   "link": "http://www.supremecourt.gov/about/biographies.aspx",
+   "displayLink": "www.supremecourt.gov",
+   "snippet": "All Documents Docket Files For Search Term: Skip Navigation Links Home |   About the Supreme Court | Biographies of Current Justices of the Supreme Court ...",
+   "htmlSnippet": "All Documents Docket Files For Search Term: Skip Navigation Links Home | \u003cbr\u003e  About the Supreme Court | Biographies of \u003cb\u003eCurrent\u003c/b\u003e Justices of the Supreme Court \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "IsJYjFsiQZcJ",
+   "formattedUrl": "www.supremecourt.gov/about/biographies.aspx",
+   "htmlFormattedUrl": "www.supremecourt.gov/about/biographies.aspx",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.supremecourt.gov/about/justice_pictures/AKennedy.jpg",
+      "type": "1",
+      "width": "121",
+      "height": "138"
+     }
+    ],
+    "metatags": [
+     {
+      "viewport": "width=device-width, initial-scale=0.7",
+      "author": "Supreme Court of the United States",
+      "title": "Biographies of Current Justices of the Supreme Court",
+      "created": "9/30/2010 10:38:54 AM",
+      "revised": "6/1/2012 8:05:19 AM"
+     }
+    ]
+   }
+  }
+ ]
+}

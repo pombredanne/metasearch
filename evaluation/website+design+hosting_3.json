@@ -1,0 +1,308 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "nextPage": [
+   {
+    "title": "Google Custom Search - website design hosting",
+    "totalResults": "35000000",
+    "searchTerms": "website design hosting",
+    "count": 10,
+    "startIndex": 41,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "017401104989814545383:mf4lavmtuva"
+   }
+  ],
+  "request": [
+   {
+    "title": "Google Custom Search - website design hosting",
+    "totalResults": "35000000",
+    "searchTerms": "website design hosting",
+    "count": 10,
+    "startIndex": 31,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "017401104989814545383:mf4lavmtuva"
+   }
+  ],
+  "previousPage": [
+   {
+    "title": "Google Custom Search - website design hosting",
+    "totalResults": "35000000",
+    "searchTerms": "website design hosting",
+    "count": 10,
+    "startIndex": 21,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "017401104989814545383:mf4lavmtuva"
+   }
+  ]
+ },
+ "context": {
+  "title": "College MetaSearch Comparison"
+ },
+ "searchInformation": {
+  "searchTime": 0.16682,
+  "formattedSearchTime": "0.17",
+  "totalResults": "35000000",
+  "formattedTotalResults": "35,000,000"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "JP Web — Design, Hosting, Exchange, VOIP",
+   "htmlTitle": "JP \u003cb\u003eWeb\u003c/b\u003e — \u003cb\u003eDesign\u003c/b\u003e, \u003cb\u003eHosting\u003c/b\u003e, Exchange, VOIP",
+   "link": "http://www.ijpweb.com/",
+   "displayLink": "www.ijpweb.com",
+   "snippet": "We provide online services to small and large businesses nationwide. Check out   JP Web for all of your online needs.",
+   "htmlSnippet": "We provide online services to small and large businesses nationwide. Check out \u003cbr\u003e  JP \u003cb\u003eWeb\u003c/b\u003e for all of your online needs.",
+   "cacheId": "9KW0o1r-pk8J",
+   "formattedUrl": "www.ijpweb.com/",
+   "htmlFormattedUrl": "www.ijp\u003cb\u003eweb\u003c/b\u003e.com/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.ijpweb.com/img/slide-web-design.png",
+      "type": "1",
+      "width": "325",
+      "height": "155"
+     }
+    ],
+    "metatags": [
+     {
+      "wot-verification": "d2f523c5b00ccbb4efb2"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Web Design, Graphic and Logo Design, Hosting and Content ...",
+   "htmlTitle": "\u003cb\u003eWeb Design\u003c/b\u003e, Graphic and Logo Design, \u003cb\u003eHosting\u003c/b\u003e and Content \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://www.awpny.com/",
+   "displayLink": "www.awpny.com",
+   "snippet": "AWP offers website design, graphic design, branding services, web application   development, and web marketing services to Central New York, Syracuse, ...",
+   "htmlSnippet": "AWP offers \u003cb\u003ewebsite design\u003c/b\u003e, graphic design, branding services, web application \u003cbr\u003e  development, and web marketing services to Central New York, Syracuse, \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "glTvJQDm9EMJ",
+   "formattedUrl": "www.awpny.com/",
+   "htmlFormattedUrl": "www.awpny.com/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.awpny.com/img/squares/logos-square.jpg",
+      "type": "1",
+      "width": "112",
+      "height": "112"
+     }
+    ],
+    "metatags": [
+     {
+      "viewport": "width=960px"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Virginia web design, hosting and internet marketing - Virginia Beach ...",
+   "htmlTitle": "Virginia \u003cb\u003eweb design\u003c/b\u003e, \u003cb\u003ehosting\u003c/b\u003e and internet marketing - Virginia Beach \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://www.eyepinch.com/",
+   "displayLink": "www.eyepinch.com",
+   "snippet": "Virginia web design and custom programming solutions. Eyepinch, a Hampton   Roads based web solutions provider, offers a wide array of services and ...",
+   "htmlSnippet": "Virginia \u003cb\u003eweb design\u003c/b\u003e and custom programming solutions. Eyepinch, a Hampton \u003cbr\u003e  Roads based web solutions provider, offers a wide array of services and \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "Lcz9L2qSB1IJ",
+   "formattedUrl": "www.eyepinch.com/",
+   "htmlFormattedUrl": "www.eyepinch.com/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.eyepinch.com/image/eyepinch-logo.png",
+      "type": "1",
+      "width": "221",
+      "height": "94"
+     }
+    ],
+    "metatags": [
+     {
+      "author": "Eyepinch, Inc."
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Website Design, Hosting, Affordable Web Design - Port City Digital",
+   "htmlTitle": "\u003cb\u003eWebsite Design\u003c/b\u003e, \u003cb\u003eHosting\u003c/b\u003e, Affordable Web Design - Port City Digital",
+   "link": "http://www.portcitydigital.com/",
+   "displayLink": "www.portcitydigital.com",
+   "snippet": "Website design and web hosting by Port City Digital. Custom, affordable web   design and hosting.",
+   "htmlSnippet": "\u003cb\u003eWebsite design\u003c/b\u003e and web \u003cb\u003ehosting\u003c/b\u003e by Port City Digital. Custom, affordable \u003cb\u003eweb\u003c/b\u003e \u003cbr\u003e  \u003cb\u003edesign\u003c/b\u003e and \u003cb\u003ehosting\u003c/b\u003e.",
+   "cacheId": "h3IyeS364UsJ",
+   "formattedUrl": "www.portcitydigital.com/",
+   "htmlFormattedUrl": "www.portcitydigital.com/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.portcitydigital.com/images/layout/bottle1.png",
+      "type": "1",
+      "width": "184",
+      "height": "187"
+     }
+    ],
+    "metatags": [
+     {
+      "viewport": "width=1200"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Albuquerque Web Design, Search Engine Optimization, Hosting",
+   "htmlTitle": "Albuquerque \u003cb\u003eWeb Design\u003c/b\u003e, Search Engine Optimization, \u003cb\u003eHosting\u003c/b\u003e",
+   "link": "http://www.yourmis.com/",
+   "displayLink": "www.yourmis.com",
+   "snippet": "MIS, Inc. is a full-service albuquerque based web design and hosting company   specializing in developing custom designed websites and web applications.",
+   "htmlSnippet": "MIS, Inc. is a full-service albuquerque based \u003cb\u003eweb design\u003c/b\u003e and \u003cb\u003ehosting\u003c/b\u003e company \u003cbr\u003e  specializing in developing custom designed websites and web applications.",
+   "cacheId": "mo-zQWSO5aUJ",
+   "formattedUrl": "www.yourmis.com/",
+   "htmlFormattedUrl": "www.yourmis.com/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.yourmis.com/images/home-design.png",
+      "type": "1",
+      "width": "313",
+      "height": "161"
+     }
+    ],
+    "metatags": [
+     {
+      "viewport": "width=device-width; maximum-scale=1.0; user-scalable=yes;"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Miami Web Design",
+   "htmlTitle": "Miami \u003cb\u003eWeb Design\u003c/b\u003e",
+   "link": "http://www.web-design-miami.com/",
+   "displayLink": "www.web-design-miami.com",
+   "snippet": "Miami web design company offering web design, web hosting, e-commerce,   website development and search engine optimization.",
+   "htmlSnippet": "Miami \u003cb\u003eweb design\u003c/b\u003e company offering \u003cb\u003eweb design\u003c/b\u003e, web \u003cb\u003ehosting\u003c/b\u003e, e-commerce, \u003cbr\u003e  website development and search engine optimization.",
+   "cacheId": "qL4iIJQG1R8J",
+   "formattedUrl": "www.web-design-miami.com/",
+   "htmlFormattedUrl": "www.\u003cb\u003eweb\u003c/b\u003e-\u003cb\u003edesign\u003c/b\u003e-miami.com/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.web-design-miami.com/images/web-design-miami.png",
+      "type": "1",
+      "width": "293",
+      "height": "172"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Website design, development, maintenance, hosting, e-commerce ...",
+   "htmlTitle": "\u003cb\u003eWebsite design\u003c/b\u003e, development, maintenance, \u003cb\u003ehosting\u003c/b\u003e, e-commerce \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://www.managementspecialties.com/",
+   "displayLink": "www.managementspecialties.com",
+   "snippet": "Web site design, development, maintenance, hosting, e-commerce and domain   management specialist by Management Specialties.",
+   "htmlSnippet": "\u003cb\u003eWeb\u003c/b\u003e site \u003cb\u003edesign\u003c/b\u003e, development, maintenance, \u003cb\u003ehosting\u003c/b\u003e, e-commerce and domain \u003cbr\u003e  management specialist by Management Specialties.",
+   "cacheId": "1wzGyWlyZFoJ",
+   "formattedUrl": "www.managementspecialties.com/",
+   "htmlFormattedUrl": "www.managementspecialties.com/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.managementspecialties.com/images/logo-emhe-white.jpg",
+      "type": "1",
+      "width": "142",
+      "height": "61"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "PCA Web Design & Hosting",
+   "htmlTitle": "PCA \u003cb\u003eWeb Design\u003c/b\u003e &amp; \u003cb\u003eHosting\u003c/b\u003e",
+   "link": "http://www.pcawebdesign.com/",
+   "displayLink": "www.pcawebdesign.com",
+   "snippet": "PCA Web Design provides a complete package - design, hosting and   maintenance for your Web site.",
+   "htmlSnippet": "PCA \u003cb\u003eWeb Design\u003c/b\u003e provides a complete package - design, \u003cb\u003ehosting\u003c/b\u003e and \u003cbr\u003e  maintenance for your Web site.",
+   "cacheId": "Rd_3ygejprYJ",
+   "formattedUrl": "www.pcawebdesign.com/",
+   "htmlFormattedUrl": "www.pca\u003cb\u003ewebdesign\u003c/b\u003e.com/"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Connecticut Web Hosting - Website Design - Web Hosting",
+   "htmlTitle": "Connecticut Web \u003cb\u003eHosting\u003c/b\u003e - \u003cb\u003eWebsite Design\u003c/b\u003e - Web \u003cb\u003eHosting\u003c/b\u003e",
+   "link": "http://www.hostingct.com/",
+   "displayLink": "www.hostingct.com",
+   "snippet": "Connecticut Web Hosting - Website Design and web hosting for small   businesses, organizations and individuals. Reseller program available.",
+   "htmlSnippet": "Connecticut Web \u003cb\u003eHosting\u003c/b\u003e - \u003cb\u003eWebsite Design\u003c/b\u003e and web \u003cb\u003ehosting\u003c/b\u003e for small \u003cbr\u003e  businesses, organizations and individuals. Reseller program available.",
+   "cacheId": "ktF6hm47z70J",
+   "formattedUrl": "www.hostingct.com/",
+   "htmlFormattedUrl": "www.\u003cb\u003ehosting\u003c/b\u003ect.com/",
+   "pagemap": {
+    "metatags": [
+     {
+      "abstract": "Connecticut Web Hosting - Website Design and web hosting for small businesses, organizations and individuals. Reseller program available.",
+      "copyright": "2003 - 2012 Hosting Connecticut, LLC"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Web Site Design, Web Design, Hosting and Website Design in RI ...",
+   "htmlTitle": "Web Site Design, \u003cb\u003eWeb Design\u003c/b\u003e, \u003cb\u003eHosting\u003c/b\u003e and Website Design in RI \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://www.jflandersconsulting.com/",
+   "displayLink": "www.jflandersconsulting.com",
+   "snippet": "Specializing in Content Management Systems, Ecommerce, Web site design and   website hosting with Affordable webSite design, web design and web hosting.",
+   "htmlSnippet": "Specializing in Content Management Systems, Ecommerce, Web site design and \u003cbr\u003e  website \u003cb\u003ehosting\u003c/b\u003e with Affordable \u003cb\u003ewebSite design\u003c/b\u003e, \u003cb\u003eweb design\u003c/b\u003e and web \u003cb\u003ehosting\u003c/b\u003e.",
+   "cacheId": "ikivCKIzTAgJ",
+   "formattedUrl": "www.jflandersconsulting.com/",
+   "htmlFormattedUrl": "www.jflandersconsulting.com/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.jflandersconsulting.com/weblink/NCCC-Logo1.jpg",
+      "type": "1",
+      "width": "97",
+      "height": "61"
+     }
+    ],
+    "metatags": [
+     {
+      "geography": "57 Bancroft Dr.  Portsmouth, Rhode Island",
+      "language": "English",
+      "author": "John Flanders",
+      "subject": "Website Design, Web Design, Web Hosting, Website Hosting Internet Consulting, Web Site Design",
+      "copyright": "John Flanders Internet Consulting",
+      "designer": "John Flanders",
+      "classification": "Affordable Web site design, website design and hosting in RI.  A family owned Internet company for 12 years in Rhode Island with great customer care.",
+      "publisher": "John Flanders, Webmaster, John Flanders Internet Consulting",
+      "distribution": "Global",
+      "city": "Portsmouth",
+      "country": "USA, United States, United States of America, America",
+      "y_key": "d0a10d48ab63c0d1"
+     }
+    ]
+   }
+  }
+ ]
+}

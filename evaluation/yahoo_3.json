@@ -1,0 +1,319 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "nextPage": [
+   {
+    "title": "Google Custom Search - yahoo",
+    "totalResults": "354000000",
+    "searchTerms": "yahoo",
+    "count": 10,
+    "startIndex": 41,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "017401104989814545383:mf4lavmtuva"
+   }
+  ],
+  "request": [
+   {
+    "title": "Google Custom Search - yahoo",
+    "totalResults": "354000000",
+    "searchTerms": "yahoo",
+    "count": 10,
+    "startIndex": 31,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "017401104989814545383:mf4lavmtuva"
+   }
+  ],
+  "previousPage": [
+   {
+    "title": "Google Custom Search - yahoo",
+    "totalResults": "354000000",
+    "searchTerms": "yahoo",
+    "count": 10,
+    "startIndex": 21,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "017401104989814545383:mf4lavmtuva"
+   }
+  ]
+ },
+ "context": {
+  "title": "College MetaSearch Comparison"
+ },
+ "searchInformation": {
+  "searchTime": 0.209914,
+  "formattedSearchTime": "0.21",
+  "totalResults": "354000000",
+  "formattedTotalResults": "354,000,000"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "Kids Games, Kids Movies, Kids Music, and More - Yahoo! Kids",
+   "htmlTitle": "Kids Games, Kids Movies, Kids Music, and More - \u003cb\u003eYahoo\u003c/b\u003e! Kids",
+   "link": "http://kids.yahoo.com/",
+   "displayLink": "kids.yahoo.com",
+   "snippet": "Yahoo Kids! is the ultimate web guide for kids! Features fun and educational   resources for kids with games, animals, music, jokes, movies, news, astrology, TV  , ...",
+   "htmlSnippet": "\u003cb\u003eYahoo\u003c/b\u003e Kids! is the ultimate web guide for kids! Features fun and educational \u003cbr\u003e  resources for kids with games, animals, music, jokes, movies, news, astrology, TV\u003cbr\u003e  , \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "cFpqFSgOpmgJ",
+   "formattedUrl": "kids.yahoo.com/",
+   "htmlFormattedUrl": "kids.\u003cb\u003eyahoo\u003c/b\u003e.com/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://l.yimg.com/dh/ap/kids/home/carousel/fp_car_kabillion_codelyoko_gozilla.jpg",
+      "type": "1",
+      "width": "112",
+      "height": "64"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Yahoo! OpenID (beta)",
+   "htmlTitle": "\u003cb\u003eYahoo\u003c/b\u003e! OpenID (beta)",
+   "link": "http://openid.yahoo.com/",
+   "displayLink": "openid.yahoo.com",
+   "snippet": "Are you tired of creating a new account on every website you use? Do you avoid   new websites because they come with yet another username and password?",
+   "htmlSnippet": "Are you tired of creating a new account on every website you use? Do you avoid \u003cbr\u003e  new websites because they come with yet another username and password?",
+   "cacheId": "DfRUvOqyMMoJ",
+   "formattedUrl": "openid.yahoo.com/",
+   "htmlFormattedUrl": "openid.\u003cb\u003eyahoo\u003c/b\u003e.com/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "https://s.yimg.com/lq/i/reg/openid/splash_ill.gif",
+      "type": "1",
+      "width": "331",
+      "height": "152"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Yahoo! Messenger for the Web - IM with friends without downloading",
+   "htmlTitle": "\u003cb\u003eYahoo\u003c/b\u003e! Messenger for the Web - IM with friends without downloading",
+   "link": "http://messenger.yahoo.com/web/",
+   "displayLink": "messenger.yahoo.com",
+   "snippet": "Instant message with your Yahoo! or Windows Live Messenger friends from any   web browser - no download required. Web IM for IE, Firefox and Safari.",
+   "htmlSnippet": "Instant message with your \u003cb\u003eYahoo\u003c/b\u003e! or Windows Live Messenger friends from any \u003cbr\u003e  web browser - no download required. Web IM for IE, Firefox and Safari.",
+   "cacheId": "mvFlGb3M618J",
+   "formattedUrl": "messenger.yahoo.com/web/",
+   "htmlFormattedUrl": "messenger.\u003cb\u003eyahoo\u003c/b\u003e.com/web/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://l.yimg.com/a/i/us/msg/site/9/scr/pico_eol_20111102.png",
+      "type": "1",
+      "width": "277",
+      "height": "182"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Contact Yahoo! Advertising!",
+   "htmlTitle": "Contact \u003cb\u003eYahoo\u003c/b\u003e! Advertising!",
+   "link": "http://searchmarketing.yahoo.com/",
+   "displayLink": "searchmarketing.yahoo.com",
+   "snippet": "They say location is everything. We couldn't agree more. Advertising in Yahoo!   search results is an effective way to help your business grow. It's simple.",
+   "htmlSnippet": "They say location is everything. We couldn&#39;t agree more. Advertising in \u003cb\u003eYahoo\u003c/b\u003e! \u003cbr\u003e  search results is an effective way to help your business grow. It&#39;s simple.",
+   "cacheId": "IovQ-h8QN98J",
+   "formattedUrl": "searchmarketing.yahoo.com/",
+   "htmlFormattedUrl": "searchmarketing.\u003cb\u003eyahoo\u003c/b\u003e.com/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://marketinginfo.yahoo.com/contactForm/contact2011/0.jpg.img.ashx?Data=5a40320f818ef1d5e521cde595d5671c351f30d90497e07ba8da6e29e7719c554f35f5d86b5da116e628e94effa645e67a8d677d1d748e1eeb8c015e3696b7e5cff2cdd23c107045",
+      "type": "1",
+      "width": "416",
+      "height": "121"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Yahoo! Homes - Home for Sale and Rent, Makeovers, Design and ...",
+   "htmlTitle": "\u003cb\u003eYahoo\u003c/b\u003e! Homes - Home for Sale and Rent, Makeovers, Design and \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://realestate.yahoo.com/",
+   "displayLink": "realestate.yahoo.com",
+   "snippet": "Search homes for sale, find home values, research housing markets, get a home   loan , Design and Decor, makeovers, do it yourself, diy, remodeling, ...",
+   "htmlSnippet": "Search homes for sale, find home values, research housing markets, get a home \u003cbr\u003e  loan , Design and Decor, makeovers, do it yourself, diy, remodeling, \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "pz8hT0m6bF8J",
+   "formattedUrl": "realestate.yahoo.com/",
+   "htmlFormattedUrl": "realestate.\u003cb\u003eyahoo\u003c/b\u003e.com/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://l.yimg.com/bt/api/res/1.2/_4DCy95muHwMUeopXu9_xg--/YXBwaWQ9eW5ld3M7Zmk9ZmlsbDtoPTE1MDtweG9mZj01MDtweW9mZj0wO3c9MTUw/http%3A//l.yimg.com/os/mit/media/p/common/images/3d_ybang_150150.png"
+     }
+    ],
+    "metatags": [
+     {
+      "og:type": "website",
+      "og:title": "Yahoo! Homes",
+      "og:description": "Search homes for sale, find home values, research housing markets, get a home loan , Design and Decor, makeovers, do it yourself, diy, remodeling, maintenance, contracters, moving, storage",
+      "og:image": "http://l.yimg.com/bt/api/res/1.2/_4DCy95muHwMUeopXu9_xg--/YXBwaWQ9eW5ld3M7Zmk9ZmlsbDtoPTE1MDtweG9mZj01MDtweW9mZj0wO3c9MTUw/http%3A//l.yimg.com/os/mit/media/p/common/images/3d_ybang_150150.png",
+      "fb:app_id": "194699337231859",
+      "og:site_name": "Yahoo! Homes",
+      "og:url": "http://realestate.yahoo.com/"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Yahoo! Domains: Search Domain Name | Domain Registration ...",
+   "htmlTitle": "\u003cb\u003eYahoo\u003c/b\u003e! Domains: Search Domain Name | Domain Registration \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://smallbusiness.yahoo.com/domains/",
+   "displayLink": "smallbusiness.yahoo.com",
+   "snippet": "Yahoo! Domains includes search for new domain name, domain name   registration, domain registrar transfer, domain locking, private domain registration  , DNS ...",
+   "htmlSnippet": "\u003cb\u003eYahoo\u003c/b\u003e! Domains includes search for new domain name, domain name \u003cbr\u003e  registration, domain registrar transfer, domain locking, private domain registration\u003cbr\u003e  , DNS \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "8arijt5BzRQJ",
+   "formattedUrl": "smallbusiness.yahoo.com/domains/",
+   "htmlFormattedUrl": "smallbusiness.\u003cb\u003eyahoo\u003c/b\u003e.com/domains/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://l.yimg.com/a/i/us/smbiz/gr/starter_web_expanded_1.png",
+      "type": "1",
+      "width": "267",
+      "height": "189"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Yahoo! TV",
+   "htmlTitle": "\u003cb\u003eYahoo\u003c/b\u003e! TV",
+   "link": "http://tv.yahoo.com/",
+   "displayLink": "tv.yahoo.com",
+   "snippet": "Yahoo! TV is your guide to everything about TV online, from TV show listings and   episode guides, to the latest TV show photos, clips, news, recaps, cast ...",
+   "htmlSnippet": "\u003cb\u003eYahoo\u003c/b\u003e! TV is your guide to everything about TV online, from TV show listings and \u003cbr\u003e  episode guides, to the latest TV show photos, clips, news, recaps, cast \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "nwjXDwdqhR4J",
+   "formattedUrl": "tv.yahoo.com/",
+   "htmlFormattedUrl": "tv.\u003cb\u003eyahoo\u003c/b\u003e.com/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://l.yimg.com/bt/api/res/1.2/_4DCy95muHwMUeopXu9_xg--/YXBwaWQ9eW5ld3M7Zmk9ZmlsbDtoPTE1MDtweG9mZj01MDtweW9mZj0wO3c9MTUw/http%3A//l.yimg.com/os/mit/media/p/common/images/3d_ybang_150150.png",
+      "type": "1",
+      "width": "120",
+      "height": "120"
+     }
+    ],
+    "metatags": [
+     {
+      "og:type": "website",
+      "og:title": "Yahoo! TV",
+      "og:description": "Yahoo! TV is your guide to everything about TV online, from TV show listings and episode guides, to the latest TV show photos, clips, news, recaps, cast & credits, celebrity photos and much more!",
+      "og:image": "http://l.yimg.com/bt/api/res/1.2/_4DCy95muHwMUeopXu9_xg--/YXBwaWQ9eW5ld3M7Zmk9ZmlsbDtoPTE1MDtweG9mZj01MDtweW9mZj0wO3c9MTUw/http%3A//l.yimg.com/os/mit/media/p/common/images/3d_ybang_150150.png",
+      "fb:app_id": "194699337231859",
+      "og:site_name": "Yahoo! TV",
+      "og:url": "http://tv.yahoo.com/"
+     }
+    ],
+    "hcard": [
+     {
+      "fn": "Yahoo! TV",
+      "url": "http://twitter.com/YahooTV",
+      "url_text": "YahooTV"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Yahoo! Mail",
+   "htmlTitle": "\u003cb\u003eYahoo\u003c/b\u003e! Mail",
+   "link": "http://m.yahoo.com/mail",
+   "displayLink": "m.yahoo.com",
+   "snippet": "To sign in to Yahoo!, set your browser to accept cookies. Or sign in using: Having   trouble logging in? Try alternate login. Set My Location · Privacy | Legal | Help ...",
+   "htmlSnippet": "To sign in to \u003cb\u003eYahoo\u003c/b\u003e!, set your browser to accept cookies. Or sign in using: Having \u003cbr\u003e  trouble logging in? Try alternate login. Set My Location &middot; Privacy | Legal | Help \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "xwiv57tLL8QJ",
+   "formattedUrl": "m.yahoo.com/mail",
+   "htmlFormattedUrl": "m.\u003cb\u003eyahoo\u003c/b\u003e.com/mail"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Yahoo! Web Hosting: Unlimited Web Hosting | Web Hosting ...",
+   "htmlTitle": "\u003cb\u003eYahoo\u003c/b\u003e! Web Hosting: Unlimited Web Hosting | Web Hosting \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://smallbusiness.yahoo.com/webhosting/",
+   "displayLink": "smallbusiness.yahoo.com",
+   "snippet": "Yahoo! Web Hosting offers you a domain name, unlimited web hosting space,   ecommerce web hosting, design tools to create a web site easily, secure web site ...",
+   "htmlSnippet": "\u003cb\u003eYahoo\u003c/b\u003e! Web Hosting offers you a domain name, unlimited web hosting space, \u003cbr\u003e  ecommerce web hosting, design tools to create a web site easily, secure web site \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "uypynolSi10J",
+   "formattedUrl": "smallbusiness.yahoo.com/webhosting/",
+   "htmlFormattedUrl": "smallbusiness.\u003cb\u003eyahoo\u003c/b\u003e.com/webhosting/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://l.yimg.com/a/i/us/smbiz/ps/v3/shopping-cart_1.gif",
+      "type": "1",
+      "width": "102",
+      "height": "62"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "YHOO: Summary for Yahoo! Inc.- Yahoo! Finance",
+   "htmlTitle": "YHOO: Summary for \u003cb\u003eYahoo\u003c/b\u003e! Inc.- \u003cb\u003eYahoo\u003c/b\u003e! Finance",
+   "link": "http://finance.yahoo.com/q?s=YHOO",
+   "displayLink": "finance.yahoo.com",
+   "snippet": "View the basic YHOO stock chart on Yahoo! Finance. Change the date range,   chart type and compare Yahoo! Inc. against other companies.",
+   "htmlSnippet": "View the basic YHOO stock chart on \u003cb\u003eYahoo\u003c/b\u003e! Finance. Change the date range, \u003cbr\u003e  chart type and compare \u003cb\u003eYahoo\u003c/b\u003e! Inc. against other companies.",
+   "cacheId": "s8u0FljsqVoJ",
+   "formattedUrl": "finance.yahoo.com/q?s=YHOO",
+   "htmlFormattedUrl": "finance.\u003cb\u003eyahoo\u003c/b\u003e.com/q?s=YHOO",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://chart.finance.yahoo.com/t?s=YHOO&lang=en-US&region=US&width=300&height=180",
+      "type": "1",
+      "width": "240",
+      "height": "156"
+     }
+    ],
+    "company": [
+     {
+      "app_id": "118155468215844",
+      "admins": "503762770,100001149693905",
+      "type": "company",
+      "site_name": "Yahoo! Finance",
+      "title": "Yahoo! Inc.",
+      "image": "http://l.yimg.com/a/p/fi/31/09/00.jpg",
+      "url": "http://finance.yahoo.com/q?s=YHOO",
+      "description": "View the basic YHOO stock chart on Yahoo! Finance. Change the date range, chart type and compare Yahoo! Inc. against other companies."
+     }
+    ],
+    "metatags": [
+     {
+      "fb:app_id": "118155468215844",
+      "fb:admins": "503762770,100001149693905",
+      "og:type": "company",
+      "og:site_name": "Yahoo! Finance",
+      "og:title": "Yahoo! Inc.",
+      "og:image": "http://l.yimg.com/a/p/fi/31/09/00.jpg",
+      "og:url": "http://finance.yahoo.com/q?s=YHOO",
+      "og:description": "View the basic YHOO stock chart on Yahoo! Finance. Change the date range, chart type and compare Yahoo! Inc. against other companies."
+     }
+    ]
+   }
+  }
+ ]
+}

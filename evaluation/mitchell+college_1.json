@@ -1,0 +1,307 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "nextPage": [
+   {
+    "title": "Google Custom Search - mitchell college",
+    "totalResults": "20300000",
+    "searchTerms": "mitchell college",
+    "count": 10,
+    "startIndex": 21,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "017401104989814545383:mf4lavmtuva"
+   }
+  ],
+  "request": [
+   {
+    "title": "Google Custom Search - mitchell college",
+    "totalResults": "20300000",
+    "searchTerms": "mitchell college",
+    "count": 10,
+    "startIndex": 11,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "017401104989814545383:mf4lavmtuva"
+   }
+  ],
+  "previousPage": [
+   {
+    "title": "Google Custom Search - mitchell college",
+    "totalResults": "20300000",
+    "searchTerms": "mitchell college",
+    "count": 10,
+    "startIndex": 1,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "017401104989814545383:mf4lavmtuva"
+   }
+  ]
+ },
+ "context": {
+  "title": "College MetaSearch Comparison"
+ },
+ "searchInformation": {
+  "searchTime": 0.202261,
+  "formattedSearchTime": "0.20",
+  "totalResults": "20300000",
+  "formattedTotalResults": "20,300,000"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "Mitchell College | Best College | US News",
+   "htmlTitle": "\u003cb\u003eMitchell College\u003c/b\u003e | Best College | US News",
+   "link": "http://colleges.usnews.rankingsandreviews.com/best-colleges/mitchell-college-1393",
+   "displayLink": "colleges.usnews.rankingsandreviews.com",
+   "snippet": "Is Mitchell College the best college for you? Find out at US News. See if Mitchell   College is ranked and get info on admission, tuition, student life, and more.",
+   "htmlSnippet": "Is \u003cb\u003eMitchell College\u003c/b\u003e the best college for you? Find out at US News. See if \u003cb\u003eMitchell\u003c/b\u003e \u003cbr\u003e  \u003cb\u003eCollege\u003c/b\u003e is ranked and get info on admission, tuition, student life, and more.",
+   "cacheId": "f5bkIl2Pl3cJ",
+   "formattedUrl": "colleges.usnews.rankingsandreviews.com/...colleges/mitchell-college-1393",
+   "htmlFormattedUrl": "\u003cb\u003ecolleges\u003c/b\u003e.usnews.rankingsandreviews.com/...\u003cb\u003ecolleges\u003c/b\u003e/\u003cb\u003emitchell\u003c/b\u003e-\u003cb\u003ecollege\u003c/b\u003e-1393",
+   "pagemap": {
+    "metatags": [
+     {
+      "site": "Best Colleges",
+      "zone": "Directory/Regional Colleges",
+      "usn-content-type": "profile",
+      "fb:page_id": "5834919267",
+      "usn_name": "Mitchell College"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Warren E. Burger Law Library at William Mitchell College of Law",
+   "htmlTitle": "Warren E. Burger Law Library at William \u003cb\u003eMitchell College\u003c/b\u003e of Law",
+   "link": "http://web.wmitchell.edu/library/",
+   "displayLink": "web.wmitchell.edu",
+   "snippet": "At William Mitchell College of Law. Reserves, archive of exams, contact   information and hours of operation, online catalog.",
+   "htmlSnippet": "At William \u003cb\u003eMitchell College\u003c/b\u003e of Law. Reserves, archive of exams, contact \u003cbr\u003e  information and hours of operation, online catalog.",
+   "cacheId": "81Weo1jvoBkJ",
+   "formattedUrl": "web.wmitchell.edu/library/",
+   "htmlFormattedUrl": "web.w\u003cb\u003emitchell\u003c/b\u003e.edu/library/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://web.wmitchell.edu/library/wp-content/uploads/2010/08/exterior.gif",
+      "type": "1",
+      "width": "188",
+      "height": "183"
+     }
+    ],
+    "metatags": [
+     {
+      "language": "en-US"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Mitchell College - Education - New London, CT | Facebook",
+   "htmlTitle": "\u003cb\u003eMitchell College\u003c/b\u003e - Education - New London, CT | Facebook",
+   "link": "http://www.facebook.com/MitchellCollege",
+   "displayLink": "www.facebook.com",
+   "snippet": "Facebook is a social utility that connects people with friends and others who work  , study and live around them. People use Facebook to keep up with friends, ...",
+   "htmlSnippet": "Facebook is a social utility that connects people with friends and others who work\u003cbr\u003e  , study and live around them. People use Facebook to keep up with friends, \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "-jcMRsqcxZ4J",
+   "formattedUrl": "www.facebook.com/MitchellCollege",
+   "htmlFormattedUrl": "www.facebook.com/\u003cb\u003eMitchellCollege\u003c/b\u003e",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://profile.ak.fbcdn.net/hprofile-ak-snc4/158036_32864013241_1260159030_n.jpg",
+      "type": "1",
+      "width": "144",
+      "height": "112"
+     }
+    ],
+    "organization": [
+     {
+      "photo": "http://profile.ak.fbcdn.net/hprofile-ak-snc4/158036_32864013241_1260159030_n.jpg",
+      "name": "Mitchell College"
+     }
+    ],
+    "metatags": [
+     {
+      "title": "Mitchell College - Education - New London, CT | Facebook"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "William Mitchell College of Law | Best Law School | US News",
+   "htmlTitle": "William \u003cb\u003eMitchell College\u003c/b\u003e of Law | Best Law School | US News",
+   "link": "http://grad-schools.usnews.rankingsandreviews.com/best-graduate-schools/top-law-schools/william-mitchell-college-of-law-03086",
+   "displayLink": "grad-schools.usnews.rankingsandreviews.com",
+   "snippet": "The law school at William Mitchell College of Law has an application deadline of   May 1. The full-time program application fee at the law school at William ...",
+   "htmlSnippet": "The law school at William \u003cb\u003eMitchell College\u003c/b\u003e of Law has an application deadline of \u003cbr\u003e  May 1. The full-time program application fee at the law school at William \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "ggh28M-YrIQJ",
+   "formattedUrl": "grad-schools.usnews.rankingsandreviews.com/.../william-mitchell-college-of- law-03086",
+   "htmlFormattedUrl": "grad-schools.usnews.rankingsandreviews.com/.../william-\u003cb\u003emitchell\u003c/b\u003e-\u003cb\u003ecollege\u003c/b\u003e-of- law-03086",
+   "pagemap": {
+    "metatags": [
+     {
+      "site": "Best Grad",
+      "zone": "Directory/top-law-schools",
+      "usn-content-type": "profile",
+      "fb:page_id": "5834919267"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Graduate Programs : Mitchell College of Business",
+   "htmlTitle": "Graduate Programs : \u003cb\u003eMitchell College\u003c/b\u003e of Business",
+   "link": "http://www.southalabama.edu/mba/",
+   "displayLink": "www.southalabama.edu",
+   "snippet": "Courses taken outside the Mitchell College of Business that are not an approved   part of the degree program will not be included in the computation of the ...",
+   "htmlSnippet": "Courses taken outside the \u003cb\u003eMitchell College\u003c/b\u003e of Business that are not an approved \u003cbr\u003e  part of the degree program will not be included in the computation of the \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "-J9h0atbvZQJ",
+   "formattedUrl": "www.southalabama.edu/mba/",
+   "htmlFormattedUrl": "www.southalabama.edu/mba/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.southalabama.edu/mcob/images/gradprogrampic.jpg",
+      "type": "1",
+      "width": "184",
+      "height": "274"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Mitchell College - College Prowler",
+   "htmlTitle": "\u003cb\u003eMitchell College\u003c/b\u003e - College Prowler",
+   "link": "http://collegeprowler.com/mitchell-college/",
+   "displayLink": "collegeprowler.com",
+   "snippet": "The complete guide to Mitchell. View student reviews and rankings, ask   questions, and discuss campus life on our Mitchell student network.",
+   "htmlSnippet": "The complete guide to \u003cb\u003eMitchell\u003c/b\u003e. View student reviews and rankings, ask \u003cbr\u003e  questions, and discuss campus life on our \u003cb\u003eMitchell\u003c/b\u003e student network.",
+   "formattedUrl": "collegeprowler.com/mitchell-college/",
+   "htmlFormattedUrl": "\u003cb\u003ecollege\u003c/b\u003eprowler.com/\u003cb\u003emitchell\u003c/b\u003e-\u003cb\u003ecollege\u003c/b\u003e/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://collegeprowler.com/images/logoForFacebook.png"
+     }
+    ],
+    "Review": [
+     {
+      "itemreviewed": "Mitchell College - College Prowler",
+      "reviewer": "College Prowler",
+      "rating": "0.00"
+     }
+    ],
+    "metatags": [
+     {
+      "fb:app_id": "101561319297",
+      "og:site_name": "College Prowler",
+      "og:image": "http://collegeprowler.com/images/logoForFacebook.png",
+      "viewport": "width = device-width",
+      "og:title": "Mitchell College - Overall Experience",
+      "og:street-address": "437 Pequot Avenue",
+      "og:locality": "New London",
+      "og:region": "CT",
+      "og:postal-code": "06320",
+      "og:type": "university",
+      "og:url": "http://collegeprowler.com/mitchell-college/school-home/snapshot/"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Lacrosse",
+   "htmlTitle": "Lacrosse",
+   "link": "http://mitchellathletics.com/sports/mlax/index",
+   "displayLink": "mitchellathletics.com",
+   "snippet": "April 24, 2012 NEW LONDON, Conn. – The Mitchell College men's lacrosse team   closed out the regular season with a 9-2 loss to Nichols College on Tuesday ...",
+   "htmlSnippet": "April 24, 2012 NEW LONDON, Conn. – The \u003cb\u003eMitchell College\u003c/b\u003e men&#39;s lacrosse team \u003cbr\u003e  closed out the regular season with a 9-2 loss to Nichols College on Tuesday \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "BXnQ6-U8nCoJ",
+   "formattedUrl": "mitchellathletics.com/sports/mlax/index",
+   "htmlFormattedUrl": "\u003cb\u003emitchell\u003c/b\u003eathletics.com/sports/mlax/index",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://mitchellathletics.com/images/mlax/2012_Action/act_ml_seniors12-01.jpg?max_width=117&max_height=78&crop=true",
+      "type": "1",
+      "width": "97",
+      "height": "64"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "William Mitchell College of Law",
+   "htmlTitle": "William \u003cb\u003eMitchell College\u003c/b\u003e of Law",
+   "link": "http://www.top-law-schools.com/william-mitchell-law.html",
+   "displayLink": "www.top-law-schools.com",
+   "snippet": "The admissions process at William Mitchell College of Law is about what you'd   expect from similarly ranked law school. Last year, they accepted 56% of ...",
+   "htmlSnippet": "The admissions process at William \u003cb\u003eMitchell College\u003c/b\u003e of Law is about what you&#39;d \u003cbr\u003e  expect from similarly ranked law school. Last year, they accepted 56% of \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "xXotTd-qTu0J",
+   "formattedUrl": "www.top-law-schools.com/william-mitchell-law.html",
+   "htmlFormattedUrl": "www.top-law-schools.com/william-\u003cb\u003emitchell\u003c/b\u003e-law.html"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Students with Learning Disabilities - Mitchell College",
+   "htmlTitle": "Students with Learning Disabilities - \u003cb\u003eMitchell College\u003c/b\u003e",
+   "link": "http://community.mitchell.edu/BLC",
+   "displayLink": "community.mitchell.edu",
+   "snippet": "The Bentsen Learning Center at Mitchell College, a personalized academic   support program, assists students with disabilities to become independent,   lifelong ...",
+   "htmlSnippet": "The Bentsen Learning Center at \u003cb\u003eMitchell College\u003c/b\u003e, a personalized academic \u003cbr\u003e  support program, assists students with disabilities to become independent, \u003cbr\u003e  lifelong \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "HbrLx5uSAHAJ",
+   "formattedUrl": "community.mitchell.edu/BLC",
+   "htmlFormattedUrl": "community.\u003cb\u003emitchell\u003c/b\u003e.edu/BLC",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://community.mitchell.edu/view.image?Id=1220",
+      "type": "1",
+      "width": "144",
+      "height": "51"
+     }
+    ],
+    "metatags": [
+     {
+      "vs_targetschema": "http://schemas.microsoft.com/intellisense/ie5",
+      "last-modified": "7/18/2012 5:47:18 PM"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Human Resources - William Mitchell College of Law",
+   "htmlTitle": "Human Resources - William \u003cb\u003eMitchell College\u003c/b\u003e of Law",
+   "link": "http://www.wmitchell.edu/services/hr/",
+   "displayLink": "www.wmitchell.edu",
+   "snippet": "Our faculty and staff are at the heart of William Mitchell's tradition of making legal   education of the highest quality available to students from all walks of life.",
+   "htmlSnippet": "Our faculty and staff are at the heart of William \u003cb\u003eMitchell&#39;s\u003c/b\u003e tradition of making legal \u003cbr\u003e  education of the highest quality available to students from all walks of life.",
+   "cacheId": "2vBwogxvpLMJ",
+   "formattedUrl": "www.wmitchell.edu/services/hr/",
+   "htmlFormattedUrl": "www.w\u003cb\u003emitchell\u003c/b\u003e.edu/services/hr/",
+   "pagemap": {
+    "metatags": [
+     {
+      "language": "en-US"
+     }
+    ]
+   }
+  }
+ ]
+}

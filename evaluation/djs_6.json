@@ -1,0 +1,343 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "nextPage": [
+   {
+    "title": "Google Custom Search - djs",
+    "totalResults": "148000000",
+    "searchTerms": "djs",
+    "count": 10,
+    "startIndex": 71,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "017401104989814545383:mf4lavmtuva"
+   }
+  ],
+  "request": [
+   {
+    "title": "Google Custom Search - djs",
+    "totalResults": "148000000",
+    "searchTerms": "djs",
+    "count": 10,
+    "startIndex": 61,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "017401104989814545383:mf4lavmtuva"
+   }
+  ],
+  "previousPage": [
+   {
+    "title": "Google Custom Search - djs",
+    "totalResults": "148000000",
+    "searchTerms": "djs",
+    "count": 10,
+    "startIndex": 51,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "017401104989814545383:mf4lavmtuva"
+   }
+  ]
+ },
+ "context": {
+  "title": "College MetaSearch Comparison"
+ },
+ "searchInformation": {
+  "searchTime": 0.310992,
+  "formattedSearchTime": "0.31",
+  "totalResults": "148000000",
+  "formattedTotalResults": "148,000,000"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "Open Directory - Arts: Music: DJs",
+   "htmlTitle": "Open Directory - Arts: Music: \u003cb\u003eDJs\u003c/b\u003e",
+   "link": "http://www.dmoz.org/Arts/Music/DJs/",
+   "displayLink": "www.dmoz.org",
+   "snippet": "Aug 6, 2011 ... Expressway Music NYC - Providing DJ, live music and Karaoke in New York City.   Offers song search, music news and list of previous client and ...",
+   "htmlSnippet": "Aug 6, 2011 \u003cb\u003e...\u003c/b\u003e Expressway Music NYC - Providing \u003cb\u003eDJ\u003c/b\u003e, live music and Karaoke in New York City. \u003cbr\u003e  Offers song search, music news and list of previous client and \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "tiqTExZqMrEJ",
+   "formattedUrl": "www.dmoz.org/Arts/Music/DJs/",
+   "htmlFormattedUrl": "www.dmoz.org/Arts/Music/\u003cb\u003eDJs\u003c/b\u003e/"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Final DJs",
+   "htmlTitle": "Final \u003cb\u003eDJs\u003c/b\u003e",
+   "link": "http://soundcloud.com/finaldjs",
+   "displayLink": "soundcloud.com",
+   "snippet": "May 14, 2012 ... Remix or Booking Requests you can write us here on Soundcloud or to the   Emailadress.",
+   "htmlSnippet": "May 14, 2012 \u003cb\u003e...\u003c/b\u003e Remix or Booking Requests you can write us here on Soundcloud or to the \u003cbr\u003e  Emailadress.",
+   "cacheId": "aL5HcK4ElRcJ",
+   "formattedUrl": "soundcloud.com/finaldjs",
+   "htmlFormattedUrl": "soundcloud.com/final\u003cb\u003edjs\u003c/b\u003e",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://i1.sndcdn.com/avatars-000012702785-zrw7nj-t300x300.jpg?8b4aa3f",
+      "type": "1",
+      "width": "225",
+      "height": "225"
+     }
+    ],
+    "metatags": [
+     {
+      "viewport": "width=device-width",
+      "x-ua-compatible": "IE=edge,chrome=1",
+      "soundcloud:sound_count": "28",
+      "soundcloud:follower_count": "1913",
+      "og:type": "soundcloud:user",
+      "og:url": "http://soundcloud.com/finaldjs",
+      "og:title": "FINAL DJs",
+      "og:image": "http://i1.sndcdn.com/avatars-000012702785-zrw7nj-t300x300.jpg?8b4aa3f",
+      "og:description": "Remix or Booking Requests you can write us here on Soundcloud or to the Emailadress FinalDJs@gmx.de (mailto:FinalDJs@gmx.de)  Check this for Gigs/N...",
+      "fb:app_id": "19507961798",
+      "twitter:site": "soundcloud",
+      "og:site_name": "SoundCloud",
+      "twitter:card": "summary"
+     }
+    ],
+    "hcard": [
+     {
+      "fn": "Basti & Thomas",
+      "nickname": "FINAL DJs",
+      "photo": "http://i1.sndcdn.com/avatars-000012702785-zrw7nj-crop.jpg?8b4aa3f"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "PEOPLE's DJs Collective | Facebook",
+   "htmlTitle": "PEOPLE&#39;s \u003cb\u003eDJs\u003c/b\u003e Collective | Facebook",
+   "link": "http://www.facebook.com/peoplesdjs",
+   "displayLink": "www.facebook.com",
+   "snippet": "Woah! I forgot to tell party people, PEOPLE's DJs Collective + beer snobs that   Amani Conley AKA slymm are bringing you the smooth soul + nasty funk from the ...",
+   "htmlSnippet": "Woah! I forgot to tell party people, PEOPLE&#39;s \u003cb\u003eDJs\u003c/b\u003e Collective + beer snobs that \u003cbr\u003e  Amani Conley AKA slymm are bringing you the smooth soul + nasty funk from the \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "UWACIHJnX20J",
+   "formattedUrl": "www.facebook.com/peoplesdjs",
+   "htmlFormattedUrl": "www.facebook.com/peoples\u003cb\u003edjs\u003c/b\u003e",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://profile.ak.fbcdn.net/hprofile-ak-ash2/372884_346182501084_1800167217_n.jpg",
+      "type": "1",
+      "width": "144",
+      "height": "208"
+     }
+    ],
+    "organization": [
+     {
+      "photo": "http://profile.ak.fbcdn.net/hprofile-ak-ash2/372884_346182501084_1800167217_n.jpg",
+      "name": "PEOPLE's DJs Collective"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "New Jersey's Best DJs",
+   "htmlTitle": "New Jersey&#39;s Best \u003cb\u003eDJs\u003c/b\u003e",
+   "link": "http://njsbestdjs.com/",
+   "displayLink": "njsbestdjs.com",
+   "snippet": "New Jerseys Best DJs. Entertaining, Professional and Fun. Simplicity is the key to   our success. Our Services · View Our Work · Meet Our Staff · Testimonials ...",
+   "htmlSnippet": "New Jerseys Best \u003cb\u003eDJs\u003c/b\u003e. Entertaining, Professional and Fun. Simplicity is the key to \u003cbr\u003e  our success. Our Services &middot; View Our Work &middot; Meet Our Staff &middot; Testimonials \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "5lInpeMPmoEJ",
+   "formattedUrl": "njsbestdjs.com/",
+   "htmlFormattedUrl": "njsbest\u003cb\u003edjs\u003c/b\u003e.com/"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Baltimore Maryland Wedding and Party DJ, DJs in Maryland ...",
+   "htmlTitle": "Baltimore Maryland Wedding and Party \u003cb\u003eDJ\u003c/b\u003e, \u003cb\u003eDJs\u003c/b\u003e in Maryland \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://musicmastersonline.com/",
+   "displayLink": "musicmastersonline.com",
+   "snippet": "Wedding DJs in Maryland, disk jockey, md disk jockey, Maryland wedding dj, MD   wedding dj, Baltimore Maryland DJ, Maryland Disc jockey, MD DJ, Maryland's ...",
+   "htmlSnippet": "Wedding \u003cb\u003eDJs\u003c/b\u003e in Maryland, disk jockey, md disk jockey, Maryland wedding \u003cb\u003edj\u003c/b\u003e, MD \u003cbr\u003e  wedding \u003cb\u003edj\u003c/b\u003e, Baltimore Maryland \u003cb\u003eDJ\u003c/b\u003e, Maryland Disc jockey, MD \u003cb\u003eDJ\u003c/b\u003e, Maryland&#39;s \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "0OYsczmAXFoJ",
+   "formattedUrl": "musicmastersonline.com/",
+   "htmlFormattedUrl": "musicmastersonline.com/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://musicmastersonline.com/img/BGWeddingEvents.jpg",
+      "type": "1",
+      "width": "225",
+      "height": "225"
+     }
+    ],
+    "metatags": [
+     {
+      "progid": "FrontPage.Editor.Document",
+      "a": "maryland",
+      "classification": "entertainment",
+      "rating": "safe for kids",
+      "search-engines": "all",
+      "distribution": "global",
+      "abstract": "baltimore maryland dj for maryland wedding receptions, baltimore maryland parties, also washington dc djs, dj for all of life's special occasions!"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Undeniable DJs",
+   "htmlTitle": "Undeniable \u003cb\u003eDJs\u003c/b\u003e",
+   "link": "http://www.undeniabledjs.com/",
+   "displayLink": "www.undeniabledjs.com",
+   "snippet": "Undeniable DJs is a entertainment company that specializes in weddings and   high end events. Our DJs are among some of the best in the bisness. We offer ...",
+   "htmlSnippet": "Undeniable \u003cb\u003eDJs\u003c/b\u003e is a entertainment company that specializes in weddings and \u003cbr\u003e  high end events. Our \u003cb\u003eDJs\u003c/b\u003e are among some of the best in the bisness. We offer \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "_fpbI_UEkdUJ",
+   "formattedUrl": "www.undeniabledjs.com/",
+   "htmlFormattedUrl": "www.undeniable\u003cb\u003edjs\u003c/b\u003e.com/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://0.static.wix.com/dicons/79ea94_6660843ecf773f84ebc5292eae9d9ccb.wix_doc_ico",
+      "type": "1",
+      "width": "262",
+      "height": "176"
+     }
+    ],
+    "videoobject": [
+     {
+      "image": "http://0.static.wix.com/media/iconLoadURL",
+      "name": "ALIST Party",
+      "url": "http://www.youtube.com/v/_rNtAJh3Ls4"
+     }
+    ],
+    "metatags": [
+     {
+      "fragment": "!",
+      "og:type": "article",
+      "og:title": "Undeniable DJs",
+      "og:url": "http://www.undeniabledjs.com",
+      "og:description": "Undeniable DJs is a entertainment company that specializes in weddings and high end events. Our DJs are among some of the best in  the bisness. We offer special effects and lightning, bands, party favors, rentals.",
+      "og:site_name": "Undeniable DJs",
+      "og:image": "http://0.static.wix.com/dicons/79ea94_6660843ecf773f84ebc5292eae9d9ccb.wix_doc_ico",
+      "title": "Undeniable DJs"
+     }
+    ],
+    "imageobject": [
+     {
+      "thumbnailurl": "http://0.static.wix.com/media/b095cfcc1bce8110a4dd1ea65bd0a9dc71434c3b.wix_mp_128",
+      "contenturl": "http://0.static.wix.com/media/b095cfcc1bce8110a4dd1ea65bd0a9dc71434c3b.wix_mp_1024"
+     },
+     {
+      "thumbnailurl": "http://0.static.wix.com/media/069796f7c3de0ffff41f3f78695e9d7f.wix_mp_128",
+      "contenturl": "http://0.static.wix.com/media/069796f7c3de0ffff41f3f78695e9d7f.wix_mp_1024"
+     },
+     {
+      "thumbnailurl": "http://0.static.wix.com/media/7765d89e6a353fffce0a558fcdab52bd.wix_mp_128",
+      "contenturl": "http://0.static.wix.com/media/7765d89e6a353fffce0a558fcdab52bd.wix_mp_256"
+     },
+     {
+      "thumbnailurl": "http://0.static.wix.com/media/682a57e202393f927053304f6988e3c9.wix_mp_128",
+      "contenturl": "http://0.static.wix.com/media/682a57e202393f927053304f6988e3c9.wix_mp_256"
+     },
+     {
+      "thumbnailurl": "http://0.static.wix.com/media/d6fb3f8f2582bae4d8402c7a49412393.wix_mp_128",
+      "contenturl": "http://0.static.wix.com/media/d6fb3f8f2582bae4d8402c7a49412393.wix_mp_512"
+     },
+     {
+      "thumbnailurl": "http://0.static.wix.com/media/43676efd7efd50a5c11aada0f03138c5.wix_mp_128",
+      "contenturl": "http://0.static.wix.com/media/43676efd7efd50a5c11aada0f03138c5.wix_mp_256"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Disc Jockeys news, photos and video - chicagotribune.com",
+   "htmlTitle": "Disc Jockeys news, photos and video - chicagotribune.com",
+   "link": "http://www.chicagotribune.com/topic/entertainment/music/disc-jockeys-PECLB004939.topic",
+   "displayLink": "www.chicagotribune.com",
+   "snippet": "Items 1 - 12 of 1891 ... The speakeasy-style bar located on the 18th floor of the Raffaello hotel in the   Gold Coast was left without a DJ for its highly-anticipated grand ...",
+   "htmlSnippet": "Items 1 - 12 of 1891 \u003cb\u003e...\u003c/b\u003e The speakeasy-style bar located on the 18th floor of the Raffaello hotel in the \u003cbr\u003e  Gold Coast was left without a \u003cb\u003eDJ\u003c/b\u003e for its highly-anticipated grand \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "YKAuZzLAe58J",
+   "formattedUrl": "www.chicagotribune.com/topic/.../disc-jockeys-PECLB004939.topic",
+   "htmlFormattedUrl": "www.chicagotribune.com/topic/.../disc-jockeys-PECLB004939.topic",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.baltimoresun.com/media/photo/2012-07/71137858.jpg",
+      "type": "1",
+      "width": "262",
+      "height": "192"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "DJ Forums at DJchat.com DJ Networking Center - Home",
+   "htmlTitle": "\u003cb\u003eDJ\u003c/b\u003e Forums at DJchat.com \u003cb\u003eDJ\u003c/b\u003e Networking Center - Home",
+   "link": "http://www.djchat.com/",
+   "displayLink": "www.djchat.com",
+   "snippet": "Bulletin boards and chats. Links to disc jockeys in the USA and Canada.",
+   "htmlSnippet": "Bulletin boards and chats. Links to disc jockeys in the USA and Canada.",
+   "cacheId": "bF9NmLGLJc4J",
+   "formattedUrl": "www.djchat.com/",
+   "htmlFormattedUrl": "www.djchat.com/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.djchat.com/djchat.jpg"
+     }
+    ],
+    "metatags": [
+     {
+      "vb_meta_bburl": "http://www.djchat.com",
+      "fb:app_id": "241372282569972",
+      "og:site_name": "DJ Forums at DJchat.com DJ  Networking Center",
+      "og:description": "Home",
+      "og:url": "http://www.djchat.com",
+      "og:type": "website",
+      "og:image": "http://www.djchat.com/djchat.jpg"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "The Official FOLKDJ-L Website: Global Discussion Forum for Folk DJs",
+   "htmlTitle": "The Official FOLKDJ-L Website: Global Discussion Forum for Folk \u003cb\u003eDJs\u003c/b\u003e",
+   "link": "http://www.folkradio.org/",
+   "displayLink": "www.folkradio.org",
+   "snippet": "The official web page for the FOLKDJ-L mailing list, of particular interest to   programmers of folk music on the radio.",
+   "htmlSnippet": "The official web page for the FOLKDJ-L mailing list, of particular interest to \u003cbr\u003e  programmers of folk music on the radio.",
+   "cacheId": "5H4vM7QgocQJ",
+   "formattedUrl": "www.folkradio.org/",
+   "htmlFormattedUrl": "www.folkradio.org/"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Most People Are DJs Podcast of Indie Music and Pop Culture Talk",
+   "htmlTitle": "Most People Are \u003cb\u003eDJs\u003c/b\u003e Podcast of Indie Music and Pop Culture Talk",
+   "link": "http://www.mostpeoplearedjs.com/",
+   "displayLink": "www.mostpeoplearedjs.com",
+   "snippet": "Most People Are DJs is a blog with podcast and videos packed with with indie   music, pop culture reviews and coupon codes.",
+   "htmlSnippet": "Most People Are \u003cb\u003eDJs\u003c/b\u003e is a blog with podcast and videos packed with with indie \u003cbr\u003e  music, pop culture reviews and coupon codes.",
+   "cacheId": "bxwAUpInPFYJ",
+   "formattedUrl": "www.mostpeoplearedjs.com/",
+   "htmlFormattedUrl": "www.mostpeopleare\u003cb\u003edjs\u003c/b\u003e.com/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://mostpeoplearedjs.libsyn.com/img/soapBox.gif",
+      "type": "1",
+      "width": "93",
+      "height": "84"
+     }
+    ]
+   }
+  }
+ ]
+}

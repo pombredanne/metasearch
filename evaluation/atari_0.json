@@ -1,0 +1,300 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "nextPage": [
+   {
+    "title": "Google Custom Search - atari",
+    "totalResults": "4010000",
+    "searchTerms": "atari",
+    "count": 10,
+    "startIndex": 11,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "017401104989814545383:mf4lavmtuva"
+   }
+  ],
+  "request": [
+   {
+    "title": "Google Custom Search - atari",
+    "totalResults": "4010000",
+    "searchTerms": "atari",
+    "count": 10,
+    "startIndex": 1,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "017401104989814545383:mf4lavmtuva"
+   }
+  ]
+ },
+ "context": {
+  "title": "College MetaSearch Comparison"
+ },
+ "searchInformation": {
+  "searchTime": 0.208393,
+  "formattedSearchTime": "0.21",
+  "totalResults": "4010000",
+  "formattedTotalResults": "4,010,000"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "Atari",
+   "htmlTitle": "\u003cb\u003eAtari\u003c/b\u003e",
+   "link": "http://www.atari.com/",
+   "displayLink": "www.atari.com",
+   "snippet": "Official site. Includes game information, screenshots, and downloads.",
+   "htmlSnippet": "Official site. Includes game information, screenshots, and downloads.",
+   "cacheId": "_J3Z5_-5kh8J",
+   "formattedUrl": "www.atari.com/",
+   "htmlFormattedUrl": "www.\u003cb\u003eatari\u003c/b\u003e.com/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.atari.com/sites/default/files/styles/95x145_thumb/public/asteroids_gunner_plus_boxshot.png",
+      "type": "1",
+      "width": "76",
+      "height": "116"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Atari - Wikipedia, the free encyclopedia",
+   "htmlTitle": "\u003cb\u003eAtari\u003c/b\u003e - Wikipedia, the free encyclopedia",
+   "link": "http://en.wikipedia.org/wiki/Atari",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "Atari is a corporate and brand name owned by several entities since its inception   in 1972. As of 2012, it is owned by Atari Interactive, a subsidiary of the French ...",
+   "htmlSnippet": "\u003cb\u003eAtari\u003c/b\u003e is a corporate and brand name owned by several entities since its inception \u003cbr\u003e  in 1972. As of 2012, it is owned by \u003cb\u003eAtari\u003c/b\u003e Interactive, a subsidiary of the French \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "7zTQKvIskJMJ",
+   "formattedUrl": "en.wikipedia.org/wiki/Atari",
+   "htmlFormattedUrl": "en.wikipedia.org/wiki/\u003cb\u003eAtari\u003c/b\u003e",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Atari_Official_2012_Logo.jpg/160px-Atari_Official_2012_Logo.jpg",
+      "type": "1",
+      "width": "128",
+      "height": "140"
+     }
+    ],
+    "hcard": [
+     {
+      "fn": "Atari",
+      "label": "Los Angeles, California, New York City, New York, USA Lyon, France",
+      "category": "Public company"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "The Atari Museum",
+   "htmlTitle": "The \u003cb\u003eAtari\u003c/b\u003e Museum",
+   "link": "http://www.atarimuseum.com/",
+   "displayLink": "www.atarimuseum.com",
+   "snippet": "The Atari History Museum: The interenets premiere site for information, images   and history of Atari.",
+   "htmlSnippet": "The \u003cb\u003eAtari\u003c/b\u003e History Museum: The interenets premiere site for information, images \u003cbr\u003e  and history of \u003cb\u003eAtari\u003c/b\u003e.",
+   "cacheId": "FSd6GlqsMlcJ",
+   "formattedUrl": "www.atarimuseum.com/",
+   "htmlFormattedUrl": "www.\u003cb\u003eatari\u003c/b\u003emuseum.com/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.atarimuseum.com/intro-standard.gif",
+      "type": "1",
+      "width": "256",
+      "height": "197"
+     }
+    ],
+    "metatags": [
+     {
+      "progid": "FrontPage.Editor.Document",
+      "originator": "Microsoft Word 12",
+      "author": "Curt Vendel"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Atari 2600 - Wikipedia, the free encyclopedia",
+   "htmlTitle": "\u003cb\u003eAtari\u003c/b\u003e 2600 - Wikipedia, the free encyclopedia",
+   "link": "http://en.wikipedia.org/wiki/Atari_2600",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "The Atari 2600 is a video game console released in October 1977 by Atari, Inc. It   is credited with popularizing the use of microprocessor-based hardware and ...",
+   "htmlSnippet": "The \u003cb\u003eAtari\u003c/b\u003e 2600 is a video game console released in October 1977 by \u003cb\u003eAtari\u003c/b\u003e, Inc. It \u003cbr\u003e  is credited with popularizing the use of microprocessor-based hardware and \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "_r23ooQNQr0J",
+   "formattedUrl": "en.wikipedia.org/wiki/Atari_2600",
+   "htmlFormattedUrl": "en.wikipedia.org/wiki/\u003cb\u003eAtari\u003c/b\u003e_2600",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Atari-2600-Wood-4Sw-Set.jpg/300px-Atari-2600-Wood-4Sw-Set.jpg",
+      "type": "1",
+      "width": "240",
+      "height": "138"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Atari - Online Games",
+   "htmlTitle": "\u003cb\u003eAtari\u003c/b\u003e - Online Games",
+   "link": "http://www.atari.com/play/",
+   "displayLink": "www.atari.com",
+   "snippet": "Follow Us: Atari on Facebook Atari on Twitter Atari on YouTube. Languages.   English · Français · Deutsch ... Online Games - Atari.com. Battlezone. 3.09091 ...",
+   "htmlSnippet": "Follow Us: \u003cb\u003eAtari\u003c/b\u003e on Facebook \u003cb\u003eAtari\u003c/b\u003e on Twitter \u003cb\u003eAtari\u003c/b\u003e on YouTube. Languages. \u003cbr\u003e  English &middot; Français &middot; Deutsch \u003cb\u003e...\u003c/b\u003e Online Games - \u003cb\u003eAtari\u003c/b\u003e.com. Battlezone. 3.09091 \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "R2_Ztl12cg0J",
+   "formattedUrl": "www.atari.com/play/",
+   "htmlFormattedUrl": "www.\u003cb\u003eatari\u003c/b\u003e.com/play/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://atari.com/sites/default/files/styles/160x240_thumbnail/public/box_crystalcastles.jpg",
+      "type": "1",
+      "width": "128",
+      "height": "192"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "ATARI.ORG / Home / The Definitive Atari Resource on the Internet",
+   "htmlTitle": "\u003cb\u003eATARI\u003c/b\u003e.ORG / Home / The Definitive \u003cb\u003eAtari\u003c/b\u003e Resource on the Internet",
+   "link": "http://www.atari.org/",
+   "displayLink": "www.atari.org",
+   "snippet": "The Definitive Atari resource. We cover everything from the 2600 to the Atari   Falcon and beyond.",
+   "htmlSnippet": "The Definitive \u003cb\u003eAtari\u003c/b\u003e resource. We cover everything from the 2600 to the \u003cb\u003eAtari\u003c/b\u003e \u003cbr\u003e  Falcon and beyond.",
+   "cacheId": "a8bDYA6c-FUJ",
+   "formattedUrl": "www.atari.org/",
+   "htmlFormattedUrl": "www.\u003cb\u003eatari\u003c/b\u003e.org/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.atari.org/gfx/ft.jpg",
+      "type": "1",
+      "width": "129",
+      "height": "144"
+     }
+    ],
+    "metatags": [
+     {
+      "reply-to": "support@atari.org"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "AtariAge - Have You Played Atari Today?",
+   "htmlTitle": "AtariAge - Have You Played \u003cb\u003eAtari\u003c/b\u003e Today?",
+   "link": "http://www.atariage.com/",
+   "displayLink": "www.atariage.com",
+   "snippet": "AtariAge - News, message boards, rarity guides, game database, manuals,   pictures, articles, links, and much more.",
+   "htmlSnippet": "AtariAge - News, message boards, rarity guides, game database, manuals, \u003cbr\u003e  pictures, articles, links, and much more.",
+   "cacheId": "WO2bxParhIEJ",
+   "formattedUrl": "www.atariage.com/",
+   "htmlFormattedUrl": "www.\u003cb\u003eatari\u003c/b\u003eage.com/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.atariage.com/images/ebay/260878214731.jpg",
+      "type": "1",
+      "width": "120",
+      "height": "136"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Atari | Facebook",
+   "htmlTitle": "\u003cb\u003eAtari\u003c/b\u003e | Facebook",
+   "link": "http://www.facebook.com/atari",
+   "displayLink": "www.facebook.com",
+   "snippet": "To connect with Atari, sign up for Facebook today. ... I remember the old days   when Atari had a hotline we would call and they would say things like \"...and ...",
+   "htmlSnippet": "To connect with \u003cb\u003eAtari\u003c/b\u003e, sign up for Facebook today. \u003cb\u003e...\u003c/b\u003e I remember the old days \u003cbr\u003e  when \u003cb\u003eAtari\u003c/b\u003e had a hotline we would call and they would say things like &quot;...and \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "arIyKZxN--UJ",
+   "formattedUrl": "www.facebook.com/atari",
+   "htmlFormattedUrl": "www.facebook.com/\u003cb\u003eatari\u003c/b\u003e",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://sphotos-b.xx.fbcdn.net/hphotos-prn1/553071_10151035781818534_1425617231_n.jpg",
+      "type": "1",
+      "width": "369",
+      "height": "136"
+     }
+    ],
+    "organization": [
+     {
+      "photo": "http://profile.ak.fbcdn.net/hprofile-ak-ash2/174885_66215843533_1104843171_n.jpg",
+      "name": "Atari"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "App Store - Atari's Greatest Hits",
+   "htmlTitle": "App Store - \u003cb\u003eAtari&#39;s\u003c/b\u003e Greatest Hits",
+   "link": "http://itunes.apple.com/us/app/ataris-greatest-hits/id422966028?mt=8",
+   "displayLink": "itunes.apple.com",
+   "snippet": "Jun 27, 2012 ... Read reviews, get customer ratings, see screenshots, and learn more about   Atari's Greatest Hits on the App Store. Download Atari's Greatest ...",
+   "htmlSnippet": "Jun 27, 2012 \u003cb\u003e...\u003c/b\u003e Read reviews, get customer ratings, see screenshots, and learn more about \u003cbr\u003e  \u003cb\u003eAtari&#39;s\u003c/b\u003e Greatest Hits on the App Store. Download \u003cb\u003eAtari&#39;s\u003c/b\u003e Greatest \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "KS-zDNTqlY8J",
+   "formattedUrl": "itunes.apple.com/us/app/ataris-greatest-hits/id422966028?mt=8",
+   "htmlFormattedUrl": "itunes.apple.com/us/app/\u003cb\u003eataris\u003c/b\u003e-greatest-hits/id422966028?mt=8",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://a2.mzstatic.com/us/r1000/094/Purple/v4/d0/79/63/d079633d-4f90-5e14-358b-274d376ba323/mzl.pxuasxxc.png",
+      "type": "1",
+      "width": "225",
+      "height": "225"
+     }
+    ],
+    "metatags": [
+     {
+      "og:title": "Atari's Greatest Hits",
+      "og:description": "Get Atari's Greatest Hits on the App Store. See screenshots and ratings, and read customer reviews.",
+      "og:site_name": "App Store",
+      "og:image": "http://a2.mzstatic.com/us/r1000/094/Purple/v4/d0/79/63/d079633d-4f90-5e14-358b-274d376ba323/mzl.pxuasxxc.png",
+      "og:image:type": "image/png"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "atari (atari) on Twitter",
+   "htmlTitle": "\u003cb\u003eatari\u003c/b\u003e (\u003cb\u003eatari\u003c/b\u003e) on Twitter",
+   "link": "http://twitter.com/atari/",
+   "displayLink": "twitter.com",
+   "snippet": "The Official Atari Twitter! Check out our website for more info! http://www.atari.  com Also don't forget to Like Us on Facebook http://www.facebook.com/atari ...",
+   "htmlSnippet": "The Official \u003cb\u003eAtari\u003c/b\u003e Twitter! Check out our website for more info! http://www.\u003cb\u003eatari\u003c/b\u003e.\u003cbr\u003e  com Also don&#39;t forget to Like Us on Facebook http://www.facebook.com/\u003cb\u003eatari\u003c/b\u003e \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "JkptNpK5EeQJ",
+   "formattedUrl": "twitter.com/atari/",
+   "htmlFormattedUrl": "twitter.com/\u003cb\u003eatari\u003c/b\u003e/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://a0.twimg.com/profile_images/1318908875/atari_logo_reasonably_small.jpg",
+      "type": "1",
+      "width": "69",
+      "height": "69"
+     }
+    ]
+   }
+  }
+ ]
+}

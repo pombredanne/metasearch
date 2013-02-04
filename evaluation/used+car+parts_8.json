@@ -1,0 +1,293 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "nextPage": [
+   {
+    "title": "Google Custom Search - used car parts",
+    "totalResults": "557000000",
+    "searchTerms": "used car parts",
+    "count": 10,
+    "startIndex": 91,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "017401104989814545383:mf4lavmtuva"
+   }
+  ],
+  "request": [
+   {
+    "title": "Google Custom Search - used car parts",
+    "totalResults": "557000000",
+    "searchTerms": "used car parts",
+    "count": 10,
+    "startIndex": 81,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "017401104989814545383:mf4lavmtuva"
+   }
+  ],
+  "previousPage": [
+   {
+    "title": "Google Custom Search - used car parts",
+    "totalResults": "557000000",
+    "searchTerms": "used car parts",
+    "count": 10,
+    "startIndex": 71,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "017401104989814545383:mf4lavmtuva"
+   }
+  ]
+ },
+ "context": {
+  "title": "College MetaSearch Comparison"
+ },
+ "searchInformation": {
+  "searchTime": 0.188984,
+  "formattedSearchTime": "0.19",
+  "totalResults": "557000000",
+  "formattedTotalResults": "557,000,000"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "Used Auto Parts, Car Parts, Truck Parts",
+   "htmlTitle": "\u003cb\u003eUsed Auto Parts\u003c/b\u003e, Car Parts, Truck Parts",
+   "link": "http://www.iusedautoparts.com/",
+   "displayLink": "www.iusedautoparts.com",
+   "snippet": "Welcome to iusedautoparts.com where finding quality used auto and truck parts   is made easy and fast. Whatever your car needs maybe we can help! Here at ...",
+   "htmlSnippet": "Welcome to iusedautoparts.com where finding quality \u003cb\u003eused auto\u003c/b\u003e and truck \u003cb\u003eparts\u003c/b\u003e \u003cbr\u003e  is made easy and fast. Whatever your car needs maybe we can help! Here at \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "d6v72uVTDAoJ",
+   "formattedUrl": "www.iusedautoparts.com/",
+   "htmlFormattedUrl": "www.i\u003cb\u003eusedautoparts\u003c/b\u003e.com/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.iusedautoparts.com/images/ad_sample.jpg",
+      "type": "1",
+      "width": "100",
+      "height": "100"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Riverside Used Auto Parts",
+   "htmlTitle": "Riverside \u003cb\u003eUsed Auto Parts\u003c/b\u003e",
+   "link": "http://www.riversidecarpart.com/",
+   "displayLink": "www.riversidecarpart.com",
+   "snippet": "Riverside Used Auto Parts. Welcome to Riverside Used Auto Parts, the easy way   to find used auto parts online. Designed to help people with any level of car ...",
+   "htmlSnippet": "Riverside \u003cb\u003eUsed Auto Parts\u003c/b\u003e. Welcome to Riverside \u003cb\u003eUsed Auto Parts\u003c/b\u003e, the easy way \u003cbr\u003e  to find \u003cb\u003eused auto parts\u003c/b\u003e online. Designed to help people with any level of car \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "YAqNQ4Ij7UkJ",
+   "formattedUrl": "www.riversidecarpart.com/",
+   "htmlFormattedUrl": "www.riverside\u003cb\u003ecarpart\u003c/b\u003e.com/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.riversidecarpart.com/images/img6.jpg",
+      "type": "1",
+      "width": "180",
+      "height": "100"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "St. Paul Used Auto Parts - Used Car & Truck Parts Minneapolis ...",
+   "htmlTitle": "St. Paul \u003cb\u003eUsed Auto Parts\u003c/b\u003e - Used Car &amp; Truck Parts Minneapolis \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://www.jellisonsauto.com/",
+   "displayLink": "www.jellisonsauto.com",
+   "snippet": "Jellison Auto Parts offers high quality used car, truck and auto parts to both   wholesale and retail customers in Minneapolis and St. Paul, MN areas. We also ...",
+   "htmlSnippet": "Jellison Auto \u003cb\u003eParts\u003c/b\u003e offers high quality \u003cb\u003eused car\u003c/b\u003e, truck and auto \u003cb\u003eparts\u003c/b\u003e to both \u003cbr\u003e  wholesale and retail customers in Minneapolis and St. Paul, MN areas. We also \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "kpwVd7aZaYgJ",
+   "formattedUrl": "www.jellisonsauto.com/",
+   "htmlFormattedUrl": "www.jellisons\u003cb\u003eauto\u003c/b\u003e.com/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.jellisonsauto.com/images2/trailer.jpg",
+      "type": "1",
+      "width": "371",
+      "height": "136"
+     }
+    ],
+    "postaladdress": [
+     {
+      "streetaddress": "3817 149th Ave NE •",
+      "addresslocality": "Ham Lake",
+      "addressregion": "MN",
+      "postalcode": "55304"
+     }
+    ],
+    "autodealer": [
+     {
+      "telephone": "763-434-6944 •"
+     }
+    ],
+    "metatags": [
+     {
+      "msvalidate.01": "AE754B313EDC4D2A91CC8A1FC261E749"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Used Auto Parts Used Truck Parts SUV-Car Parts Foreign or Domestic",
+   "htmlTitle": "\u003cb\u003eUsed Auto Parts\u003c/b\u003e Used Truck Parts SUV-Car Parts Foreign or Domestic",
+   "link": "http://www.aachenauto.com/used_auto_parts.htm",
+   "displayLink": "www.aachenauto.com",
+   "snippet": "Find Used Auto Parts for your car, truck and sports utility vehicle, SUV. Our   Michigan location has a large inventory of used car parts for foreign auto and ...",
+   "htmlSnippet": "Find \u003cb\u003eUsed Auto Parts\u003c/b\u003e for your car, truck and sports utility vehicle, SUV. Our \u003cbr\u003e  Michigan location has a large inventory of \u003cb\u003eused car parts\u003c/b\u003e for foreign auto and \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "c81upyQH2Z0J",
+   "formattedUrl": "www.aachenauto.com/used_auto_parts.htm",
+   "htmlFormattedUrl": "www.aachen\u003cb\u003eauto\u003c/b\u003e.com/\u003cb\u003eused\u003c/b\u003e_\u003cb\u003eauto\u003c/b\u003e_\u003cb\u003eparts\u003c/b\u003e.htm",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.aachenauto.com/usedparts.jpg",
+      "type": "1",
+      "width": "164",
+      "height": "118"
+     }
+    ],
+    "metatags": [
+     {
+      "microsoft theme": "roman-blue-n-gold 1111, default",
+      "microsoft border": "tl, default"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Used Car Parts, Auto Parts, Truck Parts, Salvage Parts, Wisconsin",
+   "htmlTitle": "\u003cb\u003eUsed Car Parts\u003c/b\u003e, Auto Parts, Truck Parts, Salvage Parts, Wisconsin",
+   "link": "http://www.morrisonsauto.com/",
+   "displayLink": "www.morrisonsauto.com",
+   "snippet": "Searching for quality, old, used car parts online? Morrison's Auto Parts in   Wisconsin is the best place to find used car parts and used auto, Salvage parts.",
+   "htmlSnippet": "Searching for quality, old, \u003cb\u003eused car parts\u003c/b\u003e online? Morrison&#39;s Auto Parts in \u003cbr\u003e  Wisconsin is the best place to find \u003cb\u003eused car parts\u003c/b\u003e and used auto, Salvage parts.",
+   "cacheId": "m4vql1QzPGEJ",
+   "formattedUrl": "www.morrisonsauto.com/",
+   "htmlFormattedUrl": "www.morrisons\u003cb\u003eauto\u003c/b\u003e.com/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.morrisonsauto.com/rap-green.jpg",
+      "type": "1",
+      "width": "175",
+      "height": "204"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Bruce Auto Parts",
+   "htmlTitle": "Bruce \u003cb\u003eAuto Parts\u003c/b\u003e",
+   "link": "http://www.bruceautoparts.com/",
+   "displayLink": "www.bruceautoparts.com",
+   "snippet": "Buy Our Recycled Auto Parts Online Purchase Recycled Parts Online. Bruce   Auto Parts is a proud partner in nationwide recycling efforts to not only donate   used ...",
+   "htmlSnippet": "Buy Our Recycled \u003cb\u003eAuto Parts\u003c/b\u003e Online Purchase Recycled \u003cb\u003eParts\u003c/b\u003e Online. Bruce \u003cbr\u003e  \u003cb\u003eAuto Parts\u003c/b\u003e is a proud partner in nationwide recycling efforts to not only donate \u003cbr\u003e  \u003cb\u003eused\u003c/b\u003e \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "tBC1X7cAnkQJ",
+   "formattedUrl": "www.bruceautoparts.com/",
+   "htmlFormattedUrl": "www.bruce\u003cb\u003eautoparts\u003c/b\u003e.com/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.bruceautoparts.com/images/page_images/team_prp_logo.jpg",
+      "type": "1",
+      "width": "245",
+      "height": "83"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Higgins Auto - Used Car Parts Bakersfield CA",
+   "htmlTitle": "Higgins Auto - \u003cb\u003eUsed Car Parts\u003c/b\u003e Bakersfield CA",
+   "link": "http://www.higginsauto.com/",
+   "displayLink": "www.higginsauto.com",
+   "snippet": "Buys wrecked vehicles of all types for dismantling and sale of parts. Will ship   anywhere in the USA.",
+   "htmlSnippet": "Buys wrecked vehicles of all types for dismantling and sale of \u003cb\u003eparts\u003c/b\u003e. Will ship \u003cbr\u003e  anywhere in the USA.",
+   "cacheId": "f3VkXA6jovMJ",
+   "formattedUrl": "www.higginsauto.com/",
+   "htmlFormattedUrl": "www.higgins\u003cb\u003eauto\u003c/b\u003e.com/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.higginsauto.com/images/index/image3.jpg",
+      "type": "1",
+      "width": "323",
+      "height": "156"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Standard Auto Wrecking - Worcester MA Used Car Parts and used ...",
+   "htmlTitle": "Standard Auto Wrecking - Worcester MA \u003cb\u003eUsed Car Parts\u003c/b\u003e and used \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://www.standardautoinc.com/",
+   "displayLink": "www.standardautoinc.com",
+   "snippet": "Used car parts Worcester MA, used cars repairable cars , pick up and delivery,   free parts locator service. Used car parts Worcester MA.",
+   "htmlSnippet": "\u003cb\u003eUsed car parts\u003c/b\u003e Worcester MA, used cars repairable cars , pick up and delivery, \u003cbr\u003e  free parts locator service. \u003cb\u003eUsed car parts\u003c/b\u003e Worcester MA.",
+   "cacheId": "UfrGu8OKoyQJ",
+   "formattedUrl": "www.standardautoinc.com/",
+   "htmlFormattedUrl": "www.standard\u003cb\u003eauto\u003c/b\u003einc.com/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.standardautoinc.com/standard.jpg",
+      "type": "1",
+      "width": "348",
+      "height": "145"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "B & B Used Auto Parts",
+   "htmlTitle": "B &amp; B \u003cb\u003eUsed Auto Parts\u003c/b\u003e",
+   "link": "http://www.bandbusedautoparts.net/",
+   "displayLink": "www.bandbusedautoparts.net",
+   "snippet": "Specializing in late model imports and domestics. Features online used part   search.",
+   "htmlSnippet": "Specializing in late model imports and domestics. Features online \u003cb\u003eused part\u003c/b\u003e \u003cbr\u003e  search.",
+   "cacheId": "I-vG3TdHXNUJ",
+   "formattedUrl": "www.bandbusedautoparts.net/",
+   "htmlFormattedUrl": "www.bandb\u003cb\u003eusedautoparts\u003c/b\u003e.net/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.bandbusedautoparts.net/graphics/nav_03.gif",
+      "type": "1",
+      "width": "120",
+      "height": "61"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Auto Parts \u003e Used",
+   "htmlTitle": "\u003cb\u003eAuto Parts\u003c/b\u003e &gt; \u003cb\u003eUsed\u003c/b\u003e",
+   "link": "http://dir.yahoo.com/Business_and_Economy/Shopping_and_Services/Automotive/Parts/Used/",
+   "displayLink": "dir.yahoo.com",
+   "snippet": "Find sites offering used auto parts, including engines, tires, ...",
+   "htmlSnippet": "Find sites offering \u003cb\u003eused auto parts\u003c/b\u003e, including engines, tires, \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "Oua6rAPEEA8J",
+   "formattedUrl": "dir.yahoo.com/Business_and_Economy/.../Automotive/Parts/Used/",
+   "htmlFormattedUrl": "dir.yahoo.com/Business_and_Economy/.../\u003cb\u003eAutomotive\u003c/b\u003e/\u003cb\u003eParts\u003c/b\u003e/\u003cb\u003eUsed\u003c/b\u003e/"
+  }
+ ]
+}

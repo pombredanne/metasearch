@@ -1,0 +1,307 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "nextPage": [
+   {
+    "title": "Google Custom Search - map",
+    "totalResults": "610000000",
+    "searchTerms": "map",
+    "count": 10,
+    "startIndex": 81,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "017401104989814545383:mf4lavmtuva"
+   }
+  ],
+  "request": [
+   {
+    "title": "Google Custom Search - map",
+    "totalResults": "610000000",
+    "searchTerms": "map",
+    "count": 10,
+    "startIndex": 71,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "017401104989814545383:mf4lavmtuva"
+   }
+  ],
+  "previousPage": [
+   {
+    "title": "Google Custom Search - map",
+    "totalResults": "610000000",
+    "searchTerms": "map",
+    "count": 10,
+    "startIndex": 61,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "017401104989814545383:mf4lavmtuva"
+   }
+  ]
+ },
+ "context": {
+  "title": "College MetaSearch Comparison"
+ },
+ "searchInformation": {
+  "searchTime": 0.191143,
+  "formattedSearchTime": "0.19",
+  "totalResults": "610000000",
+  "formattedTotalResults": "610,000,000"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "AggieMap.tamu.edu - Texas A&M's Online Campus Map",
+   "htmlTitle": "AggieMap.tamu.edu - Texas A&amp;M&#39;s Online Campus \u003cb\u003eMap\u003c/b\u003e",
+   "link": "http://aggiemap.tamu.edu/",
+   "displayLink": "aggiemap.tamu.edu",
+   "snippet": "AggieMap.tamu.edu is an interactive, online campus map that serves Texas A&M   University (TAMU).",
+   "htmlSnippet": "AggieMap.tamu.edu is an interactive, online campus \u003cb\u003emap\u003c/b\u003e that serves Texas A&amp;M \u003cbr\u003e  University (TAMU).",
+   "cacheId": "Phy1HHoiPUUJ",
+   "formattedUrl": "aggiemap.tamu.edu/",
+   "htmlFormattedUrl": "aggie\u003cb\u003emap\u003c/b\u003e.tamu.edu/"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Map of Mexico",
+   "htmlTitle": "\u003cb\u003eMap\u003c/b\u003e of Mexico",
+   "link": "http://www.lonelyplanet.com/maps/north-america/mexico/",
+   "displayLink": "www.lonelyplanet.com",
+   "snippet": "Map of Mexico and travel information about Mexico brought to you by Lonely   Planet.",
+   "htmlSnippet": "\u003cb\u003eMap\u003c/b\u003e of Mexico and travel information about Mexico brought to you by Lonely \u003cbr\u003e  Planet.",
+   "cacheId": "Tr1FLHwHD5sJ",
+   "formattedUrl": "www.lonelyplanet.com/maps/north-america/mexico/",
+   "htmlFormattedUrl": "www.lonelyplanet.com/\u003cb\u003emaps\u003c/b\u003e/north-america/mexico/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.lonelyplanet.com/maps/north-america/mexico/map_of_mexico.jpg",
+      "type": "1",
+      "width": "259",
+      "height": "194"
+     }
+    ],
+    "metatags": [
+     {
+      "fb:app_id": "111537044496"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Japan Quake Map",
+   "htmlTitle": "Japan Quake \u003cb\u003eMap\u003c/b\u003e",
+   "link": "http://www.japanquakemap.com/",
+   "displayLink": "www.japanquakemap.com",
+   "snippet": "Time-lapse visualisation of the March 11, 2011 earthquake off the coast of   Sendai, Japan and its aftershocks.",
+   "htmlSnippet": "Time-lapse visualisation of the March 11, 2011 earthquake off the coast of \u003cbr\u003e  Sendai, Japan and its aftershocks.",
+   "cacheId": "YqUwoSl9IN4J",
+   "formattedUrl": "www.japanquakemap.com/",
+   "htmlFormattedUrl": "www.japanquake\u003cb\u003emap\u003c/b\u003e.com/",
+   "pagemap": {
+    "metatags": [
+     {
+      "author": "Paul Nicholls"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Missouri Assessment Program Homepage (MAP)",
+   "htmlTitle": "\u003cb\u003eMissouri Assessment Program\u003c/b\u003e Homepage (\u003cb\u003eMAP\u003c/b\u003e)",
+   "link": "http://dese.mo.gov/divimprove/assess/",
+   "displayLink": "dese.mo.gov",
+   "snippet": "Mar 3, 2011 ... Missouri Assessment Program. News and Updates. Spring 2012 District Self-  Monitoring Quality Assurance. As part of the Department's Quality ...",
+   "htmlSnippet": "Mar 3, 2011 \u003cb\u003e...\u003c/b\u003e \u003cb\u003eMissouri Assessment Program\u003c/b\u003e. News and Updates. Spring 2012 District Self-\u003cbr\u003e  Monitoring Quality Assurance. As part of the Department&#39;s Quality \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "VbyewhrN7t8J",
+   "formattedUrl": "dese.mo.gov/divimprove/assess/",
+   "htmlFormattedUrl": "dese.mo.gov/divimprove/assess/",
+   "pagemap": {
+    "metatags": [
+     {
+      "title": "MISSOURI DEPARTMENT OF ELEMENTARY AND SECONDARY EDUCATION",
+      "author": "MISSOURI DEPARTMENT OF ELEMENTARY AND SECONDARY EDUCATION"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "UC Davis: Campus Map",
+   "htmlTitle": "UC Davis: Campus \u003cb\u003eMap\u003c/b\u003e",
+   "link": "http://campusmap.ucdavis.edu/",
+   "displayLink": "campusmap.ucdavis.edu",
+   "snippet": "Resources. MyUCDavis · Jobs · News · Facts · Maps · Calendars · UC Davis   Stores · Schedules · Sustainability · Information Technology · Diversity ·   Emergency ...",
+   "htmlSnippet": "Resources. MyUCDavis &middot; Jobs &middot; News &middot; Facts &middot; \u003cb\u003eMaps\u003c/b\u003e &middot; Calendars &middot; UC Davis \u003cbr\u003e  Stores &middot; Schedules &middot; Sustainability &middot; Information Technology &middot; Diversity &middot; \u003cbr\u003e  Emergency \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "j_TP3eI0F_sJ",
+   "formattedUrl": "campusmap.ucdavis.edu/",
+   "htmlFormattedUrl": "campus\u003cb\u003emap\u003c/b\u003e.ucdavis.edu/",
+   "pagemap": {
+    "metatags": [
+     {
+      "viewport": "initial-scale=1.0, user-scalable=no"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Scribble Maps - Draw on google maps with scribblings and more!",
+   "htmlTitle": "Scribble \u003cb\u003eMaps\u003c/b\u003e - Draw on google \u003cb\u003emaps\u003c/b\u003e with scribblings and more!",
+   "link": "http://scribblemaps.com/",
+   "displayLink": "scribblemaps.com",
+   "snippet": "Draw on google maps with scribbles, squares, circles, and more!",
+   "htmlSnippet": "Draw on google \u003cb\u003emaps\u003c/b\u003e with scribbles, squares, circles, and more!",
+   "cacheId": "5kcEtcQlFpgJ",
+   "formattedUrl": "scribblemaps.com/",
+   "htmlFormattedUrl": "scribble\u003cb\u003emaps\u003c/b\u003e.com/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://scribblemaps.com/assets/images/screenshot.png",
+      "type": "1",
+      "width": "259",
+      "height": "195"
+     }
+    ],
+    "metatags": [
+     {
+      "websitespark": "Eu36HeqFvq"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Google Maps Mania",
+   "htmlTitle": "Google \u003cb\u003eMaps\u003c/b\u003e Mania",
+   "link": "http://googlemapsmania.blogspot.com/",
+   "displayLink": "googlemapsmania.blogspot.com",
+   "snippet": "6 hours ago ... An unofficial blog tracking the websites, ideas and tools being influenced by the   tool.",
+   "htmlSnippet": "6 hours ago \u003cb\u003e...\u003c/b\u003e An unofficial blog tracking the websites, ideas and tools being influenced by the \u003cbr\u003e  tool.",
+   "cacheId": "joDEf7Xmh6sJ",
+   "formattedUrl": "googlemapsmania.blogspot.com/",
+   "htmlFormattedUrl": "google\u003cb\u003emaps\u003c/b\u003emania.blogspot.com/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://1.bp.blogspot.com/-vZWPu8eccjM/UAUo51aSRtI/AAAAAAAAQjg/kULH0CSGU6w/s523/mapsmania.gif",
+      "type": "1",
+      "width": "343",
+      "height": "147"
+     }
+    ],
+    "metatags": [
+     {
+      "viewport": "width=1100"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Newspaper Map |",
+   "htmlTitle": "Newspaper \u003cb\u003eMap\u003c/b\u003e |",
+   "link": "http://newspapermap.com/",
+   "displayLink": "newspapermap.com",
+   "snippet": "Newspaper Map | ✰ find and translate all newspapers in the world.",
+   "htmlSnippet": "Newspaper \u003cb\u003eMap\u003c/b\u003e | ✰ find and translate all newspapers in the world.",
+   "cacheId": "IWh-Bh_0R2UJ",
+   "formattedUrl": "newspapermap.com/",
+   "htmlFormattedUrl": "newspaper\u003cb\u003emap\u003c/b\u003e.com/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://newspapermap.com/apple-touch-icon-114x114-precomposed.png",
+      "type": "1",
+      "width": "94",
+      "height": "96"
+     }
+    ],
+    "metatags": [
+     {
+      "author": "greatname.se",
+      "handheldfriendly": "True",
+      "mobileoptimized": "320",
+      "viewport": "width=device-width, initial-scale=1.0",
+      "og:title": "newspaper map | ✰",
+      "og:type": "website",
+      "og:url": "http://newspapermap.com/",
+      "og:image": "http://newspapermap.com/apple-touch-icon-114x114-precomposed.png",
+      "og:site_name": "newspaper map",
+      "apple-mobile-web-app-capable": "yes",
+      "apple-mobile-web-app-status-bar-style": "black-translucent"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Campus Maps - washington.edu",
+   "htmlTitle": "Campus \u003cb\u003eMaps\u003c/b\u003e - washington.edu",
+   "link": "http://www.washington.edu/maps/",
+   "displayLink": "www.washington.edu",
+   "snippet": "About · Academic Departments · Colleges and Schools · Community Photos ·   Diversity · Educational Excellence · Husky Sports · Leadership · Research at the ...",
+   "htmlSnippet": "About &middot; Academic Departments &middot; Colleges and Schools &middot; Community Photos &middot; \u003cbr\u003e  Diversity &middot; Educational Excellence &middot; Husky Sports &middot; Leadership &middot; Research at the \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "61XclXSeXZkJ",
+   "formattedUrl": "www.washington.edu/maps/",
+   "htmlFormattedUrl": "www.washington.edu/\u003cb\u003emaps\u003c/b\u003e/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.washington.edu/images-library/store.jpg",
+      "type": "1",
+      "width": "160",
+      "height": "108"
+     }
+    ],
+    "metatags": [
+     {
+      "distribution": "global",
+      "language": "en, sv"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "MapMaker Page Maps - National Geographic Education",
+   "htmlTitle": "MapMaker Page \u003cb\u003eMaps\u003c/b\u003e - National Geographic Education",
+   "link": "http://education.nationalgeographic.com/education/mapping/outline-map/",
+   "displayLink": "education.nationalgeographic.com",
+   "snippet": "Customize one-page maps and download, email, print, or share!",
+   "htmlSnippet": "Customize one-page \u003cb\u003emaps\u003c/b\u003e and download, email, print, or share!",
+   "cacheId": "pBK9wSFLiaYJ",
+   "formattedUrl": "education.nationalgeographic.com/education/mapping/outline-map/",
+   "htmlFormattedUrl": "education.nationalgeographic.com/education/\u003cb\u003emapping\u003c/b\u003e/outline-\u003cb\u003emap\u003c/b\u003e/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://education.nationalgeographic.com/media/static/images/icons/teachers_logo.png",
+      "type": "1",
+      "width": "92",
+      "height": "67"
+     }
+    ],
+    "metatags": [
+     {
+      "copyright": "(c) National Geographic",
+      "author": "National Geographic Society",
+      "og:title": "MapMaker Page Maps",
+      "og:description": "Customize one-page maps and download, email, print, or share!",
+      "og:url": "http://education.nationalgeographic.com/education/mapping/outline-map/",
+      "og:image": "http://education.nationalgeographic.com"
+     }
+    ]
+   }
+  }
+ ]
+}

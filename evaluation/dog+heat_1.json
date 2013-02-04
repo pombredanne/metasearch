@@ -1,0 +1,365 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "nextPage": [
+   {
+    "title": "Google Custom Search - dog heat",
+    "totalResults": "59400000",
+    "searchTerms": "dog heat",
+    "count": 10,
+    "startIndex": 21,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "017401104989814545383:mf4lavmtuva"
+   }
+  ],
+  "request": [
+   {
+    "title": "Google Custom Search - dog heat",
+    "totalResults": "59400000",
+    "searchTerms": "dog heat",
+    "count": 10,
+    "startIndex": 11,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "017401104989814545383:mf4lavmtuva"
+   }
+  ],
+  "previousPage": [
+   {
+    "title": "Google Custom Search - dog heat",
+    "totalResults": "59400000",
+    "searchTerms": "dog heat",
+    "count": 10,
+    "startIndex": 1,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "017401104989814545383:mf4lavmtuva"
+   }
+  ]
+ },
+ "context": {
+  "title": "College MetaSearch Comparison"
+ },
+ "searchInformation": {
+  "searchTime": 0.195569,
+  "formattedSearchTime": "0.20",
+  "totalResults": "59400000",
+  "formattedTotalResults": "59,400,000"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "In-Heat Wheat - Flying Dog Brewery - Frederick, MD - BeerAdvocate",
+   "htmlTitle": "In-\u003cb\u003eHeat\u003c/b\u003e Wheat - Flying \u003cb\u003eDog\u003c/b\u003e Brewery - Frederick, MD - BeerAdvocate",
+   "link": "http://beeradvocate.com/beer/profile/68/2249/",
+   "displayLink": "beeradvocate.com",
+   "snippet": "675 beer reviews for In-Heat Wheat (Hefeweizen) from Flying Dog Brewery in   Frederick, MD.",
+   "htmlSnippet": "675 beer reviews for In-\u003cb\u003eHeat\u003c/b\u003e Wheat (Hefeweizen) from Flying \u003cb\u003eDog\u003c/b\u003e Brewery in \u003cbr\u003e  Frederick, MD.",
+   "cacheId": "IsF3wlRhOXcJ",
+   "formattedUrl": "beeradvocate.com/beer/profile/68/2249/",
+   "htmlFormattedUrl": "beeradvocate.com/beer/profile/68/2249/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://beeradvocate.com/im/beers/2249.jpg"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "120",
+      "height": "240",
+      "src": "https://encrypted-tbn1.google.com/images?q=tbn:ANd9GcSnFlUod0Q8I2sJCDCeF4inAm-BVLv0SbgoULo6Yo_8w6H4Ahe0ffkW33E"
+     }
+    ],
+    "scraped": [
+     {
+      "image_link": "http://beeradvocate.com/im/beers/2249.jpg"
+     }
+    ],
+    "metatags": [
+     {
+      "rating": "general",
+      "author": "BeerAdvocate.com, Inc. - Jason and Todd Alström",
+      "copyright": "Copyright BeerAdvocate.com, Inc. All rights reserved."
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Dog Heatstroke Survival Guide",
+   "htmlTitle": "\u003cb\u003eDog\u003c/b\u003e Heatstroke Survival Guide",
+   "link": "http://www.dogchannel.com/dog-health/dog-heatstroke-survival-guide.aspx",
+   "displayLink": "www.dogchannel.com",
+   "snippet": "Dog Heatstroke Survival Guide hot weather safety performance dogs.",
+   "htmlSnippet": "\u003cb\u003eDog\u003c/b\u003e Heatstroke Survival Guide hot weather safety performance \u003cb\u003edogs\u003c/b\u003e.",
+   "cacheId": "dTTRCBidd7oJ",
+   "formattedUrl": "www.dogchannel.com/dog.../dog-heatstroke-survival-guide.aspx",
+   "htmlFormattedUrl": "www.\u003cb\u003edog\u003c/b\u003echannel.com/\u003cb\u003edog\u003c/b\u003e.../\u003cb\u003edog\u003c/b\u003e-\u003cb\u003eheat\u003c/b\u003estroke-survival-guide.aspx",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.dogchannel.com/images/articles/Art%20Gallery/0808heatstroke.jpg",
+      "type": "1",
+      "width": "200",
+      "height": "136"
+     }
+    ],
+    "metatags": [
+     {
+      "fbtitle": "Dog Heatstroke Survival Guide",
+      "fbdescription": "Dog Heatstroke Survival Guide hot weather safety performance dogs.",
+      "abstract": "Hot weather safety for performance dogs. Prevent heatstroke.",
+      "og:image": "http://www.dogchannel.com/images/Facebook/Meta/FB-DogChannel.jpg"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Heat Stroke and Hyperthermia in Dogs | petMD",
+   "htmlTitle": "\u003cb\u003eHeat\u003c/b\u003e Stroke and Hyperthermia in \u003cb\u003eDogs\u003c/b\u003e | petMD",
+   "link": "http://www.petmd.com/dog/conditions/cardiovascular/c_dg_heat_stroke",
+   "displayLink": "www.petmd.com",
+   "snippet": "Hyperthermia is an elevation in body temperature that is above the generally   accepted normal range.",
+   "htmlSnippet": "Hyperthermia is an elevation in body temperature that is above the generally \u003cbr\u003e  accepted normal range.",
+   "cacheId": "XIx8nZY8yT4J",
+   "formattedUrl": "www.petmd.com/dog/conditions/cardiovascular/c_dg_heat_stroke",
+   "htmlFormattedUrl": "www.\u003cb\u003epet\u003c/b\u003emd.com/\u003cb\u003edog\u003c/b\u003e/conditions/cardiovascular/c_dg_\u003cb\u003eheat\u003c/b\u003e_stroke",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.petmd.com/sites/default/files/german-shorthaired-pointer-invisible-fence-collar.jpg",
+      "type": "1",
+      "width": "278",
+      "height": "181"
+     }
+    ],
+    "metatags": [
+     {
+      "msvalidate.01": "4A1303699889D46C020E26C2B9E97200",
+      "og:image": "http://www.petmd.com/themes/petmd/images/logo-petmd.png"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Dog Heat Strokes | Symptoms",
+   "htmlTitle": "\u003cb\u003eDog Heat\u003c/b\u003e Strokes | Symptoms",
+   "link": "http://www.petwave.com/Dogs/Dog-Health-Center/Multi-Body-System-Disorders/Heat-Stroke/Symptoms.aspx",
+   "displayLink": "www.petwave.com",
+   "snippet": "When a dog's inner body temperature starts to climb, and the dog's body is   unable to release the extra heat, a series of symptoms will begin; if left untreated, ...",
+   "htmlSnippet": "When a \u003cb\u003edog&#39;s\u003c/b\u003e inner body temperature starts to climb, and the \u003cb\u003edog&#39;s\u003c/b\u003e body is \u003cbr\u003e  unable to release the extra \u003cb\u003eheat\u003c/b\u003e, a series of symptoms will begin; if left untreated, \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "qgl93Vyw-48J",
+   "formattedUrl": "www.petwave.com/Dogs/Dog-Health.../Heat.../Symptoms.aspx",
+   "htmlFormattedUrl": "www.\u003cb\u003epet\u003c/b\u003ewave.com/\u003cb\u003eDogs\u003c/b\u003e/\u003cb\u003eDog\u003c/b\u003e-Health.../\u003cb\u003eHeat\u003c/b\u003e.../Symptoms.aspx",
+   "pagemap": {
+    "metatags": [
+     {
+      "code_language": "C#",
+      "vs_defaultclientscript": "JavaScript",
+      "vs_targetschema": "http://schemas.microsoft.com/intellisense/ie5"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Pet Supply Imports SnuggleSafe Pet Heating Pad: Amazon.com: Pet ...",
+   "htmlTitle": "Pet Supply Imports SnuggleSafe \u003cb\u003ePet Heating\u003c/b\u003e Pad: Amazon.com: Pet \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://www.amazon.com/Pet-Supply-Imports-SnuggleSafe-Heating/dp/B00008AJH9",
+   "displayLink": "www.amazon.com",
+   "snippet": "Allow your pet to snuggle up with up to 12 hours of safe, soothing warmth with the   Pet Supply Imports SnuggleSafe Heating Pad. The plate-size pad contains no ...",
+   "htmlSnippet": "Allow your \u003cb\u003epet\u003c/b\u003e to snuggle up with up to 12 hours of safe, soothing warmth with the \u003cbr\u003e  \u003cb\u003ePet\u003c/b\u003e Supply Imports SnuggleSafe \u003cb\u003eHeating\u003c/b\u003e Pad. The plate-size pad contains no \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "ZjTJcjt0dHgJ",
+   "formattedUrl": "www.amazon.com/Pet-Supply-Imports...Heating/dp/B00008AJH9",
+   "htmlFormattedUrl": "www.amazon.com/\u003cb\u003ePet\u003c/b\u003e-Supply-Imports...\u003cb\u003eHeating\u003c/b\u003e/dp/B00008AJH9",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://ecx.images-amazon.com/images/I/51mb4N1PaLL._SY300_.jpg",
+      "type": "1",
+      "width": "214",
+      "height": "235"
+     }
+    ],
+    "metatags": [
+     {
+      "title": "Pet Supply Imports SnuggleSafe Pet Heating Pad: Amazon.com: Pet Supplies"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Dog in Heat - YouTube",
+   "htmlTitle": "\u003cb\u003eDog\u003c/b\u003e in \u003cb\u003eHeat\u003c/b\u003e - YouTube",
+   "link": "http://www.youtube.com/watch?v=YD3UBHus_hg",
+   "displayLink": "www.youtube.com",
+   "snippet": "May 12, 2011 ... TWITTER: http://twitter.com/#!/LenasWorld FACEBOOK: http://www.facebook.com/  pages/Beautiful-World-by-Lena/168076026590660 An ...",
+   "htmlSnippet": "May 12, 2011 \u003cb\u003e...\u003c/b\u003e TWITTER: http://twitter.com/#!/LenasWorld FACEBOOK: http://www.facebook.com/\u003cbr\u003e  pages/Beautiful-World-by-Lena/168076026590660 An \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "agJ0uDeVvj0J",
+   "formattedUrl": "www.youtube.com/watch?v=YD3UBHus_hg",
+   "htmlFormattedUrl": "www.youtube.com/watch?v=YD3UBHus_hg",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://i2.ytimg.com/vi/YD3UBHus_hg/mqdefault.jpg",
+      "type": "1",
+      "width": "256",
+      "height": "144"
+     }
+    ],
+    "videoobject": [
+     {
+      "url": "http://www.youtube.com/watch?v=YD3UBHus_hg",
+      "name": "Dog in Heat",
+      "description": "TWITTER: http://twitter.com/#!/LenasWorld FACEBOOK: http://www.facebook.com/pages/Beautiful-World-by-Lena/168076026590660 An amusing video of me attempting t...",
+      "duration": "PT4M26S",
+      "unlisted": "False",
+      "paid": "False",
+      "thumbnailurl": "http://i2.ytimg.com/vi/YD3UBHus_hg/hqdefault.jpg",
+      "embedurl": "http://www.youtube.com/v/YD3UBHus_hg?version=3&autohide=1",
+      "playertype": "Flash",
+      "width": "1280",
+      "height": "720"
+     }
+    ],
+    "person": [
+     {
+      "url": "http://www.youtube.com/user/ypopova"
+     }
+    ],
+    "metatags": [
+     {
+      "title": "Dog in Heat",
+      "og:url": "http://www.youtube.com/watch?v=YD3UBHus_hg",
+      "og:title": "Dog in Heat",
+      "og:description": "TWITTER: http://twitter.com/#!/LenasWorld FACEBOOK: http://www.facebook.com/pages/Beautiful-World-by-Lena/168076026590660 An amusing video of me attempting t...",
+      "og:type": "video",
+      "og:image": "http://i2.ytimg.com/vi/YD3UBHus_hg/mqdefault.jpg",
+      "og:video": "http://www.youtube.com/v/YD3UBHus_hg?version=3&autohide=1",
+      "og:video:type": "application/x-shockwave-flash",
+      "og:video:width": "1280",
+      "og:video:height": "720",
+      "og:site_name": "YouTube",
+      "fb:app_id": "87741124305",
+      "twitter:player:width": "1280",
+      "twitter:player:height": "720",
+      "attribution": "ypopova%2Buser/"
+     }
+    ],
+    "imageobject": [
+     {
+      "url": "http://i2.ytimg.com/vi/YD3UBHus_hg/mqdefault.jpg",
+      "width": "320",
+      "height": "180"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Dog in Heat (Canine Estrus): Symptoms, and Spaying",
+   "htmlTitle": "\u003cb\u003eDog\u003c/b\u003e in \u003cb\u003eHeat\u003c/b\u003e (\u003cb\u003eCanine\u003c/b\u003e Estrus): Symptoms, and Spaying",
+   "link": "http://pets.webmd.com/dogs/how-tell-if-dogs-heat",
+   "displayLink": "pets.webmd.com",
+   "snippet": "Estrus, or heat, is the stage in a female dog's reproductive cycle during which she   becomes receptive to mating with males. At this time, estrogen levels first ...",
+   "htmlSnippet": "Estrus, or \u003cb\u003eheat\u003c/b\u003e, is the stage in a female \u003cb\u003edog\u003c/b\u003e&#39;s reproductive cycle during which she \u003cbr\u003e  becomes receptive to mating with males. At this time, estrogen levels first \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "p5hYgMA9tfIJ",
+   "formattedUrl": "pets.webmd.com/dogs/how-tell-if-dogs-heat",
+   "htmlFormattedUrl": "\u003cb\u003epet\u003c/b\u003es.webmd.com/\u003cb\u003edogs\u003c/b\u003e/how-tell-if-\u003cb\u003edogs\u003c/b\u003e-\u003cb\u003eheat\u003c/b\u003e"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Heat Stroke in Dogs",
+   "htmlTitle": "\u003cb\u003eHeat\u003c/b\u003e Stroke in \u003cb\u003eDogs\u003c/b\u003e",
+   "link": "http://dogs.about.com/od/dogandpuppyhealth/qt/heatstroke.htm",
+   "displayLink": "dogs.about.com",
+   "snippet": "Heat stroke, or hyperthermia, is a serious health issue that can cause permanent   damage leading to death. Unfortunately, too many dogs succumb to heat stroke ...",
+   "htmlSnippet": "\u003cb\u003eHeat\u003c/b\u003e stroke, or hyperthermia, is a serious health issue that can cause permanent \u003cbr\u003e  damage leading to death. Unfortunately, too many \u003cb\u003edogs\u003c/b\u003e succumb to \u003cb\u003eheat\u003c/b\u003e stroke \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "HhSvRcJBOQAJ",
+   "formattedUrl": "dogs.about.com/od/dogandpuppyhealth/qt/heatstroke.htm",
+   "htmlFormattedUrl": "\u003cb\u003edogs\u003c/b\u003e.about.com/od/\u003cb\u003edog\u003c/b\u003eandpuppyhealth/qt/\u003cb\u003eheat\u003c/b\u003estroke.htm",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://0.tqn.com/d/dogs/1/G/v/5/-/-/dog-car-JustinSullivan.jpg",
+      "type": "1",
+      "width": "128",
+      "height": "120"
+     }
+    ],
+    "metatags": [
+     {
+      "pd": "Monday, 09-Apr-2012 23:56:55 UTC",
+      "og:title": "Heat Stroke in Dogs",
+      "og:type": "article",
+      "og:image": "http://0.tqn.com/d/dogs/1/G/v/5/-/-/dog-car-JustinSullivan.jpg",
+      "og:url": "http://dogs.about.com/od/dogandpuppyhealth/qt/heatstroke.htm",
+      "og:site_name": "About.com Dogs",
+      "fb:app_id": "121030274606741"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "How to Calm a Female Dog in Heat",
+   "htmlTitle": "How to Calm a Female \u003cb\u003eDog\u003c/b\u003e in \u003cb\u003eHeat\u003c/b\u003e",
+   "link": "http://www.pet-happy.com/how-to-calm-a-female-do-that-is-in-heat/",
+   "displayLink": "www.pet-happy.com",
+   "snippet": "Feb 16, 2012 ... Is it hard to calm down your female dog when she is in heat? We remember when   our dog was in heat for the first time. It was driving her crazy, ...",
+   "htmlSnippet": "Feb 16, 2012 \u003cb\u003e...\u003c/b\u003e Is it hard to calm down your female \u003cb\u003edog\u003c/b\u003e when she is in \u003cb\u003eheat\u003c/b\u003e? We remember when \u003cbr\u003e  our \u003cb\u003edog\u003c/b\u003e was in \u003cb\u003eheat\u003c/b\u003e for the first time. It was driving her crazy, \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "4XiLbhL_9JQJ",
+   "formattedUrl": "www.pet-happy.com/how-to-calm-a-female-do-that-is-in-heat/",
+   "htmlFormattedUrl": "www.\u003cb\u003epet\u003c/b\u003e-happy.com/how-to-calm-a-female-do-that-is-in-\u003cb\u003eheat\u003c/b\u003e/",
+   "pagemap": {
+    "hcard": [
+     {
+      "fn": "Susan",
+      "nickname": "Susan",
+      "photo": "http://1.gravatar.com/avatar/3fb771d39ff4d37b2c0328d6c770a680?s=45&d=http%3A%2F%2Fwww.pet-happy.com%2Fwp-includes%2Fimages%2Fblank.gif&r=G"
+     },
+     {
+      "fn": "Signe & Mario Monk",
+      "url": "http://www.pet-happy.com/about-us/",
+      "url_text": "Signe & Mario Monk",
+      "photo": "http://0.gravatar.com/avatar/ca11c998e8d4c8185cf66dcf0410b45a?s=45&d=http%3A%2F%2Fwww.pet-happy.com%2Fwp-includes%2Fimages%2Fblank.gif&r=G"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Flying Dog In-Heat Wheat Hefeweizen - 44 at RateBeer",
+   "htmlTitle": "Flying \u003cb\u003eDog\u003c/b\u003e In-\u003cb\u003eHeat\u003c/b\u003e Wheat Hefeweizen - 44 at RateBeer",
+   "link": "http://www.ratebeer.com/beer/flying-dog-in-heat-wheat-hefeweizen/10811/",
+   "displayLink": "www.ratebeer.com",
+   "snippet": "Flying Dog In-Heat Wheat Hefeweizen a German Hefeweizen beer by Flying Dog   Brewery, a brewery in Frederick, Maryland.",
+   "htmlSnippet": "Flying \u003cb\u003eDog\u003c/b\u003e In-\u003cb\u003eHeat\u003c/b\u003e Wheat Hefeweizen a German Hefeweizen beer by Flying \u003cb\u003eDog\u003c/b\u003e \u003cbr\u003e  Brewery, a brewery in Frederick, Maryland.",
+   "cacheId": "l5MU65qyrrYJ",
+   "formattedUrl": "www.ratebeer.com/beer/flying-dog-in-heat-wheat.../10811/",
+   "htmlFormattedUrl": "www.ratebeer.com/beer/flying-\u003cb\u003edog\u003c/b\u003e-in-\u003cb\u003eheat\u003c/b\u003e-w\u003cb\u003eheat\u003c/b\u003e.../10811/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://res.cloudinary.com/ratebeer/image/upload/w_120,c_limit,q_80,d_beer_def.gif/beer_10811.jpg",
+      "type": "1",
+      "width": "96",
+      "height": "129"
+     }
+    ]
+   }
+  }
+ ]
+}

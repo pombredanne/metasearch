@@ -1,0 +1,423 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "nextPage": [
+   {
+    "title": "Google Custom Search - pampered chef",
+    "totalResults": "992000",
+    "searchTerms": "pampered chef",
+    "count": 10,
+    "startIndex": 31,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "017401104989814545383:mf4lavmtuva"
+   }
+  ],
+  "request": [
+   {
+    "title": "Google Custom Search - pampered chef",
+    "totalResults": "992000",
+    "searchTerms": "pampered chef",
+    "count": 10,
+    "startIndex": 21,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "017401104989814545383:mf4lavmtuva"
+   }
+  ],
+  "previousPage": [
+   {
+    "title": "Google Custom Search - pampered chef",
+    "totalResults": "992000",
+    "searchTerms": "pampered chef",
+    "count": 10,
+    "startIndex": 11,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "017401104989814545383:mf4lavmtuva"
+   }
+  ]
+ },
+ "context": {
+  "title": "College MetaSearch Comparison"
+ },
+ "searchInformation": {
+  "searchTime": 0.150719,
+  "formattedSearchTime": "0.15",
+  "totalResults": "992000",
+  "formattedTotalResults": "992,000"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "Food Chopper",
+   "htmlTitle": "Food Chopper",
+   "link": "http://www.pamperedchef.com/our_products/catalog/product.jsp?productId=240&categoryCode=CE",
+   "displayLink": "www.pamperedchef.com",
+   "snippet": "8\" Chef's · 8\" Chef's Knife with Honing Case · 9\" Bread ... Color Coated Chef's   Knife · Color Coated ... Addison, IL. © 2012 The Pampered Chef used under   license.",
+   "htmlSnippet": "8&quot; Chef&#39;s &middot; 8&quot; Chef&#39;s Knife with Honing Case &middot; 9&quot; Bread \u003cb\u003e...\u003c/b\u003e Color Coated Chef&#39;s \u003cbr\u003e  Knife &middot; Color Coated \u003cb\u003e...\u003c/b\u003e Addison, IL. © 2012 The \u003cb\u003ePampered Chef\u003c/b\u003e used under \u003cbr\u003e  license.",
+   "cacheId": "JTD3cbuuVOAJ",
+   "formattedUrl": "www.pamperedchef.com/our_products/catalog/product.jsp?...",
+   "htmlFormattedUrl": "www.\u003cb\u003epamperedchef\u003c/b\u003e.com/our_products/catalog/product.jsp?...",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.pamperedchef.com/images/product/resized/2585_product.jpg",
+      "type": "1",
+      "width": "160",
+      "height": "160"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "The Pampered Chef in Roseville, California 95661 - 916-780-1094 ...",
+   "htmlTitle": "The \u003cb\u003ePampered Chef\u003c/b\u003e in Roseville, California 95661 - 916-780-1094 \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://directory.rosevillechamber.com/roseville-ca/shopping/mail-order/the-pampered-chef-916-780-1094",
+   "displayLink": "directory.rosevillechamber.com",
+   "snippet": "The Pampered Chef has been in America's kitchens for over 31 years now and   continues to offer the following high quality, multi-functional kitchen tools and ...",
+   "htmlSnippet": "The \u003cb\u003ePampered Chef\u003c/b\u003e has been in America&#39;s kitchens for over 31 years now and \u003cbr\u003e  continues to offer the following high quality, multi-functional kitchen tools and \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "zRmEtq4KJiEJ",
+   "formattedUrl": "directory.rosevillechamber.com/.../the-pampered-chef-916-780-1094",
+   "htmlFormattedUrl": "directory.rosevillechamber.com/.../the-\u003cb\u003epampered\u003c/b\u003e-\u003cb\u003echef\u003c/b\u003e-916-780-1094",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://s3.amazonaws.com/si.localhero.production/uploads/images/advertisers/19326013/4209.jpg?1313810268",
+      "type": "1",
+      "width": "275",
+      "height": "183"
+     }
+    ],
+    "person": [
+     {
+      "location": "Roseville CA"
+     }
+    ],
+    "metatags": [
+     {
+      "publisher": "Local Hero v1.0 by OwnLocal.com"
+     }
+    ],
+    "hcard": [
+     {
+      "fn": "The Pampered Chef"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Recipes",
+   "htmlTitle": "Recipes",
+   "link": "http://www.pamperedchef.com/our_products/recipesearch/search.jsp",
+   "displayLink": "www.pamperedchef.com",
+   "snippet": "... LEGAL/PRIVACY · facebook; twitter; you tube; The Pampered Chef, Ltd,   Kitchen Accessories, Addison, IL. © 2012 The Pampered Chef used under   license.",
+   "htmlSnippet": "\u003cb\u003e...\u003c/b\u003e LEGAL/PRIVACY &middot; facebook; twitter; you tube; The \u003cb\u003ePampered Chef\u003c/b\u003e, Ltd, \u003cbr\u003e  Kitchen Accessories, Addison, IL. © 2012 The \u003cb\u003ePampered Chef\u003c/b\u003e used under \u003cbr\u003e  license.",
+   "cacheId": "yc7o6ypVbGMJ",
+   "formattedUrl": "www.pamperedchef.com/our_products/recipesearch/search.jsp",
+   "htmlFormattedUrl": "www.\u003cb\u003epamperedchef\u003c/b\u003e.com/our_products/recipesearch/search.jsp",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.pamperedchef.com/images/public/us/recipe_pic.jpg",
+      "type": "1",
+      "width": "190",
+      "height": "201"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "PamperedChefVideo - YouTube",
+   "htmlTitle": "PamperedChefVideo - YouTube",
+   "link": "http://www.youtube.com/user/PamperedChefVideo",
+   "displayLink": "www.youtube.com",
+   "snippet": "At The Pampered Chef®, we have a vision that someday families all around the   world will know the joy and rewards of gathering together in the tradition of ...",
+   "htmlSnippet": "At The \u003cb\u003ePampered Chef\u003c/b\u003e®, we have a vision that someday families all around the \u003cbr\u003e  world will know the joy and rewards of gathering together in the tradition of \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "XwZYFd9yXLsJ",
+   "formattedUrl": "www.youtube.com/user/PamperedChefVideo",
+   "htmlFormattedUrl": "www.youtube.com/user/\u003cb\u003ePamperedChef\u003c/b\u003eVideo",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://i3.ytimg.com/vi/zqCWU6RxO14/hqdefault.jpg",
+      "type": "1",
+      "width": "259",
+      "height": "194"
+     }
+    ],
+    "metatags": [
+     {
+      "title": "PamperedChefVideo",
+      "og:image": "//i4.ytimg.com/i/Gy7EnfIC59wJNSSwt5nzdg/1.jpg?v=4f57ae60"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Cooking Party planning business at PamperedChef.com",
+   "htmlTitle": "Cooking Party planning business at \u003cb\u003ePamperedChef\u003c/b\u003e.com",
+   "link": "http://www.pamperedchef.com/cooking-party.jsp",
+   "displayLink": "www.pamperedchef.com",
+   "snippet": "Fun, freedom, and flexibility. Run your own cooking party planning business and   make more money today!",
+   "htmlSnippet": "Fun, freedom, and flexibility. Run your own cooking party planning business and \u003cbr\u003e  make more money today!",
+   "cacheId": "XrbiJT18T44J",
+   "formattedUrl": "www.pamperedchef.com/cooking-party.jsp",
+   "htmlFormattedUrl": "www.\u003cb\u003epamperedchef\u003c/b\u003e.com/cooking-party.jsp",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.pamperedchef.com/images/public/us/join_us/opp_join_us_kits.jpg",
+      "type": "1",
+      "width": "195",
+      "height": "259"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Pampered Chef with Brandis | Facebook",
+   "htmlTitle": "\u003cb\u003ePampered Chef\u003c/b\u003e with Brandis | Facebook",
+   "link": "http://www.facebook.com/pamperedchefwithbrandis",
+   "displayLink": "www.facebook.com",
+   "snippet": "To connect with Pampered Chef with Brandis, sign up for Facebook today. Sign   UpLog In ... pamperedchef.biz/brandis pamperedchefbrandis@gmail.com. About ...",
+   "htmlSnippet": "To connect with \u003cb\u003ePampered Chef\u003c/b\u003e with Brandis, sign up for Facebook today. Sign \u003cbr\u003e  UpLog In \u003cb\u003e...\u003c/b\u003e \u003cb\u003epamperedchef\u003c/b\u003e.biz/brandis pamperedchefbrandis@gmail.com. About \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "Di4JB3pGnO8J",
+   "formattedUrl": "www.facebook.com/pamperedchefwithbrandis",
+   "htmlFormattedUrl": "www.facebook.com/\u003cb\u003epamperedchef\u003c/b\u003ewithbrandis",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://profile.ak.fbcdn.net/hprofile-ak-snc4/372834_135330629821427_633851717_n.jpg",
+      "type": "1",
+      "width": "144",
+      "height": "171"
+     }
+    ],
+    "organization": [
+     {
+      "photo": "http://profile.ak.fbcdn.net/hprofile-ak-snc4/372834_135330629821427_633851717_n.jpg",
+      "name": "Pampered Chef with Brandis"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Careers At The Pampered Chef and more information at ...",
+   "htmlTitle": "Careers At The \u003cb\u003ePampered Chef\u003c/b\u003e and more information at \u003cb\u003e...\u003c/b\u003e",
+   "link": "https://www.pamperedchef.com/careers-at-the-pampered-chef.jsp",
+   "displayLink": "www.pamperedchef.com",
+   "snippet": "Find job openings and learn more about starting a career with the Pampered   Chef corporate headquarters.",
+   "htmlSnippet": "Find job openings and learn more about starting a career with the \u003cb\u003ePampered\u003c/b\u003e \u003cbr\u003e  \u003cb\u003eChef\u003c/b\u003e corporate headquarters.",
+   "cacheId": "9CR9bU6LE9IJ",
+   "formattedUrl": "https://www.pamperedchef.com/careers-at-the-pampered-chef.jsp",
+   "htmlFormattedUrl": "https://www.\u003cb\u003epamperedchef\u003c/b\u003e.com/careers-at-the-\u003cb\u003epampered\u003c/b\u003e-\u003cb\u003echef\u003c/b\u003e.jsp",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "https://www.pamperedchef.com/images/public/linkedin_bnr.gif",
+      "type": "1",
+      "width": "172",
+      "height": "97"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "The Pampered Chef - Addison, IL",
+   "htmlTitle": "The \u003cb\u003ePampered Chef\u003c/b\u003e - Addison, IL",
+   "link": "http://www.yelp.com/biz/the-pampered-chef-addison",
+   "displayLink": "www.yelp.com",
+   "snippet": "3 Reviews of The Pampered Chef \"I've become a huge fan of The Pampered   Chef. I hosted a show in my home in November 2011 and decided that being a ...",
+   "htmlSnippet": "3 Reviews of The \u003cb\u003ePampered Chef\u003c/b\u003e &quot;I&#39;ve become a huge fan of The \u003cb\u003ePampered\u003c/b\u003e \u003cbr\u003e  \u003cb\u003eChef\u003c/b\u003e. I hosted a show in my home in November 2011 and decided that being a \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "UkRxpsi_qyEJ",
+   "formattedUrl": "www.yelp.com/biz/the-pampered-chef-addison",
+   "htmlFormattedUrl": "www.yelp.com/biz/the-\u003cb\u003epampered\u003c/b\u003e-\u003cb\u003echef\u003c/b\u003e-addison",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://s3-media3.ak.yelpcdn.com/bphoto/h6iMt7tj6OkM_mIzIh08Xg/m.jpg",
+      "type": "1",
+      "width": "86",
+      "height": "70"
+     }
+    ],
+    "aggregaterating": [
+     {
+      "ratingvalue": "4.5",
+      "reviewcount": "3"
+     }
+    ],
+    "postaladdress": [
+     {
+      "streetaddress": "Home Office 1 Pampered Chef Ln",
+      "addresslocality": "Addison",
+      "addressregion": "IL",
+      "postalcode": "60101"
+     }
+    ],
+    "localbusiness": [
+     {
+      "name": "The Pampered Chef",
+      "telephone": "(630) 261-8900",
+      "image": "//s3-media3.ak.yelpcdn.com/bphoto/h6iMt7tj6OkM_mIzIh08Xg/m.jpg",
+      "pricerange": "$$"
+     }
+    ],
+    "rating": [
+     {
+      "ratingvalue": "5.0"
+     },
+     {
+      "ratingvalue": "4.0"
+     },
+     {
+      "ratingvalue": "5.0"
+     }
+    ],
+    "metatags": [
+     {
+      "og:url": "http://www.yelp.com/biz/-387i0Hj4Jn5iXjOoFVTCA",
+      "og:longitude": "-88.0427915",
+      "og:type": "company",
+      "og:latitude": "41.9296098",
+      "og:title": "The Pampered Chef",
+      "fb:app_id": "97534753161",
+      "og:image": "http://s3-media3.ak.yelpcdn.com/bphoto/h6iMt7tj6OkM_mIzIh08Xg/m.jpg",
+      "relativepagescore": "617189"
+     }
+    ],
+    "hreviewaggregate": [
+     {
+      "pricerange": "$$",
+      "count": "3"
+     }
+    ],
+    "review": [
+     {
+      "ratingstars": "4.5",
+      "ratingcount": "3",
+      "pricerange": "$$",
+      "image_url": "//s3-media3.ak.yelpcdn.com/bphoto/h6iMt7tj6OkM_mIzIh08Xg/m.jpg"
+     },
+     {
+      "author": "Vivian Y.",
+      "datepublished": "2012-06-12",
+      "description": "I've become a huge fan of The Pampered Chef. I hosted a show in my home in November 2011 and decided that being a consultant was right for me! I now own almost $1000 in Pampered Chef products..."
+     },
+     {
+      "author": "Tess M.",
+      "datepublished": "2011-09-15",
+      "description": "Gadgets ordered arrived in pristine condition in less than seven, count em, business days! Learned while reading instructions to fill my new grinder set that, as in lampshades, the screw top..."
+     },
+     {
+      "author": "Carrie S.",
+      "datepublished": "2008-05-15",
+      "description": "Years ago, my mom gave me a Microwave Cooker and I've had a company crush on Pampered Chef since. Since that microwave cooker, I've expanded to many products thanks to being very good friends..."
+     }
+    ],
+    "breadcrumb": [
+     {
+      "url": "Shopping",
+      "title": "Shopping"
+     },
+     {
+      "url": "Home & Garden",
+      "title": "Home & Garden"
+     },
+     {
+      "url": "Kitchen & Bath",
+      "title": "Kitchen & Bath"
+     },
+     {
+      "url": "Pets",
+      "title": "Pets"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "S'more Cups",
+   "htmlTitle": "S&#39;more Cups",
+   "link": "http://www.pamperedchef.com/recipe_search/recipe.jsp?id=91599",
+   "displayLink": "www.pamperedchef.com",
+   "snippet": "Buy Now! The Pampered Chef® Simply Sweet $14.75 ... facebook · twitter · you   tube · The Pampered Chef, Ltd, Kitchen Accessories, Addison, IL. © 2012 The ...",
+   "htmlSnippet": "Buy Now! The \u003cb\u003ePampered Chef\u003c/b\u003e® Simply Sweet $14.75 \u003cb\u003e...\u003c/b\u003e facebook &middot; twitter &middot; you \u003cbr\u003e  tube &middot; The \u003cb\u003ePampered Chef\u003c/b\u003e, Ltd, Kitchen Accessories, Addison, IL. © 2012 The \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "2WTqi9e2ewsJ",
+   "formattedUrl": "www.pamperedchef.com/recipe_search/recipe.jsp?id=91599",
+   "htmlFormattedUrl": "www.\u003cb\u003epamperedchef\u003c/b\u003e.com/recipe_search/recipe.jsp?id=91599",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.pamperedchef.com/images/recipes_usecare/smore_cups_sm.jpg",
+      "type": "1",
+      "width": "160",
+      "height": "160"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "The Pampered Chef | LinkedIn",
+   "htmlTitle": "The \u003cb\u003ePampered Chef\u003c/b\u003e | LinkedIn",
+   "link": "http://www.linkedin.com/company/the-pampered-chef",
+   "displayLink": "www.linkedin.com",
+   "snippet": "Welcome to the company profile of The Pampered Chef on LinkedIn.   Headquartered in Addison, IL, The Pampered Chef® is the largest direct seller of ...",
+   "htmlSnippet": "Welcome to the company profile of The \u003cb\u003ePampered Chef\u003c/b\u003e on LinkedIn. \u003cbr\u003e  Headquartered in Addison, IL, The \u003cb\u003ePampered Chef\u003c/b\u003e® is the largest direct seller of \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "qTGB062u6DAJ",
+   "formattedUrl": "www.linkedin.com/company/the-pampered-chef",
+   "htmlFormattedUrl": "www.linkedin.com/company/the-\u003cb\u003epampered\u003c/b\u003e-\u003cb\u003echef\u003c/b\u003e",
+   "pagemap": {
+    "person": [
+     {
+      "role": "Independent Representative"
+     }
+    ],
+    "metatags": [
+     {
+      "pageimpressionid": "6d232cae-398d-4046-953f-adf6c216d70a",
+      "pagekey": "biz-overview-public",
+      "analyticsurl": "/analytics/noauthtracker"
+     }
+    ],
+    "hcard": [
+     {
+      "fn": "Steve Bross",
+      "title": "Independent Representative"
+     },
+     {
+      "fn": "Mary Pile",
+      "title": "Independent Consultant"
+     },
+     {
+      "fn": "Ashley Clark"
+     },
+     {
+      "fn": "Rebecca Deitch",
+      "title": "Sales Consultant"
+     },
+     {
+      "fn": "Meg Shireman",
+      "title": "Consultant"
+     }
+    ]
+   }
+  }
+ ]
+}

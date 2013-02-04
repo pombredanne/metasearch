@@ -1,0 +1,257 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "nextPage": [
+   {
+    "title": "Google Custom Search - arizona game and fish",
+    "totalResults": "1710000",
+    "searchTerms": "arizona game and fish",
+    "count": 10,
+    "startIndex": 71,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "017401104989814545383:mf4lavmtuva"
+   }
+  ],
+  "request": [
+   {
+    "title": "Google Custom Search - arizona game and fish",
+    "totalResults": "1710000",
+    "searchTerms": "arizona game and fish",
+    "count": 10,
+    "startIndex": 61,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "017401104989814545383:mf4lavmtuva"
+   }
+  ],
+  "previousPage": [
+   {
+    "title": "Google Custom Search - arizona game and fish",
+    "totalResults": "1710000",
+    "searchTerms": "arizona game and fish",
+    "count": 10,
+    "startIndex": 51,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "017401104989814545383:mf4lavmtuva"
+   }
+  ]
+ },
+ "context": {
+  "title": "College MetaSearch Comparison"
+ },
+ "searchInformation": {
+  "searchTime": 0.293504,
+  "formattedSearchTime": "0.29",
+  "totalResults": "1710000",
+  "formattedTotalResults": "1,710,000"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "AZGFD.gov Another bear attack at Ponderosa Campground",
+   "htmlTitle": "AZGFD.gov Another bear attack at Ponderosa Campground",
+   "link": "http://azgfd.net/artman/publish/NewsMedia/Another-bear-attack-at-Ponderosa-Campground.shtml",
+   "displayLink": "azgfd.net",
+   "snippet": "Jun 24, 2012 ... U.S. Forest Service personnel evacuated the campground this morning, and   wildlife officers from the Arizona Game and Fish Department and ...",
+   "htmlSnippet": "Jun 24, 2012 \u003cb\u003e...\u003c/b\u003e U.S. Forest Service personnel evacuated the campground this morning, and \u003cbr\u003e  wildlife officers from the \u003cb\u003eArizona Game and Fish\u003c/b\u003e Department and \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "8Zpo4dI1anQJ",
+   "formattedUrl": "azgfd.net/.../Another-bear-attack-at-Ponderosa-Campground.shtml",
+   "htmlFormattedUrl": "azgfd.net/.../Another-bear-attack-at-Ponderosa-Campground.shtml"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Arizona Game Fish Frequently Asked Questions",
+   "htmlTitle": "\u003cb\u003eArizona Game Fish\u003c/b\u003e Frequently Asked Questions",
+   "link": "http://www.wmonline.com/area/gamefish/gffaqs.htm",
+   "displayLink": "www.wmonline.com",
+   "snippet": "FAQ'S (Frequently Asked Questions) from your local Game & Fish staff at Region   1 Pinetop, Arizona! Q. Do I have to mail in my boat registration for renewal or ...",
+   "htmlSnippet": "FAQ&#39;S (Frequently Asked Questions) from your local \u003cb\u003eGame\u003c/b\u003e &amp; \u003cb\u003eFish\u003c/b\u003e staff at Region \u003cbr\u003e  1 Pinetop, \u003cb\u003eArizona\u003c/b\u003e! Q. Do I have to mail in my boat registration for renewal or \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "2dvxcQZlq-AJ",
+   "formattedUrl": "www.wmonline.com/area/gamefish/gffaqs.htm",
+   "htmlFormattedUrl": "www.wmonline.com/area/\u003cb\u003egamefish\u003c/b\u003e/gffaqs.htm"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "AZGFD.gov Arizona Game and Fish Commission to meet Jan. 13 in ...",
+   "htmlTitle": "AZGFD.gov \u003cb\u003eArizona Game and Fish\u003c/b\u003e Commission to meet Jan. 13 in \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://azgfd.net/artman/publish/NewsMedia/Arizona-Game-and-Fish-Commission-to-meet-Jan-13-in-Phoenix.shtml",
+   "displayLink": "azgfd.net",
+   "snippet": "Jan 11, 2012 ... The next Arizona Game and Fish Commission meeting will be held on Friday,   Jan. 13 at the Game and Fish Department headquarters at 5000 ...",
+   "htmlSnippet": "Jan 11, 2012 \u003cb\u003e...\u003c/b\u003e The next \u003cb\u003eArizona Game and Fish\u003c/b\u003e Commission meeting will be held on Friday, \u003cbr\u003e  Jan. 13 at the Game and Fish Department headquarters at 5000 \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "pcgIYEcyAsYJ",
+   "formattedUrl": "azgfd.net/.../Arizona-Game-and-Fish-Commission-to-meet-Jan-13-in-Phoenix .shtml",
+   "htmlFormattedUrl": "azgfd.net/.../\u003cb\u003eArizona\u003c/b\u003e-\u003cb\u003eGame-and-Fish\u003c/b\u003e-Commission-to-meet-Jan-13-in-Phoenix .shtml"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Arizona State Hunting and Fishing Regulations",
+   "htmlTitle": "\u003cb\u003eArizona\u003c/b\u003e State Hunting and \u003cb\u003eFishing\u003c/b\u003e Regulations",
+   "link": "http://www.huntnfishregs.com/arizona.aspx",
+   "displayLink": "www.huntnfishregs.com",
+   "snippet": "Official Arizona 2010 State Hunting and Fishing Rules and Regulations ... AZ   Arizona Hunting and Fishing Regulations Service Directory · AZ Arizona Fishing ...",
+   "htmlSnippet": "Official \u003cb\u003eArizona\u003c/b\u003e 2010 State Hunting and \u003cb\u003eFishing\u003c/b\u003e Rules and Regulations \u003cb\u003e...\u003c/b\u003e \u003cb\u003eAZ\u003c/b\u003e \u003cbr\u003e  \u003cb\u003eArizona\u003c/b\u003e Hunting and \u003cb\u003eFishing\u003c/b\u003e Regulations Service Directory &middot; \u003cb\u003eAZ Arizona Fishing\u003c/b\u003e \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "3LAXPt_QePEJ",
+   "formattedUrl": "www.huntnfishregs.com/arizona.aspx",
+   "htmlFormattedUrl": "www.huntn\u003cb\u003efish\u003c/b\u003eregs.com/\u003cb\u003earizona\u003c/b\u003e.aspx",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.huntnfishregs.com/Regs/states/AZ/covers/azhunt10-1.jpg",
+      "type": "1",
+      "width": "156",
+      "height": "200"
+     }
+    ],
+    "metatags": [
+     {
+      "copyright": "© 2010 Hunt N Fish Regs LLC; All Rights Reserved",
+      "author": "Hunt n Fish Regs",
+      "resource-type": "DOCUMENT",
+      "distribution": "GLOBAL",
+      "rating": "GENERAL"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "AZGFD.gov Arizona Game and Fish lifts moratorium on rotenone use",
+   "htmlTitle": "AZGFD.gov \u003cb\u003eArizona Game and Fish\u003c/b\u003e lifts moratorium on rotenone use",
+   "link": "http://azgfd.net/artman/publish/NewsMedia/Arizona-Game-and-Fish-lifts-moratorium-on-rotenone-use.shtml",
+   "displayLink": "azgfd.net",
+   "snippet": "Jun 27, 2012 ... Recommendations from blue-ribbon advisory panel incorporated into revamped   procedures. PHOENIX – The Arizona Game and Fish ...",
+   "htmlSnippet": "Jun 27, 2012 \u003cb\u003e...\u003c/b\u003e Recommendations from blue-ribbon advisory panel incorporated into revamped \u003cbr\u003e  procedures. PHOENIX – The \u003cb\u003eArizona Game and Fish\u003c/b\u003e \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "Hyf4nuADLOIJ",
+   "formattedUrl": "azgfd.net/.../Arizona-Game-and-Fish-lifts-moratorium-on-rotenone-use.shtml",
+   "htmlFormattedUrl": "azgfd.net/.../\u003cb\u003eArizona\u003c/b\u003e-\u003cb\u003eGame-and-Fish\u003c/b\u003e-lifts-moratorium-on-rotenone-use.shtml"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Arizona Game and Fish Dept. Region IV - Yuma - Government ...",
+   "htmlTitle": "\u003cb\u003eArizona Game and Fish\u003c/b\u003e Dept. Region IV - Yuma - Government \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://www.facebook.com/pages/Arizona-Game-and-Fish-Dept-Region-IV-Yuma/184632361551542",
+   "displayLink": "www.facebook.com",
+   "snippet": "Arizona Game and Fish Dept. Region IV - Yuma is on Facebook. To connect with   Arizona Game and Fish Dept. Region IV - Yuma, sign up for Facebook today.",
+   "htmlSnippet": "\u003cb\u003eArizona Game and Fish\u003c/b\u003e Dept. Region IV - Yuma is on Facebook. To connect with \u003cbr\u003e  \u003cb\u003eArizona Game and Fish\u003c/b\u003e Dept. Region IV - Yuma, sign up for Facebook today.",
+   "cacheId": "jl_61ddiUWwJ",
+   "formattedUrl": "www.facebook.com/.../Arizona-Game-and-Fish.../184632361551542",
+   "htmlFormattedUrl": "www.facebook.com/.../\u003cb\u003eArizona\u003c/b\u003e-\u003cb\u003eGame-and-Fish\u003c/b\u003e.../184632361551542",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://sphotos.xx.fbcdn.net/hphotos-ash3/c0.289.960.356/s851x315/65704_399808480033928_1041145385_n.jpg",
+      "type": "1",
+      "width": "370",
+      "height": "136"
+     }
+    ],
+    "organization": [
+     {
+      "photo": "http://profile.ak.fbcdn.net/hprofile-ak-ash2/261196_184632361551542_506210401_n.jpg",
+      "name": "Arizona Game and Fish Dept. Region IV - Yuma"
+     }
+    ],
+    "metatags": [
+     {
+      "title": "Arizona Game and Fish Dept. Region IV - Yuma - Government Agency - Yuma, AZ | Facebook"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Arizona Game and Fish collars first wild jaguar in United States ...",
+   "htmlTitle": "\u003cb\u003eArizona Game and Fish\u003c/b\u003e collars first wild jaguar in United States \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://www.azgfd.net/wildlife/conservation-news/arizona-game-and-fish-collars-first-wild-jaguar-in-united-states/2009/02/20/",
+   "displayLink": "www.azgfd.net",
+   "snippet": "Feb 20, 2009 ... Jaguar conservation has just experienced an exciting development with the   capture and collaring of the first wild jaguar in Arizona by the ...",
+   "htmlSnippet": "Feb 20, 2009 \u003cb\u003e...\u003c/b\u003e Jaguar conservation has just experienced an exciting development with the \u003cbr\u003e  capture and collaring of the first wild jaguar in \u003cb\u003eArizona\u003c/b\u003e by the \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "WwkrheeAptQJ",
+   "formattedUrl": "www.azgfd.net/wildlife/...news/arizona-game-and-fish.../20/",
+   "htmlFormattedUrl": "www.azgfd.net/wildlife/...news/\u003cb\u003earizona\u003c/b\u003e-\u003cb\u003egame-and-fish\u003c/b\u003e.../20/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.azgfd.gov/artman/uploads/0902_jaguar_collared_web.jpg",
+      "type": "1",
+      "width": "241",
+      "height": "151"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "SPECIES BIOLOGY AND POPULATION TRENDS",
+   "htmlTitle": "SPECIES BIOLOGY AND POPULATION TRENDS",
+   "link": "http://www.azgfd.com/w_c/edits/documents/Agavdela.fo.pdf",
+   "displayLink": "www.azgfd.com",
+   "snippet": "ARIZONA GAME AND FISH DEPARTMENT. HERITAGE DATA MANAGEMENT   SYSTEM. Plant Abstract. Element Code: PMAGA010W0. Data Sensitivity: YES ...",
+   "htmlSnippet": "\u003cb\u003eARIZONA GAME AND FISH\u003c/b\u003e DEPARTMENT. HERITAGE DATA MANAGEMENT \u003cbr\u003e  SYSTEM. Plant Abstract. Element Code: PMAGA010W0. Data Sensitivity: YES \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "iCjiDGQfHZMJ",
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat",
+   "formattedUrl": "www.azgfd.com/w_c/edits/documents/Agavdela.fo.pdf",
+   "htmlFormattedUrl": "www.azgfd.com/w_c/edits/documents/Agavdela.fo.pdf",
+   "pagemap": {
+    "metatags": [
+     {
+      "producer": "Acrobat Distiller 4.05 for Windows",
+      "creator": "Microsoft Word 9.0",
+      "moddate": "D:20030520144643-07'00'",
+      "author": "R Bradford",
+      "title": "SPECIES BIOLOGY AND POPULATION TRENDS",
+      "creationdate": "D:20030520144641"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "ARIZONA GAME & FISH DEPARTMENT",
+   "htmlTitle": "\u003cb\u003eARIZONA GAME\u003c/b\u003e &amp; \u003cb\u003eFISH\u003c/b\u003e DEPARTMENT",
+   "link": "http://www.nmnh.si.edu/BIRDNET/documents/permits/AppFormArizona.pdf",
+   "displayLink": "www.nmnh.si.edu",
+   "snippet": "ARIZONA GAME & FISH DEPARTMENT. 5000 West Carefree Highway, Phoenix,   Arizona 85086. APPLICATION FOR SCIENTIFIC COLLECTING PERMIT (NO ...",
+   "htmlSnippet": "\u003cb\u003eARIZONA GAME\u003c/b\u003e &amp; \u003cb\u003eFISH\u003c/b\u003e DEPARTMENT. 5000 West Carefree Highway, Phoenix, \u003cbr\u003e  \u003cb\u003eArizona\u003c/b\u003e 85086. APPLICATION FOR SCIENTIFIC COLLECTING PERMIT (NO \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "cxHm9n8ARLUJ",
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat",
+   "formattedUrl": "www.nmnh.si.edu/BIRDNET/documents/permits/AppFormArizona.pdf",
+   "htmlFormattedUrl": "www.nmnh.si.edu/BIRDNET/documents/permits/AppForm\u003cb\u003eArizona\u003c/b\u003e.pdf",
+   "pagemap": {
+    "metatags": [
+     {
+      "creationdate": "D:20071130093910-07'00'",
+      "author": "scpermits",
+      "creator": "PScript5.dll Version 5.2.2",
+      "producer": "Acrobat Distiller 7.0.5 (Windows)",
+      "moddate": "D:20071130094523-07'00'",
+      "title": "Microsoft Word - SCP-application 18a.doc"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "AZGFD.gov Mexican authorities to release Mexican wolves in Sonora",
+   "htmlTitle": "AZGFD.gov Mexican authorities to release Mexican wolves in Sonora",
+   "link": "http://azgfd.net/artman/publish/NewsMedia/Mexican-authorities-to-release-Mexican-wolves-in-Sonora.shtml",
+   "displayLink": "azgfd.net",
+   "snippet": "Sep 12, 2011 ... PHOENIX — The Arizona Game and Fish Department has been informed that   Mexican authorities plan to release five Mexican wolves this ...",
+   "htmlSnippet": "Sep 12, 2011 \u003cb\u003e...\u003c/b\u003e PHOENIX — The \u003cb\u003eArizona Game and Fish\u003c/b\u003e Department has been informed that \u003cbr\u003e  Mexican authorities plan to release five Mexican wolves this \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "vezWEHuX9HwJ",
+   "formattedUrl": "azgfd.net/.../Mexican-authorities-to-release-Mexican-wolves-in-Sonora.shtml",
+   "htmlFormattedUrl": "azgfd.net/.../Mexican-authorities-to-release-Mexican-wolves-in-Sonora.shtml"
+  }
+ ]
+}

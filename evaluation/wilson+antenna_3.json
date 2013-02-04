@@ -1,0 +1,254 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "nextPage": [
+   {
+    "title": "Google Custom Search - wilson antenna",
+    "totalResults": "623000",
+    "searchTerms": "wilson antenna",
+    "count": 10,
+    "startIndex": 41,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "017401104989814545383:mf4lavmtuva"
+   }
+  ],
+  "request": [
+   {
+    "title": "Google Custom Search - wilson antenna",
+    "totalResults": "623000",
+    "searchTerms": "wilson antenna",
+    "count": 10,
+    "startIndex": 31,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "017401104989814545383:mf4lavmtuva"
+   }
+  ],
+  "previousPage": [
+   {
+    "title": "Google Custom Search - wilson antenna",
+    "totalResults": "623000",
+    "searchTerms": "wilson antenna",
+    "count": 10,
+    "startIndex": 21,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "017401104989814545383:mf4lavmtuva"
+   }
+  ]
+ },
+ "context": {
+  "title": "College MetaSearch Comparison"
+ },
+ "searchInformation": {
+  "searchTime": 0.160565,
+  "formattedSearchTime": "0.16",
+  "totalResults": "623000",
+  "formattedTotalResults": "623,000"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "Testing Your Antenna | Wilson Antennas",
+   "htmlTitle": "Testing Your Antenna | \u003cb\u003eWilson Antennas\u003c/b\u003e",
+   "link": "http://www.wilsonantenna.com/testing.php",
+   "displayLink": "www.wilsonantenna.com",
+   "snippet": "NOTE: For the following tests, disconnect antenna from radio. I. The Wilson 1000   and 5000 Roof Top, Trunk Lip or Magnetic Mount: A. Testing the Antenna Coil: ...",
+   "htmlSnippet": "NOTE: For the following tests, disconnect \u003cb\u003eantenna\u003c/b\u003e from radio. I. The \u003cb\u003eWilson\u003c/b\u003e 1000 \u003cbr\u003e  and 5000 Roof Top, Trunk Lip or Magnetic Mount: A. Testing the \u003cb\u003eAntenna\u003c/b\u003e Coil: \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "SlvyC9H3YTAJ",
+   "formattedUrl": "www.wilsonantenna.com/testing.php",
+   "htmlFormattedUrl": "www.\u003cb\u003ewilsonantenna\u003c/b\u003e.com/testing.php"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "About Magnet Mounts | Wilson Antennas",
+   "htmlTitle": "About Magnet Mounts | \u003cb\u003eWilson Antennas\u003c/b\u003e",
+   "link": "http://www.wilsonantenna.com/magnet_mounts.php",
+   "displayLink": "www.wilsonantenna.com",
+   "snippet": "Magnet mounts offer a convenient method of installing an antenna on a vehicle.   The magnetic mount antennas also give you an alternative choice instead of ...",
+   "htmlSnippet": "Magnet mounts offer a convenient method of installing an \u003cb\u003eantenna\u003c/b\u003e on a vehicle. \u003cbr\u003e  The magnetic mount \u003cb\u003eantennas\u003c/b\u003e also give you an alternative choice instead of \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "njuwRqV7y2sJ",
+   "formattedUrl": "www.wilsonantenna.com/magnet_mounts.php",
+   "htmlFormattedUrl": "www.\u003cb\u003ewilsonantenna\u003c/b\u003e.com/magnet_mounts.php",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.wilsonantenna.com/images/separation.gif",
+      "type": "1",
+      "width": "140",
+      "height": "90"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Warranty Information | Wilson Antennas",
+   "htmlTitle": "Warranty Information | \u003cb\u003eWilson Antennas\u003c/b\u003e",
+   "link": "http://www.wilsonantenna.com/warranty.php",
+   "displayLink": "www.wilsonantenna.com",
+   "snippet": "Wilson supports an over-the-counter repair/exchange policy for the convenience   of the purchaser. Most warranty cases can be handled by taking the antenna ...",
+   "htmlSnippet": "\u003cb\u003eWilson\u003c/b\u003e supports an over-the-counter repair/exchange policy for the convenience \u003cbr\u003e  of the purchaser. Most warranty cases can be handled by taking the \u003cb\u003eantenna\u003c/b\u003e \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "I-WtuEUO57EJ",
+   "formattedUrl": "www.wilsonantenna.com/warranty.php",
+   "htmlFormattedUrl": "www.\u003cb\u003ewilsonantenna\u003c/b\u003e.com/warranty.php",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.wilsonantenna.com/images/antennas.jpg",
+      "type": "1",
+      "width": "272",
+      "height": "143"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "News and Promotions | Wilson Antennas",
+   "htmlTitle": "News and Promotions | \u003cb\u003eWilson Antennas\u003c/b\u003e",
+   "link": "http://www.wilsonantenna.com/news.php",
+   "displayLink": "www.wilsonantenna.com",
+   "snippet": "Antennas. Base Load Antennas · Trucker Antennas · Fiberglass ...",
+   "htmlSnippet": "\u003cb\u003eAntennas\u003c/b\u003e. Base Load \u003cb\u003eAntennas\u003c/b\u003e &middot; Trucker \u003cb\u003eAntennas\u003c/b\u003e &middot; Fiberglass \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "8kKejtQLM2wJ",
+   "formattedUrl": "www.wilsonantenna.com/news.php",
+   "htmlFormattedUrl": "www.\u003cb\u003ewilsonantenna\u003c/b\u003e.com/news.php",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.wilsonantenna.com/images/antennas.jpg",
+      "type": "1",
+      "width": "272",
+      "height": "143"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Coaxial Cable | Wilson Antennas",
+   "htmlTitle": "Coaxial Cable | \u003cb\u003eWilson Antennas\u003c/b\u003e",
+   "link": "http://www.wilsonantenna.com/coaxial.php",
+   "displayLink": "www.wilsonantenna.com",
+   "snippet": "18' Belden Coaxial Cable. Belden low loss 95% shielded coaxial cable with   tinned copper shield; Tinned stranded center conductor; Amphenol PL-259 ...",
+   "htmlSnippet": "18&#39; Belden Coaxial Cable. Belden low loss 95% shielded coaxial cable with \u003cbr\u003e  tinned copper shield; Tinned stranded center conductor; Amphenol PL-259 \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "f_2O9TY3KdgJ",
+   "formattedUrl": "www.wilsonantenna.com/coaxial.php",
+   "htmlFormattedUrl": "www.\u003cb\u003ewilsonantenna\u003c/b\u003e.com/coaxial.php",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.wilsonantenna.com/images/coaxial.jpg",
+      "type": "1",
+      "width": "259",
+      "height": "194"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "GI JOE'S: CB RADIO - CB RADIO ANTENNA - SCANNER ...",
+   "htmlTitle": "GI JOE&#39;S: CB RADIO - CB RADIO \u003cb\u003eANTENNA\u003c/b\u003e - SCANNER \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://www.gijoesradioelectronics.com/",
+   "displayLink": "www.gijoesradioelectronics.com",
+   "snippet": "Increase Cell phone, laptop or Pda signal 100%+ with a Wilson Cellular antenna   and wireless cellular amplifier. Works on Gsm and Pcs cellphone systems like ...",
+   "htmlSnippet": "Increase Cell phone, laptop or Pda signal 100%+ with a \u003cb\u003eWilson\u003c/b\u003e Cellular \u003cb\u003eantenna\u003c/b\u003e \u003cbr\u003e  and wireless cellular amplifier. Works on Gsm and Pcs cellphone systems like \u003cb\u003e...\u003c/b\u003e",
+   "formattedUrl": "www.gijoesradioelectronics.com/",
+   "htmlFormattedUrl": "www.gijoesradioelectronics.com/",
+   "pagemap": {
+    "metatags": [
+     {
+      "progid": "FrontPage.Editor.Document",
+      "classification": "communications",
+      "rating": "general",
+      "copyright": "Copyright Â© 2002-2004 by GI Joe's Radio Electronics. All rights reserved.",
+      "author": "gi joes radio electronics"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Antenna Cutting Guide | Wilson Antennas",
+   "htmlTitle": "Antenna Cutting Guide | \u003cb\u003eWilson Antennas\u003c/b\u003e",
+   "link": "http://www.wilsonantenna.com/cutting.php",
+   "displayLink": "www.wilsonantenna.com",
+   "snippet": "Antenna Cutting Guide. ... WILSON 1000/5000. BASE LOAD. TRUCKER 2000 &   5000 5\" SHAFT. TRUCKER 2000 & 5000 10\" SHAFT. 28.000. 58 ½\". 48 \". 46 ½\" ...",
+   "htmlSnippet": "\u003cb\u003eAntenna\u003c/b\u003e Cutting Guide. \u003cb\u003e...\u003c/b\u003e \u003cb\u003eWILSON\u003c/b\u003e 1000/5000. BASE LOAD. TRUCKER 2000 &amp; \u003cbr\u003e  5000 5&quot; SHAFT. TRUCKER 2000 &amp; 5000 10&quot; SHAFT. 28.000. 58 ½&quot;. 48 &quot;. 46 ½&quot; \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "32KwL_rFsfUJ",
+   "formattedUrl": "www.wilsonantenna.com/cutting.php",
+   "htmlFormattedUrl": "www.\u003cb\u003ewilsonantenna\u003c/b\u003e.com/cutting.php"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Wilson 700-800MHz Yagi Cellular Antenna",
+   "htmlTitle": "\u003cb\u003eWilson\u003c/b\u003e 700-800MHz Yagi Cellular \u003cb\u003eAntenna\u003c/b\u003e",
+   "link": "http://www.alternativewireless.com/wilson-yagi-antenna.html",
+   "displayLink": "www.alternativewireless.com",
+   "snippet": "Wilson 13dbi Yagi 800MHz Cellular Antennas are very effective at increasing cell   phone signal strength in rural areas. The Yagi is a directional antenna and ...",
+   "htmlSnippet": "\u003cb\u003eWilson\u003c/b\u003e 13dbi Yagi 800MHz Cellular \u003cb\u003eAntennas\u003c/b\u003e are very effective at increasing cell \u003cbr\u003e  phone signal strength in rural areas. The Yagi is a directional \u003cb\u003eantenna\u003c/b\u003e and \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "d1JoZIWJGjQJ",
+   "formattedUrl": "www.alternativewireless.com/wilson-yagi-antenna.html",
+   "htmlFormattedUrl": "www.alternativewireless.com/\u003cb\u003ewilson\u003c/b\u003e-yagi-\u003cb\u003eantenna\u003c/b\u003e.html",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://cdn.alternativewireless.com/media/catalog/product/cache/1/small_image/125x/9df78eab33525d08d6e5fb8d27136e95/d/u/dualband-cellular-repeater.jpg",
+      "type": "1",
+      "width": "100",
+      "height": "100"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Get Wilson cell phone antenna adapters today at discount prices.",
+   "htmlTitle": "Get \u003cb\u003eWilson\u003c/b\u003e cell phone \u003cb\u003eantenna\u003c/b\u003e adapters today at discount prices.",
+   "link": "http://www.accessorygeeks.com/antennaadapter.html",
+   "displayLink": "www.accessorygeeks.com",
+   "snippet": "AccessoryGeeks.com carries most complete line of Wilson antenna adapters on   the net.",
+   "htmlSnippet": "AccessoryGeeks.com carries most complete line of \u003cb\u003eWilson antenna\u003c/b\u003e adapters on \u003cbr\u003e  the net.",
+   "cacheId": "foJambRq7AgJ",
+   "formattedUrl": "www.accessorygeeks.com/antennaadapter.html",
+   "htmlFormattedUrl": "www.accessorygeeks.com/\u003cb\u003eantenna\u003c/b\u003eadapter.html"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Wilson Antenna",
+   "htmlTitle": "\u003cb\u003eWilson Antenna\u003c/b\u003e",
+   "link": "http://radioproshop.com/wilson/wilson.htm",
+   "displayLink": "radioproshop.com",
+   "snippet": "\"Wilson Antenna is, in my opinion, is one of the finest manufacturers of antennas I   have ever seen. I can tell you from personal experience. Although it may be a ...",
+   "htmlSnippet": "&quot;\u003cb\u003eWilson Antenna\u003c/b\u003e is, in my opinion, is one of the finest manufacturers of antennas I \u003cbr\u003e  have ever seen. I can tell you from personal experience. Although it may be a \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "C-tRuJkHrSkJ",
+   "formattedUrl": "radioproshop.com/wilson/wilson.htm",
+   "htmlFormattedUrl": "radioproshop.com/\u003cb\u003ewilson\u003c/b\u003e/\u003cb\u003ewilson\u003c/b\u003e.htm",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://radioproshop.com/wilson/images/P2000t.jpg",
+      "type": "1",
+      "width": "183",
+      "height": "275"
+     }
+    ],
+    "metatags": [
+     {
+      "formatter": "Microsoft FrontPage 2.0"
+     }
+    ]
+   }
+  }
+ ]
+}

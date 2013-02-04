@@ -1,0 +1,321 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "nextPage": [
+   {
+    "title": "Google Custom Search - rick warren",
+    "totalResults": "12800000",
+    "searchTerms": "rick warren",
+    "count": 10,
+    "startIndex": 31,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "017401104989814545383:mf4lavmtuva"
+   }
+  ],
+  "request": [
+   {
+    "title": "Google Custom Search - rick warren",
+    "totalResults": "12800000",
+    "searchTerms": "rick warren",
+    "count": 10,
+    "startIndex": 21,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "017401104989814545383:mf4lavmtuva"
+   }
+  ],
+  "previousPage": [
+   {
+    "title": "Google Custom Search - rick warren",
+    "totalResults": "12800000",
+    "searchTerms": "rick warren",
+    "count": 10,
+    "startIndex": 11,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "017401104989814545383:mf4lavmtuva"
+   }
+  ]
+ },
+ "context": {
+  "title": "College MetaSearch Comparison"
+ },
+ "searchInformation": {
+  "searchTime": 0.115477,
+  "formattedSearchTime": "0.12",
+  "totalResults": "12800000",
+  "formattedTotalResults": "12,800,000"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "The Purpose Driven Life - Wikipedia, the free encyclopedia",
+   "htmlTitle": "The Purpose Driven Life - Wikipedia, the free encyclopedia",
+   "link": "http://en.wikipedia.org/wiki/The_Purpose_Driven_Life",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "The Purpose Driven Life (2002) is a devotional book written by Christian author   Rick Warren and published by Zondervan. The book has been on the New York ...",
+   "htmlSnippet": "The Purpose Driven Life (2002) is a devotional book written by Christian author \u003cbr\u003e  \u003cb\u003eRick Warren\u003c/b\u003e and published by Zondervan. The book has been on the New York \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "vo7qzM4RIEEJ",
+   "formattedUrl": "en.wikipedia.org/wiki/The_Purpose_Driven_Life",
+   "htmlFormattedUrl": "en.wikipedia.org/wiki/The_Purpose_Driven_Life",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://upload.wikimedia.org/wikipedia/en/2/25/Pupose.jpg",
+      "type": "1",
+      "width": "125",
+      "height": "159"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "The Future of Evangelicals: A Conversation with Pastor Rick Warren ...",
+   "htmlTitle": "The Future of Evangelicals: A Conversation with Pastor \u003cb\u003eRick Warren\u003c/b\u003e \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://www.pewforum.org/Christian/Evangelical-Protestant-Churches/The-Future-of-Evangelicals-A-Conversation-with-Pastor-Rick-Warren.aspx",
+   "displayLink": "www.pewforum.org",
+   "snippet": "Nov 13, 2009 ... The evangelical Christian movement historically has been defined by its   members' distinctive doctrinal standards and practices. Yet in recent ...",
+   "htmlSnippet": "Nov 13, 2009 \u003cb\u003e...\u003c/b\u003e The evangelical Christian movement historically has been defined by its \u003cbr\u003e  members&#39; distinctive doctrinal standards and practices. Yet in recent \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "gmEfaW8zzhIJ",
+   "formattedUrl": "www.pewforum.org/.../The-Future-of-Evangelicals-A-Conversation-with- Pastor-Rick-Warren.aspx",
+   "htmlFormattedUrl": "www.pewforum.org/.../The-Future-of-Evangelicals-A-Conversation-with- Pastor-\u003cb\u003eRick\u003c/b\u003e-\u003cb\u003eWarren\u003c/b\u003e.aspx",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.pewforum.org/uploadedImages/Topics/Religious_Affiliation/Christian/Evangelical_Protestant_Churches/warren0(1).jpg",
+      "type": "1",
+      "width": "240",
+      "height": "160"
+     }
+    ],
+    "metatags": [
+     {
+      "date": "11/13/2009"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "The Purpose Driven® Life: What on Earth Am I Here For?",
+   "htmlTitle": "The Purpose Driven® Life: What on Earth Am I Here For?",
+   "link": "http://www.amazon.com/The-Purpose-Driven%C2%AE-Life-Earth/dp/0310276993",
+   "displayLink": "www.amazon.com",
+   "snippet": "[Rick Warren] on Amazon.com. ... Rick Warren will guide you through a personal   forty-day spiritual journey that will transform your answer to life's most important ...",
+   "htmlSnippet": "[\u003cb\u003eRick Warren\u003c/b\u003e] on Amazon.com. \u003cb\u003e...\u003c/b\u003e \u003cb\u003eRick Warren\u003c/b\u003e will guide you through a personal \u003cbr\u003e  forty-day spiritual journey that will transform your answer to life&#39;s most important \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "6Zglc5pUrg4J",
+   "formattedUrl": "www.amazon.com/The-Purpose-Driven®-Life.../dp/0310276993",
+   "htmlFormattedUrl": "www.amazon.com/The-Purpose-Driven®-Life.../dp/0310276993",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://ecx.images-amazon.com/images/I/51DvjiOUaOL._BO2,204,203,200_PIsitb-sticker-arrow-click,TopRight,35,-76_AA300_SH20_OU01_.jpg"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "225",
+      "height": "225",
+      "src": "https://encrypted-tbn0.google.com/images?q=tbn:ANd9GcRV_ssqsW1Qj3F-3-kJjrWmTx9pK9_pu2PiMTMFu6DfcPpGvDYWVDUdt8Sd"
+     }
+    ],
+    "scraped": [
+     {
+      "image_link": "http://ecx.images-amazon.com/images/I/51DvjiOUaOL._BO2,204,203,200_PIsitb-sticker-arrow-click,TopRight,35,-76_AA300_SH20_OU01_.jpg"
+     }
+    ],
+    "metatags": [
+     {
+      "title": "Amazon.com: The Purpose Driven® Life: What on Earth Am I Here For? (9780310276999): Rick Warren: Books"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "ONLINE NEWSROOM: Rick Warren",
+   "htmlTitle": "ONLINE NEWSROOM: \u003cb\u003eRick Warren\u003c/b\u003e",
+   "link": "http://www.rickwarrennews.com/",
+   "displayLink": "www.rickwarrennews.com",
+   "snippet": "Pastor Rick and Kay Warren are founders and leaders of Saddleback Valley   Community Church, a megachurch located in Lake Forest, Calif., with an average ...",
+   "htmlSnippet": "Pastor \u003cb\u003eRick\u003c/b\u003e and Kay \u003cb\u003eWarren\u003c/b\u003e are founders and leaders of Saddleback Valley \u003cbr\u003e  Community Church, a megachurch located in Lake Forest, Calif., with an average \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "x3yo3_iHWUsJ",
+   "formattedUrl": "www.rickwarrennews.com/",
+   "htmlFormattedUrl": "www.\u003cb\u003erickwarren\u003c/b\u003enews.com/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.rickwarrennews.com/graphics/homepage2.jpg",
+      "type": "1",
+      "width": "285",
+      "height": "177"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Rick Warren Purpose of Christmas Interview - Beliefnet.com",
+   "htmlTitle": "\u003cb\u003eRick Warren\u003c/b\u003e Purpose of Christmas Interview - Beliefnet.com",
+   "link": "http://www.beliefnet.com/News/2008/12/Rick-Warren-Transcript.aspx?p=7",
+   "displayLink": "www.beliefnet.com",
+   "snippet": "Beliefnet founder and CEO Steve Waldman asks Rick Warren, \"What is the   purpose of Christmas?\"",
+   "htmlSnippet": "Beliefnet founder and CEO Steve Waldman asks \u003cb\u003eRick Warren\u003c/b\u003e, &quot;What is the \u003cbr\u003e  purpose of Christmas?&quot;",
+   "cacheId": "DSdkeBruHF4J",
+   "formattedUrl": "www.beliefnet.com/News/2008/12/Rick-Warren-Transcript.aspx?p...",
+   "htmlFormattedUrl": "www.beliefnet.com/News/2008/12/\u003cb\u003eRick\u003c/b\u003e-\u003cb\u003eWarren\u003c/b\u003e-Transcript.aspx?p...",
+   "pagemap": {
+    "metatags": [
+     {
+      "sailthru.date": "Thu, 19 Jul 2012 9:30:56 -0400",
+      "sailthru.title": "Steven Waldman Interviews Rick Warren",
+      "sailthru.image.full": "http://www.beliefnet.com/~/media/5F9A77E1AAC041CAB77AB9111ABD426A.ashx?h=400&w=300&format=png&bg=00000000",
+      "sailthru.image.thumb": "http://www.beliefnet.com/~/media/5F9A77E1AAC041CAB77AB9111ABD426A.ashx?h=50&w=50&format=png&bg=00000000",
+      "fb:app_id": "273373249405665",
+      "aol-te-auth": "6e5c698f-be93-4d0d-ba67-6d5ea379cfac"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Pastors - John Piper Interviews Rick Warren",
+   "htmlTitle": "Pastors - John Piper Interviews \u003cb\u003eRick Warren\u003c/b\u003e",
+   "link": "http://blog.pastors.com/piperinterview/",
+   "displayLink": "blog.pastors.com",
+   "snippet": "Respected author and speaker John Piper interviews Rick Warren, Senior Pastor   of Saddleback Church. Piper asks Warren direct and relevant questions about ...",
+   "htmlSnippet": "Respected author and speaker John Piper interviews \u003cb\u003eRick Warren\u003c/b\u003e, Senior Pastor \u003cbr\u003e  of Saddleback Church. Piper asks Warren direct and relevant questions about \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "YjBPb_kysXQJ",
+   "formattedUrl": "blog.pastors.com/piperinterview/",
+   "htmlFormattedUrl": "blog.pastors.com/piperinterview/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://blog.pastors.com/site/provider/siteprovider/pastors.com/piperwarreninterview/video-splash.jpg",
+      "type": "1",
+      "width": "300",
+      "height": "168"
+     }
+    ],
+    "metatags": [
+     {
+      "cache": "7/19/2012 11:15:01 PM",
+      "s": "1",
+      "url": "http://blog.pastors.com/piperinterview.html",
+      "title": "John Piper Interviews Pastor Rick Warren"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Saddleback Resources - Rick Warren's Sermons, Christian Book ...",
+   "htmlTitle": "Saddleback Resources - \u003cb\u003eRick Warren&#39;s\u003c/b\u003e Sermons, Christian Book \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://www.saddlebackresources.com/",
+   "displayLink": "www.saddlebackresources.com",
+   "snippet": "The Official Saddleback Resources website, featuring sermon downloads from   Pastor Rick Warren, Christian books, small group study & Celebrate Recovery ...",
+   "htmlSnippet": "The Official Saddleback Resources website, featuring sermon downloads from \u003cbr\u003e  Pastor \u003cb\u003eRick Warren\u003c/b\u003e, Christian books, small group study &amp; Celebrate Recovery \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "4XK5zN03r8gJ",
+   "formattedUrl": "www.saddlebackresources.com/",
+   "htmlFormattedUrl": "www.saddlebackresources.com/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.saddlebackresources.com/VideoLightboxProgram/videos/homePastorRickExplains40.png",
+      "type": "1",
+      "width": "278",
+      "height": "156"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Rick Warren builds bridge to Muslims | muslims, warren, saddleback ...",
+   "htmlTitle": "\u003cb\u003eRick Warren\u003c/b\u003e builds bridge to Muslims | muslims, warren, saddleback \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://www.ocregister.com/articles/muslims-341669-warren-saddleback.html",
+   "displayLink": "www.ocregister.com",
+   "snippet": "Feb 23, 2012 ... Rick Warren, center, and his wife, Kate, pose for a photo with a crowd during the   grand opening of the PEACE Center at Saddleback Church in ...",
+   "htmlSnippet": "Feb 23, 2012 \u003cb\u003e...\u003c/b\u003e \u003cb\u003eRick Warren\u003c/b\u003e, center, and his wife, Kate, pose for a photo with a crowd during the \u003cbr\u003e  grand opening of the PEACE Center at Saddleback Church in \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "SK9WPibkIp0J",
+   "formattedUrl": "www.ocregister.com/.../muslims-341669-warren-saddleback.html",
+   "htmlFormattedUrl": "www.ocregister.com/.../muslims-341669-\u003cb\u003ewarren\u003c/b\u003e-saddleback.html",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://images.onset.freedom.com/ocregister/thumb/lzve3b-b78915414z.120120223154436000gnm15j8eu.2.jpg",
+      "type": "1",
+      "width": "89",
+      "height": "66"
+     }
+    ],
+    "metatags": [
+     {
+      "publication_date": "2012-02-23",
+      "content_type": "article",
+      "content_title": "Rick Warren builds bridge to Muslims",
+      "og:title": "Rick Warren builds bridge to Muslims",
+      "og:type": "article",
+      "og:image": "http://images.onset.freedom.com/ocregister/thumb/lzve3b-b78915414z.120120223154436000gnm15j8eu.2.jpg",
+      "og:url": "http://www.ocregister.com/articles/muslims-341669-warren-saddleback.html",
+      "og:site_name": "The Orange County Register",
+      "content_author": "JIM HINCH",
+      "content_section": "undef",
+      "fb:app_id": "107698536003308",
+      "geo.placename": "Santa Ana",
+      "geo.region": "US-CA",
+      "icbm": "33.745573, -117.867834",
+      "geo.position": "33.745573;-117.867834",
+      "content_thumbnail": "http://images.onset.freedom.com/ocregister/thumb/lzve3b-b78915414z.120120223154436000gnm15j8eu.2.jpg"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Rick Warren on reverse tithing",
+   "htmlTitle": "\u003cb\u003eRick Warren\u003c/b\u003e on reverse tithing",
+   "link": "http://www.beliefnet.com/Faiths/Christianity/2005/10/Rick-Warrens-Second-Reformation.aspx?p=2",
+   "displayLink": "www.beliefnet.com",
+   "snippet": "The first reformation of the church was about creeds. The next will be about   deeds, says the purpose-driven pastor.",
+   "htmlSnippet": "The first reformation of the church was about creeds. The next will be about \u003cbr\u003e  deeds, says the purpose-driven pastor.",
+   "cacheId": "DUlMl1N3VfwJ",
+   "formattedUrl": "www.beliefnet.com/.../Rick-Warrens-Second-Reformation.aspx?p=2",
+   "htmlFormattedUrl": "www.beliefnet.com/.../\u003cb\u003eRick\u003c/b\u003e-\u003cb\u003eWarrens\u003c/b\u003e-Second-Reformation.aspx?p=2",
+   "pagemap": {
+    "metatags": [
+     {
+      "sailthru.date": "Thu, 27 Oct 2011 19:17:46 -0400",
+      "sailthru.title": "Rick Warren's Second Reformation",
+      "sailthru.tags": "Faiths",
+      "sailthru.image.full": "http://www.beliefnet.com/~/media/5F9A77E1AAC041CAB77AB9111ABD426A.ashx?h=400&w=300&format=png&bg=00000000",
+      "sailthru.image.thumb": "http://www.beliefnet.com/~/media/5F9A77E1AAC041CAB77AB9111ABD426A.ashx?h=50&w=50&format=png&bg=00000000",
+      "fb:app_id": "273373249405665",
+      "aol-te-auth": "6e5c698f-be93-4d0d-ba67-6d5ea379cfac"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "WILL SUCCESS SPOIL RICK WARREN? - October 31, 2005",
+   "htmlTitle": "WILL SUCCESS SPOIL \u003cb\u003eRICK WARREN\u003c/b\u003e? - October 31, 2005",
+   "link": "http://money.cnn.com/magazines/fortune/fortune_archive/2005/10/31/8359189/index.htm",
+   "displayLink": "money.cnn.com",
+   "snippet": "Oct 31, 2005 ... (FORTUNE Magazine) – After Hurricane Katrina hit, Rick Warren was one busy   pastor. He traveled to Houston to preach to 8000 evacuees in ...",
+   "htmlSnippet": "Oct 31, 2005 \u003cb\u003e...\u003c/b\u003e (FORTUNE Magazine) – After Hurricane Katrina hit, \u003cb\u003eRick Warren\u003c/b\u003e was one busy \u003cbr\u003e  pastor. He traveled to Houston to preach to 8000 evacuees in \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "dl_JgTf5-lUJ",
+   "formattedUrl": "money.cnn.com/magazines/fortune/fortune_archive/.../index.htm",
+   "htmlFormattedUrl": "money.cnn.com/magazines/fortune/fortune_archive/.../index.htm"
+  }
+ ]
+}

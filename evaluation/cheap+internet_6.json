@@ -1,0 +1,332 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "nextPage": [
+   {
+    "title": "Google Custom Search - cheap internet",
+    "totalResults": "116000000",
+    "searchTerms": "cheap internet",
+    "count": 10,
+    "startIndex": 71,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "017401104989814545383:mf4lavmtuva"
+   }
+  ],
+  "request": [
+   {
+    "title": "Google Custom Search - cheap internet",
+    "totalResults": "116000000",
+    "searchTerms": "cheap internet",
+    "count": 10,
+    "startIndex": 61,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "017401104989814545383:mf4lavmtuva"
+   }
+  ],
+  "previousPage": [
+   {
+    "title": "Google Custom Search - cheap internet",
+    "totalResults": "116000000",
+    "searchTerms": "cheap internet",
+    "count": 10,
+    "startIndex": 51,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "017401104989814545383:mf4lavmtuva"
+   }
+  ]
+ },
+ "context": {
+  "title": "College MetaSearch Comparison"
+ },
+ "searchInformation": {
+  "searchTime": 0.18453,
+  "formattedSearchTime": "0.18",
+  "totalResults": "116000000",
+  "formattedTotalResults": "116,000,000"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "Cheap Colorado High Speed Internet Service - Cheap CO ...",
+   "htmlTitle": "\u003cb\u003eCheap\u003c/b\u003e Colorado High Speed \u003cb\u003eInternet\u003c/b\u003e Service - \u003cb\u003eCheap\u003c/b\u003e CO \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://isp1.us/state/colorado/",
+   "displayLink": "isp1.us",
+   "snippet": "Compare Cheap Colorado High Speed Broadband Internet service providers.   Our discount prices are the lowest you'll find in Colorado. ISP 1 compares ...",
+   "htmlSnippet": "Compare \u003cb\u003eCheap\u003c/b\u003e Colorado High Speed Broadband \u003cb\u003eInternet\u003c/b\u003e service providers. \u003cbr\u003e  Our discount prices are the lowest you&#39;ll find in Colorado. ISP 1 compares \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "HFB1C5SGkL4J",
+   "formattedUrl": "isp1.us/state/colorado/",
+   "htmlFormattedUrl": "isp1.us/state/colorado/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://isp1.us/img/s-co-f.gif",
+      "type": "1",
+      "width": "120",
+      "height": "64"
+     }
+    ],
+    "metatags": [
+     {
+      "classification": "Colorado High Speed Internet Service Provider CO DSL ISP",
+      "date": "2012-16-06"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Cheap Internet Phone Calls",
+   "htmlTitle": "\u003cb\u003eCheap Internet\u003c/b\u003e Phone Calls",
+   "link": "http://www.debthelp.tv/cheap-internet-phone-calls.htm",
+   "displayLink": "www.debthelp.tv",
+   "snippet": "Cheap Internet Phone Calls with VOIP - www.DebtHelp.tv article.",
+   "htmlSnippet": "\u003cb\u003eCheap Internet\u003c/b\u003e Phone Calls with VOIP - www.DebtHelp.tv article.",
+   "cacheId": "P6AoynkYSaAJ",
+   "formattedUrl": "www.debthelp.tv/cheap-internet-phone-calls.htm",
+   "htmlFormattedUrl": "www.debthelp.tv/\u003cb\u003echeap\u003c/b\u003e-\u003cb\u003einternet\u003c/b\u003e-phone-calls.htm"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Cheap Indiana High Speed Internet Service - Cheap IN Broadband ...",
+   "htmlTitle": "\u003cb\u003eCheap\u003c/b\u003e Indiana High Speed \u003cb\u003eInternet\u003c/b\u003e Service - \u003cb\u003eCheap\u003c/b\u003e IN Broadband \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://isp1.us/state/indiana/",
+   "displayLink": "isp1.us",
+   "snippet": "Compare Cheap Indiana High Speed Broadband Internet service providers. Our   discount prices are the lowest you'll find in Indiana. ISP 1 compares Broadband ...",
+   "htmlSnippet": "Compare \u003cb\u003eCheap\u003c/b\u003e Indiana High Speed Broadband \u003cb\u003eInternet\u003c/b\u003e service providers. Our \u003cbr\u003e  discount prices are the lowest you&#39;ll find in Indiana. ISP 1 compares Broadband \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "PtWJNsbMHZAJ",
+   "formattedUrl": "isp1.us/state/indiana/",
+   "htmlFormattedUrl": "isp1.us/state/indiana/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://isp1.us/img/s-in-f.gif",
+      "type": "1",
+      "width": "120",
+      "height": "64"
+     }
+    ],
+    "metatags": [
+     {
+      "classification": "Indiana High Speed Internet Service Provider IN DSL ISP",
+      "date": "2012-16-06"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Cheap Wireless Internet Providers",
+   "htmlTitle": "\u003cb\u003eCheap\u003c/b\u003e Wireless \u003cb\u003eInternet\u003c/b\u003e Providers",
+   "link": "http://www.wirelessinternetproviders.net/cheap-wireless-internet-providers",
+   "displayLink": "www.wirelessinternetproviders.net",
+   "snippet": "Looking for cheap wireless internet providers? Compare different options   available in your area to find a plan that works for you.",
+   "htmlSnippet": "Looking for \u003cb\u003echeap\u003c/b\u003e wireless \u003cb\u003einternet\u003c/b\u003e providers? Compare different options \u003cbr\u003e  available in your area to find a plan that works for you.",
+   "cacheId": "hB0ScbSpP3kJ",
+   "formattedUrl": "www.wirelessinternetproviders.net/cheap-wireless-internet-providers",
+   "htmlFormattedUrl": "www.wireless\u003cb\u003einternet\u003c/b\u003eproviders.net/\u003cb\u003echeap\u003c/b\u003e-wireless-\u003cb\u003einternet\u003c/b\u003e-providers",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.wirelessinternetproviders.net/images/laptop-small.png",
+      "type": "1",
+      "width": "200",
+      "height": "167"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Cheap Utah High Speed Internet Service - Cheap UT Broadband ...",
+   "htmlTitle": "\u003cb\u003eCheap\u003c/b\u003e Utah High Speed \u003cb\u003eInternet\u003c/b\u003e Service - \u003cb\u003eCheap\u003c/b\u003e UT Broadband \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://isp1.us/state/utah/",
+   "displayLink": "isp1.us",
+   "snippet": "Compare Cheap Utah High Speed Broadband Internet service providers. Our   discount prices are the lowest you'll find in Utah. ISP 1 compares Broadband DSL ...",
+   "htmlSnippet": "Compare \u003cb\u003eCheap\u003c/b\u003e Utah High Speed Broadband \u003cb\u003eInternet\u003c/b\u003e service providers. Our \u003cbr\u003e  discount prices are the lowest you&#39;ll find in Utah. ISP 1 compares Broadband DSL \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "A1Y5SJ69W2IJ",
+   "formattedUrl": "isp1.us/state/utah/",
+   "htmlFormattedUrl": "isp1.us/state/utah/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://isp1.us/img/s-ut-f.gif",
+      "type": "1",
+      "width": "120",
+      "height": "64"
+     }
+    ],
+    "metatags": [
+     {
+      "classification": "Utah High Speed Internet Service Provider UT DSL ISP",
+      "date": "2012-15-01"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Boston and Comcast Strike Deal for Cheap Internet Services",
+   "htmlTitle": "Boston and Comcast Strike Deal for \u003cb\u003eCheap Internet\u003c/b\u003e Services",
+   "link": "http://www.govtech.com/e-government/Boston-Comcast-Internet-Deal-022211.html",
+   "displayLink": "www.govtech.com",
+   "snippet": "Feb 22, 2011 ... Low-income residents to receive low-cost broadband Internet.",
+   "htmlSnippet": "Feb 22, 2011 \u003cb\u003e...\u003c/b\u003e Low-income residents to receive low-cost broadband \u003cb\u003eInternet\u003c/b\u003e.",
+   "cacheId": "SfhVS0ZTtMMJ",
+   "formattedUrl": "www.govtech.com/e.../Boston-Comcast-Internet-Deal-022211.html",
+   "htmlFormattedUrl": "www.govtech.com/e.../Boston-Comcast-\u003cb\u003eInternet\u003c/b\u003e-Deal-022211.html",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://media2.govtech.com/images/boston+common.jpg",
+      "type": "1",
+      "width": "349",
+      "height": "144"
+     }
+    ],
+    "metatags": [
+     {
+      "wss": "E-Government",
+      "wssurl": "http://www.govtech.com/e-government",
+      "contenttype": "GT Article",
+      "authors": "[]",
+      "pubdate": "2011-02-22"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Cheap Florida High Speed Internet Service - Cheap FL Broadband ...",
+   "htmlTitle": "\u003cb\u003eCheap\u003c/b\u003e Florida High Speed \u003cb\u003eInternet\u003c/b\u003e Service - \u003cb\u003eCheap\u003c/b\u003e FL Broadband \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://isp1.us/state/florida/",
+   "displayLink": "isp1.us",
+   "snippet": "Compare Cheap Florida High Speed Broadband Internet service providers. Our   discount prices are the lowest you'll find in Florida. ISP 1 compares Broadband ...",
+   "htmlSnippet": "Compare \u003cb\u003eCheap\u003c/b\u003e Florida High Speed Broadband \u003cb\u003eInternet\u003c/b\u003e service providers. Our \u003cbr\u003e  discount prices are the lowest you&#39;ll find in Florida. ISP 1 compares Broadband \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "96kRLGoRVYoJ",
+   "formattedUrl": "isp1.us/state/florida/",
+   "htmlFormattedUrl": "isp1.us/state/florida/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://isp1.us/img/s-fl-f.gif",
+      "type": "1",
+      "width": "120",
+      "height": "64"
+     }
+    ],
+    "metatags": [
+     {
+      "classification": "Florida High Speed Internet Service Provider FL DSL ISP",
+      "date": "2012-16-06"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "CHEAP INTERNET PROVIDER for laptop - CNET Miscellaneous ...",
+   "htmlTitle": "\u003cb\u003eCHEAP INTERNET\u003c/b\u003e PROVIDER for laptop - CNET Miscellaneous \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://forums.cnet.com/7723-21579_102-561623/cheap-internet-provider-for-laptop/",
+   "displayLink": "forums.cnet.com",
+   "snippet": "Miscellaneous laptop discussions: CHEAP INTERNET PROVIDER for laptop -   Read laptop discussions and get tips and advice on this topic ...",
+   "htmlSnippet": "Miscellaneous laptop discussions: \u003cb\u003eCHEAP INTERNET\u003c/b\u003e PROVIDER for laptop - \u003cbr\u003e  Read laptop discussions and get tips and advice on this topic \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "-6vkaERgkdMJ",
+   "formattedUrl": "forums.cnet.com/7723-21579.../cheap-internet-provider-for-laptop/",
+   "htmlFormattedUrl": "forums.cnet.com/7723-21579.../\u003cb\u003echeap\u003c/b\u003e-\u003cb\u003einternet\u003c/b\u003e-provider-for-laptop/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://i.i.com.com/cnwk.1d/i/tron/oreo/logo/CNET-60x60.png"
+     }
+    ],
+    "metatags": [
+     {
+      "fb:app_id": "16995676698",
+      "fb:admins": "100001036810388",
+      "og:site_name": "CNET",
+      "og:image": "http://i.i.com.com/cnwk.1d/i/tron/oreo/logo/CNET-60x60.png"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Cheap Massachusetts High Speed Internet Service - Cheap MA ...",
+   "htmlTitle": "\u003cb\u003eCheap\u003c/b\u003e Massachusetts High Speed \u003cb\u003eInternet\u003c/b\u003e Service - \u003cb\u003eCheap\u003c/b\u003e MA \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://isp1.us/state/massachusetts/",
+   "displayLink": "isp1.us",
+   "snippet": "Compare Cheap Massachusetts High Speed Broadband Internet service   providers. Our discount prices are the lowest you'll find in Massachusetts.",
+   "htmlSnippet": "Compare \u003cb\u003eCheap\u003c/b\u003e Massachusetts High Speed Broadband \u003cb\u003eInternet\u003c/b\u003e service \u003cbr\u003e  providers. Our discount prices are the lowest you&#39;ll find in Massachusetts.",
+   "cacheId": "8LDIiP666rkJ",
+   "formattedUrl": "isp1.us/state/massachusetts/",
+   "htmlFormattedUrl": "isp1.us/state/massachusetts/",
+   "pagemap": {
+    "metatags": [
+     {
+      "classification": "Massachusetts High Speed Internet Service Provider MA DSL ISP",
+      "date": "2012-16-06"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Comcast Offering Cheap Internet to Needy Families | NBC 6 South ...",
+   "htmlTitle": "Comcast Offering \u003cb\u003eCheap Internet\u003c/b\u003e to Needy Families | NBC 6 South \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://www.nbcmiami.com/news/local/Comcast-Offering-Cheap-Internet-to-Needy-Families-126774688.html",
+   "displayLink": "www.nbcmiami.com",
+   "snippet": "Aug 4, 2011 ... Initiative will help South Florida families bridge digital divide.",
+   "htmlSnippet": "Aug 4, 2011 \u003cb\u003e...\u003c/b\u003e Initiative will help South Florida families bridge digital divide.",
+   "cacheId": "MVm-vNuR5FsJ",
+   "formattedUrl": "www.nbcmiami.com/.../Comcast-Offering-Cheap-Internet-to-Needy-Families- 126774688.html",
+   "htmlFormattedUrl": "www.nbcmiami.com/.../Comcast-Offering-\u003cb\u003eCheap\u003c/b\u003e-\u003cb\u003eInternet\u003c/b\u003e-to-Needy-Families- 126774688.html",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://media.nbcmiami.com/images/133*75/080411+kid+at+computer+generic.jpg"
+     }
+    ],
+    "newsarticle": [
+     {
+      "headline": "Comcast Offering Cheap Internet to Needy Families",
+      "about": "Initiative will help South Florida families bridge digital divide",
+      "datemodified": "Thursday, Aug 4, 2011 | Updated 6:41 PM EDT",
+      "thumbnailurl": "http://media.nbcmiami.com/images/654*491/PHI+comcast+closer+to+nbc+deal.jpg",
+      "articlebody": "advertisement A new initiative that is designed to help low-income South Florida families bridge the digital divide was unveiled Thursday morning by local officials and Comcast executives...."
+     }
+    ],
+    "metatags": [
+     {
+      "viewport": "width=device-width, user-scalable=yes, maximum-scale=1.0",
+      "fb:app_id": "91295312088",
+      "og:type": "article",
+      "og:site_name": "NBC 6 South Florida",
+      "og:description": "Initiative will help South Florida families bridge digital divide.",
+      "og:title": "Comcast Offering Cheap Internet to Needy Families",
+      "og:url": "http://www.nbcmiami.com/news/local/Comcast-Offering-Cheap-Internet-to-Needy-Families-126774688.html",
+      "og:image": "http://media.nbcmiami.com/images/133*75/080411+kid+at+computer+generic.jpg",
+      "tp:preferredruntimes": "Flash,HTML5",
+      "tp:preferredformats": "mpeg4,webm,ogg,flv,F4M",
+      "title": "Comcast Offering Cheap Internet to Needy Families"
+     }
+    ],
+    "breadcrumb": [
+     {
+      "url": "home",
+      "title": "home"
+     }
+    ]
+   }
+  }
+ ]
+}

@@ -1,0 +1,460 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "nextPage": [
+   {
+    "title": "Google Custom Search - disneyland hotel",
+    "totalResults": "6620000",
+    "searchTerms": "disneyland hotel",
+    "count": 10,
+    "startIndex": 21,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "017401104989814545383:mf4lavmtuva"
+   }
+  ],
+  "request": [
+   {
+    "title": "Google Custom Search - disneyland hotel",
+    "totalResults": "6620000",
+    "searchTerms": "disneyland hotel",
+    "count": 10,
+    "startIndex": 11,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "017401104989814545383:mf4lavmtuva"
+   }
+  ],
+  "previousPage": [
+   {
+    "title": "Google Custom Search - disneyland hotel",
+    "totalResults": "6620000",
+    "searchTerms": "disneyland hotel",
+    "count": 10,
+    "startIndex": 1,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "017401104989814545383:mf4lavmtuva"
+   }
+  ]
+ },
+ "context": {
+  "title": "College MetaSearch Comparison"
+ },
+ "searchInformation": {
+  "searchTime": 0.280007,
+  "formattedSearchTime": "0.28",
+  "totalResults": "6620000",
+  "formattedTotalResults": "6,620,000"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "Disneyland Hotel - Anaheim, California - Yahoo! Travel",
+   "htmlTitle": "\u003cb\u003eDisneyland Hotel\u003c/b\u003e - Anaheim, California - Yahoo! Travel",
+   "link": "http://travel.yahoo.com/p-hotel-322017-disneyland_hotel-i",
+   "displayLink": "travel.yahoo.com",
+   "snippet": "Disneyland Hotel, Anaheim - find the best deals, reviews, photos, rates, and   availability on Yahoo! Travel.",
+   "htmlSnippet": "\u003cb\u003eDisneyland Hotel\u003c/b\u003e, Anaheim - find the best deals, reviews, photos, rates, and \u003cbr\u003e  availability on Yahoo! Travel.",
+   "cacheId": "2m48er01USYJ",
+   "formattedUrl": "travel.yahoo.com/p-hotel-322017-disneyland_hotel-i",
+   "htmlFormattedUrl": "travel.yahoo.com/p-\u003cb\u003ehotel\u003c/b\u003e-322017-\u003cb\u003edisneyland\u003c/b\u003e_\u003cb\u003ehotel\u003c/b\u003e-i",
+   "pagemap": {
+    "Review-aggregate": [
+     {
+      "itemreviewed": "Disneyland Hotel",
+      "count": "69"
+     }
+    ],
+    "Review": [
+     {
+      "itemreviewed": "Disneyland Hotel",
+      "rating": "2",
+      "summary": "Dirtyland Hotel",
+      "reviewer": "A Yahoo! Contributor",
+      "dtreviewed": "2010-07-07",
+      "description": "Very disgusted. Rooms are bigger at Motel 6. Our room hadn't been vacumed and there was candy and cereal on the floor. A pair of dirty socks greeted us just inside the door. There was used..."
+     },
+     {
+      "itemreviewed": "Disneyland Hotel",
+      "rating": "3",
+      "summary": "It was 'ok'.",
+      "reviewer": "David",
+      "dtreviewed": "2010-03-21",
+      "description": "My son and I stayed at the Disneyland hotel in January and it was ok. Overall I was unimpressed. You pay a fortune just to be close to the parks compared to the shuttle hotels within a mile..."
+     },
+     {
+      "itemreviewed": "Disneyland Hotel",
+      "rating": "5",
+      "summary": "A meaningfull and needed Vacation.",
+      "reviewer": "A Yahoo! Contributor",
+      "dtreviewed": "2010-02-24",
+      "description": "The focus of our trip was for my daughters 6th birthday, but came back home with much more memories and with a clear mind.I was diagnosed with an overactive parathyroid and needed surgury but..."
+     },
+     {
+      "itemreviewed": "Disneyland Hotel",
+      "rating": "1",
+      "summary": "disappointed!!",
+      "reviewer": "A Yahoo! Contributor",
+      "dtreviewed": "2009-06-13",
+      "description": "We arrived at the hotel at 3:30pm. Room was not ready. So much for the 3:00pm check in. The carpet was very dirty. We had use our slippers in the room. The bathroom is very small, dirty and..."
+     },
+     {
+      "itemreviewed": "Disneyland Hotel",
+      "rating": "1",
+      "summary": "DO NOT WASTE YOUR MONEY",
+      "reviewer": "A Yahoo! Contributor",
+      "dtreviewed": "2009-06-10",
+      "description": "We have stayed at several of the hotels including the Disneyland Hotel and the Grand. The service level at all these hotels have declined SHARPLY. Utilizing Guest Services, Guest Communications..."
+     },
+     {
+      "itemreviewed": "Disneyland Hotel",
+      "rating": "2",
+      "summary": "just okay...",
+      "reviewer": "Ashley",
+      "dtreviewed": "2009-05-25",
+      "description": "I was REALLY excited about staying at the disneyland hotel, I had previously stayed at the paradise pier and was really impressed and I figured since the Disneyland hotel was $100 more each..."
+     },
+     {
+      "itemreviewed": "Disneyland Hotel",
+      "rating": "2",
+      "summary": "Disappointmentland",
+      "reviewer": "hammer",
+      "dtreviewed": "2009-04-24",
+      "description": "Nothing to set it apart from the cheaper hotels as close to the park entrances. Smelled bad, room was dirty and worn out, noisy, power outage, and the staff (except for woman in gift shop)..."
+     },
+     {
+      "itemreviewed": "Disneyland Hotel",
+      "rating": "5",
+      "summary": "LOVED Mickey Character Quarters!",
+      "reviewer": "Janell",
+      "dtreviewed": "2009-04-06",
+      "description": "We booked a double queen room with the connecting Mickey room for the kids and LOVED it!! The Mickey room was fabulous! The standard room alone would have fit all of us, with one kid on the..."
+     },
+     {
+      "itemreviewed": "Disneyland Hotel",
+      "rating": "2",
+      "summary": "wont go back",
+      "reviewer": "MikeS",
+      "dtreviewed": "2009-02-25",
+      "description": "We only stayed one night but got right into our room at 10 am and it was gross didnt like it at all I will only stay at the Grand from now on. The grounds were cool at the disney hotel and..."
+     }
+    ],
+    "review": [
+     {
+      "ratingstars": "4.0",
+      "ratingcount": "69"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Disneyland Hotels in Anaheim, California | Book a Cheap Hotel near ...",
+   "htmlTitle": "\u003cb\u003eDisneyland Hotels\u003c/b\u003e in Anaheim, California | Book a Cheap Hotel near \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://www.travelhero.com/destinations/park.cfm/parkname/DISNEYLAND/index.html",
+   "displayLink": "www.travelhero.com",
+   "snippet": "50 Hotels ... When you travel to Anaheim, California, it's important to find a Disneyland area   hotel to make getting to and from the park simple. We help you find ...",
+   "htmlSnippet": "50 Hotels \u003cb\u003e...\u003c/b\u003e When you travel to Anaheim, California, it&#39;s important to find a \u003cb\u003eDisneyland\u003c/b\u003e area \u003cbr\u003e  \u003cb\u003ehotel\u003c/b\u003e to make getting to and from the park simple. We help you find \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "CtKLviT29ZkJ",
+   "formattedUrl": "www.travelhero.com/destinations/park.../DISNEYLAND/index.html",
+   "htmlFormattedUrl": "www.travelhero.com/destinations/park.../\u003cb\u003eDISNEYLAND\u003c/b\u003e/index.html",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.travelhero.com/commonImages/destinations/disneyland.jpg",
+      "type": "1",
+      "width": "200",
+      "height": "149"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Howard Johnson Plaza Hotel & Water Playground",
+   "htmlTitle": "Howard Johnson Plaza \u003cb\u003eHotel\u003c/b\u003e &amp; Water Playground",
+   "link": "http://www.hojoanaheim.com/",
+   "displayLink": "www.hojoanaheim.com",
+   "snippet": "TripAdvisor Best for Families hotel near Disneyland - Howard Johnson Hotel   Anaheim. With Castaway Cove - a watery pirate playground! Walk to Disneyland ...",
+   "htmlSnippet": "TripAdvisor Best for Families \u003cb\u003ehotel\u003c/b\u003e near \u003cb\u003eDisneyland\u003c/b\u003e - Howard Johnson \u003cb\u003eHotel\u003c/b\u003e \u003cbr\u003e  Anaheim. With Castaway Cove - a watery pirate playground! Walk to \u003cb\u003eDisneyland\u003c/b\u003e \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "niLWkmIYqYIJ",
+   "formattedUrl": "www.hojoanaheim.com/",
+   "htmlFormattedUrl": "www.hojoanaheim.com/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.hojoanaheim.com/wp-content/uploads/super-family-thumb.jpg",
+      "type": "1",
+      "width": "301",
+      "height": "168"
+     }
+    ],
+    "metatags": [
+     {
+      "fb:app_id": "114428101961720",
+      "fb:admins": "100000221138952",
+      "fb:page_id": "128628053863239",
+      "og:type": "movie",
+      "og:video:width": "276",
+      "og:video:height": "155",
+      "og:video:type": "application/x-shockwave-flash",
+      "og:title": "super family",
+      "og:image": "http://www.hojoanaheim.com/wp-content/uploads/super-family-thumb.jpg",
+      "og:video": "http://www.hojoanaheim.com/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf?file=http://youtu.be/4t0CdQhaies&fbit.link=false&icons=true&playlist=none&playlistsize=180&repeat=none&shuffle=false&bufferlength=1&smoothing=true&stretching=uniform&mute=false&volume=90&link=http://www.hojoanaheim.com&controlbar=none&skin=http://www.hojoanaheim.com/wp-content/plugins/jw-player-plugin-for-wordpress/skins/kleur.zip&dock=true&autostart=false&height=155&width=276&plugins=fbit-1&wmode=opaque",
+      "nextgen": "1.7.4"
+     }
+    ],
+    "hcard": [
+     {
+      "fn": "HoJo Anaheim",
+      "url": "http://www.facebook.com/pages/HoJoAnaheim/128628053863239"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Disneyland® Hotel history: the Books by Donald W. Ballard",
+   "htmlTitle": "\u003cb\u003eDisneyland\u003c/b\u003e® \u003cb\u003eHotel\u003c/b\u003e history: the Books by Donald W. Ballard",
+   "link": "http://www.magicalhotel.com/",
+   "displayLink": "www.magicalhotel.com",
+   "snippet": "“Disneyland Hotel 1954-1959: The Little Motel in the Middle of the Orange Grove.  ” Since the book “Disneyland Hotel, the Early Years 1954-1988” was published ...",
+   "htmlSnippet": "“\u003cb\u003eDisneyland Hotel\u003c/b\u003e 1954-1959: The Little Motel in the Middle of the Orange Grove.\u003cbr\u003e  ” Since the book “\u003cb\u003eDisneyland Hotel\u003c/b\u003e, the Early Years 1954-1988” was published \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "bh52xJWztgMJ",
+   "formattedUrl": "www.magicalhotel.com/",
+   "htmlFormattedUrl": "www.magical\u003cb\u003ehotel\u003c/b\u003e.com/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.magicalhotel.com/images/newbook.jpg",
+      "type": "1",
+      "width": "240",
+      "height": "187"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Disneyland® Hotel - Hotels in Paris - Disneyland® Resort Paris",
+   "htmlTitle": "\u003cb\u003eDisneyland\u003c/b\u003e® \u003cb\u003eHotel\u003c/b\u003e - \u003cb\u003eHotels\u003c/b\u003e in Paris - \u003cb\u003eDisneyland\u003c/b\u003e® Resort Paris",
+   "link": "http://us.hotels.disneylandparis.com/hotels/disneyland-hotel/index.xhtml",
+   "displayLink": "us.hotels.disneylandparis.com",
+   "snippet": "Disneyland® Hotel : savour the charms of yesteryear, and live it up in the   unequalled style of a Victorian mansion - Disney Hotels.",
+   "htmlSnippet": "\u003cb\u003eDisneyland\u003c/b\u003e® \u003cb\u003eHotel\u003c/b\u003e : savour the charms of yesteryear, and live it up in the \u003cbr\u003e  unequalled style of a Victorian mansion - Disney \u003cb\u003eHotels\u003c/b\u003e.",
+   "cacheId": "AASTspUBqhYJ",
+   "formattedUrl": "us.hotels.disneylandparis.com/hotels/disneyland-hotel/index.xhtml",
+   "htmlFormattedUrl": "us.\u003cb\u003ehotels\u003c/b\u003e.\u003cb\u003edisneyland\u003c/b\u003eparis.com/\u003cb\u003ehotels\u003c/b\u003e/\u003cb\u003edisneyland\u003c/b\u003e-\u003cb\u003ehotel\u003c/b\u003e/index.xhtml",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://us.hotels.disneylandparis.com/COM/EN/US/Images/hoteldisneyhotel-frame180x110.gif",
+      "type": "1",
+      "width": "145",
+      "height": "90"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Disneyland Weddings | Anaheim, California | Disney's Fairy Tale ...",
+   "htmlTitle": "\u003cb\u003eDisneyland\u003c/b\u003e Weddings | Anaheim, California | Disney&#39;s Fairy Tale \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://disneyweddings.disney.go.com/weddings/california/collections/overview",
+   "displayLink": "disneyweddings.disney.go.com",
+   "snippet": "A wide variety of options enables you to create the perfect, enchanting wedding   at the Disneyland Resort in Anaheim.",
+   "htmlSnippet": "A wide variety of options enables you to create the perfect, enchanting wedding \u003cbr\u003e  at the \u003cb\u003eDisneyland\u003c/b\u003e Resort in Anaheim.",
+   "cacheId": "48Quk9_gQPsJ",
+   "formattedUrl": "disneyweddings.disney.go.com/weddings/california/.../overview",
+   "htmlFormattedUrl": "disneyweddings.disney.go.com/weddings/california/.../overview",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://as1.wdpromedia.com/media/disneyweddings/images/weddings/DNY_landingpromos_brochure.jpg",
+      "type": "1",
+      "width": "184",
+      "height": "107"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Disneyland Hotels Comparison | Disneyland Resort",
+   "htmlTitle": "\u003cb\u003eDisneyland Hotels\u003c/b\u003e Comparison | Disneyland Resort",
+   "link": "http://disneyland.disney.go.com/hotels/compare/",
+   "displayLink": "disneyland.disney.go.com",
+   "snippet": "Compare the hotels available at the Disneyland Resort in California.",
+   "htmlSnippet": "Compare the \u003cb\u003ehotels\u003c/b\u003e available at the \u003cb\u003eDisneyland\u003c/b\u003e Resort in California.",
+   "cacheId": "bbKu6CI4_OMJ",
+   "formattedUrl": "disneyland.disney.go.com/hotels/compare/",
+   "htmlFormattedUrl": "\u003cb\u003edisneyland\u003c/b\u003e.disney.go.com/\u003cb\u003ehotels\u003c/b\u003e/compare/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://dlr2.wdpromedia.com/media/dlr_nextgen/CoreCatalog/Disneyland/en_us/Media/InternetMediaType/Resort/disneyland-hotel_thumb.jpg",
+      "type": "1",
+      "width": "192",
+      "height": "115"
+     }
+    ],
+    "metatags": [
+     {
+      "viewport": "width=device-width, user-scalable=yes",
+      "apple-mobile-web-app-capable": "yes",
+      "apple-mobile-web-app-status-bar-style": "black-translucent"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Anaheim Hotels near Disneyland | Portofino Inn & Suites, Anaheim ...",
+   "htmlTitle": "Anaheim \u003cb\u003eHotels\u003c/b\u003e near \u003cb\u003eDisneyland\u003c/b\u003e | Portofino Inn &amp; Suites, Anaheim \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://www.portofinoinnanaheim.com/",
+   "displayLink": "www.portofinoinnanaheim.com",
+   "snippet": "Portofino Inn and Suites Anaheim Hotel Disneyland ☆ a best Anaheim hotel near   Disneyland and Anaheim Convention Center Hotel, offers affordable ...",
+   "htmlSnippet": "Portofino Inn and Suites Anaheim \u003cb\u003eHotel Disneyland\u003c/b\u003e ☆ a best Anaheim \u003cb\u003ehotel\u003c/b\u003e near \u003cbr\u003e  \u003cb\u003eDisneyland\u003c/b\u003e and Anaheim Convention Center \u003cb\u003eHotel\u003c/b\u003e, offers affordable \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "UcMmiAOojJQJ",
+   "formattedUrl": "www.portofinoinnanaheim.com/",
+   "htmlFormattedUrl": "www.portofinoinnanaheim.com/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.portofinoinnanaheim.com/img/headerImages/home3.jpg",
+      "type": "1",
+      "width": "339",
+      "height": "148"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Disneyland Resort | Welcome to the Magic",
+   "htmlTitle": "\u003cb\u003eDisneyland\u003c/b\u003e Resort | Welcome to the Magic",
+   "link": "http://disneyland.disney.go.com/",
+   "displayLink": "disneyland.disney.go.com",
+   "snippet": "Hotels Overview · Disney's Grand Californian Hotel & Spa · Disneyland Hotel ·   Disney's Paradise Pier Hotel · Good Neighbor Hotels · Compare Hotels · Maps ...",
+   "htmlSnippet": "Hotels Overview &middot; Disney&#39;s Grand Californian Hotel &amp; Spa &middot; \u003cb\u003eDisneyland Hotel\u003c/b\u003e &middot; \u003cbr\u003e  Disney&#39;s Paradise Pier Hotel &middot; Good Neighbor Hotels &middot; Compare Hotels &middot; Maps \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "UvETNgp6OAcJ",
+   "formattedUrl": "disneyland.disney.go.com/",
+   "htmlFormattedUrl": "\u003cb\u003edisneyland\u003c/b\u003e.disney.go.com/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://dlr1.wdpromedia.com/media/dlr_nextgen/MediaPlayer/hotels/dlh/overview/disneyland-hotel-89x39-05.jpg",
+      "type": "1",
+      "width": "89",
+      "height": "39"
+     }
+    ],
+    "metatags": [
+     {
+      "og:description": "Welcome to the official website of the Disneyland Resort in California.",
+      "og:title": "Disneyland Resort",
+      "og:image": "http://dlr1.wdpromedia.com/media/dlr_nextgen/MediaPlayer/hotels/dlh/overview/disneyland-hotel-89x39-05.jpg",
+      "og:url": "http://disneyland.disney.go.com/",
+      "viewport": "width=device-width, user-scalable=yes",
+      "apple-mobile-web-app-capable": "yes",
+      "apple-mobile-web-app-status-bar-style": "black-translucent"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "The Original Disneyland Hotel",
+   "htmlTitle": "The Original \u003cb\u003eDisneyland Hotel\u003c/b\u003e",
+   "link": "http://magicalhotel.blogspot.com/",
+   "displayLink": "magicalhotel.blogspot.com",
+   "snippet": "Jul 10, 2012 ... Join me for a trip through the World's Most Exciting Hotel. This blog covers the   evolution of the Disneyland Hotel through the Wrather years, ...",
+   "htmlSnippet": "Jul 10, 2012 \u003cb\u003e...\u003c/b\u003e Join me for a trip through the World&#39;s Most Exciting Hotel. This blog covers the \u003cbr\u003e  evolution of the \u003cb\u003eDisneyland Hotel\u003c/b\u003e through the Wrather years, \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "0SWGb9So7ioJ",
+   "formattedUrl": "magicalhotel.blogspot.com/",
+   "htmlFormattedUrl": "magical\u003cb\u003ehotel\u003c/b\u003e.blogspot.com/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://2.bp.blogspot.com/-vJZ-TmanC0A/T_ya62HHGAI/AAAAAAAACGA/Krygbb--crw/s320/addendum+cover.JPG",
+      "type": "1",
+      "width": "255",
+      "height": "198"
+     }
+    ],
+    "blogposting": [
+     {
+      "name": "E Versions Available",
+      "articlebody": "We now have an e-version (delivered to you electronically) of our first book Disneyland Hotel The Early Years 1954-1988 available for download. Additionally, we will soon be offering a never...",
+      "author": "Magical Hotel",
+      "url": "2:15 PM",
+      "datepublished": "2:15 PM"
+     },
+     {
+      "name": "Milestones at the Disneyland Hotel 1967 & 1972",
+      "articlebody": "Check-In is my favorite magazine from the original Disneyland Hotel. It ran from about 1965 until around 1973, exact dates unknown. It contained so many articles, details and photographs from...",
+      "author": "Magical Hotel",
+      "url": "4:39 PM",
+      "datepublished": "4:39 PM"
+     },
+     {
+      "name": "1963 Overheads",
+      "articlebody": "Here are some 1963 overheads....some with \"Hotel Disneyland\" at the top of the building and some with it not yet installed. I am trying to pin down the exact date in which this project was...",
+      "author": "Magical Hotel",
+      "url": "2:33 PM",
+      "datepublished": "2:33 PM"
+     },
+     {
+      "name": "Photo Identification",
+      "articlebody": "Here is what I am hoping will be a fun identification game. Can anybody spot an interesting thing contained within the picture posted below? Click on picture to enlarge. http://www.magicalhotel.com...",
+      "author": "Magical Hotel",
+      "url": "8:48 PM",
+      "datepublished": "8:48 PM"
+     },
+     {
+      "name": "1956 Still Images From Film Footage",
+      "articlebody": "I found another film from the Disneyland Hotel's past. These are from Wrather family home movies and date back to 1956. I am guessing May or June, 1956 as they are still working on construction...",
+      "author": "Magical Hotel",
+      "url": "3:54 PM",
+      "datepublished": "3:54 PM"
+     },
+     {
+      "name": "In Room Ads 1970's",
+      "articlebody": "Placards placed in rooms to announce Disneyland Hotel attractions are very sought after collectibles these days. The one pictured below dates from some time in the early 70's. Usually printed...",
+      "author": "Magical Hotel",
+      "url": "8:45 PM",
+      "datepublished": "8:45 PM"
+     },
+     {
+      "name": "Wrather Personal Family Photos",
+      "articlebody": "Here is a collection of personal family photos taken either at the Disneyland Hotel or at Disneyland Park. This first shot was used in the Wrather family's 1959 Christmas Card. Next up were...",
+      "author": "Magical Hotel",
+      "url": "6:49 PM",
+      "datepublished": "6:49 PM"
+     },
+     {
+      "name": "A Special Place Part 3",
+      "articlebody": "More pics fromthis incredible film find. http://www.magicalhotel.com/",
+      "author": "Magical Hotel",
+      "url": "7:50 PM",
+      "datepublished": "7:50 PM"
+     },
+     {
+      "name": "A Special Place part 2",
+      "author": "Magical Hotel",
+      "url": "3:31 PM",
+      "datepublished": "3:31 PM"
+     }
+    ]
+   }
+  }
+ ]
+}

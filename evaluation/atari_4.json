@@ -1,0 +1,264 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "nextPage": [
+   {
+    "title": "Google Custom Search - atari",
+    "totalResults": "4010000",
+    "searchTerms": "atari",
+    "count": 10,
+    "startIndex": 51,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "017401104989814545383:mf4lavmtuva"
+   }
+  ],
+  "request": [
+   {
+    "title": "Google Custom Search - atari",
+    "totalResults": "4010000",
+    "searchTerms": "atari",
+    "count": 10,
+    "startIndex": 41,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "017401104989814545383:mf4lavmtuva"
+   }
+  ],
+  "previousPage": [
+   {
+    "title": "Google Custom Search - atari",
+    "totalResults": "4010000",
+    "searchTerms": "atari",
+    "count": 10,
+    "startIndex": 31,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "017401104989814545383:mf4lavmtuva"
+   }
+  ]
+ },
+ "context": {
+  "title": "College MetaSearch Comparison"
+ },
+ "searchInformation": {
+  "searchTime": 0.142762,
+  "formattedSearchTime": "0.14",
+  "totalResults": "4010000",
+  "formattedTotalResults": "4,010,000"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "Atari - Pong® Indie Developer Challenge!",
+   "htmlTitle": "\u003cb\u003eAtari\u003c/b\u003e - Pong® Indie Developer Challenge!",
+   "link": "http://www.atari.com/pong-indie-developer-challenge",
+   "displayLink": "www.atari.com",
+   "snippet": "Following the success of Atari's recent indie-developed mobile titles, including   Asteroids: Gunner™, Atari 's Greatest Hits and Breakout: Boost™, the Pong® ...",
+   "htmlSnippet": "Following the success of \u003cb\u003eAtari&#39;s\u003c/b\u003e recent indie-developed mobile titles, including \u003cbr\u003e  Asteroids: Gunner™, \u003cb\u003eAtari\u003c/b\u003e &#39;s Greatest Hits and Breakout: Boost™, the Pong® \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "neqBAFpJQ9cJ",
+   "formattedUrl": "www.atari.com/pong-indie-developer-challenge",
+   "htmlFormattedUrl": "www.\u003cb\u003eatari\u003c/b\u003e.com/pong-indie-developer-challenge"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Mapping The Atari",
+   "htmlTitle": "Mapping The \u003cb\u003eAtari\u003c/b\u003e",
+   "link": "http://www.atariarchives.org/mapping/",
+   "displayLink": "www.atariarchives.org",
+   "snippet": "Mapping The Atari - Revised Edition By Ian Chadwick The comprehensive   sourcebook and memory guide. For beginning and veteran programmers of the   Atari ...",
+   "htmlSnippet": "Mapping The \u003cb\u003eAtari\u003c/b\u003e - Revised Edition By Ian Chadwick The comprehensive \u003cbr\u003e  sourcebook and memory guide. For beginning and veteran programmers of the \u003cbr\u003e  \u003cb\u003eAtari\u003c/b\u003e \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "-ZSFTbZneFkJ",
+   "formattedUrl": "www.atariarchives.org/mapping/",
+   "htmlFormattedUrl": "www.\u003cb\u003eatari\u003c/b\u003earchives.org/mapping/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.atariarchives.org/mapping/mappingcovers.gif",
+      "type": "1",
+      "width": "104",
+      "height": "142"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "The Atari Mindlink System",
+   "htmlTitle": "The \u003cb\u003eAtari\u003c/b\u003e Mindlink System",
+   "link": "http://www.atarimuseum.com/videogames/consoles/2600/mindlink.html",
+   "displayLink": "www.atarimuseum.com",
+   "snippet": "The Atari Mindlink \"The State of the Art for the State of your Mind\". Atari, looked   into interfacing people with computers and video games in an entirely new way.",
+   "htmlSnippet": "The \u003cb\u003eAtari\u003c/b\u003e Mindlink &quot;The State of the Art for the State of your Mind&quot;. \u003cb\u003eAtari\u003c/b\u003e, looked \u003cbr\u003e  into interfacing people with computers and video games in an entirely new way.",
+   "cacheId": "3STuVRL1S4sJ",
+   "formattedUrl": "www.atarimuseum.com/videogames/consoles/2600/mindlink.html",
+   "htmlFormattedUrl": "www.\u003cb\u003eatari\u003c/b\u003emuseum.com/videogames/consoles/2600/mindlink.html",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.atarimuseum.com/videogames/consoles/2600/mindlink_image.jpg",
+      "type": "1",
+      "width": "271",
+      "height": "186"
+     }
+    ],
+    "metatags": [
+     {
+      "author": "Curt Vendel"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "LGD - For Atari ST Games, Reviews, Demos, Music, Downloads ...",
+   "htmlTitle": "LGD - For \u003cb\u003eAtari\u003c/b\u003e ST Games, Reviews, Demos, Music, Downloads \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://lgd.fatal-design.com/",
+   "displayLink": "lgd.fatal-design.com",
+   "snippet": "Welcome to the largest Atari ST Resource on the Internet Why not register now or   login? 8.1 million visitors and still going strong! The LGD forums are offline ...",
+   "htmlSnippet": "Welcome to the largest \u003cb\u003eAtari\u003c/b\u003e ST Resource on the Internet Why not register now or \u003cbr\u003e  login? 8.1 million visitors and still going strong! The LGD forums are offline \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "wrwTa7glT7IJ",
+   "formattedUrl": "lgd.fatal-design.com/",
+   "htmlFormattedUrl": "lgd.fatal-design.com/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.atari.st/data/shots/241.gif",
+      "type": "1",
+      "width": "269",
+      "height": "187"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "AtariAge - 2600 Activision Patch Gallery",
+   "htmlTitle": "AtariAge - 2600 Activision Patch Gallery",
+   "link": "http://www.atariage.com/2600/archives/activision_patches.html",
+   "displayLink": "www.atariage.com",
+   "snippet": "This gallery highlights the fabric patches that Activision offered ...",
+   "htmlSnippet": "This gallery highlights the fabric patches that Activision offered \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "FunzMvaOC2kJ",
+   "formattedUrl": "www.atariage.com/2600/archives/activision_patches.html",
+   "htmlFormattedUrl": "www.\u003cb\u003eatari\u003c/b\u003eage.com/2600/archives/activision_patches.html",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.atariage.com/2600/archives/patches_tmp/Beamrider_thumb.jpg",
+      "type": "1",
+      "width": "120",
+      "height": "109"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Atari Gaming Headquarters",
+   "htmlTitle": "\u003cb\u003eAtari\u003c/b\u003e Gaming Headquarters",
+   "link": "http://www.atarihq.com/",
+   "displayLink": "www.atarihq.com",
+   "snippet": "Hurry and relive the fun of the 80s – and 70's with Atari's Greatest Hits. This   arcade game has the same familiar and well-loved graphics – linear lines and   laser ...",
+   "htmlSnippet": "Hurry and relive the fun of the 80s – and 70&#39;s with \u003cb\u003eAtari&#39;s\u003c/b\u003e Greatest Hits. This \u003cbr\u003e  arcade game has the same familiar and well-loved graphics – linear lines and \u003cbr\u003e  laser \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "pRGjYogLnxEJ",
+   "formattedUrl": "www.atarihq.com/",
+   "htmlFormattedUrl": "www.\u003cb\u003eatari\u003c/b\u003ehq.com/",
+   "pagemap": {
+    "metatags": [
+     {
+      "distribution": "global",
+      "language": "en, sv"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Atari | CrunchBase Profile",
+   "htmlTitle": "\u003cb\u003eAtari\u003c/b\u003e | CrunchBase Profile",
+   "link": "http://www.crunchbase.com/company/atari",
+   "displayLink": "www.crunchbase.com",
+   "snippet": "Atari is a global producer, publisher and distributor of interactive entertainment   software for all market segments and all interactive game.",
+   "htmlSnippet": "\u003cb\u003eAtari\u003c/b\u003e is a global producer, publisher and distributor of interactive entertainment \u003cbr\u003e  software for all market segments and all interactive game.",
+   "cacheId": "LUI_sf4zOO8J",
+   "formattedUrl": "www.crunchbase.com/company/atari",
+   "htmlFormattedUrl": "www.crunchbase.com/company/\u003cb\u003eatari\u003c/b\u003e",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.crunchbase.com/assets/images/resized/0005/6425/56425v1-max-250x250.jpg",
+      "type": "1",
+      "width": "131",
+      "height": "48"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "AtariArchives.org - archiving vintage computer books, information ...",
+   "htmlTitle": "AtariArchives.org - archiving vintage computer books, information \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://www.atariarchives.org/",
+   "displayLink": "www.atariarchives.org",
+   "snippet": "Full text of Atari computer Books; Atari Program Exchange software; other classic   computing information.",
+   "htmlSnippet": "Full text of \u003cb\u003eAtari\u003c/b\u003e computer Books; \u003cb\u003eAtari\u003c/b\u003e Program Exchange software; other classic \u003cbr\u003e  computing information.",
+   "cacheId": "Kh57Xy5mDlwJ",
+   "formattedUrl": "www.atariarchives.org/",
+   "htmlFormattedUrl": "www.\u003cb\u003eatari\u003c/b\u003earchives.org/",
+   "pagemap": {
+    "metatags": [
+     {
+      "resource-type": "document"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Atari 2600 Label Maker",
+   "htmlTitle": "\u003cb\u003eAtari\u003c/b\u003e 2600 Label Maker",
+   "link": "http://www.labelmaker2600.com/",
+   "displayLink": "www.labelmaker2600.com",
+   "snippet": "This Atari 2600 Label Maker produces authentic looking Atari 2600 Picture   Labels using your own image and title.",
+   "htmlSnippet": "This \u003cb\u003eAtari\u003c/b\u003e 2600 Label Maker produces authentic looking \u003cb\u003eAtari\u003c/b\u003e 2600 Picture \u003cbr\u003e  Labels using your own image and title.",
+   "cacheId": "lY5nTVJN1IEJ",
+   "formattedUrl": "www.labelmaker2600.com/",
+   "htmlFormattedUrl": "www.labelmaker2600.com/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.labelmaker2600.com/images/Asteroids.jpg",
+      "type": "1",
+      "width": "186",
+      "height": "271"
+     }
+    ],
+    "metatags": [
+     {
+      "keyword": "Atari 2600 Label Maker, Atari 2600, Atari, Video Game Labels"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "AtariProtos.com - All Your Protos Are Belong To Us!",
+   "htmlTitle": "AtariProtos.com - All Your Protos Are Belong To Us!",
+   "link": "http://www.atariprotos.com/",
+   "displayLink": "www.atariprotos.com",
+   "snippet": "Information on prototype games for the 2600, 5200, and 7800.",
+   "htmlSnippet": "Information on prototype games for the 2600, 5200, and 7800.",
+   "cacheId": "Ju1yKI7ghuQJ",
+   "formattedUrl": "www.atariprotos.com/",
+   "htmlFormattedUrl": "www.\u003cb\u003eatari\u003c/b\u003eprotos.com/"
+  }
+ ]
+}

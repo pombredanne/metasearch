@@ -1,0 +1,310 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "nextPage": [
+   {
+    "title": "Google Custom Search - map of the united states",
+    "totalResults": "272000000",
+    "searchTerms": "map of the united states",
+    "count": 10,
+    "startIndex": 71,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "017401104989814545383:mf4lavmtuva"
+   }
+  ],
+  "request": [
+   {
+    "title": "Google Custom Search - map of the united states",
+    "totalResults": "272000000",
+    "searchTerms": "map of the united states",
+    "count": 10,
+    "startIndex": 61,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "017401104989814545383:mf4lavmtuva"
+   }
+  ],
+  "previousPage": [
+   {
+    "title": "Google Custom Search - map of the united states",
+    "totalResults": "272000000",
+    "searchTerms": "map of the united states",
+    "count": 10,
+    "startIndex": 51,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "017401104989814545383:mf4lavmtuva"
+   }
+  ]
+ },
+ "context": {
+  "title": "College MetaSearch Comparison"
+ },
+ "searchInformation": {
+  "searchTime": 0.158475,
+  "formattedSearchTime": "0.16",
+  "totalResults": "272000000",
+  "formattedTotalResults": "272,000,000"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "Map of US Virgin Islands - Caribbean Island Maps, US Virgin Islands ...",
+   "htmlTitle": "Map of US Virgin Islands - Caribbean Island \u003cb\u003eMaps\u003c/b\u003e, \u003cb\u003eUS\u003c/b\u003e Virgin Islands \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://www.worldatlas.com/webimage/countrys/namerica/caribb/vi.htm",
+   "displayLink": "www.worldatlas.com",
+   "snippet": "The Virgin Islands, an organized, unincorporated territory of the United States   were originally settled by the Ciboney, Carib, and Arawaks peoples. christopher ...",
+   "htmlSnippet": "The Virgin Islands, an organized, unincorporated territory of the \u003cb\u003eUnited States\u003c/b\u003e \u003cbr\u003e  were originally settled by the Ciboney, Carib, and Arawaks peoples. christopher \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "RtZ1Nz4Tiv4J",
+   "formattedUrl": "www.worldatlas.com/webimage/countrys/namerica/caribb/vi.htm",
+   "htmlFormattedUrl": "www.worldatlas.com/webimage/countrys/namerica/caribb/vi.htm",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.worldatlas.com/webimage/countrys/namerica/caribb/vicarib.gif",
+      "type": "1",
+      "width": "262",
+      "height": "193"
+     }
+    ],
+    "breadcrumb": [
+     {
+      "url": "World Map",
+      "title": "World Map"
+     },
+     {
+      "url": "North America",
+      "title": "North America"
+     },
+     {
+      "url": "Caribbean",
+      "title": "Caribbean"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Know your States",
+   "htmlTitle": "Know your \u003cb\u003eStates\u003c/b\u003e",
+   "link": "http://jimspages.com/States.htm",
+   "displayLink": "jimspages.com",
+   "snippet": "Place Arkansas on the map: Place the state by dragging and dropping. 1) Place   the cursor over the state. 2) While pressing the left mouse button, drag the state ...",
+   "htmlSnippet": "Place Arkansas on the \u003cb\u003emap\u003c/b\u003e: Place the \u003cb\u003estate\u003c/b\u003e by dragging and dropping. 1) Place \u003cbr\u003e  the cursor over the \u003cb\u003estate\u003c/b\u003e. 2) While pressing the left mouse button, drag the \u003cb\u003estate\u003c/b\u003e \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "BRhWwfwM_sEJ",
+   "formattedUrl": "jimspages.com/States.htm",
+   "htmlFormattedUrl": "jimspages.com/\u003cb\u003eStates\u003c/b\u003e.htm"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Heat Index Map for the United States",
+   "htmlTitle": "Heat Index \u003cb\u003eMap\u003c/b\u003e for the \u003cb\u003eUnited States\u003c/b\u003e",
+   "link": "http://www.usairnet.com/weather/maps/current/heat-index/",
+   "displayLink": "www.usairnet.com",
+   "snippet": "Offering a Heat Index Map for the United States. ... Photos · Weather : Maps :   Current : Heat Index. United States Current Condition Maps, USA Forecast Maps ...",
+   "htmlSnippet": "Offering a Heat Index \u003cb\u003eMap\u003c/b\u003e for the \u003cb\u003eUnited States\u003c/b\u003e. \u003cb\u003e...\u003c/b\u003e Photos &middot; Weather : \u003cb\u003eMaps\u003c/b\u003e : \u003cbr\u003e  Current : Heat Index. \u003cb\u003eUnited States\u003c/b\u003e Current Condition \u003cb\u003eMaps\u003c/b\u003e, USA Forecast \u003cb\u003eMaps\u003c/b\u003e \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "kZoy7vl-mE8J",
+   "formattedUrl": "www.usairnet.com/weather/maps/current/heat-index/",
+   "htmlFormattedUrl": "www.usairnet.com/weather/\u003cb\u003emaps\u003c/b\u003e/current/heat-index/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.usairnet.com/weather/maps/heat-index.jpg",
+      "type": "1",
+      "width": "259",
+      "height": "194"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Imus Geographics | The Art of Cartography | Home-New Landing Page",
+   "htmlTitle": "Imus Geographics | The Art of Cartography | Home-New Landing Page",
+   "link": "http://imusgeographics.com/",
+   "displayLink": "imusgeographics.com",
+   "snippet": "It you prefer Amazon.com, you can also order from us there (shipping additional)..  . \"I was excited to find out you had also done a map of the USA. I bought your ...",
+   "htmlSnippet": "It you prefer Amazon.com, you can also order from \u003cb\u003eus\u003c/b\u003e there (shipping additional)..\u003cbr\u003e  . &quot;I was excited to find out you had also done a \u003cb\u003emap\u003c/b\u003e of the USA. I bought your \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "Fv84WEqKI6sJ",
+   "formattedUrl": "imusgeographics.com/",
+   "htmlFormattedUrl": "imusgeographics.com/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://imusgeographics.com/sites/default/files/imagecache/product_full/nea_page_panel_2.jpg",
+      "type": "1",
+      "width": "171",
+      "height": "294"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Seismicity of the United States",
+   "htmlTitle": "Seismicity of the \u003cb\u003eUnited States\u003c/b\u003e",
+   "link": "http://earthquake.usgs.gov/earthquakes/states/seismicity/",
+   "displayLink": "earthquake.usgs.gov",
+   "snippet": "Jun 7, 2012 ... Seismicity of the United States. Click on an outlined area above or a link below to   see the map for that area. US seismicity map (without area ...",
+   "htmlSnippet": "Jun 7, 2012 \u003cb\u003e...\u003c/b\u003e Seismicity of the \u003cb\u003eUnited States\u003c/b\u003e. Click on an outlined area above or a link below to \u003cbr\u003e  see the \u003cb\u003emap\u003c/b\u003e for that area. \u003cb\u003eUS\u003c/b\u003e seismicity \u003cb\u003emap\u003c/b\u003e (without area \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "Y8AfpJTN2NMJ",
+   "formattedUrl": "earthquake.usgs.gov/earthquakes/states/seismicity/",
+   "htmlFormattedUrl": "earthquake.usgs.gov/earthquakes/\u003cb\u003estates\u003c/b\u003e/seismicity/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://earthquake.usgs.gov/earthquakes/states/seismicity/images/usall_imagemap.jpg",
+      "type": "1",
+      "width": "259",
+      "height": "194"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "U.S. Map - Maps of the US",
+   "htmlTitle": "U.S. Map - \u003cb\u003eMaps of the US\u003c/b\u003e",
+   "link": "http://geography.about.com/od/usmaps/U_S_Maps.htm",
+   "displayLink": "geography.about.com",
+   "snippet": "A collection of free online maps of the U.S., the United States of America.",
+   "htmlSnippet": "A collection of free online \u003cb\u003emaps of the U.S.\u003c/b\u003e, the United States of America.",
+   "cacheId": "6KCt_MN5fk8J",
+   "formattedUrl": "geography.about.com/od/usmaps/U_S_Maps.htm",
+   "htmlFormattedUrl": "geography.about.com/od/\u003cb\u003eusmaps\u003c/b\u003e/U_S_\u003cb\u003eMaps\u003c/b\u003e.htm",
+   "pagemap": {
+    "metatags": [
+     {
+      "pd": "Tuesday, 10-Jul-2012 18:00:11 UTC",
+      "docset": "6",
+      "og:title": "U.S. Maps",
+      "og:type": "article",
+      "og:url": "http://geography.about.com/od/usmaps/U_S_Maps.htm",
+      "og:site_name": "About.com Geography",
+      "fb:app_id": "121030274606741"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "A Complete Map of the United States",
+   "htmlTitle": "A Complete \u003cb\u003eMap of the United States\u003c/b\u003e",
+   "link": "http://etc.usf.edu/maps/galleries/us/complete/index.php",
+   "displayLink": "etc.usf.edu",
+   "snippet": "Record 1 - 10 of 73 ... Historic and contemporary maps of the United States, including physical and   political maps, early exploration and colonization period, ...",
+   "htmlSnippet": "Record 1 - 10 of 73 \u003cb\u003e...\u003c/b\u003e Historic and contemporary \u003cb\u003emaps of the United States\u003c/b\u003e, including physical and \u003cbr\u003e  political maps, early exploration and colonization period, \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "a_yvSCoI3FAJ",
+   "formattedUrl": "etc.usf.edu/maps/galleries/us/complete/index.php",
+   "htmlFormattedUrl": "etc.usf.edu/\u003cb\u003emaps\u003c/b\u003e/galleries/\u003cb\u003eus\u003c/b\u003e/complete/index.php",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://etc.usf.edu/maps/pages/3300/3302/3302t.jpg",
+      "type": "1",
+      "width": "120",
+      "height": "92"
+     }
+    ],
+    "metatags": [
+     {
+      "language": "English (US)",
+      "author": "Florida Center for Instructional Technology",
+      "copyright": "Florida Center for Instructional Technology, 2007",
+      "document-class": "Completed",
+      "document-classification": "Education",
+      "document-rights": "Copyrighted Work",
+      "document-type": "document"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "ESRL : PSD : Clickable Map of US States",
+   "htmlTitle": "ESRL : PSD : Clickable \u003cb\u003eMap\u003c/b\u003e of \u003cb\u003eUS\u003c/b\u003e States",
+   "link": "http://www.esrl.noaa.gov/psd/data/usclimate/states.fast.html",
+   "displayLink": "www.esrl.noaa.gov",
+   "snippet": "United States Climate Page. Click on state of interest. Description of Plot ·   GLOSSARY of terms, data, and project construction details. Shaded relief state   maps ...",
+   "htmlSnippet": "\u003cb\u003eUnited States\u003c/b\u003e Climate Page. Click on state of interest. Description of Plot &middot; \u003cbr\u003e  GLOSSARY of terms, data, and project construction details. Shaded relief state \u003cbr\u003e  \u003cb\u003emaps\u003c/b\u003e \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "YvYuS2FGxm8J",
+   "formattedUrl": "www.esrl.noaa.gov/psd/data/usclimate/states.fast.html",
+   "htmlFormattedUrl": "www.esrl.noaa.gov/psd/data/usclimate/\u003cb\u003estates\u003c/b\u003e.fast.html",
+   "pagemap": {
+    "metatags": [
+     {
+      "author": "ESRL Web Team"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "American English Dialects Map",
+   "htmlTitle": "American English Dialects \u003cb\u003eMap\u003c/b\u003e",
+   "link": "http://aschmann.net/AmEng/",
+   "displayLink": "aschmann.net",
+   "snippet": "1. Click on the map to enlarge it, selecting either the U. S. or Canada. 2. Click   again to zoom in more. 3. Click on a state or province to listen to audio or video ...",
+   "htmlSnippet": "1. Click on the \u003cb\u003emap\u003c/b\u003e to enlarge it, selecting either the \u003cb\u003eU. S.\u003c/b\u003e or Canada. 2. Click \u003cbr\u003e  again to zoom in more. 3. Click on a state or province to listen to audio or video \u003cb\u003e...\u003c/b\u003e",
+   "formattedUrl": "aschmann.net/AmEng/",
+   "htmlFormattedUrl": "aschmann.net/AmEng/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://aschmann.net/AmEng/index_files/AmericanEnglishDialects.gif",
+      "type": "1",
+      "width": "242",
+      "height": "208"
+     }
+    ],
+    "metatags": [
+     {
+      "progid": "Word.Document",
+      "originator": "Microsoft Word 12"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "The Best, Nerdiest Map of the US Took 6000 Hours to Complete",
+   "htmlTitle": "The Best, Nerdiest \u003cb\u003eMap of the US\u003c/b\u003e Took 6000 Hours to Complete",
+   "link": "http://gizmodo.com/5872417/the-best-nerdiest-map-of-the-us-took-6000-hours-to-complete",
+   "displayLink": "gizmodo.com",
+   "snippet": "Jan 2, 2012 ... Meed David Imus, the OCD cartographer behind one masterpiece of a map. It   took him two years of daily labor to make his map of the USA, ...",
+   "htmlSnippet": "Jan 2, 2012 \u003cb\u003e...\u003c/b\u003e Meed David Imus, the OCD cartographer behind one masterpiece of a \u003cb\u003emap\u003c/b\u003e. It \u003cbr\u003e  took him two years of daily labor to make his \u003cb\u003emap\u003c/b\u003e of the USA, \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "khn6R8lOHY8J",
+   "formattedUrl": "gizmodo.com/.../the-best-nerdiest-map-of-the-us-took-6000-hours-to- complete",
+   "htmlFormattedUrl": "gizmodo.com/.../the-best-nerdiest-\u003cb\u003emap-of-the-us\u003c/b\u003e-took-6000-hours-to- complete",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://cache.gizmodo.com/assets/images/4/2012/01/fb_9bb6a45ff5f4395298892e09ef4e302c.jpg",
+      "type": "1",
+      "width": "160",
+      "height": "160"
+     }
+    ],
+    "metatags": [
+     {
+      "og:image": "http://cache.gizmodo.com/assets/images/4/2012/01/fb_9bb6a45ff5f4395298892e09ef4e302c.jpg",
+      "og:site_name": "Gizmodo",
+      "og:title": "The Best, Nerdiest Map of the US Took 6,000 Hours to Complete",
+      "og:description": "Meed David Imus, the  OCD cartographer behind one masterpiece of a map. It took him two years of daily labor to make his map of the USA, which has been officially named the greatest paper map of the year. Imus' map, \"The Essential Geography of the United States\" won the Best in Show award given out...",
+      "og:type": "article",
+      "og:url": "http://gizmodo.com/5872417/the-best-nerdiest-map-of-the-us-took-6000-hours-to-complete",
+      "viewport": "width=1024"
+     }
+    ]
+   }
+  }
+ ]
+}

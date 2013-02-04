@@ -1,0 +1,328 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "nextPage": [
+   {
+    "title": "Google Custom Search - the current",
+    "totalResults": "1650000000",
+    "searchTerms": "the current",
+    "count": 10,
+    "startIndex": 11,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "017401104989814545383:mf4lavmtuva"
+   }
+  ],
+  "request": [
+   {
+    "title": "Google Custom Search - the current",
+    "totalResults": "1650000000",
+    "searchTerms": "the current",
+    "count": 10,
+    "startIndex": 1,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "017401104989814545383:mf4lavmtuva"
+   }
+  ]
+ },
+ "context": {
+  "title": "College MetaSearch Comparison"
+ },
+ "searchInformation": {
+  "searchTime": 0.205106,
+  "formattedSearchTime": "0.21",
+  "totalResults": "1650000000",
+  "formattedTotalResults": "1,650,000,000"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "The Current from Minnesota Public Radio",
+   "htmlTitle": "\u003cb\u003eThe Current\u003c/b\u003e from Minnesota Public Radio",
+   "link": "http://minnesota.publicradio.org/radio/services/the_current/",
+   "displayLink": "minnesota.publicradio.org",
+   "snippet": "Music playlists, DJ bios, and other program information for 89.3 The Current from   Minnesota Public Radio.",
+   "htmlSnippet": "Music playlists, DJ bios, and other program information for 89.3 \u003cb\u003eThe Current\u003c/b\u003e from \u003cbr\u003e  Minnesota Public Radio.",
+   "cacheId": "9mgGKuAufR0J",
+   "formattedUrl": "minnesota.publicradio.org/radio/services/the_current/",
+   "htmlFormattedUrl": "minnesota.publicradio.org/radio/services/\u003cb\u003ethe_current\u003c/b\u003e/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://minnesota.publicradio.org/standard/images/mpr006/current/header/logo.png",
+      "type": "1",
+      "width": "224",
+      "height": "138"
+     }
+    ],
+    "metatags": [
+     {
+      "author": "Minnesota Public Radio",
+      "mpr-site": "the-current",
+      "wt.cg_n": "Current Home",
+      "og:title": "The Current from Minnesota Public Radio",
+      "og:type": "music.radio_station",
+      "og:image": "http://minnesota.publicradio.org/standard/images/mpr006/current/header/logo.png",
+      "og:url": "http://minnesota.publicradio.org/radio/services/the_current/",
+      "og:site_name": "The Current from Minnesota Public Radio",
+      "og:description": "Music playlists, DJ bios, and other program information for 89.3 The Current from Minnesota Public Radio.",
+      "og:audio": "http://minnesota.publicradio.org/radio/services/the_current/streams.shtml",
+      "fb:admins": "517623060"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "The Current",
+   "htmlTitle": "\u003cb\u003eThe Current\u003c/b\u003e",
+   "link": "http://www.currentland.com/",
+   "displayLink": "www.currentland.com",
+   "snippet": "Sunday, Jul 22. Contraband · Chelsea Cafe Eureka Springs, AR. Gospel Brunch   Brick Fields Band · New Delhi Cafe Eureka Springs, AR. Jason Gordon ...",
+   "htmlSnippet": "Sunday, Jul 22. Contraband &middot; Chelsea Cafe Eureka Springs, AR. Gospel Brunch \u003cbr\u003e  Brick Fields Band &middot; New Delhi Cafe Eureka Springs, AR. Jason Gordon \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "m6IuM1f-e9UJ",
+   "formattedUrl": "www.currentland.com/",
+   "htmlFormattedUrl": "www.\u003cb\u003ecurrent\u003c/b\u003eland.com/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.currentland.com/Portals/0/Article_Images/thumbs/1724_DINE_JosesARK.jpg",
+      "type": "1",
+      "width": "160",
+      "height": "160"
+     }
+    ],
+    "metatags": [
+     {
+      "copyright": "Copyright 2012 by Barlow Publishing, LLC",
+      "author": "Currentland.com",
+      "resource-type": "DOCUMENT",
+      "distribution": "GLOBAL",
+      "rating": "GENERAL",
+      "websitespark": "1ZRdKaOJ6cO"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Live Stream | 89.3 The Current",
+   "htmlTitle": "Live Stream | 89.3 \u003cb\u003eThe Current\u003c/b\u003e",
+   "link": "http://minnesota.publicradio.org/radio/services/the_current/streams.shtml",
+   "displayLink": "minnesota.publicradio.org",
+   "snippet": "The Current - Minnesota Public Radio ... The married folk duo Shovels & Rope   brought their act to The Current studios to play a few songs and talk with Bill ...",
+   "htmlSnippet": "\u003cb\u003eThe Current\u003c/b\u003e - Minnesota Public Radio \u003cb\u003e...\u003c/b\u003e The married folk duo Shovels &amp; Rope \u003cbr\u003e  brought their act to \u003cb\u003eThe Current\u003c/b\u003e studios to play a few songs and talk with Bill \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "vAkC8N7eRXQJ",
+   "formattedUrl": "minnesota.publicradio.org/radio/services/the_current/streams.shtml",
+   "htmlFormattedUrl": "minnesota.publicradio.org/radio/services/\u003cb\u003ethe_current\u003c/b\u003e/streams.shtml",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://images.publicradio.org/content/2012/07/13/20120713_delta-rae_1.jpg",
+      "type": "1",
+      "width": "96",
+      "height": "72"
+     }
+    ],
+    "metatags": [
+     {
+      "author": "Minnesota Public Radio",
+      "mpr-site": "the-current",
+      "wt.cg_n": "Current"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Positive Hit Radio - The Current : Your Home For Top-40 Positive ...",
+   "htmlTitle": "Positive Hit Radio - \u003cb\u003eThe Current\u003c/b\u003e : Your Home For Top-40 Positive \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://currentfm.com/",
+   "displayLink": "currentfm.com",
+   "snippet": "Positive Hit Radio The Current is your leader in fresh, modern, Top-40 Positive   Hit Music in the Hampton Roads, Virginia Area.",
+   "htmlSnippet": "Positive Hit Radio \u003cb\u003eThe Current\u003c/b\u003e is your leader in fresh, modern, Top-40 Positive \u003cbr\u003e  Hit Music in the Hampton Roads, Virginia Area.",
+   "cacheId": "6r6g8II35R8J",
+   "formattedUrl": "currentfm.com/",
+   "htmlFormattedUrl": "\u003cb\u003ecurrent\u003c/b\u003efm.com/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://currentfm.com/071212b.jpg",
+      "type": "1",
+      "width": "267",
+      "height": "189"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Daily Playlist | The Current from Minnesota Public Radio",
+   "htmlTitle": "Daily Playlist | \u003cb\u003eThe Current\u003c/b\u003e from Minnesota Public Radio",
+   "link": "http://minnesota.publicradio.org/radio/services/the_current/playlist/",
+   "displayLink": "minnesota.publicradio.org",
+   "snippet": "Music playlists for The Current from Minnesota Public Radio.",
+   "htmlSnippet": "Music playlists for \u003cb\u003eThe Current\u003c/b\u003e from Minnesota Public Radio.",
+   "cacheId": "Zu0aNFKR-IsJ",
+   "formattedUrl": "minnesota.publicradio.org/radio/services/the_current/playlist/",
+   "htmlFormattedUrl": "minnesota.publicradio.org/radio/services/\u003cb\u003ethe_current\u003c/b\u003e/playlist/",
+   "pagemap": {
+    "metatags": [
+     {
+      "author": "Minnesota Public Radio",
+      "mpr-site": "the-current",
+      "wt.cg_n": "Current Playlist",
+      "og:site_name": "The Current from Minnesota Public Radio"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "The Columbia Current — A journal of contemporary politics, culture ...",
+   "htmlTitle": "The Columbia \u003cb\u003eCurrent\u003c/b\u003e — A journal of contemporary politics, culture \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://columbiacurrent.org/",
+   "displayLink": "columbiacurrent.org",
+   "snippet": "Neuroticism, especially the Jewish kind, has gifted the world with many works of   note. Where would we be today without Philip, Larry, or Woody? Yet, indulging ...",
+   "htmlSnippet": "Neuroticism, especially the Jewish kind, has gifted the world with many works of \u003cbr\u003e  note. Where would we be today without Philip, Larry, or Woody? Yet, indulging \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "lLs09CgTw3sJ",
+   "formattedUrl": "columbiacurrent.org/",
+   "htmlFormattedUrl": "columbia\u003cb\u003ecurrent\u003c/b\u003e.org/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://columbiacurrent.org/wp-content/themes/monograph/scripts/440x250xtimthumb.php,qsrc=,hcolumbiacurrent.org,_wp-content,_uploads,_2011,_12,_dean_feature.jpg,ah=250,aw=440,azc=1.pagespeed.ic.wz86g97vF2.jpg",
+      "type": "1",
+      "width": "298",
+      "height": "169"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "San Antonio Current",
+   "htmlTitle": "San Antonio \u003cb\u003eCurrent\u003c/b\u003e",
+   "link": "http://sacurrent.com/",
+   "displayLink": "sacurrent.com",
+   "snippet": "Your guide to all things San Antonio. Smart and sometimes biting spin on local   politics, music, nightlife, food, visual and performing arts, and so much more.",
+   "htmlSnippet": "Your guide to all things San Antonio. Smart and sometimes biting spin on local \u003cbr\u003e  politics, music, nightlife, food, visual and performing arts, and so much more.",
+   "cacheId": "WSYvB-EIhVEJ",
+   "formattedUrl": "sacurrent.com/",
+   "htmlFormattedUrl": "sa\u003cb\u003ecurrent\u003c/b\u003e.com/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://sacurrent.com/polopoly_fs/1.1344291.1342482763!/image/1106707083.jpg_gen/derivatives/box_100/1106707083.jpg",
+      "type": "1",
+      "width": "80",
+      "height": "80"
+     }
+    ],
+    "metatags": [
+     {
+      "title": "San Antonio Current",
+      "dc.title": "San Antonio Current",
+      "dc.subject": "Home Page",
+      "y_key": "3c537bbdeac1ae1e"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "The Current",
+   "htmlTitle": "\u003cb\u003eThe Current\u003c/b\u003e",
+   "link": "http://thecurrent.theatlantic.com/",
+   "displayLink": "thecurrent.theatlantic.com",
+   "snippet": "Spencer Platt/Getty Images. The bailout bill has passed. But how will we know if it   succeeds? By Robert E. Litan. So, will it work? Now that Congress has passed ...",
+   "htmlSnippet": "Spencer Platt/Getty Images. The bailout bill has passed. But how will we know if it \u003cbr\u003e  succeeds? By Robert E. Litan. So, will it work? Now that Congress has passed \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "sWnfVxTqz4sJ",
+   "formattedUrl": "thecurrent.theatlantic.com/",
+   "htmlFormattedUrl": "\u003cb\u003ethecurrent\u003c/b\u003e.theatlantic.com/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://thecurrent.theatlantic.com/will%20it%20work%3F%20240%20540.jpg",
+      "type": "1",
+      "width": "337",
+      "height": "150"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "The Current Music Blog | The Current from Minnesota Public Radio",
+   "htmlTitle": "\u003cb\u003eThe Current\u003c/b\u003e Music Blog | \u003cb\u003eThe Current\u003c/b\u003e from Minnesota Public Radio",
+   "link": "http://minnesota.publicradio.org/collections/special/columns/music_blog/",
+   "displayLink": "minnesota.publicradio.org",
+   "snippet": "2 days ago ... The Current's Music Blog is your daily note for good music, news, and pop culture  . With attempted jokes.",
+   "htmlSnippet": "2 days ago \u003cb\u003e...\u003c/b\u003e \u003cb\u003eThe Current&#39;s\u003c/b\u003e Music Blog is your daily note for good music, news, and pop culture\u003cbr\u003e  . With attempted jokes.",
+   "cacheId": "jQOCHC-qzXUJ",
+   "formattedUrl": "minnesota.publicradio.org/collections/special/columns/music_blog/",
+   "htmlFormattedUrl": "minnesota.publicradio.org/collections/special/columns/music_blog/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://minnesota.publicradio.org/standard/images/mpr006/current/header/currentLogo.gif",
+      "type": "1",
+      "width": "161",
+      "height": "80"
+     }
+    ],
+    "metatags": [
+     {
+      "mpr-subsite": "The Current Music Blog",
+      "author": "Minnesota Public Radio",
+      "mpr-site": "the-current",
+      "wt.cg_n": "Current Schedules and Programs",
+      "og:site_name": "The Current from Minnesota Public Radio"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Keep Me Current: Hometown Newspapers serving local communities",
+   "htmlTitle": "Keep Me \u003cb\u003eCurrent\u003c/b\u003e: Hometown Newspapers serving local communities",
+   "link": "http://www.keepmecurrent.com/",
+   "displayLink": "www.keepmecurrent.com",
+   "snippet": "Hometown Newspapers serving local communities.",
+   "htmlSnippet": "Hometown Newspapers serving local communities.",
+   "formattedUrl": "www.keepmecurrent.com/",
+   "htmlFormattedUrl": "www.keepme\u003cb\u003ecurrent\u003c/b\u003e.com/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://bloximages.chicago2.vip.townnews.com/keepmecurrent.com/content/tncms/assets/v3/editorial/d/f2/df29da72-d023-11e1-8a07-001a4bcf887a/5005844c700bd.preview-300.jpg",
+      "type": "1",
+      "width": "226",
+      "height": "223"
+     }
+    ],
+    "metatags": [
+     {
+      "og:title": "Keep Me Current",
+      "og:site_name": "Keep Me Current",
+      "fb:app_id": "160891933927903"
+     }
+    ],
+    "hcard": [
+     {
+      "fn": "Keep Me Current",
+      "url": "http://www.keepmecurrent.com/",
+      "url_text": "Keep Me Current"
+     }
+    ]
+   }
+  }
+ ]
+}

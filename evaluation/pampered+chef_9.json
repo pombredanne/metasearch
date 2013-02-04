@@ -1,0 +1,496 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "nextPage": [
+   {
+    "title": "Google Custom Search - pampered chef",
+    "totalResults": "992000",
+    "searchTerms": "pampered chef",
+    "count": 10,
+    "startIndex": 101,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "017401104989814545383:mf4lavmtuva"
+   }
+  ],
+  "request": [
+   {
+    "title": "Google Custom Search - pampered chef",
+    "totalResults": "992000",
+    "searchTerms": "pampered chef",
+    "count": 10,
+    "startIndex": 91,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "017401104989814545383:mf4lavmtuva"
+   }
+  ],
+  "previousPage": [
+   {
+    "title": "Google Custom Search - pampered chef",
+    "totalResults": "992000",
+    "searchTerms": "pampered chef",
+    "count": 10,
+    "startIndex": 81,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "017401104989814545383:mf4lavmtuva"
+   }
+  ]
+ },
+ "context": {
+  "title": "College MetaSearch Comparison"
+ },
+ "searchInformation": {
+  "searchTime": 0.222399,
+  "formattedSearchTime": "0.22",
+  "totalResults": "992000",
+  "formattedTotalResults": "992,000"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "Amazon.com: The Pampered Chef. Let's Eat! Recipes for Every Meal ...",
+   "htmlTitle": "Amazon.com: The \u003cb\u003ePampered Chef\u003c/b\u003e. Let&#39;s Eat! Recipes for Every Meal \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://www.amazon.com/Pampered-Chef-Recipes-Every-Meal/dp/B000S52VTU",
+   "displayLink": "www.amazon.com",
+   "snippet": "The Pampered Chef Let's Eat cookbook was made just for you! Thje recipes are   fun, easy to make and best of all, they taste great. You'll feel so proud when you ...",
+   "htmlSnippet": "The \u003cb\u003ePampered Chef\u003c/b\u003e Let&#39;s Eat cookbook was made just for you! Thje recipes are \u003cbr\u003e  fun, easy to make and best of all, they taste great. You&#39;ll feel so proud when you \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "uZmZe3ysrdEJ",
+   "formattedUrl": "www.amazon.com/Pampered-Chef-Recipes-Every.../B000S52VTU",
+   "htmlFormattedUrl": "www.amazon.com/\u003cb\u003ePampered\u003c/b\u003e-\u003cb\u003eChef\u003c/b\u003e-Recipes-Every.../B000S52VTU",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://ecx.images-amazon.com/images/I/41ccM9N8DsL._SL500_AA300_.jpg"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "225",
+      "height": "225",
+      "src": "https://encrypted-tbn3.google.com/images?q=tbn:ANd9GcQAKjj5PTo5NOsl5CHLurE9f63MdGLSSibHUZ5T4kbJJDHKsUg6TiayLTE"
+     }
+    ],
+    "scraped": [
+     {
+      "image_link": "http://ecx.images-amazon.com/images/I/41ccM9N8DsL._SL500_AA300_.jpg"
+     }
+    ],
+    "metatags": [
+     {
+      "title": "Amazon.com: The Pampered Chef. Let's Eat! Recipes for Every Meal... All you add is fun!: Ltd. The Pampered Chef: Books"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "The Pampered Chef Sponsored Programs - PRO Insurance ...",
+   "htmlTitle": "The \u003cb\u003ePampered Chef\u003c/b\u003e Sponsored Programs - PRO Insurance \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://www.pro4.us/tpc.asp",
+   "displayLink": "www.pro4.us",
+   "snippet": "The Pampered Chef is pleased to offer you access to leading national insurance   programs through PRO Insurance Managers. PRO is one of the nations leading ...",
+   "htmlSnippet": "The \u003cb\u003ePampered Chef\u003c/b\u003e is pleased to offer you access to leading national insurance \u003cbr\u003e  programs through PRO Insurance Managers. PRO is one of the nations leading \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "tkBghkrTquMJ",
+   "formattedUrl": "www.pro4.us/tpc.asp",
+   "htmlFormattedUrl": "www.pro4.us/tpc.asp",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.pro4.us/images/gfx_dsaaff.jpg",
+      "type": "1",
+      "width": "100",
+      "height": "88"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "pampered chef | eBay",
+   "htmlTitle": "\u003cb\u003epampered chef\u003c/b\u003e | eBay",
+   "link": "http://www.ebay.com/sch/Microwave-Cookware-/20633/i.html?_nkw=pampered+chef",
+   "displayLink": "www.ebay.com",
+   "snippet": "26 results ... Find pampered chef and pampered chef microwave chip maker from ...",
+   "htmlSnippet": "26 results \u003cb\u003e...\u003c/b\u003e Find \u003cb\u003epampered chef\u003c/b\u003e and \u003cb\u003epampered chef\u003c/b\u003e microwave chip maker from \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "-7Dp81EPOx4J",
+   "formattedUrl": "www.ebay.com/sch/Microwave.../i.html?_nkw=pampered+chef",
+   "htmlFormattedUrl": "www.ebay.com/sch/Microwave.../i.html?_nkw=\u003cb\u003epampered\u003c/b\u003e+\u003cb\u003echef\u003c/b\u003e",
+   "pagemap": {
+    "searchresultspage": [
+     {
+      "description": "26 results found for pampered chef"
+     }
+    ],
+    "offer": [
+     {
+      "url": "http://www.ebay.com/itm/PAMPERED-CHEF-Microwave-2-Qt-Vegetable-STEAMER-BOWL-STRAINER-w-LID-Micro-STEAM-/261063365344?pt=LH_DefaultDomain_0&hash=item3cc896d2e0",
+      "image": "http://thumbs1.ebaystatic.com/m/m_Lo75H2Zii-cB6VEHpZotg/140.jpg",
+      "name": "PAMPERED CHEF Microwave -2 Qt- Vegetable STEAMER BOWL STRAINER w LID Micro STEAM",
+      "price": "$7.99"
+     },
+     {
+      "url": "http://www.ebay.com/itm/PAMPERED-CHEF-Small-Micro-Cooker-Item-2776-NEW-For-Microwave-Cooking-/261067184960?pt=LH_DefaultDomain_0&hash=item3cc8d11b40",
+      "image": "http://thumbs1.ebaystatic.com/m/myGG0dlIOTA08HJt0SD8b6Q/140.jpg",
+      "name": "PAMPERED CHEF Small Micro Cooker Item #2776 NEW For Microwave Cooking",
+      "price": "$1.25"
+     },
+     {
+      "url": "http://www.ebay.com/itm/Pampered-chef-microwave-potato-chip-maker-/160847806681?pt=LH_DefaultDomain_0&hash=item257346c0d9",
+      "image": "http://thumbs2.ebaystatic.com/m/mTIrL_71Br-525LwCA-qwIg/140.jpg",
+      "name": "Pampered chef microwave potato chip maker",
+      "price": "$15.00"
+     },
+     {
+      "url": "http://www.ebay.com/itm/Pampered-Chef-Microwave-Rice-Cooker-/360467177549?pt=LH_DefaultDomain_0&hash=item53ed84a04d",
+      "image": "http://thumbs2.ebaystatic.com/m/mnFcAH2hJjznzPS612GYWzw/140.jpg",
+      "name": "Pampered Chef Microwave Rice Cooker",
+      "price": "$11.99"
+     },
+     {
+      "url": "http://www.ebay.com/itm/NEW-PAMPERED-CHEF-SET-LARGE-SMALL-BLACK-MICRO-COOKERS-/261069552634?pt=LH_DefaultDomain_0&hash=item3cc8f53bfa",
+      "image": "http://thumbs3.ebaystatic.com/m/mUCtfHX-UgRfNrKanxpq72Q/140.jpg",
+      "name": "NEW PAMPERED CHEF SET LARGE & SMALL BLACK MICRO COOKERS",
+      "price": "$17.95"
+     },
+     {
+      "url": "http://www.ebay.com/itm/The-Pampered-Chef-Rice-Cooker-Plus-2779-/280924662282?pt=LH_DefaultDomain_0&hash=item41686a2a0a",
+      "image": "http://thumbs3.ebaystatic.com/m/mxMfccrHvWfll8SaxvRSPHQ/140.jpg",
+      "name": "The Pampered Chef Rice Cooker Plus #2779",
+      "price": "$7.99"
+     },
+     {
+      "url": "http://www.ebay.com/itm/Pampered-Chef-Purple-Microwave-Steamer-Pan-/160832442386?pt=LH_DefaultDomain_0&hash=item25725c5012",
+      "image": "http://thumbs3.ebaystatic.com/m/mF04AMnmGcUgKb-d-y9qm_A/140.jpg",
+      "name": "Pampered Chef Purple Microwave Steamer Pan",
+      "price": "$7.99"
+     },
+     {
+      "url": "http://www.ebay.com/itm/PAMPERED-CHEF-RICE-COOKER-PLUS-2779-Steamer-/271019568725?pt=LH_DefaultDomain_0&hash=item3f1a066e55",
+      "image": "http://thumbs2.ebaystatic.com/m/mBU-ee7vW86pDfZfWTHW8-A/140.jpg",
+      "name": "PAMPERED CHEF RICE COOKER PLUS #2779 Steamer",
+      "price": "$9.99"
+     },
+     {
+      "url": "http://www.ebay.com/itm/Pampered-Chef-black-8-cup-2-quarter-microwave-bowl-and-lid-NICE-/110895497871?pt=LH_DefaultDomain_0&hash=item19d1e3028f",
+      "image": "http://thumbs4.ebaystatic.com/m/m6kyAukMkchgiPzvT3wJcYQ/140.jpg",
+      "name": "Pampered Chef black 8 cup (2 quarter) microwave bowl and lid NICE!!!",
+      "price": "$13.58"
+     },
+     {
+      "url": "http://www.ebay.com/itm/Pampered-Chef-Microwave-Steamer-1-QT-Black-/300742211732?pt=LH_DefaultDomain_0&hash=item4605a1f894",
+      "image": "http://thumbs1.ebaystatic.com/m/mb6fQoycZVOC9VpNneQfnQQ/140.jpg",
+      "name": "Pampered Chef Microwave Steamer 1 QT Black",
+      "price": "$3.76"
+     },
+     {
+      "url": "http://www.ebay.com/itm/NEW-PAMPERED-CHEF-SET-LARGE-SMALL-BLACK-MICRO-COOKERS-/261069552848?pt=LH_DefaultDomain_0&hash=item3cc8f53cd0",
+      "image": "http://thumbs1.ebaystatic.com/m/mUCtfHX-UgRfNrKanxpq72Q/140.jpg",
+      "name": "NEW PAMPERED CHEF SET LARGE & SMALL BLACK MICRO COOKERS",
+      "price": "$17.95"
+     },
+     {
+      "url": "http://www.ebay.com/itm/Pampered-Chef-black-4-cup-1-quarter-microwave-bowl-and-lid-NICE-/110866385348?pt=LH_DefaultDomain_0&hash=item19d026c9c4",
+      "image": "http://thumbs1.ebaystatic.com/m/mxv1fUL0etFeLVrt5D8-FEA/140.jpg",
+      "name": "Pampered Chef black 4 cup (1 quarter) microwave bowl and lid NICE!!!",
+      "price": "$8.25"
+     },
+     {
+      "url": "http://www.ebay.com/itm/2-Pampered-Chef-Microwave-Steamers-2-qt-1-qt-Micro-Cookers-w-Locking-Lids-/261067236346?pt=LH_DefaultDomain_0&hash=item3cc8d1e3fa",
+      "image": "http://thumbs3.ebaystatic.com/m/mbQvHjYZH5c9F8c2TRXpj9w/140.jpg",
+      "name": "2 Pampered Chef Microwave Steamers; 2 qt & 1 qt Micro-Cookers w/Locking Lids",
+      "price": "$19.99"
+     },
+     {
+      "url": "http://www.ebay.com/itm/Pampered-Chef-Microwave-Vegetable-Rice-Veggie-Cooker-2-PC-Handle-Black-Nice-/160806216420?pt=LH_DefaultDomain_0&hash=item2570cc22e4",
+      "image": "http://thumbs1.ebaystatic.com/m/msPrWl-otHvIrvM7zIW__sA/140.jpg",
+      "name": "Pampered Chef Microwave Vegetable Rice Veggie Cooker 2 PC Handle Black Nice",
+      "price": "$13.60"
+     },
+     {
+      "url": "http://www.ebay.com/itm/PAMPERED-CHEF-1-QUART-MICROWAVABLE-PAN-2-PIECE-SET-BLACK-COLOR-LOW-SHIP-/120950809587?pt=LH_DefaultDomain_0&hash=item1c293ae3f3",
+      "image": "http://thumbs4.ebaystatic.com/m/m9fdha1COoprtajlYXUO0-g/140.jpg",
+      "name": "PAMPERED CHEF 1 QUART MICROWAVABLE PAN-- 2 PIECE SET BLACK COLOR -LOW SHIP!!!",
+      "price": "$6.99"
+     },
+     {
+      "url": "http://www.ebay.com/itm/Pampered-Chef-Microwave-Chip-Maker-Set-Of-2-/320947385226?pt=LH_DefaultDomain_0&hash=item4ab9f4738a",
+      "image": "http://thumbs3.ebaystatic.com/m/mv8HVLI24gNa1rXVV-3RETA/140.jpg",
+      "name": "Pampered Chef Microwave Chip Maker Set Of 2",
+      "price": "$29.00"
+     },
+     {
+      "url": "http://www.ebay.com/itm/Pampered-Chef-Micro-Cooker-Microwave-Steamer-with-Lid-Strainer-2-qt-/251090768733?pt=LH_DefaultDomain_0&hash=item3a762d135d",
+      "image": "http://thumbs2.ebaystatic.com/m/mfKD16ws4L_1UgbeMqXdF9w/140.jpg",
+      "name": "Pampered Chef Micro Cooker Microwave Steamer with Lid Strainer 2 qt",
+      "price": "$15.99"
+     },
+     {
+      "url": "http://www.ebay.com/itm/The-Pampered-Chef-Covered-Micro-Cooker-Rice-Cooker-Set-of-2-Sizes-1-Qt-2-Qt-/370630904289?pt=LH_DefaultDomain_0&hash=item564b52c9e1",
+      "image": "http://thumbs2.ebaystatic.com/m/mYRP-ygRrMOXTB_bctdAlHg/140.jpg",
+      "name": "The Pampered Chef Covered Micro-Cooker Rice-Cooker Set of 2 Sizes, 1 Qt. & 2 Qt.",
+      "price": "$7.95"
+     },
+     {
+      "url": "http://www.ebay.com/itm/THE-PAMPERED-CHEF-1-QUART-MICROWAVEABLE-VEGETABLE-STEAMER-/251109227980?pt=LH_DefaultDomain_0&hash=item3a7746bdcc",
+      "image": "http://thumbs1.ebaystatic.com/m/maK2M9BYHx6HxitDYBPAyTQ/140.jpg",
+      "name": "THE PAMPERED CHEF 1 QUART MICROWAVEABLE VEGETABLE STEAMER",
+      "price": "$3.99"
+     },
+     {
+      "url": "http://www.ebay.com/itm/Pampered-Chef-Teddy-Bear-with-Heart-and-Angel-of-Hope-Cookie-Mold-Henn-Workshop-/160565634415?pt=LH_DefaultDomain_0&hash=item256275256f",
+      "image": "http://thumbs4.ebaystatic.com/m/mm88otWjvoLvy88i3OFecfA/140.jpg",
+      "name": "Pampered Chef Teddy Bear with Heart and Angel of Hope Cookie Mold Henn Workshop",
+      "price": "$11.95"
+     },
+     {
+      "url": "http://www.ebay.com/itm/PAMPERED-CHEF-MICROWAVE-COOKER-STEAMER-2-Qt-Great-/120952479294?pt=LH_DefaultDomain_0&hash=item1c29545e3e",
+      "image": "http://thumbs3.ebaystatic.com/m/mTKlXTPAoqjLr95TLK9mtiw/140.jpg",
+      "name": "PAMPERED CHEF MICROWAVE COOKER STEAMER 2 Qt~Great",
+      "price": "$14.99"
+     },
+     {
+      "url": "http://www.ebay.com/itm/PAMPERED-CHEF-MICRO-COOKER-STEAMER-1-QT-GUC-/260965541629?pt=LH_DefaultDomain_0&hash=item3cc2c226fd",
+      "image": "http://thumbs2.ebaystatic.com/m/m0p2ZlReItc6jdxs2T5UKww/140.jpg",
+      "name": "PAMPERED CHEF MICRO COOKER STEAMER 1 QT; GUC",
+      "price": "$10.99"
+     },
+     {
+      "url": "http://www.ebay.com/itm/The-Pampered-Chef-Large-Micro-Cooker-Microwave-Use-Only-Dual-Strainer-Lid-/180931497258?pt=LH_DefaultDomain_0&hash=item2a205b8d2a",
+      "image": "http://thumbs3.ebaystatic.com/m/mxF0oLovS7Cd2xPToZBlynA/140.jpg",
+      "name": "The Pampered Chef~ Large Micro Cooker~Microwa\u200bve Use Only~Dual Strainer Lid",
+      "price": "$7.00"
+     },
+     {
+      "url": "http://www.ebay.com/itm/Pampered-Chef-small-Micro-cooker-steamer-1-quart-qt-2276-/130734644091?pt=LH_DefaultDomain_0&hash=item1e70645b7b",
+      "image": "http://thumbs4.ebaystatic.com/m/m8Pv-dHbi-8FB4La-GQIz6w/140.jpg",
+      "name": "Pampered Chef small Micro-cooker/s\u200bteamer 1 quart qt #2276",
+      "price": "$14.99"
+     },
+     {
+      "url": "http://www.ebay.com/itm/Pampered-Chef-Microwave-Steamer-1-qt-Black-Pan-/320850184763?pt=LH_DefaultDomain_0&hash=item4ab4294a3b",
+      "image": "http://thumbs4.ebaystatic.com/m/mtBZcO4FMdDszp7T4Kmvwyw/140.jpg",
+      "name": "Pampered Chef Microwave Steamer 1 qt. Black Pan",
+      "price": "$7.55"
+     },
+     {
+      "url": "http://www.ebay.com/itm/Nice-PAMPERED-CHEF-Micro-Steamer-Strainer-Kitchen-2-Qt-Micro-Cooker-/330765552525?pt=LH_DefaultDomain_0&hash=item4d0329cb8d",
+      "image": "http://thumbs2.ebaystatic.com/m/mLpzwGui7uqyfkA492AuPDg/140.jpg",
+      "name": "Nice PAMPERED CHEF Micro Steamer Strainer Kitchen 2 Qt Micro Cooker",
+      "price": "$6.00"
+     }
+    ],
+    "metatags": [
+     {
+      "title": "pampered chef | eBay",
+      "msvalidate.01": "31154A785F516EC9842FC3BA2A70FB1A"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Pampered Chef Cookbook - Food.com - 39593",
+   "htmlTitle": "\u003cb\u003ePampered Chef\u003c/b\u003e Cookbook - Food.com - 39593",
+   "link": "http://www.food.com/cookbook/pampered-chef-39593",
+   "displayLink": "www.food.com",
+   "snippet": "See all of the recipes in the Pampered Chef cookbook on Food.com - 39593.",
+   "htmlSnippet": "See all of the recipes in the \u003cb\u003ePampered Chef\u003c/b\u003e cookbook on Food.com - 39593.",
+   "cacheId": "S5N73z72_H4J",
+   "formattedUrl": "www.food.com/cookbook/pampered-chef-39593",
+   "htmlFormattedUrl": "www.food.com/cookbook/\u003cb\u003epampered\u003c/b\u003e-\u003cb\u003echef\u003c/b\u003e-39593",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://img.food.com/img/recipes/10/44/59/thumbs/picL0S96a.jpg",
+      "type": "1",
+      "width": "88",
+      "height": "65"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Pampered Chef Nylon Pan Scrapers Set of 3 in Brown: Amazon.com ...",
+   "htmlTitle": "\u003cb\u003ePampered Chef\u003c/b\u003e Nylon Pan Scrapers Set of 3 in Brown: Amazon.com \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://www.amazon.com/Pampered-Chef-Nylon-Scrapers-Brown/dp/B001BX017W",
+   "displayLink": "www.amazon.com",
+   "snippet": "Set of three (3) pan scrapers. Meet your favorite scraper! Safely scrapes any   cookware surface clean without scratching and it removes stubborn, baked-on ...",
+   "htmlSnippet": "Set of three (3) pan scrapers. Meet your favorite scraper! Safely scrapes any \u003cbr\u003e  cookware surface clean without scratching and it removes stubborn, baked-on \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "ZinvT9GkKf0J",
+   "formattedUrl": "www.amazon.com/Pampered-Chef-Nylon-Scrapers.../B001BX017W",
+   "htmlFormattedUrl": "www.amazon.com/\u003cb\u003ePampered\u003c/b\u003e-\u003cb\u003eChef\u003c/b\u003e-Nylon-Scrapers.../B001BX017W",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://ecx.images-amazon.com/images/I/51tmPtTuMIL._SL500_AA300_.jpg"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "225",
+      "height": "225",
+      "src": "https://encrypted-tbn2.google.com/images?q=tbn:ANd9GcRNnTjRg9Ski08Qg-bsLatCDnGkwOHqDdSUxcJ5HkXKKHV5uYwt4EJVRtLL"
+     }
+    ],
+    "scraped": [
+     {
+      "image_link": "http://ecx.images-amazon.com/images/I/51tmPtTuMIL._SL500_AA300_.jpg"
+     }
+    ],
+    "metatags": [
+     {
+      "title": "Pampered Chef Nylon Pan Scrapers Set of 3 in Brown: Amazon.com: Home & Kitchen"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "DEEP COVERED BAKER Recipes",
+   "htmlTitle": "DEEP COVERED BAKER Recipes",
+   "link": "http://community.pamperedchef.com/file/get/access/8890a0750a/t/Deep+Covered+Recipe+Baker+Book.doc",
+   "displayLink": "community.pamperedchef.com",
+   "snippet": "CHICKEN TORTILLA CASSEROLE BY THE PAMPERED CHEF 23. HAWAIIAN   CHICKEN 24 ... 1 tbs Pampered Chef Crushed Peppercorn & Garlic Rub ...",
+   "htmlSnippet": "CHICKEN TORTILLA CASSEROLE BY THE \u003cb\u003ePAMPERED CHEF\u003c/b\u003e 23. HAWAIIAN \u003cbr\u003e  CHICKEN 24 \u003cb\u003e...\u003c/b\u003e 1 tbs \u003cb\u003ePampered Chef\u003c/b\u003e Crushed Peppercorn &amp; Garlic Rub \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "jOx-GA__enYJ",
+   "mime": "application/msword",
+   "fileFormat": "Microsoft Word",
+   "formattedUrl": "community.pamperedchef.com/.../Deep+Covered+Recipe+Baker+Book.doc",
+   "htmlFormattedUrl": "community.\u003cb\u003epamperedchef\u003c/b\u003e.com/.../Deep+Covered+Recipe+Baker+Book.doc"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Amazon.com: Pampered Chef Microwave Chip Maker Set: Kitchen ...",
+   "htmlTitle": "Amazon.com: \u003cb\u003ePampered Chef\u003c/b\u003e Microwave Chip Maker Set: Kitchen \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://www.amazon.com/Pampered-Chef-Microwave-Chip-Maker/dp/B005YPST4U",
+   "displayLink": "www.amazon.com",
+   "snippet": "Healthier homemade chips in just minutes! Holes & scalloped bases allow for air   flow while cooking. Try potatoes, sweet potatoes, apples and more!",
+   "htmlSnippet": "Healthier homemade chips in just minutes! Holes &amp; scalloped bases allow for air \u003cbr\u003e  flow while cooking. Try potatoes, sweet potatoes, apples and more!",
+   "cacheId": "r0pboVdhHdUJ",
+   "formattedUrl": "www.amazon.com/Pampered-Chef-Microwave.../B005YPST4U",
+   "htmlFormattedUrl": "www.amazon.com/\u003cb\u003ePampered\u003c/b\u003e-\u003cb\u003eChef\u003c/b\u003e-Microwave.../B005YPST4U",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://ecx.images-amazon.com/images/I/312lNp69U1L._SL500_SS100_.jpg",
+      "type": "1",
+      "width": "80",
+      "height": "80"
+     }
+    ],
+    "scraped": [
+     {
+      "image_link": "http://ecx.images-amazon.com/images/I/41TyIIxxqUL._SL500_AA300_.jpg"
+     }
+    ],
+    "metatags": [
+     {
+      "title": "Amazon.com: Pampered Chef Microwave Chip Maker Set: Kitchen & Dining"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Douglas Schanck | LinkedIn",
+   "htmlTitle": "Douglas Schanck | LinkedIn",
+   "link": "http://www.linkedin.com/pub/douglas-schanck/13/109/936",
+   "displayLink": "www.linkedin.com",
+   "snippet": "Douglas Schanck. Kitchen Consultant at The Pampered Chef. Location: Tampa/  St. Petersburg, Florida Area; Industry: Consumer Goods ...",
+   "htmlSnippet": "Douglas Schanck. Kitchen Consultant at The \u003cb\u003ePampered Chef\u003c/b\u003e. Location: Tampa/\u003cbr\u003e  St. Petersburg, Florida Area; Industry: Consumer Goods \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "SKXpVJE_S8cJ",
+   "formattedUrl": "www.linkedin.com/pub/douglas-schanck/13/109/936",
+   "htmlFormattedUrl": "www.linkedin.com/pub/douglas-schanck/13/109/936",
+   "pagemap": {
+    "person": [
+     {
+      "location": "Tampa/St. Petersburg, Florida Area",
+      "role": "Kitchen Consultant at The Pampered Chef"
+     }
+    ],
+    "metatags": [
+     {
+      "pageimpressionid": "f484f16a-8ed1-4b7d-8910-389d46192e72",
+      "pagekey": "nprofile-public-success",
+      "analyticsurl": "/analytics/noauthtracker"
+     }
+    ],
+    "hcard": [
+     {
+      "fn": "Douglas Schanck",
+      "title": "Kitchen Consultant at The Pampered Chef"
+     },
+     {
+      "fn": "The Pampered Chef"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "The Pampered Chef",
+   "htmlTitle": "The \u003cb\u003ePampered Chef\u003c/b\u003e",
+   "link": "http://feedingamerica.org/how-we-fight-hunger/our-partners/promotional-partners/pampered-chef.aspx",
+   "displayLink": "feedingamerica.org",
+   "snippet": "The Pampered Chef | 20th Anniversary Round-Up from the Heart This year marks   the 20th anniversary of The Pampered Chef's® partnership with Feeding ...",
+   "htmlSnippet": "The \u003cb\u003ePampered Chef\u003c/b\u003e | 20th Anniversary Round-Up from the Heart This year marks \u003cbr\u003e  the 20th anniversary of The \u003cb\u003ePampered Chef&#39;s\u003c/b\u003e® partnership with Feeding \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "VWWkzPOy-ckJ",
+   "formattedUrl": "feedingamerica.org/how-we-fight-hunger/.../pampered-chef.aspx",
+   "htmlFormattedUrl": "feedingamerica.org/how-we-fight-hunger/.../\u003cb\u003epampered\u003c/b\u003e-\u003cb\u003echef\u003c/b\u003e.aspx",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://feedingamerica.org/how-we-fight-hunger/our-partners/promotional-partners/~/media/Images/2011-how-we-fight-hunger/partners/a-promo/pc-trivet-150.ashx?w=150&h=164&as=1",
+      "type": "1",
+      "width": "120",
+      "height": "131"
+     }
+    ],
+    "metatags": [
+     {
+      "date": "2012-04-18",
+      "pagesite_{845d89ce-968f-4089-9a9f-770925bc94d2}": "bricks.coupons.com",
+      "pagesite_{05ec195b-e972-4d6c-8133-05544ead6ff9}": "feedingamerica.volunteermatch.org",
+      "pagesite_{72955714-e38e-4141-9f5a-b0eb756e9fba}": "secondharvest.volunteermatch.org",
+      "og:title": "The Pampered Chef",
+      "og:image": "http://feedingamerica.org/sitefiles/images/logo.png",
+      "og:site_name": "Feeding America",
+      "og:description": "Visit Feeding America, the nation's leading domestic hunger-relief charity. Feeding America's helps provide food to over 37 millions Americans each year.",
+      "og:type": "website",
+      "convio_subsource": "The Pampered Chef"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Pampered Chef with Trisha | Facebook",
+   "htmlTitle": "\u003cb\u003ePampered Chef\u003c/b\u003e with Trisha | Facebook",
+   "link": "http://www.facebook.com/pamperedchefwithtrisha",
+   "displayLink": "www.facebook.com",
+   "snippet": "Who wants to have a SPOOKTACULAR Friday the 13th Pampered Chef with   Trisha cooking show?! The first person to inbox me gets the date and something ...",
+   "htmlSnippet": "Who wants to have a SPOOKTACULAR Friday the 13th \u003cb\u003ePampered Chef\u003c/b\u003e with \u003cbr\u003e  Trisha cooking show?! The first person to inbox me gets the date and something \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "nInCSBxp-CAJ",
+   "formattedUrl": "www.facebook.com/pamperedchefwithtrisha",
+   "htmlFormattedUrl": "www.facebook.com/\u003cb\u003epamperedchef\u003c/b\u003ewithtrisha",
+   "pagemap": {
+    "organization": [
+     {
+      "photo": "http://profile.ak.fbcdn.net/hprofile-ak-snc4/71092_239384862746973_2081502582_n.jpg",
+      "name": "Pampered Chef with Trisha"
+     }
+    ]
+   }
+  }
+ ]
+}

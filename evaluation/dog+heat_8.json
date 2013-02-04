@@ -1,0 +1,364 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "nextPage": [
+   {
+    "title": "Google Custom Search - dog heat",
+    "totalResults": "59400000",
+    "searchTerms": "dog heat",
+    "count": 10,
+    "startIndex": 91,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "017401104989814545383:mf4lavmtuva"
+   }
+  ],
+  "request": [
+   {
+    "title": "Google Custom Search - dog heat",
+    "totalResults": "59400000",
+    "searchTerms": "dog heat",
+    "count": 10,
+    "startIndex": 81,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "017401104989814545383:mf4lavmtuva"
+   }
+  ],
+  "previousPage": [
+   {
+    "title": "Google Custom Search - dog heat",
+    "totalResults": "59400000",
+    "searchTerms": "dog heat",
+    "count": 10,
+    "startIndex": 71,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "017401104989814545383:mf4lavmtuva"
+   }
+  ]
+ },
+ "context": {
+  "title": "College MetaSearch Comparison"
+ },
+ "searchInformation": {
+  "searchTime": 0.128535,
+  "formattedSearchTime": "0.13",
+  "totalResults": "59400000",
+  "formattedTotalResults": "59,400,000"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "Urban Dictionary: dog-on-heat",
+   "htmlTitle": "Urban Dictionary: \u003cb\u003edog\u003c/b\u003e-on-\u003cb\u003eheat\u003c/b\u003e",
+   "link": "http://www.urbandictionary.com/define.php?term=dog-on-heat",
+   "displayLink": "www.urbandictionary.com",
+   "snippet": "Noun, abbreviation of \"Caged Dog On Heat\", which is used to define someone   who persistently follows members of the sex to which they are attracted ...",
+   "htmlSnippet": "Noun, abbreviation of &quot;Caged \u003cb\u003eDog\u003c/b\u003e On \u003cb\u003eHeat\u003c/b\u003e&quot;, which is used to define someone \u003cbr\u003e  who persistently follows members of the sex to which they are attracted ...",
+   "cacheId": "vd1apu8XPaMJ",
+   "formattedUrl": "www.urbandictionary.com/define.php?term=dog-on-heat",
+   "htmlFormattedUrl": "www.urbandictionary.com/define.php?term=\u003cb\u003edog\u003c/b\u003e-on-\u003cb\u003eheat\u003c/b\u003e",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://static0.urbandictionary.com/rel-30747e0/images/og_image.png"
+     }
+    ],
+    "metatags": [
+     {
+      "og:description": "Noun, abbreviation of \"Caged Dog On Heat\", which is used to define someone who persistently follows members of the sex to which they are attracted ...",
+      "og:title": "dog-on-heat",
+      "og:image": "http://static0.urbandictionary.com/rel-30747e0/images/og_image.png",
+      "og:site_name": "Urban Dictionary"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Dog Dehydration and Heat Stroke (Hyperthermia): Symptoms ...",
+   "htmlTitle": "\u003cb\u003eDog\u003c/b\u003e Dehydration and \u003cb\u003eHeat\u003c/b\u003e Stroke (Hyperthermia): Symptoms \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://www.medicinenet.com/pets/dog-health/heat_stroke_and_dehydration_in_dogs.htm",
+   "displayLink": "www.medicinenet.com",
+   "snippet": "Heat stroke is an emergency and requires immediate treatment. Because dogs   do not sweat (except to a minor degree through their foot pads), they do not ...",
+   "htmlSnippet": "\u003cb\u003eHeat\u003c/b\u003e stroke is an emergency and requires immediate treatment. Because \u003cb\u003edogs\u003c/b\u003e \u003cbr\u003e  do not sweat (except to a minor degree through their foot pads), they do not \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "3oQmSTN5kHAJ",
+   "formattedUrl": "www.medicinenet.com/pets/dog.../heat_stroke_and_dehydration_in_dogs. htm",
+   "htmlFormattedUrl": "www.medicinenet.com/\u003cb\u003epet\u003c/b\u003es/\u003cb\u003edog\u003c/b\u003e.../\u003cb\u003eheat\u003c/b\u003e_stroke_and_dehydration_in_\u003cb\u003edogs\u003c/b\u003e. htm",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://images.medicinenet.com/images/facebook/medicinenet/icons/icon_90x90_pets-dog.png"
+     }
+    ],
+    "webpage": [
+     {
+      "breadcrumb": "home \u003e pet health \u003e dog health \u003e heat stroke and dehydration in dogs article"
+     }
+    ],
+    "metatags": [
+     {
+      "og:title": "Dog Dehydration and Heat Stroke (Hyperthermia): Symptoms, Causes and Treatment on MedicineNet",
+      "og:description": "Learn about symptoms, causes and treatments of dehydration and heat stroke in dogs.",
+      "og:url": "http://www.medicinenet.com/pets/dog-health/heat_stroke_and_dehydration_in_dogs.htm",
+      "og:site_name": "MedicineNet",
+      "og:image": "http://images.medicinenet.com/images/facebook/medicinenet/icons/icon_90x90_pets-dog.png",
+      "fb:page_id": "111506915551297",
+      "og:type": "article",
+      "y_key": "2547cd0fb417c291"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Dog Heat Transfers - Dog Iron Ons - Dog Applied Graphic - Pro World",
+   "htmlTitle": "\u003cb\u003eDog Heat\u003c/b\u003e Transfers - Dog Iron Ons - Dog Applied Graphic - Pro World",
+   "link": "http://www.proworldinc.com/heat-transfers/dogs.html",
+   "displayLink": "www.proworldinc.com",
+   "snippet": "Items 1 - 20 of 644 ... ProWorld is your #1 Source for Dog Heat Transfers and Iron Ons. Find all of your   T-Shirt printing supplies at wholesale prices. Shop today!",
+   "htmlSnippet": "Items 1 - 20 of 644 \u003cb\u003e...\u003c/b\u003e ProWorld is your #1 Source for \u003cb\u003eDog Heat\u003c/b\u003e Transfers and Iron Ons. Find all of your \u003cbr\u003e  T-Shirt printing supplies at wholesale prices. Shop today!",
+   "cacheId": "49-XSoTnxmcJ",
+   "formattedUrl": "www.proworldinc.com/heat-transfers/dogs.html",
+   "htmlFormattedUrl": "www.proworldinc.com/\u003cb\u003eheat\u003c/b\u003e-transfers/\u003cb\u003edogs\u003c/b\u003e.html",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://media.proworldinc.com/media/catalog/product/cache/1/small_image/162x/9df78eab33525d08d6e5fb8d27136e95/i/m/image_1_904.jpg",
+      "type": "1",
+      "width": "129",
+      "height": "129"
+     }
+    ],
+    "hcard": [
+     {
+      "fn": "Pro World Inc."
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Pet heat stroke prevention | McDowellNews.com",
+   "htmlTitle": "\u003cb\u003ePet heat\u003c/b\u003e stroke prevention | McDowellNews.com",
+   "link": "http://www2.mcdowellnews.com/news/2012/jul/23/pet-heat-stroke-prevention-ar-2455999/",
+   "displayLink": "www2.mcdowellnews.com",
+   "snippet": "2 days ago ... Heat can affect anyone, even man's best friend. Every year, dogs, cats and many   other pets die from being left inside hot cars or outside without ...",
+   "htmlSnippet": "2 days ago \u003cb\u003e...\u003c/b\u003e \u003cb\u003eHeat\u003c/b\u003e can affect anyone, even man&#39;s best friend. Every year, \u003cb\u003edogs\u003c/b\u003e, cats and many \u003cbr\u003e  other pets die from being left inside hot cars or outside without \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "hqQV8VOGIp8J",
+   "formattedUrl": "www2.mcdowellnews.com/.../pet-heat-stroke-prevention-ar-2455999/",
+   "htmlFormattedUrl": "www2.mcdowellnews.com/.../\u003cb\u003epet\u003c/b\u003e-\u003cb\u003eheat\u003c/b\u003e-stroke-prevention-ar-2455999/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www2.mcdowellnews.com/mgmedia/image/full/199014/mmn-dog/",
+      "type": "1",
+      "width": "259",
+      "height": "194"
+     }
+    ],
+    "article": [
+     {
+      "name": "McDowellNews.com",
+      "description": "Heat can affect anyone, even man’s best friend.",
+      "image": "http://www2.mcdowellnews.com/mgmedia/image/full/199014/mmn-dog/"
+     }
+    ],
+    "metatags": [
+     {
+      "viewport": "width=device-width",
+      "fb:app_id": "331744096469",
+      "fb:page_id": "60296246303",
+      "premium": "true",
+      "og:site_name": "McDowellNews.com",
+      "og:title": "Pet heat stroke prevention",
+      "og:url": "http://mcdowellnews.com/ar/2455999/",
+      "og:type": "article",
+      "og:description": "Heat can affect anyone, even man&rsquo;s best friend.",
+      "og:image": "http://www2.mcdowellnews.com/mgmedia/image/full/199014/mmn-dog/"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Pet heat Pad | Whelping Box | Cat heat pad from Petnap Ltd ...",
+   "htmlTitle": "\u003cb\u003ePet heat\u003c/b\u003e Pad | Whelping Box | Cat heat pad from Petnap Ltd \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://www.petnap.co.uk/",
+   "displayLink": "www.petnap.co.uk",
+   "snippet": "Petnap manufactures kittening products whelping boxes and pet heat pad. We   supply rescue centres, catteries and kennels all over the world, together with ...",
+   "htmlSnippet": "Petnap manufactures kittening products whelping boxes and \u003cb\u003epet heat\u003c/b\u003e pad. We \u003cbr\u003e  supply rescue centres, catteries and kennels all over the world, together with \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "ItHCnh0N17AJ",
+   "formattedUrl": "www.petnap.co.uk/",
+   "htmlFormattedUrl": "www.\u003cb\u003epet\u003c/b\u003enap.co.uk/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.petnap.co.uk/acatalog/petnap.JPG",
+      "type": "1",
+      "width": "124",
+      "height": "100"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Tips To Prevent Heat Stroke In Your Pet",
+   "htmlTitle": "Tips To Prevent \u003cb\u003eHeat\u003c/b\u003e Stroke In Your \u003cb\u003ePet\u003c/b\u003e",
+   "link": "http://vetmedicine.about.com/od/summerheathhazards/qt/QT_heatstroke.htm",
+   "displayLink": "vetmedicine.about.com",
+   "snippet": "Hot weather creates additional hazards for your pet. Unlike humans, animals can'  t change their wardrobe or turn on the air conditioning like humans do to keep ...",
+   "htmlSnippet": "Hot weather creates additional hazards for your \u003cb\u003epet\u003c/b\u003e. Unlike humans, animals can&#39;\u003cbr\u003e  t change their wardrobe or turn on the air conditioning like humans do to keep \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "jgrsNen03ZQJ",
+   "formattedUrl": "vetmedicine.about.com/od/summerheathhazards/.../QT_heatstroke.htm",
+   "htmlFormattedUrl": "vetmedicine.about.com/od/summer\u003cb\u003eheat\u003c/b\u003ehhazards/.../QT_\u003cb\u003eheat\u003c/b\u003estroke.htm",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://0.tqn.com/d/vetmedicine/1/G/S/a/SmilingSummerDog-Jennie_Faber-sm.jpg",
+      "type": "1",
+      "width": "128",
+      "height": "124"
+     }
+    ],
+    "metatags": [
+     {
+      "pd": "Monday, 02-Jul-2012 11:32:35 UTC",
+      "og:title": "Tips To Prevent Heat Stroke In Your Pet",
+      "og:type": "article",
+      "og:image": "http://0.tqn.com/d/vetmedicine/1/G/S/a/SmilingSummerDog-Jennie_Faber-sm.jpg",
+      "og:url": "http://vetmedicine.about.com/od/summerheathhazards/qt/QT_heatstroke.htm",
+      "og:site_name": "About.com Veterinary Medicine",
+      "fb:app_id": "121030274606741"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Keep Your Dog Safe in a Heat Wave: Summer Pet Safety: Pet Care",
+   "htmlTitle": "Keep Your \u003cb\u003eDog\u003c/b\u003e Safe in a \u003cb\u003eHeat\u003c/b\u003e Wave: Summer \u003cb\u003ePet\u003c/b\u003e Safety: \u003cb\u003ePet\u003c/b\u003e Care",
+   "link": "http://www.petfinder.com/pet-care/heat-wave-safety-dog.html",
+   "displayLink": "www.petfinder.com",
+   "snippet": "Dogs can suffer, and even die, in extreme heat. Find out how to keep your dog   safe when the temperature soars.",
+   "htmlSnippet": "\u003cb\u003eDogs\u003c/b\u003e can suffer, and even die, in extreme \u003cb\u003eheat\u003c/b\u003e. Find out how to keep your \u003cb\u003edog\u003c/b\u003e \u003cbr\u003e  safe when the temperature soars.",
+   "cacheId": "b--cPYBjq0AJ",
+   "formattedUrl": "www.petfinder.com/pet-care/heat-wave-safety-dog.html",
+   "htmlFormattedUrl": "www.\u003cb\u003epet\u003c/b\u003efinder.com/\u003cb\u003epet\u003c/b\u003e-care/\u003cb\u003eheat\u003c/b\u003e-wave-safety-\u003cb\u003edog\u003c/b\u003e.html",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.petfinder.com/tsmedia/pf/pet-care-summer-health.jpg",
+      "type": "1",
+      "width": "160",
+      "height": "142"
+     }
+    ],
+    "metatags": [
+     {
+      "fb:app_id": "93416190697",
+      "og:title": "Keep Your Dog Safe in a Heat Wave: Summer Pet Safety: Pet Care",
+      "og:type": "article",
+      "og:url": "http://www.petfinder.com/pet-care/heat-wave-safety-dog.html",
+      "og:image": "http://www.petfinder.com/tsmedia",
+      "og:site_name": "Petfinder.com",
+      "og:description": "Dogs can suffer, and even die, in extreme heat. Find out how to keep your dog safe when the temperature soars.",
+      "title": "Keep Your Dog Safe in a Heat Wave: Summer Pet Safety: Pet Care"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "MISSY 'MISDEMEANOR' ELLIOTT LYRICS - Dog In Heat",
+   "htmlTitle": "MISSY &#39;MISDEMEANOR&#39; ELLIOTT LYRICS - \u003cb\u003eDog\u003c/b\u003e In \u003cb\u003eHeat\u003c/b\u003e",
+   "link": "http://www.azlyrics.com/lyrics/missymisdemeanorelliott/doginheat.html",
+   "displayLink": "www.azlyrics.com",
+   "snippet": "Lyrics to \"Dog In Heat\" song by MISSY 'MISDEMEANOR' ELLIOTT: [Missy]   Gimme that funk, mmm.. Funk, mmm.. yo gimme that Funk.. sho' nuff that Funk.",
+   "htmlSnippet": "Lyrics to &quot;\u003cb\u003eDog\u003c/b\u003e In \u003cb\u003eHeat\u003c/b\u003e&quot; song by MISSY &#39;MISDEMEANOR&#39; ELLIOTT: [Missy] \u003cbr\u003e  Gimme that funk, mmm.. Funk, mmm.. yo gimme that Funk.. sho&#39; nuff that Funk.",
+   "formattedUrl": "www.azlyrics.com/lyrics/missymisdemeanorelliott/doginheat.html",
+   "htmlFormattedUrl": "www.azlyrics.com/lyrics/missymisdemeanorelliott/\u003cb\u003edog\u003c/b\u003ein\u003cb\u003eheat\u003c/b\u003e.html"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Chile Dogs Heat Up | FIDO Friendly",
+   "htmlTitle": "Chile \u003cb\u003eDogs Heat\u003c/b\u003e Up | FIDO Friendly",
+   "link": "http://www.fidofriendly.com/article/destinations-chile-dogs-heat-up",
+   "displayLink": "www.fidofriendly.com",
+   "snippet": "Chile Dogs Heat Up. Earthquake shakes writer back to the States. Story and   photography by Lorraine Chittock Will you stop scratching?” I mumble from a   deep ...",
+   "htmlSnippet": "Chile \u003cb\u003eDogs Heat\u003c/b\u003e Up. Earthquake shakes writer back to the States. Story and \u003cbr\u003e  photography by Lorraine Chittock Will you stop scratching?” I mumble from a \u003cbr\u003e  deep \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "EUiTAlNF0w8J",
+   "formattedUrl": "www.fidofriendly.com/article/destinations-chile-dogs-heat-up",
+   "htmlFormattedUrl": "www.fidofriendly.com/article/destinations-chile-\u003cb\u003edogs\u003c/b\u003e-\u003cb\u003eheat\u003c/b\u003e-up",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.fidofriendly.com/images/sized/files/badges/ChileDogs06-258x194.jpg",
+      "type": "1",
+      "width": "206",
+      "height": "155"
+     }
+    ],
+    "metatags": [
+     {
+      "viewport": "width=device-width,initial-scale=1",
+      "geo.position": "47.6000 ,-122.3167",
+      "geo.placename": "Seattle, Washington (state)",
+      "geo.region": "ISO 3166-2:US-WA",
+      "dc.title": "Chile Dogs Heat Up | FIDO Friendly",
+      "dc.subject": "FIDO Friendly Magazine",
+      "dc.publisher": "FIDO Friendly Magazine",
+      "dc.date.created": "2010-08-30T13:44:38-08:00",
+      "dc.date.modified": "2011-08-04T13:49:39-08:00",
+      "dc.date.valid": "2012-07-30T06:50:19-08:00",
+      "dc.type": "Text",
+      "dc.rights": "All rights lie with the publisher",
+      "dc.format": "text/html",
+      "dc.identifier": "http://www.fidofriendly.com/article/destinations-chile-dogs-heat-up",
+      "og:locale": "en_US",
+      "og:site_name": "FIDO Friendly",
+      "fb:admins": "1409957641,1045849338,602233941",
+      "fb:app_id": "138923922851681",
+      "og:email": "inquiries@fidofriendly.com",
+      "og:type": "article",
+      "og:title": "Chile Dogs Heat Up | FIDO Friendly",
+      "og:url": "http://www.fidofriendly.com/article/destinations-chile-dogs-heat-up",
+      "og:image": "http://www.fidofriendly.com//images/sized/files/badges/ChileDogs06-150x113.jpghttp://www.fidofriendly.com//images/sized/files/badges/ChileDogs01-150x113.jpghttp://www.fidofriendly.com//images/sized/files/badges/ChileDogs02-150x99.jpghttp://www.fidofriendly.com//images/sized/files/badges/ChileDogs08-150x113.jpghttp://www.fidofriendly.com//images/sized/files/badges/ChileDogs09-150x113.jpghttp://www.fidofriendly.com//images/sized/files/badges/ChileDogs10-150x113.jpghttp://www.fidofriendly.com//images/sized/files/badges/ChileDogs11-150x113.jpg",
+      "apple-mobile-web-app-capable": "yes"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Could Kool Collars Prevent Dog Heat Stroke?",
+   "htmlTitle": "Could Kool Collars Prevent \u003cb\u003eDog Heat\u003c/b\u003e Stroke?",
+   "link": "http://shadesgang.com/could-kool-collars-prevent-dog-heat-stroke/",
+   "displayLink": "shadesgang.com",
+   "snippet": "May 31, 2012 ... If you are a dog lover you can protect your dog from serious heat problems with   these innovative techniques combined with the right Kool Collar ...",
+   "htmlSnippet": "May 31, 2012 \u003cb\u003e...\u003c/b\u003e If you are a \u003cb\u003edog\u003c/b\u003e lover you can protect your \u003cb\u003edog\u003c/b\u003e from serious \u003cb\u003eheat\u003c/b\u003e problems with \u003cbr\u003e  these innovative techniques combined with the right Kool Collar \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "HPxWmVbBKu4J",
+   "formattedUrl": "shadesgang.com/could-kool-collars-prevent-dog-heat-stroke/",
+   "htmlFormattedUrl": "shadesgang.com/could-kool-collars-prevent-\u003cb\u003edog\u003c/b\u003e-\u003cb\u003eheat\u003c/b\u003e-stroke/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://shadesgang.com/wp-content/uploads/2012/05/Koolcollar1.jpg",
+      "type": "1",
+      "width": "128",
+      "height": "128"
+     }
+    ]
+   }
+  }
+ ]
+}

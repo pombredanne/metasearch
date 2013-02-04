@@ -1,0 +1,346 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "nextPage": [
+   {
+    "title": "Google Custom Search - dinosaurs",
+    "totalResults": "10800000",
+    "searchTerms": "dinosaurs",
+    "count": 10,
+    "startIndex": 31,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "017401104989814545383:mf4lavmtuva"
+   }
+  ],
+  "request": [
+   {
+    "title": "Google Custom Search - dinosaurs",
+    "totalResults": "10800000",
+    "searchTerms": "dinosaurs",
+    "count": 10,
+    "startIndex": 21,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "017401104989814545383:mf4lavmtuva"
+   }
+  ],
+  "previousPage": [
+   {
+    "title": "Google Custom Search - dinosaurs",
+    "totalResults": "10800000",
+    "searchTerms": "dinosaurs",
+    "count": 10,
+    "startIndex": 11,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "017401104989814545383:mf4lavmtuva"
+   }
+  ]
+ },
+ "context": {
+  "title": "College MetaSearch Comparison"
+ },
+ "searchInformation": {
+  "searchTime": 0.150044,
+  "formattedSearchTime": "0.15",
+  "totalResults": "10800000",
+  "formattedTotalResults": "10,800,000"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "Dinosaur Videos : Videos : Discovery Channel",
+   "htmlTitle": "\u003cb\u003eDinosaur\u003c/b\u003e Videos : Videos : Discovery Channel",
+   "link": "http://dsc.discovery.com/video-topics/other/other-topics-dinosaur-videos.htm",
+   "displayLink": "dsc.discovery.com",
+   "snippet": "Dinosaurs are among nature's most amazing creations of all time. Check out   these dinosaur videos from Discovery today.",
+   "htmlSnippet": "\u003cb\u003eDinosaurs\u003c/b\u003e are among nature&#39;s most amazing creations of all time. Check out \u003cbr\u003e  these \u003cb\u003edinosaur\u003c/b\u003e videos from Discovery today.",
+   "cacheId": "1AdnNIzBAhEJ",
+   "formattedUrl": "dsc.discovery.com/video-topics/.../other-topics-dinosaur-videos.htm",
+   "htmlFormattedUrl": "dsc.discovery.com/video-topics/.../other-topics-\u003cb\u003edinosaur\u003c/b\u003e-videos.htm",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://netstorage.discovery.com/feeds/thumbnails2/2bd18447b55f57835bd1b868fa8dccb24194ecd9T.jpg"
+     }
+    ],
+    "metatags": [
+     {
+      "viewport": "width=1068",
+      "fb:admins": "100001675325868",
+      "fb:app_id": "157869477569917",
+      "og:title": "Dinosaur Videos : Videos : Discovery Channel",
+      "og:description": "Dinosaurs are among nature's most amazing creations of all time. Check out these dinosaur videos from Discovery today.",
+      "og:url": "http://dsc.discovery.com/video-topics/other/other-topics-dinosaur-videos.htm",
+      "og:site_name": "Discovery Channel",
+      "og:image": "http://netstorage.discovery.com/feeds/thumbnails2/2bd18447b55f57835bd1b868fa8dccb24194ecd9T.jpg",
+      "og:type": "video.other"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Dinosaurs at About.com",
+   "htmlTitle": "\u003cb\u003eDinosaurs\u003c/b\u003e at About.com",
+   "link": "http://dinosaurs.about.com/",
+   "displayLink": "dinosaurs.about.com",
+   "snippet": "2 days ago ... The most comprehensive site on the web devoted to dinosaurs and prehistoric   animals.",
+   "htmlSnippet": "2 days ago \u003cb\u003e...\u003c/b\u003e The most comprehensive site on the web devoted to \u003cb\u003edinosaurs\u003c/b\u003e and prehistoric \u003cbr\u003e  animals.",
+   "cacheId": "nHm3V9b5AxsJ",
+   "formattedUrl": "dinosaurs.about.com/",
+   "htmlFormattedUrl": "\u003cb\u003edinosaurs\u003c/b\u003e.about.com/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://0.tqn.com/d/dinosaurs/1/4/3/W/-/-/cavebearvscavelion.jpg",
+      "type": "1",
+      "width": "200",
+      "height": "125"
+     }
+    ],
+    "metatags": [
+     {
+      "pd": "Wednesday, 18-Jul-2012 13:56:58 UTC",
+      "docset": "6",
+      "og:title": "Dinosaurs at About.com",
+      "og:type": "website",
+      "og:url": "http://dinosaurs.about.com/",
+      "og:site_name": "About.com Dinosaurs",
+      "fb:app_id": "121030274606741"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Dinosaurs - YouTube",
+   "htmlTitle": "\u003cb\u003eDinosaurs\u003c/b\u003e - YouTube",
+   "link": "http://www.youtube.com/watch?v=7NzzzcOWPH0",
+   "displayLink": "www.youtube.com",
+   "snippet": "Mar 16, 2006 ... Sorry to tell you but I am living in 2036. \ufeff. Thegr8mario in reply to angrybirds6252 (  Show the comment) 2 months ago 8. Vote Up Vote Down ...",
+   "htmlSnippet": "Mar 16, 2006 \u003cb\u003e...\u003c/b\u003e Sorry to tell you but I am living in 2036. \ufeff. Thegr8mario in reply to angrybirds6252 (\u003cbr\u003e  Show the comment) 2 months ago 8. Vote Up Vote Down \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "mGUR2PWVfFMJ",
+   "formattedUrl": "www.youtube.com/watch?v=7NzzzcOWPH0",
+   "htmlFormattedUrl": "www.youtube.com/watch?v=7NzzzcOWPH0",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://i4.ytimg.com/vi/7NzzzcOWPH0/mqdefault.jpg",
+      "type": "1",
+      "width": "256",
+      "height": "144"
+     }
+    ],
+    "videoobject": [
+     {
+      "url": "http://www.youtube.com/watch?v=7NzzzcOWPH0",
+      "name": "Dinosaurs",
+      "description": "All copyright goes to its respectful owners. The TV Series Dinosaurs Follow this link for a dedicated Dinosaurs page!!! =) http://www.youtube.com/user/dinosa...",
+      "duration": "PT1M4S",
+      "unlisted": "False",
+      "paid": "False",
+      "thumbnailurl": "http://i4.ytimg.com/vi/7NzzzcOWPH0/hqdefault.jpg",
+      "embedurl": "http://www.youtube.com/v/7NzzzcOWPH0?version=3&autohide=1",
+      "playertype": "Flash",
+      "width": "480",
+      "height": "360"
+     }
+    ],
+    "person": [
+     {
+      "url": "http://www.youtube.com/user/Landofyourhistory"
+     }
+    ],
+    "metatags": [
+     {
+      "title": "Dinosaurs",
+      "og:url": "http://www.youtube.com/watch?v=7NzzzcOWPH0",
+      "og:title": "Dinosaurs",
+      "og:description": "All copyright goes to its respectful owners. The TV Series Dinosaurs Follow this link for a dedicated Dinosaurs page!!! =) http://www.youtube.com/user/dinosa...",
+      "og:type": "video",
+      "og:image": "http://i4.ytimg.com/vi/7NzzzcOWPH0/mqdefault.jpg",
+      "og:video": "http://www.youtube.com/v/7NzzzcOWPH0?version=3&autohide=1",
+      "og:video:type": "application/x-shockwave-flash",
+      "og:video:width": "480",
+      "og:video:height": "360",
+      "og:site_name": "YouTube",
+      "fb:app_id": "87741124305",
+      "twitter:player:width": "480",
+      "twitter:player:height": "360",
+      "attribution": "youtube_none/"
+     }
+    ],
+    "imageobject": [
+     {
+      "url": "http://i4.ytimg.com/vi/7NzzzcOWPH0/mqdefault.jpg",
+      "width": "320",
+      "height": "180"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Dinosaurs in Hawaii",
+   "htmlTitle": "\u003cb\u003eDinosaurs\u003c/b\u003e in Hawaii",
+   "link": "http://hcc.hawaii.edu/dinos/dinos.1.html",
+   "displayLink": "hcc.hawaii.edu",
+   "snippet": "Dinosaurs in Hawaii! Honolulu Community College invites you... For the first time   in Hawaii, there is a unique, free, permanent exhibit of dinosaur fossils ...",
+   "htmlSnippet": "\u003cb\u003eDinosaurs\u003c/b\u003e in Hawaii! Honolulu Community College invites you... For the first time \u003cbr\u003e  in Hawaii, there is a unique, free, permanent exhibit of \u003cb\u003edinosaur\u003c/b\u003e fossils \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "0I6sJdPxq6AJ",
+   "formattedUrl": "hcc.hawaii.edu/dinos/dinos.1.html",
+   "htmlFormattedUrl": "hcc.hawaii.edu/dinos/dinos.1.html",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://hcc.hawaii.edu/dinos/rex_eye.gif",
+      "type": "1",
+      "width": "112",
+      "height": "183"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "List of dinosaurs - Wikipedia, the free encyclopedia",
+   "htmlTitle": "List of \u003cb\u003edinosaurs\u003c/b\u003e - Wikipedia, the free encyclopedia",
+   "link": "http://en.wikipedia.org/wiki/List_of_dinosaurs",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "This list of dinosaurs is a comprehensive listing of all genera that have ever been   included in the superorder Dinosauria, excluding class Aves (birds, both living ...",
+   "htmlSnippet": "This list of \u003cb\u003edinosaurs\u003c/b\u003e is a comprehensive listing of all genera that have ever been \u003cbr\u003e  included in the superorder Dinosauria, excluding class Aves (birds, both living \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "pNUWoqoPeHsJ",
+   "formattedUrl": "en.wikipedia.org/wiki/List_of_dinosaurs",
+   "htmlFormattedUrl": "en.wikipedia.org/wiki/List_of_\u003cb\u003edinosaurs\u003c/b\u003e",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Abelisaurus_comahuensis.JPG/220px-Abelisaurus_comahuensis.JPG",
+      "type": "1",
+      "width": "176",
+      "height": "132"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Dinosaurs : Discovery News",
+   "htmlTitle": "\u003cb\u003eDinosaurs\u003c/b\u003e : Discovery News",
+   "link": "http://news.discovery.com/dinosaurs/",
+   "displayLink": "news.discovery.com",
+   "snippet": "4 days ago ... Federal officials have plans to seize a dinosaur skeleton on Friday that   paleontologists and Mongolian officials say was taken illegally from that ...",
+   "htmlSnippet": "4 days ago \u003cb\u003e...\u003c/b\u003e Federal officials have plans to seize a \u003cb\u003edinosaur\u003c/b\u003e skeleton on Friday that \u003cbr\u003e  paleontologists and Mongolian officials say was taken illegally from that \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "ASU1Uvu0BDcJ",
+   "formattedUrl": "news.discovery.com/dinosaurs/",
+   "htmlFormattedUrl": "news.discovery.com/\u003cb\u003edinosaurs\u003c/b\u003e/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://news.discovery.com/animals/2012/07/18/diplodocus278.jpg",
+      "type": "1",
+      "width": "222",
+      "height": "180"
+     }
+    ],
+    "metatags": [
+     {
+      "network": "Discovery News",
+      "launchdate": "19000101",
+      "expirationdate": "99991231",
+      "cvs": "$Id: tagListPageLayout.vm,v 1.22 2011/11/14 16:43:33 szhao Exp"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Dinobuzz: Dinosaur-Bird Relationships",
+   "htmlTitle": "Dinobuzz: \u003cb\u003eDinosaur\u003c/b\u003e-Bird Relationships",
+   "link": "http://www.ucmp.berkeley.edu/diapsids/avians.html",
+   "displayLink": "www.ucmp.berkeley.edu",
+   "snippet": "Using proper terminology, birds are avian dinosaurs; other dinosaurs are non-  avian dinosaurs, and (strange as it may sound) birds are technically considered ...",
+   "htmlSnippet": "Using proper terminology, birds are avian \u003cb\u003edinosaurs\u003c/b\u003e; other \u003cb\u003edinosaurs\u003c/b\u003e are non-\u003cbr\u003e  avian \u003cb\u003edinosaurs\u003c/b\u003e, and (strange as it may sound) birds are technically considered \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "DTHNDBTknI4J",
+   "formattedUrl": "www.ucmp.berkeley.edu/diapsids/avians.html",
+   "htmlFormattedUrl": "www.ucmp.berkeley.edu/diapsids/avians.html",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.ucmp.berkeley.edu/diapsids/buzz/emu.gif",
+      "type": "1",
+      "width": "131",
+      "height": "160"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Dinosaur National Monument",
+   "htmlTitle": "\u003cb\u003eDinosaur\u003c/b\u003e National Monument",
+   "link": "http://www.nps.gov/dino/",
+   "displayLink": "www.nps.gov",
+   "snippet": "Jul 3, 2012 ... Official National Park Service web site. Located near Vernal, Utah and Dinosaur,   Colorado.",
+   "htmlSnippet": "Jul 3, 2012 \u003cb\u003e...\u003c/b\u003e Official National Park Service web site. Located near Vernal, Utah and \u003cb\u003eDinosaur\u003c/b\u003e, \u003cbr\u003e  Colorado.",
+   "cacheId": "MwX_V7N0DlMJ",
+   "formattedUrl": "www.nps.gov/dino/",
+   "htmlFormattedUrl": "www.nps.gov/dino/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.nps.gov/imr/dino/images/BB841E40-1DD8-B71C-0E50AE3B262F9B19.jpg",
+      "type": "1",
+      "width": "120",
+      "height": "120"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Walking with Dinosaurs - The Arena Spectacular - Welcome",
+   "htmlTitle": "Walking with \u003cb\u003eDinosaurs\u003c/b\u003e - The Arena Spectacular - Welcome",
+   "link": "http://www.dinosaurlive.com/",
+   "displayLink": "www.dinosaurlive.com",
+   "snippet": "After a worldwide tour seen by over 7 million people in 206 cities, the stunning   theatrical event WALKING WITH DINOSAURS – The Arena Spectacular is back!",
+   "htmlSnippet": "After a worldwide tour seen by over 7 million people in 206 cities, the stunning \u003cbr\u003e  theatrical event WALKING WITH \u003cb\u003eDINOSAURS\u003c/b\u003e – The Arena Spectacular is back!",
+   "cacheId": "y05PQ9JQW-8J",
+   "formattedUrl": "www.dinosaurlive.com/",
+   "htmlFormattedUrl": "www.\u003cb\u003edinosaur\u003c/b\u003elive.com/",
+   "pagemap": {
+    "metatags": [
+     {
+      "handheldfriendly": "True",
+      "mobileoptimized": "320",
+      "viewport": "width=device-width, target-densitydpi=160, minimum-scale=1.0, maximum-scale=1.0",
+      "og:title": "Walking with Dinosaurs - The Arena Spectacular",
+      "og:description": "After a worldwide tour seen by over 7 million people in 206 cities, the stunning theatrical event WALKING WITH DINOSAURS – The Arena Spectacular is back!",
+      "og:site_name": "Walking with Dinosaurs",
+      "og:url": "http://www.dinosaurlive.com/"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Dinosauria On-Line",
+   "htmlTitle": "Dinosauria On-Line",
+   "link": "http://www.dinosauria.com/",
+   "displayLink": "www.dinosauria.com",
+   "snippet": "A tool for researching dinosaurs. Contains the Journal of Dinosaur Paleontology,   a collection of essays and e-mail discussions whose topics range from what ...",
+   "htmlSnippet": "A tool for researching \u003cb\u003edinosaurs\u003c/b\u003e. Contains the Journal of \u003cb\u003eDinosaur\u003c/b\u003e Paleontology, \u003cbr\u003e  a collection of essays and e-mail discussions whose topics range from what \u003cb\u003e...\u003c/b\u003e",
+   "formattedUrl": "www.dinosauria.com/",
+   "htmlFormattedUrl": "www.\u003cb\u003edinosaur\u003c/b\u003eia.com/"
+  }
+ ]
+}

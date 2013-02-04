@@ -1,0 +1,291 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "nextPage": [
+   {
+    "title": "Google Custom Search - french lick resort and casino",
+    "totalResults": "23600",
+    "searchTerms": "french lick resort and casino",
+    "count": 10,
+    "startIndex": 91,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "017401104989814545383:mf4lavmtuva"
+   }
+  ],
+  "request": [
+   {
+    "title": "Google Custom Search - french lick resort and casino",
+    "totalResults": "23600",
+    "searchTerms": "french lick resort and casino",
+    "count": 10,
+    "startIndex": 81,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "017401104989814545383:mf4lavmtuva"
+   }
+  ],
+  "previousPage": [
+   {
+    "title": "Google Custom Search - french lick resort and casino",
+    "totalResults": "23600",
+    "searchTerms": "french lick resort and casino",
+    "count": 10,
+    "startIndex": 71,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "017401104989814545383:mf4lavmtuva"
+   }
+  ]
+ },
+ "context": {
+  "title": "College MetaSearch Comparison"
+ },
+ "searchInformation": {
+  "searchTime": 0.302708,
+  "formattedSearchTime": "0.30",
+  "totalResults": "23600",
+  "formattedTotalResults": "23,600"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "Rodney Carrington Tickets at French Lick Springs Resort & Casino ...",
+   "htmlTitle": "Rodney Carrington Tickets at \u003cb\u003eFrench Lick\u003c/b\u003e Springs \u003cb\u003eResort\u003c/b\u003e &amp; \u003cb\u003eCasino\u003c/b\u003e \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://www.excite.com/events/concert-tickets/Rodney-Carrington/Rodney-Carrington-French-Lick-Springs-Resort-&-Casino/9-28-1891641",
+   "displayLink": "www.excite.com",
+   "snippet": "If you are looking for Cheap Tickets for Rodney Carrington on 09/28/2012 9:  30PM then you are in Luck at Excite Event. Absolute Bargains for Exclusive Seats ...",
+   "htmlSnippet": "If you are looking for Cheap Tickets for Rodney Carrington on 09/28/2012 9:\u003cbr\u003e  30PM then you are in Luck at Excite Event. Absolute Bargains for Exclusive Seats \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "5UPGOd3Sga8J",
+   "formattedUrl": "www.excite.com/...French-Lick...Resort-&-Casino/9-28-1891641",
+   "htmlFormattedUrl": "www.excite.com/...\u003cb\u003eFrench\u003c/b\u003e-\u003cb\u003eLick\u003c/b\u003e...\u003cb\u003eResort\u003c/b\u003e-&amp;-\u003cb\u003eCasino\u003c/b\u003e/9-28-1891641"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "French Lick Casino (@FLCasino) on Twitter",
+   "htmlTitle": "\u003cb\u003eFrench Lick Casino\u003c/b\u003e (@FLCasino) on Twitter",
+   "link": "http://twitter.com/flcasino",
+   "displayLink": "twitter.com",
+   "snippet": "Sign up for Twitter to follow French Lick Casino (@FLCasino). The French Lick   Casino is an amenity of the French Lick Resort, which includes the French Lick ...",
+   "htmlSnippet": "Sign up for Twitter to follow \u003cb\u003eFrench Lick Casino\u003c/b\u003e (@FLCasino). The \u003cb\u003eFrench Lick\u003c/b\u003e \u003cbr\u003e  \u003cb\u003eCasino\u003c/b\u003e is an amenity of the \u003cb\u003eFrench Lick Resort\u003c/b\u003e, which includes the \u003cb\u003eFrench Lick\u003c/b\u003e \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "cAjvEUg85XsJ",
+   "formattedUrl": "twitter.com/flcasino",
+   "htmlFormattedUrl": "twitter.com/fl\u003cb\u003ecasino\u003c/b\u003e",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://a0.twimg.com/profile_images/1187264782/IMG_0675f_lr_bigger.jpg",
+      "type": "1",
+      "width": "70",
+      "height": "70"
+     }
+    ],
+    "metatags": [
+     {
+      "viewport": "width = 780",
+      "page": "1",
+      "session-loggedin": "n",
+      "page-user-screen_name": "FLCasino"
+     }
+    ],
+    "hcard": [
+     {
+      "fn": "French Lick Casino",
+      "url": "http://www.frenchlick.com/",
+      "url_text": "http://www.french...",
+      "label": "Name"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Dale Nachreiner profiles | LinkedIn",
+   "htmlTitle": "Dale Nachreiner profiles | LinkedIn",
+   "link": "http://www.linkedin.com/pub/dir/Dale/Nachreiner",
+   "displayLink": "www.linkedin.com",
+   "snippet": "Current: Player Development Executive at French Lick Resort & Casino; Past:   Director Of Table Games at French Lick Resort & Casino, Senior Table Games ...",
+   "htmlSnippet": "Current: Player Development Executive at \u003cb\u003eFrench Lick Resort\u003c/b\u003e &amp; \u003cb\u003eCasino\u003c/b\u003e; Past: \u003cbr\u003e  Director Of Table Games at \u003cb\u003eFrench Lick Resort\u003c/b\u003e &amp; \u003cb\u003eCasino\u003c/b\u003e, Senior Table Games \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "Ms6LC2LNBOUJ",
+   "formattedUrl": "www.linkedin.com/pub/dir/Dale/Nachreiner",
+   "htmlFormattedUrl": "www.linkedin.com/pub/dir/Dale/Nachreiner"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "French Lick Indiana Vacation near Indiana University and Brown ...",
+   "htmlTitle": "\u003cb\u003eFrench Lick\u003c/b\u003e Indiana Vacation near Indiana University and Brown \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://www.frenchlickvacation.com/",
+   "displayLink": "www.frenchlickvacation.com",
+   "snippet": "The French Lick Springs Resort and Spa was built in the late 1800's. ... A   gambling casino was located just between the Pluto and Proserpine Springs and ...",
+   "htmlSnippet": "The \u003cb\u003eFrench Lick\u003c/b\u003e Springs \u003cb\u003eResort\u003c/b\u003e and Spa was built in the late 1800&#39;s. \u003cb\u003e...\u003c/b\u003e A \u003cbr\u003e  gambling \u003cb\u003ecasino\u003c/b\u003e was located just between the Pluto and Proserpine Springs and \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "yCpxp3JJ1UUJ",
+   "formattedUrl": "www.frenchlickvacation.com/",
+   "htmlFormattedUrl": "www.\u003cb\u003efrenchlick\u003c/b\u003evacation.com/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.frenchlickvacation.com/2008photos/historicrestoration.jpg",
+      "type": "1",
+      "width": "259",
+      "height": "194"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Indiana's French Lick Resort hosts Big Ten Men's and Women's Golf ...",
+   "htmlTitle": "Indiana&#39;s \u003cb\u003eFrench Lick Resort\u003c/b\u003e hosts Big Ten Men&#39;s and Women&#39;s Golf \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://www.worldgolf.com/newswire/browse/70735-French-Lick-Resort-Hosts-2012-Big-Ten-Men%E2%80%99s-and-Women%E2%80%99s-Golf-Championships",
+   "displayLink": "www.worldgolf.com",
+   "snippet": "French Lick Resort is a $500 million historic restoration and casino development   project that includes the West Baden Springs Hotel, French Lick Springs Hotel ...",
+   "htmlSnippet": "\u003cb\u003eFrench Lick Resort\u003c/b\u003e is a $500 million historic restoration and \u003cb\u003ecasino\u003c/b\u003e development \u003cbr\u003e  project that includes the West Baden Springs Hotel, \u003cb\u003eFrench Lick\u003c/b\u003e Springs Hotel \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "aiJeO7EzQQoJ",
+   "formattedUrl": "www.worldgolf.com/.../70735-French-Lick-Resort-Hosts-2012-Big-Ten- Men's-and-Women's-Golf-Championships",
+   "htmlFormattedUrl": "www.worldgolf.com/.../70735-\u003cb\u003eFrench\u003c/b\u003e-\u003cb\u003eLick\u003c/b\u003e-\u003cb\u003eResort\u003c/b\u003e-Hosts-2012-Big-Ten- Men’s-and-Women’s-Golf-Championships",
+   "pagemap": {
+    "metatags": [
+     {
+      "copyright": "WorldGolf.com LLC",
+      "dc.title": "Indiana's French Lick Resort hosts Big Ten Men's and Women's Golf Championships",
+      "language": "EN",
+      "rating": "safe for kids",
+      "og:site_name": "WorldGolf.com",
+      "fb:admins": "100001054465301,100000080012440"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "French Lick Resort Casino announces offering new golf packages ...",
+   "htmlTitle": "\u003cb\u003eFrench Lick Resort Casino\u003c/b\u003e announces offering new golf packages \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://www.worldgolf.com/newswire/browse/12985-French-Lick-Resort-Casino-announces-offering-new-golf-packages",
+   "displayLink": "www.worldgolf.com",
+   "snippet": "FRENCH LICK, Ind. -- French Lick Resort Casino, located in southern Indiana,   announces new golf packages, rates, and news for the 2008 golf season.",
+   "htmlSnippet": "FRENCH LICK, Ind. -- \u003cb\u003eFrench Lick Resort Casino\u003c/b\u003e, located in southern Indiana, \u003cbr\u003e  announces new golf packages, rates, and news for the 2008 golf season.",
+   "cacheId": "6wIFoWvoM3wJ",
+   "formattedUrl": "www.worldgolf.com/.../12985-French-Lick-Resort-Casino-announces- offering-new-golf-packages",
+   "htmlFormattedUrl": "www.worldgolf.com/.../12985-\u003cb\u003eFrench\u003c/b\u003e-\u003cb\u003eLick\u003c/b\u003e-\u003cb\u003eResort\u003c/b\u003e-\u003cb\u003eCasino\u003c/b\u003e-announces- offering-new-golf-packages",
+   "pagemap": {
+    "metatags": [
+     {
+      "copyright": "WorldGolf.com LLC",
+      "dc.title": "French Lick Resort Casino announces offering new golf packages",
+      "language": "EN",
+      "rating": "safe for kids",
+      "og:site_name": "WorldGolf.com",
+      "fb:admins": "100001054465301,100000080012440"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "French Lick Springs Resort and Casino, Land Based Casino in ...",
+   "htmlTitle": "\u003cb\u003eFrench Lick\u003c/b\u003e Springs \u003cb\u003eResort and Casino\u003c/b\u003e, Land Based Casino in \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://www.gamblegum.com/casinos/land-based/french_lick_springs_resort_and_casino_french_lick.cfm",
+   "displayLink": "www.gamblegum.com",
+   "snippet": "French Lick, Indiana, has drawn increased attention year after year since the   2007 opening of a casino along the banks of the Ohio River. Not for guests   looking ...",
+   "htmlSnippet": "\u003cb\u003eFrench Lick\u003c/b\u003e, Indiana, has drawn increased attention year after year since the \u003cbr\u003e  2007 opening of a \u003cb\u003ecasino\u003c/b\u003e along the banks of the Ohio River. Not for guests \u003cbr\u003e  looking \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "0JzDiAfwDZkJ",
+   "formattedUrl": "www.gamblegum.com/casinos/.../french_lick_springs_resort_and_casino_ french_lick.cfm",
+   "htmlFormattedUrl": "www.gamblegum.com/\u003cb\u003ecasinos\u003c/b\u003e/.../\u003cb\u003efrench\u003c/b\u003e_\u003cb\u003elick\u003c/b\u003e_springs_\u003cb\u003eresort_and_casino\u003c/b\u003e_ \u003cb\u003efrench\u003c/b\u003e_\u003cb\u003elick\u003c/b\u003e.cfm"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "New Pete Dye Course at French Lick Resort Slated for Spring Opening",
+   "htmlTitle": "New Pete Dye Course at \u003cb\u003eFrench Lick Resort\u003c/b\u003e Slated for Spring Opening",
+   "link": "http://www.cybergolf.com/golf_news/new_pete_dye_course_at_french_lick_resort_slated_for_spring_opening",
+   "displayLink": "www.cybergolf.com",
+   "snippet": "In all, the French Lick Resort Casino has undergone a $500 million renovation   and casino development program. The facility now includes the French Lick ...",
+   "htmlSnippet": "In all, the \u003cb\u003eFrench Lick Resort Casino\u003c/b\u003e has undergone a $500 million renovation \u003cbr\u003e  and casino development program. The facility now includes the French Lick \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "GokL5-rM-MUJ",
+   "formattedUrl": "www.cybergolf.com/.../new_pete_dye_course_at_french_lick_resort_slated_ for_spring_opening",
+   "htmlFormattedUrl": "www.cybergolf.com/.../new_pete_dye_course_at_\u003cb\u003efrench\u003c/b\u003e_\u003cb\u003elick\u003c/b\u003e_\u003cb\u003eresort\u003c/b\u003e_slated_ for_spring_opening",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.cybergolf.com/global/newsImages/6435_2.jpg",
+      "type": "1",
+      "width": "200",
+      "height": "144"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Big Splash Adventure Indoor Waterpark & Resort - 51 Reviews of ...",
+   "htmlTitle": "Big Splash Adventure Indoor Waterpark &amp; \u003cb\u003eResort\u003c/b\u003e - 51 Reviews of \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://www.tripadvisor.com/Attraction_Review-g37130-d1726413-Reviews-Big_Splash_Adventure_Indoor_Waterpark_Resort-French_Lick_Indiana.html",
+   "displayLink": "www.tripadvisor.com",
+   "snippet": "Big Splash Adventure Indoor Waterpark & Resort, French Lick: See 51 reviews,   articles, and photos of Big ... Adventure Indoor Waterpark & Resort, ranked No.3   on TripAdvisor among 4 attractions in French Lick. ... French Lick Resort Casino ...",
+   "htmlSnippet": "Big Splash Adventure Indoor Waterpark &amp; Resort, French Lick: See 51 reviews, \u003cbr\u003e  articles, and photos of Big \u003cb\u003e...\u003c/b\u003e Adventure Indoor Waterpark &amp; Resort, ranked No.3 \u003cbr\u003e  on TripAdvisor among 4 attractions in French Lick. \u003cb\u003e...\u003c/b\u003e \u003cb\u003eFrench Lick Resort Casino\u003c/b\u003e \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "CmlQhkUC0zIJ",
+   "formattedUrl": "www.tripadvisor.com/Attraction_Review-g37130-d1726413-Reviews-Big_ Splash_Adventure_Indoor_Waterpark_Resort-French_Lick_Indiana...",
+   "htmlFormattedUrl": "www.tripadvisor.com/Attraction_Review-g37130-d1726413-Reviews-Big_ Splash_Adventure_Indoor_Waterpark_\u003cb\u003eResort\u003c/b\u003e-\u003cb\u003eFrench\u003c/b\u003e_\u003cb\u003eLick\u003c/b\u003e_Indiana...",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://c1.tacdn.com/img2/postimg.jpg"
+     }
+    ],
+    "metatags": [
+     {
+      "og:image": "http://c1.tacdn.com/img2/postimg.jpg"
+     }
+    ],
+    "review": [
+     {
+      "ratingstars": "4.0",
+      "ratingcount": "51"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "French Lick Resort: Christmas Came Early to French Lick Casino ...",
+   "htmlTitle": "\u003cb\u003eFrench Lick Resort\u003c/b\u003e: Christmas Came Early to \u003cb\u003eFrench Lick Casino\u003c/b\u003e \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://frenchlickresort.blogspot.com/2009/12/christmas-came-early-to-french-lick.html",
+   "displayLink": "frenchlickresort.blogspot.com",
+   "snippet": "Dec 8, 2009 ... 'Tis the season to win big at French Lick Resort! Lady Luck definitely made her   appearance known when five of the casino's top jackpots were ...",
+   "htmlSnippet": "Dec 8, 2009 \u003cb\u003e...\u003c/b\u003e &#39;Tis the season to win big at \u003cb\u003eFrench Lick Resort\u003c/b\u003e! Lady Luck definitely made her \u003cbr\u003e  appearance known when five of the \u003cb\u003ecasino&#39;s\u003c/b\u003e top jackpots were \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "RSpi4bKisGcJ",
+   "formattedUrl": "frenchlickresort.blogspot.com/.../christmas-came-early-to-french-lick.html",
+   "htmlFormattedUrl": "\u003cb\u003efrenchlickresort\u003c/b\u003e.blogspot.com/.../christmas-came-early-to-\u003cb\u003efrench\u003c/b\u003e-\u003cb\u003elick\u003c/b\u003e.html",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://4.bp.blogspot.com/_V30x0jepBlg/Sx7PJIlvtnI/AAAAAAAAAJ8/RDTmigiu5tY/s200/_C0R5626_lr.jpg",
+      "type": "1",
+      "width": "160",
+      "height": "107"
+     }
+    ],
+    "metatags": [
+     {
+      "viewport": "width=1100"
+     }
+    ],
+    "blogposting": [
+     {
+      "name": "Christmas Came Early to French Lick Casino Guests",
+      "articlebody": "‘Tis the season to win big at French Lick Resort! Lady Luck definitely made her appearance known when five of the casino’s top jackpots were hit in one week. Two lucky players are $100,000...",
+      "author": "Dyan Duncan",
+      "url": "4:57 PM",
+      "datepublished": "4:57 PM"
+     }
+    ]
+   }
+  }
+ ]
+}

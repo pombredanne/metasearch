@@ -1,0 +1,272 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "nextPage": [
+   {
+    "title": "Google Custom Search - map",
+    "totalResults": "610000000",
+    "searchTerms": "map",
+    "count": 10,
+    "startIndex": 101,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "017401104989814545383:mf4lavmtuva"
+   }
+  ],
+  "request": [
+   {
+    "title": "Google Custom Search - map",
+    "totalResults": "610000000",
+    "searchTerms": "map",
+    "count": 10,
+    "startIndex": 91,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "017401104989814545383:mf4lavmtuva"
+   }
+  ],
+  "previousPage": [
+   {
+    "title": "Google Custom Search - map",
+    "totalResults": "610000000",
+    "searchTerms": "map",
+    "count": 10,
+    "startIndex": 81,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "017401104989814545383:mf4lavmtuva"
+   }
+  ]
+ },
+ "context": {
+  "title": "College MetaSearch Comparison"
+ },
+ "searchInformation": {
+  "searchTime": 0.169642,
+  "formattedSearchTime": "0.17",
+  "totalResults": "610000000",
+  "formattedTotalResults": "610,000,000"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "mta.info | Subway Map",
+   "htmlTitle": "mta.info | Subway \u003cb\u003eMap\u003c/b\u003e",
+   "link": "http://www.mta.info/nyct/maps/submap.htm",
+   "displayLink": "www.mta.info",
+   "snippet": "Subway Map. As of May 2012. Click on any station below to link to information   about the lines serving it. This map is also available in PDF format for Adobe ...",
+   "htmlSnippet": "Subway \u003cb\u003eMap\u003c/b\u003e. As of May 2012. Click on any station below to link to information \u003cbr\u003e  about the lines serving it. This \u003cb\u003emap\u003c/b\u003e is also available in PDF format for Adobe \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "S3B0PjaYowkJ",
+   "formattedUrl": "www.mta.info/nyct/maps/submap.htm",
+   "htmlFormattedUrl": "www.mta.info/nyct/\u003cb\u003emaps\u003c/b\u003e/sub\u003cb\u003emap\u003c/b\u003e.htm",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.mta.info/nyct/maps/sub_May12top.gif",
+      "type": "1",
+      "width": "279",
+      "height": "181"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Court Locator",
+   "htmlTitle": "Court Locator",
+   "link": "http://www.uscourts.gov/Court_Locator.aspx",
+   "displayLink": "www.uscourts.gov",
+   "snippet": "To find a court location, click a state in the map below or use advanced search.   Click here (pdf) for a printable circuit/district map. Contact Us | Careers | Privacy ...",
+   "htmlSnippet": "To find a court location, click a state in the \u003cb\u003emap\u003c/b\u003e below or use advanced search. \u003cbr\u003e  Click here (pdf) for a printable circuit/district \u003cb\u003emap\u003c/b\u003e. Contact Us | Careers | Privacy \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "ubhXAkfCQ9EJ",
+   "formattedUrl": "www.uscourts.gov/Court_Locator.aspx",
+   "htmlFormattedUrl": "www.uscourts.gov/Court_Locator.aspx"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "UNEP / MAP - United Nations Environment Programme ...",
+   "htmlTitle": "UNEP / \u003cb\u003eMAP\u003c/b\u003e - United Nations Environment Programme \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://www.unepmap.org/",
+   "displayLink": "www.unepmap.org",
+   "snippet": "New Cooperation Between UNEP/MAP and the General Fisheries Commission   for the Mediterranean (GFCM) The two organizations have just concluded the ...",
+   "htmlSnippet": "New Cooperation Between UNEP/\u003cb\u003eMAP\u003c/b\u003e and the General Fisheries Commission \u003cbr\u003e  for the Mediterranean (GFCM) The two organizations have just concluded the \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "gaxBWbY3howJ",
+   "formattedUrl": "www.unepmap.org/",
+   "htmlFormattedUrl": "www.unep\u003cb\u003emap\u003c/b\u003e.org/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.unepmap.org/random/random.php",
+      "type": "1",
+      "width": "370",
+      "height": "136"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Google Maps API for Business – Google Earth and Maps Enterprise",
+   "htmlTitle": "Google \u003cb\u003eMaps\u003c/b\u003e API for Business – Google Earth and \u003cb\u003eMaps\u003c/b\u003e Enterprise",
+   "link": "http://www.google.com/enterprise/maps/",
+   "displayLink": "www.google.com",
+   "snippet": "Adopt Google Maps API for Business into your software or website to visualize   location based data or engage your customers with embedded interactive maps.",
+   "htmlSnippet": "Adopt Google \u003cb\u003eMaps\u003c/b\u003e API for Business into your software or website to visualize \u003cbr\u003e  location based data or engage your customers with embedded interactive \u003cb\u003emaps\u003c/b\u003e.",
+   "cacheId": "VS3-g-DFsRcJ",
+   "formattedUrl": "www.google.com/enterprise/maps/",
+   "htmlFormattedUrl": "www.google.com/enterprise/\u003cb\u003emaps\u003c/b\u003e/"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "China Maps - Perry-Castañeda Map Collection - UT Library Online",
+   "htmlTitle": "China \u003cb\u003eMaps\u003c/b\u003e - Perry-Castañeda \u003cb\u003eMap\u003c/b\u003e Collection - UT Library Online",
+   "link": "http://www.lib.utexas.edu/maps/china.html",
+   "displayLink": "www.lib.utexas.edu",
+   "snippet": "Country, city and thematic maps from the Perry-Castañeda Library Map   Collection, along with links to maps on other web sites.",
+   "htmlSnippet": "Country, city and thematic \u003cb\u003emaps\u003c/b\u003e from the Perry-Castañeda Library \u003cb\u003eMap\u003c/b\u003e \u003cbr\u003e  Collection, along with links to \u003cb\u003emaps\u003c/b\u003e on other web sites.",
+   "cacheId": "1xo7HbQFCqEJ",
+   "formattedUrl": "www.lib.utexas.edu/maps/china.html",
+   "htmlFormattedUrl": "www.lib.utexas.edu/\u003cb\u003emaps\u003c/b\u003e/china.html",
+   "pagemap": {
+    "metatags": [
+     {
+      "maintainer": "Paul Rascoe\u003e \u003cmeta name="
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Mapping Stereotypes | Alphadesigner",
+   "htmlTitle": "\u003cb\u003eMapping\u003c/b\u003e Stereotypes | Alphadesigner",
+   "link": "http://alphadesigner.com/mapping-stereotypes/",
+   "displayLink": "alphadesigner.com",
+   "snippet": "Satirical cartography project by visual artist, graphic designer and illustrator   Yanko Tsvetkov.",
+   "htmlSnippet": "Satirical cartography project by visual artist, graphic designer and illustrator \u003cbr\u003e  Yanko Tsvetkov.",
+   "cacheId": "asZZd-p9170J",
+   "formattedUrl": "alphadesigner.com/mapping-stereotypes/",
+   "htmlFormattedUrl": "alphadesigner.com/\u003cb\u003emapping\u003c/b\u003e-stereotypes/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://alphadesigner.com/wp-content/uploads/artwork-mapping-stereotypes-calendar-single-02.jpg",
+      "type": "1",
+      "width": "253",
+      "height": "199"
+     }
+    ],
+    "metatags": [
+     {
+      "viewport": "width=device-width",
+      "twitter:card": "summary",
+      "twitter:site": "@alphadesigner",
+      "twitter:creator": "@alphadesigner",
+      "twitter:title": "Mapping Stereotypes | Alphadesigner",
+      "twitter:description": "Satirical cartography project by visual artist, graphic designer and illustrator Yanko Tsvetkov.",
+      "twitter:url": "http://alphadesigner.com/mapping-stereotypes/",
+      "twitter:image": "http://alphadesigner.com/wp-content/uploads/project-thumb-mapping-stereotypes.jpg",
+      "http://ogp.me/ns#locale": "en_US",
+      "http://ogp.me/ns#site_name": "Alphadesigner",
+      "http://ogp.me/ns#type": "article",
+      "http://ogp.me/ns#title": "Mapping Stereotypes",
+      "http://ogp.me/ns#url": "http://alphadesigner.com/mapping-stereotypes/",
+      "http://ogp.me/ns/fb#app_id": "115389305203394"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Mapping L.A. - Los Angeles Times",
+   "htmlTitle": "\u003cb\u003eMapping\u003c/b\u003e L.A. - Los Angeles Times",
+   "link": "http://projects.latimes.com/mapping-la/neighborhoods/",
+   "displayLink": "projects.latimes.com",
+   "snippet": "Mapping L.A. is the Los Angeles Times' resource for maps, boundaries,   demographics, schools and news in Los Angeles County.",
+   "htmlSnippet": "\u003cb\u003eMapping\u003c/b\u003e L.A. is the Los Angeles Times&#39; resource for \u003cb\u003emaps\u003c/b\u003e, boundaries, \u003cbr\u003e  demographics, schools and news in Los Angeles County.",
+   "cacheId": "OuCE5uDRmucJ",
+   "formattedUrl": "projects.latimes.com/mapping-la/neighborhoods/",
+   "htmlFormattedUrl": "projects.latimes.com/\u003cb\u003emapping\u003c/b\u003e-la/neighborhoods/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.latimes.com/includes/projects/img/mapping_la/mappingLA_75px.jpg",
+      "type": "1",
+      "width": "71",
+      "height": "71"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "HealthMap | Global Health, Local Knowledge",
+   "htmlTitle": "HealthMap | Global Health, Local Knowledge",
+   "link": "http://www.healthmap.org/",
+   "displayLink": "www.healthmap.org",
+   "snippet": "Tracking map of the latest alerts around the world and in the U.S..",
+   "htmlSnippet": "Tracking \u003cb\u003emap\u003c/b\u003e of the latest alerts around the world and in the U.S..",
+   "cacheId": "brUJ9qc3cEgJ",
+   "formattedUrl": "www.healthmap.org/",
+   "htmlFormattedUrl": "www.health\u003cb\u003emap\u003c/b\u003e.org/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.healthmap.org/images/v3/flunearyou_hm.png",
+      "type": "1",
+      "width": "96",
+      "height": "72"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Wind Map",
+   "htmlTitle": "Wind \u003cb\u003eMap\u003c/b\u003e",
+   "link": "http://hint.fm/wind/",
+   "displayLink": "hint.fm",
+   "snippet": "An invisible, ancient source of energy surrounds us—energy that powered the   first explorations of the world, and that may be a key to the future. This map   shows ...",
+   "htmlSnippet": "An invisible, ancient source of energy surrounds us—energy that powered the \u003cbr\u003e  first explorations of the world, and that may be a key to the future. This \u003cb\u003emap\u003c/b\u003e \u003cbr\u003e  shows \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "4SF878ULEjAJ",
+   "formattedUrl": "hint.fm/wind/",
+   "htmlFormattedUrl": "hint.fm/wind/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://hint.fm/wind/us-mask-white.png",
+      "type": "1",
+      "width": "275",
+      "height": "183"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Afghanistan Maps - Perry-Castañeda Map Collection - UT Library ...",
+   "htmlTitle": "Afghanistan \u003cb\u003eMaps\u003c/b\u003e - Perry-Castañeda \u003cb\u003eMap\u003c/b\u003e Collection - UT Library \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://www.lib.utexas.edu/maps/afghanistan.html",
+   "displayLink": "www.lib.utexas.edu",
+   "snippet": "Country, city and thematic maps, along with links to maps on other web sites.   From the Perry-Castañeda Library Map Collection at the University of Texas.",
+   "htmlSnippet": "Country, city and thematic \u003cb\u003emaps\u003c/b\u003e, along with links to \u003cb\u003emaps\u003c/b\u003e on other web sites. \u003cbr\u003e  From the Perry-Castañeda Library \u003cb\u003eMap\u003c/b\u003e Collection at the University of Texas.",
+   "cacheId": "NL-kj-bnSngJ",
+   "formattedUrl": "www.lib.utexas.edu/maps/afghanistan.html",
+   "htmlFormattedUrl": "www.lib.utexas.edu/\u003cb\u003emaps\u003c/b\u003e/afghanistan.html",
+   "pagemap": {
+    "metatags": [
+     {
+      "maintainer": "Paul Rascoe",
+      "package": "maps"
+     }
+    ]
+   }
+  }
+ ]
+}
